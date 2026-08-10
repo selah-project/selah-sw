@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 47,
+  "translation": "Watu wote, pigeni makofi; pigeni kelele kwa Elohim kwa sauti ya mwoyo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "pigeni"
+    },
+    {
+      "surface": "כף",
+      "gloss": "makofi"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "pigeni kelele"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kwa sauti ya"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "mwoyo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:57.962877433Z",
+  "model": "glm-5.2"
+}

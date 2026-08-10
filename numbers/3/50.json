@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "⟨מאת⟩ mwanzilishi wa wana wa Yisra'el alichukua ⟨את⟩ fedha — tano na sitini na mia tatu na elfu, kwa shekeli ⟨ya⟩ patakatifu.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨מאת⟩",
+      "marks": "mwanzilishi"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "mwanzilishi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "alichukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fedha"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "tano"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "na sitini"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na tatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "na elfu"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "kwa shekeli"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "patakatifu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:17.853074984Z",
+  "model": "glm-5.2"
+}

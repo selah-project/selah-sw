@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Na Elohim akamwambia Avraham: Sarai mkeo — usimwite jina lake Sarai, maana Sarai ndilo jina lake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akamwambia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "mkeo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usimwite"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "⟨negative merged above⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina lake"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "jina lake"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ndilo jina lake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:05:45.643193525Z",
+  "model": "glm-5.2"
+}

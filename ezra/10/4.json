@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "«Ondoka, kwa maana juu yako ⟨umewekwa⟩ jambo, nasi tuko pamoja nawe; jizoeshe na utende!»",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Ondoka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "juu yako"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "nasi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tuko pamoja nawe"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "jizoeshe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na utende"
+    }
+  ],
+  "timestamp": "2026-08-10T13:58:50.985474919Z",
+  "model": "glm-5.2"
+}

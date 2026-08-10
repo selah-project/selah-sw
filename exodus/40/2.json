@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Siku ya kwanza ya mwezi wa kwanza, tarehe moja ya mwezi, utaweka ⟨את⟩ maskani ya hema ya mkutano.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mwezi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "wa kwanza"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "tarehe moja"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya mwezi"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "utaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maskani"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "maskani"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:33.553696529Z",
+  "model": "glm-5.2"
+}

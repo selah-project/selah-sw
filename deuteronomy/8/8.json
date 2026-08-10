@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "nchi ya ngano na shayiri, na mzabibu na mtini na rimoni; nchi ya mizeituni wa mafuta na asali.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ya ngano"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "na shayiri"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "na mzabibu"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "na mtini"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "na rimoni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ya mzeituni"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "wa mafuta"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "na asali"
+    }
+  ],
+  "timestamp": "2026-08-10T10:56:22.476630473Z",
+  "model": "glm-5.2"
+}

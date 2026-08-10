@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Baasha alilala na baba zake, akazikwa Tirzah, na Elah mwana wake akatawala mahali pake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "akalala"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baba zake"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "akazikwa"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tirzah"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akatawala"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mahali pake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:42:41.217514528Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Na nitavunja mbele zake wazinzi wake, na wanaomchukia nitawapiga.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "Na nitavunja"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "mbele zake"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "wazinzi wake"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "na wanaomchukia"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "nitawapiga"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:41.994430026Z",
+  "model": "glm-5.2"
+}

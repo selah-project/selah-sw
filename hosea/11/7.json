@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 11:7",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na watu wangu wamesimama kwa kutia shaka kwa kugeuka kwangu, na kwa Yü ∋Ali wamtaita ⟨hakuna mmoja⟩ atakayemwinua.",
+  "tokens": [
+    {
+      "surface": "ועמי",
+      "gloss": "Na watu wangu"
+    },
+    {
+      "surface": "תלואים",
+      "gloss": "wamesimama kwa kutia shaka"
+    },
+    {
+      "surface": "למשובתי",
+      "gloss": "kwa kugeuka kwangu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "Yü ∋Ali"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "wamtaita"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "⟨hakuna mmoja⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "ירומם",
+      "gloss": "atakayemwinua"
+    }
+  ],
+  "timestamp": "2026-08-10T16:15:00.979874080Z",
+  "model": "glm-5.2"
+}

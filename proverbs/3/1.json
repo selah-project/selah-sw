@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Mwanangu, mafundisho yangu usiyasahau, na amri zaziweke moyoni mwako.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwanangu"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "mafundisho yangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "yasahau"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "na amri zangu"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ziweke"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "moyoni mwako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:22:07.837567552Z",
+  "model": "glm-5.2"
+}

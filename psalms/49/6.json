@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Kwa nini niogope katika siku za shari, uovu wa visigino vyangu vitazunguka nilazimika?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "kwa nini"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "niogope"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "katika siku za"
+    },
+    {
+      "surface": "רע",
+      "gloss": "shari"
+    },
+    {
+      "surface": "עון",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "wa visigino vyangu"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "vitazunguka nilazimika"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:10.212999267Z",
+  "model": "glm-5.2"
+}

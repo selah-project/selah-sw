@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 140,
+  "translation": "Nimesema kwa Yahweh, Wewe ⟨ndiwe⟩ El yangu, Sikiliza Yahweh sauti ya maombi yangu.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Nimesema"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El yangu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wewe"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Sikiliza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ya maombi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:15.134683853Z",
+  "model": "glm-5.2"
+}

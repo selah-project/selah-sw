@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Nao wataingia huko, watatoa ⟨את⟩ vitu vyake vichukizani vyote na ⟨את⟩ machukizo yake yote kutoka humo.",
+  "tokens": [
+    {
+      "surface": "וּבָ֖אוּ",
+      "gloss": "nao wataingia"
+    },
+    {
+      "surface": "שָׁ֑מָּה",
+      "gloss": "huko"
+    },
+    {
+      "surface": "וְהֵסִ֜ירוּ",
+      "gloss": "watatoa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "vitu vichukizani vyote"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "שִׁקּוּצֶ֛יהָ",
+      "gloss": "vitu vichukizani"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "machukizo yote"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "תּוֹעֲבוֹתֶ֖יהָ",
+      "gloss": "machukizo"
+    },
+    {
+      "surface": "מִמֶּֽנָּה",
+      "gloss": "kutoka humo"
+    }
+  ],
+  "timestamp": "2026-08-10T12:28:50.439266180Z",
+  "model": "glm-5.2"
+}

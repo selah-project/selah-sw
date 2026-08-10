@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 15:5",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Na divai ya kumimina, robo ya hini, utatengeneza pamoja na ⟨את⟩ sadaka ya kuchomwa au kwa ⟨את⟩ sadaka ya kuchinjwa, kwa kondoo mmoja.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "Na divai"
+    },
+    {
+      "surface": "לנסך",
+      "gloss": "ya kumimina"
+    },
+    {
+      "surface": "רביעית",
+      "gloss": "robo"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "ya hini"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "utatengeneza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sadaka ya kuchomwa"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kwa ⟨sadaka ya kuchinjwa⟩"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "kwa kondoo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mmoja"
+    }
+  ],
+  "timestamp": "2026-08-10T10:45:58.559071916Z",
+  "model": "glm-5.2"
+}

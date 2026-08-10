@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Wakawakusanya Wapelishti ⟨את⟩ vikosi vyote kwenda Apeka, naye Yisra'eli alipiga kambi kwenye chemchem ambayo ⟨ipo⟩ Yizre'eli.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Wakawakusanya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Wapelishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vikosi vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "vikosi"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "kwenda Apeka"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "naye Yisra'eli"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "alipiga kambi"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "kwenye chemchem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "ipo Yizre'eli"
+    }
+  ],
+  "timestamp": "2026-08-10T14:54:55.524052634Z",
+  "model": "glm-5.2"
+}

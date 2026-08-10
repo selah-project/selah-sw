@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 73,
+  "translation": "Katika taabu ya wanadamu hawamo, na pamoja na binadamu hawagusiwi.",
+  "tokens": [
+    {
+      "surface": "בַּעֲמַ֣ל",
+      "gloss": "katika taabu ya"
+    },
+    {
+      "surface": "אֱנ֣וֹשׁ",
+      "gloss": "wanadamu"
+    },
+    {
+      "surface": "אֵינֵ֑מוֹ",
+      "gloss": "hawamo"
+    },
+    {
+      "surface": "וְעִם",
+      "gloss": "na pamoja na"
+    },
+    {
+      "surface": "אָ֝דָ֗ם",
+      "gloss": "binadamu"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "huma"
+    },
+    {
+      "surface": "יְנֻגָּֽעוּ",
+      "gloss": "hawagusiwi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:00.697566302Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na Yahweh Elohim wako atatakatiri ⟨את⟩ moyo wako na ⟨את⟩ moyo wa mzao wako, kupenda ⟨את⟩ Yahweh Elohim wako kwa moyo wako wote na kwa nafsi yako yote, kwa ajili ya uhai wako.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "na-atatakatiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wako"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "moyo wa mzao wako"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "moyo wa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mzao wako"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "kupenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim wako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa wote"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na kwa wote"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nafsi yako"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "uhai wako"
+    }
+  ],
+  "timestamp": "2026-08-10T11:02:55.246522503Z",
+  "model": "glm-5.2"
+}

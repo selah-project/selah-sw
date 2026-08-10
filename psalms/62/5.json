@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 62,
+  "translation": "Hakika kwa kumwinua ⟨yeye⟩ walishauriana, ili kumfukuza; wanapenda uongo; kwa kinywa chake wanambariki, na moyoni mwao wanamlaani. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "kwa kumwinua"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "walishauriana"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "ili kumfukuza"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "wanapenda"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "uongo"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "kwa kinywa chake"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "wanambariki"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "na moyoni mwao"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "wanamlaani"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:13.474529645Z",
+  "model": "glm-5.2"
+}

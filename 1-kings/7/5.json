@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na milango yote na nguzo za mlango zilikuwa pembenne, ⟨zenye⟩ dirisha; na kinyume cha dirisha dhidi ya dirisha mara tatu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na yote"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "milango"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "na nguzo za mlango"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "pembenne"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "⟨zenye⟩ dirisha"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "na kinyume cha"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "dirisha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhidi ya"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "dirisha"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mara"
+    }
+  ],
+  "timestamp": "2026-08-10T11:39:35.280190403Z",
+  "model": "glm-5.2"
+}

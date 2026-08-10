@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 145,
+  "translation": "Yahweh huwawekea tegemezi wote wanaoanguka, na huwainua wote wanaopinda.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "huwawekea tegemezi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "wanaoanguka"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "na huwainua"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "wanaopinda"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:19.881660410Z",
+  "model": "glm-5.2"
+}

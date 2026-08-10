@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 45:15",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "akabusu kila mmoja wa ndugu zake, akaalia juu yao; na baada ya hayo ndugu zake wakaongea ⟨pamoja na⟩ yeye.",
+  "tokens": [
+    {
+      "surface": "וינשק",
+      "gloss": "akabusu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kila mmoja wa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "akaalia"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "juu yao"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "na baada ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hayo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "wakaongea"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨pamoja na⟩ yeye",
+      "marks": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T10:15:50.168250119Z",
+  "model": "glm-5.2"
+}

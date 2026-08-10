@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Wewe umemsagana Rahab kama maiti; kwa mkono wa nguvu zako umewatawanya adui zako.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "umemsagana"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "kama maiti"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "kwa mkono wa"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "nguvu zako"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "umewatawanya"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "adui zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:10.567569106Z",
+  "model": "glm-5.2"
+}

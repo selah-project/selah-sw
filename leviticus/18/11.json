@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 18:11",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Ua wa binti wa mke wa baba yako, aliyekuzaliwa na baba yako, ⟨yeye⟩ ni dada yako; usifunue ua wake.",
+  "tokens": [
+    {
+      "surface": "עֶרְוַ֨ת",
+      "gloss": "Ua wa"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "binti wa"
+    },
+    {
+      "surface": "אֵ֤שֶׁת",
+      "gloss": "mke wa"
+    },
+    {
+      "surface": "אָבִ֨יךָ֙",
+      "gloss": "baba yako"
+    },
+    {
+      "surface": "מוֹלֶ֣דֶת",
+      "gloss": "aliyekuzaliwa"
+    },
+    {
+      "surface": "אָבִ֔יךָ",
+      "gloss": "na baba yako"
+    },
+    {
+      "surface": "אֲחוֹתְךָ֖",
+      "gloss": "dada yako"
+    },
+    {
+      "surface": "הִ֑וא",
+      "gloss": "⟨yeye⟩"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "si"
+    },
+    {
+      "surface": "תְגַלֶּ֖ה",
+      "gloss": "ufunue"
+    },
+    {
+      "surface": "עֶרְוָתָֽהּ",
+      "gloss": "ua wake"
+    }
+  ],
+  "timestamp": "2026-08-10T17:42:47.986590028Z",
+  "model": "glm-5.2"
+}

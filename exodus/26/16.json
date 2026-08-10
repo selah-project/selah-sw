@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Kumi amah ⟨ni⟩ urefu wa bao, na amoja na nusu ⟨ya⟩ amoja ⟨ni⟩ upana wa bao moja.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amah"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "urefu"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "wa bao"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na amoja"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na nusu"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ya amoja"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "upana"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "wa bao"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moja"
+    }
+  ],
+  "timestamp": "2026-08-10T10:25:47.168995878Z",
+  "model": "glm-5.2"
+}

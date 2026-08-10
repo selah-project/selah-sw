@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "akaweka ⟨את⟩ mikono yake juu yake, na kumtuma kama alivyonena Yahweh kwa mkono wa Moshe.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "akaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikono yake"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "mikono yake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "na kumtuma"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama alivyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nenas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwa mkono wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:49:43.789845151Z",
+  "model": "glm-5.2"
+}

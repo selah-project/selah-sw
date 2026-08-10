@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 48,
+  "translation": "Na Yosef akawatoa ⟨את⟩ from miongoni mwa magoti yake, akajinamisha kwa uso wake hadi nchi.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Na akawatoa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "miongoni mwa"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "magoti yake"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akajinamisha"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "kwa uso wake"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hadi nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:15:54.237475337Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Maadui wangu wanasema maovu ⟨dhidi⟩ yangu: Lini atakapofa na jina lake kupotea?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Maadui wangu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "wanasema"
+    },
+    {
+      "surface": "רע",
+      "gloss": "maovu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨dhidi⟩ yangu"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Lini"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "atakapofa"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "na ... kupotea"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:09.488449895Z",
+  "model": "glm-5.2"
+}

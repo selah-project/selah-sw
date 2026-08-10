@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Niokoe kutoka mdomo wa simba, na kutoka pembe za nyati-mwitu ⟨umelitia⟩.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Niokoe"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "kutoka mdomo wa"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "simba"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "na kutoka pembe za"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "nyati-mwitu"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "⟨umelitia⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:49.591849225Z",
+  "model": "glm-5.2"
+}

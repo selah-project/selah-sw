@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 16:16",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Ukaichukua baadhi ya nguo zako, ukajitengenezea mahali pa juu palipopambwa kwa rangi tofauti, ukazini juu yake. Mambo kama hayo hayakutendeka, wala hayatakuwako.",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "ukaichukua"
+    },
+    {
+      "surface": "מבגדיך",
+      "gloss": "baadhi ya nguo zako"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "ukajitengenezea"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kwa ajili yako⟩"
+    },
+    {
+      "surface": "במות",
+      "gloss": "mahali pa juu"
+    },
+    {
+      "surface": "טלאות",
+      "gloss": "palipopambwa kwa rangi tofauti"
+    },
+    {
+      "surface": "ותזני",
+      "gloss": "ukazini"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayakutendeka"
+    },
+    {
+      "surface": "באות",
+      "gloss": "⟨zilipokuja⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "haitakuwako"
+    }
+  ],
+  "timestamp": "2026-08-10T16:12:59.378767158Z",
+  "model": "glm-5.2"
+}

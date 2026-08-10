@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Kwa kweli mtumishi wako atavuka ⟨את⟩ Yardeni pamoja na ⟨את⟩ mfalme, na kwanini mfalme anilipe kwa malipo kama haya?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "kwa kweli"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "atavuka"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mtumishi wako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfalme"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "na kwanini"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "anilipe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "kwa malipo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kama haya"
+    }
+  ],
+  "timestamp": "2026-08-10T11:34:28.497614790Z",
+  "model": "glm-5.2"
+}

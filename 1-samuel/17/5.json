@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 17:5",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Na kofia ya shaba ⟨likuwa⟩ juu ya kichwa chake, na siri ya nguo ya mizani ndiyo aliyovaa, na uzito wa siri hiyo ⟨ulikuwa⟩ shekeli elfu tano za shaba.",
+  "tokens": [
+    {
+      "surface": "וכובע",
+      "gloss": "na kofia"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ya shaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kichwa chake"
+    },
+    {
+      "surface": "ושריון",
+      "gloss": "na siri ya nguo"
+    },
+    {
+      "surface": "קשקשים",
+      "gloss": "ya mizani"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "aliyovaa"
+    },
+    {
+      "surface": "ומשקל",
+      "gloss": "na uzito"
+    },
+    {
+      "surface": "השריון",
+      "gloss": "wa siri hiyo"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "tano"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "shekeli"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "za shaba"
+    }
+  ],
+  "timestamp": "2026-08-10T11:23:29.215959534Z",
+  "model": "glm-5.2"
+}

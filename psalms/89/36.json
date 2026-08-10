@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Mara moja nimeapa katika utakatifu wangu: ⟨hakika⟩ simtendei David uongo.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "mara moja"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nimeapa"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "katika utakatifu wangu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨hakika⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "simtendeai uongo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:13.039681460Z",
+  "model": "glm-5.2"
+}

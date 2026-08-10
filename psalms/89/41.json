@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 89:41",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Umevunja ua zote zake, umeweka ngome zake kuwa magome.",
+  "tokens": [
+    {
+      "surface": "פָּרַ֥צְתָּ",
+      "gloss": "Umevunja"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "גְּדֵרֹתָ֑יו",
+      "gloss": "ua zake"
+    },
+    {
+      "surface": "שַׂ֖מְתָּ",
+      "gloss": "umeweka"
+    },
+    {
+      "surface": "מִבְצָרָ֣יו",
+      "gloss": "ngome zake"
+    },
+    {
+      "surface": "מְחִתָּה",
+      "gloss": "kuwa magome"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:07.594486555Z",
+  "model": "glm-5.2"
+}

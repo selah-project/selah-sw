@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Na Yishmaeli mwana wake ⟨aliye⟩ mtu wa miaka kumi na tatu alipotahiriwa ⟨את⟩ mwili wa tohara yake.",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "Na Yishmaeli"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mtu wa"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kumi na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "alipotahiriwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwili"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mwili"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "wa tohara yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:23:35.172754520Z",
+  "model": "glm-5.2"
+}

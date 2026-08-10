@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 63,
+  "translation": "Na hao, kwa maangamizo wanalitafuta nafsi yangu; wataingia katika sehemu za chini za ⟨nchi⟩.",
+  "tokens": [
+    {
+      "surface": "וְהֵ֗מָּה",
+      "gloss": "Na hao"
+    },
+    {
+      "surface": "לְשׁוֹאָה",
+      "gloss": "kwa maangamizo"
+    },
+    {
+      "surface": "יְבַקְשׁ֣וּ",
+      "gloss": "wanalitafuta"
+    },
+    {
+      "surface": "נַפְשִׁ֑י",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "יָ֝בֹ֗אוּ",
+      "gloss": "wataingia"
+    },
+    {
+      "surface": "בְּֽתַחְתִּיּ֥וֹת",
+      "gloss": "katika sehemu za chini za"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "ardhi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:56.146806011Z",
+  "model": "glm-5.2"
+}

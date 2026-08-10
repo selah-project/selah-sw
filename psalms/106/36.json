@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Wakaabudu ⟨את⟩ sanamu zao, nazo zikawa kwao mtego.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "wakaabudu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanamu zao"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "sanamu zao"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "nazo zikawa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "mtego"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:18.703380064Z",
+  "model": "glm-5.2"
+}

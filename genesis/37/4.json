@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Na ndugu zake walipoona ya kuwa baba yao alimpenda ⟨yeye⟩ zaidi kuliko ndugu zake wote, wakamchukia ⟨yeye⟩; wala hawakuweza kumsema kwa amani.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "na walipoona"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kuwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨yeye⟩",
+      "marks": "alimpenda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "alimpenda"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "baba yao"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "zaidi kuliko"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake wote"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "wakamchukia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨yeye⟩",
+      "marks": "kumchukia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hawakuweza"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kuweza"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kumsema"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "kwa amani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:12:47.056317286Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "na theluthi ⟨iwe⟩ kwenye lango la Sur, na theluthi kwenye lango nyuma ya wakimbiaji; nanyi mtalinda ⟨את⟩ ulinzi wa nyumba, kuwa kizuizi.",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "na theluthi"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kwenye lango"
+    },
+    {
+      "surface": "סור",
+      "gloss": "Sur"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "na theluthi"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kwenye lango"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nyuma"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "wakimbiaji"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "nanyi mtalinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulinzi"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ulinzi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wa nyumba"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "kuwa kizuizi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:48:54.422677884Z",
+  "model": "glm-5.2"
+}

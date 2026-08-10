@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na Shallum alimzaa ⟨את⟩ Yekamia, na Yekamia alimzaa ⟨את⟩ Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "na Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekamia"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yekamia"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "na Yekamia"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    }
+  ],
+  "timestamp": "2026-08-10T15:42:06.562533499Z",
+  "model": "glm-5.2"
+}

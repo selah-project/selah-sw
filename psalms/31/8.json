@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Nitafurahi na kushangilia katika chesed yako, uliyoiona ⟨את⟩ dhiki yangu; umeyajua magumu ya nafsi yangu.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Nitafurahi"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "na kushangilia"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "katika chesed yako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uliyoi"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiki yangu"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "dhiki yangu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "umeyajua"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "magumu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ya nafsi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:27.264524768Z",
+  "model": "glm-5.2"
+}

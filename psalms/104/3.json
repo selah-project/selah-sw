@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "⟨Yeye⟩ anayetandaza vigomba vya madaraja yake juu ya maji, anayefanya mawingu gari lake, ⟨yeye⟩ anayetembea juu ya mabawa ya upepo.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "anayetandaza vigomba"
+    },
+    {
+      "surface": "במים",
+      "gloss": "juu ya maji"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "vya madaraja yake"
+    },
+    {
+      "surface": "השם",
+      "gloss": "anayefanya"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "mawingu"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "gari lake"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "anayetembea"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mabawa ya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "upepo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:07.457821319Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Lugha ya kuponya ni mti wa uhai, na uovu ndani yake ni kivunja cha roho.",
+  "tokens": [
+    {
+      "surface": "מַרְפֵּ֣א",
+      "gloss": "ya kuponya"
+    },
+    {
+      "surface": "לָ֭שׁוֹן",
+      "gloss": "lugha"
+    },
+    {
+      "surface": "עֵ֥ץ",
+      "gloss": "mti"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "wa uhai"
+    },
+    {
+      "surface": "וְסֶ֥לֶף",
+      "gloss": "na uovu"
+    },
+    {
+      "surface": "בָּ֝֗הּ",
+      "gloss": "ndani yake"
+    },
+    {
+      "surface": "שֶׁ֣בֶר",
+      "gloss": "kivunja"
+    },
+    {
+      "surface": "בְּרֽוּחַ",
+      "gloss": "cha roho"
+    }
+  ],
+  "timestamp": "2026-08-10T13:26:00.420718872Z",
+  "model": "glm-5.2"
+}

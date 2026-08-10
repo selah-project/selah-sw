@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "₪. Mizigo ya neno la Yahweh kwa Yisrael kwa mkono wa Malaki.",
+  "tokens": [
+    {
+      "surface": "מַשָּׂ֥א",
+      "gloss": "mzigo"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "ya neno"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בְּיַ֖ד",
+      "gloss": "kwa mkono"
+    },
+    {
+      "surface": "מַלְאָכִֽי",
+      "gloss": "wa Malaki"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:08.480852264Z",
+  "model": "glm-5.2"
+}

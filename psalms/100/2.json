@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 100,
+  "translation": "Mtumikieni ⟨את⟩ Yahweh kwa shangwe; mwingie mbele za uso wake kwa wimbo.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "mtumikieni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "kwa shangwe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "mwingie"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbele za uso wake"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "kwa wimbo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:04.271949512Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 70,
+  "translation": "Kwa mwimbaji kuongoza. ⟨Ni⟩ wa David. Kwa ajili ya kukumbusha.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwimbaji kuongoza"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨Ni⟩ wa David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "Kwa ajili ya kukumbusha"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:36.660601294Z",
+  "model": "glm-5.2"
+}

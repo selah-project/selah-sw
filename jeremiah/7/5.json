@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Kwani ikiwa mlimboresha kabisa ⟨את⟩ nyendo zenu na ⟨את⟩ matendo yenu, ikiwa mnafanya kwa kweli hukumu kati ya mtu na jiraniye;",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Kwani"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "הֵיטֵיב֙",
+      "gloss": "mlimboresha kabisa"
+    },
+    {
+      "surface": "תֵּיטִ֔יבוּ",
+      "gloss": "kabisa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "nyendo zenu"
+    },
+    {
+      "surface": "דַּרְכֵיכֶ֖ם",
+      "gloss": "nyendo zenu"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "matendo yenu"
+    },
+    {
+      "surface": "מַֽעַלְלֵיכֶ֑ם",
+      "gloss": "matendo yenu"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "עָשׂ֤וֹ",
+      "gloss": "mnafanya kwa kweli"
+    },
+    {
+      "surface": "תַֽעֲשׂוּ֙",
+      "gloss": "kwa kweli"
+    },
+    {
+      "surface": "מִשְׁפָּ֔ט",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "בֵּ֥ין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "אִ֖ישׁ",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "וּבֵ֥ין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "רֵעֵֽהוּ",
+      "gloss": "jiraniye"
+    }
+  ],
+  "timestamp": "2026-08-10T12:12:02.587451933Z",
+  "model": "glm-5.2"
+}

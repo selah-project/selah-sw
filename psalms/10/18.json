@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Kuhukumu yatima na mnyonge, ⟨ili⟩ asiongeze tena kuogopesha binadamu ⟨aliye⟩ kutoka duniani.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "kuhukumu"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yatima"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "na mnyonge"
+    },
+    {
+      "surface": "בל",
+      "gloss": "si"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "asiongeze"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "kuogopesha"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "binadamu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duniani"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:45.004782204Z",
+  "model": "glm-5.2"
+}

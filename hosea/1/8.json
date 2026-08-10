@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Basi alipomwachisha Lo-Ruchamah, akapata mimba, akazaa mwana.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "alipomwachisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruchamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruchamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "akapata mimba"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akazaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    }
+  ],
+  "timestamp": "2026-08-10T12:41:13.049627418Z",
+  "model": "glm-5.2"
+}

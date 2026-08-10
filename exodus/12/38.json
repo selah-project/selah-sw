@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na pia mkumbo mkuu mseto ukapanda pamoja nao, ⟨pamoja na⟩ kondoo na ng'ombe — mifugo mingi sana.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Na pia"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mkumbo mseto"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ukapanda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ao (wao)"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "kondoo"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "na ng'ombe"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mifugo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mngi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-10T15:51:52.946558989Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Nayo Moshe akamkamilisha ⟨את⟩ hukumu yao mbele za Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Nayo akamkamilisha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukumu yao"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "hukumu yao"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T15:56:01.368137964Z",
+  "model": "glm-5.2"
+}

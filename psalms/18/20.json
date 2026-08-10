@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Akanitoa kwenda ⟨kwenye⟩ nafasi iliyo wazi, akanifungua, maana alipendezesha nami.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "Akanitoa"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "kwenda nafasi iliyo wazi"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "akanifungua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "alipendezesha"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nami"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:13.616645366Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "mfalme wa Shimron-Meron, mmoja; mfalme wa Akshafu, mmoja;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shimron"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Meron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Akshafu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmoja"
+    }
+  ],
+  "timestamp": "2026-08-10T11:08:07.149457746Z",
+  "model": "glm-5.2"
+}

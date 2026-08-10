@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Umegeuza maombolezo yangu kuwa ngoma ⟨kwa ajili yangu⟩; umefungua gunia langu, na kunionyeshea shangwe.",
+  "tokens": [
+    {
+      "surface": "הָפַ֣כְתָּ",
+      "gloss": "Umegeuza"
+    },
+    {
+      "surface": "מִסְפְּדִי֮",
+      "gloss": "maombolezo yangu"
+    },
+    {
+      "surface": "לְמָח֪וֹל",
+      "gloss": "kuwa ngoma"
+    },
+    {
+      "surface": "לִ֥י",
+      "gloss": "⟨kwa ajili yangu⟩"
+    },
+    {
+      "surface": "פִּתַּ֥חְתָּ",
+      "gloss": "umefungua"
+    },
+    {
+      "surface": "שַׂקִּ֑י",
+      "gloss": "gunia langu"
+    },
+    {
+      "surface": "וַֽתְּאַזְּרֵ֥נִי",
+      "gloss": "na kunionyeshea"
+    },
+    {
+      "surface": "שִׂמְחָֽה",
+      "gloss": "shangwe"
+    }
+  ],
+  "timestamp": "2026-08-10T16:16:33.092611361Z",
+  "model": "glm-5.2"
+}

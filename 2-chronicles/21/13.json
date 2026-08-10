@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 21:13",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "na umetembea katika njia ya wafalme wa Yisra'el, na umefanya uzinzi ⟨את⟩ Yehudah na ⟨את⟩ wakaazi wa Yerushalayim, kama uzinzi wa nyumba ya Ahab, na pia ⟨את⟩ ndugu zako, nyumba ya baba yako, walio wema kuliko wewe, umewaua.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "na umetembea"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "katika njia"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ya wafalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "na umefanya uzinzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wakaazi wa Yerushalayim"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wakaazi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "wa Yerushalayim"
+    },
+    {
+      "surface": "כהזנות",
+      "gloss": "kama uzinzi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wa nyumba"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ya Ahab"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndugu zako"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ndugu zako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya baba yako"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "walio wema"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuliko wewe"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "umewaua"
+    }
+  ],
+  "timestamp": "2026-08-10T14:17:01.145747640Z",
+  "model": "glm-5.2"
+}

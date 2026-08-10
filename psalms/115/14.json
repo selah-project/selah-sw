@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 115,
+  "translation": "Yahweh ⟨naaongezea⟩ juu yenu, juu yenu na juu ya watoto wenu.",
+  "tokens": [
+    {
+      "surface": "יֹסֵ֣ף",
+      "gloss": "anaongeza"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עֲלֵיכֶ֑ם",
+      "gloss": "juu yenu"
+    },
+    {
+      "surface": "עֲ֝לֵיכֶ֗ם",
+      "gloss": "juu yenu"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "בְּנֵיכֶֽם",
+      "gloss": "watoto wenu"
+    }
+  ],
+  "timestamp": "2026-08-10T17:54:33.808652662Z",
+  "model": "glm-5.2"
+}

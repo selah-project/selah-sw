@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Na Elohim alipanda juu kutoka juu yake, katika mahali ambapo ⟨alikuwa⟩ ameongea naye.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Na akapanda"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "katika mahali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ameongea"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    }
+  ],
+  "timestamp": "2026-08-10T10:12:08.955594950Z",
+  "model": "glm-5.2"
+}

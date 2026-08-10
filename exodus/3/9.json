@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na sasa, angalia, kilio cha wana wa Yisra'el kimefika kwangu; naam, nimeona ⟨את⟩ udhuluma ambao Wamitsrayim wanawadhulumu ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "angalia"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "kilio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "באה",
+      "gloss": "kimefika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "naam"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nimeona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udhulumu"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "udhulumu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Wamitsrayim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "wanawadhulumu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:09.152006116Z",
+  "model": "glm-5.2"
+}

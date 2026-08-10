@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 34:3",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Na wewe hutatoka katika mkono wake, kwa kuwa utashikwa mara mbili, na katika mkono wake utawekwa; na macho yako yataona ⟨את⟩ macho ya mfalme wa Babeli, na kinywa chake kitaongea na ⟨את⟩ kinywa chako, na Babeli utaingia.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wewe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hutatoka"
+    },
+    {
+      "surface": "תמלט",
+      "gloss": "utatoroka"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "katika mkono wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "kushikwa"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "utashikwa"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "na katika mkono wake"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "utawekwa"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "na macho yako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macho ya mfalme wa Babeli"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "macho"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Babeli"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "yataona"
+    },
+    {
+      "surface": "ופיהו",
+      "gloss": "na kinywa chake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinywa chako"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "kinywa chako"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "kitaongea"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "na Babeli"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "utaingia"
+    }
+  ],
+  "timestamp": "2026-08-10T12:20:22.085793813Z",
+  "model": "glm-5.2"
+}

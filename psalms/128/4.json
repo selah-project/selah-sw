@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 128,
+  "translation": "Tazama, kwa kuwa hivyo atabarikiwa mtu anayemwogopa Yahweh.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hivyo"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "atabarikiwa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "anayemwogopa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:52.777652936Z",
+  "model": "glm-5.2"
+}

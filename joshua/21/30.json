@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na kutoka kabila la Asher: ⟨את⟩ Mishal na ⟨את⟩ mwelekeo wake, ⟨את⟩ Abdon na ⟨את⟩ mwelekeo wake.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Na kutoka kabila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "la Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mwelekeo wake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mwelekeo wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mwelekeo wake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mwelekeo wake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:59:03.172970862Z",
+  "model": "glm-5.2"
+}

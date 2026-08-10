@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 145,
+  "translation": "Wewe unafungua ⟨את⟩ mkono wako, na kumshibisha kila kiumbe hai kwa pendo lako.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "unafungua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wako"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mkono wako"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "na kumshibisha"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kiumbe hai"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "kwa pendo lako"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:36.032534543Z",
+  "model": "glm-5.2"
+}

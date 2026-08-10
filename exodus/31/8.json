@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "na ⟨את⟩ meza na ⟨את⟩ vyombo vyake, na ⟨את⟩ kinara cha kusafisha na ⟨את⟩ vyombo vyake vyote, na ⟨את⟩ madhabahu ya uvugo;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "meza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vyombo vyake"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "vyombo vyake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kinara cha kusafisha"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kinara"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "cha kusafisha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vyombo vyake vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "vyombo vyake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "madhabahu ya uvugo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ya uvugo"
+    }
+  ],
+  "timestamp": "2026-08-10T14:31:32.592562679Z",
+  "model": "glm-5.2"
+}

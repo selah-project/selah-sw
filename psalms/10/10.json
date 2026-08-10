@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Hujipinda chini, huinama, nao wanyonge huanguka chini ya nguvu zake.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "Hujipinda chini"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "huinama"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "nao huanguka"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "chini ya nguvu zake"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "wanyonge"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:58.592075297Z",
+  "model": "glm-5.2"
+}

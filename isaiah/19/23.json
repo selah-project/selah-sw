@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Siku hiyo kutakuwa njia kutoka Mitsrayim kwenda Ashur, na Ashur ataingia Mitsrayim, na Mitsrayim Ashur, na Mitsrayim wataabudu pamoja na ⟨את⟩ Ashur.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ikutakuwa"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "njia"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kutoka Mitsrayim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "kwenda Ashur"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "na ataingia"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "na Mitsrayim"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "na wataabudu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-10T15:05:04.643810383Z",
+  "model": "glm-5.2"
+}

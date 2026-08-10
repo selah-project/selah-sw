@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na Methushelach akawa anaishi miaka mia themanini na saba, akamzaa ⟨את⟩ Lemek.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "na akawa anaishi"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Methushelach"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "saba"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "na themanini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na mia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na akamzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemek"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    }
+  ],
+  "timestamp": "2026-08-10T10:02:04.668946712Z",
+  "model": "glm-5.2"
+}

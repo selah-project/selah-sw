@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 1:4",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Naka wanae walikuwa wakienda na kupiga karamu, nyumbani kwa kila mmoja siku yake; nao waliwatuma na kuwaita dada zao watatu ⟨waje⟩ kula na kunywa pamoja nao.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "Naka walikuwa wakienda"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wanae"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "na kupiga"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "karamu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumbani"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kwa kila mmoja"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "siku yake"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "nao waliwatuma"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "na kuwaita"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "watatu"
+    },
+    {
+      "surface": "אחיתיהם",
+      "gloss": "dada zao"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kula"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "na kunywa"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "pamoja nao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:31:38.625285841Z",
+  "model": "glm-5.2"
+}

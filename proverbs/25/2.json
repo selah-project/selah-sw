@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Utukufu wa Elohim ⟨ni⟩ kuficha jambo, na utukufu wa wafalme ⟨ni⟩ kuchunguza jambo.",
+  "tokens": [
+    {
+      "surface": "כְּבֹ֣ד",
+      "gloss": "utukufu wa"
+    },
+    {
+      "surface": "אֱ֭לֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הַסְתֵּ֣ר",
+      "gloss": "kuficha"
+    },
+    {
+      "surface": "דָּבָ֑ר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "וּכְבֹ֥ד",
+      "gloss": "na utukufu wa"
+    },
+    {
+      "surface": "מְ֝לָכִ֗ים",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "חֲקֹ֣ר",
+      "gloss": "kuchunguza"
+    },
+    {
+      "surface": "דָּבָֽר",
+      "gloss": "jambo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:28:30.824708188Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Na ⟨vijiti⟩ vyake vitaingizwa ⟨את⟩ ⟨katika⟩ pete, na vijiti vitakuwa juu ya pande mbili za madhabahu, unapoibeba ⟨את⟩ ⟨hiyo⟩.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "Na vitaingizwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vijiti vyake"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "vijiti vyake"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "katika pete"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "na vitakuwa"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "vijiti"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "pande za"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "unapoibeba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hiyo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:25:13.539716735Z",
+  "model": "glm-5.2"
+}

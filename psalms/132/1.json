@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 132,
+  "translation": "Wimbo wa hatua. Kumbuka, Yahweh, kwa ajili ya David, ⟨את⟩ taabu zote zilizompata.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wa hatua"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Kumbuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwa ajili ya David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taabu zote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "taabu zilizompata"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:46.841289486Z",
+  "model": "glm-5.2"
+}

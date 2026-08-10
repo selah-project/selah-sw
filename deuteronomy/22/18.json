@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Na wazee wa ⟨hiyo⟩ mji hio watachukua ⟨את⟩ ⟨hiyo⟩ mwanaume, na watamwonya ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "na watachukua"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "wazee"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa mji"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanaume"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mwanaume"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "na watamwonya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T14:43:30.346337905Z",
+  "model": "glm-5.2"
+}

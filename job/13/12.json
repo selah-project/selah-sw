@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 13:12",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Ukumbusho wenu ni mithali ya majivu, na ⟨thibiti zenu⟩ ni thibiti za udongo.",
+  "tokens": [
+    {
+      "surface": "זִֽ֭כְרֹנֵיכֶם",
+      "gloss": "ukumbusho wenu"
+    },
+    {
+      "surface": "מִשְׁלֵי",
+      "gloss": "ni mithali ya"
+    },
+    {
+      "surface": "אֵ֑פֶר",
+      "gloss": "majivu"
+    },
+    {
+      "surface": "לְגַבֵּי",
+      "gloss": "na thibiti za"
+    },
+    {
+      "surface": "חֹ֝֗מֶר",
+      "gloss": "udongo"
+    },
+    {
+      "surface": "גַּבֵּיכֶֽם",
+      "gloss": "thibiti zenu"
+    }
+  ],
+  "timestamp": "2026-08-10T17:56:03.231218655Z",
+  "model": "glm-5.2"
+}

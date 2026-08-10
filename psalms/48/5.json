@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 48,
+  "translation": "Kwa maana tazama, falme zilikusanyika, zilipita pamoja.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "הִנֵּ֣ה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "הַ֭מְּלָכִים",
+      "gloss": "falme"
+    },
+    {
+      "surface": "נֽוֹעֲד֑וּ",
+      "gloss": "walikusanyika"
+    },
+    {
+      "surface": "עָבְר֥וּ",
+      "gloss": "zilipita"
+    },
+    {
+      "surface": "יַחְדָּֽו",
+      "gloss": "pamoja"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:09.849050447Z",
+  "model": "glm-5.2"
+}

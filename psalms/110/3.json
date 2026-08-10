@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 110,
+  "translation": "Watuko wako ⟨ni⟩ wa hiari siku ya nguvu zako, katika mapambo ya utakatifu; kutoka tumboni la mapambazuko, kwako ⟨ni⟩ umande wa ujana wako.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "watuko wako"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "wa hiari"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "nguvu zako"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "katika mapambo ya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "utakatifu"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "kutoka tumboni la"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "mapambazuko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "טל",
+      "gloss": "umande"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "wa ujana wako"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:49.343833316Z",
+  "model": "glm-5.2"
+}

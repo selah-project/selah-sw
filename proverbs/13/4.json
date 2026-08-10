@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Nafsi ya mvivu inatamani lakini ⟨ina⟩ ule; lakini nafsi ya wa Bidii ⟨italishwa⟩ mafuta.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "inatamani"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lakini hauna"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "Nafsi ya mvivu"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "—"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "lakini nafsi"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "ya wa Bidii"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "italishwa mafuta"
+    }
+  ],
+  "timestamp": "2026-08-10T13:25:17.830743668Z",
+  "model": "glm-5.2"
+}

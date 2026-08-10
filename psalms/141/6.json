@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 141,
+  "translation": "Wanaelekezwa pembeni mwa mwamba, waku wao; na watasikia maneno yangu, maana ni ya kupendeza.",
+  "tokens": [
+    {
+      "surface": "נִשְׁמְט֣וּ",
+      "gloss": "wanaelekezwa"
+    },
+    {
+      "surface": "בִֽידֵי",
+      "gloss": "pembeni mwa"
+    },
+    {
+      "surface": "סֶ֭לַע",
+      "gloss": "mwamba"
+    },
+    {
+      "surface": "שֹׁפְטֵיהֶ֑ם",
+      "gloss": "waku wao"
+    },
+    {
+      "surface": "וְשָׁמְע֥וּ",
+      "gloss": "na watasikia"
+    },
+    {
+      "surface": "אֲ֝מָרַ֗י",
+      "gloss": "maneno yangu"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "maana"
+    },
+    {
+      "surface": "נָעֵֽמוּ",
+      "gloss": "ni ya kupendeza"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:23.520698836Z",
+  "model": "glm-5.2"
+}

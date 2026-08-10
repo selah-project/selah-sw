@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Juu yako nilikutupiwa tangu nikikitumboni; tumbo la mama yangu, El wangu ndiwe.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "juu yako"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "nilikutupiwa"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "tangu nikikitumboni"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "tumbo la"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mama yangu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El wangu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ndiwe"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:10.254620350Z",
+  "model": "glm-5.2"
+}

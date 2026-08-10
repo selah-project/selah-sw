@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Wamshukuru Yahweh kwa chesed yake, na ajabu zake kwa wana waadamu.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Wamshukuru"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kwa chesed yake"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "na ajabu zake"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa wana wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:31.245188353Z",
+  "model": "glm-5.2"
+}

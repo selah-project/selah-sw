@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "Na ⟨את⟩ kaka zenu cheweni, na simameni, rudi kwa ⟨ya⟩ yule mtu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "kaka zenu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "kaka zenu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "cheweni"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "na simameni"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "rudi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "yule mtu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:15:32.494972750Z",
+  "model": "glm-5.2"
+}

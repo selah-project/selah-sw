@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Kwa maana nani Eloah isipokuwa Yahweh? Na nani ni mwamba isipokuwa Elohim wetu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "isipokuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na nani"
+    },
+    {
+      "surface": "צור",
+      "gloss": "mwamba"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "isipokuwa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:38.883538852Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 80,
+  "translation": "Elohim wa majeshi, turudisha, na kuangaza nyuso zako, nasi tutaokolewa.",
+  "tokens": [
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צְבָא֣וֹת",
+      "gloss": "wa majeshi"
+    },
+    {
+      "surface": "הֲשִׁיבֵ֑נוּ",
+      "gloss": "turudisha"
+    },
+    {
+      "surface": "וְהָאֵ֥ר",
+      "gloss": "na kuangaza"
+    },
+    {
+      "surface": "פָּ֝נֶ֗יךָ",
+      "gloss": "nyuso zako"
+    },
+    {
+      "surface": "וְנִוָּשֵֽׁעָה",
+      "gloss": "nasi tutaokolewa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:19.131218490Z",
+  "model": "glm-5.2"
+}

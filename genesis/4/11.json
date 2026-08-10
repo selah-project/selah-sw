@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na sasa umelaaniwa, ⟨umetengwa⟩ kutoka ⟨kwenye⟩ ardhi iliyo ufungua ⟨את⟩ kinywa chake ili kupokea ⟨את⟩ damu za ndugu yako kutoka mkononi mwako.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "umelaaniwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ardhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iliyo"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "ufungua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinywa chake"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "kinywa chake"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "kupokea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "damu"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "damu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "za ndugu yako"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "mkononi mwako"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:31.836723766Z",
+  "model": "glm-5.2"
+}

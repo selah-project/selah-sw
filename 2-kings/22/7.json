@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "lakini fedwa zilizotolewa mkononi mwao hazihesabiwi pamoja nao, kwa kuwa kwa uaminifu ⟨wao⟩ wanafanya.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "lakini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hazihesabiwi"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "huhesabiwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pamoja nao"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fedwa"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "zilizotolewa"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "mkononi mwao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "kwa uaminifu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "wanafanya"
+    }
+  ],
+  "timestamp": "2026-08-10T11:52:04.864879754Z",
+  "model": "glm-5.2"
+}

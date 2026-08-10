@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Naye Yaakob akaamka, akampandisha ⟨את⟩ wanawe na ⟨את⟩ wake zake juu ya ngamia.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akaamka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Naye Yaakob"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "akampandisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanawe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wake zake"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "wake zake"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "ngamia"
+    }
+  ],
+  "timestamp": "2026-08-10T14:25:38.036114909Z",
+  "model": "glm-5.2"
+}

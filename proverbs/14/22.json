@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 14:22",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Je, hawapotei wapangao baya? Lakini chesed na uaminifu ⟨ni⟩ kwa wapangao mema.",
+  "tokens": [
+    {
+      "surface": "הֲֽלוֹא",
+      "gloss": "je, hawa-"
+    },
+    {
+      "surface": "יִ֭תְעוּ",
+      "gloss": "-potei"
+    },
+    {
+      "surface": "חֹ֣רְשֵׁי",
+      "gloss": "wapangao"
+    },
+    {
+      "surface": "רָ֑ע",
+      "gloss": "baya"
+    },
+    {
+      "surface": "וְחֶ֥סֶד",
+      "gloss": "lakini chesed"
+    },
+    {
+      "surface": "וֶ֝אֱמֶ֗ת",
+      "gloss": "na uaminifu"
+    },
+    {
+      "surface": "חֹ֣רְשֵׁי",
+      "gloss": "kwa wapangao"
+    },
+    {
+      "surface": "טֽוֹב",
+      "gloss": "mema"
+    }
+  ],
+  "timestamp": "2026-08-10T13:25:44.640219006Z",
+  "model": "glm-5.2"
+}

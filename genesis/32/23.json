@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Akasimama usiku yule, akachukua ⟨את⟩ wake zake wawili na ⟨את⟩ mahari wake wawili na ⟨את⟩ watoto wake kumi na mmoja, akaivuka ⟨את⟩ kivuko cha Yabbok.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akasimama"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yule"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wake zake wawili"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "wake zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mahari wake wawili"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "mahari wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "watoto wake kumi na mmoja"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "watoto wake"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "akaivuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kivuko cha Yabbok"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "kivuko"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "cha Yabbok"
+    }
+  ],
+  "timestamp": "2026-08-10T18:30:00.860576699Z",
+  "model": "glm-5.2"
+}

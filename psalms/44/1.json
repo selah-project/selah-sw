@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Kwa kiongozi wa muziki. Kwa wana wa Korach. Mafundisho.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa kiongozi wa muziki"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Kwa wana wa"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Mafundisho"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:04.552319119Z",
+  "model": "glm-5.2"
+}

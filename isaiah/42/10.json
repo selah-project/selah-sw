@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Mwimbieni Yahweh wimbo mpya, sifa zake kutoka mwisho wa nchi, washuki wa bahari na ⟨wanayo⟩, visiwa na wakaaji wake.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "mwimbieni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mpya"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sifa zake"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kutoka mwisho wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "washuki wa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "na ⟨wanayo⟩"
+    },
+    {
+      "surface": "איים",
+      "gloss": "visiwa"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "na wakaaji wake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:14.153253773Z",
+  "model": "glm-5.2"
+}

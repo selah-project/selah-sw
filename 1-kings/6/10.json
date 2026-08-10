@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Akajenga ⟨את⟩ jengo la pembeni juu ya nyumba yote, dhiraa tano kimo chake, nalo likashikilia ⟨את⟩ nyumba kwa miti ya mizedarshe.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Akajenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jengo la pembeni"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "jengo la pembeni"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dhiraa"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "kimo chake"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "likashikilia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "kwa miti ya"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "mizedarshe"
+    }
+  ],
+  "timestamp": "2026-08-10T11:38:31.054084476Z",
+  "model": "glm-5.2"
+}

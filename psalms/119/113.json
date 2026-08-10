@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Wenye nafsi mbili nimewachukia, na torati yako nimeipenda.",
+  "tokens": [
+    {
+      "surface": "סֵעֲפִ֥ים",
+      "gloss": "wenye nafsi mbili"
+    },
+    {
+      "surface": "שָׂנֵ֑אתִי",
+      "gloss": "nimewachukia"
+    },
+    {
+      "surface": "וְֽתוֹרָתְךָ֥",
+      "gloss": "na torati yako"
+    },
+    {
+      "surface": "אָהָֽבְתִּי",
+      "gloss": "nimeipenda"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:14.318825118Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 135,
+  "translation": "Akapa nchi yao urithi, urithi kwa Yisraeli, taifa lake.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Akapa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nchi yao"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "urithi"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "urithi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kwa Yisraeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "taifa lake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:08.760590967Z",
+  "model": "glm-5.2"
+}

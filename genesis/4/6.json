@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Yahweh akamwambia Kajin: Kwa nini unauchungu, na kwa nini nyuso zako zimeanguka?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kwa nini"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "unauchungu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "na kwa nini"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "zimeanguka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nyuso zako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:49:18.977835461Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Yahweh akajibu ⟨את⟩ Ayobu kutoka dangueni, akasema:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akajibu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayobu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayobu"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "dangueni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    }
+  ],
+  "timestamp": "2026-08-10T15:36:08.640133722Z",
+  "model": "glm-5.2"
+}

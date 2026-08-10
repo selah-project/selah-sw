@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 8:22",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na akaleta karibu ⟨את⟩ ram ya pili, ram ya kuwekwa wakfu; na Aharon na wana zake wakauweka ⟨את⟩ mikono yao juu ya kichwa cha ram.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Na akaleta karibu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ram ya pili"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ram"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya pili"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ram"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "ya kuwekwa wakfu"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "na wakauweka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na wana zake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikono yao"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mikono yao"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "cha ram"
+    }
+  ],
+  "timestamp": "2026-08-10T15:53:24.302803982Z",
+  "model": "glm-5.2"
+}

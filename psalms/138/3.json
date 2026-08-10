@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 138,
+  "translation": "Siku niliyoita, ⟨wakati⟩ uliponijibu; ulinipa ujasiri kwenye nafsi yangu ⟨kwa⟩ nguvu.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Siku"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nilipoita"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "ulinijibia"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "ulinipa ujasiri"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "kwenye nafsi yangu"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguvu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:50.057339887Z",
+  "model": "glm-5.2"
+}

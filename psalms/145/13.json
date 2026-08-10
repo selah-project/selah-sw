@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 145,
+  "translation": "Ufalme wako ⟨ni⟩ ufalme wa kila vizazi vya milele, na mamlaka yako ⟨huendelea⟩ katika kila kizazi na kizazi.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "ufalme wako"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ufalme"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "vizazi vya milele"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "na mamlaka yako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika kila"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kizazi"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "na kizazi"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:19.881429286Z",
+  "model": "glm-5.2"
+}

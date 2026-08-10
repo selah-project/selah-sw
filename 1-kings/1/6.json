@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na baba yake hakumkataliza siku zote zote, akisema: Kwa nini umefanya hivi? Naye pia ⟨alikuwa⟩ mzuri wa sura sana; naye ⟨את⟩ yeye alimzaa baada ya Avshalom.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Na hakumkataliza"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "hakumkataliza"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "siku zote zote"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "umefanya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "Naye pia"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mzuri"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "wa sura"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-10T11:36:31.859785781Z",
+  "model": "glm-5.2"
+}

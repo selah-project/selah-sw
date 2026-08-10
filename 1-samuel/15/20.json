@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Na Shaul akamwambia Shemuël: Bali mimi nilisikiliza sauti ya Yahweh, na akaendelea njiani ambayo Yahweh alinituma, na akaileta ⟨את⟩ Agagi mfalme wa Amaleki, na ⟨את⟩ Amaleki niliweka heramu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akamwambia"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Bali"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nilisikiliza"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "na akaendelea"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njiani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "alinituma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "na akaileta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agagi"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agagi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "wa Amaleki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Amaleki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "niliweka heramu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:23:31.611487171Z",
+  "model": "glm-5.2"
+}

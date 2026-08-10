@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na ⟨את⟩ Yatiri na ⟨את⟩ mifereji yake, na ⟨את⟩ Eshtemoa na ⟨את⟩ mifereji yake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "Yatiri"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mifereji yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mifereji yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mifereji yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mifereji yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:11:08.547236827Z",
+  "model": "glm-5.2"
+}

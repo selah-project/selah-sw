@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Aralaniwa anayopotosha hukumu ya mgeni, yatima, na mjane, na watu wote watasema, Amina.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Aralaniwa"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "anayepotosha"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ya mgeni"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yatima"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "na mjane"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na watasema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wat'u wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨wa⟩ watu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amina"
+    }
+  ],
+  "timestamp": "2026-08-10T11:02:10.673353451Z",
+  "model": "glm-5.2"
+}

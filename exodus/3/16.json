@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Nenda ukawakusanye wazee wa Yisrael, ukawaambie: Yahweh, Elohim wa baba zenu, ameonekana kwangu — Elohim wa Avraham, Yitschak, na Yaakov — ⟨akisema⟩: Hakika nimewatilia moyo, ⟨nikaona⟩ yale yaliyofanywa kwenu huko Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Nenda"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ukawakusanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wazee wa Yisrael"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "wazee wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ukawaambie"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "baba zenu"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ameonekana"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "na Yaakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "Hakika"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "nimewatilia moyo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨na⟩ ⟨את⟩",
+      "marks": "yale yaliyofanywa kwenu"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "yale yaliyofanywa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "huko Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:59.640088303Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na Ahazi akachukua ⟨את⟩ fedha na ⟨את⟩ dhahabu iliyopatikana nyumbani mwa Yahweh na katika hazina za nyumba ya mfalme, akamtumia mfalme wa Ashuru ⟨kama⟩ rushwa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akachukua"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fedha"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "iliyopatikana"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumbani mwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "na katika hazina za"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akamtumia"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mfalme wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "rushwa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:50:54.728493982Z",
+  "model": "glm-5.2"
+}

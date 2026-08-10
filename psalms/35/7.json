@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Kwa maana bila sababu wameificha ⟨⟩ shimo — wavu wao; bila sababu wamechimba kwa nafsi yangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bila sababu"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "wameificha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨kwangu⟩"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "shimo"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "wavu wao"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bila sababu"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "wamechimba"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kwa nafsi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:58.394479012Z",
+  "model": "glm-5.2"
+}

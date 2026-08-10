@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 63,
+  "translation": "Pale nilipokukumbuka juu ya kitanda changu, katika masaa ya usiku nitakuwaza ⟨ndani⟩ yako.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "pale nilipo"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "nilipokukumbuka"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "kitanda changu"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "katika masaa ya usiku"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "nitakuwaza"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨ndani⟩ yako"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:49.522650811Z",
+  "model": "glm-5.2"
+}

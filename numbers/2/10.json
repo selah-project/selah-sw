@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 2:10",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Bendera ya mahali pa kambi ya Reuven ⟨iwe⟩ kusini, kwa majeshi yao; na mzee wa wana wa Reuven ⟨ni⟩ Elitsur mwana wa Shedei'ur.",
+  "tokens": [
+    {
+      "surface": "דגל",
+      "gloss": "bendera"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ya mahali pa kambi"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ya Reuven"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "kusini"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "kwa majeshi yao"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "na mzee wa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa wana wa"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedei'ur"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:39.885270094Z",
+  "model": "glm-5.2"
+}

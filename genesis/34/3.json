@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Na nefesh yake ikampendekeza kwa Dina binti Yakobo, akampenda ⟨את⟩ huo msichana, na kumnong'ona.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "na ikampendekeza"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefesh yake"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "kwa Dina"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "akampenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "msichana huyu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "msichana huyu"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "na kumnong'ona"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo wa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "msichana huyu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:11:55.652996208Z",
+  "model": "glm-5.2"
+}

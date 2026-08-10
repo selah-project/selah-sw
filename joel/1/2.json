@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Sikeni hii, enyi wazee, na sikilizeni, enyi wote waakaazi wa nchi: ⟨je,⟩ jambo hili limefanyika katika siku zenu, au hata katika siku za baba zenu?",
+  "tokens": [
+    {
+      "surface": "שִׁמְעוּ",
+      "gloss": "Sikeni"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "hii"
+    },
+    {
+      "surface": "הַזְּקֵנִים",
+      "gloss": "enyi wazee"
+    },
+    {
+      "surface": "וְהַאֲזִינוּ",
+      "gloss": "na sikilizeni"
+    },
+    {
+      "surface": "כֹּל",
+      "gloss": "enyi wote"
+    },
+    {
+      "surface": "יוֹשְׁבֵי",
+      "gloss": "waakaazi"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "הֶהָיְתָה",
+      "gloss": "limefanyika"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "jambo hili"
+    },
+    {
+      "surface": "בִּימֵיכֶם",
+      "gloss": "katika siku zenu"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "au hata"
+    },
+    {
+      "surface": "בִּימֵי",
+      "gloss": "katika siku za"
+    },
+    {
+      "surface": "אֲבֹתֵיכֶם",
+      "gloss": "baba zenu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:43:33.815806555Z",
+  "model": "glm-5.2"
+}

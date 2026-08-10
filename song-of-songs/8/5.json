@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Ni nani huyi anayepanda kutoka jangwani, anategemea juu ya mpenzi wake? Chini ya mti wa matunda nilikuamsha; pale mama yako alikuza ujana wake; pale alikuzalisha aliyekuza.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "huyi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "anayepanda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "jangwani"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "anategemea"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "mpenzi wake"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "mti wa matunda"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "nilikuamsha"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "pale"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "alikuza ujana wake"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mama yako"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "pale"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "alikuzalisha"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "aliyekuza"
+    }
+  ],
+  "timestamp": "2026-08-10T13:43:50.745293410Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Toeni shukrani kwa Yahweh kwa kinora; kwa neba wa kumi mazungushio, muzikieni ⟨yeye⟩.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "toeni shukrani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinora"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "neba"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "wa kumi mazungushio"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "muzikieni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:48.163882541Z",
+  "model": "glm-5.2"
+}

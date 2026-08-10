@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Kwa hekima ⟨nyumba⟩ hujengwa, na kwa ufahamu ⟨hiyo⟩ huthibitishwa.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "Kwa hekima"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "hujengwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "na kwa ufahamu"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "huthibitishwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:28:35.049788522Z",
+  "model": "glm-5.2"
+}

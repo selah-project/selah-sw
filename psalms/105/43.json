@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Akautoa ⟨את⟩ umma wake kwa shangwe, ⟨את⟩ wateule wake kwa vigeleji.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Akautoa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umma wake"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "kwa shangwe"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "kwa vigeleji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wateule wake"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "wateule wake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:50.102044811Z",
+  "model": "glm-5.2"
+}

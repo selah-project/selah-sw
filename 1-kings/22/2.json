@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Ikawa katika mwaka wa tatu, Yehoshafati mfalme wa Yehudha akashuka kwa mfalme wa Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "katika mwaka"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "wa tatu"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "akashuka"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-10T11:46:05.572761018Z",
+  "model": "glm-5.2"
+}

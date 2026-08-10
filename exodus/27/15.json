@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Na kwa bega la pili, mapazia shemini na tano ⟨ya dhiraa⟩; nguzo zao tatu, na misingi yao tatu.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "Na kwa bega"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "la pili"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tano"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "mapazia"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "nguzo zao"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "na misingi yao"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:25:17.401893476Z",
+  "model": "glm-5.2"
+}

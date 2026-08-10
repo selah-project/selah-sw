@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na kwa ajili yake ameweka tayari vyombo vya mauti; mishale yake kwa wanaowaka moto huifanya.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "Na kwa ajili yake"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ameweka tayari"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vyombo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "vya mauti"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "mishale yake"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "kwa wanaowaka moto"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "huifanya"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:40.962917983Z",
+  "model": "glm-5.2"
+}

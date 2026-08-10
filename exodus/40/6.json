@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Na utaweka ⟨את⟩ madhabahu ya sadaka ya kuchomwa mbele ya mlango wa hema ya hema ya mkutano.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "na utaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madhabahu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya sadaka ya kuchomwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mlango"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "wa hema"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ya hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:36.150964146Z",
+  "model": "glm-5.2"
+}

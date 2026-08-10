@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 70,
+  "translation": "Waaibu na wafedheheshwe wanaotafuta nafsi yangu; warudi nyuma na wadhikike wanaopenda shari yangu.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Waaibu"
+    },
+    {
+      "surface": "וביחפרו",
+      "gloss": "na wafedheheshwe"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "wanaotafuta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "warudi nyuma"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "⟨nyuma⟩"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "na wadhikike"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "wanaopenda"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "shari yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:36.661056685Z",
+  "model": "glm-5.2"
+}

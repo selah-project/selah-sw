@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Paroh akamwita Moshe na Aharon, akasema: Wamshtulie Yahweh, na aondoe ⟨את⟩ vyura mimi na ⟨את⟩ watu wangu, nami nitawawachilia ⟨את⟩ watu ili watolee dhabihu Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akamwita"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "Wamshtulie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "na aondoe"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "vyura"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "na watu wangu"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "nami nitawawachilia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ili watolee dhabihu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:28:21.879747013Z",
+  "model": "glm-5.2"
+}

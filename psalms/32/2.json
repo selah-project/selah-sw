@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Oh, heri ya ⟨yule⟩ mtu ambaye Yahweh hamlinganishi nayo uovu, na hakuna ndani ya roho yake udanganyifu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Oh, heri"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "hamlinganishi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "עון",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na hakuna"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ndani ya roho yake"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "udanganyifu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:58.381590640Z",
+  "model": "glm-5.2"
+}

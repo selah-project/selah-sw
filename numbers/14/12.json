@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Nitawapiga kwa tauni, na nitawafuta, nami nitakufanya wewe ⟨את⟩ kuwa taifa kubwa na lenye nguvu kuliko hili.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "Nitawapiga"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "kwa tauni"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "na nitawafuta"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "nami nitakufanya"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kuwa taifa"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "na lenye nguvu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuliko hili"
+    }
+  ],
+  "timestamp": "2026-08-10T10:44:31.690251530Z",
+  "model": "glm-5.2"
+}

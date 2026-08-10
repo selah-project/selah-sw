@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Utapata cheni na sechel nzuri machoni pa Elohim na mwanadamu.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "Utapata"
+    },
+    {
+      "surface": "חן",
+      "gloss": "cheni"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "na sechel"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nzuri"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "machoni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "pa Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "na mwanadamu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:22:07.838159731Z",
+  "model": "glm-5.2"
+}

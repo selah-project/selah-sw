@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Yosef akajibu ⟨את⟩ Paroh, akisema: Si mimi; Elohim atajibu ⟨את⟩ salama za Paroh.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akajibu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "si mimi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "atajibu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salama za Paroh"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salama"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "za Paroh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:13:41.729869103Z",
+  "model": "glm-5.2"
+}

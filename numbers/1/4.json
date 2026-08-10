@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na ⟨pamoja na⟩ ⟨את⟩ nyinyi mtakuwa mtu kwa kila kabila, mtu mkuu wa nyumba ya baba zake, yeye.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "Na ⟨את⟩ nyinyi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mtakuwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kwa kila"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "kabila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mkuu wa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baba zake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:02.720662220Z",
+  "model": "glm-5.2"
+}

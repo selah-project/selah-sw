@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na wazee wako na waamuzi wako watatoka, na wataupima kuelekea miji iliyo karibu na mwili ule aliyekufa.",
+  "tokens": [
+    {
+      "surface": "וְיָצְא֥וּ",
+      "gloss": "Na watatoka"
+    },
+    {
+      "surface": "זְקֵנֶ֖יךָ",
+      "gloss": "wazee wako"
+    },
+    {
+      "surface": "וְשֹׁפְטֶ֑יךָ",
+      "gloss": "na waamuzi wako"
+    },
+    {
+      "surface": "וּמָדְדוּ֙",
+      "gloss": "na wataupima"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kuelekea"
+    },
+    {
+      "surface": "הֶ֣עָרִ֔ים",
+      "gloss": "miji"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "iliyo"
+    },
+    {
+      "surface": "סְבִיבֹ֥ת",
+      "gloss": "karibu na"
+    },
+    {
+      "surface": "הֶחָלָֽל",
+      "gloss": "mwili ule aliyekufa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:00:15.079277030Z",
+  "model": "glm-5.2"
+}

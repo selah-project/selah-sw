@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Akamtolea ⟨את⟩ mwana wa mfalme, akamwekea taji na ⟨את⟩ ushahidi; wakamfanya ⟨את⟩ mfalme, wakampaka mafuta, wakupiga makofi, wakasema: Aishi mfalme!",
+  "tokens": [
+    {
+      "surface": "וַיּוֹצִ֣א",
+      "gloss": "Akamtolea"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הַמֶּ֗לֶךְ",
+      "gloss": "wa mfalme"
+    },
+    {
+      "surface": "וַיִּתֵּ֤ן",
+      "gloss": "akamwekea"
+    },
+    {
+      "surface": "עָלָיו֙",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "taji"
+    },
+    {
+      "surface": "הַנֵּ֨זֶר֙",
+      "gloss": "taji"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ushahidi"
+    },
+    {
+      "surface": "הָ֣עֵד֔וּת",
+      "gloss": "ushahidi"
+    },
+    {
+      "surface": "וַיַּמְלִ֥כוּ",
+      "gloss": "wakamfanya"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "mfalme"
+    },
+    {
+      "surface": "וַיִּמְשָׁחֻ֑הוּ",
+      "gloss": "wakampaka mafuta"
+    },
+    {
+      "surface": "וַיַּכּוּ",
+      "gloss": "wakapiga"
+    },
+    {
+      "surface": "כָ֔ף",
+      "gloss": "makofi"
+    },
+    {
+      "surface": "וַיֹּאמְר֖וּ",
+      "gloss": "wakasema"
+    },
+    {
+      "surface": "יְחִ֥י",
+      "gloss": "Aishi"
+    },
+    {
+      "surface": "הַמֶּֽלֶךְ",
+      "gloss": "mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T18:38:04.652590535Z",
+  "model": "glm-5.2"
+}

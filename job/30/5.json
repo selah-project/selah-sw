@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 30:5",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Kati yao ⟨wamefukuzwa⟩; ⟨wanapiga⟩ kelele juu yao kama ⟨mwizi⟩.",
+  "tokens": [
+    {
+      "surface": "מִן",
+      "gloss": "kati"
+    },
+    {
+      "surface": "גֵּו",
+      "gloss": "yao"
+    },
+    {
+      "surface": "יְגֹרָשׁוּ",
+      "gloss": "wamefukuzwa"
+    },
+    {
+      "surface": "יָרִיעוּ",
+      "gloss": "wanapiga kelele"
+    },
+    {
+      "surface": "עָלֵימוֹ",
+      "gloss": "juu yao"
+    },
+    {
+      "surface": "כַּגַּנָּב",
+      "gloss": "kama mwizi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:35:28.289322401Z",
+  "model": "glm-5.2"
+}

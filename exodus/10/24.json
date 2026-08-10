@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Paroh akamwita Moshe, akasema: Nendeni, mtumikieni ⟨את⟩ Yahweh; tu makundi yenu na ng'ombe wenu wasalia; hata watoto wenu wadogo waende nanyi.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akamwita"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Nendeni"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mtumikieni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tu"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "makundi yenu"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "na ng'ombe wenu"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "wasalia"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "watoto wenu wadogo"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "waende"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nanyi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:08.733588287Z",
+  "model": "glm-5.2"
+}

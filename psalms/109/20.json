@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Hii ⟨ni⟩ malipo ya wapinzani wangu kutoka ⟨kwa⟩ Yahweh ⟨את⟩, na kwa wanaosema baya juu ya nafsi yangu.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Hii"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "malipo"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "wapinzani wangu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "na kwa wanaosema"
+    },
+    {
+      "surface": "רע",
+      "gloss": "baya"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:31.221456575Z",
+  "model": "glm-5.2"
+}

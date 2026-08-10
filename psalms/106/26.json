@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Basi aliinua mkono wake juu yao, ili kuwaangusha ⟨את⟩ wao jangwani;",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "basi aliinua"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "להם",
+      "gloss": "juu yao"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "ili kuwaangusha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "jangwani"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:51.153007890Z",
+  "model": "glm-5.2"
+}

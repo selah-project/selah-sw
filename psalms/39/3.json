@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "Niliyumbishwa, nikanyamaza kimyaka; nilinyamaza hata nisema jema, na uchungu wangu ukazidishwa.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Niliyumbishwa"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "nikanyamaza kimyaka"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "nilinyamaza"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "hata niseme jema"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "na uchungu wangu"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "ukazidishwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:42.505168011Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na kwa zile dhaifu miongoni mwa kundi, hazikuwekwa ⟨hivyo⟩; basi zile dhaifu zilikuwa za Lavan, na zile zenye nguvu za Ya'akov.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "Na kwa zile dhaifu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "miongoni mwa kundi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hazikuwekwa"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "⟨hivyo⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "basi zilikuwa"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "zile dhaifu"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "za Lavan"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "na zile zenye nguvu"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "za Ya'akov"
+    }
+  ],
+  "timestamp": "2026-08-10T10:10:08.524669355Z",
+  "model": "glm-5.2"
+}

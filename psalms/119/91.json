@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Kwa hukumu zako wamesimama ⟨siku ya⟩ leo, maana vyote ni wahudumu wako.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "Kwa hukumu zako"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "wamesimama"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "wahudumu wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:55.910352849Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 95,
+  "translation": "Kwa maana El ⟨ni⟩ mkuu Yahweh, na Mfalame mkuu juu ya miungu yote.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "na Mfalame"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "miungu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:51.121364880Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 75,
+  "translation": "Kwa mwongozaji. Usiangamishe. Mzamo wa Asafu. Wimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwongozaji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Usiangamishe"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": ""
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mzamo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "wa Asafu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Wimbo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:44.414656009Z",
+  "model": "glm-5.2"
+}

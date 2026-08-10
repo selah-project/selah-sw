@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Katika njia zako zote mtambue, naye ⟨yeye⟩ atanyoosha nyayo zako.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Katika zote"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "njia zako"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "mtambue"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "naye"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "atanyoosha"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "nyayo zako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:59.081261786Z",
+  "model": "glm-5.2"
+}

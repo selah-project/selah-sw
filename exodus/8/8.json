@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Moshe na Aharon walitoka mbele za Paroh, na Moshe akamlilia Yahweh kuhusu jambo la vyura ambalo aliliweka juu ya Paroh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "na walitoka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "na akamlilia"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuhusu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jambo la"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "vyura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aliliweka"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "juu ya Paroh"
+    }
+  ],
+  "timestamp": "2026-08-10T15:51:39.495197623Z",
+  "model": "glm-5.2"
+}

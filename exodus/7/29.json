@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 7:29",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na katika wewe, na katika taifa lako, na katika watumishi wako wote, vyura watapanda.",
+  "tokens": [
+    {
+      "surface": "וּבְכָ֥ה",
+      "gloss": "Na katika wewe"
+    },
+    {
+      "surface": "וּֽבְעַמְּךָ֖",
+      "gloss": "na katika taifa lako"
+    },
+    {
+      "surface": "וּבְכָל",
+      "gloss": "na katika"
+    },
+    {
+      "surface": "עֲבָדֶ֑יךָ",
+      "gloss": "watumishi wako wote"
+    },
+    {
+      "surface": "יַעֲל֖וּ",
+      "gloss": "watapanda"
+    },
+    {
+      "surface": "הַֽצְפַרְדְּעִֽים",
+      "gloss": "vyura"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:40.577863349Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na mfalume akajibu ⟨את⟩ watu kwa ukali, naye akaacha ⟨את⟩ shauri ya wazee ambao walimshauria.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "na akajibu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "kwa ukali"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "naye akaacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shauri"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "shauri"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ya wazee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "walimshauria"
+    }
+  ],
+  "timestamp": "2026-08-10T11:41:55.974392612Z",
+  "model": "glm-5.2"
+}

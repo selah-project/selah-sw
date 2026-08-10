@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Wawe unyuze ⟨את⟩ fimbo yako na kuunyosha ⟨את⟩ mkono wako juu ya bahari na kuipasua; nawe wana wa Israel waingie katikati ya bahari kwa nchi kavu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "unyuze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fimbo yako"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "fimbo yako"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "na kuunyosha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wako"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mkono wako"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "na kuipasua"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "waingie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "katikati ya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "kwa nchi kavu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:21:58.043199115Z",
+  "model": "glm-5.2"
+}

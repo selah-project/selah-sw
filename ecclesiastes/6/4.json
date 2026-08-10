@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Kwa kuwa kwa hebeli huja, na gizani huenda, na gizani jina lake hutundikwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "kwa hebeli"
+    },
+    {
+      "surface": "בא",
+      "gloss": "huja"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "na gizani"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "huenda"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "na gizani"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "hutundikwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:47:44.942600658Z",
+  "model": "glm-5.2"
+}

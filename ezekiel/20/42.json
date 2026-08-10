@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezekiel 20:42",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Nanyi mtajua kwamba mimi ni Yahweh, katika kuwaleteni ⟨⟨kwenda⟩⟩ ardhini ya Yisraeli, ⟨⟀kwenda⟩⟩ nchi ile ambayo niliiwekea ⟨את⟩ mkono wangu ili kuiipa kwa baba zenu.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "nanyi mtajua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהביאי",
+      "gloss": "katika kuwaleta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwenda⟩ ardhini"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟀kwendo⟩ nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "niliiwekea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wangu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mkono wangu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ili kuiipa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "kwa baba zenu"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "kwa baba zenu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:31:50.386810383Z",
+  "model": "glm-5.2"
+}

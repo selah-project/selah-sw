@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Naye akasikia ⟨את⟩ maneno ya wana wa Lavan, wakisema: \"Ya'akov ameiba ⟨את⟩ yote yaliyo mwa baba yetu, na kutoka yaliyo mwa baba yetu amefanya ⟨את⟩ utukufu huu wote.\"",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "naye akasikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa wana"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wakisema"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ameiba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaliyo"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "mwa baba yetu"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "na kutoka yaliyo"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "mwa baba yetu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "amefanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utukufu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "utukufu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "huu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:10:06.999011837Z",
+  "model": "glm-5.2"
+}

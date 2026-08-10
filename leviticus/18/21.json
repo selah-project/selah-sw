@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na kutoka kwa mzaziako usimpe ⟨kumfanya apitishwe⟩ kwa Moloch; wala usitaje kwa ubaya jina la Elohim wako; mimi Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "Na kutoka kwa mzaziako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "umpe"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "kumfanya apitishwe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kwa Moloch"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala usi"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "taje kwa ubaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "la Elohim wako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:06.155238274Z",
+  "model": "glm-5.2"
+}

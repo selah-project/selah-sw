@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 11:12",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na ⟨ye⟩ atakuondoa huo umati, moyo wake utainuliwa, na atawangusha maelfu, wala hatatoboka.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "Na atakuondoa"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "huo umati"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "utainuliwa"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "והפיל",
+      "gloss": "na atawangusha"
+    },
+    {
+      "surface": "רבאות",
+      "gloss": "maelfu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יעוז",
+      "gloss": "hatatoboka"
+    }
+  ],
+  "timestamp": "2026-08-10T13:55:40.309145265Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 72,
+  "translation": "Atashuka kama mvua juu ya manyasi yaliyonyeshwa, kama mafundo yaliyomwagika ⟨kwenye⟩ nchi.",
+  "tokens": [
+    {
+      "surface": "יֵ֭רֵד",
+      "gloss": "atashuka"
+    },
+    {
+      "surface": "כְּמָטָ֣ר",
+      "gloss": "kama mvua"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "גֵּ֑ז",
+      "gloss": "manyasi yaliyonyeshwa"
+    },
+    {
+      "surface": "כִּ֝רְבִיבִ֗ים",
+      "gloss": "kama mafundo"
+    },
+    {
+      "surface": "זַרְזִ֥יף",
+      "gloss": "yaliyomwagika"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:24.040233448Z",
+  "model": "glm-5.2"
+}

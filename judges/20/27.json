@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "judges 20:27",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na wana wa Yisraeli wakauliza kwa Yahweh, na huko ⟨alikuwako⟩ sanduku la agano la Elohim siku hizo.",
+  "tokens": [
+    {
+      "surface": "וישאלו",
+      "gloss": "wakauliza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na huko"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandaku"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "la agano"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "la Elohim"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "hizo"
+    }
+  ],
+  "timestamp": "2026-08-10T11:19:18.820186054Z",
+  "model": "glm-5.2"
+}

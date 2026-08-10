@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Na aisimame Elohim, waangamizwe adui zake, na wale wanaomchukia yakimbie mbali na uso wake.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "Na aisimame"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "waangamizwe"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "adui zake"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "na yakimbie"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "wale wanaomchukia"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "mbali na uso wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:27.579863223Z",
+  "model": "glm-5.2"
+}

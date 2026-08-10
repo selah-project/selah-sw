@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Maana walimchukiza ⟨את⟩ roho yake, naye akasema ovyo kwa midomo yake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "walimchukiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roho yake"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "roho yake"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "naye akasema ovyo"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "kwa midomo yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:18.702848865Z",
+  "model": "glm-5.2"
+}

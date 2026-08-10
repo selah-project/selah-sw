@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Sikiliza, Israeli: Yahweh Elohim wetu, Yahweh ⟨ni⟩ mmoja.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "sikiliza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmoja"
+    }
+  ],
+  "timestamp": "2026-08-10T10:55:26.684649909Z",
+  "model": "glm-5.2"
+}

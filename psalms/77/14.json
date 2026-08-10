@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 77,
+  "translation": "Elohim, katika utakatifu ⟨ndiyo⟩ njia yako. Ni nani El mkuu kama Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "katika utakatifu"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "njia yako"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "kama Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:40.925466063Z",
+  "model": "glm-5.2"
+}

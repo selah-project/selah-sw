@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Akapeleka giza, nayo likaifanya ⟨kuwa⟩ giza; na hawakumwasi ⟨את⟩ neno lake.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Akapeleka"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "giza"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "nayo likaifanya giza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na hawaku"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neno lake"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "neno lake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:35.944360345Z",
+  "model": "glm-5.2"
+}

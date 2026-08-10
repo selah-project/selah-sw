@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Mtu akawapa majina kwa kila mnyama wa kufugwa, na kwa ndege wa mbingu, na kwa kila mnyama wa mwitu; lakini kwa mtu hakupatikana msaidizi ambaye ⟨wee⟩ kinyume chake.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akawapa majina"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "majina"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa kila"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mnyama wa kufugwa"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "na kwa ndege"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wa mbingu"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na kwa kila"
+    },
+    {
+      "surface": "חית",
+      "gloss": "mnyama"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "wa mwitu"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "kwa mtu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "alipatikana"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "msaidizi"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "kinyume chake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:35.134590302Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 80,
+  "translation": "Nguruwe wa msini huibwatui, na mnyama wa shambani huichunga.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "huibwatui"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "Nguruwe"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "wa msini"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "na mnyama"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "wa shambani"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "huichunga"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:12.175115639Z",
+  "model": "glm-5.2"
+}

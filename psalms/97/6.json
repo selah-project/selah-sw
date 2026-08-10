@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 97,
+  "translation": "Mbingu zimehubiri haki yake, na mataifa yote wameuona utukufu wake.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "zimehubiri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "haki yake"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "na wameuona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "utukufu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:58.487472329Z",
+  "model": "glm-5.2"
+}

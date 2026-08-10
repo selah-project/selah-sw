@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 135,
+  "translation": "Kwa maana mimi nalijua kwamba Yahweh ni mkuu, na Adonai wetu ⟨ni⟩ juu ya elohim wote.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nalijua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "na Adonai wetu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "juu ya wote"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:59.770307458Z",
+  "model": "glm-5.2"
+}

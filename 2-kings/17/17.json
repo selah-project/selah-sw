@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 17:17",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Wakawapatia ⟨את⟩ wana wao na ⟨את⟩ binti zao kupita katika moto, wakapiga ramli na kufanya usiri, wakauza nafsi zao kufanya yaliyo mabaya machoni pa Yahweh, kumkasirikia.",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "wakawapatia kupita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana wao"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "wana wao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "binti zao"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "binti zao"
+    },
+    {
+      "surface": "באש",
+      "gloss": "katika moto"
+    },
+    {
+      "surface": "ויקסמו",
+      "gloss": "wakapiga ramli"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "ramli"
+    },
+    {
+      "surface": "וינחשו",
+      "gloss": "wakafanya usiri"
+    },
+    {
+      "surface": "ויתמכרו",
+      "gloss": "wakauza nafsi zao"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kufanya"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yaliyo mabaya"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "machoni pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להכעיסו",
+      "gloss": "kumkasirikia"
+    }
+  ],
+  "timestamp": "2026-08-10T11:51:17.282830050Z",
+  "model": "glm-5.2"
+}

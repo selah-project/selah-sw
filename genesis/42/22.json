@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 42:22",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Re'uveni akawajibu ⟨אתם⟩ akisema: Je, sikuwenambia kwamba msitende dhambi kuhusu mtoto? Lakini hamkusikia; na damu yake pia, tazama, inadaiwa.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akawajibu"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Re'uveni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": " kuwajibu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sikuwaambia"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ninyi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "msi"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "tende dhambi"
+    },
+    {
+      "surface": "בילד",
+      "gloss": "kuhusu mtoto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lakini hamku"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "sikia"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "damu yake"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "נדרש",
+      "gloss": "inadaiwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:14:24.430535510Z",
+  "model": "glm-5.2"
+}

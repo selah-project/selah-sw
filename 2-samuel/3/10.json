@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "kwa kuhamisha ufalme kutoka nyumba ya Shaul, na kwa kusimamisha ⟨את⟩ kiti cha David juu ya Yisrael na juu ya Yehudah, kutoka Dan hadi Be'er Sheva.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "kwa kuhamisha"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ufalme"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kutoka nyumba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ya Shaul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "na kwa kusimamisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiti"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kiti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "cha David"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "kutoka Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-10T14:56:21.008143426Z",
+  "model": "glm-5.2"
+}

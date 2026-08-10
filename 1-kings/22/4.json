@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Akamwambia Yehoshafati: Je, utakwenda ⟨את⟩ ⟨nami⟩ vita Ramoth-Giladi? Na Yehoshafati akamwambia mfalme wa Yisra'el: Nami ni kama wewe, na taifa langu kama taifa lako, na farasi wangu kama farasi wako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "Je, utakwenda"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨nami⟩"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "vita"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramoth"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "nami ni kama"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "na taifa langu kama"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "taifa lako"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "na farasi wangu kama"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "farasi wako"
+    }
+  ],
+  "timestamp": "2026-08-10T11:46:05.573114771Z",
+  "model": "glm-5.2"
+}

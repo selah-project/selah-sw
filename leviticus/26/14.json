@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na mkitokisikiliza, na mkitofanya ⟨את⟩ yote ⟨את⟩ amri hizi",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "Na mki"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "toki"
+    },
+    {
+      "surface": "תִשְׁמְע֖וּ",
+      "gloss": "sikiliza"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "ni"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "na mkitofanya"
+    },
+    {
+      "surface": "תַעֲשׂ֔וּ",
+      "gloss": "fanya"
+    },
+    {
+      "surface": "אֵ֥ת",
+      "gloss": "⟨את⟩",
+      "marks": "amri hizi zote"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "הַמִּצְוֺ֖ת",
+      "gloss": "amri"
+    },
+    {
+      "surface": "הָאֵֽלֶּה",
+      "gloss": "hizi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:42.449329088Z",
+  "model": "glm-5.2"
+}

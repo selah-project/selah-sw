@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Tarehe tisa ya mwezi, njaa ilizidi nguvu katika jiji, wala haikuwa ⟨na⟩ chakula kwa ajili ya watu wa nchi.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "Tarehe tisa"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya mwezi"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ilizidi nguvu"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "njaa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "katika jiji"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala haikuwa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ilikuwako⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "⟨na⟩ chakula"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kwa ajili ya watu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:53:27.935680811Z",
+  "model": "glm-5.2"
+}

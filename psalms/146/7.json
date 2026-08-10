@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 146,
+  "translation": "⟨Yeye⟩ anafanya haki kwa wanaonyonywa, anatoa chakula kwa wenye njaa; Yahweh anafungua minyororo ya wafungwa.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "⟨Yeye⟩ anafanya"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "haki"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "kwa wanaonyonywa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anatoa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chakula"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "kwa wenye njaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "anafungua minyororo"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "ya wafungwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:13.824221061Z",
+  "model": "glm-5.2"
+}

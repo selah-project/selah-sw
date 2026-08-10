@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Akainua Bilam ⟨את⟩ macho yake, akaona ⟨את⟩ Yisrael wakikaa kwa makabila yake, na roho ya Elohim ikawa juu yake.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "akainua"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macho yake"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "macho yake"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "wakikaa"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "kwa makabila yake"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:48:57.664618187Z",
+  "model": "glm-5.2"
+}

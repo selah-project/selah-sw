@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 101,
+  "translation": "Wa David. Wimbo. Chesed na mishipa nitaimba; kwewe, Yahweh, nitazimu.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Wa David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na mishipa"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "nitaimba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nitazimu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:43.042782286Z",
+  "model": "glm-5.2"
+}

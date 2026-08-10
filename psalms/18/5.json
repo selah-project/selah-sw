@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Kamba za mauti zilinizunguka, na mifereji ya Beliali (ovu) iliniogopesha.",
+  "tokens": [
+    {
+      "surface": "אֲפָפ֥וּנִי",
+      "gloss": "zilinizunguka"
+    },
+    {
+      "surface": "חֶבְלֵי",
+      "gloss": "kamba za"
+    },
+    {
+      "surface": "מָ֑וֶת",
+      "gloss": "mauti"
+    },
+    {
+      "surface": "וְֽנַחֲלֵ֖י",
+      "gloss": "na mifereji ya"
+    },
+    {
+      "surface": "בְלִיַּ֣עַל",
+      "gloss": "Beliyali"
+    },
+    {
+      "surface": "יְבַֽעֲתֽוּנִי",
+      "gloss": "iliniogopesha"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:44.250287297Z",
+  "model": "glm-5.2"
+}

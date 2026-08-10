@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 9:9",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Kwa Adonai, Elohim wetu, ⟨ni⟩ mahuruma na msamaha, maana tuliasi dhidi yake.",
+  "tokens": [
+    {
+      "surface": "לַֽאדֹנָ֣י",
+      "gloss": "Kwa Adonai"
+    },
+    {
+      "surface": "אֱלֹהֵ֔ינוּ",
+      "gloss": "Elohim wetu"
+    },
+    {
+      "surface": "הָרַחֲמִ֖ים",
+      "gloss": "mahuruma"
+    },
+    {
+      "surface": "וְהַסְּלִח֑וֹת",
+      "gloss": "na msamaha"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "maana"
+    },
+    {
+      "surface": "מָרַ֖דְנוּ",
+      "gloss": "tuliasi"
+    },
+    {
+      "surface": "בּֽוֹ",
+      "gloss": "dhidi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:53:45.499935198Z",
+  "model": "glm-5.2"
+}

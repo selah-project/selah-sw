@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Ambao waliwaambia waonao: Msione; na waotazamao: Msitazame kwetu yaliyo sawa; semeni neno zuri, tazameni udanganyifu.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "אָמְר֤וּ",
+      "gloss": "waliwaambia"
+    },
+    {
+      "surface": "לָֽרֹאִים֙",
+      "gloss": "waonao"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "msi-"
+    },
+    {
+      "surface": "תִרְא֔וּ",
+      "gloss": "one"
+    },
+    {
+      "surface": "וְלַ֣חֹזִ֔ים",
+      "gloss": "na waotazamao"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "msi-"
+    },
+    {
+      "surface": "תֶחֱז֖וּ",
+      "gloss": "tazame"
+    },
+    {
+      "surface": "לָ֖נוּ",
+      "gloss": "kwetu"
+    },
+    {
+      "surface": "נְכֹח֑וֹת",
+      "gloss": "yaliyo sawa"
+    },
+    {
+      "surface": "דַּבְּר֣וּ",
+      "gloss": "semeni"
+    },
+    {
+      "surface": "לָ֔נוּ",
+      "gloss": "neno zuri"
+    },
+    {
+      "surface": "חֲלָק֖וֹת",
+      "gloss": "↔"
+    },
+    {
+      "surface": "חֲז֖וּ",
+      "gloss": "tazameni"
+    },
+    {
+      "surface": "מַהֲתַלּֽוֹת",
+      "gloss": "udanganyifu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:06:58.718065395Z",
+  "model": "glm-5.2"
+}

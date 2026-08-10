@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kwa hiyo, kwa ajili yenu, mbingu zimezuia ⟨⟩ teli, na nchi imezuia mazao yake.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כֵּ֣ן",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "עֲלֵיכֶ֔ם",
+      "gloss": "kwa ajili yenu"
+    },
+    {
+      "surface": "כָּלְא֥וּ",
+      "gloss": "zimezuia"
+    },
+    {
+      "surface": "שָמַ֖יִם",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "מִטָּ֑ל",
+      "gloss": "teli"
+    },
+    {
+      "surface": "וְהָאָ֖רֶץ",
+      "gloss": "na nchi"
+    },
+    {
+      "surface": "כָּלְאָ֥ה",
+      "gloss": "imezuia"
+    },
+    {
+      "surface": "יְבוּלָֽהּ",
+      "gloss": "mazao yake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:51:13.889659580Z",
+  "model": "glm-5.2"
+}

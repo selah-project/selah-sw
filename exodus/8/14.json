@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Wakafanya vivyo hivyo Wachawi kwa uchawi wao, ili kutoa ⟨את⟩ chawa, wala hawakuweza; naye ⟨ikawa⟩ chawa kwa binadamu na mnyama.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Wakafanya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "Wachawi"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "kwa uchawi wao"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ili kutoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chawa"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "chawa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "hawakuweza"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "chawa"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "kwa binadamu"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "na mnyama"
+    }
+  ],
+  "timestamp": "2026-08-10T14:28:55.870694817Z",
+  "model": "glm-5.2"
+}

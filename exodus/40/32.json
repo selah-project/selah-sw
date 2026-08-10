@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Wakati wa kuingia kwao hema ya kukutania, na wakati wa kukaribia kwao madhabahu, waliosha, kama alivyomrithia Yahweh ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "wakati wa kuingia kwao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kukutania"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "na wakati wa kukaribia kwao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "waliosha"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alivyomrithia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:23.854576951Z",
+  "model": "glm-5.2"
+}

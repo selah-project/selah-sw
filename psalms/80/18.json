@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 80,
+  "translation": "Iwe mkono wako juu ya mtu wa mkono wako wa kulia, juu ya mwana wa adamu umemtie nguvu kwa ajili yako.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mkono wako"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "wa mkono wako wa kulia"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa adamu"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "umemtie nguvu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa ajili yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:32.838896029Z",
+  "model": "glm-5.2"
+}

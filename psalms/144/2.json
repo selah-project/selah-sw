@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 144,
+  "translation": "chesed yangu na ngome yangu, boma langu na mkombozi wangu, ngao yangu, na kwake nilijificha, yeye anayeweka taifa langu chini yangu.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "chesed yangu"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "na ngome yangu"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "boma langu"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "na mkombozi wangu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yangu"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ngao yangu"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "na kwake"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nilijificha"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "yeye anayeweka chini"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "taifa langu"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "chini yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:48.028883438Z",
+  "model": "glm-5.2"
+}

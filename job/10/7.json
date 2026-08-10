@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 10:7",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Kwa kujua kwako ⟨kwamba⟩ mimi si mkosefu, na hakuna anayeniokoa kutoka mkononi mwako?",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דעתך",
+      "gloss": "kujua kwako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "mimi mkosefu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na hakuna"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "kutoka mkononi mwako"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "anayeniokoa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:33:24.803140794Z",
+  "model": "glm-5.2"
+}

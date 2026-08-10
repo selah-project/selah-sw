@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Kipindi cha kulia, na kipindi cha kucheka; kipindi cha kuomboleza, na kipindi cha kucheza ngoma.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "kipindi"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "cha kulia"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na kipindi"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "cha kucheka"
+    },
+    {
+      "surface": "עת",
+      "gloss": "kipindi"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "kuomboleza"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na kipindi"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "kucheza ngoma"
+    }
+  ],
+  "timestamp": "2026-08-10T15:37:51.083117251Z",
+  "model": "glm-5.2"
+}

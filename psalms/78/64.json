@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Makuhani wake kwa upanga walianguka, na mjane zake hawalili.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "makuhani wake"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kwa upanga"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "walianguka"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "na mjane zake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "walili"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:39.755538232Z",
+  "model": "glm-5.2"
+}

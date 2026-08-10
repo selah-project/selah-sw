@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Yahweh akajibu ⟨את⟩ mjumbe yule anayenena ndani yangu maneno mazuri, maneno ya faraja.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Na akajibu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mjumbe yule"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mjumbe yule"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "anayenena"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ndani yangu"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "mazuri"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "ya faraja"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:15.448162374Z",
+  "model": "glm-5.2"
+}

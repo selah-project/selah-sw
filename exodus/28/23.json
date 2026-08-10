@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Na utatengeneza juu ya hosheni pete mbili za dhahabu, na utaweka ⟨את⟩ pete mbili ⟨hizo⟩ juu ya ncha mbili za hosheni.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Na utatengeneza"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hosheni"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "pete"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "za dhahabu"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "na utaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pete mbili"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "pete"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ncha"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "za hosheni"
+    }
+  ],
+  "timestamp": "2026-08-10T17:41:40.342977422Z",
+  "model": "glm-5.2"
+}

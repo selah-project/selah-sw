@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "Mengi kiasi gani kazi zako, Yahweh; zote kwa hekima umefanya; nchi imejaa viumbe vyako.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kiasi gani"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "mengi"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "kazi zako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "zote"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "kwa hekima"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "umefanya"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "imejaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "viumbe vyako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:03.513011967Z",
+  "model": "glm-5.2"
+}

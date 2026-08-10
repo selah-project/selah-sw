@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Naye alishindana na mjumbe akashinda; alilia, akamwomlea; Betheli nimũthie hamũnaye, na huko atazungumza nasi;",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "akashindana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mjumbe"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "akashinda"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "alilia"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "akamwomlea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨mwegemeo⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eli"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "nimũthie"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na huko"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "atazungumza"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nasi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:20:54.015292509Z",
+  "model": "glm-5.2"
+}

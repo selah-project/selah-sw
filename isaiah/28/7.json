@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 28:7",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Na hawa pia wamepotea kwa sababu ya mvinyo, na kwa sababu ya kileo wamedanganyika; kuhani na nabii wamepotea kwa kileo, wamelezwa na mvinyo, wamedanganyika kwa kileo, wamepotea ⟨katika⟩ kuona, wamepusuka katika hukumu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Na pia"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "kwa sababu ya mvinyo"
+    },
+    {
+      "surface": "שגו",
+      "gloss": "wamepotea"
+    },
+    {
+      "surface": "ובשכר",
+      "gloss": "na kwa sababu ya kileo"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "wamedanganyika"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "na nabii"
+    },
+    {
+      "surface": "שגו",
+      "gloss": "wamepotea"
+    },
+    {
+      "surface": "בשכר",
+      "gloss": "kwa kileo"
+    },
+    {
+      "surface": "נבלעו",
+      "gloss": "wamelezwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "היין",
+      "gloss": "mvinyo"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "wamedanganyika"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "השכר",
+      "gloss": "kileo"
+    },
+    {
+      "surface": "שגו",
+      "gloss": "wamepotea"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "katika kuona"
+    },
+    {
+      "surface": "פקו",
+      "gloss": "wamepusuka"
+    },
+    {
+      "surface": "פליליה",
+      "gloss": "katika hukumu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:00:44.722622421Z",
+  "model": "glm-5.2"
+}

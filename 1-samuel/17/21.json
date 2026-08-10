@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 17:21",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Nayo Yisra'eli na Wapelishti wakapanga mahali pa mapigano, safu juu ya safu.",
+  "tokens": [
+    {
+      "surface": "וַתַּעֲרֹ֤ךְ",
+      "gloss": "wakapanga"
+    },
+    {
+      "surface": "יִשְׂרָאֵל֙",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "וּפְלִשְׁתִּ֔ים",
+      "gloss": "na Wapelishti"
+    },
+    {
+      "surface": "מַעֲרָכָ֖ה",
+      "gloss": "mahali pa mapigano"
+    },
+    {
+      "surface": "לִקְרַ֥את",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "מַעֲרָכָֽה",
+      "gloss": "safu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:23:43.426460814Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Akafanya Noach; kulingana na yote aliyoamuru ⟨את⟩e Elohim, ndivyo alivyofanya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Akafanya"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kulingana na yote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliyo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amuru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩e",
+      "marks": "yeye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alivyofanya"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:05.592609034Z",
+  "model": "glm-5.2"
+}

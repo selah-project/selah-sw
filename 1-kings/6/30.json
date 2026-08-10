@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na ⟨את⟩ sakafu ya nyumba ⟨ali⟩paka dhahabu, upo wa ndani na wa nje.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "sakafu"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "sakafu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya nyumba"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "⟨ali⟩paka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "upo wa ndani"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "na wa nje"
+    }
+  ],
+  "timestamp": "2026-08-10T11:39:04.497122030Z",
+  "model": "glm-5.2"
+}

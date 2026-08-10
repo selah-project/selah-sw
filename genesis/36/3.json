@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "na ⟨את⟩ Bosmath binti Yishmael dada ya Nevayot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Bosmath"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmath"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "dada ya"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nevayot"
+    }
+  ],
+  "timestamp": "2026-08-10T10:11:40.015850712Z",
+  "model": "glm-5.2"
+}

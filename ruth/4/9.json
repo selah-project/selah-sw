@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 4:9",
+  "book": "ruth",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na Boazi akasema kwa wazee na ⟨na⟩ watu wote: Mashahidi ninyi leo, kwani nimenunua ⟨את⟩ yote yaliyo ⟨ya⟩ Elimeleki, na ⟨את⟩ yote yaliyo ⟨ya⟩ Kilyoni na Mahloni, kutoka mkononi mwa Naomi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazi"
+    },
+    {
+      "surface": "לזקנים",
+      "gloss": "kwa wazee"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "mashahidi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ninyi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "nimenunua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yote yaliyo ya Elimeleki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaliyo"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "ya Elimeleki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "yote yaliyo ya Kilyoni na Mahloni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaliyo"
+    },
+    {
+      "surface": "לכליון",
+      "gloss": "ya Kilyoni"
+    },
+    {
+      "surface": "ומחלון",
+      "gloss": "na Mahloni"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kutoka mkononi"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "mwa Naomi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:43:51.463963557Z",
+  "model": "glm-5.2"
+}

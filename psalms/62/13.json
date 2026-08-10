@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 62,
+  "translation": "Na kwako, Adonai, ⟨upo⟩ chesed; kwa kuwa wewe humlipa kila mtu kama tendo lake.",
+  "tokens": [
+    {
+      "surface": "וּלְךָֽ",
+      "gloss": "Na kwako"
+    },
+    {
+      "surface": "אֲדֹנָ֥י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חָ֑סֶד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אַתָּ֨ה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "תְשַׁלֵּ֖ם",
+      "gloss": "humlipa"
+    },
+    {
+      "surface": "לְאִ֣ישׁ",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "כְּֽמַעֲשֵֽׂהוּ",
+      "gloss": "kama tendo lake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:20.625263665Z",
+  "model": "glm-5.2"
+}

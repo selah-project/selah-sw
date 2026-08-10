@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Na Ya'akov akatuma, naye akamwita Raheli na Lea shambani, kwa kundi lake.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "na akatuma"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "naye akamwita"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Raheli"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "na Lea"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "shambani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "kundi lake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:10:06.999828396Z",
+  "model": "glm-5.2"
+}

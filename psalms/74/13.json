@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 74,
+  "translation": "Wewe umevunja kwa nguvu zako ⟨את⟩ bahari, umepasua vichwa vya tanninim juu ya maji.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wewe"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "umevunja"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "kwa nguvu zako"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "umepasua"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "vichwa vya"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "tanninim"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maji"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:59.601771844Z",
+  "model": "glm-5.2"
+}

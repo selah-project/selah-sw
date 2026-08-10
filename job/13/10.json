@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Hakika atowakemea, ⟨אתכם⟩, ikiwa kwa siri nyinyi mnapandikiza nyuso.",
+  "tokens": [
+    {
+      "surface": "הוֹכֵ֣חַ",
+      "gloss": "Hakika atowakemea (kikombe cha infinitive)"
+    },
+    {
+      "surface": "יוֹכִ֣יחַ",
+      "gloss": "atowakemea"
+    },
+    {
+      "surface": "אֶתְכֶ֑ם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "בַּ֝סֵּ֗תֶר",
+      "gloss": "kwa siri"
+    },
+    {
+      "surface": "פָּנִ֥ים",
+      "gloss": "nyuso"
+    },
+    {
+      "surface": "תִּשָּׂאֽוּן",
+      "gloss": "mnapandikiza"
+    }
+  ],
+  "timestamp": "2026-08-10T16:22:14.245019614Z",
+  "model": "glm-5.2"
+}

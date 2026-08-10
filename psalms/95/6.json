@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 95,
+  "translation": "Njoni, tuabudu na kupinda magoti, tuisugu mbele za Yahweh Muumba wetu.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "njoni"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "tuabudu"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "na kupinda magoti"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "tuisugu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "Muumba wetu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:06.052162362Z",
+  "model": "glm-5.2"
+}

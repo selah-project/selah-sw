@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Mwana wa mwaka mmoja ⟨alikuwa⟩ Shaul mtawala wake, na miaka miwili aliutawala Yisra'el.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "katika kutawala kwake"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "na miwili"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "alitawala"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-10T11:22:54.657832686Z",
+  "model": "glm-5.2"
+}

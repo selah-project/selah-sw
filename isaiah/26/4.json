@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Tegemeni Yahweh daima, kwa kuwa katika Yah, Yahweh ⟨ni⟩ mwamba wa milele.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Tegemeni"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "daima"
+    },
+    {
+      "surface": "עד",
+      "gloss": "(ya milele)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "katika Yah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צור",
+      "gloss": "mwamba"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "wa milele"
+    }
+  ],
+  "timestamp": "2026-08-10T15:06:14.294901142Z",
+  "model": "glm-5.2"
+}

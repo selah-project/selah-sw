@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na Shem akaishi baada ya kumzaa ⟨את⟩ Arpakshad miaka mia tano, na akazaa wana na binti.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Na Shem akaishi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kumzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na akazaa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na binti"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:49.218510792Z",
+  "model": "glm-5.2"
+}

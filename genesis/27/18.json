@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Naye akaenda kwa baba yake, akasema: «Baba yangu.» Naye akasema: «Tazama, mimi hapa. Wewe ni nani, mwana wangu?»",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Baba yangu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Tazama, mimi hapa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wewe ni nani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:08:14.454024950Z",
+  "model": "glm-5.2"
+}

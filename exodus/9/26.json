@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Tu katika nchi ya Goshen, ambapo walipo wana wa Yisrael, hakukuwa na mvua ya barafu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "ya Goshen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "walipo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakukuwa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "na"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "mvua ya barafu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:02.579834978Z",
+  "model": "glm-5.2"
+}

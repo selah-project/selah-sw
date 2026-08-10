@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na mlichukua ⟨את⟩ Sikuthi mfalme wenu, na ⟨את⟩ Kiuni sanamu zenu, nyota wa elohim wenu, ambao mlifanya kwa ajili yenu.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "Na mlichukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikuthi"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikuthi"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "mfalme wenu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kiuni"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiuni"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "sanamu zenu"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "nyota"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "wa elohim wenu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "mlifanya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa ajili yenu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:21:13.240786030Z",
+  "model": "glm-5.2"
+}

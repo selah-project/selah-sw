@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Ikawekwa habari mbele ya Shaul ya kwamba David amekimbia kwenda Gath; naye hakujitolea tena kumtafuta.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ikawekwa habari mbele"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ya Shaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "amekimbia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "גת",
+      "gloss": "kwenda Gath"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "naye haku"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "jitolea"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "kumtafuta"
+    }
+  ],
+  "timestamp": "2026-08-10T14:54:08.417185301Z",
+  "model": "glm-5.2"
+}

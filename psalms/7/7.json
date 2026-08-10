@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Ondoka, Yahweh, katika hasira yako; jiinule kwa fujo la wanaonikandamiza; na amka kwa ajili yangu; hukumu uliyoamrisha.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ondoka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "katika hasira yako"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "jiinule"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "kwa fujo la"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "wanaonikandamiza"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "na amka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ajili yangu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "uliyoamrisha"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:22.821882002Z",
+  "model": "glm-5.2"
+}

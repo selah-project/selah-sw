@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Nilimtafuta ⟨את⟩ Yahweh naye akanijibu, akaniokoa kutoka maghofu yangu yote.",
+  "tokens": [
+    {
+      "surface": "דָּרַשְׁתִּי",
+      "gloss": "Nilimtafuta"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְעָנָנִי",
+      "gloss": "naye akanijibu"
+    },
+    {
+      "surface": "וּמִכָּל",
+      "gloss": "akaniokoa kutoka"
+    },
+    {
+      "surface": "מְגוֹרֹתַי",
+      "gloss": "maghofu yangu yote"
+    },
+    {
+      "surface": "הִצִּילָנִי",
+      "gloss": "akaniokoa"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:07.499964094Z",
+  "model": "glm-5.2"
+}

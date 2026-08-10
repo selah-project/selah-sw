@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 47,
+  "translation": "Elohim ameufanya ufalme juu ya mataifa; Elohim ameketi juu ya kiti cha enzi cha utukufu wake.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ameufanya ufalme"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ameketi"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kiti cha enzi"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "cha utukufu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:42.408231205Z",
+  "model": "glm-5.2"
+}

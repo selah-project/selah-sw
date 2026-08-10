@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "DHambi ya Yehudha yameandikwa kwa kalamu ya chuma, kwa ncha ya shamiri, yamechongwa juu ya mbao ya moyo wao, na juu ya pembe za madhabahu zenu.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "dhambi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "yameandikwa"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "kwa kalamu"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ya chuma"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "kwa ncha"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "ya shamiri"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "yamechongwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "mbao"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ya moyo wao"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "na juu ya pembe"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "za madhabahu zenu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:14:48.647793047Z",
+  "model": "glm-5.2"
+}

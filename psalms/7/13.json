@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Ikiwa ⟨hamt⟩ arudi, ⟨hut⟩ kunoa upanga wake; utasi wake amekuza, na akaiandaa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ikiwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨hamt⟩"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "arudi"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "upanga wake"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "⟨hut⟩ kunoa"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "utasi wake"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "amekuza"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "na akaiandaa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:40.962721498Z",
+  "model": "glm-5.2"
+}

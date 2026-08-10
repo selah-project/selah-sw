@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Na wewe, Yisra'el, mtumishi wangu, Ya'akov ambaye nimemchagua, mzao wa Avraham mpenzi wangu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na wewe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mtumishi wangu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "nimemchagua"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mzao wa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "mpenzi wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:09.144090894Z",
+  "model": "glm-5.2"
+}

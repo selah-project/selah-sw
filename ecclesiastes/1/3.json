@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Faida gani ⟨kwa⟩ mtu katika jumla ya japo lake, ambayo ⟨yeye⟩ ajapocha chini ya jua?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "gani"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "Faida"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kwa mtu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika jumla ya"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "japo lake"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "ambayo ajapocha"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "jua"
+    }
+  ],
+  "timestamp": "2026-08-10T15:37:08.808059881Z",
+  "model": "glm-5.2"
+}

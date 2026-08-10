@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Lakini nyama ya ng'ombe dume na ⟨את⟩ ngozi yake na ⟨את⟩ mavi yake utayateketa kwa moto nje ya kambi; ni sadaka ya dhambi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyama"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ya ng'ombe dume"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ngozi yake"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "ngozi yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mavi yake"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "mavi yake"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "utayateketa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kwa moto"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "nje"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ya kambi"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "sadaka ya dhambi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-10T10:26:33.795724667Z",
+  "model": "glm-5.2"
+}

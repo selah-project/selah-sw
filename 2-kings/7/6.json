@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 7:6",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na Adonai alifanya kambi ya Aram isikie ⟨את⟩ sauti ya magari, ⟨את⟩ sauti ya farasi, ⟨את⟩ sauti ya jeshi kubwa; wakaambiana mmoja kwa mwingine: Tazama, mfalme wa Yisrael ameajiri juu yetu ⟨את⟩ wafalme wa Wahiti na ⟨את⟩ wafalme wa Mitsrayim, ili watujelee.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "Na Adonai"
+    },
+    {
+      "surface": "השמיע",
+      "gloss": "alifanya isikie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauti ya magari"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kambi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ya Aram"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ya magari"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "ya farasi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ya jeshi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wakaambiana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mwingine"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ameajiri"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "juu yetu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wafalme wa Wahiti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "wa Wahiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wafalme wa Mitsrayim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayim"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ili watujelee"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-10T16:05:14.765516701Z",
+  "model": "glm-5.2"
+}

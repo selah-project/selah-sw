@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 103,
+  "translation": "Aliwafunulia njia zake kwa Moshe, na matendo yake kwa wana wa Yisra'el.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Aliwafunulia"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "njia zake"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kwa Moshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "na matendo yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:44.391728613Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na Nahor akaishi miaka tisa na ishirini, akazaa ⟨את⟩ Terach.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Na akaishi"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "tisa"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na ishirini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:20.871574043Z",
+  "model": "glm-5.2"
+}

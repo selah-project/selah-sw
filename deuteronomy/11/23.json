@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "baso Yahweh atawafukuza ⟨את⟩ mataifa haya yote mbele yenu, nanyi mtamiliki mataifa makubwa na wenye nguvu kuliko nyinyi.",
+  "tokens": [
+    {
+      "surface": "וְהוֹרִ֧ישׁ",
+      "gloss": "baso atawafukuza"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mataifa haya yote"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הַגּוֹיִ֥ם",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "הָאֵ֖לֶּה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "מִלִּפְנֵיכֶ֑ם",
+      "gloss": "mbele yenu"
+    },
+    {
+      "surface": "וִֽירִשְׁתֶּ֣ם",
+      "gloss": "nanyi mtamiliki"
+    },
+    {
+      "surface": "גּוֹיִ֔ם",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "גְּדֹלִ֥ים",
+      "gloss": "makubwa"
+    },
+    {
+      "surface": "וַעֲצֻמִ֖ים",
+      "gloss": "na wenye nguvu"
+    },
+    {
+      "surface": "מִכֶּֽם",
+      "gloss": "kuliko nyinyi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:57:10.584051274Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Akamweka ⟨kuwa⟩ bwana juu ya nyumba yake, na mtawala juu ya mali zake zote.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Akamweka"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "bwana"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "juu ya nyumba yake"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "na mtawala"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "juu ya zote"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "mali zake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:05.262849120Z",
+  "model": "glm-5.2"
+}

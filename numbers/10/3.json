@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na wakapiga nazake, nao ⟨wote⟩ watakusanyika kwako, mkusanyiko wote, ⟨hadi⟩ mlangoni pa hema ya mkutano.",
+  "tokens": [
+    {
+      "surface": "וְתָקְע֖וּ",
+      "gloss": "na wakapiga"
+    },
+    {
+      "surface": "בָּהֵ֑ן",
+      "gloss": "nazake"
+    },
+    {
+      "surface": "וְנֽוֹעֲד֤וּ",
+      "gloss": "watakusanyika"
+    },
+    {
+      "surface": "אֵלֶ֨יךָ֙",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "⟨wote⟩"
+    },
+    {
+      "surface": "הָ֣עֵדָ֔ה",
+      "gloss": "mkusanyiko wote"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨hadí⟩"
+    },
+    {
+      "surface": "פֶּ֖תַח",
+      "gloss": "mlangoni pa"
+    },
+    {
+      "surface": "אֹ֥הֶל",
+      "gloss": "hema ya"
+    },
+    {
+      "surface": "מוֹעֵֽד",
+      "gloss": "mkutano"
+    }
+  ],
+  "timestamp": "2026-08-10T10:44:02.589316298Z",
+  "model": "glm-5.2"
+}

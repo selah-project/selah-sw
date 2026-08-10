@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 66,
+  "translation": "Kwa maana kwa moto Yahweh atahukumu, na kwa upanga wake ⟨את⟩ mwili wote, na waliouawa wa Yahweh watakuwa wengi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kwa moto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "atahukumu"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "na kwa upanga wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwili wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mwili"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "na watakuwa wengi"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "waliouawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T12:09:47.274577865Z",
+  "model": "glm-5.2"
+}

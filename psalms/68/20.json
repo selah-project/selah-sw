@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Abarikiwe Adonai; siku baada ya siku anatubebesha, ⟨hiyo ndiyo⟩ El ya wokovu wetu. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Abarikiwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "baada ya siku"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "anatubebesha"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tu"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "ya wokovu wetu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:55.554603947Z",
+  "model": "glm-5.2"
+}

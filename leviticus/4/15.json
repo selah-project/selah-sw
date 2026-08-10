@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "na wazee wa kusanyiko wataweka ⟨את⟩ mikono yao juu ya kichwa cha fahali mbele za Yahweh, na fahali atachinjwa mbele za Yahweh",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "na wataweka"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "wazee"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "wa kusanyiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikono yao"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mikono yao"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "cha fahali"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "na atachinjwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fahali"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "fahali"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:31:27.420837979Z",
+  "model": "glm-5.2"
+}

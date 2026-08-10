@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Jitenge katika uovu, ⟨na⟩ fanya jema; tafuta shalomu, ⟨na⟩ uifuate.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "jitenge"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "katika uovu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "⟨na⟩ fanya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jema"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "tafuta"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalomu"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "⟨na⟩ uifuate"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:05.321184680Z",
+  "model": "glm-5.2"
+}

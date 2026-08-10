@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Je, hatuhesabiwi kwake kama watu wa kigeni? Kwa kuwa ametuuzwa, na kutafuna kabisa hata kumeza ⟨את⟩ fedha zetu.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Je, hatu"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "kama watu wa kigeni"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "hesabiwi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "ametuuzwa"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "na kutafuna kabisa hata kumeza"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "kumeza kabisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fedha zetu"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "fedha zetu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:10:40.648199469Z",
+  "model": "glm-5.2"
+}

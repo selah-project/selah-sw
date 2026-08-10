@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 97,
+  "translation": "Moto mbele zake huenda, na kuwateketeza wanaomzinguka, adui zake.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbele zake"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "huenda"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "na kuwateketeza"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "wanaomzinguka"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "adui zake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:43.473930589Z",
+  "model": "glm-5.2"
+}

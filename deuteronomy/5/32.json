@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Nanyi mtazingatia kufanya kama alivyoamrisha Yahweh Elohim wenu ⟨את⟩ ninyi; hamtatoka upande wa kulia wala wa kushoto.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "nanyi mtazingatia"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kufanya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alivyoamrisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wenu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamta"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "toka"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "upande wa kulia"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "wala wa kushoto"
+    }
+  ],
+  "timestamp": "2026-08-10T17:43:43.017096952Z",
+  "model": "glm-5.2"
+}

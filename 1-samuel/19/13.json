@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na Mikal akaichukua ⟨את⟩ terafimu, akaiweka kitandani, na ⟨את⟩ mto wa nywele za mbuzi akauweka mwenye kutega kichwa chake, akafunika nguoni.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Na akaichukua"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafimu"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimu"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "akaiweka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kitandani"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "kitanda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mto wa nywele za mbuzi"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "mto (wa nywele za mbuzi)"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "za mbuzi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "akauweka"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "mwenye kutega kichwa chake"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "akafunika"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "nguoni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:25:09.394479738Z",
+  "model": "glm-5.2"
+}

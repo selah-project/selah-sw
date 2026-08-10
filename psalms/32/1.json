@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Ya David. Mafundisho. Oh, heri ya ⟨yule ambaye⟩ asiyo na utashi umepakiwa, dhambi imefunikwa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya David"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Mafundisho"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Oh, heri"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "umepakiwa"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "utashi"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "imefunikwa"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "dhambi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:58.381352384Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Nimeganda katika ⟨shahidi⟩ zako, Yahweh; usinioneshe aibu.",
+  "tokens": [
+    {
+      "surface": "דָּבַ֥קְתִּי",
+      "gloss": "nimeganda"
+    },
+    {
+      "surface": "בְעֵֽדְוֺתֶ֑יךָ",
+      "gloss": "katika ⟨shahidi⟩ zako"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תְּבִישֵֽׁנִי",
+      "gloss": "nioneshe aibu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:58.095295866Z",
+  "model": "glm-5.2"
+}

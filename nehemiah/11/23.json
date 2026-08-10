@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 11:23",
+  "book": "nehemiah",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Kwa kuwa amri ya mfalme ilikuwa juu yao, na maagizo juu ya waimbaji, jambo la siku kwa siku yake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mfalme"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "iliokuwa juu yao"
+    },
+    {
+      "surface": "ואמנה",
+      "gloss": "na maagizo"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "waimbaji"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jambo la"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "kwa siku yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:02:24.004708936Z",
+  "model": "glm-5.2"
+}

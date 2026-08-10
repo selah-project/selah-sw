@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 2:15",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Wakamwona wana wa manabii walio kuwa Yeriko kwa mkabilo, wakasema: Roho ya Eliyahu imetua juu ya Elisha. Wakaja kumlaki, wakamsujudia hata nchi.",
+  "tokens": [
+    {
+      "surface": "ויראהו",
+      "gloss": "wakamwona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "manabii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "walio kuwa"
+    },
+    {
+      "surface": "ביריחו",
+      "gloss": "Yeriko"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "kwa mkabilo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wakasema"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "imetua"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Roho"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ya Eliyahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wakaja"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "kumlaki"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "wakamsujudia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mbele yake"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hata nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:01:15.291633080Z",
+  "model": "glm-5.2"
+}

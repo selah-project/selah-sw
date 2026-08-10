@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Naye Sheth akaishi baada ya kumzaa ⟨את⟩ Enosh miaka saba na mia nane, naye akazaa wana na binti.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akaishi"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sheth"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kumzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enosh"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "saba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "na mia nane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "naye akazaa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na binti"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:14.586846722Z",
+  "model": "glm-5.2"
+}

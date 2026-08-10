@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 115,
+  "translation": "Kama vyao, watengenezaji wao watakuwa; wote wanaoamini katika hao.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "kama vyao"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "watakuwa"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "watengenezaji wao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanaoamini"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "wanaoamini"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "katika hao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:48.294650431Z",
+  "model": "glm-5.2"
+}

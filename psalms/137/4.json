@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 137,
+  "translation": "Je, tunawezaje kuimba ⟨את⟩ wimbo wa Yahweh juu ya ardhi ya ugeni?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Je, tunawezaje"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "kuimba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wimbo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ardhi"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ya ugeni"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:18.449813270Z",
+  "model": "glm-5.2"
+}

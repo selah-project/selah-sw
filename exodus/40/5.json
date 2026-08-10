@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Na utaweka ⟨את⟩ madhabahu ya dhahabu ya uvumba mbele ya sanda la ushuhuda, na utaweka ⟨את⟩ pazia la mlango kwa hema.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Na utaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madhabahu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ya dhahabu"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "ya uvumba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanda"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "la ushuhuda"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "na utaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pazia"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "pazia"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "la mlango"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "kwa hema"
+    }
+  ],
+  "timestamp": "2026-08-10T18:27:31.514222094Z",
+  "model": "glm-5.2"
+}

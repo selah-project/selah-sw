@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Yahweh amevunja fimbo ya waovu, kijiti cha watawala.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "amevunja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "fimbo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya waovu"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kijiti"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "cha watawala"
+    }
+  ],
+  "timestamp": "2026-08-10T11:57:17.878060185Z",
+  "model": "glm-5.2"
+}

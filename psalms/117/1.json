@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 117,
+  "translation": "Msifuni ⟨את⟩ Yahweh, enyi mataifa yote, mumsifu yeye, enyi taifa zote.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Msifuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "mumsifu yeye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "taifa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:17.807827397Z",
+  "model": "glm-5.2"
+}

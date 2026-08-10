@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "Bariki, nafsi yangu, ⟨את⟩ Yahweh. Yahweh, Elohim wangu, umekuwa mkubwa sana; utukufu na stara umevaa.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "bariki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wangu"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "umekuwa mkubwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "utukufu"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "na stara"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "umevaa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:07.456783889Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na Mahalalel akaishi miaka tano na sitini miaka, naye akazaa ⟨את⟩ Yered.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "na akaishi"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tano"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "na sitini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "naye akazaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yered"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yered"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:11.095064472Z",
+  "model": "glm-5.2"
+}

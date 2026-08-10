@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Nimesikia ⟨את⟩ malalamiko ya wana wa Yisrael. Waambieni, mkisema: Jioni mtakula nyama na asubuhi mtashiba mkate, mtajua kwamba mimi ni Yahweh Elohim wenu.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Nimesikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malalamiko"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "malalamiko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya wana"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "wa Yisrael"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Waambieni"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mkisema"
+    },
+    {
+      "surface": "בין",
+      "gloss": "Jioni"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "⟨ya jioni⟩"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mtakula"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "na asubuhi"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "mtashiba"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "mtajua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:22:23.207588620Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 14:9",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Acha tu, msimwasi Yahweh; nanyi msiogope ⟨את⟩ watu wa ⟨nchi⟩ hii, kwa kuwa chakula chetu ni wao — kivuli chao kimeondoka kutoka juu yao, na Yahweh ⟨את⟩ yupo nasi; msiwaogope.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "acha tu"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "mwasi Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "msi"
+    },
+    {
+      "surface": "תמרדו",
+      "gloss": "(asi)"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "nanyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "msi"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ogope"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu wa nchi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "chakula chetu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ni wao"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ameondoka"
+    },
+    {
+      "surface": "צלם",
+      "gloss": "kivuli chao"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "kutoka juu yao"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ yupo nasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "msi"
+    },
+    {
+      "surface": "תיראם",
+      "gloss": "waogope"
+    }
+  ],
+  "timestamp": "2026-08-10T10:44:31.689312144Z",
+  "model": "glm-5.2"
+}

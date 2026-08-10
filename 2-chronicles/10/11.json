@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "«Na sasa: baba yangu alikutwikieni mzigo mzito, na mimi nitaongeza juu ya mzigo wenu; baba yangu aliwaadhibu ⟨אתם⟩ kwa vipigo, na mimi kwa nge.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba yangu"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "alikutwikieni"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "juu yenu"
+    },
+    {
+      "surface": "על",
+      "gloss": "mzigo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mzito"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na mimi"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "nitaongeza"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "mzigo wenu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba yangu"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "aliwaadhibu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "kwa vipigo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na mimi"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "kwa nge"
+    }
+  ],
+  "timestamp": "2026-08-10T16:29:27.260321977Z",
+  "model": "glm-5.2"
+}

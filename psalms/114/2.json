@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 114,
+  "translation": "Yehuda akawa takatifu lake, Yisrael utawala wake.",
+  "tokens": [
+    {
+      "surface": "הָיְתָ֣ה",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "יְהוּדָ֣ה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לְקָדְשׁ֑וֹ",
+      "gloss": "takatifu lake"
+    },
+    {
+      "surface": "יִ֝שְׂרָאֵ֗ל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מַמְשְׁלוֹתָֽיו",
+      "gloss": "utawala wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:52.439262054Z",
+  "model": "glm-5.2"
+}

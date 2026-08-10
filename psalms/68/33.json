@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Ufalme wa ⟨nchi ya⟩ ardhi,imweni Elohim; mgeni nyimbo Adonai. Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "ufalme"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ardhi"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "imweni"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mgeni nyimbo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:52.791401877Z",
+  "model": "glm-5.2"
+}

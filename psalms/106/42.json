@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Na maadui zao wakawanyonya, nao wakanyenyekea chini ya mkono wao.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "wakawanyonya"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "Na maadui zao"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "wakanyenyekea"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "mkono wao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:42.449906792Z",
+  "model": "glm-5.2"
+}

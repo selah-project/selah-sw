@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 55,
+  "translation": "Kwa mwendesha ⟨wa⟩ muziki wa nyenzo, mafundisho, ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwendesji"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "⟨wa⟩ muziki wa nyenzo"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mafundisho"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:49.744415675Z",
+  "model": "glm-5.2"
+}

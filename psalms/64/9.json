@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 64,
+  "translation": "Na wakimwapasua ⟨yeye⟩ juu yao, ndimi yao; wataketayotetereka wote waonao katika wao.",
+  "tokens": [
+    {
+      "surface": "וַיַּכְשִׁיל֣וּהוּ",
+      "gloss": "Na wakimwapasua"
+    },
+    {
+      "surface": "עָלֵ֣ימוֹ",
+      "gloss": "juu yao"
+    },
+    {
+      "surface": "לְשׁוֹנָ֑ם",
+      "gloss": "ndimi yao"
+    },
+    {
+      "surface": "יִ֝תְנֹדֲד֗וּ",
+      "gloss": "wataketayotetereka"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "רֹ֥אֵה",
+      "gloss": "waonao"
+    },
+    {
+      "surface": "בָֽם",
+      "gloss": "katika wao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:54.630965521Z",
+  "model": "glm-5.2"
+}

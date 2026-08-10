@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Pinchas akasimama na kufanya hukumu, na tauni ikazuiwa.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "akasimama"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "na kufanya hukumu"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "ikazuiwa"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "tauni"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:22.261295832Z",
+  "model": "glm-5.2"
+}

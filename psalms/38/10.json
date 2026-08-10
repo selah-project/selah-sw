@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Adonai, matakwa yangu yote ni mbele zako, na kuugua kwangu hakufichika kwako.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "mbele zako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "matakwa yangu"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "na kuugua kwangu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "kufichika"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:59.414812270Z",
+  "model": "glm-5.2"
+}

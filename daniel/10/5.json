@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Nikainua ⟨את⟩ macho yangu nikaona, na tazama! ⟨┤mwanamume⟩ mmoja amevaa nguo za kitani, na kiuno chake kimefungwa kwa dhahabu ya Uphaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "nikainua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macho yangu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "macho yangu"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "nikaona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na tazama!"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨mwanamume⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "amevaa"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "nguo za kitani"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "na kiuno chake"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "kimefungwa"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "kwa dhahabu"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "ya Uphaz"
+    }
+  ],
+  "timestamp": "2026-08-10T13:54:47.808033964Z",
+  "model": "glm-5.2"
+}

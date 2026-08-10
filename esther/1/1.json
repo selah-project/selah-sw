@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Ikawa katika siku za Achashverosh — yeye ⟨ni⟩ Achashverosh mfalme anayetawala kutoka Hodu hadi Kush — ⟨juu ya⟩ milki mia na ishirini na saba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "katika siku za"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "kutoka Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "saba"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na ishirini"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "mia"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "milki"
+    }
+  ],
+  "timestamp": "2026-08-10T13:49:08.005655759Z",
+  "model": "glm-5.2"
+}

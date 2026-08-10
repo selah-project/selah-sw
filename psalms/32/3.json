@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Kwa kuwa nikikimya, mifupa yangu iliyoze, kwa ngurumo langu siku nzima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "nikikimya"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "iliyoze"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mifupa yangu"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "kwa ngurumo langu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "siku nzima"
+    },
+    {
+      "surface": "היום",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:58.381724672Z",
+  "model": "glm-5.2"
+}

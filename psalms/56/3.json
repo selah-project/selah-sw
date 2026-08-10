@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 56,
+  "translation": "Wananiemeza wapinzani wangu siku yote, kwa kuwa ni wengi wanaopigana nami mwenye urefu.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "Wananiemeza"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "wapinzani wangu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "siku yote"
+    },
+    {
+      "surface": "היום",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ni wengi"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "wanaopigana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "mwenye urefu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:16.374463624Z",
+  "model": "glm-5.2"
+}

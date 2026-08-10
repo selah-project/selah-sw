@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na utampenda ⟨את⟩ Yahweh Elohim wako, kwa moyo wako wote, na kwa nefesh yako yote, na kwa nguvu zako zote.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Na utampenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa ... wote"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na kwa ... yote"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefesh yako"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na kwa ... zote"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "nguvu zako"
+    }
+  ],
+  "timestamp": "2026-08-10T10:54:41.647619404Z",
+  "model": "glm-5.2"
+}

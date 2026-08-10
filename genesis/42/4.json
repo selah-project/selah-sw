@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Lakini Binjaminu, ndugu wa Yosef, Yaʿaqov hakumtuma ⟨na⟩ ndugu zake, maana alisema: «Asije akapatwa na hasara.»",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binjaminu"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjaminu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ndugu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "wa Yosef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakumtuma"
+    },
+    {
+      "surface": "שלח",
+      "gloss": ""
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaʿaqov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndugu zake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "⟨na⟩ ndugu zake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alisema"
+    },
+    {
+      "surface": "פן",
+      "gloss": "asije"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "akapatwa na"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "hasara"
+    }
+  ],
+  "timestamp": "2026-08-10T14:27:33.165486999Z",
+  "model": "glm-5.2"
+}

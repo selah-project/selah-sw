@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Ayubu akajibu ⟨את⟩ Yahweh, akasema:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akajibu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayubu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    }
+  ],
+  "timestamp": "2026-08-10T13:40:48.353866038Z",
+  "model": "glm-5.2"
+}

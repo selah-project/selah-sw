@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 100,
+  "translation": "Mwingie milangoni mwake kwa shukrani, na viwanjani mwake kwa sifa; mshukuruni yeye, mbarikini jina lake.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "mwingie"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "milangoni mwake"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "kwa shukrani"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "na viwanjani mwake"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "kwa sifa"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "mshukuruni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "mbarikini"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:04.272327161Z",
+  "model": "glm-5.2"
+}

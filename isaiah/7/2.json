@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Ikapigiwa habari nyumbani kwa David, ikisema: Aram ⟨imejihusisha⟩ na Efrayimu. Basi moyo wake na moyo wa watu wake ulitetema, kama kutetema kwa miti ya msitu kwa sababu ya upepo.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ikapigiwa habari"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nyumbani kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ikisema"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "⟨imejihusisha⟩"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "ulitetema"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "na moyo wa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "watru wake"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "kama kutetema"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "miti ya"
+    },
+    {
+      "surface": "יער",
+      "gloss": "msitu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "upepo"
+    }
+  ],
+  "timestamp": "2026-08-10T11:56:02.299953458Z",
+  "model": "glm-5.2"
+}

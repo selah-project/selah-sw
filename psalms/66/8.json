@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 66,
+  "translation": "Mbarikini, enye mataifa, Elohim wetu, na mfanye sauti ya sifa yake kusikika.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Mbarikini"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "enye mataifa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "na mfanye kusikika"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ya sifa yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:26.825764103Z",
+  "model": "glm-5.2"
+}

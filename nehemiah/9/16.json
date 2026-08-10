@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Lakini hao na baba zetu wakajivuna, wakaifanya ⟨את⟩ shingo yao kuwa ngumu, wala hawakusikiliza kuyaamri yako.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Lakini hao"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "na baba zetu"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "wakajivuna"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "wakaifanya kuwa ngumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shingo yao"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "shingo yao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hawaku-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sikiliza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuya-"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amri yako"
+    }
+  ],
+  "timestamp": "2026-08-10T14:01:01.713350264Z",
+  "model": "glm-5.2"
+}

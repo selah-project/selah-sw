@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Yoktan alimzaa ⟨את⟩ Almodadi, na ⟨את⟩ Shelefi, na ⟨את⟩ Hatsarmavethi, na ⟨את⟩ Yarachi.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "na Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodadi"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨na⟩ ⟨את⟩",
+      "marks": "Shelefi"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelefi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨na⟩ ⟨את⟩",
+      "marks": "Hatsarmavethi"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsarmavethi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨na⟩ ⟨את⟩",
+      "marks": "Yarachi"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yarachi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:03:11.917611749Z",
+  "model": "glm-5.2"
+}

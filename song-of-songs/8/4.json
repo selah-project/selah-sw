@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Ninakuapigeni ⟨אתכם⟩ binti za Yerushalayim: msiamshe wala hamshishe upendo, mpaka apendapo.",
+  "tokens": [
+    {
+      "surface": "הִשְׁבַּ֥עְתִּי",
+      "gloss": "Ninakuapigeni"
+    },
+    {
+      "surface": "אֶתְכֶ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "binti"
+    },
+    {
+      "surface": "בְּנ֣וֹת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "יְרוּשָׁלִָ֑ם",
+      "gloss": "za Yerushalayim"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "msi"
+    },
+    {
+      "surface": "תָּעִ֧ירוּ",
+      "gloss": "amishe"
+    },
+    {
+      "surface": "וּֽמַה",
+      "gloss": "wala"
+    },
+    {
+      "surface": "תְּעֹֽרְר֛וּ",
+      "gloss": "mshishe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "upendo"
+    },
+    {
+      "surface": "הָאַהֲבָ֖ה",
+      "gloss": "upendo"
+    },
+    {
+      "surface": "עַ֥ד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "שֶׁתֶּחְפָּֽץ",
+      "gloss": "apendapo"
+    }
+  ],
+  "timestamp": "2026-08-10T16:23:46.878741636Z",
+  "model": "glm-5.2"
+}

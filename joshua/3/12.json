@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 3:12",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na sasa chukueni kwa ajili yenu watu kumi na wawili kutoka kabila za Yisra'el, mtu mmoja, mtu mmoja kwa kila kabila.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "chukueni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa ajili yenu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "watu"
+    },
+    {
+      "surface": "משבטי",
+      "gloss": "kutoka kabila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "za Yisra'el"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "kwa kila kabila"
+    }
+  ],
+  "timestamp": "2026-08-10T11:05:11.832009542Z",
+  "model": "glm-5.2"
+}

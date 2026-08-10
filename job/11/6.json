@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 11:6",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "na kukuambia siri za hekima, kwani ⟨hiyo⟩ ni mara mbili ⟨kuliko⟩ ushauri; na tambua kwamba Eloah amesahau kwa ajili yako sehemu ya uovu wako.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "na kukuambia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "siri"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "za hekima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "כפלים",
+      "gloss": "mara mbili"
+    },
+    {
+      "surface": "לתושיה",
+      "gloss": "⟨kuliko⟩ ushauri"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "na tambua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "amesahau"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa ajili yako"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "uovu wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:33:37.762266216Z",
+  "model": "glm-5.2"
+}

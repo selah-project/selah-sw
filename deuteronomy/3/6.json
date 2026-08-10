@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Tukawaagherimu ⟨את⟩ kama tulivyo mfanyia Sichon mfalme wa Cheshbon; tukawaharimu kila mji, watu wote, wanawake na watoto wadogo.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "tukawaagherimu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "tulivyo mfanyia"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "wa Cheshbon"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "tukawaharimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "watu wote"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "wanawake"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "na watoto wadogo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:53:09.501584845Z",
+  "model": "glm-5.2"
+}

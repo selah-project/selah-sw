@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 15:2",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Lugha ya wenye hekima hufanya ujuzi kuwa mzuri, na kinywa cha wajinga hububujisha upuuzi.",
+  "tokens": [
+    {
+      "surface": "לְשׁ֣וֹן",
+      "gloss": "lugha"
+    },
+    {
+      "surface": "חֲ֭כָמִים",
+      "gloss": "ya wenye hekima"
+    },
+    {
+      "surface": "תֵּיטִ֣יב",
+      "gloss": "hufanya mzuri"
+    },
+    {
+      "surface": "דָּ֑עַת",
+      "gloss": "ujuzi"
+    },
+    {
+      "surface": "וּפִ֥י",
+      "gloss": "na kinywa"
+    },
+    {
+      "surface": "כְ֝סִילִ֗ים",
+      "gloss": "cha wajinga"
+    },
+    {
+      "surface": "יַבִּ֥יעַ",
+      "gloss": "hububujisha"
+    },
+    {
+      "surface": "אִוֶּֽלֶת",
+      "gloss": "upuuzi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:26:00.420425768Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Yahweh akaisikia sauti ya Eliyahu, nefesh ya mtoto ikarudi ndani yake, ⟨akaisha kuwa⟩ hai.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akaisikia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ya Eliyahu"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ikarudi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ya mtoto"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "yake"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "⟨akaisha kuwa⟩ hai"
+    }
+  ],
+  "timestamp": "2026-08-10T11:42:53.677680842Z",
+  "model": "glm-5.2"
+}

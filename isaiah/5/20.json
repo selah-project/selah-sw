@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Ole wao wanaosema kwa baya: ni jema, na kwa jema: ni baya; wanaouza giza kuwa nuru, na nuru kuwa giza; wanaouza chungu kuwa tamu, na tamu kuwa chungu!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ole wao"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "wanaosema"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "kwa baya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ni jema"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "na kwa jema"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ni baya"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "wanaouza"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "giza"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "kuwa nuru"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "na nuru"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "kuwa giza"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "wanaouza"
+    },
+    {
+      "surface": "מר",
+      "gloss": "chungu"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "kuwa tamu"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "na tamu"
+    },
+    {
+      "surface": "למר",
+      "gloss": "kuwa chungu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:55:52.743376163Z",
+  "model": "glm-5.2"
+}

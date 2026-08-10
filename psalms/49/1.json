@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Kwa mkufunzi; wa wana wa Korach; wimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mkufunzi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa wana wa"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "wimbo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:49.852129387Z",
+  "model": "glm-5.2"
+}

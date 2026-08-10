@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Mawazo yao ya ndani: nyumba zao ni za milele, maskani yao kwa kizazi na kizazi; wameziita kwa majina yao nchi kwa majina yao.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "Mawazo yao ya ndani:"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "nyumba zao"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ni za milele"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "maskani yao"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwa kizazi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na kizazi"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "wameziita"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "kwa majina yao"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:49.787194357Z",
+  "model": "glm-5.2"
+}

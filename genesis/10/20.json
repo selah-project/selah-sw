@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Hawa ndio wana wa Cham kwa familia zao kwa lugha zao katika nchi zao katika mataifa yao.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Hawa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "חם",
+      "gloss": "wa Cham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kwa familia zao"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "kwa lugha zao"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "katika nchi zao"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "katika mataifa yao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:34.757729663Z",
+  "model": "glm-5.2"
+}

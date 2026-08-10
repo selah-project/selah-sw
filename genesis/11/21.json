@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na Reu akaishi baada ya kumzaa ⟨את⟩ Serug miaka mia mbili na saba, akazaa wana na binti.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Na akaishi"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kumzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "saba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "na mia mbili"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazaa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na binti"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:20.871122538Z",
+  "model": "glm-5.2"
+}

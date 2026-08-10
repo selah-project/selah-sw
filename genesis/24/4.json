@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "bali kwenda utakwenda katika nchi yangu na katika jamaa yangu, na ukamtwaa mwanamke kwa mwanangu, kwa Yitskhak.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenda katika"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "nchi yangu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na katika"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "jamaa yangu"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "utakwenda"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "na ukamtwaa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa mwanangu"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kwa Yitskhak"
+    }
+  ],
+  "timestamp": "2026-08-10T10:06:53.855095755Z",
+  "model": "glm-5.2"
+}

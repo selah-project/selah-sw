@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Yahweh, ⟨njo⟩ mbinguni chesed chako; imani yako ⟨inafika⟩ hata mawingu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "mbinguni"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed chako"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "imani yako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mawingu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:13.995916721Z",
+  "model": "glm-5.2"
+}

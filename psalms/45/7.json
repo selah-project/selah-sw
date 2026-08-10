@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "Kiti chako cha enzi, Elohim, ⟨ni⟩ hata milele na milele; fimbo ya uwiano wa haki ⟨ni⟩ fimbo ya ufalme wako.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "Kiti chako cha enzi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hata milele"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na milele"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "fimbo"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "ya uwiano wa haki"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "fimbo"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "ya ufalme wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:59.281099151Z",
+  "model": "glm-5.2"
+}

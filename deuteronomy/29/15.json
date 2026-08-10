@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "kwa kuwa ninyi mnajua ⟨את⟩ yale tuliyoishi nayo katika nchi ya Mitsrayim, na ⟨את⟩ yale tuliopita katikati ya mataifa mliyopitia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ninyi"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "mnajua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yale tuliyoishi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yale"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "tuliyoishi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "yale tuliopita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yale"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "tuliopita"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "katikati"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ya mata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mliyopitia"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "mliyopitia"
+    }
+  ],
+  "timestamp": "2026-08-10T11:02:51.377408103Z",
+  "model": "glm-5.2"
+}

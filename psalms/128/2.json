@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 128,
+  "translation": "Kazi ya mikono yako utakula; heri ⟨ni yako⟩, na 〈〈kila kitu kitakuwa vizuri⟩⟩ kwako.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "Kazi"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "ya mikono yako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨hivyo⟩"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "utakula"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "heri"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "na vizuri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:52.777398368Z",
+  "model": "glm-5.2"
+}

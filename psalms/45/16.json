@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "Wataletwa kwa shangwe na vifijo; wataingia jumba la mfalme.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "wataletwa"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "kwa shangwe"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "na vifijo"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "wataingia"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "jumba la"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:36.978511675Z",
+  "model": "glm-5.2"
+}

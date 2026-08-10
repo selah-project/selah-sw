@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Basi, mpendeni ⟨את⟩ mgeni, kwa kuwa mlikuwawageni katika nchi ya Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "mpendeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mgeni"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "mgeni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "wageni"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "mlikuwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:57:04.279306084Z",
+  "model": "glm-5.2"
+}

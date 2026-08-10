@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 55,
+  "translation": "Tazama, shahidi kwa mataifa nimempa, kiongozi na amrishaye kwa mataifa.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "shahidi"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "kwa mataifa"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "nimempa"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "kiongozi"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "na amrishaye"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "kwa mataiso"
+    }
+  ],
+  "timestamp": "2026-08-10T12:06:56.997784131Z",
+  "model": "glm-5.2"
+}

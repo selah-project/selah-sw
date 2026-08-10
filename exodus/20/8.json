@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Kumbuka ⟨את⟩ siku ya Shabbat, ili kuilitakasa.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Kumbuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ya Shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ili kuilitakasa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:29:42.104593448Z",
+  "model": "glm-5.2"
+}

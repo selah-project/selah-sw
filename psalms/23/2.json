@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Katika malisho ya majani meupi ⟨anani⟩ kulala; karibu na maji ya utulivu ⟨ananiongoza⟩.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "Katika malisho"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ya majani meupi"
+    },
+    {
+      "surface": "yרביצני",
+      "gloss": "anani kulala"
+    },
+    {
+      "surface": "על",
+      "gloss": "karibu na"
+    },
+    {
+      "surface": "מי",
+      "gloss": "maji"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "ya utulivu"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "ananiongoza"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:34.479892221Z",
+  "model": "glm-5.2"
+}

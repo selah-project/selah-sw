@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Nayo taifa la nchi lilimtwaa ⟨את⟩ Yehoachaz mwana wa Yoshiyahu, wakamtia ufalme badala ya baba yake, katika Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "nayo walimtwaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la nchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "wa Yoshiyahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "wakamtia ufalme"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "badala ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "katika Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T14:21:16.329653644Z",
+  "model": "glm-5.2"
+}

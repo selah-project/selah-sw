@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Na kama ⟨ni⟩ jike, na tathmini yakuwe na shekeli thelathini.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na kama"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "jike"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na tathmini yakuwe"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "tathmini yako"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thelathini"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekeli"
+    }
+  ],
+  "timestamp": "2026-08-10T10:39:40.205404879Z",
+  "model": "glm-5.2"
+}

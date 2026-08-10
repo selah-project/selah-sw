@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "nikawaambia: Msitetere, wala msiwaogope wao.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nikawaambia"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "⟨kwao⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "mtetere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "mtie ogopa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:53:34.830703438Z",
+  "model": "glm-5.2"
+}

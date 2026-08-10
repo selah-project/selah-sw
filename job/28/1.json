@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 28:1",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Kwa maana kuna mahali pa kutolewa kwa fedha, na mahali pa dhahabu wanapoichanganya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "kwa fedha"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "mahali pa kutolewa"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "na mahali"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "pa dhahabu"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "wanapoichanganya"
+    }
+  ],
+  "timestamp": "2026-08-10T13:37:23.779704796Z",
+  "model": "glm-5.2"
+}

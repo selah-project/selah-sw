@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 31:23",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Akaichukua ⟨את⟩ ndugu zake pamoja naye, akamfuatilia njia ya siku saba, akamkuta katika mlima wa Giladi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Akaichukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndugu zake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja naye"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "akamfuatilia"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nyuma yake"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njia ya"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "saba"
+    },
+    {
+      "surface": "וידבק",
+      "gloss": "akamkuta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yeye"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "katika mlima wa"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giladi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:10:12.306684745Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Njia ya maagizo yako nifanye kuyaelewa, nami nitafakari kuhusu ajabu zako.",
+  "tokens": [
+    {
+      "surface": "דֶּֽרֶךְ",
+      "gloss": "njia ya"
+    },
+    {
+      "surface": "פִּקּוּדֶ֥יךָ",
+      "gloss": "maagizo yako"
+    },
+    {
+      "surface": "הֲבִינֵ֑נִי",
+      "gloss": "nifanye kuyaelewa"
+    },
+    {
+      "surface": "וְ֝אָשִׂ֗יחָה",
+      "gloss": "nami nitafakari"
+    },
+    {
+      "surface": "בְּנִפְלְאוֹתֶֽיךָ",
+      "gloss": "kuhusu ajabu zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:42.592374321Z",
+  "model": "glm-5.2"
+}

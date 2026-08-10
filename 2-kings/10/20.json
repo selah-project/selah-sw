@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na Yehu akasema: \"Iteni kikutakaso mkutano maalum kwa Baali.\" Nao wakatangaza.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Iteni kikutakaso"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "mkutano maalum"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "kwa Baali"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "Nao wakatangaza"
+    }
+  ],
+  "timestamp": "2026-08-10T16:05:22.205125215Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Paroh akatuma, na tazama, hakufa hata mmoja katika mali ya Yisrael; na moyo wa Paroh ukazwa, wala hakumwacha ⟨את⟩ ⟨⟨wa⟩⟩ watu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakufa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "katika mali"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "ukazwa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hakumwacha"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kumwacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:28:27.663964979Z",
+  "model": "glm-5.2"
+}

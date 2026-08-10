@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Elohim akakutana na Bilam, naye akamwambia: ⟨את⟩ madhabahu saba nimewapanga, nami nichomwe ng'ombe na dhimbwi kwenye ⟨kila⟩ madhabahu.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "akakutana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madhabahu saba"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "saba"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "nimewapanga"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "nami nichomwe"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "na dhimbwi"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "kwenye madhabahu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:55:55.594738828Z",
+  "model": "glm-5.2"
+}

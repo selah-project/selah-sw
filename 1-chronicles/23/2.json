@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Akakusanya ⟨את⟩ wakesirazi wote wa Yisra'el, na makohani, na Walawi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Akakusanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wakesirazi wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "wakesirazi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "na makohani"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "na Walawi"
+    }
+  ],
+  "timestamp": "2026-08-10T17:57:27.948729364Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 6:5",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na Davidi na nyumba yote ya Yisra'el walikuwa wakicheza mbele za Yahweh kwa miti yote ya misonobari, na kwa kinanda, na kwa tanbura, na kwa tari, na kwa bikweli, na kwa simbali.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Na Davidi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yote"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisra'el"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "walikuwa wakicheza"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa yote"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "miti"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "ya misonobari"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "na kwa kinanda"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "na kwa tanbura"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "na kwa tari"
+    },
+    {
+      "surface": "ובמנענעים",
+      "gloss": "na kwa bikweli"
+    },
+    {
+      "surface": "ובצלצלים",
+      "gloss": "na kwa simbali"
+    }
+  ],
+  "timestamp": "2026-08-10T14:55:47.790608996Z",
+  "model": "glm-5.2"
+}

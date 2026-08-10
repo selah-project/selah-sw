@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 77,
+  "translation": "Niliwaza siku za zamani, miaka ya milele.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "niliwaza"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "za zamani"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ya milele"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:10.427759011Z",
+  "model": "glm-5.2"
+}

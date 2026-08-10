@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Nabal akajibu ⟨את⟩ watumwa wa David, akasema: Ni nani David? Na ni nani mwana wa Yishai? Leo hii wamezidi watumwa wanaojitenga kila mmoja mbele ya bwana wake.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akajibu"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watumwa wa David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "watumwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na ni nani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "wa Yishai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo hii"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "wamezidi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "watumwa"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "wanajitenga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mmoja"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bwana wake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:26:27.757076394Z",
+  "model": "glm-5.2"
+}

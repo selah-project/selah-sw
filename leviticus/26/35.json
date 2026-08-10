@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Siku zote za ukiwa wake itapumzika, ⟨kwa⟩ ⟨את⟩ yale ambayo haikupumzika katika sabati zenu mlipokaa humo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Siku zote"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "siku za"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "ukiwa wake"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "itapumzika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yale ambayo haikupumzika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hai"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "kupumzika"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "katika sabati zenu"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "mlipokaa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "humo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:39:04.112549016Z",
+  "model": "glm-5.2"
+}

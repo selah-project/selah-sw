@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Mtu wa haki anajua haki za wanyonge; mtu mbaya haelewi maarifa.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "anajua"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mtu wa haki"
+    },
+    {
+      "surface": "דין",
+      "gloss": "haki"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "za wanyonge"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mtu mbaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "elewi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "maarifa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:29:21.250276646Z",
+  "model": "glm-5.2"
+}

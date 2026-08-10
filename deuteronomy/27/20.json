@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Aralaniwa anayelala na mke wa baba yake, kwa sababu amefunua ubavu wa baba yake, na watu wote watasema, Amina.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Aralaniwa"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "anayelala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mke"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "wa baba yake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "amefunua"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ubavu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "wa baba yake"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na watasema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wat'u wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨wa⟩ watu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amina"
+    }
+  ],
+  "timestamp": "2026-08-10T11:02:10.673492735Z",
+  "model": "glm-5.2"
+}

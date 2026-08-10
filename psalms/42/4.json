@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Machozi yangu yamekuwa chakula changu mchana na usiku, wakati ⟨wanapo⟩ niambia siku nzima: Elohim wako yupo wapi?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "yamekuwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "changu"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "Machozi yangu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chakula"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mchana"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na usiku"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "niambia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "siku nzima"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siku nzima"
+    },
+    {
+      "surface": "איה",
+      "gloss": "yupo wapi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:11.893329559Z",
+  "model": "glm-5.2"
+}

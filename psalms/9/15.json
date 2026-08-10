@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Ili niweze kuhimiza sifa zako zote katika milango ya binti Tsiyoni, nifurahie kwa wokovu wako.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ili"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "niweze kuhimiza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "sifa zako"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "katika milango"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ya binti"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "nifurahie"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "kwa wokovu wako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:33.691785333Z",
+  "model": "glm-5.2"
+}

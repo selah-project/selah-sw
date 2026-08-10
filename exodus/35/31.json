@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Akamjaza ⟨את⟩ yeye roho ya Elohim katika hekima, katika ufahamu, na katika elimu, na katika kazi yote.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "akamjaza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "katika hekima"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "katika ufahamu"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "na katika elimu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na katika yote"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "kazi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:29:04.810116152Z",
+  "model": "glm-5.2"
+}

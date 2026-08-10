@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 65,
+  "translation": "Kwako ⟨kuna⟩ ukimya sifa, Elohim, katika Tsyoni; na kwako litatimia nadhiri.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "ukimya"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "sifa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "katika Tsyoni"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "na kwako"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "litatimia"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nadhiri"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:29.138912675Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Mteue juu yake mtu mbaya, na Shetani asimame upande wake wa kuume.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Mteue"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mtu mbaya"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "na Shetani"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "asimame"
+    },
+    {
+      "surface": "על",
+      "gloss": "upande"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "wake wa kuume"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:09.333876203Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 114,
+  "translation": "Milima ilicheza kama dume wa kondoo, na vilima kama wana wa kundi.",
+  "tokens": [
+    {
+      "surface": "הֶֽ֭הָרִים",
+      "gloss": "Milima"
+    },
+    {
+      "surface": "רָקְד֣וּ",
+      "gloss": "ilicheza"
+    },
+    {
+      "surface": "כְאֵילִ֑ים",
+      "gloss": "kama dume wa kondoo"
+    },
+    {
+      "surface": "גְּ֝בָע֗וֹת",
+      "gloss": "na vilima"
+    },
+    {
+      "surface": "כִּבְנֵי",
+      "gloss": "kama wana wa"
+    },
+    {
+      "surface": "צֹֽאן",
+      "gloss": "kundi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:52.439538866Z",
+  "model": "glm-5.2"
+}

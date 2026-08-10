@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "na Yahweh Elohim wako atairudisha mateka yako, na akuhurumie, na arudi na akukusanye kutoka mataifa yote ambapo Yahweh Elohim wako amekutawanya huko.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "na ... atairudisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mateka yako"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "mateka yako"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "na akuhurumie"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "na arudi"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "na akukusanye"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kutoka ... yote"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mataifi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "amekutawanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "huko"
+    }
+  ],
+  "timestamp": "2026-08-10T14:45:17.114392438Z",
+  "model": "glm-5.2"
+}

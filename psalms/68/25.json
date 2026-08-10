@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Wameona mahudio yako, Elohim; mahudio ya El yangu, mfalme wangu, katika ⟨ulindweni⟩.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "wameona"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "mahudio yako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "mahudio"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El yangu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mfalme wangu"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "katika ulindweni"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:53.737346746Z",
+  "model": "glm-5.2"
+}

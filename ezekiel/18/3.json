@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Mimi ni hai, asema Adonai Yahweh; hakuna tena kupigwa kwa methali hii kati ya Yisrael.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "asema"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hakuna tena"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kupigwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨kwenu⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "משל",
+      "gloss": "kupigwa"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "methali"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kati ya Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T15:16:50.547367074Z",
+  "model": "glm-5.2"
+}

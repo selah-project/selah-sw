@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na watu wakampa kelele Moshe, na Moshe akaomba kwa Yahweh, moto ukazimika.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "na wakampa kelele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "na akaomba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "ukazimika"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-08-10T10:43:46.279159127Z",
+  "model": "glm-5.2"
+}

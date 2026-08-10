@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Na mimi kama kiziwi sikilizi, na kama bubu ⟨hafungui⟩ kinywa chake.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na mimi"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "kama kiziwi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "kilizi"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "na kama bubu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hana"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "kufungua"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "kinywa chake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:12.456655962Z",
+  "model": "glm-5.2"
+}

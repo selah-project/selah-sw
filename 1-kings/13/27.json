@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Akawaambia wanawe, akisema: Nipendeni ⟨את⟩ punda; nao wakaupendeza.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Akawaambia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨nao⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "Nipendeni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨Ni⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "punda"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "punda"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "nao wakaupendeza"
+    }
+  ],
+  "timestamp": "2026-08-10T11:41:47.170203830Z",
+  "model": "glm-5.2"
+}

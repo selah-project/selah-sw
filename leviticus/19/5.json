@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na mnapochinja dhabihu ya shelamim kwa Yahweh, kwa mapenzi yenu mtamchinja.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Na mnapo"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "chinja"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "dhabihu"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ya shelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "kwa mapenzi yenu"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "mtamchinja"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:21.238174579Z",
+  "model": "glm-5.2"
+}

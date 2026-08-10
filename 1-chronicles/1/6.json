@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na wana wa Gomer: Ashkenaz, na Difat, na Togarma.",
+  "tokens": [
+    {
+      "surface": "וּבְנֵ֖י",
+      "gloss": "Na wana"
+    },
+    {
+      "surface": "גֹּ֑מֶר",
+      "gloss": "wa Gomer"
+    },
+    {
+      "surface": "אַשְׁכֲּנַ֥ז",
+      "gloss": "Ashkenaz"
+    },
+    {
+      "surface": "וְדִיפַ֖ת",
+      "gloss": "na Difat"
+    },
+    {
+      "surface": "וְתוֹגַרְמָֽה",
+      "gloss": "na Togarma"
+    }
+  ],
+  "timestamp": "2026-08-10T14:03:00.005376247Z",
+  "model": "glm-5.2"
+}

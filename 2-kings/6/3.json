@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Naye akisema mmoja: Tafadhali, kwa kuwa ridhia, na uende ⟨את⟩ watumishi wako. Naye akasema: Mimi nitakwenda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Naye akisema"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "kwa kuwa ridhia"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Tafadhali"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "na uende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watumishi wako"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "watumishi wako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Naye akasema"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nitakwenda"
+    }
+  ],
+  "timestamp": "2026-08-10T11:47:07.336508519Z",
+  "model": "glm-5.2"
+}

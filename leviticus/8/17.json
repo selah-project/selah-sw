@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ ng'ombe na ⟨את⟩ ngo yake na ⟨את⟩ nyama yake na ⟨את⟩ mavi yake, aliteketeza kwa moto nje ya kambi, kama alivyoamrisha Yahweh ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ngo yake"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "ngo yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyama yake"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nyama yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mavi yake"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "mavi yake"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "aliteketeza"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kwa moto"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "nje"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ya kambi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama alivyoamrisha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alivyoamrisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-10T15:53:24.102020239Z",
+  "model": "glm-5.2"
+}

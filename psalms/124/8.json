@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 124,
+  "translation": "Msaidizi wetu ⟨ni⟩ jina la Yahweh, muumbaji wa mbingu na nchi.",
+  "tokens": [
+    {
+      "surface": "עֶ֭זְרֵנוּ",
+      "gloss": "msaidizi wetu"
+    },
+    {
+      "surface": "בְּשֵׁ֣ם",
+      "gloss": "jina la"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עֹ֝שֵׂ֗ה",
+      "gloss": "muumbaji wa"
+    },
+    {
+      "surface": "שָׁמַ֥יִם",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "וָאָֽרֶץ",
+      "gloss": "na nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:57.641447023Z",
+  "model": "glm-5.2"
+}

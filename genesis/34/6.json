@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Hamor, baba wa Shechem, akatoka kwenda kwa Ya'akov, ili kusema naye.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akatoka"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba wa"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shechem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenda kwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ili kusema"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    }
+  ],
+  "timestamp": "2026-08-10T14:25:58.606169806Z",
+  "model": "glm-5.2"
+}

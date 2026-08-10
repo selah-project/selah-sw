@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Nimekesha na kuwa kama ndege peke yake juu ya paa.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "Nimekesha"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "na kuwa"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "kama ndege"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "peke yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ya paa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:36.577736337Z",
+  "model": "glm-5.2"
+}

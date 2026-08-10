@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 9:20",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na mwangalizi akapasha habari, akisema: Alifika kwao, wala hakurudi. Na kuendesha ni kama kuen-desa kwa Yehu mwana wa Nimshi, kwa kuwa kwa wazimu anaendesha.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "akapasha habari"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "Na mwangalizi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Alifika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "⟨kwao⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שב",
+      "gloss": "hakurudi"
+    },
+    {
+      "surface": "והמנהג",
+      "gloss": "Na kuendesha"
+    },
+    {
+      "surface": "כמנהג",
+      "gloss": "ni kama kuendesha"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "kwa Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "wa Nimshi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "kwa wazimu"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "anaendesha"
+    }
+  ],
+  "timestamp": "2026-08-10T11:48:38.209510898Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na wana wa Yehudah kwa familia zakuwa: kwa Shelah, familia ya Washelahani; kwa Peretsi, familia ya Waperetsi; kwa Zarahi, familia ya Wazarahi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Na wana wa Yehudah wakawa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kwa familia zao"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "kwa Shelah"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "familia ya"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "Washelahani"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "kwa Peretsi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "familia ya"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "Waperetsi"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "kwa Zarahi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "familia ya"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Wazarahi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:48:54.440563987Z",
+  "model": "glm-5.2"
+}

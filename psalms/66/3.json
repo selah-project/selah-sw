@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 66,
+  "translation": "Semeni kwa Elohim, wangapi matendo yakuogopesha! Kwa wingi wa nguvu zako, adui zako watakudanganya.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Semeni"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wangapi"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ya kuogopesha"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "matendo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "Kwa wingi"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "wa nguvu zako"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "watakudanganya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "adui zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:18.741230774Z",
+  "model": "glm-5.2"
+}

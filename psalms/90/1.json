@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 90,
+  "translation": "Maombi ya Moshe, mtu wa Elohim. Adonai, weyewe umekuwa makaazi yetu katika kizazi na kizazi.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Maombi"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ya Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "makaazi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "היית",
+      "gloss": "umekuwa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yetu"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "katika kizazi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na kizazi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:31.460386378Z",
+  "model": "glm-5.2"
+}

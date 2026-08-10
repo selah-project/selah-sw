@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 20:22",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Msizishike ⟨את⟩ amri zangu zote na ⟨את⟩ hukumu zangu zote, mkazitenda; nchi ile ambayo mimi nawaletena huko kwenye kudumu, isikutapeni.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Msizishike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amri zangu zote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "amri zangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukumu zangu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mkazitenda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "isi"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "kutapeni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתם⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "nawaletena"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninyi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "huko"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kwenye kudumu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ndani yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:15.834268791Z",
+  "model": "glm-5.2"
+}

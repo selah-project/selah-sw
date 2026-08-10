@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 22:12",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Mfalme akaamuru ⟨את⟩ Chilkiya kuhani, na ⟨את⟩ Akikamu mwana wa Shafan, na ⟨את⟩ Akaboru mwana wa Mikaya, na ⟨את⟩ Shafan mwandishi, na ⟨את⟩ Asaya mtumishi wa mfalme, akisema:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "akaamuru"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chilkiya"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chilkiya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Akikamu"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Akikamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "wa Shafan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Akaboru"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akaboru"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "wa Mikaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shafan"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mwandishi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Asaya"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asaya"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mtumishi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mfalme"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    }
+  ],
+  "timestamp": "2026-08-10T11:52:11.168237419Z",
+  "model": "glm-5.2"
+}

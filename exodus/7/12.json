@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Kwa kuwa kila mtu akaitupa fimbo yake, zikawa nyoka; lakini fimbo ya Aharon imelemeza ⟨את⟩ fimbao zao.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "wakaitupa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "fimbo yake"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "zikawa"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "nyoka"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "imelemeza"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "fimbo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ya Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fimbao zao"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "fimbao zao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:29.819676920Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Miti ilisema kwa mtini: Njoo, wewe utawale juu yetu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "walisema"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "miti"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "kwa mtini"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "njoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "utawale"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "juu yetu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:14:40.357737229Z",
+  "model": "glm-5.2"
+}

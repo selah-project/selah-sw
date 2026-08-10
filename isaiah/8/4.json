@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Kwa maana kabla ya mtoto hajui kuita 'Baba yangu' na 'Mama yangu', watibeba ⟨את⟩ mali ya Damashki na ⟨את⟩ nyara za Shomroni mbele ya mfalme wa Ashuru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "kabla ya"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "hajui"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mtoto"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "'Baba yangu'"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "na 'Mama yangu'"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "watibeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mali"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mali"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ya Damashki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyara"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "nyara"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "za Shomroni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "wa Ashuru"
+    }
+  ],
+  "timestamp": "2026-08-10T11:55:47.565152393Z",
+  "model": "glm-5.2"
+}

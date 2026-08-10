@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Yahweh, katika nguvu zako mfalme anafurahi, na katika wokovu wako—ahu kwa kiasi gani atafurahi!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "katika nguvu zako"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "anafurahi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "na katika wokovu wako"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ahu kwa kiasi gani"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "atafurahi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwa kiasi gani"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:17.376238594Z",
+  "model": "glm-5.2"
+}

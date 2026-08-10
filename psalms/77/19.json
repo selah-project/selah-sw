@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 77,
+  "translation": "Sauti ya ngurumo yako ⟨ilikuwa⟩ katika momenzito; umeme ulimulika dunia; dunia ikatetemeka na kusisimka.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Sauti"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "ya ngurumo yako"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "katika momenzito"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "ulimulika"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "umeme"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "ikatetemeka"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "na kusisimka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dunia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:49.318402170Z",
+  "model": "glm-5.2"
+}

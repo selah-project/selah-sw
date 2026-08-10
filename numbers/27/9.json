@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Na ikiwa hakuna ⟨kwa yeye⟩ binti, mtampa ⟨את⟩ urithi wake kwa ndugu zake.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kwa yeye⟩"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "mtampa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urithi wake"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "urithi wake"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kwa ndugu zake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:56:09.558383550Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "na kuwafanya wabebe dhambi ya hatia katika kuwa wanakula ⟨את⟩ vitu vyao takatifu; kwa kuwa mimi Yahweh ndiye ninayewatukuza.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "na kuwafanya wabebe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dhambi"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "ya hatia"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "katika kuwa wanakula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vitu vyao takatifu"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "vitu vyao takatifu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "ndiye ninayewatukuza"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:32.409136747Z",
+  "model": "glm-5.2"
+}

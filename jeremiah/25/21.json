@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "⟨את⟩ Edom na ⟨את⟩ Moab na ⟨את⟩ wana wa Amon;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wana wa Amon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "wa Amon"
+    }
+  ],
+  "timestamp": "2026-08-10T12:16:33.961898453Z",
+  "model": "glm-5.2"
+}

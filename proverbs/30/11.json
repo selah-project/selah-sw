@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Kizazi ambacho kimtukana baba yake, na ⟨ambacho⟩ ⟨את⟩ mama yake hakimbariki.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "kizazi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "kimtukana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mama yake"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hai-"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "-mbariki"
+    }
+  ],
+  "timestamp": "2026-08-10T13:29:24.181063068Z",
+  "model": "glm-5.2"
+}

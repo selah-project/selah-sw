@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Bath-Sheba akainama, akasujudu kwa mfalme, na mfalme akasema: Nini cha kwako?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "akainama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bath"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheba"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "akasujudu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kwa mfalme"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cha kwako"
+    }
+  ],
+  "timestamp": "2026-08-10T11:36:45.296415429Z",
+  "model": "glm-5.2"
+}

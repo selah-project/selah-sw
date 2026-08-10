@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "hosea 2:23",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Ikawa siku hiyo nitajibu, neno la Yahweh, nitajibu ⟨את⟩ mbingu, nazo zitajibu ⟨את⟩ nchi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "nitajibu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neno la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "nitajibu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbingu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "והם",
+      "gloss": "nazo"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "zitajibu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:40:54.617386758Z",
+  "model": "glm-5.2"
+}

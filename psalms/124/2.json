@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 124,
+  "translation": "Lusingekuwa Yahweh ⟨aliye⟩ kwetu, watu walipoinuka juu yetu —",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Lusingekuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "⟨aliye⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwetu"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "walipoinuka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "juu yetu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "watu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:16.521262730Z",
+  "model": "glm-5.2"
+}

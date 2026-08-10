@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 32:33",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Na wakimgeuzia nyuma ya shingo, wala si uso, na kufundisha ⟨את⟩ wao kiambo kwa kufundisha, lakini hawasikii kuitikia maonyo.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "na wakimgeuzia"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "nyuma ya shingo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "uso"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "na kufundisha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "kiambo"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "kwa kufundisha"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "lakini hawa"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "wanasikii"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "kuitikia"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "maonyo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:13:39.551572485Z",
+  "model": "glm-5.2"
+}

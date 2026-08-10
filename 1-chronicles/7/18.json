@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na dada yake Hamolekethi alizaa ⟨את⟩ Ishodi, na ⟨את⟩ Abiezeri, na ⟨את⟩ Mahala.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "na dada yake"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hamolekethi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishodi"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abiezeri"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abiezeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mahala"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Mahala"
+    }
+  ],
+  "timestamp": "2026-08-10T14:06:16.583318951Z",
+  "model": "glm-5.2"
+}

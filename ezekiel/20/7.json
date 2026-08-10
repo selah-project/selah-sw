@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 20:7",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Nikawaambia: Kila mtu atupe machoni mwake vitu vya kuchukiza, na kwa ngano za Mitsrayim msijitie machafu; mimi ni Yahweh Elohim wenu.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nikawaambia"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "שקוצי",
+      "gloss": "vitu vya kuchukiza"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "machoni mwake"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "atupe"
+    },
+    {
+      "surface": "ובגלולי",
+      "gloss": "na kwa ngano"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "za Mitsrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "msijitie machafu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:31:46.164565502Z",
+  "model": "glm-5.2"
+}

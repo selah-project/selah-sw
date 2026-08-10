@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Wewe umemjua ⟨את⟩ Avneri mwana wa Ner, kwamba kwa kukudanganya ndiye alikuja, na kujua ⟨את⟩ kutoka kwako na ⟨את⟩ kuingia kwako, na kujua ⟨את⟩ vyote unavyotenda.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "umemjua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avneri"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avneri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נר",
+      "gloss": "wa Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "kwa kukudanganya"
+    },
+    {
+      "surface": "בא",
+      "gloss": "alikuja"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "na kujua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutoka kwako"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "kutoka kwako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kuingia kwako"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "kuingia kwako"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "na kujua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambavyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "unavyotenda"
+    }
+  ],
+  "timestamp": "2026-08-10T11:29:41.170776451Z",
+  "model": "glm-5.2"
+}

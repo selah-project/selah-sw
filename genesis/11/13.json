@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 11:13",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na Arpakshad akaishi baada ya kumzaa ⟨את⟩ Shelach miaka mitatu na mia nne, akazaa wana na binti.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Na akaishi"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kumzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mitatu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "na nne"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazaa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na binti"
+    }
+  ],
+  "timestamp": "2026-08-10T14:24:28.665140631Z",
+  "model": "glm-5.2"
+}

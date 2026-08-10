@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Kwa kweli, Ee Yahweh, wafalume wa Ashuru wameharibu ⟨את⟩ nchi zote na ⟨את⟩ nchi yao.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "kwa kweli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "wameharibu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalume"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "wa Ashuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi zote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nchi yao"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nchi yao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:07:24.333851942Z",
+  "model": "glm-5.2"
+}

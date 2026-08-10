@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 62,
+  "translation": "Mara moja Elohim amesema, mara mbili hii nimesikia: kwamba nguvu ⟨ni⟩ za Elohim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Mara moja"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "amesema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mara mbili"
+    },
+    {
+      "surface": "זו",
+      "gloss": "hii"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nimesikia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguvu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "za Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:45.001352511Z",
+  "model": "glm-5.2"
+}

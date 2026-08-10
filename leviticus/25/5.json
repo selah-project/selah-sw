@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "⟨את⟩ mazao yaliyootea kwenye mavuno yako hutavuna, na ⟨את⟩ zabibu za mizabibu yako iliyokolegea hutavuna; mwaka wa mapumziko kamili utakuwa kwa ⟨ari⟩ nchi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazao yaliyootea"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "mazao yaliyootea"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "mavuno yako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huta"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "-vuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "zabibu za mizabibu yako iliyokolegea"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "zabibu za"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "mizabibu yako iliyokolegea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huta"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "-vuna"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "mwaka wa"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "mapumziko kamili"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "utakuwa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "kwa nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:23.810699859Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Mfalme akamtuma akamfungua, mtawala wa mataifa akamkomboa.",
+  "tokens": [
+    {
+      "surface": "שָׁ֣לַח",
+      "gloss": "akamtuma"
+    },
+    {
+      "surface": "מֶ֭לֶךְ",
+      "gloss": "Mfalme"
+    },
+    {
+      "surface": "וַיַּתִּירֵ֑הוּ",
+      "gloss": "akamfungua"
+    },
+    {
+      "surface": "מֹשֵׁ֥ל",
+      "gloss": "mtawala"
+    },
+    {
+      "surface": "עַ֝מִּ֗ים",
+      "gloss": "wa mataifa"
+    },
+    {
+      "surface": "וַֽיְפַתְּחֵֽהוּ",
+      "gloss": "akamkomboa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:51.010481844Z",
+  "model": "glm-5.2"
+}

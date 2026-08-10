@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Ya'akov akabaki peke yake, na mtu aka mpigana naye, hadi kupambazuka kwa alfajiri.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "akabaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "peke yake"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "aka mpigana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "kupambazuka kwa"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "alfajiri"
+    }
+  ],
+  "timestamp": "2026-08-10T10:10:31.636455237Z",
+  "model": "glm-5.2"
+}

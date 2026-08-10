@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 62,
+  "translation": "Hakika yeye tu ⟨⟨ndiye⟩⟩ mwamba wangu na wokovu wangu; ngao yangu ya juu, sitatetereka.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye tu"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mwamba wangu"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "na wokovu wangu"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ngao yangu ya juu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "tatetereka"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:13.474887185Z",
+  "model": "glm-5.2"
+}

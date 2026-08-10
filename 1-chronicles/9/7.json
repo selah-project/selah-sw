@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na kutoka wana wa Binyamin: Salu mwana wa Meshulamu, mwana wa Hodavja, mwana wa Hasenua.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Na kutoka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "wa Binyamin"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Salu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "wa Meshulamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "wa Hodavja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "wa Hasenua"
+    }
+  ],
+  "timestamp": "2026-08-10T14:06:25.735342176Z",
+  "model": "glm-5.2"
+}

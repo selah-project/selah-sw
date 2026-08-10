@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Tumekutendea vibaya sana, wala hatukushika ⟨את⟩ amri na ⟨את⟩ amri za desturi na ⟨את⟩ hukumu ulizokuamrisha ⟨את⟩ Moshe mtumishi wako.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "sana"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "tumekutendea vibaya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hatuku"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "shika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amri"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "amri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amri za desturi"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "amri za desturi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hukumu"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ulizo"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "kuamrisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mtumishi wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:58:45.087726510Z",
+  "model": "glm-5.2"
+}

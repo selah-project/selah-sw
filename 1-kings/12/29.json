@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Akaweka ⟨את⟩ moja Beit-El, na ⟨את⟩ moja akaiweka Dani.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "akaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moja"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "moja"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akaiweka"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Dani"
+    }
+  ],
+  "timestamp": "2026-08-10T11:42:15.724889908Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Wakaweka sumu katika chakula changu, na kwa kiu changu wakaninywesha siki.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "wakaweka"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "katika chakula changu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sumu"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "na kwa kiu changu"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "wakaninywesha"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "siki"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:37.185905312Z",
+  "model": "glm-5.2"
+}

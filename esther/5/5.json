@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na mfalme akasema: Fanyeni haraka na ⟨את⟩ Haman ili kutimiza ⟨את⟩ neno la Ester. Basi mfalme na Haman wakaingia kwenye karamu ambayo Ester aliifanya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "Fanyeni haraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ili kutimiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neno"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "la Ester"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "Basi wakaingia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "na Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "karamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "aliifanya"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-10T13:48:49.524685090Z",
+  "model": "glm-5.2"
+}

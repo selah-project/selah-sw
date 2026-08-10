@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 34:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Na mzazi wa kwanza wa punda utakuomboa kwa kondoo, na ikiwa hutakuomboa, basi utamvunja shavu lake; kila mzaliwa wa kiume wa kwanza miongoni mwa watoto wako utakuomboa, na watoto hawatakuja kuonyesha uso wangu bure.",
+  "tokens": [
+    {
+      "surface": "ופטר",
+      "gloss": "na mzazi wa kwanza"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "wa punda"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "utakuomboa"
+    },
+    {
+      "surface": "בשה",
+      "gloss": "kwa kondoo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na ikiwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "utakuomboa"
+    },
+    {
+      "surface": "וערפתו",
+      "gloss": "basi utamvunja shavu lake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "mzaliwa wa kiume wa kwanza"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "miongoni mwa watoto wako"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "utakuomboa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na si"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "watatokea"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kuonyesha uso wangu"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "bure"
+    }
+  ],
+  "timestamp": "2026-08-10T10:28:52.939420039Z",
+  "model": "glm-5.2"
+}

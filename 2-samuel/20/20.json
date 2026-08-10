@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Yoavu akajibu, akasema: Astaghfirula! Astaghfirula kwangu! Ni mbali ⟨nirumie⟩ kumeza au kuharibu.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akajibu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Astaghfirula"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Astaghfirula"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ni mbali"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "kumeza"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "au"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "kuharibu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:34:27.769056428Z",
+  "model": "glm-5.2"
+}

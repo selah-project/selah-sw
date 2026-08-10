@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na yatakuwa chukizo kwenu; nyama yao hamtakula, na ⟨את⟩ maiti zao mtazichukiza.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "Na chukizo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "yatakuwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "nyama yao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mtakula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maiti zao"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "maiti zao"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "mtazichukiza"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:24.227637623Z",
+  "model": "glm-5.2"
+}

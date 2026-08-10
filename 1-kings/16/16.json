@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na jeshi lililokimbarika likasikia likisemwa: Zimri amefanya maovu, na tena amepiga ⟨את⟩ mfalme. Basi Israeli wote wakamfanya ⟨את⟩ Omri mkuu wa jeshi awe mfalme juu ya Israeli siku hiyo katika kambi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "likasikia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "na jeshi"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "lililokimbarika"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "likisemwa"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "amefanya maovu"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na tena"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "amepiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfalme"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "wakamfanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omri"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "wa jeshi"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "katika kambi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:42:46.069828382Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Akawakusanya ⟨את⟩ wao gerezani siku tatu.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Akawakusanya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gerezani"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "kwenye kifungo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    }
+  ],
+  "timestamp": "2026-08-10T10:14:16.350877436Z",
+  "model": "glm-5.2"
+}

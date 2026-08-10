@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "⟨את⟩ hema, ⟨את⟩ hema lake na ⟨את⟩ kifunio chake, ⟨את⟩ vibanio vyake na ⟨את⟩ mbao zake, ⟨את⟩ mihimili yake, ⟨את nguzo zake na ⟨את⟩ misingi yake.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "hema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema lake"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "hema lake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kifunio chake"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "kifunio chake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vibanio vyake"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "vibanio vyake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mbao zake"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "mbao zake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mihimili yake"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "mihimili yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguzo zake"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "nguzo zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "misingi yake"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "misingi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:31:49.417238705Z",
+  "model": "glm-5.2"
+}

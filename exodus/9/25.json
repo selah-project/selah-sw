@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Mvua ya barafu ilipiga katika nchi yote ya Mitsrayim ⟨את⟩ kila kilichopo shambani, kutoka mtu hata mnyama; na ⟨את⟩ kila mimea ya shambani mvua ya barafu ilipiga, na ⟨את⟩ kila mti wa shambani ilivunja.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "akapiga"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "mvua ya barafu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kila kilichopo shambani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kilichopo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "shambani"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kutoka mtu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mnyama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kila mimea ya shambani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "mimea"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya shambani"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ilipiga"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "mvua ya barafu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kila mti wa shambani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mti"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "wa shambani"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ilivunja"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:02.579566052Z",
+  "model": "glm-5.2"
+}

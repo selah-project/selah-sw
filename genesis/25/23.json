@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 25:23",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Yahweh akamwambia: Mataifa mawili ⟨yapo⟩ tumboni mwako, na jamii mbili zitatengwa kutika matumboni mwako; na jamii moja itakuwa imara kuliko jamii ⟨nyingine⟩, na mkubwa atamtumikia mdogo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mwambia"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mawili"
+    },
+    {
+      "surface": "גיים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "בבטנך",
+      "gloss": "tumboni mwako"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "na mbili"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "jamii"
+    },
+    {
+      "surface": "ממעיך",
+      "gloss": "kutika matumboni mwako"
+    },
+    {
+      "surface": "יפרדו",
+      "gloss": "zitatengwa"
+    },
+    {
+      "surface": "ולאם",
+      "gloss": "na jamii"
+    },
+    {
+      "surface": "מלאם",
+      "gloss": "moja"
+    },
+    {
+      "surface": "יאמץ",
+      "gloss": "itakuwa imara kuliko"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "na mkubwa"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "atamtumikia"
+    },
+    {
+      "surface": "צעיר",
+      "gloss": "mdogo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:50:03.265700846Z",
+  "model": "glm-5.2"
+}

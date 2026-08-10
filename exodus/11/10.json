@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Moshe na Aharon walifanya ⟨את⟩ miujiza yote hii mbele ya Paroh; naye Yahweh akaitia nguvu ⟨את⟩ moyo wa Paroh, naye hakufukuza ⟨את⟩ wana wa Yisrael kutoka katika nchi yake.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "walifanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miujiza yote hii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "miujiza"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "akaitia nguvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wa Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "naye haku"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "fukuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana wa Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "kutoka katika nchi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:55.014428916Z",
+  "model": "glm-5.2"
+}

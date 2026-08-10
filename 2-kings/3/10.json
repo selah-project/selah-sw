@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Mfalme wa Yisra'el akasema: \"Lole! Maana Yahweh amewaita hao wafalme watatu awatie ⟨kwenye⟩ mkono wa Moabu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Lole"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Maana"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "amewaita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "hao wafalme watatu"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": ""
+    },
+    {
+      "surface": "האלה",
+      "gloss": ""
+    },
+    {
+      "surface": "לתת",
+      "gloss": "awatie"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wafalme watatu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwenye mkono"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "wa Moabu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:45:39.572426205Z",
+  "model": "glm-5.2"
+}

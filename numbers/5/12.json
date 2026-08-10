@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 5:12",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Waambie wana wa Yisra'eli, uwaambie: Mtu yeyote ikiwa mke wake atapotea na kumfanyia ujasiri, na kumtenda ukhaini",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Waambie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uwaambie"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yeyote"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "תשטה",
+      "gloss": "atapotea"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mke wake"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "na kumfanyia ujasiri"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kumtenda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ukhaini"
+    }
+  ],
+  "timestamp": "2026-08-10T10:41:17.982937822Z",
+  "model": "glm-5.2"
+}

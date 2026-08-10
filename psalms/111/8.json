@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 111,
+  "translation": "Zinatumikia milele na milele; zimefanywa kwa kweli na uadilifu.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "Zinatumikia"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "milele"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na milele"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "zimefanywa"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "kwa kweli"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "na uadilifu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:49.185743713Z",
+  "model": "glm-5.2"
+}

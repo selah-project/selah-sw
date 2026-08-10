@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 59,
+  "translation": "Tazama, wanatoa kwa vinywa vyao, nyoyo katika midomo yao, maana ni nani asikiaye?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "wanatoa"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "kwa vinywa vyao"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "nyoyo"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "katika midomo yao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "asikiaye"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:17.297669028Z",
+  "model": "glm-5.2"
+}

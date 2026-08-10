@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Kama kumpiga wake, kumpiga ⟨alinimpiga⟩? Kama kuwaua waliouawa wake, ⟨alipouawa⟩?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "kama kumpiga"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "kumpiga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "kuwaua"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "waliouawa wake"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "alipouawa"
+    }
+  ],
+  "timestamp": "2026-08-10T16:06:38.216008157Z",
+  "model": "glm-5.2"
+}

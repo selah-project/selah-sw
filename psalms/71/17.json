@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 71,
+  "translation": "Elohim, umenifundisha tangu ujana wangu, na hata hapa ninatahadhari mambo ya ajabu yako.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "umenifundisha"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "tangu ujana wangu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na hadi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hapa"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ninatahadhari"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "mambo ya ajabu yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:13.669796761Z",
+  "model": "glm-5.2"
+}

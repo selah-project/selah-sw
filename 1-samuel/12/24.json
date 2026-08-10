@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Amani yaonekeni tu, mcheni ⟨את⟩ Yahweh, na mtumieni yeye kwa uaminifu kwa nyoyo zenu nzima; maana tazameni ⟨את⟩ yale aliyoakuweka pamoja nanyi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "mcheni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "na mtumieni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ yeye",
+      "marks": "yeye"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "kwa uaminifu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa nzima"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "nyoyo zenu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "tazameni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yale aliyoakuweka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "amekuza"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "pamoja nanyi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:51:53.938660488Z",
+  "model": "glm-5.2"
+}

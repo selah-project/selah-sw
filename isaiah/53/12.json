@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 53:12",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 53,
+  "translation": "Kwa hiyo nitamgawia ⟨yeye⟩ sehemu kati ya wengi, na ⟨את⟩ wenye nguvu atagawanyia nyara; kwa sababu ⟨yeye⟩ alimimina kufua nafsi yake, na ⟨את⟩ waasi akahesabiwa; na ⟨yeye⟩ dhambi ya wengi alibeba,na kwa waasi anaomwingia.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "kwa hiyo"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "nitamgawia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨yeye⟩"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "kati ya wengi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wenye nguvu"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "wenye nguvu"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "atagawanyia"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "nyara"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ambaye⟩"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "alimimina"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kufua"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafsi yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "waasi"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "waasi"
+    },
+    {
+      "surface": "נמנה",
+      "gloss": "akahesabiwa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ⟨yeye⟩"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "dhambi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ya wengi"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "alibeba"
+    },
+    {
+      "surface": "ולפשעים",
+      "gloss": "na kwa waasi"
+    },
+    {
+      "surface": "יפגיע",
+      "gloss": "anaomwingia"
+    }
+  ],
+  "timestamp": "2026-08-10T15:09:10.570223567Z",
+  "model": "glm-5.2"
+}

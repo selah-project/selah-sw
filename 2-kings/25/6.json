@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Wakamshika ⟨את⟩ mfalme, wakamchukua ⟨את⟩ yeye kwa mfalme wa Bavel, Rivlah, nao wakasema ⟨naye⟩ hukumu.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "wakamshika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfalme"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "wakamchukua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rivlah"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "wakasema"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "naye"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukumu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:04:25.004207911Z",
+  "model": "glm-5.2"
+}

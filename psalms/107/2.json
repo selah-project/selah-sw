@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Wasemao ⟨ni⟩ waliokombolewa wa Yahweh, ambao ⟨⟨yeye⟩⟩ aliwakomboa kutoka mkononi mwa ⟨⟨adui⟩⟩.",
+  "tokens": [
+    {
+      "surface": "יֹ֭אמְרוּ",
+      "gloss": "Wasemao"
+    },
+    {
+      "surface": "גְּאוּלֵ֣י",
+      "gloss": "waliokombolewa"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "גְּאָלָ֗ם",
+      "gloss": "aliwakomboa"
+    },
+    {
+      "surface": "מִיַּד",
+      "gloss": "kutoka mkononi mwa"
+    },
+    {
+      "surface": "צָֽר",
+      "gloss": "⟨adui⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:47.112174637Z",
+  "model": "glm-5.2"
+}

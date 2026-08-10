@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 72,
+  "translation": "Na aliye barikiwa jina la utukufu wake milele; na utukufu wake na ajaze ⟨את⟩ nchi yote. Amina, na amina.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "Na aliye barikiwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "la utukufu wake"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "na ajaze"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "utukufu wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amina"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "na amina"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:19.708324565Z",
+  "model": "glm-5.2"
+}

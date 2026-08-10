@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ nyama na ⟨את⟩ ngo akateketeza kwa moto nje ya kambi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "nyama"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ngo"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "akateketeza"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kwa moto"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "nje"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ya kambi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:53:55.257845755Z",
+  "model": "glm-5.2"
+}

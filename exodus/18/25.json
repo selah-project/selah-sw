@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Moshe akawachagua watu wa weusi kutoka kwa wote wa Yisrael, akawaweka ⟨את⟩ wao kuwa viongozi juu ya taifa: wakuu wa maelfu, wakuu wa mia, wakuu wa hamsini, na wakuu wa kumi.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "akawachagua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "watu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wa weusi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kutoka kwa wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akawaweka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "kuwa viongozi"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "wakuu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "wa maelfu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "wakuu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "wa mia"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "wakuu"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "wa hamsini"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "na wakuu"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "wa kumi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:29:24.237078724Z",
+  "model": "glm-5.2"
+}

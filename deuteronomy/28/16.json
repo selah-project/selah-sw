@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Umelaniwa ↔mjini, na ↔umelaniwa ↔shambani.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "umelaniwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "↔↔"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "↔mjini"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "na ↔umelaniwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "↔↔"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "↔shambani"
+    }
+  ],
+  "timestamp": "2026-08-10T15:57:59.469618355Z",
+  "model": "glm-5.2"
+}

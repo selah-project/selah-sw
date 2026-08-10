@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na Aharon na wanze wakiingia wakati kambi inapoondoka, na washushe ⟨את⟩ utando wa pazia, na waufunike kwa huo ⟨את⟩ sanda la ushuhuda.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "na wakiingia"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na wanze"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "wakati…inapoondoka"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kambi"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "na washushe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utando wa pazia"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "utando"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "wa pazia"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "na waufunike"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kwa huo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanda la ushuhuda"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "sanda"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "la ushuhuda"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:47.269144327Z",
+  "model": "glm-5.2"
+}

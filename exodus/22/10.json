@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Kiapo cha Yahweh kitakuwa ⟨kati⟩ ya wote wawili, kama hakutuma mkono wake juu ya mali ya rafiki yake; naye mwenye mali atakikubali, naye hatatonga.",
+  "tokens": [
+    {
+      "surface": "שְׁבֻעַ֣ת",
+      "gloss": "kiapo"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תִּהְיֶה֙",
+      "gloss": "kitakuwa"
+    },
+    {
+      "surface": "בֵּ֣ין",
+      "gloss": "kati"
+    },
+    {
+      "surface": "שְׁנֵיהֶ֔ם",
+      "gloss": "wote wawili"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "haku"
+    },
+    {
+      "surface": "שָׁלַ֛ח",
+      "gloss": "tuma"
+    },
+    {
+      "surface": "יָד֖וֹ",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "בִּמְלֶ֣אכֶת",
+      "gloss": "juu ya mali"
+    },
+    {
+      "surface": "רֵעֵ֑הוּ",
+      "gloss": "ya rafiki yake"
+    },
+    {
+      "surface": "וְלָקַ֥ח",
+      "gloss": "naye atakikubali"
+    },
+    {
+      "surface": "בְּעָלָ֖יו",
+      "gloss": "mwenye mali"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "naye hatatonga"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:06.990120593Z",
+  "model": "glm-5.2"
+}

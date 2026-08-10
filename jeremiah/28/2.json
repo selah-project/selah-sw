@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "«Hivyo asema Yahweh Sebaoth, Elohim wa Yisrael, akisema: Nimevunja ⟨את⟩ nira ya mfalme wa Bavel.»",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "hivyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaoth"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "nimevunja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nira"
+    },
+    {
+      "surface": "על",
+      "gloss": "nira"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mfalme wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-08-10T12:18:46.247874294Z",
+  "model": "glm-5.2"
+}

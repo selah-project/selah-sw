@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 71,
+  "translation": "Kwa maana maadui zangu wamenisema, na wale wanaouangalia uhai wangu wameshauriana pamoja,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "wamesema"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "maadui zangu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nisema"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "na wale wanaouangalia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "uhai wangu"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "wameshauriana"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamoja"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:45.870869399Z",
+  "model": "glm-5.2"
+}

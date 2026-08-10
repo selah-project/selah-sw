@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 64,
+  "translation": "Kupiga mishale kwa kujificha ⟨kwa⟩ yule aliye mkamilifu; ghafla wanampiga mishale, na hawaogi.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "kupiga mishale"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "kwa kujificha"
+    },
+    {
+      "surface": "תם",
+      "gloss": "aliye mkamilifu"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ghafla"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "wanampiga mishale"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na hawa"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "wagi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:29.487156599Z",
+  "model": "glm-5.2"
+}

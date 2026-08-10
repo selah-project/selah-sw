@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Ikawa baada ya Shelomah kumaliza kujenga ⟨את⟩ nyumba ya Yahweh na ⟨את⟩ nyumba ya mfalme, na ⟨את⟩ kila pendekezo la Shelomah ambalo alipendezwa kufanya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ikawa"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "baada ya kumaliza"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kujenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mfalme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "pendekezo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "la Shelomah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "alipendezwa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kufanya"
+    }
+  ],
+  "timestamp": "2026-08-10T11:41:11.504557586Z",
+  "model": "glm-5.2"
+}

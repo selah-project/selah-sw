@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Usifanye kwako sanamu, wala taswira yoyote ya ile iliyo mbinguni juu, na ile iliyo duniani chini, na ile iliyo majini chini ya nchi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "fanye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "sanamu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "wala"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "taswira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "iliyo mbinguni"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "juu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "iliyo duniani"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "chini"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "במים",
+      "gloss": "iliyo majini"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "chini"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ya nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:22:56.392746570Z",
+  "model": "glm-5.2"
+}

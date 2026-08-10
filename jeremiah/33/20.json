@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Hivyo asema Yahweh: Ikiwa mtavunja ⟨את⟩ agano langu la mchana na ⟨את⟩ agano langu la usiku, ili visiwepo mchana na usiku kwa wakati wao —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Hivyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "asema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ikiwa"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "mtavunja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agano langu la mchana"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "agano langu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "la mchana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "agano langu la usiku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "agano langu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "la usiku"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "ili visiwepo"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mchana"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na usiku"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "kwa wakati wao"
+    }
+  ],
+  "timestamp": "2026-08-10T16:10:19.163446849Z",
+  "model": "glm-5.2"
+}

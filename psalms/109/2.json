@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Kwa maana kinywa cha mwovu na kinywa cha udanganyifu wameufungua juu yangu; wameniongelea ⟨na⟩ ⟨את⟩ ulimi wa uongo.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "פִּ֪י",
+      "gloss": "kinywa cha"
+    },
+    {
+      "surface": "רָשָׁ֡ע",
+      "gloss": "mwovu"
+    },
+    {
+      "surface": "וּֽפִי",
+      "gloss": "na kinywa cha"
+    },
+    {
+      "surface": "מִרְמָ֭ה",
+      "gloss": "udanganyifu"
+    },
+    {
+      "surface": "עָלַ֣י",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "פָּתָ֑חוּ",
+      "gloss": "wameufungua"
+    },
+    {
+      "surface": "דִּבְּר֥וּ",
+      "gloss": "wameniongelea"
+    },
+    {
+      "surface": "אִתִּ֗י",
+      "gloss": "⟨את⟩",
+      "marks": "ulimi wa uongo"
+    },
+    {
+      "surface": "לְשׁ֣וֹן",
+      "gloss": "ulimi wa"
+    },
+    {
+      "surface": "שָֽׁקֶר",
+      "gloss": "uongo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:01.325204476Z",
+  "model": "glm-5.2"
+}

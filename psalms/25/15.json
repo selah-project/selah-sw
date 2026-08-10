@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Macho yangu daima kwa Yahweh, kwa kuwa yeye atatoa kutoka mtandoni miguu yangu.",
+  "tokens": [
+    {
+      "surface": "עֵינַ֣י",
+      "gloss": "macho yangu"
+    },
+    {
+      "surface": "תָּ֭מִיד",
+      "gloss": "daima"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "יוֹצִ֖יא",
+      "gloss": "atatoa"
+    },
+    {
+      "surface": "מֵרֶ֣שֶׁת",
+      "gloss": "kutoka mtandoni"
+    },
+    {
+      "surface": "רַגְלָֽי",
+      "gloss": "miguu yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:58.222904662Z",
+  "model": "glm-5.2"
+}

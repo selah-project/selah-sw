@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 136,
+  "translation": "Kwa mkono wa nguvu na kwa mkono ulionyoshwa, maana hata milele ni chesed yake.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "kwa mkono"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "wa nguvu"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "na kwa mkono"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ulinyoshwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hata milele"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed yake"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:18.036655343Z",
+  "model": "glm-5.2"
+}

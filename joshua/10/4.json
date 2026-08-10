@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "«Nijoeni mle kwangu, mnisaidie, tupigane na ⟨את⟩ Givoni, kwa maana imefanya amani na ⟨את⟩ Yehoshua na ⟨את⟩ wana wa Yisraeli.»",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Nijoeni mle"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "mnisaidie"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "tupigane na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givoni"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "imefanya amani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wana wa Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    }
+  ],
+  "timestamp": "2026-08-10T11:07:50.700974467Z",
+  "model": "glm-5.2"
+}

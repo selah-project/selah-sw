@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Wakawa kuwajaribu kwa ⟨את⟩ Yisra'el, kujua kama wangeliisikia ⟨את⟩ amri ya Yahweh ambayo aliwaamrisha ⟨את⟩ baba zao kwa mkono wa Moshe.",
+  "tokens": [
+    {
+      "surface": "ולהיו",
+      "gloss": "Wakawa"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "kuwajaribu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kujua"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "kama wangeliisikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amri"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aliwaamrisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba zao"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "baba zao"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwa mkono wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-10T11:12:58.458862064Z",
+  "model": "glm-5.2"
+}

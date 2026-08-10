@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Elohim akafanya mema kwa wa kuzaaji, na taifa likaongezeka, likawa lenye nguvu sana.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "na akafanya mema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "kwa wa kuzaaji"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "na likaongezeka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "likawa lenye nguvu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-10T10:17:58.653629727Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 113,
+  "translation": "Ni nani kama Yahweh Elohim wetu, yeye anayejipaza kushuka?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ni nani"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "kama Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "yeye anayejipaza"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kushuka"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:10.499400903Z",
+  "model": "glm-5.2"
+}

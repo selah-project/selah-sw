@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Nikanunua ⟨את⟩ huo ukanda kulingana na neno la Yahweh, nikauweka juu ya kiuno changu.",
+  "tokens": [
+    {
+      "surface": "וָאֶקְנֶ֥ה",
+      "gloss": "Nikanunua"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "huo ukanda"
+    },
+    {
+      "surface": "הָאֵז֖וֹר",
+      "gloss": "ukanda"
+    },
+    {
+      "surface": "כִּדְבַ֣ר",
+      "gloss": "kulingana na neno"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "וָאָשִׂ֖ם",
+      "gloss": "nikauweka"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "מָתְנָֽי",
+      "gloss": "kiuno changu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:11:15.096790661Z",
+  "model": "glm-5.2"
+}

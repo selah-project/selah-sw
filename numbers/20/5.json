@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na kwa nini mmelitupandisha kutoka Mitsrayim, kuletu sisi ⟨את⟩ mahali pabaya hapa? Si mahali pa mbegu, wala wa mtini, wala wa mzabibu, wala wa ukomango; na maji hayapo ya kunywa.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Na kwa nini"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "mmelitupandisha"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kutoka Mitsrayim"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "kuletu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "sisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pabaya"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hapa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Si"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "pa mbegu"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "wala wa mtini"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "wala wa mzabibu"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "wala wa ukomango"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "na maji"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hayapo"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ya kunywa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:55:57.207505558Z",
+  "model": "glm-5.2"
+}

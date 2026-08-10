@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Elohim akafanya ⟨את⟩⟨the⟩ ukumbi, akatenga baina ya maji yaliyo chini ya ukumbi na baina ya maji yaliyo juu ya ukumbi; ikawa hivyo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na akafanya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukumbi"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "ukumbi"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "akatenga"
+    },
+    {
+      "surface": "בין",
+      "gloss": "baina ya"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaliyo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ukumbi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na baina ya"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaliyo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ukumbi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hivyo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:05.600343857Z",
+  "model": "glm-5.2"
+}

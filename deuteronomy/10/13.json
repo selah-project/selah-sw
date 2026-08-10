@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 10:13",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "kwa kuhifadhi ⟨את⟩ amri za Yahweh na ⟨את⟩ maamuzo yake, ambazo mimi ninakuamrisha leo, kwa kheri yako.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "kwa kuhifadhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amri za Yahweh"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maamuzo yake"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "maamuzo yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ninakuamrisha"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "kwa kheri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yako"
+    }
+  ],
+  "timestamp": "2026-08-10T14:41:55.146241385Z",
+  "model": "glm-5.2"
+}

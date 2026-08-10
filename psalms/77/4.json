@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 77,
+  "translation": "Nakumbuka Elohim, nami naghomama; nafikiri, roho yangu hufedheheshwa. Sela.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Nakumbuka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "nami naghomama"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "nafikiri"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "hufedheheshwa"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "roho yangu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:45.254348421Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Nikawaambia hao wa uhamishoni ⟨את⟩ maneno yote ya Yahweh aliyo nionyesha.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "nikawaambia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "hao wa uhamishoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliyo"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "nionyesha"
+    }
+  ],
+  "timestamp": "2026-08-10T12:27:51.646530408Z",
+  "model": "glm-5.2"
+}

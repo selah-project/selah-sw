@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Na Yahweh akasema: Tazama, mahali ⟨את⟩ pamoja nami, nawe utasimama juu ya mwamba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ pamoja nami"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "nawe utasimama"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "mwamba"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:31.871732017Z",
+  "model": "glm-5.2"
+}

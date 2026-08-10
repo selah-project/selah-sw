@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 74,
+  "translation": "Wewe umesaga vichwa vya ⟨את⟩ Livyatan, umempa ⟨את⟩ yeye kuwa chakula kwa taifa, kwa wenyeji wa nyika.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wewe"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "umesaga"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "vichwa vya"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livyatan"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "umempa"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "kuwa chakula"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kwa taifa"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "kwa wenyeji wa nyika"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:59.601994020Z",
+  "model": "glm-5.2"
+}

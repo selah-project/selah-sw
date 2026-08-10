@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Moshe akamaliza kuongea ⟨את⟩ maneno yote haya ⟨kwa⟩ Waisraeli wote.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "akamaliza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kuongea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Waisraeli"
+    }
+  ],
+  "timestamp": "2026-08-10T15:57:55.501902695Z",
+  "model": "glm-5.2"
+}

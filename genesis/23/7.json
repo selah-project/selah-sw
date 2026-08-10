@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Akasimama Avraham, akainama kwa watu wa ⟨the⟩ nchi, kwa wana wa Cheth.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Akasimama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akainama"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kwa watu wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa wana wa"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Cheth"
+    }
+  ],
+  "timestamp": "2026-08-10T14:23:52.682609330Z",
+  "model": "glm-5.2"
+}

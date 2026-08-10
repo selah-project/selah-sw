@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Wamekula na kusujudu wote wenye mafuta ⟨wa⟩ nchi mbele zake; watapiga magoti wote washukiaye ungoni; naye ambaye nefesh yake hakuifufua.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "wamekula"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "na kusujudu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "wenye mafuta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbele zake"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "watapiga magoti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "washukiaye"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ungoni"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "naye ambaye nefesh yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haku"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ifufua"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:10.585217103Z",
+  "model": "glm-5.2"
+}

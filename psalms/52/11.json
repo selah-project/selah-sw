@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 52,
+  "translation": "Nitakushukuru hata milele, maana umefanya ⟨hivi⟩, nami natumai jina lako, maana ni zuri mbele ya watakatifu wako.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "nitakushukuru"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hata milele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "umefanya"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "nami natumai"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ni zuri"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "watakatifu wako"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:21.993040514Z",
+  "model": "glm-5.2"
+}

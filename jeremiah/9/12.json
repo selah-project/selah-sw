@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Yahweh akasema: Kwa sababu ya kuiacha ⟨את⟩ torati yangu ambayo niliiweka mbele yao, wala hawakusikia kwa sauti yangu, wala hawakutembea ndani yake.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֣אמֶר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "עָזְבָם֙",
+      "gloss": "kuiacha"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "torati yangu"
+    },
+    {
+      "surface": "תּ֣וֹרָתִ֔י",
+      "gloss": "torati yangu"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "נָתַ֖תִּי",
+      "gloss": "niliiweka"
+    },
+    {
+      "surface": "לִפְנֵיהֶ֑ם",
+      "gloss": "mbele yao"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "wala hawa"
+    },
+    {
+      "surface": "שָׁמְע֥וּ",
+      "gloss": "kusikia"
+    },
+    {
+      "surface": "בְקוֹלִ֖י",
+      "gloss": "kwa sauti yangu"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "wala hawa"
+    },
+    {
+      "surface": "הָ֥לְכוּ",
+      "gloss": "kutembea"
+    },
+    {
+      "surface": "בָֽהּ",
+      "gloss": "ndani yake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:12:50.250733502Z",
+  "model": "glm-5.2"
+}

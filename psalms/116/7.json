@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 116,
+  "translation": "Rudi, nafsi yangu, mahali pako pa kupumzika, maana Yahweh amekutendea mema.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Rudi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "mahali pako pa kupumzika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "ametendea"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "kwa wema"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:44.911089387Z",
+  "model": "glm-5.2"
+}

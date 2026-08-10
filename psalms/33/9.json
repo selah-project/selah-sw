@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Kwa maana yeye alisema, ⟨⟨⟩⟩ ikawa; yeye aliamuru, ⟨⟨⟩⟩ ikasimama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alisema"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aliamuru"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ikasimama"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:21.389045444Z",
+  "model": "glm-5.2"
+}

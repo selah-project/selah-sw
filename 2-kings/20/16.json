@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Akasema Yeshayahu kwa Chizkiyahu: Sikiliza neno la Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sikiliza"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T16:05:34.396866649Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Basi sasa, ee Yahweh, tafadhali chukua ⟨את⟩ nafsi yangu toka kwani; kwa kuwa ni jema zaidi kufa kwangu kuliko kuishi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "basi sasa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קח",
+      "gloss": "chukua"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafsi yangu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "toka kwangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ni jema zaidi"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "kufa kwangu"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "kuliko kuishi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:46:49.472894840Z",
+  "model": "glm-5.2"
+}

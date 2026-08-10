@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Wakachukua ⟨את⟩ binti zao kuwa wake zao, na ⟨את⟩ binti zao wakawapa wana wao; wakatumikia ⟨את⟩ miungu yao.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Wakachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "binti zao"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "binti zao"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "wake zao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "binti zao"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "binti zao"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "wakawapa"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "wana wao"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "wakatumikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miungu yao"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "miungu yao"
+    }
+  ],
+  "timestamp": "2026-08-10T11:12:29.250961566Z",
+  "model": "glm-5.2"
+}

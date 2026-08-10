@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Wakapakia ⟨את⟩ punjayao juu ya punda zao, wakaondoka hapo.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Wakapakia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "punjayao"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "punjayao"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "punda zao"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wakaondoka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "hapo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:15:23.256827065Z",
+  "model": "glm-5.2"
+}

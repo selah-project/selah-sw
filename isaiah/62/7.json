@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 62,
+  "translation": "wala msimpe yeye kupumzika, hadi atakapoianzisha, na hadi atakapofanya ⟨את⟩ Yerushalayim sifa katika nchi.",
+  "tokens": [
+    {
+      "surface": "וְאַֽל",
+      "gloss": "wala msi"
+    },
+    {
+      "surface": "תִּתְּנ֥וּ",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "דֳמִ֖י",
+      "gloss": "kupumzika"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "יְכוֹנֵ֞ן",
+      "gloss": "atakapoianzisha"
+    },
+    {
+      "surface": "וְעַד",
+      "gloss": "na hadi"
+    },
+    {
+      "surface": "יָשִׂ֧ים",
+      "gloss": "atakapofanya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "יְרֽוּשָׁלִַ֛ם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "תְּהִלָּ֖ה",
+      "gloss": "sifa"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "katika nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:09:07.751280499Z",
+  "model": "glm-5.2"
+}

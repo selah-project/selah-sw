@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Wakakumbuka ya kwamba Elohim ⟨ni⟩ mwamba wao, na El Elyon ⟨ni⟩ mwokozi wao.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "Wakakumbuka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "mwamba wao"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "mwokozi wao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:42.940023433Z",
+  "model": "glm-5.2"
+}

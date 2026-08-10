@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Yokshan akazaa ⟨את⟩ Sheba na ⟨את⟩ Dedan. Na wana wa Dedan walikuwa Ashurimu na Letushimu na Leumimu.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Yokshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "akazaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na wana wa"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "walikuwa"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurimu"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "na Letushimu"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "na Leumimu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:07:39.774846097Z",
+  "model": "glm-5.2"
+}

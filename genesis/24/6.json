@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na Avraham akamwambia, Jilinde wewe, usirudishe ⟨את⟩ mwanangu huko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Jilinde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "rudishe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanangu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanangu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "huko"
+    }
+  ],
+  "timestamp": "2026-08-10T10:07:03.729947978Z",
+  "model": "glm-5.2"
+}

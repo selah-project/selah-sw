@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 13:26",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na Avshalom akasema: Na kama la, tafadhali na Amoni ndugu yangu aende ⟨pamoja⟩ ⟨את⟩ nasi. Na mfalme akamwambia: Kwa nini aende na wewe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Na kama la"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "aende"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nasi",
+      "marks": "Amoni ndugu yangu"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ndugu yangu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "aende"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "na wewe"
+    }
+  ],
+  "timestamp": "2026-08-10T11:31:46.383018375Z",
+  "model": "glm-5.2"
+}

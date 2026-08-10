@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 52,
+  "translation": "Na wenye haki wataona, na kushtuka, na kumcheka yeye.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "na wataona"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wenye haki"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "na kushtuka"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "na kumcheka"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:12.486185792Z",
+  "model": "glm-5.2"
+}

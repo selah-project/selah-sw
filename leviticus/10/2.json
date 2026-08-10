@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Moto ukatokea mbele za Yahweh, ukawala ⟨את⟩, wakafa mbele za Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "na-ukatokea"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "na-ukawala"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "na-wakafa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:08.433885873Z",
+  "model": "glm-5.2"
+}

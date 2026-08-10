@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Hizi ndizo matabako ya mbingu na nchi katika kuumbwa kwao, siku ya Yahweh Elohem kuumba ⟨⟨nchi na⟩⟩ mbingu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "hizi"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "matabako"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na nchi"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "katika kuumbwa kwao"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "kuumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "na mbingu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:34.383087220Z",
+  "model": "glm-5.2"
+}

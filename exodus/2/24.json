@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na Elohim akasikia ⟨את⟩ kuugua kwao, na Elohim akakumbuka ⟨את⟩ agano lake ⟨na⟩ ⟨את⟩ Avraham ⟨na⟩ ⟨את⟩ Yitshak na ⟨את⟩ Yaakov.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akasikia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuugua kwao"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "kuugua kwao"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "akakumbuka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agano lake"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "agano lake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨na⟩ ⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨na⟩ ⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-10T18:34:43.654412502Z",
+  "model": "glm-5.2"
+}

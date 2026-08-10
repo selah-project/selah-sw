@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 13:22",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Ikawa siku ya mapigano, hakupatikana swordi wala mkuki mkononi mwa watu wote waliokuwa ⟨pamoja⟩ na ⟨את⟩ Shaul na ⟨את⟩ Yonathan, lakini Shaul na Yonathan mwanae walipatikana ⟨nayo⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "ya mapigano"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hakupatikana"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "⟨kupilika⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "swordi"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "wala mkuki"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mkononi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mwa watu wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨wa watu wote⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waliokuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yonathan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonathan"
+    },
+    {
+      "surface": "ותמצא",
+      "gloss": "walipatikana"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וליונתן",
+      "gloss": "na Yonathan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanae"
+    }
+  ],
+  "timestamp": "2026-08-10T18:03:10.941186489Z",
+  "model": "glm-5.2"
+}

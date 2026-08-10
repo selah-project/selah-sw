@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Na Yirmeyahu alikuwa aingia na kutoka kati ya watu, wala hawakumweka ⟨את⟩ yeye katika jela.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Na Yirmeyahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "alikuwa aingia"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "na kutoka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya watu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hawaku"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "mweka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yeye",
+      "marks": "katika jela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "katika nyumba"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "ya kufungia"
+    }
+  ],
+  "timestamp": "2026-08-10T12:20:49.370151066Z",
+  "model": "glm-5.2"
+}

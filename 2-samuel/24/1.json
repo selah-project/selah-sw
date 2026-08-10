@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na ghadhabu ya Yahweh ilizidi kuwaka dhidi ya Yisrael, akamhamasisha ⟨את⟩ David dhidi yao, akisema: Nenda,uhesabu ⟨את⟩ Yisrael na ⟨את⟩ Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "na ilizidi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ghadhabu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "kuwaka"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "dhidi ya Yisrael"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "akamhamasisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dhidi yao"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "uhesabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-10T11:36:57.953941338Z",
+  "model": "glm-5.2"
+}

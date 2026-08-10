@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 129,
+  "translation": "Wimbo wa ngazi. Mara nyingi wamenifedhehesha tangu ujana wangu — na useme sasa Yisrael:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wa ngazi"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "mara nyingi"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "wamenifedhehesha"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "tangu ujana wangu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "na useme"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:44.208748874Z",
+  "model": "glm-5.2"
+}

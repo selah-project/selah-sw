@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Kwa kuwa ukimwangukia mmoja, mwenzake atamwinua; lakini ole wake wa pekee anayeanguka, wala hakuna wa pili kumwinua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "wataanguka"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "atamwinua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwenzake"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "mwenzake"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "lakini"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wa pekee"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "anayeanguka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wala hakuna"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wa pili"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "kumwinua"
+    }
+  ],
+  "timestamp": "2026-08-10T15:37:43.237055783Z",
+  "model": "glm-5.2"
+}

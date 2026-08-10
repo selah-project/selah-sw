@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "Moyo wangu ulikuwa  moto ndani yangu; wakati nilipotafakari moto uliwaka, nilisema kwa ulimi wangu:",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "ulikuwa moto"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Moyo wangu"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ndani yangu"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "wakati nilipotafakari"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "uliwaka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nilisema"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "kwa ulimi wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:42.505282915Z",
+  "model": "glm-5.2"
+}

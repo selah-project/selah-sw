@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Mimi ⟨ni⟩ Yahweh Elohim wako, ⟨ambaye⟩ alikutoa katika nchi ya Mitsrayim, katika nyumba ya utumwa.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ambaye⟩"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "alikutoa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "katika nchi ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "katika nyumba ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "utumwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:55:21.244233277Z",
+  "model": "glm-5.2"
+}

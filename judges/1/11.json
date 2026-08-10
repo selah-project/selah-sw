@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Wayakaenda kutoka huko ⟨kumsibia⟩ wakaazi wa Devir; na jina la Devir zamani lilikuwa Qiryat-Sefer.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Wayakaenda"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kutoka huko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumsibia"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "wakaazi wa"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na jina la"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "zamani"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    }
+  ],
+  "timestamp": "2026-08-10T14:47:29.863234595Z",
+  "model": "glm-5.2"
+}

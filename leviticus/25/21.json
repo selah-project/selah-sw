@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Nami nitaamuru ⟨את⟩ baraka yangu kwenu katika mwaka wa sita, na ⟨⟨ile⟩⟩ itaunda ⟨את⟩ mazao ya miaka mitatu.",
+  "tokens": [
+    {
+      "surface": "וְצִוִּ֤יתִי",
+      "gloss": "nitaamuru"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "baraka yangu"
+    },
+    {
+      "surface": "בִּרְכָתִי֙",
+      "gloss": "baraka yangu"
+    },
+    {
+      "surface": "לָכֶ֔ם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "בַּשָּׁנָ֖ה",
+      "gloss": "katika mwaka"
+    },
+    {
+      "surface": "הַשִּׁשִּׁ֑ית",
+      "gloss": "wa sita"
+    },
+    {
+      "surface": "וְעָשָׂת֙",
+      "gloss": "na itaunda"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mazao"
+    },
+    {
+      "surface": "הַתְּבוּאָ֔ה",
+      "gloss": "mazao"
+    },
+    {
+      "surface": "לִשְׁלֹ֖שׁ",
+      "gloss": "ya mitatu"
+    },
+    {
+      "surface": "הַשָּׁנִֽים",
+      "gloss": "miaka"
+    }
+  ],
+  "timestamp": "2026-08-10T14:36:07.755365254Z",
+  "model": "glm-5.2"
+}

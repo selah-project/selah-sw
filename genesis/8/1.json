@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na Elohim akakumbuka ⟨את⟩ Noachi na ⟨את⟩ kila mnyama hai na ⟨את⟩ kila mnyama wa kufugwa aliye pamoja naye katika safina; na Elohemu akaitumia upepo kupita juu ya nchi, na maji yakatulia.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "Na akakumbuka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noachi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kila mnyama hai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "mnyama hai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kila mnyama wa kufugwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mnyama wa kufugwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pamoja naye"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "katika safina"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "na akaitumia kupita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "upepo"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "na yakatulia"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maji"
+    }
+  ],
+  "timestamp": "2026-08-10T14:23:01.337393164Z",
+  "model": "glm-5.2"
+}

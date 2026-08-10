@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Ikiwa kutakuwa na mgogoro kati ya watu, na wakikaribia kwenye hukumu, nao wakahukumu, watamdhania halali ⟨את⟩ haki, na watamhukumu kuwa hanalo ⟨את⟩ mbaya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ikiwa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kitakuwa"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "mgogoro"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "na wakikaribia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "na wakahukumu"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "watamdhania halali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haki"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "haki"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "na watamhukumu kuwa hanalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaya"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mbaya"
+    }
+  ],
+  "timestamp": "2026-08-10T11:01:31.962425205Z",
+  "model": "glm-5.2"
+}

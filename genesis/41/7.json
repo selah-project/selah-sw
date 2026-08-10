@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 41:7",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Mashina membamba yakameza ⟨את⟩ mashina saba mazito na yaliyojaa; Paroh akaamka, na tazama, ⟨ilikuwa⟩ ndoto.",
+  "tokens": [
+    {
+      "surface": "ותבלענה",
+      "gloss": "yakameza"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "mashina"
+    },
+    {
+      "surface": "הדקות",
+      "gloss": "membamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashina saba"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "saba"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "mashina"
+    },
+    {
+      "surface": "הבריאות",
+      "gloss": "mazito"
+    },
+    {
+      "surface": "והמלאות",
+      "gloss": "na yaliyojaa"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "akaamka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ndoto"
+    }
+  ],
+  "timestamp": "2026-08-10T10:13:34.950330707Z",
+  "model": "glm-5.2"
+}

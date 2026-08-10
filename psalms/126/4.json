@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 126,
+  "translation": "Rejesha, ee Yahweh, ⟨את⟩ wafungwa wetu kama mito ⟨kavu⟩ katika Ngebu.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Rejesha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wafungwa wetu"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "wafungwa wetu"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "kama mito"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "katika Ngebu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:23.421258777Z",
+  "model": "glm-5.2"
+}

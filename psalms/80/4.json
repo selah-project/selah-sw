@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 80,
+  "translation": "Elohim, uturudishe, na kutia mvuno katika uso wako, nasi tutaokolewa!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "uturudishe"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "na kutia mvuno"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "katika uso wako"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "nasi tutaokolewa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:35.874809018Z",
+  "model": "glm-5.2"
+}

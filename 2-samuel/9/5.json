@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Basi mfalme David alituma, akamchukua kutoka nyumbani mwa Makhir mwana wa Ammiel, kutoka Lo-Debar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "alituma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "akamchukua"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kutoka nyumbani mwa"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makhir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "wa Ammiel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "kutoka Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "-Debar"
+    }
+  ],
+  "timestamp": "2026-08-10T11:30:23.660488230Z",
+  "model": "glm-5.2"
+}

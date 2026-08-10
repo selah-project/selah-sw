@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Waonyofu wataona, watafurahi; na uovu wote utafunga kinywa chake.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "wataona"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "waonyofu"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "watafurahi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "utafunga"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "kinywa chake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:10.701406286Z",
+  "model": "glm-5.2"
+}

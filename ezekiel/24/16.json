@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 24:16",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Wana wa adamu, tazama, mimi ninachukua kutoka kwako ⟨את⟩ kipenzi cha macho yako kwa tauni; wala hutamsifuru wewe, wala hutalia, wala chozi la macho lako hakitatokwa.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa adamu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tazama, mimi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ninachukua"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kutoka kwako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kipenzi cha macho yako"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "kipenzi"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "cha macho yako"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "kwa tauni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hu-"
+    },
+    {
+      "surface": "תספד",
+      "gloss": "tamsifuru wewe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hu-"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "talia"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "hakitatokwa"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "chozi la macho lako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:33:31.108104060Z",
+  "model": "glm-5.2"
+}

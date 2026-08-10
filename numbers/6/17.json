@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 6:17",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na ⟨את⟩ tai aweke kafara ya sadaka za amani kwa Yahweh pamoja na kikapu cha mikate yasiyotiwa chachu; na kuhani ataweka ⟨את⟩ toleo lake la nafaka na ⟨את⟩ toleo lake la kumimina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "tai"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "tai"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ataweka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kafara"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "za amani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "סל",
+      "gloss": "kikapu"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "cha mikate yasiyotiwa chachu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na ataweka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toleo lake la nafaka"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "toleo lake la nafaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "toleo lake la kumimina"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "toleo lake la kumimina"
+    }
+  ],
+  "timestamp": "2026-08-10T14:38:17.237350328Z",
+  "model": "glm-5.2"
+}

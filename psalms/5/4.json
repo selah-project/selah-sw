@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Yahweh, asubuhi wewe utasikia sauti yangu, asubuhi mimi nitapanga ⟨maombi⟩ kwa ajili yako, nami nitazami⟨a⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "wewe utasikia"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sauti yangu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "mimi nitapanga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa ajili yako"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "nami nitazamia"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:47.243126987Z",
+  "model": "glm-5.2"
+}

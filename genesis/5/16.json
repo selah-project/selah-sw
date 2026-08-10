@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 5:16",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na Mahalalel akaishi baada ya kumzaa ⟨את⟩ Yered miaka thelathini na mia nane miaka, naye akazaa wana na binti.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "na akaishi"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kumzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yered"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yered"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thelathini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "na nane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "naye akazaa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na binti"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:11.095195198Z",
+  "model": "glm-5.2"
+}

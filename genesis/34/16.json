@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Tutawapa ⟨את⟩ binti zetu kwenu, na ⟨את⟩ binti zenu sisi tuzitwae; nasi tukae ⟨pamoja⟩ nanyu, tuwe taifa moja.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "Tutawapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "binti zetu"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "binti zetu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "binti zenu"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "binti zenu"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "tuzitwae"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "tukae"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nanyu",
+      "marks": "nanyu"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "tuwe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moja"
+    }
+  ],
+  "timestamp": "2026-08-10T14:27:09.311006419Z",
+  "model": "glm-5.2"
+}

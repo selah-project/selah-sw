@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na utaifanya ⟨את⟩ hiyo ⟨kuwa⟩ uvumba, mchanganyiko wa kazi ya mchanganyishaji, iliyotiwa chumvi, safi, takatifu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Na utafanya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hiyo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "uvumba"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "mchanganyiko"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kazi ya"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "mchanganyishaji"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "iliyotiwa chumvi"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "safi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "takatifu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:36.000892239Z",
+  "model": "glm-5.2"
+}

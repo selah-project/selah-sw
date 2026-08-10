@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Kwa maana mimi ni mpumbavu kuliko ⟨mwana⟩ mtu, wala si na akili ya binadamu ⟨ndani yangu⟩.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "בַ֣עַר",
+      "gloss": "mpumbavu"
+    },
+    {
+      "surface": "אָנֹכִ֣י",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "מֵאִ֑ישׁ",
+      "gloss": "kuliko mtu"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "בִינַ֖ת",
+      "gloss": "akili"
+    },
+    {
+      "surface": "אָדָ֣ם",
+      "gloss": "ya binadamu"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "nina"
+    }
+  ],
+  "timestamp": "2026-08-10T13:29:56.556959711Z",
+  "model": "glm-5.2"
+}

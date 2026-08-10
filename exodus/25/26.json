@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 25:26",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na umfanyie ⟨hiyo⟩ pete nne za dhahabu, na uweke ⟨את⟩ ⟨ hizo⟩ pete katika pembe nne ⟨zilizo⟩ katika miguu yake mine.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Na ufanye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwayo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nne"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "pete"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "za dhahabu"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "na uweke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hizo pete"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "pete"
+    },
+    {
+      "surface": "על",
+      "gloss": "katika"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nne"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "pembe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "kwa mine"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "miguu yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:52:29.366166575Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "⟨Nimeshikwa⟩ kama nyasi na kukauka moyo wangu, kwa sababu nimesahau kula mikate yangu.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "⟨Nimeshikwa⟩"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "kama nyasi"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "na kukauka"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "nimesahau"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "kula"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mikate yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:36.577184076Z",
+  "model": "glm-5.2"
+}

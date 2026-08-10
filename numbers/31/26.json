@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 31:26",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Inua ⟨את⟩ kichwa cha mawazo ya mateka, katika watu na katika mifugo, wewe na Elazar kuhani na wakuu wa baba za jumuiya:",
+  "tokens": [
+    {
+      "surface": "שא",
+      "gloss": "Inua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kichwa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "ya mawazo"
+    },
+    {
+      "surface": "השבי",
+      "gloss": "ya mateka"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "katika watu"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "na katika mifugo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "na Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "na wakuu"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "wa baba"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "za jumuiya"
+    }
+  ],
+  "timestamp": "2026-08-10T10:50:48.768142546Z",
+  "model": "glm-5.2"
+}

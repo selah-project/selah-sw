@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Na Ya'aqov akafanya vivyo hivyo, akatimiza wiki hii; naye ⟨akampa⟩ ⟨את⟩ Rachel bintiye, ⟨kuwa⟩ mke wake.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akafanya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqov"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "akatimiza"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "wiki"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hii"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "naye ⟨akampa⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "bintiye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "⟨kuwa⟩ mke wake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:26:20.451394336Z",
+  "model": "glm-5.2"
+}

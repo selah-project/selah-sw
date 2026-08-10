@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 97,
+  "translation": "Milima iliyeyuka kama nta mbele za Yahweh, mbele za Adonai wa ⟨nchi⟩ yote.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "milima"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "kama nta"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "iliyeyuka"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨nchi⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:58.487252088Z",
+  "model": "glm-5.2"
+}

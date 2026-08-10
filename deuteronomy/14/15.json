@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "na ⟨את⟩ binti wa strushi, na ⟨את⟩ ha-tahmas, na ⟨את⟩ ha-shahaf, na ⟨את⟩ ha-netz kufuatana na aina zake",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "binti wa strushi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "wa strushi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ha-tahmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ha-tahmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ha-shahaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ha-shahaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ha-netz"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ha-netz"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "kufuatana na aina zake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:57:35.064145543Z",
+  "model": "glm-5.2"
+}

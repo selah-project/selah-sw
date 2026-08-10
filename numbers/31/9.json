@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Na wana wa Yisrael waliteka ⟨את⟩ wanawake wa Midyani na ⟨את⟩ watoto wao, na ⟨את⟩ wanyama wao wote, na ⟨את⟩ mifugo yao yote, na ⟨את⟩ mali yao yote, waliibwa.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "na wakashika wafungwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanawake wa Midyani"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "wanawake"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "wa Midyani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "watoto wao"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "watoto wao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wanyama wao wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "wanyama wao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mifugo yao yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "mifugo yao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mali yao yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "mali yao"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "waliibwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:51:40.136745273Z",
+  "model": "glm-5.2"
+}

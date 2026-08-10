@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 148,
+  "translation": "Wanyama na vosote mifugo, viumbe vinavyotambaa na ndege wa mabawa:",
+  "tokens": [
+    {
+      "surface": "הַֽחַיָּ֥ה",
+      "gloss": "wanyama"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "na vosote"
+    },
+    {
+      "surface": "בְּהֵמָ֑ה",
+      "gloss": "mifugo"
+    },
+    {
+      "surface": "רֶ֝֗מֶשׂ",
+      "gloss": "viumbe vinavyotambaa"
+    },
+    {
+      "surface": "וְצִפּ֥וֹר",
+      "gloss": "na ndege"
+    },
+    {
+      "surface": "כָּנָֽף",
+      "gloss": "wa mabawa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:46.228225425Z",
+  "model": "glm-5.2"
+}

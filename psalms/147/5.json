@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 147,
+  "translation": "Mkuu ni Adonai wetu, mwenye nguvu kubwa; kwa ufahamu wake hakuna hesabu.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Mkuu"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "ni Adonai wetu"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mwenye nguvu kubwa"
+    },
+    {
+      "surface": "כח",
+      "gloss": ""
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "kwa ufahamu wake"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "hesabu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:19.241530324Z",
+  "model": "glm-5.2"
+}

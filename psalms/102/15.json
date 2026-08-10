@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Kwa kuwa watumishi wako waliridhika na ⟨את⟩ mawe yake, na ⟨את⟩ vumbi lake wanalihurumia.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "רָצ֣וּ",
+      "gloss": "waliridhika"
+    },
+    {
+      "surface": "עֲ֭בָדֶיךָ",
+      "gloss": "watumishi wako"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mawe yake"
+    },
+    {
+      "surface": "אֲבָנֶ֑יהָ",
+      "gloss": "mawe yake"
+    },
+    {
+      "surface": "וְֽאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vumbi lake"
+    },
+    {
+      "surface": "עֲפָרָ֥הּ",
+      "gloss": "vumbi lake"
+    },
+    {
+      "surface": "יְחֹנֵֽנוּ",
+      "gloss": "wanalihurumia"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:04.260370237Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Njia zako, ee Yahweh, nijulishe; nyayo zako nifundishe.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Njia zako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "nijulishe"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "nyayo zako"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "nifundishe"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:01.596029575Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Kwa mwongozi. Wa David. Kwa Yahweh nimejificha; mtasema je kwa nafsi yangu, Nuduni, ⟨kama⟩ ndege, milima yenu?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwongozi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Wa David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Kwa Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nimejificha"
+    },
+    {
+      "surface": "איך",
+      "gloss": "je"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "mtasema"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kwa nafsi yangu"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Nuduni"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "milima yenu"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ndege"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:30.004944484Z",
+  "model": "glm-5.2"
+}

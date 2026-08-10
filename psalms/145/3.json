@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 145,
+  "translation": "Mkuu ⟨ni⟩ Yahweh na kupigiwa sifa sana, na kwa ukubwa wake ⟨hakuna⟩ uchunguzi.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Mkuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "na kupigiwa sifa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "na kwa ukubwa wake"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨hakuna⟩"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "uchunguzi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:03.359181624Z",
+  "model": "glm-5.2"
+}

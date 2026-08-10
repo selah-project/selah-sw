@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Wala hawakusikia, wala hawakugeuza ⟨את⟩ sikio lao kurudi katika uovu wao, ili wasitoe uvungu ⟨kwa⟩ Elohim wengine.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hawakusikia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "hawakugeuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sikio lao"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "sikio lao"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kurudi"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "katika uovu wao"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ili wasitoe"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "uvungu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨kwa⟩ Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wengine"
+    }
+  ],
+  "timestamp": "2026-08-10T12:23:09.520097368Z",
+  "model": "glm-5.2"
+}

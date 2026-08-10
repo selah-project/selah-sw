@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Yahweh akamwambia Moshe: «Sema kwa makuhani, wana wa Aharon, uwaambie: Kwa nafsi (ya marehemu) asijichafue ⟨kati⟩ ya watu wake.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "makuhani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "wa Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uwaambie"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "kwa nafsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "jichafue"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "kati ya watu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:44.319866706Z",
+  "model": "glm-5.2"
+}

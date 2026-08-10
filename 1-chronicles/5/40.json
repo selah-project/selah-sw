@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na Azarjah alimzalia ⟨את⟩ Serajah, na Serajah alimzalia ⟨את⟩ Yehotsadak.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "na Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzalia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajah"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "na Serajah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzalia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehotsadak"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadak"
+    }
+  ],
+  "timestamp": "2026-08-10T14:04:18.885895171Z",
+  "model": "glm-5.2"
+}

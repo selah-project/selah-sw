@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 20:11",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na mfalme wa Yisrael akajibu, naye akasema: Mwambieni: Asijivune mwenye kujifunga ⟨kwa vita⟩ kama yule anayefungua.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akajibu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akasema"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "mwambieni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "jivune"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "mwenye kujifunga"
+    },
+    {
+      "surface": "כמפתח",
+      "gloss": "kama yule anayefungua"
+    }
+  ],
+  "timestamp": "2026-08-10T15:00:46.171500727Z",
+  "model": "glm-5.2"
+}

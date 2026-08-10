@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 108,
+  "translation": "Nani atanileta ⟨ndani ya⟩ mji ulio imara? Nani ataongoza ⟨mimi⟩ mpaka Edomu?",
+  "tokens": [
+    {
+      "surface": "מִ֣י",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "יֹ֭בִלֵנִי",
+      "gloss": "atanileta"
+    },
+    {
+      "surface": "עִ֣יר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "מִבְצָ֑ר",
+      "gloss": "ulio imara"
+    },
+    {
+      "surface": "מִ֖י",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "נָחַ֣נִי",
+      "gloss": "ataongoza"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "אֱדֽוֹם",
+      "gloss": "Edomu"
+    }
+  ],
+  "timestamp": "2026-08-10T17:54:25.724078746Z",
+  "model": "glm-5.2"
+}

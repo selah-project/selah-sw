@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na wakawa wakimcha ⟨את⟩ Elohim wa kuzaaji, wala hawakufanya kama alivyonena ⟨kwa⟩ kuwa mfalme wa Mitsrayim, lakini wakawauza ⟨את⟩ watoto ⟨kuwa⟩ hai.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "na wakawa wakimcha"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "wa kuzaaji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hawakufanya"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kama"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "alivyonena"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "lakini wakawauza hai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watoto"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "watoto"
+    }
+  ],
+  "timestamp": "2026-08-10T10:17:58.652764213Z",
+  "model": "glm-5.2"
+}

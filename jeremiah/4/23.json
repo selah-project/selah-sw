@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Nilitazama ⟨את⟩ nchi, na tazama, tohu va-vohu; na ⟨kwenye⟩ mbingu, na hakuna nuru yao.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Nilitazama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu (ungalowaji)"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "va-vohu (upuuzi)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ⟨kwenye⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na hakuna"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "nuru yao"
+    }
+  ],
+  "timestamp": "2026-08-10T17:49:16.199891467Z",
+  "model": "glm-5.2"
+}

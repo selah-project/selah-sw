@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Sauti ya Yahweh kutikisa jangwa, kutikisa Yahweh jangwa la Kadeshi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Sauti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "kutikisa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jangwa"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "kutikisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jangwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "la Kadeshi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:22.459695423Z",
+  "model": "glm-5.2"
+}

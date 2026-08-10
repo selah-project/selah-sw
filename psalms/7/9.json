@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Yahweh ⟨huakhiruhu⟩ mataifa, nitahukumu, ee Yahweh, kulingana na haki yangu na kulingana na uadilifu wangu juu yangu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "⟨huakhiruhu⟩"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "nitahukumu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "kulingana na haki yangu"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "na kulingana na uadilifu wangu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:37.892219360Z",
+  "model": "glm-5.2"
+}

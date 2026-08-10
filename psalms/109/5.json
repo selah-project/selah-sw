@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Wakaweka juu yangu ubaya badala ya mema, na chuki badala ya upendo wangu.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Wakaweka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ubaya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "badala ya"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "mema"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "na chuki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "badala ya"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "upendo wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:09.333687161Z",
+  "model": "glm-5.2"
+}

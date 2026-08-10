@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Cho chote kilichochachukwa hamtakula; katika makao yenu yote mtakula mikate isiyochachuka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Cho chote"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "kilichochachukwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamtakula"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": ""
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "makao yenu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mtakula"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mikate isiyochachuka"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:13.402253012Z",
+  "model": "glm-5.2"
+}

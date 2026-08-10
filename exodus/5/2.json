@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Paroh akasema: \"Ni nani Yahweh, ambaye niisikie sauti yake, ili niache ⟨את⟩ Yisrael? Sijamjua Yahweh, na pia ⟨את⟩ Yisrael sitaachi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ni nani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "niisikie"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "sauti yake"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ili niache"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Si"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jamjua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sita"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "acha"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:11.285677571Z",
+  "model": "glm-5.2"
+}

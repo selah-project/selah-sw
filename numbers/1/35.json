@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Waliokusanywa wao, kwa kabila la Menashe, ⟨walikuwa⟩ watatu na thelathini elfu na mia mbili.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "waliokusanywa wao"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "kwa kabila"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na thelathini"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "na mia mbili"
+    }
+  ],
+  "timestamp": "2026-08-10T10:39:24.292721669Z",
+  "model": "glm-5.2"
+}

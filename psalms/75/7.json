@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 75,
+  "translation": "Kwa maana ha⟨i⟩toki mashariki wala magharibi, wala ha⟨i⟩toki nyika ya milima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "kutoka mashariki"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "na kutoka magharibi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "kutoka nyika"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ya milima"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:43.873722561Z",
+  "model": "glm-5.2"
+}

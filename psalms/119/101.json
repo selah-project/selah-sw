@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Macho yote ⟨nimezuia⟩ ndugu zangu, kutoka njia yote ya uovu; ili niweze kushika neno lako.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "kutoka kila"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "njia"
+    },
+    {
+      "surface": "רע",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "nimezuia"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "miguu yangu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ili"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "nishike"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "neno lako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:47.077519767Z",
+  "model": "glm-5.2"
+}

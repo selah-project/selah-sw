@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Je, tarumbeta ikipulizwa mjiini, na taifa halitetsisika? Je, baya likitokea mjiini, na Yahweh hakuutenda?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Je, iki-"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "kipulizwa"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "tarumbeta"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mjiini"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na taifa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "litetsisika"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Je, iki-"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tokea"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "baya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mjiini"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kuutenda"
+    }
+  ],
+  "timestamp": "2026-08-10T12:44:11.586249068Z",
+  "model": "glm-5.2"
+}

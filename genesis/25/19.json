@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na hizi ni vizazi vya Yitzhak mwana wa Avraham: Avraham alimzaa ⟨את⟩ Yitzhak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na hizi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ni vizazi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "vya Yitzhak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "wa Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitzhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitzhak"
+    }
+  ],
+  "timestamp": "2026-08-10T10:07:49.594886704Z",
+  "model": "glm-5.2"
+}

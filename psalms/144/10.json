@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 144,
+  "translation": "Yeye anayetoa ⟨את⟩ wokovu kwa wafalme, yeye anayemwokoa ⟨את⟩ David mtumishi wake kutoka upanga wa ubaya;",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Anayetoa"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "wokovu"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kwa wafalme"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "anayemwokoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mtumishi wake"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kutoka upanga"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "wa ubaya"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:50.530722524Z",
+  "model": "glm-5.2"
+}

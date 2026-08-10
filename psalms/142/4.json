@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 142,
+  "translation": "Pindi roho yangu inapojisikia kukereka juu yangu, wewe uhifadhi nyayo zangu; kwenye njia hii ninayoitembea, wameficha mtego kwa ajili yangu.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "inapojisikia kukereka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "roho yangu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "hufahamu"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "njia yangu"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "kwenye njia"
+    },
+    {
+      "surface": "זו",
+      "gloss": "hii"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ninayoitembea"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "wameficha"
+    },
+    {
+      "surface": "פח",
+      "gloss": "mtego"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ajili yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:33.057974436Z",
+  "model": "glm-5.2"
+}

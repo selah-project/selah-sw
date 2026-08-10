@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 54,
+  "translation": "Kwa maana wageni wameinuka juu yangu, na watu wa jeuri wametafuta nafsi yangu; hawakuweka Elohim mbele zao. Selah.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "זָרִ֨ים",
+      "gloss": "wageni"
+    },
+    {
+      "surface": "קָ֤מוּ",
+      "gloss": "wameinuka"
+    },
+    {
+      "surface": "עָלַ֗י",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "וְֽ֭עָרִיצִים",
+      "gloss": "na watu wa jeuri"
+    },
+    {
+      "surface": "בִּקְשׁ֣וּ",
+      "gloss": "wametafuta"
+    },
+    {
+      "surface": "נַפְשִׁ֑י",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "hawaku"
+    },
+    {
+      "surface": "שָׂ֨מוּ",
+      "gloss": "kuweka"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לְנֶגְדָּ֣ם",
+      "gloss": "mbele zao"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:30.701769779Z",
+  "model": "glm-5.2"
+}

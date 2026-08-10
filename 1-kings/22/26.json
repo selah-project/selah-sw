@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Na mfalme wa Yisra'el akasema: Chukua ⟨את⟩ Mikayehu na umrudishe kwa Amoni, mwangalizi wa jiji, na kwa Yoashi mwana wa mfalme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "קח",
+      "gloss": "chukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikayehu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikayehu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "na umrudishe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mwangalizi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa jiji"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoashi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T11:45:09.077325747Z",
+  "model": "glm-5.2"
+}

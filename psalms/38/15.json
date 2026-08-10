@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Nami nilikuwa kama mtu asiyeesikiliza, wala hakuna kinywani mwake lawama.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Nami nilikuwa"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kama mtu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ye sikiliza"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wala hakuna"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "kinywani mwake"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "lawama"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:12.456868918Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Yahweh akamwambia Moshe: Nyosha ⟨את⟩ mkono wako juu ya bahari, ili maji yarudi juu ya Mitsrayim, juu ya magari yake na juu ya wapanda farasi wake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(kwa)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Nyosha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wako"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mkono wako"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ili yarudi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "magari yake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "wapanda farasi wake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:07.096678269Z",
+  "model": "glm-5.2"
+}

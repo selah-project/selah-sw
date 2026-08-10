@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Yehoshua akaacha ⟨wakapelekwa⟩ ⟨את⟩ watu, kila mmoja kwenda urithi wake.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akaacha"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mmoja"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "urithi wake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:47:42.687602195Z",
+  "model": "glm-5.2"
+}

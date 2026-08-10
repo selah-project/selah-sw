@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na ⟨ye⟩ ataweka ⟨את⟩ mkono wake juu ya kichwa cha dhabihu ya dhambi, na atamchinja ⟨kwa ajili ya⟩ dhabihu ya dhambi, mahali pale ambapo ⟨ye⟩ huchinja ⟨את⟩ dhabihu ya kuchomwa.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "na ataweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "cha dhabihu ya dhambi"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "na atachinja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dhabihu ya dhambi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "kwa ajili ya dhabihu ya dhambi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "huchinja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhabihu ya kuchomwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dhabihu ya kuchomwa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:33:47.242251772Z",
+  "model": "glm-5.2"
+}

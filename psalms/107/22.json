@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Na wachinje dhabihu za shukrani, na wahadithie matendo yake kwa wimbo wa shangwe.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "na wachinje"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "dhabihu za"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "shukrani"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "na wahadithie"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "matendo yake"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "kwa wimbo wa shangwe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:14.675974793Z",
+  "model": "glm-5.2"
+}

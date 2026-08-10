@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Paroh alikasirika na watumishi wake, akaniweka kizuizini nyumbani kwa mkuu wa wachinjaaji — ⟨את⟩ mimi na ⟨את⟩ mkuu wa waokaji.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "alikasirika"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumishi wake"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akaniweka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mimi",
+      "marks": "kizuizini"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "kizuizini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumbani kwa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "wa wachinjaaji"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mimi",
+      "marks": "mimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mkuu wa waokaji"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "wa waokaji"
+    }
+  ],
+  "timestamp": "2026-08-10T10:13:24.681277712Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 103,
+  "translation": "Mbarikuni Yahweh, ⟨enyewe⟩ majeshi yake yote, wahudumu wake, wafanyao mapenzi yake.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Mbarikuni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "majeshi yake"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "wahudumu wake"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "wafanyao"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "mapenzi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:29.208675601Z",
+  "model": "glm-5.2"
+}

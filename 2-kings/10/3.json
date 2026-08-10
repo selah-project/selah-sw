@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 10:3",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "mkutaze yule aliye mzuri na mwema kati ya wana wa bwana zenu, mwekeni kwenye kiti cha enzi cha baba yake, mpigane kwa nyumba ya bwana zenu.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "mkutaze"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "aliye mzuri"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "na mwemu"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "kati ya wana wa"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "bwana zenu"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "mwekeni"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kiti cha enzi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha baba yake"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "mpigane"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "bwana zenu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:48:15.879051066Z",
+  "model": "glm-5.2"
+}

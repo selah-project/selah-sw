@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Kinywa cha mwenye haki hufikiri hekima, na ulimi wake huongea hukumu.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Kinywa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cha mwenye haki"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "hufikiri"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hekima"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "na ulimi wake"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "huongea"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukumu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:38.200378800Z",
+  "model": "glm-5.2"
+}

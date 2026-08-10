@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Yahweh na akate ⟨the⟩ midomo yote ya unyonge, ulimi unaoonesha makuu.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "na akate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "⟨the⟩ midomo"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ya unyonge"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ulimi"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "unaoonesha"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "makuu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:48.836432556Z",
+  "model": "glm-5.2"
+}

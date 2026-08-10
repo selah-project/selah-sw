@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Yechizkiyahu na wakuu wakaingia, wakaona ⟨את⟩ mapengo, wakambariki ⟨את⟩ Yahweh na ⟨את⟩ watu wake Yisrael.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "wakaingia"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizkiyahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "na wakuu"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "wakaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapengo"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "mapengo"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "wakambariki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "watu wake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "watu wake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T15:47:08.920668700Z",
+  "model": "glm-5.2"
+}

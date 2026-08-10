@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Yahweh ⟨ni⟩ mwema kwa ⟨ye⟩ anayemsubiri, kwa nafsi inayomtafuta.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mwema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "kwa anayemsubiri"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "kwa nafsi"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "inayomtafuta"
+    }
+  ],
+  "timestamp": "2026-08-10T13:44:21.670398803Z",
+  "model": "glm-5.2"
+}

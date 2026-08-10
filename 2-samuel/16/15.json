@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na Avshalomu, na watu wote wa Yisrael, wakaingia Yerushalayim; na Akitofeli ⟨את⟩ pamoja naye.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Na Avshalomu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באו",
+      "gloss": "wakaingia"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "na Akitofeli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pamoja naye"
+    }
+  ],
+  "timestamp": "2026-08-10T11:33:31.116810060Z",
+  "model": "glm-5.2"
+}

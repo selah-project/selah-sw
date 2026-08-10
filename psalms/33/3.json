@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Mwimbieni ⟨yeye⟩ wimbo mpya; chezeni vizuri katika mwlio.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "mwimbieni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mpya"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "chezeni vizuri"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "chezeni"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "katika mwlio"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:48.164017966Z",
+  "model": "glm-5.2"
+}

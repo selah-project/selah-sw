@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 71,
+  "translation": "Midomo yango itashangilia, maana nikikwimba; nayo nafsi yangu, ambayo ⟨wewe⟩ umeikomboa.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "itashangilia"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "Midomo yango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nikikwimba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "nayo nafsi yangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "umeikomboa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:19.705057672Z",
+  "model": "glm-5.2"
+}

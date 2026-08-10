@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 5:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Niimba ⟨sasa⟩ kwa mpenzi wangu wimbo wa mpenzi wangu kuhusu shamba lake la mizabibu: shamba la mizabibu lilikuwa ⟨ni⟩ la mpenzi wangu, katika kilima cheusi ⟨cha│mafuta⟩.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "niimba"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "kwa mpenzi wangu"
+    },
+    {
+      "surface": "שירת",
+      "gloss": "wimbo wa"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mpenzi wangu"
+    },
+    {
+      "surface": "לכרמו",
+      "gloss": "kuhusu shamba lake la mizabibu"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "shamba la mizabibu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "likuwa"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "la mpenzi wangu"
+    },
+    {
+      "surface": "בקרן",
+      "gloss": "katika kilima cheusi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "cha"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    }
+  ],
+  "timestamp": "2026-08-10T11:56:03.855242706Z",
+  "model": "glm-5.2"
+}

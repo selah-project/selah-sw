@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Kwa kuwa mimi ni maskini na mwombovu, na moyo wangu umejeruhiwa ndani yangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "maskini"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na mwombovu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi ni"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "na moyo wangu"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "umejeruhiwa"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ndani yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:45.098889140Z",
+  "model": "glm-5.2"
+}

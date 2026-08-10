@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Kwa jina lako watashangilia siku yote, na kwa haki yako watainuliwa.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "kwa jina lako"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "watashangilia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "na kwa haki yako"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "watainuliwa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:43.821728742Z",
+  "model": "glm-5.2"
+}

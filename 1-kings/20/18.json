@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Naye akasema: Kama kwa amani wametoka, ūmshikeni ⟨ki⟩hai; na kama kwa vita wametoka, ⟨ki⟩hai mūmshike.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akasema"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "kwa amani"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "wametoka"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "ūmshikeni"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "⟨ki⟩hai"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na kama"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kwa vita"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "wametoka"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "⟨ki⟩hai"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "mūmshike"
+    }
+  ],
+  "timestamp": "2026-08-10T11:44:06.847091232Z",
+  "model": "glm-5.2"
+}

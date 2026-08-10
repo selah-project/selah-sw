@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 12:4",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Yahweh akasema ghafla, kwa Moshe na kwa Aharon na kwa Miryam: «Tokeni, ninyi watatu, kwenda hema ya mkutano.» nao watatu wakatoka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ghafla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "Tokeni"
+    },
+    {
+      "surface": "שלשתכם",
+      "gloss": "ninyi watatu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mkutano"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "wakatoka"
+    },
+    {
+      "surface": "שלשתם",
+      "gloss": "watatu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:55:20.512767191Z",
+  "model": "glm-5.2"
+}

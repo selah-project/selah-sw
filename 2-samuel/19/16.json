@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Mfalme akarudi, akafika hadi Yardeni; na Yehuda wakashuka Gilgali, ili kwenda kutana na mfalme, ili kumvusha ⟨את⟩ mfalme ⟨את⟩ Yardeni.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akarudi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mfalme"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akafika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wakashuka"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilgali"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ili kwenda"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kutana na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ili kumvusha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfalme"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:34:29.871251630Z",
+  "model": "glm-5.2"
+}

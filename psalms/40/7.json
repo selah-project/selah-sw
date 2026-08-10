@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Dhabihu na toleo la nafaka hukupendezesha; masikio umenichimbia. Holocaustu na toleo la dhambi hukuomba.",
+  "tokens": [
+    {
+      "surface": "זֶ֤בַח",
+      "gloss": "dhabihu"
+    },
+    {
+      "surface": "וּמִנְחָ֨ה",
+      "gloss": "na toleo la nafaka"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "hujapendezwa na"
+    },
+    {
+      "surface": "חָפַ֗צְתָּ",
+      "gloss": "hukutaka"
+    },
+    {
+      "surface": "אָ֭זְנַיִם",
+      "gloss": "masikio"
+    },
+    {
+      "surface": "כָּרִ֣יתָ",
+      "gloss": "umenichimbia"
+    },
+    {
+      "surface": "לִּ֑י",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "עוֹלָ֥ה",
+      "gloss": "holocaustu"
+    },
+    {
+      "surface": "וַ֝חֲטָאָ֗ה",
+      "gloss": "na toleo la dhambi"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "hujawa"
+    },
+    {
+      "surface": "שָׁאָֽלְתָּ",
+      "gloss": "hukuomba"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:35.389056161Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na mwanamume ambaye atachukua ⟨את⟩ mke na ⟨את⟩ mama yake, uovu ni ⟨huo⟩; kwa moto watawachoma ⟨את⟩ yeye na ⟨את⟩ hao, na isiweko uovu kati yenu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na mwanamume"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "atachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mke"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mama yake"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "mama yake"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni huo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kwa moto"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "watawachoma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yeye"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "na ⟨את⟩ hao",
+      "marks": "hao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na isiweko"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "isiweko"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "kati yenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:12.580511359Z",
+  "model": "glm-5.2"
+}

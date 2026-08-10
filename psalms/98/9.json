@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 98,
+  "translation": "Mbele za Yahweh, maana ⟨amekuja⟩ kuhukumu ⟨את⟩ nchi. Atawahukumu ⟨את⟩ dunia kwa haki, na ⟨את⟩ watu kwa uwazi.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "בא",
+      "gloss": "amekuja"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "kuhukumu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "Atawahukumu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "kwa haki"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "na watu"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "kwa uwazi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:27.755097190Z",
+  "model": "glm-5.2"
+}

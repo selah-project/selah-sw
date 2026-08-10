@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 16:2",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Kwa sababu mimi nilikuinua kutoka mavumbini nikakufanya uwe kiongozi juu ya taifa langu Yisraeli, nawe ulitembea katika njia ya Yarobeamu, ukawahitakia ⟨את⟩ taifa langu Yisraeli ili kunikasirisha kwa dhambi zao —",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "הרימתיך",
+      "gloss": "nilikuinua"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "mavumbini"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "nikakufanya"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "kiongozi"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "taifa langu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "nawe ulitembea"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "katika njia"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ya Yarobeamu"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "ukawahitakia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taifa langu Yisraeli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "taifa langu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "ili kunikasirisha"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "kwa dhambi zao"
+    }
+  ],
+  "timestamp": "2026-08-10T11:43:14.613938964Z",
+  "model": "glm-5.2"
+}

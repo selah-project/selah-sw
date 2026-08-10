@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Kwa maana si kwa upanga wao wakapata ⟨nchi⟩, na mkono wao haukuwaokoa, bali mkono wako wa kulioto na nguvu yako na mwanga wa uso wako, kwa sababu umewapenda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "kwa upanga wao"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "wakapata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨nchi⟩"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "na mkono wao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hauku"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "waokoa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bali"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "mkono wako wa kulioto"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "na nguvu yako"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "na mwanga wa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uso wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "umewapenda"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:04.552888363Z",
+  "model": "glm-5.2"
+}

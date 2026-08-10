@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na kuhani atachukua katika damu yake kwa kidole chake, na kuweka juu ya pembe za madhabahu ya ⟨את⟩ chunguzi, na ⟨את⟩ damu yake yote atmimie kwenye msingi wa ⟨את⟩ madhabahu.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Na kuhani atachukua"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "katika damu yake"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "kwa kidole chake"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na kuweka"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "pembe za"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya chunguzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "damu yake yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "damu yake"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "atamimie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "msingi wa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:33:44.803125282Z",
+  "model": "glm-5.2"
+}

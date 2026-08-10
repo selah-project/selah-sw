@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "mkaandika juu ya mizinga ya nyumba yako, na juu ya milango yako.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "mkaandika"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "mizinga"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nyumba yako"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "na juu ya milango yako"
+    }
+  ],
+  "timestamp": "2026-08-10T10:56:42.040570714Z",
+  "model": "glm-5.2"
+}

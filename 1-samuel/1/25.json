@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Wakachinja ⟨את⟩ ng'ombe, wakamleta ⟨את⟩ mvulana kwa Eli.",
+  "tokens": [
+    {
+      "surface": "וַֽיִּשְׁחֲט֖וּ",
+      "gloss": "wakachinja"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "הַפָּ֑ר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "וַיָּבִ֥יאוּ",
+      "gloss": "wakamleta"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mvulana"
+    },
+    {
+      "surface": "הַנַּ֖עַר",
+      "gloss": "mvulana"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עֵלִֽי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-08-10T14:50:48.289673244Z",
+  "model": "glm-5.2"
+}

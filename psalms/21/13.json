@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Kwa kuwa utawafanya wageuke shavuni, kwa nyayo zako utaandaa ⟨kumlenga⟩ juu ya nyuso zao.",
+  "tokens": [
+    {
+      "surface": "כִּ֭י",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "תְּשִׁיתֵ֣מוֹ",
+      "gloss": "utawafanya wageuke"
+    },
+    {
+      "surface": "שֶׁ֑כֶם",
+      "gloss": "shavuni"
+    },
+    {
+      "surface": "בְּ֝מֵֽיתָרֶ֗יךָ",
+      "gloss": "kwa nyayo zako"
+    },
+    {
+      "surface": "תְּכוֹנֵ֥ן",
+      "gloss": "utaandaza"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "פְּנֵיהֶֽם",
+      "gloss": "nyuso zao"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:42.680903258Z",
+  "model": "glm-5.2"
+}

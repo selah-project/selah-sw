@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 81,
+  "translation": "Kwa kuwa huu ni chokwa kwa Yisrael, hu ‹ni› hukumu kwa Mungu wa Yaakov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "חק",
+      "gloss": "chokwa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kwa Yisrael"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kwa Mungu wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:40.581807112Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na Harani akafa mbele za Terachi baba yake, katika nchi ya kuzaliwa kwake, huko Ur wa Weldi-Kasidi.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Na akafa"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "פני",
+      "gloss": "usiwa wa"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terachi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "ya kuzaliwa kwake"
+    },
+    {
+      "surface": "באור",
+      "gloss": "huko Ur"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "wa Weldi-Kasidi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:04:01.772487915Z",
+  "model": "glm-5.2"
+}

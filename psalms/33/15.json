@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Yeye anayechora, pamoja moyo wao; yeye anayeelewa ⟨⟩matendo yote ya mikono yao.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "yeye anayechora"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "moyo wao"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "yeye anayeelewa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "matendo ya mikono yao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:41.768663495Z",
+  "model": "glm-5.2"
+}

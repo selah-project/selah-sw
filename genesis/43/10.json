@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "Kwa sababu kama tungesitasita, kwa kweli sasa tungalirudi mara hii ya pili.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "kama"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "tungesitasita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kweli"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "tungalirudi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mara ... ya pili"
+    }
+  ],
+  "timestamp": "2026-08-10T10:15:07.358313281Z",
+  "model": "glm-5.2"
+}

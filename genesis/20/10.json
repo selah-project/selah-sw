@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Abimelech akamwambia Avraham: Ulioona nini, kwa kuwa umefanya ⟨את⟩ jambo hili?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelech"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ulioona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "umefanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jambo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    }
+  ],
+  "timestamp": "2026-08-10T15:50:04.824137518Z",
+  "model": "glm-5.2"
+}

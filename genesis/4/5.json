@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na kwa Kajin na kwa dhabihu yake ⟨hakutazama⟩, akauchia Kajin sana, nyuso zake zakaanguka.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "dhabihu yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haku"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "akauchia"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "zakaanguka"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nyuso zake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:49:18.977587897Z",
+  "model": "glm-5.2"
+}

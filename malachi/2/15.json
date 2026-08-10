@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "malachi 2:15",
+  "book": "malachi",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Naye sio mmoja tu aliyeumba? Na ila ya roho ni yake. Na mmoja huyo anataka nini? Mzao wa Elohim. Basi jilindenzeni rohoni mwenu, na kwa mke wa ujana wako, asikhini.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na sio"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aliyeumba"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "na ila"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ya roho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ni yake"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na anataka"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mmoja huyo"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "nini"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mzao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "basi jilindenzeni"
+    },
+    {
+      "surface": "ברוחכם",
+      "gloss": "rohoni mwenu"
+    },
+    {
+      "surface": "ובאשת",
+      "gloss": "na kwa mke"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "wa ujana wako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יבגד",
+      "gloss": "khini"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:51.751703866Z",
+  "model": "glm-5.2"
+}

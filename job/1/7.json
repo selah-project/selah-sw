@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Yahweh akamwambia hashatani, Umekuja kutoka wapi? Na hashatani akajibu ⟨את⟩ Yahweh, akasema, Kutoka kuzungukazunguka katika nchi, na kutoka kuitembea humo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hashatani"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "kutoka wapi"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "umekuja"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "akajibu"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hashatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "kutoka kuzungukazunguka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "na kutoka kuitembea"
+    },
+    {
+      "surface": "בה",
+      "gloss": "humo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:31:14.769759367Z",
+  "model": "glm-5.2"
+}

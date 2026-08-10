@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Na nafsi yangu itafurahia katika Yahweh, itashangilia katika wokovu wake.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Na nafsi yangu"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "itafurahia"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "katika Yahweh"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "itashangilia"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "katika wokovu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:50.357098451Z",
+  "model": "glm-5.2"
+}

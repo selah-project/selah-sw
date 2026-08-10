@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 21:15",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Kwa sababu ya kufanya ⟨wao⟩ ⟨את⟩ ovu machoni pangu, na wakawa wakinikasirisha, tangu siku ambayo baba zao walitoka Mitsrayim, na hata siku hii.",
+  "tokens": [
+    {
+      "surface": "יַעַן",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "<kiunganishi>"
+    },
+    {
+      "surface": "עָשׂוּ",
+      "gloss": "wamefanya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ovu"
+    },
+    {
+      "surface": "הָרַע",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "בְּעֵינַי",
+      "gloss": "machoni pangu"
+    },
+    {
+      "surface": "וַיְהִיוּ",
+      "gloss": "na wakawa"
+    },
+    {
+      "surface": "מַכְעִסִים",
+      "gloss": "wakinikasirisha"
+    },
+    {
+      "surface": "אֹתִי",
+      "gloss": "⟨את⟩ mimi"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "tangu"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "siku"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "יָצְאוּ",
+      "gloss": "walitoka"
+    },
+    {
+      "surface": "אֲבוֹתָם",
+      "gloss": "baba zao"
+    },
+    {
+      "surface": "מִמִּצְרַיִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וְעַד",
+      "gloss": "na hata"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "siku"
+    },
+    {
+      "surface": "הַזֶּה",
+      "gloss": "hii"
+    }
+  ],
+  "timestamp": "2026-08-10T17:49:00.758838156Z",
+  "model": "glm-5.2"
+}

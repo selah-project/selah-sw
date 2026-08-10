@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Akachukua ⟨את⟩ mafuta yote yaliyo juu ya matumbo, na ⟨את⟩ kishina cha ini, na ⟨את⟩ figo mbili, na ⟨את⟩ mafuta yake; na Moshe akavichoma juu ya altare.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Akachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafunafuta yote yaliyo juu ya matumbo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafunafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaliyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "matumbo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kishina cha ini"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "kishina"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "cha ini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "figo mbili"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "figo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafunafuta yake"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "mafunafuta yake"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "na akavichoma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "juu ya altare"
+    }
+  ],
+  "timestamp": "2026-08-10T17:43:14.053782320Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Na utapaka ⟨את⟩ madhabahu ya sadaka ya kuchomwa na ⟨את⟩ vyombo vyake vyote, na utavitukuza ⟨את⟩ madhabahu, na madhabahu itakuwa takatifu sana.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "na utapaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madhabahu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya sadaka ya kuchomwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vyombo vyake vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "vyombo vyake"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "na utavitukuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madhabahu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na itakuwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "takatifu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:14.236848140Z",
+  "model": "glm-5.2"
+}

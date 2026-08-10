@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Nami nitairudisha ⟨את⟩ utumwa wa Yehudha na ⟨את⟩ utumwa wa Yisraeli, nami nitawajenga kama mwanzo.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Nami nitairudisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utumwa"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "utumwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehudha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "utumwa"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "utumwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "nami nitawajenga"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "kama mwanzo"
+    }
+  ],
+  "timestamp": "2026-08-10T12:19:48.844153392Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 20:23",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na watumishi wa mfalme wa Aramu wakamwambia: Elohim wa milima ndio Elohim wao, kwa hiyo walikuwa na nguvu kuliko sisi; lakini tukipigana nao ⟨את⟩ katika tambarare, je, hatukuwa na nguvu kuliko wao?",
+  "tokens": [
+    {
+      "surface": "ועבדי",
+      "gloss": "na watumishi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa mfalme"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "wa Aramu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "wakamwambia"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "wa milima"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wao"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa hiyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "walikuwa na nguvu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuliko sisi"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "lakini"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "tukipigana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nao",
+      "marks": "nao"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "katika tambarare"
+    },
+    {
+      "surface": "אם",
+      "gloss": "je"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "tukawa na nguvu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kuliko wao"
+    }
+  ],
+  "timestamp": "2026-08-10T11:44:20.427511557Z",
+  "model": "glm-5.2"
+}

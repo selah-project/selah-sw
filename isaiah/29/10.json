@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Kwa maana Yahweh amemimina juu yenu roho ya usingizi mzito, naye amefunga ⟨את⟩ macho yenu, ⟨את⟩ manabii, na ⟨את⟩ vichwa vyenu, waonao maono, amewafunika.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "amemimina"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "juu yenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roho"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "ya usingizi mzito"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "naye amefunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macho yenu"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "macho yenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manabii"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "manabii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vichwa vyenu"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "vichwa vyenu"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "waonao maono"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "amewafunika"
+    }
+  ],
+  "timestamp": "2026-08-10T15:05:11.141847754Z",
+  "model": "glm-5.2"
+}

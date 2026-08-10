@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Mafunzo ni mabaya kwa ⟨yule⟩ anayeacha njia; anayechukia marekebisho ataifa.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "Mafunzo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabaya"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "kwa anayeacha"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "njia"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "anayechukia"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "marekebisho"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ataifa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:31:21.804851448Z",
+  "model": "glm-5.2"
+}

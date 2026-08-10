@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 25:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": " dhiki za moyo wangu zimepanuka, kutoka dhiki zangu nitoe.",
+  "tokens": [
+    {
+      "surface": "צרות",
+      "gloss": "dhiki"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "za moyo wangu"
+    },
+    {
+      "surface": "הרחיבו",
+      "gloss": "zimepanuka"
+    },
+    {
+      "surface": "ממצוקותי",
+      "gloss": "kutoka dhiki zangu"
+    },
+    {
+      "surface": "הוציאני",
+      "gloss": "nitoE"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:27.970144202Z",
+  "model": "glm-5.2"
+}

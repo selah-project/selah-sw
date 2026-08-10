@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Na Pelishti wakakusanyika, wakaingia, wakapiga kambi Shunemu; na Shaul akakusanya ⟨את⟩ Yisra'el wote, wakapiga kambi Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "wakakusanyika"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wakaingia"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "wakapiga kambi"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "Shunemu"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "akakusanya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "wakapiga kambi"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:28:27.009551940Z",
+  "model": "glm-5.2"
+}

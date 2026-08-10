@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 46:1",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 46,
+  "translation": "Na Yisra'eli akaondoka, yeye na vyote vilivyoko kwake, akaingia Be'erah Sheva, akachinja dhabihu za⟨⟩ kwa Elohim wa baba yake, Yitschaq.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "akaondoka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na vyote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilivyoko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "Be'erah"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "akachinja"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "dhabihu za"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kwa Elohim wa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaq"
+    }
+  ],
+  "timestamp": "2026-08-10T10:16:20.468207539Z",
+  "model": "glm-5.2"
+}

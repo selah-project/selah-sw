@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 8:16",
+  "book": "zechariah",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Haya ndilo maneno ambayo mtayatenda: Semeni kweli mtu kwa ⟨את⟩ jiraniye; kweli na hukumu ya amani, hukimueni katika milango yenu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ndilo maneno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mtayatenda"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "semeni"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kweli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "kwa ⟨את⟩",
+      "marks": "jiraniye"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "jiraniye"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kweli"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na hukumu ya"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "amani"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "hukimueni"
+    },
+    {
+      "surface": "בשעריכם",
+      "gloss": "katika milango yenu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:52:06.475076307Z",
+  "model": "glm-5.2"
+}

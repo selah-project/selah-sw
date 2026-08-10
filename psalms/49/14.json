@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Huu ndio njia yao, upumbavu kwa ajili yao; na baada yao ⟨ni⟩ kinywa chao hupendezwa. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Huu"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "njia yao"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "upumbavu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwa ajili yao"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "na baada yao"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "kinywa chao"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "hupendezwa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:45.918735556Z",
+  "model": "glm-5.2"
+}

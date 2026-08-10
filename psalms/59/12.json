@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 59,
+  "translation": "Usiwaue, watu wangu wasisahau; watikisike kwa nguvu yako, na kuwashusha, ngao yetu Adonai.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "Usi-"
+    },
+    {
+      "surface": "תַּהַרְגֵ֤ם",
+      "gloss": "waue"
+    },
+    {
+      "surface": "פֶּֽן",
+      "gloss": "wasisahau"
+    },
+    {
+      "surface": "יִשְׁכְּח֬וּ",
+      "gloss": "watu wangu"
+    },
+    {
+      "surface": "עַמִּ֗י",
+      "gloss": "watikisike"
+    },
+    {
+      "surface": "הֲנִיעֵ֣מוֹ",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בְחֵילְךָ",
+      "gloss": "nguvu yako"
+    },
+    {
+      "surface": "וְהוֹרִידֵ֑מוֹ",
+      "gloss": "na kuwashusha"
+    },
+    {
+      "surface": "מָגִנֵּ֣נוּ",
+      "gloss": "ngao yetu"
+    },
+    {
+      "surface": "אֲדֹנָֽי",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:55.067755975Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 88,
+  "translation": "Kwa wafu unafanya maajabu? Au wapepo watainuka, watakushukuru? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "Kwa wafu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "unafanya"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "maajabu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Au"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "wapepo"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "watainuka"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "watakushukuru"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:52.324939373Z",
+  "model": "glm-5.2"
+}

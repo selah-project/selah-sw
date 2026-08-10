@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Yahweh akamtokea Shelomah mara ya pili, kama alivyomtokea ⟨huko⟩ Givoni.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akamtokea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "mara ya pili"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "alivyomtokea"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Givoni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:41:11.504826162Z",
+  "model": "glm-5.2"
+}

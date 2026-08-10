@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "na ukachukua miongoni mwa binti zake kwa wana wako, na binti zake wakaziwa nyuma ya miungu yao, wakafanya ⟨את⟩ wana wako waziwe nyuma ya miungu yao.",
+  "tokens": [
+    {
+      "surface": "וְלָקַחְתָּ֥",
+      "gloss": "na ukachukua"
+    },
+    {
+      "surface": "מִבְּנֹתָ֖יו",
+      "gloss": "miongoni mwa binti zake"
+    },
+    {
+      "surface": "לְבָנֶ֑יךָ",
+      "gloss": "kwa wana wako"
+    },
+    {
+      "surface": "וְזָנ֣וּ",
+      "gloss": "wakaziwa"
+    },
+    {
+      "surface": "בְנֹתָ֗יו",
+      "gloss": "binti zake"
+    },
+    {
+      "surface": "אַחֲרֵי֙",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "אֱלֹ֣הֵיהֶ֔ן",
+      "gloss": "miungu yao"
+    },
+    {
+      "surface": "וְהִזְנוּ֙",
+      "gloss": "wakafanya kuwa waziwe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wana wako"
+    },
+    {
+      "surface": "בָּנֶ֔יךָ",
+      "gloss": "wana wako"
+    },
+    {
+      "surface": "אַחֲרֵ֖י",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶֽן",
+      "gloss": "miungu yao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:50.606281851Z",
+  "model": "glm-5.2"
+}

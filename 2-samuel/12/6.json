@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na ⟨hiyo⟩ kondoo atalipa mara nne, kwa sababu alifanya ⟨את⟩ jambo hili, na kwa sababu hakutenda huruma.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kondoo"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "kondoo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "atalipa"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "mara nne"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alifanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jambo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na kwa sababu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haku"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "tenda huruma"
+    }
+  ],
+  "timestamp": "2026-08-10T16:02:04.323562447Z",
+  "model": "glm-5.2"
+}

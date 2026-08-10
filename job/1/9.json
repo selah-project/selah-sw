@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na hashatani akajibu ⟨את⟩ Yahweh, akasema: Je, bure ndiyo Ayubu amcha Elohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Na akajibu"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hashatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "bure"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "amcha"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayubu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T13:31:22.260519526Z",
+  "model": "glm-5.2"
+}

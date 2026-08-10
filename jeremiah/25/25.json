@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "na ⟨את⟩ wafalme wote wa Zimri, na ⟨את⟩ wafalme wote wa Elam, na ⟨את⟩ wafalme wote wa Madai;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wafalme wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "wa Zimri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wafalme wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "wa Elam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wafalme wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "wa Madai"
+    }
+  ],
+  "timestamp": "2026-08-10T12:17:17.083794830Z",
+  "model": "glm-5.2"
+}

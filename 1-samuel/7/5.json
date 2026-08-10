@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na Shemueli akasema: Kusanyeni ⟨את⟩ wote Yisraeli Mitspah, nami nitawaombea kwa Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "kusanyeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wote Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "Mitspah"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "nami nitaomba"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "kwa ajili yenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:51:27.527532477Z",
+  "model": "glm-5.2"
+}

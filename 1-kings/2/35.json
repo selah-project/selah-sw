@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 2:35",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na mfalume akamweka ⟨את⟩ Bnayahu mwana wa Yehoyada mahali pake juu ya jeshi, na ⟨את⟩ Tsadoki kuhani mfalume akamweka mahali pa Aviyathar.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "na akaweka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bnayahu"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Bnayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mahali pake"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "jeshi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tsadoki"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadoki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akamweka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalume"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mahali pa"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Aviyathar"
+    }
+  ],
+  "timestamp": "2026-08-10T14:58:30.655996224Z",
+  "model": "glm-5.2"
+}

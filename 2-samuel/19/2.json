@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Ikaletwa habari Yoavu: \"Tazama, mfalme analia na kuomboleza juu ya Avshalom.\"",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ikaletwa habari"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Yoavu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "analia"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "na kuomboleza"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-10T14:57:02.997841434Z",
+  "model": "glm-5.2"
+}

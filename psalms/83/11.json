@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 83,
+  "translation": "Waliangamizwa ⟨kwenye⟩ En-Dor, wakawa mbolea ⟨kwa⟩ ardhi.",
+  "tokens": [
+    {
+      "surface": "נִשְׁמְד֥וּ",
+      "gloss": "Waliangamizwa"
+    },
+    {
+      "surface": "בְֽעֵין",
+      "gloss": "⟨kwenye⟩"
+    },
+    {
+      "surface": "דֹּ֑אר",
+      "gloss": "En-Dor"
+    },
+    {
+      "surface": "הָ֥יוּ",
+      "gloss": "wakawa"
+    },
+    {
+      "surface": "דֹּ֝֗מֶן",
+      "gloss": "mbolea"
+    },
+    {
+      "surface": "לָאֲדָמָֽה",
+      "gloss": "⟨kwa⟩ ardhi"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:24.244317630Z",
+  "model": "glm-5.2"
+}

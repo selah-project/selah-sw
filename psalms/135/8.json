@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 135,
+  "translation": "Aliyempiga wazaliwa wa kwanza wa Mitsrayim, kutokaadamu hadi mnyama.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Aliyempiga"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "wazaliwa wa kwanza wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kutokaadamu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mnyama"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:59.770914246Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kile ambacho kilikuwa, ndicho kitakachokuwa; na kile ambacho kilifanywa, ndicho kitakachofanywa; na hakuna chochote kipya chini ya jua.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kile"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ambacho kilikuwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndicho"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "kitakachokuwa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na kile"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "ambacho kilifanywa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndicho"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "kitakachofanywa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na hakuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chochote"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kipya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "jua"
+    }
+  ],
+  "timestamp": "2026-08-10T16:24:06.178865878Z",
+  "model": "glm-5.2"
+}

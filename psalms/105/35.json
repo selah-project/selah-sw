@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "⟨Akali⟩ mchicha wote katika nchi yao, na ⟨akala⟩ tunda la udongo wao.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "na akala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "mchicha"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "katika nchi yao"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "na akala"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "tunda"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "la udongo wao"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:11.724288225Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Wanangu, usiende katika njia ⟨את⟩ ⟨pamoja na⟩ wao, zuia mguu wako katika nyayo zao.",
+  "tokens": [
+    {
+      "surface": "בְּנִ֗י",
+      "gloss": "Wanangu"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תֵּלֵ֣ךְ",
+      "gloss": "ende"
+    },
+    {
+      "surface": "בְּדֶ֣רֶךְ",
+      "gloss": "katika njia"
+    },
+    {
+      "surface": "אִתָּ֑ם",
+      "gloss": "⟨את⟩ ⟨pamoja na⟩ wao"
+    },
+    {
+      "surface": "מְנַ֥ע",
+      "gloss": "zuia"
+    },
+    {
+      "surface": "רַ֝גְלְךָ֗",
+      "gloss": "mguu wako"
+    },
+    {
+      "surface": "מִנְּתִיבָתָֽם",
+      "gloss": "katika nyayo zao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:27.208072887Z",
+  "model": "glm-5.2"
+}

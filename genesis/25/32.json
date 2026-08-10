@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na Esav akasema, Tazama, mimi ninaenda kufa, na haki ya kuzaliwa hii inanifaa nini?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Na Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ninaenda"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "na ... inanifaa nini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ... inanifaa nini"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "haki ya kuzaliwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:07:50.361470260Z",
+  "model": "glm-5.2"
+}

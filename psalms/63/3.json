@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 63,
+  "translation": "Hivyo katika hema takatifu nilikutazama, ili kuona nguvu zako na utukufu wako.",
+  "tokens": [
+    {
+      "surface": "כֵּן",
+      "gloss": "Hivyo"
+    },
+    {
+      "surface": "בַּקֹּדֶשׁ",
+      "gloss": "katika hema takatifu"
+    },
+    {
+      "surface": "חֲזִיתִיךָ",
+      "gloss": "nilikutazama"
+    },
+    {
+      "surface": "לִרְאוֹת",
+      "gloss": "ili kuona"
+    },
+    {
+      "surface": "עֻזְּךָ",
+      "gloss": "nguvu zako"
+    },
+    {
+      "surface": "וּכְבוֹדֶךָ",
+      "gloss": "na utukufu wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:14.527112724Z",
+  "model": "glm-5.2"
+}

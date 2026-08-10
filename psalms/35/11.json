@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Washahidi wa jeuri hukesha; mambo ambayo siyajui huniuliza.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "hukesha"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "Washahidi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "wa jeuri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "yajua"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "huniuliza"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:50.357467543Z",
+  "model": "glm-5.2"
+}

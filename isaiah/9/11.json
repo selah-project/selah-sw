@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Aram kutoka mashariki, na Wafilisti kutoka nyuma; wakala ⟨את⟩ Israeli kwa kila kinywa. Katika haya yote hasira yake haujarudi, na bado mkono wake ⟨unaonyosha⟩.",
+  "tokens": [
+    {
+      "surface": "אֲרָ֣ם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מִקֶּ֗דֶם",
+      "gloss": "kutoka mashariki"
+    },
+    {
+      "surface": "וּפְלִשְׁתִּים֙",
+      "gloss": "na Wafilisti"
+    },
+    {
+      "surface": "מֵֽאָח֔וֹר",
+      "gloss": "kutoka nyuma"
+    },
+    {
+      "surface": "וַיֹּאכְל֥וּ",
+      "gloss": "wakala"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Israeli"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "kwa kila"
+    },
+    {
+      "surface": "פֶּ֑ה",
+      "gloss": "kinywa"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "Katika kila"
+    },
+    {
+      "surface": "זֹאת֙",
+      "gloss": "hizi"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "שָׁ֣ב",
+      "gloss": "kurudi"
+    },
+    {
+      "surface": "אַפּ֔וֹ",
+      "gloss": "hasira yake"
+    },
+    {
+      "surface": "וְע֖וֹד",
+      "gloss": "na bado"
+    },
+    {
+      "surface": "יָד֥וֹ",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "נְטוּיָֽה",
+      "gloss": "⟨unaonyosha⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T15:03:38.521199632Z",
+  "model": "glm-5.2"
+}

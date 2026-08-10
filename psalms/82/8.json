@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 82,
+  "translation": "Ondoka, Elohim; toa hukumu ⟨ya⟩ nchi, maana wewe urithi katika mataifa yote.",
+  "tokens": [
+    {
+      "surface": "קוּמָ֣ה",
+      "gloss": "Ondoka"
+    },
+    {
+      "surface": "אֱ֭לֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שָׁפְטָ֣ה",
+      "gloss": "toa hukumu"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "⟨ya⟩ nchi"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "אַתָּ֥ה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "תִ֝נְחַ֗ל",
+      "gloss": "urithi"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "katika ... yote"
+    },
+    {
+      "surface": "הַגּוֹיִֽם",
+      "gloss": "mataifa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:11.039908515Z",
+  "model": "glm-5.2"
+}

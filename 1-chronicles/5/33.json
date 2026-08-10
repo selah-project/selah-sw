@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Merayoth alizaa ⟨את⟩ Amarayah, na Amarayah alizaa ⟨את⟩ Akitubu.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merayoth"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarayah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarayah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "na Amarayah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akitubu"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akitubu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:04:40.582836783Z",
+  "model": "glm-5.2"
+}

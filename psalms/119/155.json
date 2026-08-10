@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Mbali na waovu ⟨ni⟩ wokovu, maana amri zako hawakutafuta.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Mbali"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "na waovu"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "wokovu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "amri zako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawaku"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "tafuta"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:32.393258106Z",
+  "model": "glm-5.2"
+}

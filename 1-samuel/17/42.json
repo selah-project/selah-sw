@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Na Mpelishti akatizama, akaona ⟨את⟩ David, akamdharau, kwa maana alikuwa kijana, na mwekundu wa ngozi, pamoja na kuwa mzuri wa sura.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "na akatizama"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Mpelishti"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "akamdharau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "alikuwa"
+    },
+    {
+      "surface": "נער",
+      "gloss": "kijana"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "na mwekundu wa ngozi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "mzuri"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "wa sura"
+    }
+  ],
+  "timestamp": "2026-08-10T11:24:49.840295183Z",
+  "model": "glm-5.2"
+}

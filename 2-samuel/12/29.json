@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Naye David akakusanya ⟨את⟩ watu wote, akaenda Rabba, akapigana nayo, akaiteka.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "akakusanya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Naye David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "Rabba"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "akapigana"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "akaiteka"
+    }
+  ],
+  "timestamp": "2026-08-10T11:31:56.574019213Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Yahweh akaamuru ⟨⟩ ⟨samaki⟩, naye ikamtapika Yona ⟨juu ya⟩ nchi kavu.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֥אמֶר",
+      "gloss": "akaamuru"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לַדָּ֑ג",
+      "gloss": "⟨samaki⟩"
+    },
+    {
+      "surface": "וַיָּקֵ֥א",
+      "gloss": "ikamtapika"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יוֹנָ֖ה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨juu ya⟩"
+    },
+    {
+      "surface": "הַיַּבָּשָֽׁה",
+      "gloss": "nchi kavu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:46:33.284240116Z",
+  "model": "glm-5.2"
+}

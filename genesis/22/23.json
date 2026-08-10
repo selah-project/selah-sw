@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Na Bethueli alizaa ⟨את⟩ Rebeka; hawa ni nane ambao Milka alizaa kwa Nahori ndugu wa Avrahamu.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "Na Bethueli"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rebeka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rebeka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "hawa ni nane"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "kwa Nahori"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ndugu wa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:06:09.767622823Z",
+  "model": "glm-5.2"
+}

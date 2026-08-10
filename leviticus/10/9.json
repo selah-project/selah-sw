@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Divai na kileo usinywe, wewe na ⟨את⟩ wanako ⟨את⟩ pamoja nawe, katika kuja kwenu ⟨⟨ndani⟩⟩ ya hema ya mkutano, wala msife — amri ya milele kwa vizazi vyako.",
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "divai"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "na kileo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usinywe"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "(una kunywa)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "na wanako"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ pamoja nawe",
+      "marks": "pamoja nawe"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "katika kuja kwenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ndani⟩ ya"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "msife"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "amri"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya milele"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "kwa vizazi vyako"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:11.169882832Z",
+  "model": "glm-5.2"
+}

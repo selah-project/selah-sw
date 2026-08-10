@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Akaguruma mbinguni Yahweh, na Elyon ⟨akatoa⟩ sauti yake: ⟨kuna⟩ makuu ya barafu na makaa ya moto.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "akaguruma"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mbinguni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "na Elyon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "⟨akatoa⟩"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sauti yake"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "makuu ya barafu"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "na makaa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ya moto"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:23.233598281Z",
+  "model": "glm-5.2"
+}

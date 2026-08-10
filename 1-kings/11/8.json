@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Ndivo alivyofanya kwa wake wake wote wa kigeni, wakiteketeza uvumba na kutoa dhabihu kwa miungu yao.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "ndivyo alivyofanya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alivyofanya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "wake wake wote"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "wa kigeni"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "wakiteketeza uvumba"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "na kutoa dhabihu"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "kwa miungu yao"
+    }
+  ],
+  "timestamp": "2026-08-10T11:41:17.348102736Z",
+  "model": "glm-5.2"
+}

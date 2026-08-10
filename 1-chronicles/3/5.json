@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na hawa walizaliwa ⟨kwa yeye⟩ katika Yerushalayim: Shima, na Shovav, na Natan, na Shelomo — wanne — ⟨kwa⟩ Bath-shua binti Ammieli.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na hawa"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "walizaliwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kwa yeye⟩"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "katika Yerushalayim"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shima"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "na Shovav"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "na Shelomo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "wanne"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "⟨kwa⟩ binti"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Bath-shua"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammieli"
+    }
+  ],
+  "timestamp": "2026-08-10T14:04:23.873418333Z",
+  "model": "glm-5.2"
+}

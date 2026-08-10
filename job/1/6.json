@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 1:6",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na ilikuwa siku moja, wana wa ⟨האלהים⟩ wakaja kujitenga mbele ya Yahweh, na hashatani akaja pia kati yao.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ilikuwa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siku moja"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wakaja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "להתיצב",
+      "gloss": "kujitenga mbele"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "akaja"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hashatani"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "kati yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:31:14.769616357Z",
+  "model": "glm-5.2"
+}

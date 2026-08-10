@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na David akaokoa ⟨את⟩ vyote walichovichukua Amaleki, na ⟨את⟩ wake wake wawili David aliwaokoa.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "akaokoa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambavyo"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "walivichukua"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wake wake wawili"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "wake wake"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "aliwaokoa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-10T11:28:16.696389494Z",
+  "model": "glm-5.2"
+}

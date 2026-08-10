@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 134,
+  "translation": "Wimbo wa kupanda. Tazameni, mbarikini ⟨את⟩ Yahweh, enyi watumishi wote wa Yahweh, ⟨ambao⟩ mnasimama katika nyumba ya Yahweh usiku.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wa kupanda"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tazameni"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "mbarikini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enyi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "watumishi wote"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "mnasimama"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "katika nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "usiku"
+    }
+  ],
+  "timestamp": "2026-08-10T17:54:24.094310874Z",
+  "model": "glm-5.2"
+}

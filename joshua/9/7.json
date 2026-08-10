@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 9:7",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na watu wa Yisraeli wakasema kwa ⟨watu⟩ wa Chiwi: Huenda nyinyi mnaishi katikati yetu; basi nitawaje kukufanyia ⟨wewe⟩ mapatano?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wakasema"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨watu⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "wa Chiwi"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "huenda"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "katikati yetu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nyinyi"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "mnaishi"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "basi"
+    },
+    {
+      "surface": "אכרות",
+      "gloss": "nitawaje kukufanyia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨wewe⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "mapatano"
+    }
+  ],
+  "timestamp": "2026-08-10T14:46:30.701766180Z",
+  "model": "glm-5.2"
+}

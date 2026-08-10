@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 10:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na mmtafanya siku ya ziara, na kwenye ukiwa kutoka mbali unao kuja? Juu ya nini mtakimbia kwa msaada? Na watawacha wapi utukufo wenu?",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "Na mmtafanya"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ziara"
+    },
+    {
+      "surface": "פקדה",
+      "gloss": "na"
+    },
+    {
+      "surface": "ולשואה",
+      "gloss": "kwenye ukiwa"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "kutoka mbali"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "unao kuja"
+    },
+    {
+      "surface": "על",
+      "gloss": "Juu ya"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nini"
+    },
+    {
+      "surface": "תנוסו",
+      "gloss": "mtakimbia"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "kwa msaada"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "Na watawacha wapi"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "watawacha"
+    },
+    {
+      "surface": "כבודכם",
+      "gloss": "utukufu wenu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:57:05.795133988Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Ikawa pale mfalme Chizkiyahu aliposikia, akararua ⟨את⟩ nguo zake akajifunika ⟨na⟩ gunia, akaingia nyumbani mwa Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "aliposikia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "akararua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguo zake"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "nguo zake"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "akajifunika"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "gunia"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumbani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T16:06:57.808824412Z",
+  "model": "glm-5.2"
+}

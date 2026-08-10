@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na Yahweh alikuwa amefunua ⟨את⟩ sikio la Shemu'eli siku moja kabla ya kuja kwa Shaul, akisema:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "amefunua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sikio"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "sikio"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "la Shemu'eli"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kabla"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ya kuja"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kwa Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    }
+  ],
+  "timestamp": "2026-08-10T14:51:31.976305533Z",
+  "model": "glm-5.2"
+}

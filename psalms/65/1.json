@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 65,
+  "translation": "Kwa yule anayeongoza ⟨ni⟩ muziki. Wa David. Wimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa yule anayeongoza"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "muziki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wimbo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:29.138717904Z",
+  "model": "glm-5.2"
+}

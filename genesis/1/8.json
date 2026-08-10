@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Elohim akaiita ⟨the⟩ ukumbi 'mbingu'. Ikawa jioni, ikawa asubuhi, siku ya pili.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Na akaiita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ukumbi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "jioni"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ya pili"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:05.600539530Z",
+  "model": "glm-5.2"
+}

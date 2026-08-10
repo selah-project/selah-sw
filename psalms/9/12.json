@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Mwimbieni Yahweh, ⟨yeye⟩ anayekaa Tsiyoni; tangazeni miongoni mwa mataifa matendo yake.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Mwimbieni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "anayekaa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "tangazeni"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "miongoni mwa mataifa"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "matendo yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:16.266167787Z",
+  "model": "glm-5.2"
+}

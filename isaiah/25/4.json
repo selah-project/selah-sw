@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 25:4",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Maana wewe umekuwa ngome ya dhaifu, ngome ya maskini katika dhiki yake, kimbilio kutoka dhoruba, kivuli kutoka joto; kwa maana upepo wa wakatili ni kama dhoruba dhidi ya ukuta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "היית",
+      "gloss": "umekuwa"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ngome"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "ya dhaifu"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ngome"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "ya maskini"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "katika dhiki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "kimbilio"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "kutoka dhoruba"
+    },
+    {
+      "surface": "צל",
+      "gloss": "kivuli"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kutoka joto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "upepo"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "wa wakatili"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "kama dhoruba"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "dhidi ya ukuta"
+    }
+  ],
+  "timestamp": "2026-08-10T15:06:17.679720618Z",
+  "model": "glm-5.2"
+}

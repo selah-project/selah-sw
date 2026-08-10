@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 113,
+  "translation": "yeye anayeinama kuangalia mbinguni na duniani?",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "yeye anayeinama"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuangalia"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mbinguni"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "na duniani"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:10.499594432Z",
+  "model": "glm-5.2"
+}

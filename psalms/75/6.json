@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 75,
+  "translation": "Msinyanyue pembe yenu juu, msionge kwa shingo iliyonyosha kiburi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "msi"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "nyanyueni"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "juu"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "pembe yenu"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "msemeni"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "kwa shingo"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "iliyonyosha kiburi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:43.873598909Z",
+  "model": "glm-5.2"
+}

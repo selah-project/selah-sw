@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na Moshe akasema: Kuleni leo, kwa sababu Sabbath ya leo ⟨ni⟩ kwa Yahweh; leo hamtamwenda kutafuta ⟨tena⟩ shambani.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "kuleni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabbath"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ya leo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamta"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "mwenda kutafuta"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "shambani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:22:15.382128119Z",
+  "model": "glm-5.2"
+}

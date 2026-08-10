@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 144,
+  "translation": "Yahweh, inama mbingu zako na ushuke ⟨pale⟩: gusa milima, na zitavuta ⟨moshi⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הט",
+      "gloss": "inama"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "mbingu zako"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "na ushuke"
+    },
+    {
+      "surface": "גע",
+      "gloss": "gusa"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "milima"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "na zitavuta"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:06.590765841Z",
+  "model": "glm-5.2"
+}

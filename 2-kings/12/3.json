@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 12:3",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Ila mahali pa juu pa ibada hazikuatolewa; bado watu wakifanya dhabihu na kufukiza uvumba katika mahali pa juu pa ibada.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Ila"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "mahali pa juu pa ibada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haziku"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "atolewa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bado"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "wakifanya dhabihu"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "na kufukiza uvumba"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "katika mahali pa juu pa ibada"
+    }
+  ],
+  "timestamp": "2026-08-10T11:49:05.628641155Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Msiwasheshe moto katika makao yenu yote siku ya shabbat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Msivi"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "washe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "ya makao yenu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:41.643522609Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Ikawa siku ya tatu, siku ya kuzaliwa ⟨את⟩ Paroh, akafanya karamu kwa watumishi wake wote; akaoinua ⟨את⟩ kichwa cha mwangalizi wa vinywaji, na ⟨את⟩ kichwa cha mwangalizi wa waokaji, kati ya watumishi wake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "kuzaliwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akafanya"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "karamu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa wote"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumishi wake"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "akaoinua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kichwa cha mwangalizi wa vinywaji"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa cha"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mwangalizi wa"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "vinywaji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kichwa cha mwangalizi wa waokaji"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa cha"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mwangalizi wa"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "waokaji"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumishi wake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:12:52.729072164Z",
+  "model": "glm-5.2"
+}

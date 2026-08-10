@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 137,
+  "translation": "Naibanduke ulimi wangu ⟨kwa⟩ domo langu, kama sikukumbuka, kama siipandiši ⟨את⟩ Yerushalayim juu ya kichwa cha furaha yangu",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "Naibanduke"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ulimi wangu"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "domo langu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "kukumbuka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "pandiši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa cha"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "furaha yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:21.504751454Z",
+  "model": "glm-5.2"
+}

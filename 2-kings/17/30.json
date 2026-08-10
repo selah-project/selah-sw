@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Na watu wa Bavel walifanya ⟨את⟩ Sukoth-Benoth, na watu wa Kuth walifanya ⟨את⟩ Nergal, na watu wa Chamath walifanya ⟨את⟩ Ashima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "Na watu wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "walifanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukoth-Benoth"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukoth"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benoth"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "na watu wa"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kuth"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "walifanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "na watu wa"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamath"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "walifanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ashima"
+    }
+  ],
+  "timestamp": "2026-08-10T15:02:31.824027403Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Neno la biliyali huandikwa juu yake: «Yule aliyesimama hataweza tena kusimama.»",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "biliyali"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "huandikwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na yule aliye"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hataweza"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "tena"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "kukunya"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:38.793679515Z",
+  "model": "glm-5.2"
+}

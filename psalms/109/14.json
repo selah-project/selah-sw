@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Achukuliwe makosa ya baba zake mbele ya Yahweh, na dhambi ya mama yake isifutwe.",
+  "tokens": [
+    {
+      "surface": "יִזָּכֵ֤ר",
+      "gloss": "achukuliwe"
+    },
+    {
+      "surface": "עֲוֺ֣ן",
+      "gloss": "makosa"
+    },
+    {
+      "surface": "אֲבֹתָיו֮",
+      "gloss": "ya baba zake"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְחַטַּ֥את",
+      "gloss": "na dhambi"
+    },
+    {
+      "surface": "אִמּ֗וֹ",
+      "gloss": "ya mama yake"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "isi"
+    },
+    {
+      "surface": "תִּמָּֽח",
+      "gloss": "futwe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:50.843774339Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 58,
+  "translation": "Kabla ya kupika vyungu vyenu ⟨kunakuwa⟩ na miiba; kama nyama mbichi, kama uchungu wa ghadhabu ⟨ata⟩peperushwa.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "kabla ya"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "kupika"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "vyungu vyenu"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "⟨kunakuwa⟩ na miiba"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kama"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nyama mbichi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kama"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "uchungu wa ghadhabu"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "⟨ata⟩peperushwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:55.526230140Z",
+  "model": "glm-5.2"
+}

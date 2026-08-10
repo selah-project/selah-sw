@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 120,
+  "translation": "Wimbo wa kupanda. Kwa Yahweh katika dhiki yangu nilimwita, naye akanijibu.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wa kupanda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "katika dhiki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yangu"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nilimwita"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "naye akanijibu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:12.304236321Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 79,
+  "translation": "Mimina hasira yako juu ya mataifa wasiokujua, na juu ya ufalme ambao jina lako hawukuitaji.",
+  "tokens": [
+    {
+      "surface": "שְׁפֹ֤ךְ",
+      "gloss": "mimina"
+    },
+    {
+      "surface": "חֲמָתְךָ֨",
+      "gloss": "hasira yako"
+    },
+    {
+      "surface": "אֶֽל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הַגּוֹיִם֮",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "אֲשֶׁ֪ר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "sio"
+    },
+    {
+      "surface": "יְדָ֫ע֥וּךָ",
+      "gloss": "wamekujua"
+    },
+    {
+      "surface": "וְעַ֥ל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "מַמְלָכ֑וֹת",
+      "gloss": "ufalme"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "בְּ֝שִׁמְךָ֗",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "sio"
+    },
+    {
+      "surface": "קָרָֽאוּ",
+      "gloss": "wameuita"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:16.085136131Z",
+  "model": "glm-5.2"
+}

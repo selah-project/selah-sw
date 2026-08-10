@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Ole wenu, taifa dhambi! Taifa zito la uovu, mzao wa watenda mabaya, wana waharibifu! Wameacha ⟨את⟩ Yahweh, wamedharau ⟨את⟩ Mtakatifu wa Yisraeli, wamerudi nyuma.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ole wenu"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "dhambi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Taifa"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "zito"
+    },
+    {
+      "surface": "עון",
+      "gloss": "la uovu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mzao"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "wa watenda mabaya"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wana"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "waharibifu"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Wameacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "wamedharau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mtakatifu wa Yisraeli"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mtakatifu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "wamerudi"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "nyuma"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:30.861300868Z",
+  "model": "glm-5.2"
+}

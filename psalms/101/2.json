@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 101,
+  "translation": "Nitatenda kwa busara katika njia ya ukamilifu — lini ⟨uta⟩kuja kwangu? Nitatembea katika ukamilifu wa moyo wangu, katikati ya nyumbani mwangu.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "Nitatenda kwa busara"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "katika njia"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ya ukamilifu"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "lini"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "⟨uta⟩kuja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "Nitatembea"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "katika ukamilifu"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "wa moyo wangu"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "katikati"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ya nyumbani mwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:43.043130949Z",
+  "model": "glm-5.2"
+}

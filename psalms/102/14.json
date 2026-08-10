@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Wewe ⟨utainuka⟩, utawahurumia Tsiyoni, maana ni wakati wa kumrehemu ⟨hiyo⟩, kwani muda uliowekwa umefika.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wewe"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "⟨utainuka⟩"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "utawahurumia"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ni wakati"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "wa kumrehemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "בא",
+      "gloss": "umefika"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "muda uliowekwa"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:30.533226513Z",
+  "model": "glm-5.2"
+}

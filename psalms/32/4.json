@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Kwa kuwa mchana na usiku mkono wako ulinishinda, hubadilika katika nguvu zangu, kwa joto kali la mavuno. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mchana"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na usiku"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "ulinishinda"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mkono wako"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "hubadilika"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "katika nguvu zangu"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "kwa joto kali"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "la mavuno"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:58.381859606Z",
+  "model": "glm-5.2"
+}

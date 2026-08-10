@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Ni nani huyu mfalme wa utukufu? Yahweh, mwenye nguvu na shujaa, Yahweh, shujaa wa vita.",
+  "tokens": [
+    {
+      "surface": "מִ֥י",
+      "gloss": "Ni nani"
+    },
+    {
+      "surface": "זֶה֮",
+      "gloss": "huyu"
+    },
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "הַכָּ֫ב֥וֹד",
+      "gloss": "wa utukufu"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עִזּ֣וּז",
+      "gloss": "mwenye nguvu"
+    },
+    {
+      "surface": "וְגִבּ֑וֹר",
+      "gloss": "na shujaa"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גִּבּ֥וֹר",
+      "gloss": "shujaa"
+    },
+    {
+      "surface": "מִלְחָמָֽה",
+      "gloss": "wa vita"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:02.224946978Z",
+  "model": "glm-5.2"
+}

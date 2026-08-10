@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "nikasifi mimi ⟨את⟩ waliokufa ambao tayari wamekufa, kuliko ⟨hao⟩ walio hai ambao bado wana uhai hadi sasa.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "nikasifi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waliokufa"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "waliokufa"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "ambao tayari"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "wamekufa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuliko"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "walio hai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hao"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wana uhai"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "hadi sasa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:47:05.336912065Z",
+  "model": "glm-5.2"
+}

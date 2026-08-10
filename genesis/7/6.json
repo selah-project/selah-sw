@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na Noach ⟨aliwa⟩ mwana wa miaka mia sita, na mafuriko yalikuwa maji juu ya ⟨hiyo⟩ nchi.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "na Noach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sita"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "na mafuriko"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yalikuwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:54.890248495Z",
+  "model": "glm-5.2"
+}

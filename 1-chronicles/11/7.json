@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na Davidi akakaa ngomeni; kwa sababu hiyo wakamwita ⟨hiyo⟩ mji wa Davidi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "na akakaa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "ngomeni"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sababu hiyo"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "wakamwita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨hiyo⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "wa Davidi"
+    }
+  ],
+  "timestamp": "2026-08-10T16:27:38.034122741Z",
+  "model": "glm-5.2"
+}

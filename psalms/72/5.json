@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 72,
+  "translation": "Watakuchagua pamoja na ⟨the⟩ jua, na mbele ya mwezi, vizazi vya vizazi.",
+  "tokens": [
+    {
+      "surface": "יִֽירָא֥וּךָ",
+      "gloss": "watakuchagua"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "שָׁ֑מֶשׁ",
+      "gloss": "jua"
+    },
+    {
+      "surface": "וְלִפְנֵ֥י",
+      "gloss": "na mbele ya"
+    },
+    {
+      "surface": "יָ֝רֵ֗חַ",
+      "gloss": "mwezi"
+    },
+    {
+      "surface": "דּ֣וֹר",
+      "gloss": "vizazi"
+    },
+    {
+      "surface": "דּוֹרִֽים",
+      "gloss": "vya vizazi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:24.039903883Z",
+  "model": "glm-5.2"
+}

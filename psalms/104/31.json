@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "Na utukufu wa Yahweh ⟨ube⟩ hata milele; Yahweh afurahi katika kazi zake.",
+  "tokens": [
+    {
+      "surface": "יְהִ֤י",
+      "gloss": "na ube"
+    },
+    {
+      "surface": "כְב֣וֹד",
+      "gloss": "utukufu wa"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לְעוֹלָ֑ם",
+      "gloss": "hata milele"
+    },
+    {
+      "surface": "יִשְׂמַ֖ח",
+      "gloss": "afurahi"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בְּמַעֲשָֽׂיו",
+      "gloss": "katika kazi zake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:13.708952488Z",
+  "model": "glm-5.2"
+}

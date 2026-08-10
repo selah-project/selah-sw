@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Kwa hiyo, angalia, mimi ninapiga mifupa ya ⟨את⟩ njia yako kwa miiba, na kujenga ⟨את⟩ zizuizi, na njia zake hazitapatikana.",
+  "tokens": [
+    {
+      "surface": "לָכֵ֛ן",
+      "gloss": "kwa hiyo"
+    },
+    {
+      "surface": "הִנְנִי",
+      "gloss": "angalia, mimi"
+    },
+    {
+      "surface": "שָׂ֥ךְ",
+      "gloss": "ninapiga mifupa ya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "njia yako"
+    },
+    {
+      "surface": "דַּרְכֵּ֖ךְ",
+      "gloss": "njia yako"
+    },
+    {
+      "surface": "בַּסִּירִ֑ים",
+      "gloss": "kwa miiba"
+    },
+    {
+      "surface": "וְגָֽדַרְתִּי֙",
+      "gloss": "na kujenga"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "zizuizi"
+    },
+    {
+      "surface": "גְּדֵרָה֔",
+      "gloss": "zizuizi"
+    },
+    {
+      "surface": "וּנְתִיבוֹתֶ֖יהָ",
+      "gloss": "na njia zake"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "hazi"
+    },
+    {
+      "surface": "תִמְצָֽא",
+      "gloss": "tatapatikana"
+    }
+  ],
+  "timestamp": "2026-08-10T15:20:37.344112250Z",
+  "model": "glm-5.2"
+}

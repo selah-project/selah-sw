@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 52,
+  "translation": "Yahweh ameifunua ⟨את⟩ mkono wake mtakatifu machoni pa mataifa yote, na ncha zote za nchi zitaona ⟨את⟩ wokovu wa Elohim wetu.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "ameifunua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wake mtakatifu"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "wake mtakatifu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "machoni pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "na zitaona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ncha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "za nchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wokovu wa Elohim wetu"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "wokovu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "wa Elohim wetu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:08:08.427144536Z",
+  "model": "glm-5.2"
+}

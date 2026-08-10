@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 137,
+  "translation": "Kumbuka, Ee Yahweh, ⟨ehi⟩ wana wa Edomu, ⟨את⟩ siku ya Yerushalayim, ⟨enyao⟩ wakaose: 'Bomoa, bomoa, hata msingi wake!'",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Kumbuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ya Yerushalayim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "wakaose"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Bomoa"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "bomoa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "msingi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:21.504891147Z",
+  "model": "glm-5.2"
+}

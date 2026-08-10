@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Na Yahweh anawasaidia, na kuwaokoa; huwaokoa kutoka kwa waovu, na kuwaokoa kwa wokovu, maana wamjia kwake kwa ulinzi.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "Na anawasaidia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "na kuwaokoa"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "huwaokoa"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "kutoka kwa waovu"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "na kuwaokoa kwa wokovu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "wamjia kwake kwa ulinzi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kwake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:59.418310634Z",
+  "model": "glm-5.2"
+}

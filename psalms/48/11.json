@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 48,
+  "translation": "Kama jina lako, Elohim, ndivyo sifa yako ⟨ilivyo⟩ mpaka miisho ya nchi; haki imejaa mkono wako wa kulia.",
+  "tokens": [
+    {
+      "surface": "כְּשִׁמְךָ֤",
+      "gloss": "Kama jina lako"
+    },
+    {
+      "surface": "אֱלֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כֵּ֣ן",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "תְּ֭הִלָּתְךָ",
+      "gloss": "sifa yako"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "קַצְוֵי",
+      "gloss": "miisho"
+    },
+    {
+      "surface": "אֶ֑רֶץ",
+      "gloss": "ya nchi"
+    },
+    {
+      "surface": "צֶ֝֗דֶק",
+      "gloss": "haki"
+    },
+    {
+      "surface": "מָלְאָ֥ה",
+      "gloss": "imejaa"
+    },
+    {
+      "surface": "יְמִינֶֽךָ",
+      "gloss": "mkono wako wa kulia"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:04.986831586Z",
+  "model": "glm-5.2"
+}

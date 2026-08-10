@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Naam, njia ya hukumu zako, Yahweh, tukutumaini; kwa jina lako na kwa ukumbusho wako ⟨kuna⟩ tamani la nafsi.",
+  "tokens": [
+    {
+      "surface": "אַ֣ף",
+      "gloss": "Naam"
+    },
+    {
+      "surface": "אֹ֧רַח",
+      "gloss": "njia"
+    },
+    {
+      "surface": "מִשְׁפָּטֶ֛יךָ",
+      "gloss": "ya hukumu zako"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קִוִּינ֑וּךָ",
+      "gloss": "tukutumainia"
+    },
+    {
+      "surface": "לְשִׁמְךָ֥",
+      "gloss": "kwa jina lako"
+    },
+    {
+      "surface": "וּֽלְזִכְרְךָ֖",
+      "gloss": "na kwa ukumbusho wako"
+    },
+    {
+      "surface": "תַּאֲוַת",
+      "gloss": "⟨kuna⟩ tamani"
+    },
+    {
+      "surface": "נָֽפֶשׁ",
+      "gloss": "la nafsi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:59:38.320972663Z",
+  "model": "glm-5.2"
+}

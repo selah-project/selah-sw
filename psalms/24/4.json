@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Mwenye mikono safi na moyo safi, ambaye hanaiinua nafsi yake kwa ubatilifu, wala haapi kwa udanganyifu.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "Mwenye … safi"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "mikono"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "na … safi"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "-naiinua"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "kwa ubatilifu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala ha-"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "-api"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "kwa udanganyifu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:46.564561522Z",
+  "model": "glm-5.2"
+}

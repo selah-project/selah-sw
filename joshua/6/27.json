@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na Yahweh alikuwa pamoja na ⟨את⟩ Yehoshua, na sifa yake ilienea katika nchi yote.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na alikuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "pamoja na ⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ilienea"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sifa yake"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:06:38.221510602Z",
+  "model": "glm-5.2"
+}

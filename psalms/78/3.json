@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Ambayo tuliya na kuyajua, na baba zetu wakayatangaza kwetu;",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "Ambayo"
+    },
+    {
+      "surface": "שָׁמַעְנוּ",
+      "gloss": "tuliya"
+    },
+    {
+      "surface": "וַנֵּדָעֵ֑ם",
+      "gloss": "na kuyajua"
+    },
+    {
+      "surface": "וַ֝אֲבוֹתֵ֗ינוּ",
+      "gloss": "na baba zetu"
+    },
+    {
+      "surface": "סִפְּרוּ",
+      "gloss": "wakayatangaza"
+    },
+    {
+      "surface": "לָֽנוּ",
+      "gloss": "kwetu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:22.663166728Z",
+  "model": "glm-5.2"
+}

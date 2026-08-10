@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Sanduku la Yahweh likakaa ⟨kwenye⟩ nyumba ya Oved-Edomi Mgiti miezi mitatu; naye Yahweh akambariki ⟨את⟩ Oved-Edomi na ⟨את⟩ nyumba yake yote.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "likakaa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨kwenye⟩ nyumba"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "-Edomi"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Mgiti"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mitatu"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "miezi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akambariki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved-Edomi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "-Edomi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyumba yake yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:55:29.365989081Z",
+  "model": "glm-5.2"
+}

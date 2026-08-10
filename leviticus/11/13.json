@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ hizi mtachukia miongoni mwa ndege; haziliwe; chukizo ni: ⟨את⟩ nesheri, na ⟨את⟩ peresi, na ⟨את⟩ azniyah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "hizi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hizi"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "mtachukia"
+    },
+    {
+      "surface": "מן",
+      "gloss": "miongoni mwa"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ndege"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haziliwe"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "haziliwe"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "chukizo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nesheri"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "nesheri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "peresi"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "peresi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "azniyah"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "azniyah"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:30.174112647Z",
+  "model": "glm-5.2"
+}

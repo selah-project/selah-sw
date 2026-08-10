@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na Yahweh awe hakimu, ahukumu kati yangu na kati yako, na aone, na apigane ⟨את⟩ mashindano yangu, na aniokoe kutoka mkononi mwako.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na awe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "hakimu"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ahukumu"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "kati yangu"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "na kati yako"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "na aone"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "na apigane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashindano yangu"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "mashindano yangu"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "na aniokoe"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "kutoka mkononi mwako"
+    }
+  ],
+  "timestamp": "2026-08-10T11:26:02.649561253Z",
+  "model": "glm-5.2"
+}

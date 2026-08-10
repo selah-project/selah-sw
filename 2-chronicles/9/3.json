@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na malka wa Sheba akaona ⟨את⟩ hekima ya Shelomoh, na ⟨nyumba⟩ aliyoijenga.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Na akaona"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "malka wa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hekima"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hekima"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ya Shelomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "na nyumba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "aliyoijenga"
+    }
+  ],
+  "timestamp": "2026-08-10T15:44:56.455892491Z",
+  "model": "glm-5.2"
+}

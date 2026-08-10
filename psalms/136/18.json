@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 136:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 136,
+  "translation": "Na kuuwawa kwa wafalme wenye nguvu, kwani cha milele ni chesed chake.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "Na kuuwawa kwa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "wenye nguvu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "cha milele"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed chake"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:14.293913082Z",
+  "model": "glm-5.2"
+}

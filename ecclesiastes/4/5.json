@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Mpumbavu hukumbatia ⟨את⟩ mikono yake na kula ⟨את⟩ mwili wake.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "mpumbavu"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "hukumbatia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikono yake"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "mikono yake"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "na kula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwili wake"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mwili wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:57.879094072Z",
+  "model": "glm-5.2"
+}

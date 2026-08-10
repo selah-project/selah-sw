@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Na Moshe akatangaza ⟨את⟩ nyakati maalum za Yahweh kwa wana wa Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "na akatangaza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyakati maalum za Yahweh"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "nyakati maalum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "za Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:46.022580311Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 26:1",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Ikawa njaa katika nchi, isipokuwa njaa ile ya kwanza iliyoikuwa katika siku za Avraham; akaenda Yitschaq kwa Avimelekh mfalme wa Wapelishti, Gerara.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "njaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "isipokuwa"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "njaa"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ile ya kwanza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iliyoikuwa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "iliyoikuwa"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "katika siku"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "za Avraham"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wa Wapelishti"
+    },
+    {
+      "surface": "גררה",
+      "gloss": "Gerara"
+    }
+  ],
+  "timestamp": "2026-08-10T14:26:21.390278121Z",
+  "model": "glm-5.2"
+}

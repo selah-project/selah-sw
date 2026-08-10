@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Ndipo Shelomo akasema: Yahweh amesema ⟨kwamba⟩ atakaa katika giza jingi.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ndipo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "amesema"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "atakaa"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "katika giza jingi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:59:11.010656174Z",
+  "model": "glm-5.2"
+}

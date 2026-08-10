@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Kwa kuwa mimi nimefanya uchi Esav, nimefichua ⟨את⟩ maficho yake, na kujificha hataweza. Imenyang'anywa mbegu yake, na ndugu zake, na majirani zake, na yeye hayumo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "nimefanya uchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "nimefichua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafico yake"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "mafico yake"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "na kujificha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "-taweza"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "Imenyang'anywa"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "mbegu yake"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "na ndugu zake"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "na majirani zake"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "na yeye hayumo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:14:44.747830229Z",
+  "model": "glm-5.2"
+}

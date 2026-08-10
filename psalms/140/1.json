@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 140,
+  "translation": "Kwa mtunza-mkuu. Wimbo wa David.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּחַ",
+      "gloss": "Kwa mtunza-mkuu"
+    },
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "wa David"
+    }
+  ],
+  "timestamp": "2026-08-10T17:55:02.260996558Z",
+  "model": "glm-5.2"
+}

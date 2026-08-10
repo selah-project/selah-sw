@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 34:22",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Lakini kwa hili tu hao watu watakubaliana nasi, kusudi wakae ⟨אתנו⟩, kuwa taifa moja, kwa kutohiriwa kwetu kwa kila mwanamme, kama vile wao walivyo watohiriwa.",
+  "tokens": [
+    {
+      "surface": "אַךְ",
+      "gloss": "Lakini"
+    },
+    {
+      "surface": "בְּ֠זֹאת",
+      "gloss": "kwa hili"
+    },
+    {
+      "surface": "יֵאֹ֨תוּ",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לָ֤נוּ",
+      "gloss": "hao"
+    },
+    {
+      "surface": "הָאֲנָשִׁים֙",
+      "gloss": "watu"
+    },
+    {
+      "surface": "לָשֶׁ֣בֶת",
+      "gloss": "watakubaliana"
+    },
+    {
+      "surface": "אִתָּ֔נוּ",
+      "gloss": "⟨אתנו⟩",
+      "marks": "nasi"
+    },
+    {
+      "surface": "לִהְי֖וֹת",
+      "gloss": "kusudi"
+    },
+    {
+      "surface": "לְעַ֣ם",
+      "gloss": "wakae"
+    },
+    {
+      "surface": "אֶחָ֑ד",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "בְּהִמּ֥וֹל",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "לָ֨נוּ֙",
+      "gloss": "moja"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "זָכָר",
+      "gloss": "kutohiriwa"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֖ר",
+      "gloss": "kwetu"
+    },
+    {
+      "surface": "הֵ֥ם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נִמֹּלִֽים",
+      "gloss": "kila mwanamme, kama vile wao walivyo watohiriwa"
+    }
+  ],
+  "timestamp": "2026-08-10T17:40:45.220962157Z",
+  "model": "glm-5.2"
+}

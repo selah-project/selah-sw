@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 6:2",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "«Mwagize ⟨את⟩ Aharon na ⟨את⟩ wanawe, ukisema: Hii ni torati ya sadaka ya kuchomwa: ni ⟨hiyo⟩ sadaka ya kuchomwa juu ya kuni zake, juu ya madhabahu, usiku kucha hadi asubuhi; na moto wa madhabahu unawaka ndani yake.»",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Mwagize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wanawe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukisema"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Hii"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ni torati ya"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sadaka ya kuchomwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni ⟨hiyo⟩"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sadaka ya kuchomwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "מוקדה",
+      "gloss": "kuni zake"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kucha"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "wa madhabahu"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "unawaka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ndani yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:32:28.931160761Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "nikaona mimi ⟨את⟩ kila jasho na ⟨את⟩ kila ustadi wa kazi, kwamba huu ni wivu wa mtu dhidi ya jiraniye; hata hii pia ni hebeli na kufuatilia upepo.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "nikaona"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kila jasho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "jasho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kila ustadi wa kazi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "ustadi"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "wa kazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "huu"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ni wivu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wa mtu"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "dhidi ya jiraniye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hii pia"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ni hebeli"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "na kufuatilia"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "upepo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:47:05.337248824Z",
+  "model": "glm-5.2"
+}

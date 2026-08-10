@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Adonai Yahweh ameapa katika utakatifu wake: Tazama, siku zinakuja juu yenu, naye atakuondoeni kwa ⟨את⟩ nyuga na mwisho wenu kwa tea za kuvulia samaki.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ameapa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "katika utakatifu wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "באים",
+      "gloss": "zinakuja"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "juu yenu"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "naye atakuondoeni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nyuga"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "kwa nyuga"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "na mwisho wenu"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "kwa tea"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "za kuvulia samaki"
+    }
+  ],
+  "timestamp": "2026-08-10T12:44:19.627838863Z",
+  "model": "glm-5.2"
+}

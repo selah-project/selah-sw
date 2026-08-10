@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Huenda kusini, na kuzunguka kaskazini; kuzunguka kuzunguka huenda upepo, na katika mizunguko yake ⟨upepo⟩ hurudi, upepo.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "huenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kusini"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "kusini"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "na kuzunguka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kaskazini"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kaskazini"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "kuzunguka"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "kuzunguka"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "huenda"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "upepo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na katika"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "mizunguko yake"
+    },
+    {
+      "surface": "שב",
+      "gloss": "hurudi"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "upepo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:16.630050864Z",
+  "model": "glm-5.2"
+}

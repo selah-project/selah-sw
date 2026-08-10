@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "⟨Ambaye⟩ anakulisha wa mana katika jangwa, ambalo baba zako hawakuyajua; ili akuumize, na ili akupime, kwa kusudi la kukufanyia mema katika mwisho wako.",
+  "tokens": [
+    {
+      "surface": "הַמַּֽאֲכִ֨לְךָ֥",
+      "gloss": "anakulisha"
+    },
+    {
+      "surface": "מָן֙",
+      "gloss": "wa mana"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֔ר",
+      "gloss": "katika jangwa"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "hawa-"
+    },
+    {
+      "surface": "יָדְע֖וּן",
+      "gloss": "-kujua"
+    },
+    {
+      "surface": "אֲבֹתֶ֑יךָ",
+      "gloss": "baba zako"
+    },
+    {
+      "surface": "לְמַ֣עַן",
+      "gloss": "ili"
+    },
+    {
+      "surface": "עַנֹּֽתְךָ֗",
+      "gloss": "akuumize"
+    },
+    {
+      "surface": "וּלְמַ֨עַן֙",
+      "gloss": "na ili"
+    },
+    {
+      "surface": "נַסֹּתֶ֔ךָ",
+      "gloss": "akupime"
+    },
+    {
+      "surface": "לְהֵיטִֽבְךָ֖",
+      "gloss": "kwa kusudi la kukufanyia mema"
+    },
+    {
+      "surface": "בְּאַחֲרִיתֶֽךָ",
+      "gloss": "katika mwisho wako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:57:15.368522349Z",
+  "model": "glm-5.2"
+}

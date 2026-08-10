@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Na utaweka ⟨את⟩ kitambi juu ya kichwa chake, na utaweka ⟨את⟩ taji la utakaso juu ya kitambi.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "na utaweka"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "kitambi"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kichwa chake"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "na utaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taji"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "taji"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "la utakaso"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "kitambi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:26:36.214456687Z",
+  "model": "glm-5.2"
+}

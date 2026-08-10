@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na ikwishe, tafadhali, baya ya waovu, na kuthibitisha mtu wa haki; na mchunguzi wa nyoyo na figo ni Eloah mwenye haki.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "Na ikwishe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "רע",
+      "gloss": "baya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya waovu"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "na kuthibitisha"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mtu wa haki"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "na mchunguzi"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "wa nyoyo"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "na figo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mwenye haki"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:37.892430232Z",
+  "model": "glm-5.2"
+}

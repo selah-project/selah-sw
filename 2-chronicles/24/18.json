@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Wakaiacha ⟨את⟩ nyumba ya Yahweh, Elohim wa baba zao, wakatumikia ⟨את⟩ nguzo za Ashera na ⟨את⟩ sanamu; ikawa ghadhabu juu ya Yehudah na Yerushalayim kwa hatia yao hii.",
+  "tokens": [
+    {
+      "surface": "וַיַּֽעַזְב֗וּ",
+      "gloss": "wakaacha"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "בֵּ֤ית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵ֣י",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֲבוֹתֵיהֶ֔ם",
+      "gloss": "baba zao"
+    },
+    {
+      "surface": "וַיַּֽעַבְד֥וּ",
+      "gloss": "wakatumikia"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "nguzo za Ashera"
+    },
+    {
+      "surface": "הָאֲשֵׁרִ֖ים",
+      "gloss": "nguzo za Ashera"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "sanamu"
+    },
+    {
+      "surface": "הָֽעֲצַבִּ֑ים",
+      "gloss": "sanamu"
+    },
+    {
+      "surface": "וַֽיְהִי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "קֶ֗צֶף",
+      "gloss": "ghadhabu"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "יְהוּדָה֙",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וִיר֣וּשָׁלִַ֔ם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "בְּאַשְׁמָתָ֖ם",
+      "gloss": "kwa hatia yao"
+    },
+    {
+      "surface": "זֹֽאת",
+      "gloss": "hii"
+    }
+  ],
+  "timestamp": "2026-08-10T17:58:18.840435351Z",
+  "model": "glm-5.2"
+}

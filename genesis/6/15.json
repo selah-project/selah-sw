@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na hivi ndivyo utakavyoifanya ⟨את⟩ ⟨hiyo⟩: urefu wa jikwaa uwe dhiraba mia tatu, upana wake dhiraba hamsini, na kimo chake dhiraba thelathini.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Na hivi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "utakavyoifanya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hiyo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dhiraba"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "urefu"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "wa jikwaa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "hamsini"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dhiraba"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "upana wake"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na thelathini"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dhiraba"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "kimo chake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:02:47.146831703Z",
+  "model": "glm-5.2"
+}

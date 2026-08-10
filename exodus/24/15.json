@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Moshe akapanda hadi mlima, na wingu likaufunika ⟨את⟩ mlima.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "akapanda"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mlima"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "likafunika"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "wingu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mlima"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mlima"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:57.110099999Z",
+  "model": "glm-5.2"
+}

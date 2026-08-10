@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Nitamtukuza Yahweh kwa haki yake, nami nitaimba jina la Yahweh Elyon.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Nitamtukuza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "kwa haki yake"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "nami nitaimba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:25.162657062Z",
+  "model": "glm-5.2"
+}

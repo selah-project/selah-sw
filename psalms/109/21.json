@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Na wewe, Yahweh Adonai, umtende ⟨את⟩ kazi kwa ajili ya jina lako, kwa kuwa chesed chako ni chema, niokoe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "umtende"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kazi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ni chema"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed chako"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "niokoe"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:45.098641456Z",
+  "model": "glm-5.2"
+}

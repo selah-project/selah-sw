@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 10:4",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Wamezungumza maneno, (wakiapa) viapo vya uongo, kwa kufanya agano; na hukumu imechipuka kama sumaku (ya uovu) juu ya matuta ya shamba.",
+  "tokens": [
+    {
+      "surface": "דִּבְּר֣וּ",
+      "gloss": "wamezungumza"
+    },
+    {
+      "surface": "דְבָרִ֔ים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "אָל֥וֹת",
+      "gloss": "viapo"
+    },
+    {
+      "surface": "שָׁ֖וְא",
+      "gloss": "vya uongo"
+    },
+    {
+      "surface": "כָּרֹ֣ת",
+      "gloss": "kwa kufanya"
+    },
+    {
+      "surface": "בְּרִ֑ית",
+      "gloss": "agano"
+    },
+    {
+      "surface": "וּפָרַ֤ח",
+      "gloss": "na imechipuka"
+    },
+    {
+      "surface": "כָּרֹאשׁ֙",
+      "gloss": "kama sumaku"
+    },
+    {
+      "surface": "מִשְׁפָּ֔ט",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "עַ֖ל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "תַּלְמֵ֥י",
+      "gloss": "matuta ya"
+    },
+    {
+      "surface": "שָׂדָֽי",
+      "gloss": "shamba"
+    }
+  ],
+  "timestamp": "2026-08-10T12:42:50.629804884Z",
+  "model": "glm-5.2"
+}

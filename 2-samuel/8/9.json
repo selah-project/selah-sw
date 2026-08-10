@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na Toi mfalme wa Chamath aliposikia kwamba David alikuwa amempiga ⟨את⟩ jeshi lote la Hadadezer,",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Na ... akasikia"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "wa Chamath"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "alikuwa amempiga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeshi lote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lote"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "jeshi"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "la Hadadezer"
+    }
+  ],
+  "timestamp": "2026-08-10T11:30:12.420881072Z",
+  "model": "glm-5.2"
+}

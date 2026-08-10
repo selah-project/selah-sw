@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "kwa sababu ⟨ya kwamba⟩ Avraham aliya sikiliza sauti yangu, akazilinda amri zangu, amri zangu, sheria zangu, na torati zangu.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ya kwamba⟩"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "aliya sikiliza"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "sauti yangu"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "akazilinda"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "amri zangu"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amri zangu"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "sheria zangu"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "na torati zangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:49:51.299809994Z",
+  "model": "glm-5.2"
+}

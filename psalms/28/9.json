@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Okoa watu wako, na ubariki ⟨את⟩ urithi wako, nawe uwachunge, na kuwabeba ⟨hata⟩ milea.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Okoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu wako"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "watU wako"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "na ubariki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urithi wako"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "urithi wako"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "nawe uwachunge"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "na kuwabeba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨hata⟩"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "milea"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:45.632267473Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 9:18",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na hawakuwapiga wana wa Yisrael, kwa kuwa walikuwa wakiwaapia ndugu zao wakuu wa jumuiya kwa Yahweh, Elohim wa Yisrael; na jumuiya yote ikamalamika dhidi ya wakuu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Na hawaku"
+    },
+    {
+      "surface": "הכום",
+      "gloss": "wapiga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "walikuwa wakiwaapia"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ndugu zao"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "wakuu wa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jumuiya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וילנו",
+      "gloss": "na ikamalamika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jumuiya"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhidi ya"
+    },
+    {
+      "surface": "הנשיאים",
+      "gloss": "wakuu"
+    }
+  ],
+  "timestamp": "2026-08-10T17:45:31.094912846Z",
+  "model": "glm-5.2"
+}

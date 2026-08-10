@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Ikiwa fedha utakopesha ⟨את⟩ taifa langu, ⟨את⟩ maskini aliye nawe, hutakuwa kwake kama mdai; hamtamweki juu ya riba.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ikiwa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "utakopesha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taifa langu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "taifa langu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maskini"
+    },
+    {
+      "surface": "העני",
+      "gloss": "maskini"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "aliyenawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hutakuwa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": ""
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "kama mdai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamtamweki"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": ""
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juuyayake"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "riba"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:13.106161226Z",
+  "model": "glm-5.2"
+}

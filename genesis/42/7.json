@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Yosefu akaona ⟨את⟩ ndugu zake, akawatambua, naye akajifanya kuwa mgeni kwao, akazungumza nao kwa ukali, akawaambia: «Mmetoka wapi?» Wakasema: «Kutoka nchi ya Kenaani, kununua chakula.»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndugu zake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "akawatambua"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "akajifanya kuwa mgeni"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "akazungumza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nao"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "kwa ukali"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akawaambia"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "wapi"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "mmetoka"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wakasema"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kutoka nchi ya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kununua"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chakula"
+    }
+  ],
+  "timestamp": "2026-08-10T10:14:25.151397834Z",
+  "model": "glm-5.2"
+}

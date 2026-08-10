@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na mapumziko ya ⟨ari⟩ nchi yatakuwa chakula kwako — kwako wewe na mja wako na mjakazi wako, na mwenuzi wako na mwenyeji wako anayeishi pamoja nawe.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "na yatakuwa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "mapumziko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya nchi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "chakula"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "na mja wako"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "na mjakazi wako"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "na mwenuzi wako"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "na mwenyeji wako"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "anayeishi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pamoja nawe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:23.811003221Z",
+  "model": "glm-5.2"
+}

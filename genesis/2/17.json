@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Lakini mti wa ujuzi wa jema na baya, hutakula ⟨kutoka⟩ humo, maana siku utakayokula humo, kufa utakufa.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "Lakini mti"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "wa ujuzi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wa jema"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "na baya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "utakula"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "humo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "utakayokula"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "humo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "utakufa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:35.133902354Z",
+  "model": "glm-5.2"
+}

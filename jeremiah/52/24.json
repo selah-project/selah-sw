@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 52,
+  "translation": "Na mkuu wa wachinjaji akachukua ⟨את⟩ Seraiahah kuhani mkuu, na ⟨את⟩ Tsefanyahah kuhani wa pili, na ⟨את⟩ watatu walioangalia lango.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Na akachukua"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa wachinjaji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraiahah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraiahah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tsefanyahah"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyahah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "wa pili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "watatu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "watatu"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "walioangalia"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "lango"
+    }
+  ],
+  "timestamp": "2026-08-10T12:25:53.678587786Z",
+  "model": "glm-5.2"
+}

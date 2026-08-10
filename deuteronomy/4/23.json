@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 4:23",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Jihadharini ninyi, msije mkasahau ⟨את⟩ agano la Yahweh Elohim wenu, aliolifanya pamoja nanyi, mkajitengenezei sanamu, mfano wa kitu chochote ambacho Yahweh Elohim wako amekuagiza.",
+  "tokens": [
+    {
+      "surface": "השמרו",
+      "gloss": "jihadharini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ninyi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "msije"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "mkasahau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agano"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "agano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wenu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambacho"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "aliolifanya"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "pamoja nanyi"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mkajitengenezei"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ninyi"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "sanamu"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "mfano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cha kitu chochote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambacho"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "amekuagiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    }
+  ],
+  "timestamp": "2026-08-10T17:43:47.350226427Z",
+  "model": "glm-5.2"
+}

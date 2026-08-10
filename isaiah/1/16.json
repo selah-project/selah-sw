@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Ogeni, takaseni, ondoeni uovu wa matendo yenu mbele ya macho yangu; acheni kutenda uovu.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "ogeni"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "takaseni"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "ondoeni"
+    },
+    {
+      "surface": "רע",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "wa matendo yenu"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "macho yangu"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "acheni"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kutenda uovu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:06.437309541Z",
+  "model": "glm-5.2"
+}

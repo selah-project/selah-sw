@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Wakaenda wakafanya wana wa Yisra'el kama alivyoamuru Yahweh ⟨את⟩ Moshe na ⟨את⟩ Aharon; hivyo wakafanya.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "wakaenda"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "wakafanya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama alivyoamuru"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alivyoamuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hivyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wakafanya"
+    }
+  ],
+  "timestamp": "2026-08-10T17:40:52.574738261Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 68:34",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Kwa ampaye yule apandaye mbinguni za zamani; tazama, ⟨yeye⟩ anatoa sauti yake, ⟨ni⟩ sauti ya nguvu.",
+  "tokens": [
+    {
+      "surface": "לרכב",
+      "gloss": "kwa apandaye"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "mbinguni"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "za"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "zamani"
+    },
+    {
+      "surface": "הן",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "anatoa"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "sauti yake"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ya nguvu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:52.791577190Z",
+  "model": "glm-5.2"
+}

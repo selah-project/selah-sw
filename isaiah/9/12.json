@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na taifa halikurudi kwa yule ampendayepiga, na ⟨hawakumtafuta⟩ ⟨את⟩ Yahweh wa majeshi.",
+  "tokens": [
+    {
+      "surface": "וְהָעָ֥ם",
+      "gloss": "Na taifa"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "שָׁ֖ב",
+      "gloss": "kurudi"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הַמַּכֵּ֑הוּ",
+      "gloss": "ampendayepiga"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְבָא֖וֹת",
+      "gloss": "wa majeshi"
+    },
+    {
+      "surface": "לֹא֥",
+      "gloss": "hawakumtafuta"
+    },
+    {
+      "surface": "דָרָֽשׁוּ",
+      "gloss": "⟨hawakumtafuta⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T15:03:38.521349023Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Ikawa nchi yote ⟨ilikuwa na⟩ lipi moja na maneno machache ya ⟨aina⟩ moja.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "lipi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moja"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "na maneno"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "machache ya moja"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:55.762228052Z",
+  "model": "glm-5.2"
+}

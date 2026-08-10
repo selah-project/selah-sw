@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Yahweh akafanya vivyo hivyo; na mawe makubwa ya wadudu yakaingia nyumbani mwa Paroh na nyumbani mwa watumishi wake, na katika nchi yote ya Mitsrayim; nchi ikaharibika kwa sababu ya mawe ya wadudu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akafanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yakaingia"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mawe ya wadudu"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "makubwa"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "nyumbani mwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na nyumbani mwa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumishi wake"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na katika yote"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ikaharibika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "mawe ya wadudu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:51:41.142630405Z",
+  "model": "glm-5.2"
+}

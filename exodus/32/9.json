@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Akasema Yahweh kwa Moshe: Nimeuona ⟨את⟩ taifa hili, na tazama, ni taifa lenye shingo ngumu",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Nimeuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taifa hili"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "עם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "lenye ngumu"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "shingo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-10T10:28:34.104126727Z",
+  "model": "glm-5.2"
+}

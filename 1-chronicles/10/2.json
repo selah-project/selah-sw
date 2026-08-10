@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Filistini wakamfuatilia kwa ukaribu Shaul na wanawe, na Filistini wakampiga ⟨את⟩ Yonatanan na ⟨את⟩ Avinadavu na ⟨את⟩ Malki-Shua, wanawe wa Shaul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "wakamfuatilia kwa ukaribu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistini"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "⟨nyuma ya⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "na ⟨nyuma ya⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wakampiga"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatanan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Avinadavu"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadavu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Malki-Shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-Shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "wa Shaul"
+    }
+  ],
+  "timestamp": "2026-08-10T14:06:56.850572598Z",
+  "model": "glm-5.2"
+}

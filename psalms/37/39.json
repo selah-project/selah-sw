@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 37:39",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Na wokovu wa haki ni kwa Yahweh; ⟨ye⟩ ngao yao katika wakati wa dhiki.",
+  "tokens": [
+    {
+      "surface": "ותשועת",
+      "gloss": "Na wokovu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wa haki"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ni kwa Yahweh"
+    },
+    {
+      "surface": "מעוזם",
+      "gloss": "ngao yao"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "katika wakati"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "wa dhiki"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:59.418182083Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "habakkuk 3:9",
+  "book": "habakkuk",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Ukavua kabisa upinde wako, viapo vya fimbo — neno ⟨bora⟩. Selah. Mito ukipasacha nchi.",
+  "tokens": [
+    {
+      "surface": "עריה",
+      "gloss": "wazi kabisa"
+    },
+    {
+      "surface": "תעור",
+      "gloss": "ukavua"
+    },
+    {
+      "surface": "קשתך",
+      "gloss": "upinde wako"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "viapo"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "vya fimbo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mito"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "ukipasacha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:49:42.781160632Z",
+  "model": "glm-5.2"
+}

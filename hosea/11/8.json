@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 11:8",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Ni vipi nikukabidhi Efrayimu, nikukabilie Israeli? Ni vipi nikufanya wewe kama Admahu, nikukuwezesha kama Tsevoimu? Umepinduliwa ndani yangu moyo wangu, pamoja wamekwisha kuchomwa faraja zangu.",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Ni vipi"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "nikukabidhi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "אמגנך",
+      "gloss": "nikukabilie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Ni vipi"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "nikufanya wewe"
+    },
+    {
+      "surface": "כאדמה",
+      "gloss": "kama Admahu"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "nikukuwezesha"
+    },
+    {
+      "surface": "כצבאים",
+      "gloss": "kama Tsevoimu"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "Umepinduliwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ndani yangu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "wamekwisha kuchomwa"
+    },
+    {
+      "surface": "נחומי",
+      "gloss": "faraja zangu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:15:00.980262514Z",
+  "model": "glm-5.2"
+}

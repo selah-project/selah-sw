@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Wakati huo watanitania, nami sitajibu; watanitafuta mapema, wala hawatanipata.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "wakati huo"
+    },
+    {
+      "surface": "yקראנני",
+      "gloss": "watanitania"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nami si-"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "tajibu"
+    },
+    {
+      "surface": "yשחרנני",
+      "gloss": "watanitafuta mapema"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hawa-"
+    },
+    {
+      "surface": "yמצאנני",
+      "gloss": "tanipata"
+    }
+  ],
+  "timestamp": "2026-08-10T15:31:18.510172342Z",
+  "model": "glm-5.2"
+}

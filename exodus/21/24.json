@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "jicho badala ya jicho, jino badala ya jino, mkono badala ya mkono, mguu badala ya mguu.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "jicho"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "badala ya"
+    },
+    {
+      "surface": "עין",
+      "gloss": "jicho"
+    },
+    {
+      "surface": "שן",
+      "gloss": "jino"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "badala ya"
+    },
+    {
+      "surface": "שן",
+      "gloss": "jino"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "badala ya"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "mguu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "badala ya"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "mguu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:29:33.945729862Z",
+  "model": "glm-5.2"
+}

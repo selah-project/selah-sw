@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 86,
+  "translation": "Kwa kuwa wewe, Adonai, ⟨ni⟩ mwema na msamehevu, mwingi wa chesed kwa wote wanaokuita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwema"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "na msamehevu"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mwingi wa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa wote"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "wanaokuita"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:45.688711808Z",
+  "model": "glm-5.2"
+}

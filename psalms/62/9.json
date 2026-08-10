@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 62:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 62,
+  "translation": "Tumini kwake wakati wote, enyo watu; mimini mioyo yenu mbele yake: Elohim ni ⟨ni⟩ kimbilio kwa sisi. Selah.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Tumini"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wakati wote"
+    },
+    {
+      "surface": "עת",
+      "gloss": "⟨wakati wote⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "enyo watu"
+    },
+    {
+      "surface": "שפכו",
+      "gloss": "mimini"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbele yake"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "mioyo yenu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "kimbilio"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa sisi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:45.000768909Z",
+  "model": "glm-5.2"
+}

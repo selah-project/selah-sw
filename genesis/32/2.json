@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Na Yaakov akaendelea njiani, na wajumbe wa Elohim wakakutana naye.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Na Yaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "akaendelea"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "njiani"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "wakakutana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "wajumbe wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:10:31.616008992Z",
+  "model": "glm-5.2"
+}

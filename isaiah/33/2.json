@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Yahweh, tuhurumie; kwa ajili yako tumetegemea. Kuwa mkono ⟨wao⟩ kwa asubuhi, naam, wokovu wetu kwa wakati wa dhiki.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "tuhurumie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa ajili yako"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "tumetegemea"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "kwa asubuhi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "naam"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "wokovu wetu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "kwa wakati wa"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dhiki"
+    }
+  ],
+  "timestamp": "2026-08-10T12:02:34.320739694Z",
+  "model": "glm-5.2"
+}

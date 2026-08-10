@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Yeye ndiye Yahweh, Elohim wetu; katika nchi yote ⟨huko⟩ hukumu zake.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Yeye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "hukumu zake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:55.781883914Z",
+  "model": "glm-5.2"
+}

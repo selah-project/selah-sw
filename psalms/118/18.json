@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 118,
+  "translation": "Yah amenihadharisha sana, na kufa hakunitia.",
+  "tokens": [
+    {
+      "surface": "יַסֹּ֣ר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יִסְּרַ֣נִּי",
+      "gloss": "amenihadharisha"
+    },
+    {
+      "surface": "יָּ֑הּ",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "וְ֝לַמָּ֗וֶת",
+      "gloss": "na kufa"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "haku"
+    },
+    {
+      "surface": "נְתָנָֽנִי",
+      "gloss": "nitia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:06.534361959Z",
+  "model": "glm-5.2"
+}

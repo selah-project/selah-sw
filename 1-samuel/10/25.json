@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na Shemuëli akazungumza na ⟨watu⟩ kuhusu ⟨את⟩ hukumu ya ufalme, akaandika kwenye kitabu, akaiweka mbele za Yahweh. Na Shemuëli akawapa ⟨את⟩ watu wote, kila mtu akaenda zake kwenda nyumbani kwake.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "na akazungumza"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukumu ya ufalme"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ya ufalme"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "na akaandika"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kwenye kitabu"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "na akaiweka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "na akawapa waende"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "kwenda nyumbani kwake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:21:50.597406828Z",
+  "model": "glm-5.2"
+}

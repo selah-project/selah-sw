@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Asubuhi panda ⟨את⟩ mbegu yako, na jioni usirudishe mkono wako, maana wewe hujui hii ipi itafanikiwa, hii au hii, na kama zote mbili pamoja ni nzuri.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "panda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbegu yako"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbegu yako"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "na jioni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usi-"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "-rudishe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mkono wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "wewe hu-"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "-jui"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ipi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "itafanikiwa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na kama"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "zote mbili"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ni nzuri"
+    }
+  ],
+  "timestamp": "2026-08-10T13:48:22.450080825Z",
+  "model": "glm-5.2"
+}

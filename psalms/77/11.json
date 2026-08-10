@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 77,
+  "translation": "Nikasema: Ugonjwa wangu ⟨ni⟩ huu: ⟨miaka⟩ ya mkono wa kuume wa Elyon.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nikasema"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "ugonjwa wangu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "uu"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "⟨miaka⟩"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "mkono wa kuume"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-10T17:54:17.964342383Z",
+  "model": "glm-5.2"
+}

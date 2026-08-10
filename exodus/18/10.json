@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Akasema Yitro: Abarikiwe Yahweh, ambaye amewaokoa ⟨אתכם⟩ mkononi mwa Mitsrayim na mkononi mwa Paroh, ambaye ameoka ⟨את⟩ ⟨ha⟩amri chini ya mkono wa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akasema"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Abarikiwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "amewaokoa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mkononi mwa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "na mkononi mwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ameoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ha⟩amri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ha⟩amri"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T17:41:15.340495062Z",
+  "model": "glm-5.2"
+}

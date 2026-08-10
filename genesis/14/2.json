@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "walifanya vita ⟨dhidi ya⟩ ⟨את⟩ Bera mfalme wa Sdomu, na ⟨את⟩ Birsha mfalme wa Amora, Shinabu mfalme wa Admaha, na Shemeberi mfalme wa Tseboimu, na mfalme wa Bela hiyo ni Tsoari.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "walifanya"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "vita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera mfalme wa Sdomu"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme wa"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sdomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Birsha mfalme wa Amora"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme wa"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Shinabu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme wa"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Admaha"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "na Shemeberi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme wa"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tseboimu"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "na mfalme wa"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoari"
+    }
+  ],
+  "timestamp": "2026-08-10T10:04:02.003372645Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 34:12",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Na mpaka utashuka Urdunini, na mahali pa kutoka kwake ⟨papo⟩ bahari ya chumvi; hii itakuwa kwenu nchi kwa mipaka yake pande zote.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Na utashuka"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "Urdunini"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "na yatakuwa"
+    },
+    {
+      "surface": "תוצאתיו",
+      "gloss": "mahali pa kutoka kwake"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ya chumvi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hii"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "itakuwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "לגבלתיה",
+      "gloss": "kwa mipaka yake"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "pande zote"
+    }
+  ],
+  "timestamp": "2026-08-10T14:40:32.835116143Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 3:3",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Taa ya Elohim ila hauzimwa, na Shemuël akilala hekaluni pa Yahweh, ambapo huko ilikuwa sanduku la Elohim.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "Taa ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "bado"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "hauzimwa"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "na Shemuël"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "akilala"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "hekaluni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "pa Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku la"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T11:20:27.516081150Z",
+  "model": "glm-5.2"
+}

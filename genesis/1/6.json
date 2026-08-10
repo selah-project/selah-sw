@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Elohim akasema: \"Iwe ⟨ukumbi⟩ katikati ya maji, na iwekitenganisha baina ya maji na maji.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "ukumbi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "katikati ya"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na iwe"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "kitenganisha"
+    },
+    {
+      "surface": "בין",
+      "gloss": "baina ya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "למים",
+      "gloss": "na maji"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:05.599971297Z",
+  "model": "glm-5.2"
+}

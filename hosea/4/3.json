@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 4:3",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Kwa sababu hii ⟨nchi⟩ itaomboleza, na kila mkaaji wake atateseka, pamoja na wanyama wa shamba na ndege wa mbingu; hata samaki wa bahari watakusanywa.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "Kwa"
+    },
+    {
+      "surface": "כֵּ֣ן",
+      "gloss": "sababu hii"
+    },
+    {
+      "surface": "תֶּאֱבַ֣ל",
+      "gloss": "itaomboleza"
+    },
+    {
+      "surface": "הָאָ֗רֶץ",
+      "gloss": "⟨nchi⟩"
+    },
+    {
+      "surface": "וְאֻמְלַל֙",
+      "gloss": "na"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "יוֹשֵׁ֣ב",
+      "gloss": "mkaaji"
+    },
+    {
+      "surface": "בָּ֔הּ",
+      "gloss": "wake atateseka"
+    },
+    {
+      "surface": "בְּחַיַּ֥ת",
+      "gloss": "pamoja na wanyama"
+    },
+    {
+      "surface": "הַשָּׂדֶ֖ה",
+      "gloss": "wa shamba"
+    },
+    {
+      "surface": "וּבְע֣וֹף",
+      "gloss": "na ndege"
+    },
+    {
+      "surface": "הַשָּׁמָ֑יִם",
+      "gloss": "wa mbingu"
+    },
+    {
+      "surface": "וְגַם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "דְּגֵ֥י",
+      "gloss": "samaki"
+    },
+    {
+      "surface": "הַיָּ֖ם",
+      "gloss": "wa bahari"
+    },
+    {
+      "surface": "יֵאָסֵֽפוּ",
+      "gloss": "watakusanywa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:41:56.947094630Z",
+  "model": "glm-5.2"
+}

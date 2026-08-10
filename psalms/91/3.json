@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 91,
+  "translation": "Kwa maana yeye atakuokoa kutoka mtego wa mwindaji, na kutoka tauni yenye maangamizo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "atakuokoa"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "kutoka mtego"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "wa mwindaji"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "na kutoka tauni"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "yenye maangamizo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:33.009440203Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Kwa sababu ya uasi wa nchi ⟨wake⟩, maofisa wake ni wengi; lakini kwa mtu mwenye kuelewa, mwenye kujua, ⟨uta⟩endelea ⟨muda⟩ mrefu.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "kwa sababu ya uasi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya nchi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ni wengi"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "maofisa wake"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "lakini kwa mtu"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "mwenye kuelewa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mwenye kujua"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hivyo"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "⟨uta⟩endelea muda mrefu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:21:43.563710295Z",
+  "model": "glm-5.2"
+}

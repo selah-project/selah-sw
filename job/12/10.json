@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Ambaye mkononi mwake ⟨upo⟩ nefesh ya kila kiumbe hai, na roho ya kila mwili wa binadamu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mkononi mwake"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya kila"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kiumbe hai"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "na roho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya kila"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mwili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wa binadamu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:22:11.568044937Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Kwa maana siku hii ↑takafuliwa ↑dhidi yenu ili kutakasa ⟨אתכם⟩ kutoka kwa dhambi zenu zote mbele za Yahweh; mtakatika.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "takafuliwa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "dhidi yenu"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ili kutakasa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ninyi kutoka kwa dhambi zenu zote"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kutoka kwa zote"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "dhambi zenu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "mtakatika"
+    }
+  ],
+  "timestamp": "2026-08-10T10:35:56.574662579Z",
+  "model": "glm-5.2"
+}

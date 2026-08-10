@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Akawaongoza njia iliyonyooka kuendea mji wa makao.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "Akawaongoza"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njia"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "iliyonyooka"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuendea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "makao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:43.520370075Z",
+  "model": "glm-5.2"
+}

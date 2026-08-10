@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 2:5",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Walioshiba kwa mkate wajiuzulu kwa ajili ya ajira, na walio na njaa wameacha; hata tasa amezaa watoto saba, na mwenye watoto wengi amedhoofika.",
+  "tokens": [
+    {
+      "surface": "שְׂבֵעִ֤ים",
+      "gloss": "walioshiba"
+    },
+    {
+      "surface": "בַּלֶּ֨חֶם֙",
+      "gloss": "kwa mkate"
+    },
+    {
+      "surface": "נִשְׂכָּ֔רוּ",
+      "gloss": "wajiuzulu kwa ajili ya ajira"
+    },
+    {
+      "surface": "וּרְעֵבִ֖ים",
+      "gloss": "na walio na njaa"
+    },
+    {
+      "surface": "חָדֵ֑לּוּ",
+      "gloss": "wameacha"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "עֲקָרָה֙",
+      "gloss": "tasa"
+    },
+    {
+      "surface": "יָלְדָ֣ה",
+      "gloss": "amezaa"
+    },
+    {
+      "surface": "שִׁבְעָ֔ה",
+      "gloss": "watoto saba"
+    },
+    {
+      "surface": "וְרַבַּ֥ת",
+      "gloss": "na mwenye"
+    },
+    {
+      "surface": "בָּנִ֖ים",
+      "gloss": "watoto wengi"
+    },
+    {
+      "surface": "אֻמְלָֽלָה",
+      "gloss": "amedhoofika"
+    }
+  ],
+  "timestamp": "2026-08-10T11:19:37.328916532Z",
+  "model": "glm-5.2"
+}

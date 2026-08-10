@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 101,
+  "translation": "Moyo wa upotovu ⟨uta⟩jiondoa ⟨kutoka⟩ kwangu; baya — sitalifikia.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "Moyo"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "wa upotovu"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "⟨uta⟩jiondoa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "⟨kutoka⟩ kwangu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "baya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "talifikia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:43.043388272Z",
+  "model": "glm-5.2"
+}

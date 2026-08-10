@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na mfalme wa Baveli alimfanya Mattanyah, ndugu yake wa baba, kuwa mfalme mahali pake, akabadilisha jina lake ⟨kuwa⟩ Tsidkiyahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "na akamfanya mfalme"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Baveli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mattanyah"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Mattanyah"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "ndugu yake wa baba"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mahali pake"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "akabadilisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina lake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:53:20.408853737Z",
+  "model": "glm-5.2"
+}

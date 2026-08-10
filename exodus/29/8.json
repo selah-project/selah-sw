@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Na ⟨את⟩ wana wake utawakarisha, na utawavisha ⟨na⟩ mashati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wana wake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wana wake"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "utawakarisha"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "na utawavisha"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "mashati"
+    }
+  ],
+  "timestamp": "2026-08-10T10:26:36.214776248Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Anayekufa kwa Ahabu ⟨ndani⟩ ya mji, mbwa watamla; na anayekufa ⟨nje⟩ shambani, ndege wa mbingu watamla.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "anayekufa"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "kwa Ahabu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "katika mji"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "watamla"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "mbwa"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "na anayekufa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "shambani"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "watamla"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ndege wa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:44:18.952326153Z",
+  "model": "glm-5.2"
+}

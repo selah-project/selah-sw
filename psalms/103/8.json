@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 103,
+  "translation": "Mwenye huruma na neema Yahweh, mwenye uvumilivu ⟨katika⟩ hasira, na mwingi wa chesed.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Mwenye huruma"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "na neema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "mwenye uvumilivu"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨katika⟩ hasira"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "na mwingi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "wa chesed"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:44.391888235Z",
+  "model": "glm-5.2"
+}

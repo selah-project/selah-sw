@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 111,
+  "translation": "Sifuni Yah! Nitamshukuru Yahweh kwa moyo wote, katika siri ya watu wanyofu, na ⟨katika⟩ mkutano.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Sifuni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "Nitamshukuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa ⟨moyo⟩ wote"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "katika siri"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "wa watu wanyofu"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "na mkutano"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:23.803425601Z",
+  "model": "glm-5.2"
+}

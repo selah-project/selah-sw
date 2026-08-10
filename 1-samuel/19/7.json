@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 19:7",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Akamwita Yehonatani David, akamwambia Yehonatani ⟨את⟩ maneno yote haya; na Yehonatani akaingiza ⟨את⟩ David kwa Shaul, naye akawa mbele yake kama jana na juzi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akamwita"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno yote haya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na akaingiza"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "naye akawa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbele yake"
+    },
+    {
+      "surface": "כאתמול",
+      "gloss": "kama jana"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "na juzi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:53:03.459841459Z",
+  "model": "glm-5.2"
+}

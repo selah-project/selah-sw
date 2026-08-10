@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "⟨Nafsi yangu⟩ imeambia Yahweh, «Wewe Adonai, ⟨wewe ndiye⟩; changu jema hamashini juu yako.»",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "imesema"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wewe"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "changu jema"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hamashini"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "juu yako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:11.602910711Z",
+  "model": "glm-5.2"
+}

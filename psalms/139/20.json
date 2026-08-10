@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 139,
+  "translation": "Ambao wanakutaja kwa mbinu ya uovu, maadui zako wameinuliwa kwa ubatili.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ambao"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "wanakutaja"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "kwa mbinu ya uovu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wameinuliwa"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "kwa ubatili"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "maadui zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:12.487889151Z",
+  "model": "glm-5.2"
+}

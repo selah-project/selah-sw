@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 113,
+  "translation": "anayemwinua maskini kutoka mavumbini, na hitimaaji kutoka matumboni ameinua?",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "anayemwinua"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "kutoka mavumbini"
+    },
+    {
+      "surface": "דל",
+      "gloss": "maskini"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "kutoka matumboni"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ameinua"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "hitimaaji"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:10.499729145Z",
+  "model": "glm-5.2"
+}

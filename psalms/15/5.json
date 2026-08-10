@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Fedha yake hatoi kwa riba, na hufanya rushwa ⟨dhidi⟩ ya mtu asiye na hatia; hafanyi hayo hutoanguka kamwe — hadi milele.",
+  "tokens": [
+    {
+      "surface": "כַּסְפּ֤וֹ",
+      "gloss": "Fedha yake"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "haitoi"
+    },
+    {
+      "surface": "נָתַ֣ן",
+      "gloss": ""
+    },
+    {
+      "surface": "בְּנֶשֶׁךְ֮",
+      "gloss": "kwa riba"
+    },
+    {
+      "surface": "וְשֹׁ֥חַד",
+      "gloss": "na rushwa"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨dhidi⟩ ya"
+    },
+    {
+      "surface": "נָקִ֗י",
+      "gloss": "mtu asiye na hatia"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "hafanyi"
+    },
+    {
+      "surface": "לָ֫קָ֥ח",
+      "gloss": "huchukui"
+    },
+    {
+      "surface": "עֹֽשֵׂה",
+      "gloss": "anayefanya"
+    },
+    {
+      "surface": "אֵ֑לֶּה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "לֹ֖א",
+      "gloss": "hatosimama"
+    },
+    {
+      "surface": "יִמּ֣וֹט",
+      "gloss": "hatoanguka"
+    },
+    {
+      "surface": "לְעוֹלָֽם",
+      "gloss": "hadi milele"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:43.496570502Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 11:23",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Yahweh akasema kwa Moshe, \"Je, mkono wa Yahweh umefupika? Sasa utaona ikiwa neno lanii kukutapatia au la.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "היד",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "umefupika"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "utaona"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "ikiwa neno lani kukutapatia"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "neno langu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "au"
+    },
+    {
+      "surface": "לא",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-08-10T10:45:11.394513540Z",
+  "model": "glm-5.2"
+}

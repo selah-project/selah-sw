@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Ikawa David akaenda, yeye na watu wake, ⟨hadi⟩ Keilah, akapigana na Wapelishti, akaondoa ⟨את⟩ mifugo yao, akawapiga kwa mpigo mkubwa; nayo David akaokoa ⟨את⟩ wakaazi wa Keilah.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "na watu wake"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "⟨hadi⟩ Keilah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "akapigana"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "na Wapelishti"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "akaondoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mifugo yao"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "mifugo yao"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akawapiga"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "kwa mpigo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mkubwa"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "akaokoa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wakaazi wa Keilah"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wakaazi wa"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    }
+  ],
+  "timestamp": "2026-08-10T16:00:49.066367689Z",
+  "model": "glm-5.2"
+}

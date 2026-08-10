@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Mordekayi akamweleza yote yaliyomtokea, na ⟨את⟩ maelezo ya fedha ambazo Haman alisema azitumie juu ya hazina za mfalme kwa ajili ya Wayahudi, ili kuwaangamiza.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "akamweleza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maelezo ya fedha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "yaliyomtokea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maelezo ya fedha"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "maelezo"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ya fedha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alisema"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "azitumie"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "hazina"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "za mfalme"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "kwa ajili ya Wayahudi"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "ili kuwaangamiza"
+    }
+  ],
+  "timestamp": "2026-08-10T13:49:28.430686489Z",
+  "model": "glm-5.2"
+}

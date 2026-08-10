@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 56,
+  "translation": "Ndipo maadui zangu watageuka nyuma siku niitapo; hii naijua, kwani Elohim ⟨ni⟩ wangu.",
+  "tokens": [
+    {
+      "surface": "אָ֥֨ז",
+      "gloss": "ndipo"
+    },
+    {
+      "surface": "יָ֘שׁ֤וּבוּ",
+      "gloss": "watageuka"
+    },
+    {
+      "surface": "אוֹיְבַ֣י",
+      "gloss": "maadui zangu"
+    },
+    {
+      "surface": "אָ֭חוֹר",
+      "gloss": "nyuma"
+    },
+    {
+      "surface": "בְּי֣וֹם",
+      "gloss": "siku"
+    },
+    {
+      "surface": "אֶקְרָ֑א",
+      "gloss": "niitapo"
+    },
+    {
+      "surface": "זֶה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "יָ֝דַ֗עְתִּי",
+      "gloss": "naijua"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:25.819877186Z",
+  "model": "glm-5.2"
+}

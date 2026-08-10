@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "Njaa ilikuwa nzito katika ⟨nchi⟩.",
+  "tokens": [
+    {
+      "surface": "וְהָרָעָ֖ב",
+      "gloss": "Njaa"
+    },
+    {
+      "surface": "כָּבֵ֥ד",
+      "gloss": "nzito"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "katika ⟨nchi⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T15:50:44.162361362Z",
+  "model": "glm-5.2"
+}

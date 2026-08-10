@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na mtazitunza ∖kutekeleza∖ ⟨את⟩ sheria zote na ⟨את⟩ hukumu zile ambazo mimi ninaweka mbele yenu leo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Na mtazitunza"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kutekeleza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sheria zote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sheria"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hukumu zile"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukumu zile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ninaweka"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mbele yenu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:57:16.601657284Z",
+  "model": "glm-5.2"
+}

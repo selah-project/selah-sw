@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na shamba lako la mizabibu usilichanganye kabisa, na titi za shamba lako la mizabibu usizisalue; kwa maskini na kwa mgeni utaziacha; mimi Yahweh Elohim wenu.",
+  "tokens": [
+    {
+      "surface": "וְכַרְמְךָ֙",
+      "gloss": "Na shamba lako la mizabibu"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "si"
+    },
+    {
+      "surface": "תְעוֹלֵ֔ל",
+      "gloss": "ulichanganye kabisa"
+    },
+    {
+      "surface": "וּפֶ֥רֶט",
+      "gloss": "na titi za"
+    },
+    {
+      "surface": "כַּרְמְךָ֖",
+      "gloss": "shamba lako la mizabibu"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "si"
+    },
+    {
+      "surface": "תְלַקֵּ֑ט",
+      "gloss": "zisalue"
+    },
+    {
+      "surface": "לֶֽעָנִ֤י",
+      "gloss": "kwa maskini"
+    },
+    {
+      "surface": "וְלַגֵּר֙",
+      "gloss": "na kwa mgeni"
+    },
+    {
+      "surface": "תַּעֲזֹ֣ב",
+      "gloss": "utaacha"
+    },
+    {
+      "surface": "אֹתָ֔ם",
+      "gloss": "⟨את⟩",
+      "marks": "ziachie (hizi) — kwa maskini na kwa mgeni"
+    },
+    {
+      "surface": "אֲנִ֖י",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶֽם",
+      "gloss": "Elohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:21.672076834Z",
+  "model": "glm-5.2"
+}

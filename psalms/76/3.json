@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 76,
+  "translation": "Hema yake ⟨i⟩mo katika Shalem, na makao yake katika Tsiyoni.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨i⟩mo"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "katika Shalem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "Hema yake"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "na makao yake"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "katika Tsiyoni"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:45.771815915Z",
+  "model": "glm-5.2"
+}

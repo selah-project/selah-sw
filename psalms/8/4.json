@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "(Kwa kuwa) nieona mbingu zako, kazi ya vidole vyako, mwezi na nyota, ambazo umeweka mahali pao;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "(Kwa kuwa)"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "nieona"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "mbingu zako"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "kazi ya"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "vidole vyako"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mwezi"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "na nyota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "umeweka mahali pao"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:19.704540557Z",
+  "model": "glm-5.2"
+}

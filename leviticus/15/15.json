@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Na kuhani atazifanya ⟨אתם⟩, moja dhabihu ya dhambi na moja chombo cha kuteketezwa, na kuhani atafanya upatanisho kwa ajili yake mbele za Yahweh kwa ajili ya tokwa lake.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Na kuhani atazifanya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zile (towaji\/njiwa)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "dhabihu ya dhambi"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "na moja"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "chombo cha kuteketezwa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "na kuhani atafanya upatanisho"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kwa ajili yake"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "kwa ajili ya tokwa lake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:35:28.611994059Z",
+  "model": "glm-5.2"
+}

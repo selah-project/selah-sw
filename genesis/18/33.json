@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Yahweh akaenda zake, alipomaliza kusema na Avraham, na Avraham akarudi mahali pake.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda zake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "alipomaliza"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "alipomaliza"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kusema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "na Avraham"
+    },
+    {
+      "surface": "שב",
+      "gloss": "akarudi"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "mahali pake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:23:29.641739117Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Wapenda kiburi wamechimba mitego ya shimo kwa ajili yangu, ambao ⟨ni⟩ sawa na torati yako.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "wamechimba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ajili yangu"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "wapenda kiburi"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "mitego ya shimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sawa na"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "torati yako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:23.390116026Z",
+  "model": "glm-5.2"
+}

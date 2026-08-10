@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 76,
+  "translation": "Wanyong'onyolewa wenye moyo wa nguvu, usingizini wao umelala, na hawakupata mikono yao ⟨wote⟩ watu wote wa ujasiri.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "Wanyong'onyolewa"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "wenye"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo wa nguvu"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "umelala"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "usingizini wao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na hawakupata"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "⟨wote⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "watu wote"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ujasiri"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mikono yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:39.275030772Z",
+  "model": "glm-5.2"
+}

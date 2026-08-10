@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 8:44",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "wakati taifa lako likitoka kwenda vitani dhidi ya adui wake, njia unayowapeleka, wakasali kwa Yahweh kuelekea njia ya mji uliouchagua na nyumba ambayo niliijenga kwa ajili ya jina lako,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "likitoka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "taifa lako"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kwenda vitani"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhidi ya"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "adui wake"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "תשלחם",
+      "gloss": "unayowapeleka"
+    },
+    {
+      "surface": "והתפללו",
+      "gloss": "wakasali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "kuelekea njia"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ya mji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "uliouchagua"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨wake⟩"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "na nyumba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "niliyoijenga"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "kwa ajili ya jina lako"
+    }
+  ],
+  "timestamp": "2026-08-10T11:40:50.275473111Z",
+  "model": "glm-5.2"
+}

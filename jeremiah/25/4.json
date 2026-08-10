@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 25:4",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na Yahweh ametuma kwenu ⟨את⟩ watumishi wake wote manabii, akiamka mapema na kutuma, lakini hamsikilizi, wala hamgeuzi ⟨את⟩ masikio yenu kusikia.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Na ... ametuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watumishi wake wote manabii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumishi wake"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "manabii"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "akiamka mapema"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "na kutuma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lakini ham"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "sikilizi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala ham"
+    },
+    {
+      "surface": "הטיתם",
+      "gloss": "geuzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masikio yenu"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "masikio yenu"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kusikia"
+    }
+  ],
+  "timestamp": "2026-08-10T12:17:18.256536266Z",
+  "model": "glm-5.2"
+}

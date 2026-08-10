@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Ila katika dhambi za Yarobeamu mwana wa Nevati ambaye aliwatendea dhambi ⟨את⟩ Yisrael, aliambatana, hakutoka katikazo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Ila"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "katika dhambi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "za Yarobeamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "wa Nevati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "aliwatendea dhambi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "aliambatana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakutoka"
+    },
+    {
+      "surface": "סר",
+      "gloss": "hakutoka"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "katikazo"
+    }
+  ],
+  "timestamp": "2026-08-10T11:45:36.435242388Z",
+  "model": "glm-5.2"
+}

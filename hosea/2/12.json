@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na sasa nitafunua ⟨את⟩ aibu yaka macho ya wapenzi wake, na hakuna mtu atakayemwokoa kutoka mkononi mwangu.",
+  "tokens": [
+    {
+      "surface": "וְעַתָּ֛ה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "אֲגַלֶּ֥ה",
+      "gloss": "nitafunua"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "aibu yake"
+    },
+    {
+      "surface": "נַבְלֻתָ֖הּ",
+      "gloss": "aibu yake"
+    },
+    {
+      "surface": "לְעֵינֵ֣י",
+      "gloss": "macho ya"
+    },
+    {
+      "surface": "מְאַהֲבֶ֑יהָ",
+      "gloss": "wapenzi wake"
+    },
+    {
+      "surface": "וְאִ֖ישׁ",
+      "gloss": "na hakuna mtu"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יַצִּילֶ֥נָּה",
+      "gloss": "atakayemwokoa"
+    },
+    {
+      "surface": "מִיָּדִֽי",
+      "gloss": "kutoka mkononi mwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:14:44.298498647Z",
+  "model": "glm-5.2"
+}

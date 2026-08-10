@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Ikawa nguvu mkono wa Midyani juu ya Yisra'eli; kwa sababu ya Midyani wana wa Yisra'eli wakaifanyia ⟨⟨wao⟩⟩ ⟨את⟩ mashimo yaliyo katika milima, na ⟨את⟩ pangoni, na ⟨את⟩ ngome.",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "ikawa nguvu"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mkano wa"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyani"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyani"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wakafanyia"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨⟨wao⟩⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashimo"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "mashimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaliyo"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "katika milima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pango"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "pangoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngome"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "ngome"
+    }
+  ],
+  "timestamp": "2026-08-10T11:13:53.446952817Z",
+  "model": "glm-5.2"
+}

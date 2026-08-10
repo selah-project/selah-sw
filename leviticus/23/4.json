@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Hizi ndizo nyakati maalum za Yahweh, mikutano ya utakatifu, ambazo mtaita ⟨את⟩ katika nyakati zao maalum.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Hizi"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "nyakati maalum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "za Yahweh"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "mikutano"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ya utakatifu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "mtaita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "(nyakati zao maalum)"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "katika nyakati zao maalum"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:44.043632751Z",
+  "model": "glm-5.2"
+}

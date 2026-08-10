@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na Avraham ⟨alikuwa⟩ mwenye umri wa miaka mia, ⟨wakati⟩ ⟨את⟩ Yitschaq mwana wake alipozaliwa kwake.",
+  "tokens": [
+    {
+      "surface": "וְאַבְרָהָ֖ם",
+      "gloss": "Na Avraham"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מְאַ֣ת",
+      "gloss": "wa mia"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "בְּהִוָּ֣לֶד",
+      "gloss": "alipozaliwa"
+    },
+    {
+      "surface": "ל֔וֹ",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschaq"
+    },
+    {
+      "surface": "יִצְחָ֥ק",
+      "gloss": "Yitschaq"
+    },
+    {
+      "surface": "בְּנֽוֹ",
+      "gloss": "mwana wake"
+    }
+  ],
+  "timestamp": "2026-08-10T17:40:09.495035961Z",
+  "model": "glm-5.2"
+}

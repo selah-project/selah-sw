@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 14:15",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "«Na ukawaua ⟨את⟩ watu hawa kama mtu mmoja, na mataifa watasema, ambao wamesikia ⟨את⟩ habari zako, wakisema:",
+  "tokens": [
+    {
+      "surface": "והמתה",
+      "gloss": "Na ukawaua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu hawa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kama mtu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "na watasema"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "wamesikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "habari zako"
+    },
+    {
+      "surface": "שמעך",
+      "gloss": "habari zako"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wakisema"
+    }
+  ],
+  "timestamp": "2026-08-10T14:38:08.247961989Z",
+  "model": "glm-5.2"
+}

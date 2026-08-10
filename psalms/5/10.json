@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Kwa kuwa hakuna ⟨kilicho⟩ thabiti kinywani mwao, undani wao ni uharibifu, koo lao ni kaburi wazi, ndimi zao hupaka mafuta.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אֵ֪ין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "בְּפִ֡יהוּ",
+      "gloss": "kinywani mwao"
+    },
+    {
+      "surface": "נְכוֹנָה֮",
+      "gloss": "thabiti"
+    },
+    {
+      "surface": "קִרְבָּ֪ם",
+      "gloss": "undani wao"
+    },
+    {
+      "surface": "הַ֫וּ֥וֹת",
+      "gloss": "uharibifu"
+    },
+    {
+      "surface": "קֶֽבֶר",
+      "gloss": "kaburi"
+    },
+    {
+      "surface": "פָּת֥וּחַ",
+      "gloss": "wazi"
+    },
+    {
+      "surface": "גְּרוֹנָ֑ם",
+      "gloss": "koo lao"
+    },
+    {
+      "surface": "לְ֝שׁוֹנָ֗ם",
+      "gloss": "ndimi zao"
+    },
+    {
+      "surface": "יַחֲלִֽיקוּן",
+      "gloss": "hupaka mafuta"
+    }
+  ],
+  "timestamp": "2026-08-10T18:01:04.633964079Z",
+  "model": "glm-5.2"
+}

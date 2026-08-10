@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Yahweh akamwambia Yehoshua: Tazama, nimekupa mkononi ⟨את⟩ Yericho na ⟨את⟩ mfalme wake, ⟨na⟩ mashujaa wa nguvu.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֤אמֶר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יְהוֹשֻׁ֔עַ",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "רְאֵה֙",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "נָתַ֣תִּי",
+      "gloss": "nimekupa"
+    },
+    {
+      "surface": "בְיָֽדְךָ֔",
+      "gloss": "mkononi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yericho"
+    },
+    {
+      "surface": "יְרִיח֖וֹ",
+      "gloss": "Yericho"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mfalme wake"
+    },
+    {
+      "surface": "מַלְכָּ֑הּ",
+      "gloss": "mfalme wake"
+    },
+    {
+      "surface": "גִּבּוֹרֵ֖י",
+      "gloss": "mashujaa wa"
+    },
+    {
+      "surface": "הֶחָֽיִל",
+      "gloss": "nguvu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:06:34.777496949Z",
+  "model": "glm-5.2"
+}

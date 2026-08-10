@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Nami niliwapandisha ⟨אתכם⟩ kutoka nchi ya Mitsrayim, nikaongoza ⟨אתכם⟩ jangwani miaka arobaini, ili kurithi ⟨את⟩ nchi ya waemori.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "niliwapandisha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kutoka nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "nikaongoza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "jangwani"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "arobaini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ili kurithi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ya waemori"
+    }
+  ],
+  "timestamp": "2026-08-10T17:52:48.422440427Z",
+  "model": "glm-5.2"
+}

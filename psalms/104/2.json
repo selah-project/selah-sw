@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "⟨Anaye⟩jifunika kwa nuru kama wazi, ⟨anaye⟩kunja mbingu kama hema.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "⟨anaye⟩jifunika"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kwa nuru"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "kama wazi"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "⟨anaye⟩kunja"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "kama hema"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:07.457606719Z",
+  "model": "glm-5.2"
+}

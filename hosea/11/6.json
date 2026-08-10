@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na upanga utazunguka katika miji yake, na utamaliza bawaba zake, na utameza ⟨wao⟩, kwa mipango yao wenyewe.",
+  "tokens": [
+    {
+      "surface": "וְחָלָ֥ה",
+      "gloss": "na itazunguka"
+    },
+    {
+      "surface": "חֶ֨רֶב֙",
+      "gloss": "upanga"
+    },
+    {
+      "surface": "בְּעָרָ֔יו",
+      "gloss": "katika miji yake"
+    },
+    {
+      "surface": "וְכִלְּתָ֥ה",
+      "gloss": "na utamaliza"
+    },
+    {
+      "surface": "בַדָּ֖יו",
+      "gloss": "bawaba zake"
+    },
+    {
+      "surface": "וְאָכָ֑לָה",
+      "gloss": "na utameza"
+    },
+    {
+      "surface": "מִֽמֹּעֲצ֖וֹתֵיהֶֽם",
+      "gloss": "kwa mipango yao"
+    }
+  ],
+  "timestamp": "2026-08-10T17:52:37.450254248Z",
+  "model": "glm-5.2"
+}

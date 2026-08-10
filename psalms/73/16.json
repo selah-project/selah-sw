@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 73,
+  "translation": "Nikafikiri kujua jambo hili, Ni jumu la kutia machoni.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "Nikafikiri"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kujua"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "jambo hili"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "Ni jumu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "la kutia machoni"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:48.654605881Z",
+  "model": "glm-5.2"
+}

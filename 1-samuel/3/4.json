@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Yahweh akamwita Shemuël, naye akajibu: Hii nini, hapa nilipo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akamwita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(kwa)"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akasema"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hapa nilipo"
+    }
+  ],
+  "timestamp": "2026-08-10T11:20:27.516182789Z",
+  "model": "glm-5.2"
+}

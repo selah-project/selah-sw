@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Ikawa Shaul akamtizama ⟨את⟩ David, siku hiyo na kuendelea.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ikawa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "akamtizama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "na kuendelea"
+    }
+  ],
+  "timestamp": "2026-08-10T11:24:41.314909618Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 125,
+  "translation": "Yerushalayim — milima imemizunguko, na Yahweh amezunguka ta lake, kutoka sasa hata milele.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "milima"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ime mizunguko"
+    },
+    {
+      "surface": "לה",
+      "gloss": "(wake)"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "amezunguka"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ta lake"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kutoka sasa"
+    },
+    {
+      "surface": "וְעַד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:33.043058935Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 94,
+  "translation": "Yahweh anajua mawazo ya ⟨adamu⟩, kwamba ni hewa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anajua"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mawazo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨adamu⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hewa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:49.549672512Z",
+  "model": "glm-5.2"
+}

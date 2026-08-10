@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Ikawa, alipokuwa akiendelea kuomba mbele za Yahweh, Eli akawa anamtazama ⟨את⟩ kinywa chake.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ikawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "alipokuwa"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "akiendelea"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "kuomba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "akawa anamtazama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinywa chake"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "kinywa chake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:19:26.395376539Z",
+  "model": "glm-5.2"
+}

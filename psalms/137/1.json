@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 137,
+  "translation": "Kando ya mifereji ya Bavel, hapo tulikaa, naam, tulilia, tukikutana ⟨את⟩ Tsiyon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kando ya"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mifereji"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hapo"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "tulikaa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naam"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "tulilia"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "tukikutana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:53.721511277Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Nenda, kula kwa shangwe mkate wako, u kunywa kwa moyo mwema divai yako, kwa maana Elohim amesharidhia ⟨את⟩ kazi zako.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kula"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "kwa shangwe"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "mkate wako"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "u kunywa"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "kwa moyo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwema"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "divai yako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "amesha"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "ridhia"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kazi zako"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "kazi zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:47:31.346338505Z",
+  "model": "glm-5.2"
+}

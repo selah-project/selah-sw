@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Aishi Yahweh, Elohim wako, ikiwa kuna taifa na ufalme ambao bwana wangu hakutuma huko akakutafuta, wakasema ⟨hakuna⟩; naye akaapa ⟨את⟩ ufalme na ⟨את⟩ taifa kwamba hawatakupata.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "aishi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "na ufalme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haku-"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tuma"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bwana wangu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "akakutafuta"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "wakasema"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨hakuna⟩"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "naye akaapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ufalme"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ufalme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "taifa"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawa-"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "takupata"
+    }
+  ],
+  "timestamp": "2026-08-10T11:43:20.068739962Z",
+  "model": "glm-5.2"
+}

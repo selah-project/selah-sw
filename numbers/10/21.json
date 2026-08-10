@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na wakaondoka waKehati, wabebao hema takatifu, nao wakaiinua ⟨את⟩ hema kukutanapo kuwasili kwao.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "na wakaondoka"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "waKehati"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "wabebao"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "hema takatifu"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "nao wakaiinua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "hema"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kukutanapo"
+    },
+    {
+      "surface": "באם",
+      "gloss": "kuwasili kwao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:43:21.869336448Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na Paroh atawaambia wana wa Yisraeli, 'Wamechanganyikiwa katika nchi, jangwa limewafunga.'",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Na atasema"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kuwaambia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wana wa Yisraeli"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "Wamechanganyikiwa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "lifunga"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "limewafunga"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "jangwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:21:53.791414768Z",
+  "model": "glm-5.2"
+}

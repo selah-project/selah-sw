@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Na wana wa Ya'akov walimjibu ⟨את⟩ Shekhem na ⟨את⟩ Khamori baba yake kwa udanganyifu, wakaongeza kusema, kwa sababu aliwachafua ⟨את⟩ Dina dada yao.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "na walimjibu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "wa Ya'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Khamori"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamori"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "kwa udanganyifu"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "wakaongeza kusema"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "aliwachafua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "dada yao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:27:09.310440295Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Nafsi yetu imengojea Yahweh; yeye ⟨ni⟩ msaidizi wetu na ngao yetu.",
+  "tokens": [
+    {
+      "surface": "נַ֭פְשֵׁנוּ",
+      "gloss": "nafsi yetu"
+    },
+    {
+      "surface": "חִכְּתָ֣ה",
+      "gloss": "imengojea"
+    },
+    {
+      "surface": "לַֽיהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עֶזְרֵ֖נוּ",
+      "gloss": "msaidizi wetu"
+    },
+    {
+      "surface": "וּמָגִנֵּ֣נוּ",
+      "gloss": "na ngao yetu"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:32.877489425Z",
+  "model": "glm-5.2"
+}

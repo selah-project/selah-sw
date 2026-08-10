@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 65,
+  "translation": "Anayenyamazisha kelele za bahari, kelele za mawimbi yake, na fujo za taifa;",
+  "tokens": [
+    {
+      "surface": "מַשְׁבִּ֤יחַ",
+      "gloss": "Anayenyamazisha"
+    },
+    {
+      "surface": "שְׁא֣וֹן",
+      "gloss": "kelele"
+    },
+    {
+      "surface": "יַ֭מִּים",
+      "gloss": "za bahari"
+    },
+    {
+      "surface": "שְׁא֥וֹן",
+      "gloss": "kelele"
+    },
+    {
+      "surface": "גַּלֵּיהֶ֗ם",
+      "gloss": "za mawimbi yake"
+    },
+    {
+      "surface": "וַהֲמ֥וֹן",
+      "gloss": "na fujo"
+    },
+    {
+      "surface": "לְאֻמִּֽים",
+      "gloss": "za taifa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:25.341893919Z",
+  "model": "glm-5.2"
+}

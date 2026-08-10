@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 135,
+  "translation": "Yahweh, jina lako ⟨liko⟩ hata milele; Yahweh, ukumbusho wako ⟨upo⟩ kwa kizazi na kizazi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hata milele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ukumbusho wako"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwa kizazi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na kizazi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:09.830696713Z",
+  "model": "glm-5.2"
+}

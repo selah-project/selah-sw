@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 115,
+  "translation": "Kwa nini mataifa yatasema, \"Wapi ⟨sasa⟩ elohim wao?\"",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "kwa nini"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "yatasema"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "איה",
+      "gloss": "wapi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨sasa⟩"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "elohim wao"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:27.694901239Z",
+  "model": "glm-5.2"
+}

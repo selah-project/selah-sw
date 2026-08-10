@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 5:1",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Belshazzar mfalme alipandalisha ⟨karamu⟩ kubwa kwa wakuu wake elfu, na ⟨akawa⟩ anakinywa divai mbele ya elfu ⟨hizo⟩.",
+  "tokens": [
+    {
+      "surface": "בֵּלְשַׁאצַּ֣ר",
+      "gloss": "Belshazzar"
+    },
+    {
+      "surface": "מַלְכָּ֗א",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "עֲבַד֙",
+      "gloss": "alipandalisha"
+    },
+    {
+      "surface": "לְחֶ֣ם",
+      "gloss": "karamu"
+    },
+    {
+      "surface": "רַ֔ב",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "לְרַבְרְבָנ֖וֹהִי",
+      "gloss": "kwa wakuu wake"
+    },
+    {
+      "surface": "אֲלַ֑ף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "וְלָקֳבֵ֥ל",
+      "gloss": "na mbele ya"
+    },
+    {
+      "surface": "אַלְפָּ֖א",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "חַמְרָ֥א",
+      "gloss": "divai"
+    },
+    {
+      "surface": "שָׁתֵֽה",
+      "gloss": "anakinywa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:52:45.415870496Z",
+  "model": "glm-5.2"
+}

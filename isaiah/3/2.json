@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "shujaa na mtu wa vita, mwamuzi na nabii, mlaghai na mzee;",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "shujaa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mtu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wa vita"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "mwamuzi"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "na nabii"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "na mlaghai"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "na mzee"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:11.087894752Z",
+  "model": "glm-5.2"
+}

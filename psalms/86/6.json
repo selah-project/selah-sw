@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 86,
+  "translation": "Sikiliza, Yahweh, maombi yangu, na tia masikio sauti ya maombio yangu.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "sikiliza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "maombi yangu"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "na tia masikio"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sauti ya"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "maombio yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:45.689030542Z",
+  "model": "glm-5.2"
+}

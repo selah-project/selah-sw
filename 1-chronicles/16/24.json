@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Habariisha katika mataifa ⟨את⟩ utukufu wake, miongoni mwa watu wote ajabu zake.",
+  "tokens": [
+    {
+      "surface": "סַפְּר֤וּ",
+      "gloss": "Habariisha"
+    },
+    {
+      "surface": "בַגּוֹיִם֙",
+      "gloss": "katika mataifa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "utukufu wake"
+    },
+    {
+      "surface": "כְּבוֹד֔וֹ",
+      "gloss": "utukufu wake"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "miongoni mwa ⟨yote⟩"
+    },
+    {
+      "surface": "הָעַמִּ֖ים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "נִפְלְאֹתָֽיו",
+      "gloss": "ajabu zake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:07:59.683886743Z",
+  "model": "glm-5.2"
+}

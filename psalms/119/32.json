@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Njia ya mitzva zako nitakimbia, maana unapanua moyo wangu.",
+  "tokens": [
+    {
+      "surface": "דֶּֽרֶךְ",
+      "gloss": "njia"
+    },
+    {
+      "surface": "מִצְוֺתֶ֥יךָ",
+      "gloss": "ya mitzva zako"
+    },
+    {
+      "surface": "אָר֑וּץ",
+      "gloss": "nitakimbia"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "maana"
+    },
+    {
+      "surface": "תַרְחִ֣יב",
+      "gloss": "unapanua"
+    },
+    {
+      "surface": "לִבִּֽי",
+      "gloss": "moyo wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:58.095394749Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Hivyo ndivyo mtu anayemdanganya ⟨את⟩ rafikiyake na kusema: Je, si mzani tu?",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "hivyo ndivyo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "anayemdanganya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rafikiyake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "rafikiyake"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na kusema"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "je, si"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "mzani tu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:29:03.245953614Z",
+  "model": "glm-5.2"
+}

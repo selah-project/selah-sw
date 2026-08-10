@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 115,
+  "translation": "Atawabariki wanaomwogopa Yahweh, ⟨wale⟩ wadogo pamoja na ⟨wale⟩ wakubwa.",
+  "tokens": [
+    {
+      "surface": "יְ֭בָרֵךְ",
+      "gloss": "Atawabariki"
+    },
+    {
+      "surface": "יִרְאֵ֣י",
+      "gloss": "wanaomwogopa"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הַ֝קְּטַנִּ֗ים",
+      "gloss": "wadogo"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "הַגְּדֹלִֽים",
+      "gloss": "wakubwa"
+    }
+  ],
+  "timestamp": "2026-08-10T18:00:39.513627195Z",
+  "model": "glm-5.2"
+}

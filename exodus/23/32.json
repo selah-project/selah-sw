@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Utokutia agano nao, wala ⟨na⟩ na miungu yao.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "Utoku"
+    },
+    {
+      "surface": "תִכְרֹ֥ת",
+      "gloss": "tia"
+    },
+    {
+      "surface": "לָהֶ֛ם",
+      "gloss": "agano nao"
+    },
+    {
+      "surface": "וְלֵאלֹֽהֵיהֶ֖ם",
+      "gloss": "wala na Elohim yao"
+    },
+    {
+      "surface": "בְּרִֽית",
+      "gloss": "⟨agano⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:41.620497400Z",
+  "model": "glm-5.2"
+}

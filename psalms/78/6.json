@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Ili kizazi kijacho kijue, wana wazaliwayo, wasimame na kuwasimulia wao kwa wana wao.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ili"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "kijue"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kizazi"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "kijacho"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wana"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "wazaliwayo"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "wasimame"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "na kuwasimulia"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kwa wana wao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:11.528870558Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Siku ya mfalme wetu, wakuu wamekuwa ⟨wamelekewa⟩ na joto la mvinyo; ⟨ye⟩ ameinisha mkono wake pamoja na wa cidhihirishao.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Siku"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "ya mfalme wetu"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "wamekuwa ⟨wamelekewa⟩"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "wakuu"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "na joto"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "la mvinyo"
+    },
+    {
+      "surface": "משך",
+      "gloss": "ameinisha"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wa cidhihirishao"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "wa cidhihirishao"
+    }
+  ],
+  "timestamp": "2026-08-10T12:42:22.076421661Z",
+  "model": "glm-5.2"
+}

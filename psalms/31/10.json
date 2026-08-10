@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Nionee fadhili, Yahweh, maana dhiki ⟨iko⟩ juu yangu; macho yanguchoka kwa ghadhabu, nafsi yangu na tumbo langu.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Nionee fadhili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dhiki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "yanguchoka"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "kwa ghadhabu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "macho yangu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "na tumbo langu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:02.929911570Z",
+  "model": "glm-5.2"
+}

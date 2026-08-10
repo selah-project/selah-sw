@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "Wakatengeneza ⟨את⟩ dafta ya taji ya utakatifu, dhahabu safi, wakaandika juu yake maandishi, kama kuchongwa kwa muhuri: Takatifu kwa Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Wakatengeneza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dafta ya taji"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "dafta"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ya taji"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya utakatifu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "safi"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "wakaandika"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "maandishi"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "kama kuchongwa"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "kwa muhuri"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Takatifu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:42.392612583Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Na kwa mwovu Elohim anasema: Nini chako kusimulia amri zangu, na wewe kuinua beriti yangu juu ya kinywa chako?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "Na kwa mwovu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anasema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "chako"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "kusimulia"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "amri zangu"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "na wewe kuinua"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beriti yangu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "kinywa chako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:35.324696398Z",
+  "model": "glm-5.2"
+}

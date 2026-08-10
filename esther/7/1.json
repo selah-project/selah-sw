@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Basi mfalme na Haman waliingia kunywa pamoja na Esteri malkia.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "basi waliingia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "na Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "kunywa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "malkia"
+    }
+  ],
+  "timestamp": "2026-08-10T15:38:33.774194997Z",
+  "model": "glm-5.2"
+}

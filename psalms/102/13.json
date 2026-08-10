@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Na wewe, Yahweh, kwa milele unakaa, na ukumbusho wako kwa kizazi na kizazi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kwa milele"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "unakaa"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "na ukumbusho wako"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwa kizazi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na kizazi"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:30.533015158Z",
+  "model": "glm-5.2"
+}

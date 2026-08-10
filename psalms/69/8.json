@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Kwa kuwa kwa ajili yako nimuchukua fedheha, aibu imeifunika nyuso yangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kwa ajili yako"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nimebeba"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "fedheha"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "imeifunika"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "aibu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nyuso yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:57.130459648Z",
+  "model": "glm-5.2"
+}

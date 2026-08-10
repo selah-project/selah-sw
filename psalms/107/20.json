@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Anatuma neno lake, na kuwaponza, na kuwaokoa angalieni maangamizi yao.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Anatuma"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "neno lake"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "na kuwaponza"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "na kuwaokoa"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "angalieni maangamizi yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:43.860503694Z",
+  "model": "glm-5.2"
+}

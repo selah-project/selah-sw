@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Kipindi cha kuuwa, na kipindi cha kuponya; kipindi cha kubomoa, na kipindi cha kujenga.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "kipindi"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "cha kuuwa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na kipindi"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "cha kuponya"
+    },
+    {
+      "surface": "עת",
+      "gloss": "kipindi"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "cha kubomoa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na kipindi"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "cha kujenga"
+    }
+  ],
+  "timestamp": "2026-08-10T15:37:51.082996825Z",
+  "model": "glm-5.2"
+}

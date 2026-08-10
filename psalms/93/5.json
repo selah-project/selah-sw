@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 93,
+  "translation": "Mashuhuda zako yameaminika sana; ⟨kwa⟩ nyumba yako inafaa utakaso, Yahweh, kwa muda mrefu wa siku.",
+  "tokens": [
+    {
+      "surface": "עֵֽדֹתֶ֨יךָ",
+      "gloss": "Mashuhuda zako"
+    },
+    {
+      "surface": "נֶאֶמְנ֬וּ",
+      "gloss": "yameaminika"
+    },
+    {
+      "surface": "מְאֹ֗ד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "לְבֵיתְךָ֥",
+      "gloss": "nyumba yako"
+    },
+    {
+      "surface": "נַאֲוָה",
+      "gloss": "inafaa"
+    },
+    {
+      "surface": "קֹ֑דֶשׁ",
+      "gloss": "utakaso"
+    },
+    {
+      "surface": "יְ֝הוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לְאֹ֣רֶךְ",
+      "gloss": "kwa muda mrefu"
+    },
+    {
+      "surface": "יָמִֽים",
+      "gloss": "wa siku"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:58.847564485Z",
+  "model": "glm-5.2"
+}

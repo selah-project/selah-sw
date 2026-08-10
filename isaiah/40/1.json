@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Farijeni, farijeni taifa langu, ⟨atasema⟩ Elohim wenu.",
+  "tokens": [
+    {
+      "surface": "נַחֲמ֥וּ",
+      "gloss": "farijeni"
+    },
+    {
+      "surface": "נַחֲמ֖וּ",
+      "gloss": "farijeni"
+    },
+    {
+      "surface": "עַמִּ֑י",
+      "gloss": "taifa langu"
+    },
+    {
+      "surface": "יֹאמַ֖ר",
+      "gloss": "⟨atasema⟩"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶֽם",
+      "gloss": "Elohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:35.289706207Z",
+  "model": "glm-5.2"
+}

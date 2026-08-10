@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Nimesikia matusi ya Moabu, na matukano ya wana wa Ammoni, ambao wametukana ⟨את⟩ taifa langu, na wakujivuna juu ya mipaka yao.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "nimesikia"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "matusi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "na matukano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya wana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "wametukana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taifa langu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "taifa langu"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "na wakujivuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "mipaka yao"
+    }
+  ],
+  "timestamp": "2026-08-10T12:50:14.639760354Z",
+  "model": "glm-5.2"
+}

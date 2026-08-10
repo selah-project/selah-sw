@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Hata Yehudah haukuzishika ⟨את⟩ amri za Yahweh, Elohim wao; wakatembea katika sheria za Yisra'el ambazo walizifanya.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hauku"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "zishika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amri"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wao"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wakatembea"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "katika sheria"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "walizifanya"
+    }
+  ],
+  "timestamp": "2026-08-10T11:51:17.283211457Z",
+  "model": "glm-5.2"
+}

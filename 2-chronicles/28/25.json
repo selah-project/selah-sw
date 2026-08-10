@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 28:25",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Na katika kila mji wa Yehudha alifanya mahali pa juu pa dhabihu ili kutoa uvuke kwa miungu mingine, akamkasirisha ⟨את⟩ Yahweh, Elohim wa baba zake.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "Na katika kila"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "na mji"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "wa Yehudha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alifanya"
+    },
+    {
+      "surface": "במות",
+      "gloss": "mahali pa juu pa dhabihu"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "ili kutoa uvuke"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa miungu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "mingine"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "akamkasirisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baba zake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:46:08.422857425Z",
+  "model": "glm-5.2"
+}

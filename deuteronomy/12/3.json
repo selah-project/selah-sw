@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na mtavunja ⟨את⟩ madhabahu yao, na mazibili mwayovunja ⟨את⟩ nguzo zao, na misharak(a) yao mtaiteketeza kwa moto, na sanamu za miungu yao mtazikata, na mtafuta jina lao katika mahali pale.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "Na mtavunja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madhabahu yao"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "madhabahu yao"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "na mazibili mwayovunja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguzo zao"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "nguzo zao"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "na misharak(a) yao"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "mtaiteketeza"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kwa moto"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "na sanamu za"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "miungu yao"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "mtazikata"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "na mtafuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina lao"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "jina lao"
+    },
+    {
+      "surface": "מן",
+      "gloss": "katika"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "pale"
+    }
+  ],
+  "timestamp": "2026-08-10T14:42:43.266500564Z",
+  "model": "glm-5.2"
+}

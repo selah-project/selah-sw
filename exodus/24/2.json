@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na Moshe peke yake atamkaribia Yahweh, lakini hao hawatakaribia; na taifa haliwezi kupanda pamoja naye.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "na atakaribia"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "peke yake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והם",
+      "gloss": "na hao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamto"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "watakaribia"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "na taifa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haliwezi"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "kupanda"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja naye"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:51.340873543Z",
+  "model": "glm-5.2"
+}

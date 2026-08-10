@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Mselo uliposikika kwa Mitsrayim, wataumia kwa uchungu; jinsi walivyosikia juu ya Tzor.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "mulipo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mselo"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kwa Mitsrayim"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "wataumia kwa uchungu"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "jinsi walivyosikia"
+    },
+    {
+      "surface": "צר",
+      "gloss": "juu ya Tzor"
+    }
+  ],
+  "timestamp": "2026-08-10T11:59:26.419638703Z",
+  "model": "glm-5.2"
+}

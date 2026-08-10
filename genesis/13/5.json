@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na pia kwa Lot, yule aliyekuwa akitembea ⟨pamoja na⟩ ⟨את⟩ Avram, ⟨alikuwa na⟩ kundi ⟨la kondoo⟩ na ng'ombe na hema.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "kwa Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yule aliyekuwa akitembea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨alikuwa na⟩"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kundi ⟨la kondoo⟩"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "na ng'ombe"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "na hema"
+    }
+  ],
+  "timestamp": "2026-08-10T10:04:22.113307706Z",
+  "model": "glm-5.2"
+}

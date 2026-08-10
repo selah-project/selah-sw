@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na ⟨את⟩ Holoni na ⟨את⟩ mifereji yake, na ⟨את⟩ Deviri na ⟨את⟩ mifereji yake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "Holoni"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Holoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mifereji yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mifereji yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Deviri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Deviri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mifereji yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mifereji yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:11:08.547399225Z",
+  "model": "glm-5.2"
+}

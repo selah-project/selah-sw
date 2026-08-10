@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 25:5",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Moshe akawaambia waamuzi wa Yisra'el: \"Kileni kila mmoja wa watu wenu waliojishikiza kwa Ba'al Pe'or.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "waamuzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "kileni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mmoja"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "wa watu wake"
+    },
+    {
+      "surface": "הנצמדים",
+      "gloss": "waliojishikiza"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "kwa Ba'al"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Pe'or"
+    }
+  ],
+  "timestamp": "2026-08-10T14:39:24.919378516Z",
+  "model": "glm-5.2"
+}

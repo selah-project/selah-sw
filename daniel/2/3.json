@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na mfalme akawaambia: Ndoto nimeota, na roho yangu inatatizika kujua ⟨את⟩ ndoto ⟨hiyo⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akawaambia"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Ndoto"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "nimeota"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "na inatatizika"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "roho yangu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kujua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndoto"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ndoto"
+    }
+  ],
+  "timestamp": "2026-08-10T13:50:29.101437279Z",
+  "model": "glm-5.2"
+}

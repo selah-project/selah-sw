@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Sema na wana wa Yisra'el, uwaambie: Hizi ndiyo nyakati maalum za Yahweh, ambazo mtaita ⟨את⟩ mikutano ya utakatifu — hizi ndizo nyakati zangu maalum.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "sema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uwaambie"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "nyakati maalum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "za Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "mtaita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mikutano ya utakatifu"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "mikutano"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ya utakatifu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hizi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ndizo"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "nyakati zangu maalum"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:44.043348315Z",
+  "model": "glm-5.2"
+}

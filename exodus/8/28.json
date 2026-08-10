@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Lakini Paroh akaifanya ⟨את⟩ moyo wake kuwa mzito, pia wakati huu; wala hatukutuma ⟨את⟩ taifa.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "Lakini akaifanya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wake"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "huu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala haku"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taifa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:28:34.252306462Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Na ⟨את⟩ elfu na mia saba na hamsi na saba aliifanya vibanio kwa nguzo, akazifunika vichwa vyake, akazifunga ⟨⟨את⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "elfu na mia saba na hamsini na saba"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "na saba"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "na tano"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "na sabini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aliifanya"
+    },
+    {
+      "surface": "ווים",
+      "gloss": "vibanio"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "kwa nguzo"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "akazifunika"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "vichwa vyake"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "akazifunga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ hizo ⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T10:29:30.589646636Z",
+  "model": "glm-5.2"
+}

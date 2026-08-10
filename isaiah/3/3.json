@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "jumbe wa hamsini, wenye heshima, washauri, wenye hekima wa fundi, na wenye akili wa uchawi.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "jumbe"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "wa hamsini"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "na wenye"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "heshima"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "washauri"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "na wenye hekima"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "wa fundi"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "na wenye akili"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "wa uchawi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:11.088040527Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 5:19",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Naye akamwambia, Nenda kwa amani. Naye akaondoka ⟨mbele yake⟩ kwa kipimo cha ardhi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akamwambia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "kwa amani"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "naye akaondoka"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "mbele yake"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "kipimo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "cha ardhi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:47:07.058525058Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Naye Yahweh amemuinua juu maadui wa Retsin juu yake, na ⟨את⟩ wachuki wake atawafunika.",
+  "tokens": [
+    {
+      "surface": "וַיְשַׂגֵּ֧ב",
+      "gloss": "Naye amemuinua juu"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "maadui"
+    },
+    {
+      "surface": "צָרֵ֥י",
+      "gloss": "maadui"
+    },
+    {
+      "surface": "רְצִ֖ין",
+      "gloss": "wa Retsin"
+    },
+    {
+      "surface": "עָלָ֑יו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wachuki wake"
+    },
+    {
+      "surface": "אֹיְבָ֖יו",
+      "gloss": "wachuki wake"
+    },
+    {
+      "surface": "יְסַכְסֵֽךְ",
+      "gloss": "atawafunika"
+    }
+  ],
+  "timestamp": "2026-08-10T15:03:38.521011384Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Talanta ya dhahabu safi aliifanya ⟨את⟩, ⟨pamoja na⟩ ⟨את⟩ vyombo vyake vyote.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "talanta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya dhahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "safi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aliifanya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "menora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨pamoja na⟩ ⟨את⟩",
+      "marks": "vyombo vyake vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "vyombo vyake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:32.194872283Z",
+  "model": "glm-5.2"
+}

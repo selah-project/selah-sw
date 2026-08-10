@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Zifunge vidoleni mwako, uziandike kwenye bao la moyo wako.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "Zifunge"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "vidoleni mwako"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "uziandike"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "bao la"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "moyo wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:23:33.859432049Z",
+  "model": "glm-5.2"
+}

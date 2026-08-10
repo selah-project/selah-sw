@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Nikasema mimi moyoni mwangu: ⟨את⟩ mwangu na ⟨את⟩ mbaya Elohim atahukumu, kuna muda kwa kila kutamani, na juu ya kila tendwa ⟨kuko⟩.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "nikasema"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "moyoni mwangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwangu"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "mwangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mbaya"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mbaya"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "atahukumu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "muda"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa kila"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kutamani"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "tendwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨kuko⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:38.728612751Z",
+  "model": "glm-5.2"
+}

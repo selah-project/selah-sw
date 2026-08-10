@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Yahweh akasema kwa Moshe na kwa Aharon, akisema:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "אַהֲרֹן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "akisema"
+    }
+  ],
+  "timestamp": "2026-08-10T10:48:04.953022605Z",
+  "model": "glm-5.2"
+}

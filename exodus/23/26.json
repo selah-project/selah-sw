@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Hakutakuwa na mwenye kupoteza mimba wala tasa katika nchi yenu; ⟨את⟩ idadi ya siku zenu nitaijaza.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hakutakuwa na"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨itakuwepo⟩"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "mwenye kupoteza mimba"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "wala tasa"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "katika nchi yenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idadi ya siku zenu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "idadi"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ya siku zenu"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "nitaijaza"
+    }
+  ],
+  "timestamp": "2026-08-10T15:52:44.449144848Z",
+  "model": "glm-5.2"
+}

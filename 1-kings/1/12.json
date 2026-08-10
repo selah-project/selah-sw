@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na sasa, nenda, nakushauri, tafadhali, ushauri, na kuokoa ⟨את⟩ uhai wako na ⟨את⟩ uhai wa mwanao Shelomah.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na sasa"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "nakushauri"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ushauri"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "na kuokoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uhai wako"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "uhai wako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uhai wa mwanao"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "uhai wa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwanao"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    }
+  ],
+  "timestamp": "2026-08-10T14:58:20.582817625Z",
+  "model": "glm-5.2"
+}

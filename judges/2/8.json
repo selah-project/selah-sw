@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Yehoshua mwana wa Nun, mtumishi wa Yahweh, akafa, akiwa na umri wa miaka mia na kumi.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נון",
+      "gloss": "wa Nun"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mtumishi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "akiwa na umri wa miaka"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "mia"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "na kumi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    }
+  ],
+  "timestamp": "2026-08-10T11:11:46.467910017Z",
+  "model": "glm-5.2"
+}

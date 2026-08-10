@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Msiibe, na msidanganye, na msiseme uongo, mtu kwa jiraniye.",
+  "tokens": [
+    {
+      "surface": "לֹ֖א",
+      "gloss": "si"
+    },
+    {
+      "surface": "תִּגְנֹ֑בוּ",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "na si"
+    },
+    {
+      "surface": "תְכַחֲשׁ֥וּ",
+      "gloss": "danganye"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "na si"
+    },
+    {
+      "surface": "תְשַׁקְּר֖וּ",
+      "gloss": "seme uongo"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "בַּעֲמִיתֽוֹ",
+      "gloss": "kwa jiraniye"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:21.672212028Z",
+  "model": "glm-5.2"
+}

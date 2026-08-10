@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Na mumsikitikiwa kutusikiliza kwa kuheshiwa, basi tutasichukua ⟨את⟩ bintiyetu na tutaenda zetu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na mumsikitikiwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mkitasikiliza"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kwetu"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "kwa kuheshiwa"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "na tutasichukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bintiyetu"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "bintiyetu"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "na tutaenda"
+    }
+  ],
+  "timestamp": "2026-08-10T14:26:42.545708476Z",
+  "model": "glm-5.2"
+}

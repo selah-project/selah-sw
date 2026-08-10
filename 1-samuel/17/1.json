@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Na Pelishti wakakusanya ⟨את⟩ mahali pao ya kambi kwa vita, wakakusanyika ⟨kwenye⟩ Sokho, ambayo ni ya Yehudah, wakapiga kambi kati ya Sokho na Azeka, ⟨kwenye⟩ Efestamimu.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "wakakusanya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahali pao ya kambi"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "mahali pao ya kambi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kwa vita"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "wakakusanyika"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ni ya Yehudah"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "wakapiga kambi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "⟨kwenye⟩ Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "tamimu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:24:12.733823002Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na mtapolisema: Tutanini kula mwaka wa saba — tazama, hatapandi mbegu, wala hatavuna ⟨את⟩ mavuno yetu?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "na mtapolisema"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "mtapolisema"
+    },
+    {
+      "surface": "מה",
+      "gloss": "tutanini"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "kula"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "wa saba"
+    },
+    {
+      "surface": "הן",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatapandi"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "mbegu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hatavuno"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "mavuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mavuno yetu"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "mavuno yetu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:59.200692471Z",
+  "model": "glm-5.2"
+}

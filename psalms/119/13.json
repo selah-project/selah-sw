@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Kwa midomo yangu nimehesabu ⟨kumi⟩, hukumu zote za kinywa chako.",
+  "tokens": [
+    {
+      "surface": "בִּשְׂפְתַי",
+      "gloss": "kwa midomo yangu"
+    },
+    {
+      "surface": "סִפַּרְתִּי",
+      "gloss": "nimewataja"
+    },
+    {
+      "surface": "כֹּל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "מִשְׁפְּטֵי",
+      "gloss": "hukumu za"
+    },
+    {
+      "surface": "פִיךָ",
+      "gloss": "kinywa chako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:30.605968308Z",
+  "model": "glm-5.2"
+}

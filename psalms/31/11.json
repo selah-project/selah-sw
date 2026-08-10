@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Maana uhai wangu umekwisha kwa huzuni, na miaka yangu kwa kuugua; nguvu yangu inateleza kwa dhambi yangu, na mifupa yangu inakwisha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maana"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "umekwisha"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "kwa huzuni"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "uhai wangu"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "na miaka yangu"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "kwa kuugua"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "inateleza"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "kwa dhambi yangu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "nguvu yangu"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "na mifupa yangu"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "inakwisha"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:02.930070190Z",
+  "model": "glm-5.2"
+}

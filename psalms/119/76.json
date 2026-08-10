@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Na chesed chako, tunakuomba, kitumie kunifariji, kama ulivyoniambia wewe mja wako.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Na"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tunakuomba"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed chako"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "kitumie kunifariji"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "kama ulivyoniambia"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "wewe mja wako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:29.860980810Z",
+  "model": "glm-5.2"
+}

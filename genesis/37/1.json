@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Na Yaakov aliishi katika nchi ya makao ya baba yake, katika nchi ya Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "na aliishi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "ya makao"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ya baba yake"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ya Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-10T10:12:47.055290837Z",
+  "model": "glm-5.2"
+}

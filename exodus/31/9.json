@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "na ⟨את⟩ madhabahu ya sadaka ya kuchoma, na ⟨את⟩ vyombo vyake vyote, na ⟨את⟩ hifadhi, na ⟨את⟩ kiti chake",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "madhabahu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya sadaka ya kuchoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vyombo vyake vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "vyombo vyake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hifadhi"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "hifadhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kiti chake"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "kiti chake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:52:40.975069656Z",
+  "model": "glm-5.2"
+}

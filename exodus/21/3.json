@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Kama ameingia peke yake, peke yake atatoka; kama ni bwana wa mke, yule mke wake watatoka pamoja naye.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kama"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "peke yake"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ameingia"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "peke yake"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "atatoka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "bwana wa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mke"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "watatoka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "yule mke wake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja naye"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:19.632876545Z",
+  "model": "glm-5.2"
+}

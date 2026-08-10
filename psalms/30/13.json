@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Ili utukufu wako uimbie, na usingizwe, Yahweh Elohim wangu, daima nitakushukuru.",
+  "tokens": [
+    {
+      "surface": "לְמַ֤עַן",
+      "gloss": "ili"
+    },
+    {
+      "surface": "יְזַמֶּרְךָ֣",
+      "gloss": "uimbie"
+    },
+    {
+      "surface": "כָ֭בוֹד",
+      "gloss": "utukufu"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "na la"
+    },
+    {
+      "surface": "יִדֹּ֑ם",
+      "gloss": "usingizwe"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱ֝לֹהַ֗י",
+      "gloss": "Elohim wangu"
+    },
+    {
+      "surface": "לְעוֹלָ֥ם",
+      "gloss": "daima"
+    },
+    {
+      "surface": "אוֹדֶֽךָּ",
+      "gloss": "nitakushukuru"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:32.275382835Z",
+  "model": "glm-5.2"
+}

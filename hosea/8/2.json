@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Kwangu watanilia: 'Elohai, tunakujua wewe, Israel!'",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Kwangu"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "watanilia"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "tunakujua wewe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-10T15:20:22.747599398Z",
+  "model": "glm-5.2"
+}

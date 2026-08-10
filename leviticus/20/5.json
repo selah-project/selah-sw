@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "nami nitaweka ⟨את⟩ uso wangu juu ya mtu yule na juu ya familia yake, nanimkata ⟨את⟩ yeye na ⟨את⟩ wote wanaozina baada yake, kufanya ukahaba baada ya Moloch, kutoka katikati ya watu wao.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "nami nitaweka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uso wangu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso wangu"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "juu ya mtu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yule"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "na juu ya familia yake"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "nanimkata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yeye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "wanaozina"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "baada yake"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "kufanya ukahaba"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Moloch"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kutoka katikati ya"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "watu wao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:39.529768556Z",
+  "model": "glm-5.2"
+}

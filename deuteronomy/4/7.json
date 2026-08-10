@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 4:7",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Maana ni taifa gani kubwa ambalo lina Elohim wakaribu kwake kama Yahweh Elohim wetu, katika kila tunapomwita?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maana"
+    },
+    {
+      "surface": "מי",
+      "gloss": "gani"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "wakaribu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "kama Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika kila"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "tunapomwita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:54:55.211007789Z",
+  "model": "glm-5.2"
+}

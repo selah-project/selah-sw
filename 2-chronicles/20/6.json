@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 20:6",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Naye akasema: \"Yahweh, Elohim wa baba zetu, Je, wewe siye Elohim ⟨aliye⟩ mbinguni? Na wewe unatawala juu ya ufalme wote wa mataifa, na katika mkono wako pana nguvu na weza, na hapana awezaye kusimama dhidi yako.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "baba zetu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Je"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mbinguni"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wewe"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "unatawala"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "juu ya wote"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ufalme"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "wa mataifa"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "na katika mkono wako"
+    },
+    {
+      "surface": "כח",
+      "gloss": "pana nguvu"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "na weza"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na hapana"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dhidi yako"
+    },
+    {
+      "surface": "להתיצב",
+      "gloss": "awezaye kusimama"
+    }
+  ],
+  "timestamp": "2026-08-10T16:29:27.572324453Z",
+  "model": "glm-5.2"
+}

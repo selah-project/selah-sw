@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 92,
+  "translation": "Bado watazaa tunda katika wazeeni, watakuwa wenye mafuta ⟨na⟩ kijani.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Bado"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "watazaa tunda"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "katika wazeeni"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "wenye mafuta"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "⟨na⟩ kijani"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "watakuwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:15.753889711Z",
+  "model": "glm-5.2"
+}

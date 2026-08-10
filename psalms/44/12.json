@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Unatupa kama chakula cha kondoo, na katika mataifa umetutawanya.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Unatupa"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kama kondoo"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "chakula"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "na katika mataifa"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "umetutawanya"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:11.442350795Z",
+  "model": "glm-5.2"
+}

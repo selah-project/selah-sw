@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 133,
+  "translation": "Kama mavuno ya Ḥermoni yanayoshuka juu ya milima ya Tsiyoni; maana hapo Yahweh ameamuru ⟨את⟩ baraka — uzima hata milele.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Kama mavuno"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ya Ḥermoni"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "yanayoshuka"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "milima"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ya Tsiyoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hapo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ameamuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baraka"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "baraka"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "uzima"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:45.591271388Z",
+  "model": "glm-5.2"
+}

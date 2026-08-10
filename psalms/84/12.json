@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 84,
+  "translation": "Kwa maana jua na ngao ⟨ni⟩ Yahweh Elohim; neema na utukufu Yahweh huipa; hatanyanyasa jema kwa ⟨wale⟩ wanaoitembea katika ukamilifu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "jua"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "na ngao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "neema"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "na utukufu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "huipa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatanyanyasa"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "jema"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "wanaoitembea"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "katika ukamilifu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:05.722551334Z",
+  "model": "glm-5.2"
+}

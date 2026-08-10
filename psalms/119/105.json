@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Taa ⟨kwa⟩ miguu yangu ⟨ni⟩ neno lako, na nuru ⟨kwa⟩ nyaya zangu.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "Taa"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "kwa miguu yangu"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "neno lako"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "na nuru"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "kwa nyaya zangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:27.983647399Z",
+  "model": "glm-5.2"
+}

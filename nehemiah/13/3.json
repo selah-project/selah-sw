@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Ikawa pale waliposikia ⟨wao⟩ ⟨את⟩ Torah, wakawatenga watu wote waliokingiwa kutoka Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ikawa"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "pale waliposikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "wakawatenga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "watu waliokingiwa"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kutoka Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T14:02:27.455810286Z",
+  "model": "glm-5.2"
+}

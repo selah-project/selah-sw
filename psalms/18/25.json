@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Basi Yahweh ⟨amekirudisha⟩ kwamba kwa haki yangu, kwa usafi wa mikono yangu mbele za macho yake.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "basi ⟨amekirudisha⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "kwa haki yangu"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kwa usafi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ya mikono yangu"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "macho yake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:50.550398962Z",
+  "model": "glm-5.2"
+}

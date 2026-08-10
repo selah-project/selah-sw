@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 4:18",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na mtoto akakuwa, ikawa siku moja, naye akatoka kwenda kwa baba yake, kwa ⟨wale wanaokata⟩.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "na akakuwa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mtoto"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siku moja"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "na akatoka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenda kwa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הקצרים",
+      "gloss": "wanaokata"
+    }
+  ],
+  "timestamp": "2026-08-10T11:46:33.635071239Z",
+  "model": "glm-5.2"
+}

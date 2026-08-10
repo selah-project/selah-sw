@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na Shemuëli aliwakarisha ⟨את⟩ kabila zote za Yisra'eli; nalo kabila la Binyamini likachukuliwa kwa kurudi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Na aliwakarisha"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabila zote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kabila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "za Yisra'eli"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "nalo likachukuliwa kwa kurudi"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kabila"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "la Binyamini"
+    }
+  ],
+  "timestamp": "2026-08-10T11:22:00.087321721Z",
+  "model": "glm-5.2"
+}

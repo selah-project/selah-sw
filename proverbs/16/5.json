@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Chukizo mbele ya Yahweh ni kila mwenye kiburi cha moyo; ⟨hata kama⟩ mkono ⟨ushikane⟩ na mkono, hatatolewa hatia.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "chukizo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "mwenye kiburi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "na mkono"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatatolewa"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "hatia"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:55.706246336Z",
+  "model": "glm-5.2"
+}

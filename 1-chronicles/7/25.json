@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na Refah mwana wake, na Reshef, na Telah mwana wake, na Tahan mwana wake.",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "Na Refah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "na Reshef"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "na Telah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "na Tahan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:05:29.100451322Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na Yehoshua akasema: Kwa hii mtajua ya kwamba El hai ⟨⟨yumo⟩⟩ katikati yenu, na kwamba atawafukuza hakika mbele zenu ⟨את⟩ Mkana'ani na ⟨את⟩ Mhiti na ⟨את⟩ Mhivi na ⟨את⟩ Mperizizi na ⟨את⟩ Mgirgashi na Mamori na Myebusi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "kwa hii"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "mtajua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "katikati yenu"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "na atawafukuza"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "mbele zenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mkana'ani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mkana'ani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mhiti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Mhiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mhivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Mhivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mperizizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Mperizizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mgirgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Mgirgashi"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "na Mamori"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "na Myebusi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:05:11.831716848Z",
+  "model": "glm-5.2"
+}

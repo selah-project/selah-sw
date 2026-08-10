@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Kwa maana nafsi yetu imetua kwenye mavumbi, tumbo letu limegandishwa nchi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "imetua"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "kwenye mavumbi"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nafsi yetu"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "limegandishwa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "tumbo letu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:04.743200312Z",
+  "model": "glm-5.2"
+}

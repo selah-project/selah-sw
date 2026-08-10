@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Yeye ⟨ndiye⟩ aliyeijenga ⟨את⟩ Elothi, akairejesha kwa Yehudah, baada ya mfalme kulala na baba zake.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "aliyeijenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elothi"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Elothi"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "akairejesha"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kwa Yehudah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "kulala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baba zake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:17:47.213023956Z",
+  "model": "glm-5.2"
+}

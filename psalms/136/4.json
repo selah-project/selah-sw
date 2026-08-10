@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 136,
+  "translation": "Kwa ⟨yeye⟩ anayefanya maajabu makubwa peke yake, maana chesed chake ⟨hudumu⟩ milele.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Kwa anayefanya"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "maajabu"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "makubwa"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "peke yake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed chake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:40.662851507Z",
+  "model": "glm-5.2"
+}

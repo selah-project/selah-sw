@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Miaka sita utapanda shamba lako, na miaka sita utakata shamba la mizabibu, na utayavuna ⟨את⟩ mavuno yake.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "sita"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Miaka"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "utapanda"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "shamba lako"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na miaka sita"
+    },
+    {
+      "surface": "שנים",
+      "gloss": ""
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "utakata"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "shamba la mizabibu"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "na utayavuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mavuno yake"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "mavuno yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:47.818719821Z",
+  "model": "glm-5.2"
+}

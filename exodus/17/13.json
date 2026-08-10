@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Yehoshua akamzibisha ⟨את⟩ Amaleki na ⟨את⟩ watu wake kwa ncha ya upanga.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "akamzibisha"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "watu wake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "watu wake"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "kwa ncha ya"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "upanga"
+    }
+  ],
+  "timestamp": "2026-08-10T17:58:54.883199684Z",
+  "model": "glm-5.2"
+}

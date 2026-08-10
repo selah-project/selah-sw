@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 27:18",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Urefu wa ua ni silisi kwa dhiriba, na upana wake ni hamsini kwa hamsini, na kimo chake ni dhiriba tano ⟨kwa⟩ kitani cha kusokotwa, na misingi yao ni shaba.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "urefu"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "wa ua"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "silisi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kwa dhiriba"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "na upana"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "hamsini"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "kwa hamsini"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "na kimo"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dhiriba"
+    },
+    {
+      "surface": "שש",
+      "gloss": "⟨kwa⟩ kitani"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "cha kusokotwa"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "na misingi yao"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "shaba"
+    }
+  ],
+  "timestamp": "2026-08-10T14:31:29.907854967Z",
+  "model": "glm-5.2"
+}

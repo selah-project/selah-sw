@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 24:9",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na David akaondoka baada ya hayo, akatoka pangoni, akaita nyuma ya Shaul, akisema: Bwana wangu, mfalme. Na Shaul akatazama nyuma yake, na David akainama kwa uso wake hadi nchi, akajitupa chini.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Na akaondoka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hayo"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "akatoka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "katika"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "pango"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Bwana wangu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "na akatazama"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nyuma yake"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "akaainama"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kwa uso wake"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hadi nchi"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akajitupa chini"
+    }
+  ],
+  "timestamp": "2026-08-10T11:26:28.305578222Z",
+  "model": "glm-5.2"
+}

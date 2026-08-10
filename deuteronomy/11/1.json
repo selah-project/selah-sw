@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Basi utampenda ⟨את⟩ Yahweh Elohim wako, nawe utalinda ulinzi wake, na amri zake, na hukumu zake, na amri zake, siku zote.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "na utapenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "na utalinda"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "ulinzi wake"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "na amri zake"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "na hukumu zake"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "na amri zake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "siku"
+    }
+  ],
+  "timestamp": "2026-08-10T10:56:54.014779463Z",
+  "model": "glm-5.2"
+}

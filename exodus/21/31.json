@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Au ⟨ikiwa amezongoa⟩ mwana, au ⟨amemzongoa⟩ binti, kama hukumu hii itafanywa kwake.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "⟨ikiwa amezongoa⟩"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "⟨amemzongoa⟩"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kama hukumu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "itafanywa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:32.963601218Z",
+  "model": "glm-5.2"
+}

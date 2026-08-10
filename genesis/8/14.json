@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na katika mwezi wa pili, siku ya ishirini na saba ya mwezi, nchi ilikauka.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "na katika mwezi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa pili"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "siku ya saba"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na ishirini"
+    },
+    {
+      "surface": "יום",
+      "gloss": ""
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya mwezi"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "ilikauka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:02:25.389374199Z",
+  "model": "glm-5.2"
+}

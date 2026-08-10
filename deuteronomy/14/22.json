@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Utoe zawadi ya kumi ⟨⟨את⟩⟩ yote mazao ya mbegu yako, ⟨yale⟩ yanayotoka shambani, mwaka baada ya mwaka.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Utoe zawadi ya kumi"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "utoe zawadi ya kumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "mazao"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ya mbegu yako"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "⟨yale⟩ yanayotoka"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "shambani"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "baada ya mwaka"
+    }
+  ],
+  "timestamp": "2026-08-10T10:58:13.744392354Z",
+  "model": "glm-5.2"
+}

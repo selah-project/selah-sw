@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Naye akapata mimba, akazaa mwana, naye akaiita ⟨את⟩ jina lake Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "akapata mimba"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akazaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akaiita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina lake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-08-10T17:41:02.125295914Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Mtu mwenye hekima hukesha ⟨na⟩ mtu mpumbavu, naye hukasirika, na hucheka, wala hapati raha.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Mtu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mwenye hekima"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "hukesha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "mpumbavu"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "naye hukasirika"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "na hucheka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wala hapati"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "raha"
+    }
+  ],
+  "timestamp": "2026-08-10T13:29:00.413736132Z",
+  "model": "glm-5.2"
+}

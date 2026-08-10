@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Wakaacha ⟨את⟩ hadi asubuhi, kama vile alivyoagiza Moshe, na haikunuka vibaya, na minyoo haikuwapo humu.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "Wakaacha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hadi asubuhi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama vile"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alivyoagiza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ha-"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "ikunuka vibaya"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "na minyoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ikuwapo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "humu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:23:35.032014463Z",
+  "model": "glm-5.2"
+}

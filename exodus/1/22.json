@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Paroh akaamuru ⟨kwa⟩ watu wake wote, akisema: Kila mtoto wa kiume aliyezaliwa — mtoni mmtupeni; na kila mtoto wa kike — mkaacheni aishi.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "akaamuru"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa watu wote"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "mtoto wa kiume"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "aliyezaliwa"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "mtoni"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "mmtupeni"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "na kila"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "mtoto wa kike"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "mkaacheni aishi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:17:03.832154736Z",
+  "model": "glm-5.2"
+}

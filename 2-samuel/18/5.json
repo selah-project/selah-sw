@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 18:5",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na mfalme aliamuru ⟨את⟩ Yoabu na ⟨את⟩ Avishayi na ⟨את⟩ Itayi, akisema: \"Mwatende kwa upole kwa ajili yangu, ⟨kwa⟩ kijana, ⟨yaani⟩ Avshalomu.\" Na watu wote walisikia katika kuamuru kwake mfalme ⟨את⟩aku wakuu wote juu ya jambo la Avshalomu.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Na aliamuru"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoabu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Avishayi"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Itayi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itayi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "kwa upole"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ajili yangu"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "kwa kijana"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "kwa Avshalomu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "Na wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "walisikia"
+    },
+    {
+      "surface": "בצות",
+      "gloss": "katika kuamuru"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wakuu wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "wakuu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "la Avshalomu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:33:55.203244942Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 18:11",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na Avraham na Sarah walikuwa wazeemee, wameingia siku, na kuwa kwa Sarah kumekwishaisha kwa njia ya wanawake.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Na Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "na Sarah"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "walikuwa wazeemee"
+    },
+    {
+      "surface": "באים",
+      "gloss": "wameingia"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "kumekwisha"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "kwa Sarah"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "njia"
+    },
+    {
+      "surface": "כנשים",
+      "gloss": "ya wanawake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:05:02.599265550Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 15:7",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Na katika wingi wa fahari yako uwaangamiza wanaokulea; unamtuma hasira yako, inawala kama unyasi.",
+  "tokens": [
+    {
+      "surface": "וברב",
+      "gloss": "Na katika wingi"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "wa fahari yako"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "uwaangamiza"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "wanaokulea"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "unamtuma"
+    },
+    {
+      "surface": "חרנך",
+      "gloss": "hasira yako"
+    },
+    {
+      "surface": "יאכלמו",
+      "gloss": "inawala"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "kama unyasi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:21:28.192181593Z",
+  "model": "glm-5.2"
+}

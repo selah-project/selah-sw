@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "⟨את⟩ fedha yako usimpe kwa riba, wala kwa faida usimpe chakula chako.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fedha yako"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "fedha yako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "umpe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "kwa riba"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "wala kwa faida"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "umpe"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "chakula chako"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:03.343606436Z",
+  "model": "glm-5.2"
+}

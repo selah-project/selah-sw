@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Je, ⟨si⟩ hivyo kuinua kwake kutakuangamizeni ⟨אתכם⟩, na woga wake utaanguka juu yenu?",
+  "tokens": [
+    {
+      "surface": "הֲלֹ֣א",
+      "gloss": "Je, ⟨si⟩"
+    },
+    {
+      "surface": "שְׂ֭אֵתוֹ",
+      "gloss": "kuinua kwake"
+    },
+    {
+      "surface": "תְּבַעֵ֣ת",
+      "gloss": "kutakuangamizeni"
+    },
+    {
+      "surface": "אֶתְכֶ֑ם",
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "וּ֝פַחְדּ֗וֹ",
+      "gloss": "na woga wake"
+    },
+    {
+      "surface": "יִפֹּ֥ל",
+      "gloss": "utaanguka"
+    },
+    {
+      "surface": "עֲלֵיכֶֽם",
+      "gloss": "juu yenu"
+    }
+  ],
+  "timestamp": "2026-08-10T17:55:56.702871157Z",
+  "model": "glm-5.2"
+}

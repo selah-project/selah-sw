@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Elkana mwana wake, na Eviasafu mwana wake, na Asir mwana wake.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "na Eviasafu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "na Asir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:05:00.441278871Z",
+  "model": "glm-5.2"
+}

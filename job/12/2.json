@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Hakika, kwa kuwa nyinyi ndani ⟨ni⟩ watu, na pamoja nanyi hekima ⟨itasimama⟩ kufa.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nyinyi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "na pamoja nanyi"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hekima"
+    }
+  ],
+  "timestamp": "2026-08-10T15:33:46.388429860Z",
+  "model": "glm-5.2"
+}

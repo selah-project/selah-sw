@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Kwa maana hivyasema Yahweh wa majeshi: Bado mara moja, ⟨ni⟩ kitu kidogo, nami nitatikisa ⟨את⟩ mbingu na ⟨את⟩ nchi na ⟨את⟩ bahari na ⟨את⟩ nchi kavu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wa majeshi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bado"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "mara moja"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kidogo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ni⟩ kitu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nami"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "nitatikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbingu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bahari"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nchi kavu"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "nchi kavu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:50:08.550903243Z",
+  "model": "glm-5.2"
+}

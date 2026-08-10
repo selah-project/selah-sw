@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 11:3",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na mfalme shujaa atasimama, naye atatawala utawala mkuu, na kufanya kama mapenzi yake.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "Na atasimama"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "shujaa"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "naye atatawala"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "utawala"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na kufanya"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "kama mapenzi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:56:06.923230871Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Yahweh, nisitahayarishwe, maana nimekuita wewe; wabaya na waonehayawe, na wanyamaze hata kufikia Sheol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nisitahayarishwe"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "nisitahayarishwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "nimekuita wewe"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "waonehayawe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wabaya"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "na wanyamaze"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "hata kufikia Sheol"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:42.656311377Z",
+  "model": "glm-5.2"
+}

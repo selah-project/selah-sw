@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 143,
+  "translation": "Nilikumbuka siku za kale, nilikitafakari katika kazi zako zote; katika tendo la mikono yako ninaongea na nafsi yangu.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Nilikumbuka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "za kale"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "nilikitafakari"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika zote"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "kazi zako"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "katika tendo"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "la mikono yako"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "ninaongea na nafsi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:50.784609030Z",
+  "model": "glm-5.2"
+}

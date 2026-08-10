@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Niokoe, Elohim, maana maji yamefika hata nafsi.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Niokoe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "באו",
+      "gloss": "yamefika"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafsi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:44.873058415Z",
+  "model": "glm-5.2"
+}

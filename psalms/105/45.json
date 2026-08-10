@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Ili wazishike amri zake na torati zake wazilinde, msifuni Yah!",
+  "tokens": [
+    {
+      "surface": "בַּעֲבוּר",
+      "gloss": "ili"
+    },
+    {
+      "surface": "יִשְׁמְרוּ",
+      "gloss": "wazishike"
+    },
+    {
+      "surface": "חֻקָּיו",
+      "gloss": "amri zake"
+    },
+    {
+      "surface": "וְתוֹרֹתָיו",
+      "gloss": "na torati zake"
+    },
+    {
+      "surface": "יִנְצֹרוּ",
+      "gloss": "wazilinde"
+    },
+    {
+      "surface": "הַלְלוּ",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "יָהּ",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:45.647773735Z",
+  "model": "glm-5.2"
+}

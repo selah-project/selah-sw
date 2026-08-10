@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Maji yakaenda kuzunguka madhabahu, na ⟨hata⟩ ⟨את⟩ mfuko pia ukajaa maji.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "yakaenda"
+    },
+    {
+      "surface": "המים",
+      "gloss": "Maji"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kuzunguka"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfuko"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "mfuko"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ukajaa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    }
+  ],
+  "timestamp": "2026-08-10T11:43:49.362083492Z",
+  "model": "glm-5.2"
+}

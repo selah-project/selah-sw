@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Kwa maana desturi za watu ni ubatili; kwa maana ⟨ni⟩ mti kutoka msituni, umekata, kazi ya mikono ya fundi, kwa shoka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "desturi"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "za watu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ubatili"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mti"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "kutoka msituni"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "umekata"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ya mikono"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ya fundi"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "kwa shoka"
+    }
+  ],
+  "timestamp": "2026-08-10T12:13:11.194502482Z",
+  "model": "glm-5.2"
+}

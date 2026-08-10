@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Nami nitakaa kati ya wana wa Yisra'el, wala sitaacha ⟨את⟩ watu wangu Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "nami nitakaa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala sitaacha"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu wangu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "watu wangu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-10T11:39:47.380900347Z",
+  "model": "glm-5.2"
+}

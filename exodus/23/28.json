@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Nami nitatuma ⟨את⟩ mbuzi mbele yako, nayo itawafukuza ⟨את⟩ Mhiwi, ⟨את⟩ Mkanani, na ⟨את⟩ Mhiti mbele ya uso wako.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Nami nitatuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuzi"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "mbuzi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbele yako"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "nayo itawafukuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mhiwi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Mhiwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mkanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mkanani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mhiti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Mhiti"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "mbele ya uso wako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:52:30.473433605Z",
+  "model": "glm-5.2"
+}

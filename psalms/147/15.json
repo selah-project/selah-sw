@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 147,
+  "translation": "⟨Yeye⟩ anatuma amri yake ⟨kwenye⟩ nchi; haraka sana neno lake hukimbia.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "⟨Yeye⟩ anatuma"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "amri yake"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨kwenye⟩ nchi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "haraka sana"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "hukimbia"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "neno lake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:36.973576650Z",
+  "model": "glm-5.2"
+}

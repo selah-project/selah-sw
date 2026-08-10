@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Ikawa njiani, ⟨pale⟩ mahali pa kulalia, Yahweh akamtana naye, akaomba kumuua.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njiani"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "mahali pa kulalia"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "akamtana naye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "akaomba"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "kumuua"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:33.388425949Z",
+  "model": "glm-5.2"
+}

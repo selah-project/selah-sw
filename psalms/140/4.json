@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 140,
+  "translation": "Wameoza ulimi wao kama nyoka; sumu ya fisi ⟨iko⟩ chini ya midomo yao. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "wameoza"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ulimi wao"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kama"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nyoka"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sumu ya"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "fisi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "midomo yao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:28.263172895Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Nami nitawauza ⟨את⟩ wana wenu na ⟨את⟩ binti zenu mikononi mwa wana wa Yehudah, nao watawauza kwa Washaba, kwa taifa la mbali; maana Yahweh amesema.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "Nami nitawauza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana wenu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "wana wenu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "binti zenu"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "binti zenu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mikononi mwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "nao watawauza"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "kwa Washaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "taifa la"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "mbali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "amesema"
+    }
+  ],
+  "timestamp": "2026-08-10T12:44:00.274018650Z",
+  "model": "glm-5.2"
+}

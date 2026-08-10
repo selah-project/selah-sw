@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kwa kuwa ⟨ame⟩teseka kwa jema mkaaji wa Maroth; kwa kuwa baya imeshuka kutoka kwa Yahweh, hadi mlangoni pa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "חָ֥לָֽה",
+      "gloss": "ameseteseka"
+    },
+    {
+      "surface": "לְט֖וֹב",
+      "gloss": "kwa jema"
+    },
+    {
+      "surface": "יוֹשֶׁ֣בֶת",
+      "gloss": "mkaaji wa"
+    },
+    {
+      "surface": "מָר֑וֹת",
+      "gloss": "Maroth"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "יָ֤רַד",
+      "gloss": "imeshuka"
+    },
+    {
+      "surface": "רָע֙",
+      "gloss": "baya"
+    },
+    {
+      "surface": "מֵאֵ֣ת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לְשַׁ֖עַר",
+      "gloss": "hadi mlangoni pa"
+    },
+    {
+      "surface": "יְרוּשָׁלִָֽם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T12:46:58.721177968Z",
+  "model": "glm-5.2"
+}

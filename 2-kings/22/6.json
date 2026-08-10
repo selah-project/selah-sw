@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "kwa wafundi na kwa wajenzi na kwa watengenezaji wa ukuta, na kununua mbao na mawe ya kuchimba, kulitengeneza ⟨את⟩ nyumba.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "kwa wafundi"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "na kwa wajenzi"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "na kwa watengenezaji wa ukuta"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "na kununua"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "mbao"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "na mawe"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "ya kuchimba"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "kulitengeneza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    }
+  ],
+  "timestamp": "2026-08-10T11:52:04.864751232Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 103,
+  "translation": "kwa waliozingatia beriti yake, na kwa wanaokumbuka amri zake, kuzitenda.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "kwa waliozingatia"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "beriti yake"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "na kwa wanaokumbuka"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "amri zake"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "kuzitenda"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:02.438548792Z",
+  "model": "glm-5.2"
+}

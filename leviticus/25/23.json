@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na nchi isiuZwe kwa kutoweza kurejeshwa, kwa maana ni yangu ⟨⟨nchi⟩⟩; kwa maanaageni na wakazi ninyepamoja nami.",
+  "tokens": [
+    {
+      "surface": "וְהָאָ֗רֶץ",
+      "gloss": "Na nchi"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "isiuzwe"
+    },
+    {
+      "surface": "תִמָּכֵר֙",
+      "gloss": "kwa kutoweza kurejeshwa"
+    },
+    {
+      "surface": "לִצְמִתֻ֔ת",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "ni yangu"
+    },
+    {
+      "surface": "לִ֖י",
+      "gloss": "⟨nhi⟩"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "wageni"
+    },
+    {
+      "surface": "גֵרִ֧ים",
+      "gloss": "na wakazi"
+    },
+    {
+      "surface": "וְתוֹשָׁבִ֛ים",
+      "gloss": "ninye"
+    },
+    {
+      "surface": "אַתֶּ֖ם",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "עִמָּדִֽי",
+      "gloss": "nami"
+    }
+  ],
+  "timestamp": "2026-08-10T14:36:07.755764024Z",
+  "model": "glm-5.2"
+}

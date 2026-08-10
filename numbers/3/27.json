@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 3:27",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na kwa Kehati ⟨liko⟩ ukoo wa Amrami, na ukoo wa Yitsahari, na ukoo wa Chevroni, na ukoo wa Uzieli; hawa ndio ukoo wa Kehati.",
+  "tokens": [
+    {
+      "surface": "ולקהת",
+      "gloss": "Na kwa Kehati"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ukoo"
+    },
+    {
+      "surface": "העמרמי",
+      "gloss": "wa Amrami"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "na ukoo"
+    },
+    {
+      "surface": "היצהרי",
+      "gloss": "wa Yitsahari"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "na ukoo"
+    },
+    {
+      "surface": "החברני",
+      "gloss": "wa Chevroni"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "na ukoo"
+    },
+    {
+      "surface": "העזיאלי",
+      "gloss": "wa Uzieli"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ndio"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ukoo"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "wa Kehati"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:16.605881709Z",
+  "model": "glm-5.2"
+}

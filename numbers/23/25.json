@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Balak akamwambia Bilam: «Hata kulaani, usimlaani; hata kubariki, usimbariki.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "קב",
+      "gloss": "kulaani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "usimlaani"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "kubariki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "usimbariki"
+    }
+  ],
+  "timestamp": "2026-08-10T10:48:46.951668146Z",
+  "model": "glm-5.2"
+}

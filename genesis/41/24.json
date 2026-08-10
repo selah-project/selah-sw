@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Mashina mepe yalimeza ⟨את⟩ mashina saba mazuri. Niliwaambia wapiga ramli, wala hakuna aliyeambia.",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "zalimeza"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "mashina"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "mepe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashina saba mazuri"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "saba"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "mashina"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "mazuri"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "nikasema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "wapiga ramli"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wala hapana"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "mwenye kueleza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:13:37.407456896Z",
+  "model": "glm-5.2"
+}

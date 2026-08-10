@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Gideoni akafika Yordani, ⟨huku⟩ akivuka, yeye na watu mia tatu walikuwa ⟨אתו⟩; walikuwa wamechoka na pia wakiwafuatilia.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akafika"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideoni"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "Yordani"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "akivuka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na watu mia tatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "האיש",
+      "gloss": "walikuwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao walikuwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "na"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "walikuwa wamechoka"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "na pia wakiwafuatilia"
+    }
+  ],
+  "timestamp": "2026-08-10T11:15:50.243675139Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 136,
+  "translation": "⟨את⟩ jua kwa kuatawala mchana, kwani milele chesed wake.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jua"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "jua"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "kwa kuatawala"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mchana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:17.073224816Z",
+  "model": "glm-5.2"
+}

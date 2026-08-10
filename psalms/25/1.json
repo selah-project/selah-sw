@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "⟨Wa⟩ David. ⟨Kwako⟩, ee Yahweh, nefesh yangu ninainua.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "⟨Wa⟩ David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨Kwako⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh yangu"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ninainua"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:01.595587420Z",
+  "model": "glm-5.2"
+}

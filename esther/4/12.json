@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Wakamwambia Mordekai ⟨את⟩ maneno ya Esteri.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Wakamwambia"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ya Esteri"
+    }
+  ],
+  "timestamp": "2026-08-10T15:38:18.747241931Z",
+  "model": "glm-5.2"
+}

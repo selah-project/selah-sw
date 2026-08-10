@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Kumbuka ⟨את⟩ yale aliyokufanyia Amaleki njiani, mtokapo Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "זָכ֕וֹר",
+      "gloss": "Kumbuka"
+    },
+    {
+      "surface": "אֵ֛ת",
+      "gloss": "⟨את⟩",
+      "marks": "yale aliyokufanyia Amaleki"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "yale"
+    },
+    {
+      "surface": "עָשָׂ֖ה",
+      "gloss": "alifanya"
+    },
+    {
+      "surface": "לְךָ֑",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "עֲמָלֵ֑ק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "בַּדֶּ֖רֶךְ",
+      "gloss": "njiani"
+    },
+    {
+      "surface": "בְּצֵאתְכֶ֥ם",
+      "gloss": "mtokapo"
+    },
+    {
+      "surface": "מִמִּצְרָֽיִם",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T11:00:55.543857715Z",
+  "model": "glm-5.2"
+}

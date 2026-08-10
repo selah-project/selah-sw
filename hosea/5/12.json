@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Mimi ni kama kungu kwa Efrayim, na kama uozo kwa nyumba ya Yehuda.",
+  "tokens": [
+    {
+      "surface": "וַאֲנִ֥י",
+      "gloss": "na mimi"
+    },
+    {
+      "surface": "כָעָ֖שׁ",
+      "gloss": "kama kungu"
+    },
+    {
+      "surface": "לְאֶפְרָ֑יִם",
+      "gloss": "kwa Efrayim"
+    },
+    {
+      "surface": "וְכָרָקָ֖ב",
+      "gloss": "na kama uozo"
+    },
+    {
+      "surface": "לְבֵ֥ית",
+      "gloss": "kwa nyumba ya"
+    },
+    {
+      "surface": "יְהוּדָֽה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-10T12:40:47.017598395Z",
+  "model": "glm-5.2"
+}

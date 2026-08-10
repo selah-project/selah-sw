@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 17:20",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "David akaamka asubuhi mapema, akaacha ⟨את⟩ kundi chini ya mlinzi, akachukua akaenda kama Yishai alivyomwagiza; akafika kwenye mzingira, na jeshi likitoka kwenda kwenye safu, wakapiga kelele za vita.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "akaamka asubuhi mapema"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "akaacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kundi"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "על",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "mlinzi"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "akachukua"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "alivyomwagiza"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akafika"
+    },
+    {
+      "surface": "המעגלה",
+      "gloss": "kwenye mzingira"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "na jeshi"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "likitoka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenda kwenye"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "safu"
+    },
+    {
+      "surface": "והרעו",
+      "gloss": "wakapiga kelele"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "za vita"
+    }
+  ],
+  "timestamp": "2026-08-10T14:52:26.453362354Z",
+  "model": "glm-5.2"
+}

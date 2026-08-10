@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na utatengeneza kerubi wawili wa dhahabu; kazi iliyopigwaWA kwa nyundo utawafanya ⟨אתם⟩, kutoka ncha mbili za kifuniko.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Na utatengeneza"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wa dhahabu"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "kazi iliyopigwaWA kwa nyundo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "utawafanya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kerubi wawili"
+    },
+    {
+      "surface": "משני",
+      "gloss": "kutoka mbili"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ncha"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "za kifuniko"
+    }
+  ],
+  "timestamp": "2026-08-10T10:25:32.033578775Z",
+  "model": "glm-5.2"
+}

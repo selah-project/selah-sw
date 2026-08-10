@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na mfalme David akiwa mzee, ⟨amekuja⟩ siku nyingi, wakamfunika nguo, lakini haikipata joto.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Na mfalme"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "akiwa mzee"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨amekuja⟩"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "siku nyingi"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "wakamfunika"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "nguo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lakini hakupata"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "joto"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kipa⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T11:37:05.730433392Z",
+  "model": "glm-5.2"
+}

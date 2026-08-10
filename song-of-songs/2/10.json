@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Mpenzi wangu akanijibu akaniambia: Ondoka, rafiki yangu, mzuri wangu, na kuja ⟨nami⟩.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "akanijibu"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mpenzi wangu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "akaniambia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "↩akanijibu"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ondoka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "rafiki yangu"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "mzuri wangu"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "na kuja"
+    },
+    {
+      "surface": "לך",
+      "gloss": "↩na kuja"
+    }
+  ],
+  "timestamp": "2026-08-10T15:36:03.190565156Z",
+  "model": "glm-5.2"
+}

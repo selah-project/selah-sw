@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Kwa mishale na kwa upindi mtakuja ⟨huko⟩; kwa sababu miiba na mitoa ndiyo itakuwa nchi yote.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "Kwa mishale"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "na kwa upindi"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "mtakuja"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "huko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "miiba"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "na mitoa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "itakuwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:55.495343120Z",
+  "model": "glm-5.2"
+}

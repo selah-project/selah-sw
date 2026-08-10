@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "kutoka kwa elohim wa watu hao walioko jirani nawe, au mbali nawe, kutoka mwanzo wa nchi hata mwanzo wa nchi.",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "kutoka kwa elohim wa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "watu hao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "walioko"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "jirani nawe"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "waliokaribu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": " nawe"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "walioko mbali"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kutoka mwanzo wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "mwanzo wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:58:43.533155264Z",
+  "model": "glm-5.2"
+}

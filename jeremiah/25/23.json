@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "na ⟨את⟩ Dedan na ⟨את⟩ Tema na ⟨את⟩ Buz na ⟨את⟩ wote wakatao pembe za ⟨ndevu⟩;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tema"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wote wakatao pembe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "wakatao pembe"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "za ⟨ndevu⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T12:16:33.962293708Z",
+  "model": "glm-5.2"
+}

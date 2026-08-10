@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na ⟨את⟩ kuta za Yerushalayim pande zote zilibomolewa na jeshi lote la Wakasdi ambalo ⟨likuwa⟩ pamoja na mwembe matakalani.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kuta za Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "za Yerushalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "pande zote"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "zilibomolewa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lote"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "jeshi"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "la Wakasdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mwembe matakalani"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-10T15:03:41.438323789Z",
+  "model": "glm-5.2"
+}

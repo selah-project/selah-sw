@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na hii ni ⟨ni⟩ habari ndogo machoni pa Yahweh, na ⟨ye⟩ atawapa ⟨את⟩ Moabu mikononi mwenu.",
+  "tokens": [
+    {
+      "surface": "וְנָקַ֥ל",
+      "gloss": "na ni habari ndogo"
+    },
+    {
+      "surface": "זֹ֖את",
+      "gloss": "hii"
+    },
+    {
+      "surface": "בְּעֵינֵ֣י",
+      "gloss": "machoni pa"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְנָתַ֥ן",
+      "gloss": "na atawapa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Moabu"
+    },
+    {
+      "surface": "מוֹאָ֖ב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "בְּיֶדְכֶֽם",
+      "gloss": "mikononi mwenu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:46:50.191850224Z",
+  "model": "glm-5.2"
+}

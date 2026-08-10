@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Kutoka ⟨את⟩ kwako sifa yangu ⟨iko⟩ katika mkutano mkuu; ahadi zangu nitazitimiza mbele ya wamchaogu.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ kutoka kwako",
+      "marks": "sifa yangu"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "sifa yangu"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "katika mkutano"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ahadi zangu"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "nitazitimiza"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wamchaogu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:35.134531086Z",
+  "model": "glm-5.2"
+}

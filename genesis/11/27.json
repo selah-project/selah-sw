@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na hizi ndizovizazi za Terachi: Terachi alimzaa ⟨את⟩ Avramu, ⟨את⟩ Nachori, na ⟨את⟩ Harani; na Harani alimzaa ⟨את⟩ Loti.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na hizi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "vizazi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "za Terachi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terachi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "na Harani"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Loti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    }
+  ],
+  "timestamp": "2026-08-10T10:04:01.772312271Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Akaleta ⟨את⟩ makuhani na ⟨את⟩ Walawi, akawakusanya uwanjani wa upande wa mashariki.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Akaleta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makuhani"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "makuhani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Walawi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Walawi"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "akawakusanya"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "uwanjani"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "wa upande wa mashariki"
+    }
+  ],
+  "timestamp": "2026-08-10T14:18:45.451423579Z",
+  "model": "glm-5.2"
+}

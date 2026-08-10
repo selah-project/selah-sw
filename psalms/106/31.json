@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Ikahesabiwa kwake kwa haki, kwa kizazi na kizazi, hata milele.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "ikahesabiwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "kwa haki"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwa kizazi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na kizazi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:22.261428411Z",
+  "model": "glm-5.2"
+}

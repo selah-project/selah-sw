@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Ikawa baada ya sasa kumi, Yahweh akampiga ⟨את⟩ Nabal, naye akafa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "baada ya sasa kumi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "akampiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:53:39.090388632Z",
+  "model": "glm-5.2"
+}

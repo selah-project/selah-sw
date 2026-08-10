@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Kwa sababu ya hasira yako na ghadhabu yako, kwa kuwa umeniinua na kunitupa chini.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "hasira yako"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "na ghadhabu yako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "umeniinua"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "na kunitupa chini"
+    }
+  ],
+  "timestamp": "2026-08-10T17:54:28.378578336Z",
+  "model": "glm-5.2"
+}

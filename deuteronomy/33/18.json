@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 33:18",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Na kwa habari ya Zebuluni alisema: Furahi Zebuluni katika kutoka kwako, na Yisakari katika hema zako.",
+  "tokens": [
+    {
+      "surface": "ולזבולן",
+      "gloss": "Na kwa habari ya Zebuluni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alisema"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "Furahi"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebuluni"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "katika kutoka kwako"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "na Yisakari"
+    },
+    {
+      "surface": "באהליך",
+      "gloss": "katika hema zako"
+    }
+  ],
+  "timestamp": "2026-08-10T14:44:34.608698306Z",
+  "model": "glm-5.2"
+}

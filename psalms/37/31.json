@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Torati ya Elohim wake ⟨i⟩ moyoni mwake, hatutapatapa hatua zake.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Torati"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ya Elohim wake"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "moyoni mwake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatutapatapa"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "hatutapatapa"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "hatua zake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:38.200511058Z",
+  "model": "glm-5.2"
+}

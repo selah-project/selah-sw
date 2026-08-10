@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Mwezi huu ni kwenu mwanzo wa miezi; ⟨hu⟩ ni kwenu mwezi wa kwanza kwa miezi ya ⟨hiyo⟩ mwaka.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Mwezi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "huu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ni kwenu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mwanzo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "wa miezi"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "wa kwanza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hu⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ni kwenu"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "kwa miezi"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ya mwaka"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:47.678286127Z",
+  "model": "glm-5.2"
+}

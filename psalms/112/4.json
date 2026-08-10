@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 112,
+  "translation": "Imedokeza gizani nuru kwa wanyofu; ⟨ni⟩ mwingi wa neema na mwingi wa huruma na mwenye haki.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "Imedokeza"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "gizani"
+    },
+    {
+      "surface": "אור",
+      "gloss": "nuru"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "kwa wanyofu"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "mwingi wa neema"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "na mwingi wa huruma"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "na mwenye haki"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:20.525883941Z",
+  "model": "glm-5.2"
+}

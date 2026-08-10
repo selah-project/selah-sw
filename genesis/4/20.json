@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na Adah akazaa ⟨את⟩ Yabali; yeye ndiye aliyekuwa baba wa wakaao hema na wafugao.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "na akazaa"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabali"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yabali"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aliyekuwa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wa wakaao"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "na wafugao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:46.164440373Z",
+  "model": "glm-5.2"
+}

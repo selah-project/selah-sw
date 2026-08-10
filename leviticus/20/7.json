@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Nanyi mtakatini, nanyi mtakuwa watakatifu; kwa maana mimi ni Yahweh Elohim wenu.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "nanyi mtakatini"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "nanyi mtakuwa"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "watakatifu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:39.530239267Z",
+  "model": "glm-5.2"
+}

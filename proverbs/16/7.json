@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Njia za ⟨mtu⟩ zinapompendezesha Yahweh, hata maadui zake huwafanya waishi kwa amani pamoja naye.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "zinapompendezesha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "njia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "maadui zake"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "huwafanya waishi kwa amani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pamoja naye"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:55.706625858Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Wakafanya ⟨את⟩ sikukuu ya vibanda kama ilivyoandikwa, na ⟨sadaka ya kuteketezwa⟩ ya kila siku kwa hesabu, kama ilivyoagizwa, shughuli ya kila siku siku kwa siku.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Wakafanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sikukuu"
+    },
+    {
+      "surface": "חג",
+      "gloss": "sikukuu"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "ya vibanda"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "kama ilivyoandikwa"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "na sadaka ya kuteketezwa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ya kila siku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kwa hesabu"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "kwa hesabu"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kama ilivyoagizwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "shughuli"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ya kila siku"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "siku kwa siku"
+    }
+  ],
+  "timestamp": "2026-08-10T13:57:04.492006277Z",
+  "model": "glm-5.2"
+}

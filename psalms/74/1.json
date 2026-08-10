@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 74,
+  "translation": "Mafundisho ya Asaph. Kwa nini, Elohim, umetukana milele? Ghadhabu yako inavuta moshi dhidi ya kundi la malisho yako?",
+  "tokens": [
+    {
+      "surface": "מַשְׂכִּ֗יל",
+      "gloss": "Mafundisho"
+    },
+    {
+      "surface": "לְאָ֫סָ֥ף",
+      "gloss": "ya Asaph"
+    },
+    {
+      "surface": "לָמָ֣ה",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "אֱ֭לֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זָנַ֣חְתָּ",
+      "gloss": "umetukana"
+    },
+    {
+      "surface": "לָנֶ֑צַח",
+      "gloss": "milele"
+    },
+    {
+      "surface": "יֶעְשַׁ֥ן",
+      "gloss": "inavuta moshi"
+    },
+    {
+      "surface": "אַ֝פְּךָ֗",
+      "gloss": "Ghadhabu yako"
+    },
+    {
+      "surface": "בְּצֹ֣אן",
+      "gloss": "dhidi ya kundi"
+    },
+    {
+      "surface": "מַרְעִיתֶֽךָ",
+      "gloss": "la malisho yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:20.598570088Z",
+  "model": "glm-5.2"
+}

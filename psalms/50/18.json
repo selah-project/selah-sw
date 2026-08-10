@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Kama huona mwizi, ⟨hu⟩furahishwa naye, na ulezi wako huwa pamoja na waazinivai.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "huona"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "mwizi"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "⟨hu⟩furahishwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na pamoja na"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "waizinivai"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "ulezi wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:32.685145874Z",
+  "model": "glm-5.2"
+}

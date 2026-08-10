@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 55,
+  "translation": "Ametuma mikono yake dhidi ya ⟨ao⟩ walio katika amani naye; ameacha ⟨tendo la⟩ mapatano wake.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ametuma"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "mikono yake"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "dhidi ya walio katika amani naye"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ameacha"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "mapatano wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:59.686572135Z",
+  "model": "glm-5.2"
+}

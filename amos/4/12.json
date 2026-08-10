@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 4:12",
+  "book": "amos",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Kwa sababu hivyo, ndivyo nitakavyofanya kwako, Israeli; kwa kuwa haya nitakufanyia, ji tayari kukutana na Elohim wako, Israeli.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kwa sababu hivyo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nitakavyofanya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "haya"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nitakufanyia"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "הכון",
+      "gloss": "ji tayari"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kukutana na"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    }
+  ],
+  "timestamp": "2026-08-10T12:45:44.895401092Z",
+  "model": "glm-5.2"
+}

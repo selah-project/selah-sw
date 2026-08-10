@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 47,
+  "translation": "Utafichuliwa uchi wako, hataaonekana maudhi yako; nitalichukua kisasi, wala sitamtia mtu.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "Utafichuliwa"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "uchi wako"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "aonekana"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "maudhi yako"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "kisasi"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "nitalichukua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala sita"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "mtia"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mtu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:06:15.788216147Z",
+  "model": "glm-5.2"
+}

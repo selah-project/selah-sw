@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Yahweh, unioniongoze katika haki yako kwa ajili ya wapinzani wangu; yanyoosha njia yako mbele zangu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "uniongoze"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "katika haki yako"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "wapinzani wangu"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "yanyoosha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele zangu"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "njia yako"
+    }
+  ],
+  "timestamp": "2026-08-10T17:54:10.167334736Z",
+  "model": "glm-5.2"
+}

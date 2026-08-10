@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "Na mimi nitaingia hadi madhabahu ya Elohim, hadi El, furaha ya kushangilia kwangu, na nitakushukuru kwa kinubi, Elohim, Elohai.",
+  "tokens": [
+    {
+      "surface": "וְאָב֣וֹאָה",
+      "gloss": "na mimi nitaingia"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "מִזְבַּ֬ח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "אֱלֹהִ֗ים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "אֵ֤ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שִֽׂמְחַ֪ת",
+      "gloss": "furaha"
+    },
+    {
+      "surface": "גִּ֫ילִ֥י",
+      "gloss": "ya kushangilia kwangu"
+    },
+    {
+      "surface": "וְאוֹדְךָ֥",
+      "gloss": "na nitakushukuru"
+    },
+    {
+      "surface": "בְכִנּ֗וֹר",
+      "gloss": "kwa kinubi"
+    },
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֱלֹהָֽי",
+      "gloss": "Elohai"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:36.193475941Z",
+  "model": "glm-5.2"
+}

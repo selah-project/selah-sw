@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 97,
+  "translation": "Yahweh amekuwa mfalme — na ardhi naifurahie; visiwa vingi na vifurahi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "amekuwa mfalme"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "naifurahie"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ardhi"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "na vifurahi"
+    },
+    {
+      "surface": "איים",
+      "gloss": "visiwa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vingi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:43.473474196Z",
+  "model": "glm-5.2"
+}

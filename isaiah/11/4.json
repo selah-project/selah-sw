@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 11:4",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na kwa haki atawahukumu maskini, na kwa uadilifu atakagua kwa ajili ya wanyenyekevu wa nchi; na atapiga ⟨את⟩ nchi kwa fimbo ya kinywa chake, na kwa upepo wa midomo yake atamuua mtenda mbaya.",
+  "tokens": [
+    {
+      "surface": "ושפט",
+      "gloss": "na atawahukumu"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "kwa haki"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "maskini"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "na atakagua"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "kwa uadilifu"
+    },
+    {
+      "surface": "לענוי",
+      "gloss": "kwa ajili ya wanyenyekevu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "na atapiga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "kwa fimbo"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ya kinywa chake"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "na kwa upepo"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "wa midomo yake"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "atamuua"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mtenda mbaya"
+    }
+  ],
+  "timestamp": "2026-08-10T15:05:35.813084042Z",
+  "model": "glm-5.2"
+}

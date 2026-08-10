@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 29:18",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Na Ya'akov akampenda ⟨את⟩ Rachel, akasema: Nitakukhudumia miaka saba kwa Rachel binti yako mdogo.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "na akampenda"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אעבדך",
+      "gloss": "nitakukhudumia"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "saba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "kwa Rachel"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "binti yako"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "mdogo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:08:33.605715047Z",
+  "model": "glm-5.2"
+}

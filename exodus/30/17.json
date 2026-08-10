@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 30:17",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Yahweh akanena kwa Moshe, akisema:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akanena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:24.187608141Z",
+  "model": "glm-5.2"
+}

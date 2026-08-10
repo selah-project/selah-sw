@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 149,
+  "translation": "Msifuni Yah; mwimbieni Yahweh wimbo mpya, sifa yake ⟨iwe⟩ katika mkusanyiko wa waomolevu.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Msifuni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "mwimbieni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mpya"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sifa yake"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "katika mkusanyiko"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "waomolevu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:32.850767839Z",
+  "model": "glm-5.2"
+}

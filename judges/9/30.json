@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na Zebul, mkuu wa mji, alisikia ⟨את⟩ maneno ya Ga'al mwana wa Ebedi, naye hasira yake ikawaka.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "na alisikia"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa mji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "געל",
+      "gloss": "ya Ga'al"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "wa Ebedi"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ikawaka"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hasira yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:14:37.728607606Z",
+  "model": "glm-5.2"
+}

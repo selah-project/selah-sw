@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Elohim akaumba ⟨את⟩ mtu kwa mfano wake; kwa mfano wa Elohim alimumba; dume na jike aliwaumba.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "akaumba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "kwa mfano wake"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "kwa mfano wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "alimumba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dume"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "dume"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "na jike"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "aliwaumba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dume na jike"
+    }
+  ],
+  "timestamp": "2026-08-10T15:48:49.155041762Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 14:18",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Shaul akasema kwa Achiya: \"Mkaribishe ⟨את⟩ sanduku la Elohim.\" Maana sanduku la Elohim lilikuwa siku hiyo na wana wa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאחיה",
+      "gloss": "kwa Achiya"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Mkaribishe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "⟨את⟩ sanduku",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "la Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Maana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lilikuwa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "la Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-08-10T16:00:19.253101958Z",
+  "model": "glm-5.2"
+}

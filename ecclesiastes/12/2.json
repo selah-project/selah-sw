@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "kabla haujafifia jua, na nuru, na mwezi, na nyota, na mawingu yarudi nyuma ya mvua;",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kabla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hauja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "fifia"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "fifia"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "jua"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "na nuru"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "na mwezi"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "na nyota"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "na mawingu yarudi"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "mawingu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "mvua"
+    }
+  ],
+  "timestamp": "2026-08-10T16:25:01.638865160Z",
+  "model": "glm-5.2"
+}

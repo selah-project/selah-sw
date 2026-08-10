@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Kumbuka, Adonai, maudhi ya watumishi wako; nimebeba tumboni mwangu ⟨maudhi⟩ ya makundi yote mengi ya watu.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "kumbuka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "maudhi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ya watumishi wako"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "nimebeba"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "tumboni mwangu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mengi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ya makundi ya watu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:14.528855630Z",
+  "model": "glm-5.2"
+}

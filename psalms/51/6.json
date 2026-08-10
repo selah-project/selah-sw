@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 51,
+  "translation": "⟨Kwako⟩, wewe pekee, nimetenda dhambi, na yaliyo maovu machoni pako nimeyatenda, ili uhesabiwe haki unenapo, na uwe safi unapohukumu.",
+  "tokens": [
+    {
+      "surface": "לְךָ֤",
+      "gloss": "⟨Kwako⟩"
+    },
+    {
+      "surface": "לְבַדְּךָ֨",
+      "gloss": "wewe pekee"
+    },
+    {
+      "surface": "חָטָאתִי֮",
+      "gloss": "nimetenda dhambi"
+    },
+    {
+      "surface": "וְהָרַ֥ע",
+      "gloss": "na yaliyo maovu"
+    },
+    {
+      "surface": "בְּעֵינֶ֗יךָ",
+      "gloss": "machoni pako"
+    },
+    {
+      "surface": "עָ֫שִׂ֥יתִי",
+      "gloss": "nimeyatenda"
+    },
+    {
+      "surface": "לְ֭מַעַן",
+      "gloss": "ili"
+    },
+    {
+      "surface": "תִּצְדַּ֥ק",
+      "gloss": "uhesabiwe haki"
+    },
+    {
+      "surface": "בְּדָבְרֶ֗ךָ",
+      "gloss": "unenapo"
+    },
+    {
+      "surface": "תִּזְכֶּ֥ה",
+      "gloss": "na uwe safi"
+    },
+    {
+      "surface": "בְשָׁפְטֶֽךָ",
+      "gloss": "unapohukumu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:37.406190766Z",
+  "model": "glm-5.2"
+}

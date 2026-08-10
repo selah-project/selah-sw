@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Mbingu kwa kimo, na nchi kwa kina, na moyo wa wafalme hauna kipimo.",
+  "tokens": [
+    {
+      "surface": "שָׁמַ֣יִם",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "לָ֭רוּם",
+      "gloss": "kwa kimo"
+    },
+    {
+      "surface": "וָאָ֣רֶץ",
+      "gloss": "na nchi"
+    },
+    {
+      "surface": "לָעֹ֑מֶק",
+      "gloss": "kwa kina"
+    },
+    {
+      "surface": "וְלֵ֥ב",
+      "gloss": "na moyo wa"
+    },
+    {
+      "surface": "מְ֝לָכִ֗ים",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "hauna"
+    },
+    {
+      "surface": "חֵֽקֶר",
+      "gloss": "kipimo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:28:30.824872540Z",
+  "model": "glm-5.2"
+}

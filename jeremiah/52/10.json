@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 52,
+  "translation": "Mfalme wa Baveli akachinja ⟨את⟩ wana wa Tsidkiyahu machooni pake, na pia ⟨את⟩ wakuu wote wa Yehuda akawachinja Rivla.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "akachinja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baveli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana wa Tsidkiyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "machooni pake"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wakuu wote wa Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "wakuu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "akachinja"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "Rivla"
+    }
+  ],
+  "timestamp": "2026-08-10T12:26:09.402668280Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 60,
+  "translation": "Umetetemesha ⟨hiyo⟩ nchi, umepasua; tibu mapengo yake, maana ⟨hiyo⟩ inatetemeka!",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Umetetemesha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "umepasua"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "tibu"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "mapengo yake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "inatetemeka"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:44.979349267Z",
+  "model": "glm-5.2"
+}

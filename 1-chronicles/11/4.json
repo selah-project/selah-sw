@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Naye David akaenda, na wote Yisra'eli, Yerushalayim — ⟨hiyo ni⟩ Yebusi; na huko ⟨walikuwa⟩ wayebusi, wenyeji wa nchi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Naye David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Yebusi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na huko"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "wayebusi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wenyeji wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:07:04.309531375Z",
+  "model": "glm-5.2"
+}

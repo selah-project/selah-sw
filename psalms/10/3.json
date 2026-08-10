@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Kwa kuwa mwovu husifu tamaa ya nafsi yake, na mwenye tamaa ya faida humlaani ⟨na⟩ kumdharau Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "husifu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mwovu"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "tamaa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ya nafsi yake"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "na mwenye tamaa ya faida"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "humlaani"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "⟨na⟩ kumdharau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:56.160515865Z",
+  "model": "glm-5.2"
+}

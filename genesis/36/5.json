@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Na Oholibamah alizaa ⟨את⟩ Yeush na ⟨את⟩ Yalam na ⟨את⟩ Korach; hawa ni wana wa Esav waliozaliwa kwake katika nchi ya Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Na Oholibamah"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeush"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ni wana wa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waliozaliwa"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "waliozaliwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi ya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-10T14:26:52.012080817Z",
+  "model": "glm-5.2"
+}

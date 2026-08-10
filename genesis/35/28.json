@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Na siku za Yitzhak zikaikuwa mia ⟨moja⟩ ya miaka na themanini ya miaka.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Na zikaikuwa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "siku za"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitzhak"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya miaka"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "na themanini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya miaka"
+    }
+  ],
+  "timestamp": "2026-08-10T10:12:01.333904810Z",
+  "model": "glm-5.2"
+}

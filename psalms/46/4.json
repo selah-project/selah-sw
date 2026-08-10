@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 46,
+  "translation": "Hu-nguruma, hu-fukoza maji yake, huo-tikisika milima kwa kiburi chake. Selah.",
+  "tokens": [
+    {
+      "surface": "יֶהֱמ֣וּ",
+      "gloss": "hu-nguruma"
+    },
+    {
+      "surface": "יֶחְמְר֣וּ",
+      "gloss": "hu-fukoza"
+    },
+    {
+      "surface": "מֵימָ֑יו",
+      "gloss": "majińi yake"
+    },
+    {
+      "surface": "יִֽרְעֲשֽׁוּ",
+      "gloss": "huo-tikisika"
+    },
+    {
+      "surface": "הָרִ֖ים",
+      "gloss": "milima"
+    },
+    {
+      "surface": "בְּגַאֲוָת֣וֹ",
+      "gloss": "kwa kiburi chake"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T17:53:26.227850542Z",
+  "model": "glm-5.2"
+}

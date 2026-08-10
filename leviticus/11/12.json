@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Vyote visivyo na mapezi na magamba katika maji, ni chukizo kwenu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Vyote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "visivyo na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "havina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kwake⟩"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "mapezi"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "na magamba"
+    },
+    {
+      "surface": "במים",
+      "gloss": "katika maji"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "chukizo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:24.227764812Z",
+  "model": "glm-5.2"
+}

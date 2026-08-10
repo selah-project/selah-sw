@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Wakasahau ⟨את⟩ Yahweh Elohim wao, naye akawauza ⟨אתם⟩ kwenye mkono wa Sisera, jeshi la Hazor, na kwenye mkono wa Wapelishti, na kwenye mkono wa mfalme wa Moabu, nao wakapigana nao.",
+  "tokens": [
+    {
+      "surface": "וַֽיִּשְׁכְּח֖וּ",
+      "gloss": "Wakasahau"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶ֑ם",
+      "gloss": "Elohim wao"
+    },
+    {
+      "surface": "וַיִּמְכֹּ֣ר",
+      "gloss": "naye akauza"
+    },
+    {
+      "surface": "אֹתָ֡ם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "בְּיַ֣ד",
+      "gloss": "kwenye mkono wa"
+    },
+    {
+      "surface": "סִֽיסְרָא֩",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שַׂר",
+      "gloss": "jeshi"
+    },
+    {
+      "surface": "צְבָ֨א",
+      "gloss": "la"
+    },
+    {
+      "surface": "חָצ֜וֹר",
+      "gloss": "Hatzor"
+    },
+    {
+      "surface": "וּבְיַד",
+      "gloss": "na kwenye mkono wa"
+    },
+    {
+      "surface": "פְּלִשְׁתִּ֗ים",
+      "gloss": "Wapelishti"
+    },
+    {
+      "surface": "וּבְיַד֙",
+      "gloss": "na kwenye mkono wa"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מוֹאָ֔ב",
+      "gloss": "wa Moabu"
+    },
+    {
+      "surface": "וַיִּֽלָּחֲמ֖וּ",
+      "gloss": "nao wakapigana"
+    },
+    {
+      "surface": "בָּֽם",
+      "gloss": "nao"
+    }
+  ],
+  "timestamp": "2026-08-10T18:03:01.261160635Z",
+  "model": "glm-5.2"
+}

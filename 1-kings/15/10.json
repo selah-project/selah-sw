@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Na miaka arobaini na moja alitawala huko Yerushalayim, na jina la mama yake ⟨lilikuwa⟩ Ma'akha binti Avishalom.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "Na arobaini"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "na moja"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "alitawala"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "huko Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na jina la"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama yake"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Ma'akha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avishalom"
+    }
+  ],
+  "timestamp": "2026-08-10T11:42:19.178311964Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "Nitasema kwa kaskazini: Toa! na kwa kusini: Usizuieni! Toaeni wana wangu kutoka mbali, na binti zangu kutoka ncha za nchi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Nitasema"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "kwa kaskazini"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Toa!"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "na kwa kusini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "zuieni"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "Toaeni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wangu"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kutoka mbali"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "na binti zangu"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kutoka ncha za"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:42.175793171Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 81,
+  "translation": "Asiweko ⟨kama⟩ mungu wa kigeni kati yako; wala usisujudu kwa mungu wa kigeni.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Asiweko"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨kama⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kati yako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mungu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "wa kigeni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala usi"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "sujudu"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kwa mungu"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wa kigeni"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:21.754002526Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Kamba za Sheol zilinizunguka, mitego ya mauti ilinitangulia.",
+  "tokens": [
+    {
+      "surface": "חֶבְלֵ֣י",
+      "gloss": "kamba za"
+    },
+    {
+      "surface": "שְׁא֣וֹל",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "סְבָב֑וּנִי",
+      "gloss": "zilinizunguka"
+    },
+    {
+      "surface": "קִ֝דְּמ֗וּנִי",
+      "gloss": "ilinitangulia"
+    },
+    {
+      "surface": "מ֣וֹקְשֵׁי",
+      "gloss": "mitego ya"
+    },
+    {
+      "surface": "מָֽוֶת",
+      "gloss": "mauti"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:44.250497768Z",
+  "model": "glm-5.2"
+}

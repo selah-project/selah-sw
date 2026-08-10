@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Basi mfalme akafa, na ⟨aliuletwa⟩ Shomeroni, na wakamzika ⟨את⟩ mfalme huko Shomeroni.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "na akafa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "na akaletwa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroni"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "na wakamzika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfalme"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "huko Shomeroni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:45:12.311554037Z",
+  "model": "glm-5.2"
+}

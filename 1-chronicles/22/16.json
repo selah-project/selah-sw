@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 22:16",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Kwa dhahabu, kwa fedha, na kwa shaba, na kwa chuma, hakuna hesabu; tengamaa ufanye, naye Yahweh ⟨na⟩ awe pamoja nawe.",
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "kwa dhahabu"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "kwa fedha"
+    },
+    {
+      "surface": "ולנחשת",
+      "gloss": "na kwa shaba"
+    },
+    {
+      "surface": "ולברזל",
+      "gloss": "na kwa chuma"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "hesabu"
+    },
+    {
+      "surface": "קום",
+      "gloss": "tengamaa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ufanye"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "naye awe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pamoja nawe"
+    }
+  ],
+  "timestamp": "2026-08-10T14:10:44.748023110Z",
+  "model": "glm-5.2"
+}

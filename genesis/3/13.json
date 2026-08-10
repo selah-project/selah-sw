@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Yahweh Elohim akamwambia mwanamke: Nini hili umefanya? Na mwanamke akasema: Nyoka alinidanganya, nikala.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kwa mwanamke"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hili"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "umefanya"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "nyoka"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "alinidanganya"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "nikala"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:43.546764703Z",
+  "model": "glm-5.2"
+}

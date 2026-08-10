@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Kwa maana majivu kama mikate nilikuwa nimeya, na kinywaji changu kwa machozi nilikiwasha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "majivu"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "kama mikate"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "nilikuwa nimeya"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "na kinywaji changu"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "kwa machozi"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "nilikiwasha"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:48.013279295Z",
+  "model": "glm-5.2"
+}

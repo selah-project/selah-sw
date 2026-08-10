@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Na mtumute ⟨את⟩ Yahweh Elohim wenu, naye atabariki ⟨את⟩ mikate yenu na ⟨את⟩ maji yenu, nami nitaondoa ugonjwa kutoka katikati yenu.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "Na mtumute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wenu"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "naye atabariki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikate yenu"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "mikate yenu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maji yenu"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "maji yenu"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "nami nitaondoa"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "ugonjwa"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "katikati yenu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:52:44.448888226Z",
+  "model": "glm-5.2"
+}

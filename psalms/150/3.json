@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 150,
+  "translation": "Msifuni ⟨yeye⟩ kwa mpigo wa shofar; msifuni ⟨yeye⟩ kwa nevel na kinora.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "kwa mpigo"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "wa shofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "kwa nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "na kinora"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:41.308266066Z",
+  "model": "glm-5.2"
+}

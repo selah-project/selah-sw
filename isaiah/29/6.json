@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 29:6",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Kwa upande wa Yahweh Tsevaot ⟨utatembelewa⟩ kwa ngurumo na kwa tetemeko na sauti kubwa, dhoruba na tufani na mwali wa moto unaomeza.",
+  "tokens": [
+    {
+      "surface": "מעם",
+      "gloss": "kwa upande wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "⟨utatembelewa⟩"
+    },
+    {
+      "surface": "ברעם",
+      "gloss": "kwa ngurumo"
+    },
+    {
+      "surface": "וברעש",
+      "gloss": "na kwa tetemeko"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "na sauti"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "dhoruba"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "na tufani"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "na mwali"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wa moto"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "unaomeza"
+    }
+  ],
+  "timestamp": "2026-08-10T15:05:49.725693908Z",
+  "model": "glm-5.2"
+}

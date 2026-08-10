@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 118,
+  "translation": "Walinizunguka kama nyuki; walizimika kama moto wa miiba; kwa jina la Yahweh ⟨niwakate⟩",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "walinizunguka"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "kama nyuki"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "walizimika"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "kama moto"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "wa miiba"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "kwa jina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "⟨niwakate⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:57.853853806Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 14:12",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na watu wa kituo wakamwitikia ⟨את⟩ Yehonatani na ⟨את⟩ bebaji silaha zake, wakisema: \"Pandeni juu kwetu tutakapowajulizeni jambo.\" Na Yehonatani akamwambia bebaji silaha zake: \"Panda nyuma yangu, kwa kuwa Yahweh amewatia mkononi mwa Yisraeli.\"",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "wakamwitikia"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "watu"
+    },
+    {
+      "surface": "המצבה",
+      "gloss": "wa kituo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonatani"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bebaji silaha zake"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bebaji"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "silaha zake"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wakisema"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Pandeni"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "juu kwetu"
+    },
+    {
+      "surface": "ונודיעה",
+      "gloss": "tutakapowajulizeni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninyi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bebaji"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "silaha zake"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Panda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma yangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "amewatia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mkononi mwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-08-10T11:23:01.862780772Z",
+  "model": "glm-5.2"
+}

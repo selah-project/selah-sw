@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Kutenda mapenzi yako, Elohim wangu, nimependa; na torati yako ⟨i⟩ ndani ya matumbo yangu.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "kutenda"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "mapenzi yako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wangu"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "nimependa"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "na torati yako"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ndani ya"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "matumbo yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:47.168941776Z",
+  "model": "glm-5.2"
+}

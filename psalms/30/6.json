@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Kwa maana ⟨ni⟩ muda mfupi ⟨ghasha⟩ lake, ⟨lakini⟩ uzima ⟨umo⟩ katika mapendezo yake; jioni anaishi kilio, na asubuhi ⟨huja⟩ shangwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "muda mfupi"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ghasha lake"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "uzima"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "katika mapendezo yake"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "jioni"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "anaishi"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "kilio"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "na asubuhi"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "shangwe"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:24.454121176Z",
+  "model": "glm-5.2"
+}

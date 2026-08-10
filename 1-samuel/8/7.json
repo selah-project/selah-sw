@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Yahweh akamwambia Shemuel: Sikiliza sauti ya watu kwa yote watakayokuambia; maana hawakukataa ⟨את⟩ wewe, bali ⟨את⟩ mimi wamekataa, nisiwao kuwa mfalme juu yao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Sikiliza"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya watu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa yote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "watakayo"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "waambiao"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wewe"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "wamekataa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bali"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mimi"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "wamekataa"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "nisiwao kuwa mfalme"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "juu yao"
+    }
+  ],
+  "timestamp": "2026-08-10T11:20:25.135332691Z",
+  "model": "glm-5.2"
+}

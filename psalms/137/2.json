@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 137,
+  "translation": "Juu ya matawi ya-mitende-ya-mafuta katikati yake tuliyatundika zetu zinoti.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "mitende-ya-mafuta"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "katikati yake"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "tuliyatundika"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "zinoti zetu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:53.721714285Z",
+  "model": "glm-5.2"
+}

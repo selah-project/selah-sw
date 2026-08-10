@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Akasema: Njia gani tuipande? Akasema: Njia ya jangwa la Edomu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אי",
+      "gloss": "gani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "njia"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "tuipande"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njia"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ya jangwa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "la Edomu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:45:59.807435690Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na Shemueli akaondoka, naye akapanda kutoka HaGilgali akaenda Givathi ya Binyamini; na Shauli akaihesabu ⟨את⟩ jumuia walio pamoja naye, kama watu mia sita.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Na akaondoka"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "naye akapanda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "HaGilgali"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Givathi"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ya Binyamini"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "na akaihesabu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jumuia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "jumuia"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "walio"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja naye"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "kama"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "watu sita"
+    }
+  ],
+  "timestamp": "2026-08-10T14:53:06.048026396Z",
+  "model": "glm-5.2"
+}

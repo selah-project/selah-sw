@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Nami nitavunja ⟨את⟩ kiburi cha nguvu zenu, nami nitaweka ⟨את⟩ mbingu zenu kama chuma, na ⟨את⟩ nchi yenu kama shaba.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "nami nitavunja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiburi cha nguvu zenu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kiburi"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "cha nguvu zenu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "nami nitaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbingu zenu"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "mbingu zenu"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "kama chuma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nchi yenu"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "nchi yenu"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "kama shaba"
+    }
+  ],
+  "timestamp": "2026-08-10T14:36:24.950072016Z",
+  "model": "glm-5.2"
+}

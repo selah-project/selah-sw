@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 64,
+  "translation": "Mwenye haki atafurahi katika Yahweh, na kujifungia ndani yake; na kujisifu watajisifu wote wenye moyo wa kweli.",
+  "tokens": [
+    {
+      "surface": "יִשְׂמַ֬ח",
+      "gloss": "atafurahi"
+    },
+    {
+      "surface": "צַדִּ֣יק",
+      "gloss": "Mwenye haki"
+    },
+    {
+      "surface": "בַּ֭יהוָה",
+      "gloss": "katika Yahweh"
+    },
+    {
+      "surface": "וְחָ֣סָה",
+      "gloss": "na kujifungia"
+    },
+    {
+      "surface": "ב֑וֹ",
+      "gloss": "ndani yake"
+    },
+    {
+      "surface": "וְ֝יִתְהַֽלְל֗וּ",
+      "gloss": "na kujisifu watajisifu"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "יִשְׁרֵי",
+      "gloss": "wenye"
+    },
+    {
+      "surface": "לֵֽב",
+      "gloss": "moyo wa kweli"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:54.631304844Z",
+  "model": "glm-5.2"
+}

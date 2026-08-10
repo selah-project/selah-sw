@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "na ⟨את⟩ Mchiwvi na ⟨את⟩ Mki na ⟨את⟩ Msini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mchiwvi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Mchiwvi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Mki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Msini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Msini"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:34.757246046Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Akawapa ombi lao, akatuma udhabivu ndani ya nafsi zao.",
+  "tokens": [
+    {
+      "surface": "וַיִּתֵּ֣ן",
+      "gloss": "akawapa"
+    },
+    {
+      "surface": "לָהֶ֭ם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "שֶׁאֱלָתָ֑ם",
+      "gloss": "ombi lao"
+    },
+    {
+      "surface": "וַיְשַׁלַּ֖ח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "רָז֣וֹן",
+      "gloss": "udhabivu"
+    },
+    {
+      "surface": "בְּנַפְשָֽׁם",
+      "gloss": "ndani ya nafsi zao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:30.034732737Z",
+  "model": "glm-5.2"
+}

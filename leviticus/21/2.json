@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "isipokuwa kwa jamaa yake wa karibu aliye karibu naye: kwa mama yake, na kwa baba yake, na kwa mwanawe, na kwa binti yake, na kwa nduguye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨yaani⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "isipokuwa"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "kwa jamaa yake"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "wa karibu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aliye karibu naye"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "kwa mama yake"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "na kwa baba yake"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "na kwa mwanawe"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "na kwa binti yake"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "na kwa nduguye"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:44.320172834Z",
+  "model": "glm-5.2"
+}

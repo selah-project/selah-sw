@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na kwa Sheth, yeye pia alizaliwa mwana, akaita ⟨את⟩ jina lake Enoshi. hapo ndipo ilipoanza kuitwa kwa jina la Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "na kwa Sheth"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "alizaliwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na akaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina lake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoshi"
+    },
+    {
+      "surface": "אז",
+      "gloss": "hapo"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "ilianza"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "kuitwa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "kwa jina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:02.125222486Z",
+  "model": "glm-5.2"
+}

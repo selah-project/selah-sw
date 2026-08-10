@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na Shaul akawatuma wajumbe kuchukua ⟨את⟩ David, naye ⟨akasema⟩: Mgonjwa yeye.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Na akawatuma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "wajumbe"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "kuchukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "naye akasema"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "mgonjwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T11:25:09.394691342Z",
+  "model": "glm-5.2"
+}

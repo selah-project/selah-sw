@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 55,
+  "translation": "Moyo wangu unatingishika ndani yangu, na mahofu ya mauti yameanguka juu yangu.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "unatingishika"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ndani yangu"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "na mahofu ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mauti"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "yameanguka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:07.950547157Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Yahweh peke yake anamwongoza, na hapana ⟨mungu⟩ wa kigeni pamoja naye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YaHWeH"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "peke yake"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "anamwongoza"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na hapana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja naye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨mungu⟩"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wa kigeni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:04:07.780117933Z",
+  "model": "glm-5.2"
+}

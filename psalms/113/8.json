@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 113,
+  "translation": "ili kumweka pamoja na wakuu, pamoja na wakuu wa taifa lake?",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "ili kumweka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "wakuu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "wakuu wa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "taifa lake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:10.499840032Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 116,
+  "translation": "Tafadhali, ee Yahweh, kwa kuwa mimi ni mtumishi wako, mimi ni mtumishi wako, mwana wa mjakazi wako, umefungua ⟨kwa⟩ minyororo yangu.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ee Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ni mtumishi wako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ni mtumishi wako"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "wa mjakazi wako"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "umefungua"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "⟨kwa⟩ minyororo yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:40.013178192Z",
+  "model": "glm-5.2"
+}

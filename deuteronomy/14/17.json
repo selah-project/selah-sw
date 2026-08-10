@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "na ⟨pio⟩, na ⟨את⟩ tai-mkubwa, na ⟨את⟩ kunguru-maji",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "na pio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tai-mkubwa"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "tai-mkubwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kunguru-maji"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "kunguru-maji"
+    }
+  ],
+  "timestamp": "2026-08-10T10:57:34.325118630Z",
+  "model": "glm-5.2"
+}

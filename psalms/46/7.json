@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 46,
+  "translation": "Mataifa yashtukuma, ufalme u tetereke; ⟨yeye⟩ anatoa sauti yake, nchi inyeye.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "yashtukuma"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Mataifa"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "u tetereke"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ufalme"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anatoa"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "sauti yake"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "inyeye"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:05.272562616Z",
+  "model": "glm-5.2"
+}

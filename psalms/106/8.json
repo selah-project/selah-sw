@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Naye akawaokoa kwa ajili ya jina lake, kuonyesha ⟨את⟩ nguvu zake.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "naye akawaokoa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "kuonyesha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguvu zake"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "nguvu zake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:28.879668275Z",
+  "model": "glm-5.2"
+}

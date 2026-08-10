@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Wakati wa kutafuta, na wakati wa kupoteza; wakati wa kuhifadhi, na wakati wa kutupa.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "wa kutafuta"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na wakati"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "wa kupoteza"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "wa kuhifadhi"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na wakati"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "wa kutupa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:13.066912150Z",
+  "model": "glm-5.2"
+}

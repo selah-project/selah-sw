@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 14:16",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Yehoash akalala na baba zake, akazikwa Shomroni pamoja na wafalme wa Yisra'el; Yarov'am mwana wake akatawala badala yake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "akalala"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baba zake"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "akazikwa"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomroni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akatawala"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarov'am"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "wake badala yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:49:26.771197203Z",
+  "model": "glm-5.2"
+}

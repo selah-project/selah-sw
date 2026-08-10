@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 62,
+  "translation": "Hakika kwa Elohim, ene nafsi yangu, nyamaza; kwa kuwa kutoka kwake ⟨⟨huoko⟩⟩ matumaini yangu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "nyamaza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kutoka kwake"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "matumaini yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:13.474758263Z",
+  "model": "glm-5.2"
+}

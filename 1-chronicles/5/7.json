@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 5:7",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na ndugu zake, kwa koo zao, katika kuandikwa kwa vizazi vyao: mkuu Yeeli, na Zekaryahu.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "Na ndugu zake"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "kwa koo zao"
+    },
+    {
+      "surface": "בהתיחש",
+      "gloss": "katika kuandikwa"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "kwa vizazi vyao"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Yeeli"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "na Zekaryahu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:04:28.278432404Z",
+  "model": "glm-5.2"
+}

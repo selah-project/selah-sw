@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 6:19",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na debiri aliuliandalia ndani ya ⟨nyumba⟩, upande wa ndani, ili kuweka huko ⟨את⟩ sanda la mapatano la Yahweh.",
+  "tokens": [
+    {
+      "surface": "ודביר",
+      "gloss": "Na debiri"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ndani ya"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨nyumba⟩"
+    },
+    {
+      "surface": "מפנימה",
+      "gloss": "upande wa ndani"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "aliuliandalia"
+    },
+    {
+      "surface": "לתתן",
+      "gloss": "ili kuweka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanda la mapatano"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "la mapatano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T11:38:40.772792293Z",
+  "model": "glm-5.2"
+}

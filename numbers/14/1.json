@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na akainua ⟨sauti yake⟩ jumuiya yote, wakatoa ⟨את⟩ sauti yao, na watu wakalia usiku huo.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "na akainua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jumuiya"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "wakatoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauti yao"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sauti yao"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "na wakalia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "huo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:44:48.987692448Z",
+  "model": "glm-5.2"
+}

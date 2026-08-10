@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Haya yote niliyajaribu kwa hekima; nilisema, Nitakuwa mwenye hekima, lakini ⟨hiyo⟩ ⟨ilikuwa⟩ mbali nami.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Haya"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "niliyajaribu"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "kwa hekima"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nilisema"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "Nitakuwa mwenye hekima"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "lakini ⟨hiyo⟩"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "mbali"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nami"
+    }
+  ],
+  "timestamp": "2026-08-10T15:37:51.145446158Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 99,
+  "translation": "Yahweh amefanywa mfalme — watu watawaka wanyonge; ⟨ye⟩ anakaa ⟨juu ya⟩ kerubimu — ⟨na⟩ nchi itatetemeka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "amefanywa mfalme"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "watawaka wanyonge"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "anakaa"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubimu"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "itatetemeka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:16.982498894Z",
+  "model": "glm-5.2"
+}

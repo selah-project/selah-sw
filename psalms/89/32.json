@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "ikiwa huqoti zangu watapotosha, na mitswoti yangu wasizihifadhi;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ikiwa"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "huqoti zangu"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "watapotosha"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "na mitswoti yangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "wasizihifadhi"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:31.755520410Z",
+  "model": "glm-5.2"
+}

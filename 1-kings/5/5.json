@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Yehudah na Yisrael walikaa kwa usalama, kila mtu chini ya mizabibu wake na chini ya mtini wa kuyuyu, kutoka Dan hadi Be'er-Sheva, siku zote za Shelomo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "walikaa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na Yisrael"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "kwa usalama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "mzabibu wake"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "na chini ya"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "mtini wa kuyuyu"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "kutoka Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "siku"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "za Shelomo"
+    }
+  ],
+  "timestamp": "2026-08-10T11:38:33.478260519Z",
+  "model": "glm-5.2"
+}

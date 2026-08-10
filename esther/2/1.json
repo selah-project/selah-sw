@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Baada ya mambo haya, ghadhabu ya mfalme Achashverosh ilipotulia, ⟨aliikumbuka⟩ ⟨את⟩ Vashti na ⟨את⟩ yaliyofanywa na ⟨את⟩ yaliyoamriwa juu yake.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "ilipotulia"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ghadhabu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mfalme"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "⟨alikumbuka⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vashti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yaliyofanywa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaliyo"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "yafanywa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yaliyoamriwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaliyo"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "amriwa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "juu yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:38:23.424608836Z",
+  "model": "glm-5.2"
+}

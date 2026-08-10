@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na mfalme akajibu akasema: Mpeni yeye ⟨את⟩ mtoto aliyezaliwa aliye hai, na yule aliyekufa, msimwuwe; yeye ni mama yake.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Na akajibu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Mpeni"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtoto aliyezaliwa"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "mtoto aliyezaliwa"
+    },
+    {
+      "surface": "החי",
+      "gloss": "aliye hai"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "na yule aliyekufa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "mwue"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ni mama yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:38:11.468808108Z",
+  "model": "glm-5.2"
+}

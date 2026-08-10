@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "Mitoshe yote yaasi zangu uniokoe; maudhi ya mpumbavu usiniweke.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "toka kwa yote"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "asi zangu"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "uniokoe"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "maudhi ya"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "mpumbavu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "usiniweke"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:19.406318986Z",
+  "model": "glm-5.2"
+}

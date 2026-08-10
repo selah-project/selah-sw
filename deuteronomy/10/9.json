@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 10:9",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Kwa hiyo haikuwa ⟨kupatikana⟩ kwa Levi sehemu wala urithi pamoja na ndugu zake; Yahweh yeye ndiye urithi wake, kama alivyosema Yahweh Elohim wako kwake.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ikuwa"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "kupatikana kwa Levi"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "sehemu"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "wala urithi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "urithi wake"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alivyosema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:42:27.886250370Z",
+  "model": "glm-5.2"
+}

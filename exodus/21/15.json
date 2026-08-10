@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na anayempiga baba yake na mama yake, kufa atafiwa.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Na anayempiga"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "na mama yake"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "atafiwa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:29:44.621030768Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Heshimu ⟨את⟩ baba yako na ⟨את⟩ mama yako, ili siku zako ziwe ndefu juu ya ardhi ambayo Yahweh Elohim wako anakupa.",
+  "tokens": [
+    {
+      "surface": "כַּבֵּ֥ד",
+      "gloss": "Heshimu"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "baba yako"
+    },
+    {
+      "surface": "אָבִ֖יךָ",
+      "gloss": "baba yako"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mama yako"
+    },
+    {
+      "surface": "אִמֶּ֑ךָ",
+      "gloss": "mama yako"
+    },
+    {
+      "surface": "לְמַ֨עַן֙",
+      "gloss": "ili"
+    },
+    {
+      "surface": "יַאֲרִכ֣וּן",
+      "gloss": "ziwe ndefu"
+    },
+    {
+      "surface": "יָמֶ֔יךָ",
+      "gloss": "siku zako"
+    },
+    {
+      "surface": "עַ֚ל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הָאֲדָמָ֔ה",
+      "gloss": "ardhi"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶ֖יךָ",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "נֹתֵ֥ן",
+      "gloss": "anakupa"
+    },
+    {
+      "surface": "לָֽךְ",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-10T10:23:01.995577974Z",
+  "model": "glm-5.2"
+}

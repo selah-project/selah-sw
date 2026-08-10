@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na wana wa Yisrael wakawapa Walawi kutoka urithi wao, kulingana na neno la Yahweh, ⟨את⟩ miji hii na ⟨את⟩ malisho yake.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Wakawapa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Walawi"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "kutoka urithi wao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kulingana na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "neno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miji hii"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "miji"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "malisho yake"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "malisho yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:10:50.366106436Z",
+  "model": "glm-5.2"
+}

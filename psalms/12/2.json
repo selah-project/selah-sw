@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Okoa, Yahweh, kwani mtu wa chesed amekwisha, kwani waaminifu wamepotea miongoni mwa wana wa adamu.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Okoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "amekwisha"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "mtu wa chesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "wamepotea"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "waaminifu"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "miongoni mwa wana wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:48.836177316Z",
+  "model": "glm-5.2"
+}

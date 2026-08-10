@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Wakati wa kutupa mawe, na wakati wa kukusanya mawe; wakati wa kukumbatia, na wakati wa kujitenga na kukumbatia.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "wa kutupa"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mawe"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na wakati"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "wa kukusanya"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mawe"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "wa kukumbatia"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na wakati"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "wa kujitenga"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "na kukumbatia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:13.066667151Z",
+  "model": "glm-5.2"
+}

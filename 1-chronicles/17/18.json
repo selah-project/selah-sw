@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Davidi atazidisha nini zaidi ⟨kuelekea⟩ wako kwa ajili ya utukufu, ⟨את⟩ mtumako? Na wewe, ⟨את⟩ mtumako umemjua.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "atazidisha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zaidi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuelekea wako"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "kwa ajili ya utukufu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtumako"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mtumako"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtumako"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mtumako"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "umemjua"
+    }
+  ],
+  "timestamp": "2026-08-10T14:09:27.471094678Z",
+  "model": "glm-5.2"
+}

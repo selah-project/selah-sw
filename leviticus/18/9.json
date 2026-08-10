@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Ua dhihirisho la uchi wa dada yako, binti wa baba yako au binti wa mama yako, aliyezaliwa ⟨kwenye⟩ nyumba au aliyezaliwa nje, la, hutadhiri uchi wao.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ucha-dhihirisho-la"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "dada yako"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba yako"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mama yako"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "aliyezaliwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "aliyezaliwa"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "nje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "la"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "hutadhiri"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "uchi wao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:54:40.202368103Z",
+  "model": "glm-5.2"
+}

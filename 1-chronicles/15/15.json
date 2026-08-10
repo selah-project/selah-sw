@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Na wana wa Lowi wakibeba ⟨את⟩ safina ya Elohim, kama alivyokataza Moshe, kulingana na neno la Yahweh, kwa mabega yao, kwa fito juu yao.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "wakibeba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "wa Lowi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "safina"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "safina"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alivyokataza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kulingana na neno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "kwa mabega yao"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "kwa fito"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "juu yao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:08:21.096671013Z",
+  "model": "glm-5.2"
+}

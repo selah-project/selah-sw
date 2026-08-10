@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 88,
+  "translation": "Nimehesabiwa pamoja na wanaoshuka kwenye shimo, nimekuwa kama jamaa asiye na nguvu.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "nimehesabiwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "wanaoshuka"
+    },
+    {
+      "surface": "בור",
+      "gloss": "kwenye shimo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nimekuwa"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "kama jamaa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "asiye na"
+    },
+    {
+      "surface": "איל",
+      "gloss": "nguvu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:47.497701569Z",
+  "model": "glm-5.2"
+}

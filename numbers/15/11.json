@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Hivyo ndivyo itakavyofanywa kwa ng'ombe mmoja, au kwa mbuzi dume mmoja, au kwa mwana-kondoo miongoni mwa kondoo au miongoni mwa mbuzi.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "hivyo ndivyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "itakavyofanywa"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "kwa ng'ombe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "kwa mbuzi dume"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "kwa mwana-kondoo"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "miongoni mwa kondoo"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "miongoni mwa mbuzi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:46:13.441183181Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Upanga ⟨umo⟩ nje, tauni njaa ndani; yule aliye shambani kwa upanga atakufa, na yule aliye mjini, njaa na tauni watamla.",
+  "tokens": [
+    {
+      "surface": "הַחֶ֣רֶב",
+      "gloss": "upanga"
+    },
+    {
+      "surface": "בַּח֔וּץ",
+      "gloss": "nje"
+    },
+    {
+      "surface": "וְהַדֶּ֥בֶר",
+      "gloss": "tauni"
+    },
+    {
+      "surface": "וְהָרָעָ֖ב",
+      "gloss": "njaa"
+    },
+    {
+      "surface": "מִבָּ֑יִת",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "yule aliye"
+    },
+    {
+      "surface": "בַּשָּׂדֶה֙",
+      "gloss": "shambani"
+    },
+    {
+      "surface": "בַּחֶ֣רֶב",
+      "gloss": "kwa upanga"
+    },
+    {
+      "surface": "יָמ֔וּת",
+      "gloss": "atakufa"
+    },
+    {
+      "surface": "וַאֲשֶׁ֣ר",
+      "gloss": "na yule aliye"
+    },
+    {
+      "surface": "בָּעִ֔יר",
+      "gloss": "mjini"
+    },
+    {
+      "surface": "רָעָ֥ב",
+      "gloss": "njaa"
+    },
+    {
+      "surface": "וָדֶ֖בֶר",
+      "gloss": "na tauni"
+    },
+    {
+      "surface": "יֹאכֲלֶֽנּוּ",
+      "gloss": "watamla"
+    }
+  ],
+  "timestamp": "2026-08-10T12:28:01.575966456Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Mimi ni mtumishi wako;nifanye nielewe, ili nijue mashahada yako.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "mtumishi wako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "nifanye nielewe"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "ili nijue"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "mashahada yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:11.360592014Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Baadaye watakaorudi wanawe wa Yisra'el, na watamtafuta ⟨את⟩ Yahweh Elohim wao, na ⟨את⟩ David mfalme wao, na watatetremeka kwa Yahweh na kwa wema wake, mwishoni wa siku.",
+  "tokens": [
+    {
+      "surface": "אַחַ֗ר",
+      "gloss": "Baadaye"
+    },
+    {
+      "surface": "יָשֻׁ֨בוּ֙",
+      "gloss": "watakaorudi"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "וּבִקְשׁוּ֙",
+      "gloss": "na watamtafuta"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim wao"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶ֔ם",
+      "gloss": "Elohim wao"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "na ⟨את⟩",
+      "marks": "David mfalme wao"
+    },
+    {
+      "surface": "דָּוִ֣ד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מַלְכָּ֑ם",
+      "gloss": "mfalme wao"
+    },
+    {
+      "surface": "וּפָחֲד֧וּ",
+      "gloss": "na watatetremeka"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "טוּב֖וֹ",
+      "gloss": "wema wake"
+    },
+    {
+      "surface": "בְּאַחֲרִ֥ית",
+      "gloss": "mwishoni wa"
+    },
+    {
+      "surface": "הַיָּמִֽים",
+      "gloss": "siku"
+    }
+  ],
+  "timestamp": "2026-08-10T12:40:36.972090403Z",
+  "model": "glm-5.2"
+}

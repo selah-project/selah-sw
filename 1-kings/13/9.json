@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Kwa kuwa vivyo hivyo aliniamuru ⟨kwa⟩ neno la Yahweh, akisema: Usile mikate, wala usinywe maji, wala usirudi njia ile uliyokuja.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "כֵ֣ן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "צִוָּ֣ה",
+      "gloss": "aliniamuru"
+    },
+    {
+      "surface": "אֹתִ֗י",
+      "gloss": "⟨את⟩",
+      "marks": "neno"
+    },
+    {
+      "surface": "בִּדְבַ֤ר",
+      "gloss": "kwa neno"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לֵאמֹ֔ר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תֹ֥אכַל",
+      "gloss": "le"
+    },
+    {
+      "surface": "לֶ֖חֶם",
+      "gloss": "mikate"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "wala usi"
+    },
+    {
+      "surface": "תִשְׁתֶּה",
+      "gloss": "nywe"
+    },
+    {
+      "surface": "מָּ֑יִם",
+      "gloss": "maji"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "wala usi"
+    },
+    {
+      "surface": "תָשׁ֔וּב",
+      "gloss": "rudi"
+    },
+    {
+      "surface": "בַּדֶּ֖רֶךְ",
+      "gloss": "njia"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "ile"
+    },
+    {
+      "surface": "הָלָֽכְתָּ",
+      "gloss": "uliyokuja"
+    }
+  ],
+  "timestamp": "2026-08-10T11:41:59.492521905Z",
+  "model": "glm-5.2"
+}

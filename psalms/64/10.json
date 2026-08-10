@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 64,
+  "translation": "Na wataogopa binadamu wote, na watatangaza kazi ya Elohim, na tendo lake watafahamu.",
+  "tokens": [
+    {
+      "surface": "וַיִּֽירְא֗וּ",
+      "gloss": "Na wataogopa"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "אָ֫דָ֥ם",
+      "gloss": "binadamu"
+    },
+    {
+      "surface": "וַ֭יַּגִּידוּ",
+      "gloss": "na watatangaza"
+    },
+    {
+      "surface": "פֹּ֥עַל",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "אֱלֹהִ֗ים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "וּֽמַעֲשֵׂ֥הוּ",
+      "gloss": "na tendo lake"
+    },
+    {
+      "surface": "הִשְׂכִּֽילוּ",
+      "gloss": "watafahamu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:54.631146765Z",
+  "model": "glm-5.2"
+}

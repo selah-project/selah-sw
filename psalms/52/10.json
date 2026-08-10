@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 52,
+  "translation": "Bali mimi ni kama mti wa mzeituni ulio kijani nyumbani pa Elohim; ninamtumainia chesed cha Elohim milele na hata milele.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Bali mimi"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "kama mti wa mzeituni"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ulio kijani"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nyumbani pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ninamtumainia"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "chesed cha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na hata milele"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:02.861831425Z",
+  "model": "glm-5.2"
+}

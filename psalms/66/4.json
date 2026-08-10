@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 66,
+  "translation": "Nchi yote itakuinama, na kukupigia muziki, watakupigia muziki jina lako. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "⟨yote⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Nchi"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "itakuinama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa wewe"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "na kukupigia muziki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa wewe"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "watakupigia muziki"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:18.741342032Z",
+  "model": "glm-5.2"
+}

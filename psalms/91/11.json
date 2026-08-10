@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 91,
+  "translation": "Kwa kuwa wajumbe wake ataamuru ⟨kuhusu⟩ wewe, wa kukuza katika njia zako zote.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "wajumbe wake"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "ataamuru"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuhusu wewe"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "wa kukuza"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika zote"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "njia zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:23.696198146Z",
+  "model": "glm-5.2"
+}

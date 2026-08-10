@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Ikawa mwishoni wa miaka ishirini ambayo Shelomoh aliujenga ⟨את⟩ nyumba mbili: ⟨את⟩ nyumba ya Yahweh na ⟨את⟩ nyumba ya mfalme.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ikawa"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "mwishoni wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ishirini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "aliujenga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba mbili"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba ya Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyumba ya mfalme"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T17:46:40.812893104Z",
+  "model": "glm-5.2"
+}

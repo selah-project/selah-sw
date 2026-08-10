@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Kwa kuwa Elohim ataokoa Tsiyoni, na kujenga miji ya Yehudah; na watakaa humo, na kuimiliki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ataokoa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "na kujenga"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miji"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehudah"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "na watakaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "humo"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "na kuimiliki"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:51.090385613Z",
+  "model": "glm-5.2"
+}

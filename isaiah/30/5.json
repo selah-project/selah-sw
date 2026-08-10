@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Wote watafedheheshwa ⟨kwa⟩ sababu ya watu wasiowafaa, si kwa msaada wala si kwa kufaa, bali ni kwa aibu, na hata kwa fedheha.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Wote"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "watafedheheshwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "watuisiowafaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "wasiowafaa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "kwa msaada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "kwa kufaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bali"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "ni kwa aibu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na hata"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "kwa fedheha"
+    }
+  ],
+  "timestamp": "2026-08-10T12:02:12.021455291Z",
+  "model": "glm-5.2"
+}

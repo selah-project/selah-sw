@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na mfalme akaondoa ⟨את⟩ pete yake ya muhuri, ambayo alikuwa ameiondoa kwa Hamani, na akampa Mordekai. Na Esteri akamweka Mordekai juu ya ⟨את⟩ nyumba ya Hamani.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Na akaondoa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pete yake ya muhuri"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "pete yake ya muhuri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "alikuwa ameiondoa"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "kwa Hamani"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "na akampa"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "Na akamweka"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ya Hamani"
+    }
+  ],
+  "timestamp": "2026-08-10T15:38:56.847498151Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Nami nitaondoa ⟨את⟩ mkono wangu, nawe utaona ⟨את⟩ migongo yangu, lakini uso wangu hauwezi kuonekana.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Nami nitaondoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wangu"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mkono wangu"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "nawe utaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "migongo yangu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "migongo yangu"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "lakini uso wangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hauwezi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "kuonekana"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:31.872308228Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 27:17",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Nguzo zote za ua pande zote ⟨zitakuwa⟩ zimefunikwa kwa fedha, naho vishikilio vyao ni fedha, na misingi yao ni shaba.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "nguzo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "za ua"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "pande zote"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "zimefunikwa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kwa fedha"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "naho vishikilio vyao"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fedaka"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "na misingi yao"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "shaba"
+    }
+  ],
+  "timestamp": "2026-08-10T14:31:29.907595781Z",
+  "model": "glm-5.2"
+}

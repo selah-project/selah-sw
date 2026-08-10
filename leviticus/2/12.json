@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Kama korbanu ya mazao ya kwanza mtaziletea ⟨את⟩ hizo kwa Yahweh, lakini ⟨hizo⟩ hazipandishwi juu ya madhabahu kwa harufu ya kupendeza.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "Kama korbanu"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ya mazao ya kwanza"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "mtaziletea"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hizo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lakini ⟨hizo⟩"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "juu ya madhabahu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hazipandishwi"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": ""
+    },
+    {
+      "surface": "לריח",
+      "gloss": "kwa harufu"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ya kupendeza"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:35.376561082Z",
+  "model": "glm-5.2"
+}

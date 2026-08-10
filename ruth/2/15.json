@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Naye akaondoka kwenda kukusanya, na Boazi akaamuru ⟨את⟩ vijana wake, akisema: Hata kati ya mikogo aweze kukusanya, wala msimdhulumi.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "Naye akaondoka"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "kwenda kukusanya"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "na akaamuru"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vijana wake"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "vijana wake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "mikogo"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "aweze kukusanya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "msimdhulumi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:44:03.348599127Z",
+  "model": "glm-5.2"
+}

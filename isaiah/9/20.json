@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Menashe ⟨את⟩ Efrayim, na Efrayim ⟨את⟩ Menashe; pamoja ⟨wao⟩ ⟨walikuwa⟩ dhidi ya Yehudah. Katika haya yote hasira yake hakyarudishwa, bado mkono wake umekunjuliwa.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "na Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wao"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhidi ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "haya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kyarudishwa"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hasira yake"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "bado"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "umekunjuliwa"
+    }
+  ],
+  "timestamp": "2026-08-10T16:06:13.044460778Z",
+  "model": "glm-5.2"
+}

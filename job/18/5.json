@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 18:5",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Hata nuru ya wabaya itazimika, na ⟨hakuna⟩ mwangaza wa kuwashwa kwa moto wake.",
+  "tokens": [
+    {
+      "surface": "גַּ֤ם",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "א֣וֹר",
+      "gloss": "nuru"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "ya wabaya"
+    },
+    {
+      "surface": "יִדְעָ֑ךְ",
+      "gloss": "itazimika"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "na ←hakuna"
+    },
+    {
+      "surface": "יִ֝גַּ֗הּ",
+      "gloss": "mwangaza"
+    },
+    {
+      "surface": "שְׁבִ֣יב",
+      "gloss": "wa kuwashwa"
+    },
+    {
+      "surface": "אִשּֽׁוֹ",
+      "gloss": "kwa moto wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:34:24.818357416Z",
+  "model": "glm-5.2"
+}

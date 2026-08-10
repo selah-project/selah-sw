@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Kwa kuwa Elohim anajua kwamba siku mtakapokula kutoka humo, macho yenu yatafunguliwa, nanyi mtakuwa kama Elohim, wajuzi wa jema na baya.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "יֹדֵעַ",
+      "gloss": "anajua"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "siku"
+    },
+    {
+      "surface": "אֲכָלְכֶם",
+      "gloss": "mtakapokula"
+    },
+    {
+      "surface": "מִמֶּנּוּ",
+      "gloss": "kutoka humo"
+    },
+    {
+      "surface": "וְנִפְקְחוּ",
+      "gloss": "yatafunguliwa"
+    },
+    {
+      "surface": "עֵינֵיכֶם",
+      "gloss": "macho yenu"
+    },
+    {
+      "surface": "וִהְיִיתֶם",
+      "gloss": "nanyi mtakuwa"
+    },
+    {
+      "surface": "כֵּאלֹהִים",
+      "gloss": "kama Elohim"
+    },
+    {
+      "surface": "יֹדְעֵי",
+      "gloss": "wajuzi"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "wa jema"
+    },
+    {
+      "surface": "וָרָע",
+      "gloss": "na baya"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:44.628304873Z",
+  "model": "glm-5.2"
+}

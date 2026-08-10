@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Naye akawaambia: Hapana, bali mmekuja kuona uchi wa nchi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akawaambia"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bali"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "uchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "mmekuja"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    }
+  ],
+  "timestamp": "2026-08-10T10:14:23.910569120Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 83,
+  "translation": "Elohim, usiwe kimy, usifiche ⟨kimy⟩, wala usitulie, ee El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usiwe"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "kimy"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "usifiche"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "⟨kimy⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wala usitulie"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "ee El"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:04.119653710Z",
+  "model": "glm-5.2"
+}

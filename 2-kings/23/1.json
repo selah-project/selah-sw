@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Na mfalume akatuma, wakakusanywa kwake wazee wote wa Yehudah na Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "na akatuma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalume"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "wakakusanywa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "wazee"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T15:04:24.818838931Z",
+  "model": "glm-5.2"
+}

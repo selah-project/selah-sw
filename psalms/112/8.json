@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 112,
+  "translation": "Moyo wake ⟨⟩ umeelemea, hatoghuriki hadi atakapoyaona ⟨⟩ wadogo wake.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "umeelemea"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatoghuriki"
+    },
+    {
+      "surface": "יירא",
+      "gloss": ""
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atakapo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "yaona"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "wadogo wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:26.509197817Z",
+  "model": "glm-5.2"
+}

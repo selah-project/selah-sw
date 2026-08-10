@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Ikawa baada ya kifo cha Shauli, na Davidi akarudi kutoka kumpiga ⟨את⟩ Amaleki, na Davidi akakaa Tziklagi siku mbili.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ikawa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kifo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "na Davidi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "akarudi"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "kutoka kumpiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleki"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na akakaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "Tziklagi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbili"
+    }
+  ],
+  "timestamp": "2026-08-10T11:29:38.928328487Z",
+  "model": "glm-5.2"
+}

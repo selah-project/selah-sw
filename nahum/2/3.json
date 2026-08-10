@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Maana Yahweh ameurudisha utukufu wa Yakov, kama vile utukufu wa Yisrael; maana waliowatenga wamewatenga, na mashina ya mizabibu wameyaharibu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ameurudisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utukufu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "utukufu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "kama vile utukufu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "waliowatenga"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "wamewatenga"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "na mashina ya mizabibu"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "wameyaharibu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:22:19.839963518Z",
+  "model": "glm-5.2"
+}

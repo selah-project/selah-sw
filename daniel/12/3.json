@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 12:3",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na walio wenye akili wataangaza kama mwangaza wa anga, na wanaoweka wengi ⟨kuwa⟩ wa haki ⟨wataangaza⟩ kama nyota milele na hata milele.",
+  "tokens": [
+    {
+      "surface": "והמשכלים",
+      "gloss": "Na walio wenye akili"
+    },
+    {
+      "surface": "יזהרו",
+      "gloss": "wataangaza"
+    },
+    {
+      "surface": "כזהר",
+      "gloss": "kama mwangaza"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "wa anga"
+    },
+    {
+      "surface": "ומצדיקי",
+      "gloss": "na wanaoweka"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "ככוכבים",
+      "gloss": "kama nyota"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na hata milele"
+    }
+  ],
+  "timestamp": "2026-08-10T15:40:10.163179187Z",
+  "model": "glm-5.2"
+}

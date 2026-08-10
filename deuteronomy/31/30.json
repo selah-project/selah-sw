@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Na Moshe akanena masikioni mwa mkusanyiko wote wa Israeli ⟨את⟩ maneno ya wimbo huu, hadi kukamilika kwake.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "na akanena"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "masikioni mwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mkusanyiko wote"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ya wimbo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "huu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "kukamilika kwake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:44:19.482840017Z",
+  "model": "glm-5.2"
+}

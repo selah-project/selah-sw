@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 29:23",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Maana wanapoona watoto wake, kazi ya mikono yangu, kati yake, watamtakasa jina langu, na watamtakasa Mtakatifu wa Yaakov, na ⟨watumwogope⟩ Elohim wa Yisra'eli.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Maana"
+    },
+    {
+      "surface": "בִ֠רְאֹתוֹ",
+      "gloss": "anapoona"
+    },
+    {
+      "surface": "יְלָדָ֞יו",
+      "gloss": "watoto wake"
+    },
+    {
+      "surface": "מַעֲשֵׂ֥ה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "יָדַ֛י",
+      "gloss": "ya mikono yangu"
+    },
+    {
+      "surface": "בְּקִרְבּ֖וֹ",
+      "gloss": "kati yake"
+    },
+    {
+      "surface": "יַקְדִּ֣ישֽׁוּ",
+      "gloss": "watamtakasa"
+    },
+    {
+      "surface": "שְׁמִ֑י",
+      "gloss": "jina langu"
+    },
+    {
+      "surface": "וְהִקְדִּ֨ישׁוּ֙",
+      "gloss": "na watamtakasa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Mtakatifu"
+    },
+    {
+      "surface": "קְד֣וֹשׁ",
+      "gloss": "Mtakatifu"
+    },
+    {
+      "surface": "יַֽעֲקֹ֔ב",
+      "gloss": "wa Yaakov"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אֱלֹהֵ֥י",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "wa Yisra'eli"
+    },
+    {
+      "surface": "יַעֲרִֽיצוּ",
+      "gloss": "watamwogopa"
+    }
+  ],
+  "timestamp": "2026-08-10T16:06:53.923788903Z",
+  "model": "glm-5.2"
+}

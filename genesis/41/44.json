@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 41:44",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Na Paroh akamwambia Yosef: Mimi ni Paroh, na bila wewe mtu hatanyanyua ⟨את⟩ mkono wake wala ⟨את⟩ mguu wake katika nchi yote ya Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akamwambia"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paroh"
+    },
+    {
+      "surface": "ובלעדיך",
+      "gloss": "na bila wewe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatanyanyua"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "—"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wala ⟨את⟩",
+      "marks": "mguu wake"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "mguu wake"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:14:53.479697512Z",
+  "model": "glm-5.2"
+}

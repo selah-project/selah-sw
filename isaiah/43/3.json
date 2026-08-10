@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "Maana mimi ni Yahweh, Elohim wako, Mtakatifu wa Yisrael, Mwokozi wako. Nimeupa Mishri kama ukomboleo wako, Kushi na Seba badala yako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mtakatifu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "Mwokozi wako"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nimeupa"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "ukomboleo wako"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mishri"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "na Seba"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "badala yako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:05:21.494813872Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Yahweh, Adonai wetu, ni jina lako adiri kuleta heshima kulea heshima kote duniani",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai wetu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "adiri"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "duniani"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:09.266735702Z",
+  "model": "glm-5.2"
+}

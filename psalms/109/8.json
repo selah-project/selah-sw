@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Siku zake ziwe chache, na nyingine yachukue ⟨את⟩ uangalizi wake.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ziwe"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "Siku zake"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "chache"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "uangalizi wake"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "na nyingine yachukue"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nyingine"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:11.761160482Z",
+  "model": "glm-5.2"
+}

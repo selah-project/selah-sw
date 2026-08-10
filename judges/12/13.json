@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na baada yake Abdoni mwana wa Hilel, Mpirathoni, alihukumu ⟨את⟩ Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "na akahukumu"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "baada yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "wa Hilel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "Mpirathoni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:16:10.465737253Z",
+  "model": "glm-5.2"
+}

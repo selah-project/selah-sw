@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na Davidi akamtuma Yoyabu: Nitumie ⟨את⟩ Uria Mhiti. Na Yoyabu akamtuma ⟨את⟩ Uria kwa Davidi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akamtuma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoyabu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tuma"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria Mhiti"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Mhiti"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akamtuma"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoyabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:55:18.078840402Z",
+  "model": "glm-5.2"
+}

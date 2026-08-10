@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Elohim anawakalia wapweke ⟨katika⟩ nyumba, anatoa wafungwa ⟨pamoja na⟩ kofia, lakini waasi wamekaa ⟨katika⟩ nchi iliyokauka.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "anawakalia"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "wapweke"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "anatoa"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "wafungwa"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "kofia"
+    },
+    {
+      "surface": "אך",
+      "gloss": "lakini"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "waasi"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "wamekaa"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "iliyokauka"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:43.738869822Z",
+  "model": "glm-5.2"
+}

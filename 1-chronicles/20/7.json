@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na akamtukana ⟨את⟩ Yisraeli, na Yehonathani mwana wa Shimea kaka wa Davidi akampiga.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "akamtukana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "akampiga"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "kaka wa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:09:00.513451772Z",
+  "model": "glm-5.2"
+}

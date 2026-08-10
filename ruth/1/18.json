@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "⟨Noomi⟩ akaona kwamba ⟨Ruth⟩ ⟨alikuwa⟩ amejiamulia kabisa kwenda ⟨pamoja⟩ ⟨את⟩ naye, akawaacha kumwambia.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "amejiamulia kabisa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨Ruth⟩"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kwenda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "naye (Noomi)"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "akawaacha"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kumwambia"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "⟨naye⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T15:36:56.766263221Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Kinywani mwa watoto wachanga na wa wanyonyao, umeweka nguvu, kwa ajili ya wanaokuchukia, ili kufanya uache adui na mwenye kujilipiza kisasi.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "kinywani mwa"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "watoto wachanga"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "na wa wanyonyao"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "umeweka"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguvu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "wanaokuchukia"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "ili kufanya uache"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "adui"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "na mwenye kujilipiza kisasi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:19.704411795Z",
+  "model": "glm-5.2"
+}

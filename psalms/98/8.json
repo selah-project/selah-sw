@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 98,
+  "translation": "Mito na ipige makofi, pamoja milima na iimbe kwa shangwe.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "mito"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "na ipige"
+    },
+    {
+      "surface": "כף",
+      "gloss": "makofi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "milima"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "na iimbe kwa shangwe"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:32.800399001Z",
+  "model": "glm-5.2"
+}

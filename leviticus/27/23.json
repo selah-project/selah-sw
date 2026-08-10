@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 27:23",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Na kuhani atamhesabu ⟨את⟩ thamani ya tathmini yako, hadi mwaka wa Yobel, na atatoa ⟨את⟩ tathmini yako siku hiyo, kitu takatifu kwa Yahweh.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "na atamhesabu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa yeye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thamani"
+    },
+    {
+      "surface": "מכסת",
+      "gloss": "thamani"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "ya tathmini yako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "mwaka wa"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "Yobel"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na atatoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tathmini yako"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "tathmini yako"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kitu takatifu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T15:55:39.644315671Z",
+  "model": "glm-5.2"
+}

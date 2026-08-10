@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Elohim akampa Daniel ⟨את⟩ kwa chesed na kwa rehemu mbele ya mkuu wa watumishi wa kabati.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Na akampa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "kwa chesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "na kwa rehemu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "wa watumishi wa kabati"
+    }
+  ],
+  "timestamp": "2026-08-10T16:25:24.258444410Z",
+  "model": "glm-5.2"
+}

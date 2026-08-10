@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Akamwambia Shaul kwa mtumishi wake: \"Maneno yako ni mazuri. Twende tukaende.\" Wakaenda mpaka mji ule ambapo mwanamume wa Elohim alikuwepo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "kwa mtumishi wake"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mazuri"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "maneno yako"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "twende"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "tukaende"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wakaenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ule"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mwanamume"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T16:00:16.738768645Z",
+  "model": "glm-5.2"
+}

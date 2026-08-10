@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Yahweh, wangapi walioongezeka watesi wangu! Wengi wanaondoka dhidi yangu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wangapi"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "walioongezeka"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "watesi wangu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Wengi"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "wanaondoka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dhidi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:12.080740659Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Wewe unatawala ∈kiburi cha bahari; unapoinua mawimbi yake, wewe unawanyamazisha.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "unatawala"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "kiburi cha"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "unapoinua"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "mawimbi yake"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "unawanyamazisha"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:10.567432148Z",
+  "model": "glm-5.2"
+}

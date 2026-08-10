@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 141,
+  "translation": "Msitie moyo wangu ugeuke kwenye neno baya, kufanya vitendo vya uovu pamoja na ⟨את⟩ watu waovu; nami nisiwe na kushiriki katika maamushi yao.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Msitie"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ugeuke"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kwenye neno"
+    },
+    {
+      "surface": "רע",
+      "gloss": "baya"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "kufanya"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "vitendo"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "vya uovu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "waovu"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "waovu"
+    },
+    {
+      "surface": "און",
+      "gloss": "wa ubatili"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "nami nisiwe na"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "kushiriki"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "katika maamushi yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:21.433330552Z",
+  "model": "glm-5.2"
+}

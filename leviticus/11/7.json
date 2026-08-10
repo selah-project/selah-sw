@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ chaziri, kwa sababu ⟨yeye⟩ anapasuaBAT hoofu, naye ni mpasua-pasuaBAT hoofu, lakini ⟨yeye⟩BAT majitumbu haleta — mchafu ⟨yeye⟩ kwenu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "chaziri"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "chaziri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "anapasua"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "BAT hoofu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "naye ni mpasua-pasua"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "(kazi)"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "BAT hoofu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "lakini yeye"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "BAT majitumbu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "-leta"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "mchafu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:34:06.647628541Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "Usiogope, maana mimi ⟨ni⟩ pamoja na ⟨את⟩-we; kutoka mashariki nitaleta mzazio wako, na kutoka magharibi nitakukusanya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usiogope"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ogi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-we",
+      "marks": "pamoja na wewe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kutoka mashariki"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "nitaleta"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mzazio wako"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "na kutoka magharibi"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "nitakukusanya"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:42.175541078Z",
+  "model": "glm-5.2"
+}

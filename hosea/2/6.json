@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na ⟨את⟩ wanawe sitawahurumia, kwa maana wana wa uasherati wao.",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wanawe"
+    },
+    {
+      "surface": "בָּנֶ֖יהָ",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "si"
+    },
+    {
+      "surface": "אֲרַחֵ֑ם",
+      "gloss": "tawahurumia"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "בְנֵ֥י",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "זְנוּנִ֖ים",
+      "gloss": "uasherati"
+    },
+    {
+      "surface": "הֵֽמָּה",
+      "gloss": "wao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:20:37.343785762Z",
+  "model": "glm-5.2"
+}

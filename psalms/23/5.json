@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Waandae mbele yangu meza ⟨koko⟩ wapinzani wangu; wameni mafuta kichwa changu; kikombe changu ⟨ni⟩ kilele cha ukunjufu.",
+  "tokens": [
+    {
+      "surface": "תַּעֲרֹ֬ךְ",
+      "gloss": "waandae"
+    },
+    {
+      "surface": "לְפָנַ֨י",
+      "gloss": "mbele yangu"
+    },
+    {
+      "surface": "שֻׁלְחָ֗ן",
+      "gloss": "meza"
+    },
+    {
+      "surface": "נֶ֥גֶד",
+      "gloss": "koko"
+    },
+    {
+      "surface": "צֹרְרָ֑י",
+      "gloss": "wapinzani wangu"
+    },
+    {
+      "surface": "דִּשַּׁ֖נְתָּ",
+      "gloss": "wameni mafuta"
+    },
+    {
+      "surface": "בַשֶּׁ֥מֶן",
+      "gloss": "kwa mafuta"
+    },
+    {
+      "surface": "רֹ֝אשִׁ֗י",
+      "gloss": "kichwa changu"
+    },
+    {
+      "surface": "כּוֹסִ֥י",
+      "gloss": "kikombe changu"
+    },
+    {
+      "surface": "רְוָיָֽה",
+      "gloss": "kilele cha ukunjufu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:59.327873522Z",
+  "model": "glm-5.2"
+}

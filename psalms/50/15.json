@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Uniidie siku ya dhiki, nitakuokoa, nawe utanitukuza.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "Uniidie"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ya dhiki"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "nitakuokoa"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "nawe utanitukuza"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:35.324543088Z",
+  "model": "glm-5.2"
+}

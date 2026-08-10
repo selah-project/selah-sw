@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Yosefi aliapa ⟨את⟩ wana wa Yisraeli akisema: «Elohim atakapokujieni, nanyi mtachukua ⟨את⟩ mifupa yangu kutoka hapa.»",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "aliapa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana wa Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "atakapokuja"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "baijali"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninyi"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "nanyi mtachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mifupa yangu"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "mifupa yangu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kutoka hapa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:27:35.475252907Z",
+  "model": "glm-5.2"
+}

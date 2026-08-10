@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 127,
+  "translation": "Tazama, urithi wa Yahweh ni watoto; thawabu ni matunda ya tumbo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "urithi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "watoto"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "thawabu"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "matunda"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "ya tumbo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:29.787259470Z",
+  "model": "glm-5.2"
+}

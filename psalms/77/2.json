@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 77,
+  "translation": "Sauti yangu ⟨ni⟩ kwa Elohim, nami nalia; sauti yangu ⟨ni⟩ kwa Elohim, naye atanielekeza sikio.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Sauti yangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "nami nalia"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sauti yangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "naye atanielekeza sikio"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:45.254027653Z",
+  "model": "glm-5.2"
+}

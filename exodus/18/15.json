@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na Moshe akamwambia mkwe wake: Kwa sababu watu wanakuja kwangu kutafuta Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akamwambia"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "mkwe wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "wanakuja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "kutafuta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:22:19.205079615Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Basi Amasa akaenda kuwaita ⟨את⟩ Yehuda, akacheleweshwa zaidi ya muda uliowekwa aliouweka kwake.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "kuwaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "akacheleweshwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "zaidi ya"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "muda uliowekwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliouweka"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "kwake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:35:15.891462579Z",
+  "model": "glm-5.2"
+}

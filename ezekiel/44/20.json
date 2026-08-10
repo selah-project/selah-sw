@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Na vichwa vyao hawatanyoa, na nywele ndefu hawataacha kuongezeka; watafumba watafumba ⟨את⟩ vichwa vyao.",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "na vichwa vyao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawata"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "nyoa"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "na nywele ndefu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawata"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "acha kuongezeka"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "watafumba"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "watafumba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vichwa vyao"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "vichwa vyao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:20:09.272868272Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Nikumbuke, Ee Yahweh, katika upendeleo ⟨unaoutenda⟩ kwa taifa lako; unitembelee katika wokovu wako!",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Nikumbuke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Ee Yahweh"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "katika upendeleo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kwa taifa lako"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "unitembelee"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "katika wokovu wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:18.826519127Z",
+  "model": "glm-5.2"
+}

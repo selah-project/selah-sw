@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na hii itakuwa haki ya makuhani kutoka kwa ⟨את⟩ watu, kutoka kwa ⟨את⟩ wachinjaji wa dhabihu — iwe ng'ombe iwe kondoo — na ⟨⟨atatoa⟩⟩ kwa kuhani ⟨את⟩ bega na ⟨את⟩ mbavu mbili na ⟨את⟩ tumbo.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Na hii"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "itakuwa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "haki"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ya makuhani"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "watukutuwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watukutuwa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "wachinjaji"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "wachinjaji"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "wa dhabihu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iwa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iwa"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kondoo"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na ⟨atatoa⟩"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kwa kuhani"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "bega"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "mbavu mbili"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "tumbo"
+    }
+  ],
+  "timestamp": "2026-08-10T17:44:24.232174351Z",
+  "model": "glm-5.2"
+}

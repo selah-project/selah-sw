@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na mtu akiuza ⟨את⟩ binti yake kuwa mtumwa, hatatoki kama mtindo wa kutoka wa watumwa.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "na ikiwa"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "akiuza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "binti yake"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "binti yake"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "kuwa mtumwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "tatoki"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "kama mtindo wa kutoka"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "wa watumwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:21.681447027Z",
+  "model": "glm-5.2"
+}

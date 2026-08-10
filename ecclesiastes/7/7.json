@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Kwa kuwa dhuluma humfanya mwenye hekima kichwa ngumu, na ⟨hutoa⟩ ⟨את⟩ moyo wa mtu wongo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "dhuluma"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "humfanya kichwa ngumu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mwenye hekima"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "na humharibu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "wa mtu wongo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:37:43.207764287Z",
+  "model": "glm-5.2"
+}

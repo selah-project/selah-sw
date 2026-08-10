@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Nirehemu, Yahweh, kwa maana nimelegea; niponya, Yahweh, kwa maana mifupa yangu imetetemeka.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Nirehemu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "nimelegea"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "Niponya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "imetetemeka"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mifupa yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:45.143797374Z",
+  "model": "glm-5.2"
+}

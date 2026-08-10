@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Elohim akasema: Maji yatetemeke dudu la nafsi yenye uhai, na ndege waruke juu ya nchi, juu ya uso wa anga la mbingu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "yatetemeke"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafsi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "yenye uhai"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "na ndege"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "waruke"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso wa"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "anga la"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:21.690910601Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Ni bora ambayo hutoi nadhiri, kuliko utoe na usilipe.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Ni bora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hus"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "toi nadhiri"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "kuliko utoe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na usi"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "lipe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:46.006223480Z",
+  "model": "glm-5.2"
+}

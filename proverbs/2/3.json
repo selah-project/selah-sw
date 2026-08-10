@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "kwa maana ikiwa kwa ufahamu unaita, kwa mioyo unatoa sauti yako,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "kwa ufahamu"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "unaita"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "kwa ufahamu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "unatoa"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "sauti yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:22:46.923693933Z",
+  "model": "glm-5.2"
+}

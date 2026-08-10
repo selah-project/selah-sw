@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Akaongeza kuzaa ⟨את⟩ kaka yake ⟨את⟩ Hevel. Na Hevel akawa mchungaji wa kondoo, na Qayin akawa mfanyaji kazi wa udongo.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "akaongeza"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "kuzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaka yake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kaka yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na akawa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mchungaji"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kondoo"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "na Qayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "akawa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mfanyaji kazi"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "wa udongo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:55.997521538Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Siku hiyo Adonai ataondoa ⟨את⟩ mapambo ya ile vingu na ile utelezi na ile mapeto ya mwezi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ataondoa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapambo"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "mapambo ya"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "ile vingu"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "na ile utelezi"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "na ile mapeto ya mwezi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:36.392956688Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Endeleza chesed yako kwa wakujua, na haki yako kwa wanyofu wa moyo.",
+  "tokens": [
+    {
+      "surface": "מְשֹׁ֣ךְ",
+      "gloss": "Endeleza"
+    },
+    {
+      "surface": "חַ֭סְדְּךָ",
+      "gloss": "chesed yako"
+    },
+    {
+      "surface": "לְיֹדְעֶ֑יךָ",
+      "gloss": "kwa wakujua"
+    },
+    {
+      "surface": "וְ֝צִדְקָֽתְךָ֗",
+      "gloss": "na haki yako"
+    },
+    {
+      "surface": "לְיִשְׁרֵי",
+      "gloss": "kwa wanyofu"
+    },
+    {
+      "surface": "לֵֽב",
+      "gloss": "wa moyo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:16.792983539Z",
+  "model": "glm-5.2"
+}

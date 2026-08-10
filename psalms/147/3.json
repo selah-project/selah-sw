@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 147,
+  "translation": "⟨Yeye⟩ aponyaye waliopasuka moyo, na kufunga pa kutoa dawa misiba yao.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "aponyaye"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "waliopasuka"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "na kufunga pa kutoa dawa"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "misiba yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:07.946760304Z",
+  "model": "glm-5.2"
+}

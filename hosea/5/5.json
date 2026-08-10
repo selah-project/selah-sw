@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na kiburi cha Yisra'el kinafanya mashahidi ⟨kwenye⟩ uso wake, na Yisra'el na Efrayim watakwisha kwa uovu wao; Yehudha pia amekwisha pamoja nao.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "na ⟨kinafanya mashahidi⟩"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kiburi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cha Yisra'el"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "kwenye uso wake"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na Yisra'el"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "na Efrayim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "watakwisha"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "kwa uovu wao"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "amekwisha"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "pamoja nao"
+    }
+  ],
+  "timestamp": "2026-08-10T12:41:06.925970458Z",
+  "model": "glm-5.2"
+}

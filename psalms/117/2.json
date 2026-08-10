@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 117,
+  "translation": "Kwa maana chesed chake ⟨kilichopita⟩ juu yetu, na ⟨kweli⟩ ya Yahweh ⟨hudumu⟩ milele; msifuni ⟨את⟩ Yah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "kilichopita"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "juu yetu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed chake"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na ⟨kweli⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:17.808130671Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 20:19",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na uchi wa dada ya mama yako na dada ya baba yako hutofunua; maana ⟨yeye⟩ ameifunua ⟨את⟩ nyama yake — zambi yao wataichukua.",
+  "tokens": [
+    {
+      "surface": "וערות",
+      "gloss": "Na uchi"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "wa dada"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ya mama yako"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "na dada"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya baba yako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hutofunua"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "tofunua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama yake"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "nyama yake"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "ameifunua"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "zambi yao"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "wataichukua"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:38.671704088Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Yahweh akamwambia Moshe na ⟨akamwambia⟩ Aharon, akisema:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:21.623757701Z",
+  "model": "glm-5.2"
+}

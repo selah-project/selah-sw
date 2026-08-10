@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Hata pamoja na haya yote wakaendelea dhambi, wala hawakuamini katika ajabu zake.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Hata pamoja na"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "haya yote"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "wakaendelea dhambi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "(iliyoendelea)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hawakuamini"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "(hawakuamini)"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "katika ajabu zake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:44.340420060Z",
+  "model": "glm-5.2"
+}

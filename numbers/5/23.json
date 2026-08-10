@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na hakohen aandike ⟨את⟩ laana hizi katika kitabu, kisha azifute ndani ya maji ya uchungu.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "Na aandike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laana hizi"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "laana hizi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hizi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "hakohen"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "katika kitabu"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "kisha azifute"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ya maji"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "ya uchungu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:37:07.027784721Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Wakavuka ⟨את⟩ Yardeni, wakapiga kambi huko Aroer, pande ya kulia ya mji ule ⟨aliye⟩ katikati ya bonde la Gad, na hadi Yazer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "wakavuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "wakapiga kambi"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "huko Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "pande ya kulia"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ya mji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨aliye⟩"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "katikati ya"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "bonde"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "la Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na hadi"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    }
+  ],
+  "timestamp": "2026-08-10T14:57:45.346863284Z",
+  "model": "glm-5.2"
+}

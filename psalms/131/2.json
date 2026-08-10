@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 131,
+  "translation": "Hakika sijaweza kulinganisha, bali nimetuliza nafsi yangu; kama mtoto achukuliwavyo maziwa kwa mama yake, kama mtoto achukuliwavyo maziwa ndivyo nafsi yangu ilivyo juu yangu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Hakika sijaweza"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "kulinganisha"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "bali nimetuliza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "kama mtoto achukuliwavyo maziwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama yake"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "kama mtoto achukuliwavyo maziwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:49.986453985Z",
+  "model": "glm-5.2"
+}

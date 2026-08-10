@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 40:21",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Je, hamjui? Je, hamjasikia? Je, hukutangazwa kutoka mwanzo kwenu? Je, hamjafahamu misingi ya ⟨הָאָרֶץ⟩ nchi?",
+  "tokens": [
+    {
+      "surface": "הֲל֤וֹא",
+      "gloss": "je, je"
+    },
+    {
+      "surface": "תֵֽדְעוּ֙",
+      "gloss": "hamjui"
+    },
+    {
+      "surface": "הֲל֣וֹא",
+      "gloss": "je, je"
+    },
+    {
+      "surface": "תִשְׁמָ֔עוּ",
+      "gloss": "hamjasikia"
+    },
+    {
+      "surface": "הֲל֛וֹא",
+      "gloss": "je, je"
+    },
+    {
+      "surface": "הֻגַּ֥ד",
+      "gloss": "hukutangazwa"
+    },
+    {
+      "surface": "מֵרֹ֖אשׁ",
+      "gloss": "kutoka mwanzo"
+    },
+    {
+      "surface": "לָכֶ֑ם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "הֲלוֹא֙",
+      "gloss": "je, je"
+    },
+    {
+      "surface": "הֲבִ֣ינֹתֶ֔ם",
+      "gloss": "hamjafahamu"
+    },
+    {
+      "surface": "מוֹסְד֖וֹת",
+      "gloss": "misingi"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T17:48:48.686970523Z",
+  "model": "glm-5.2"
+}

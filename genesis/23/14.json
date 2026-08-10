@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Efroni akamjibu ⟨את⟩ Avraham, akimwambia ⟨⟩:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akamjibu"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akimwambia"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-10T10:06:32.470173832Z",
+  "model": "glm-5.2"
+}

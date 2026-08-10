@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Eli mzee akasikia ⟨את⟩ sauti ya maombolezo, akasema: Ni nini ⟨maana ya⟩ sauti ya ghasia hii? Na yule mtu akafanya haraka, akaingia, akamwambia Eli.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akasikia"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli mzee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauti"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "maombolezo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni nini"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "ghasia"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "na yule mtu"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "akafanya haraka"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "Eli mzee"
+    }
+  ],
+  "timestamp": "2026-08-10T11:20:56.746552046Z",
+  "model": "glm-5.2"
+}

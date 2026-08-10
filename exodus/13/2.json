@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Nitakaseni kwa ajili yangu kila mzaliwa wa kwanza, atanguzi wa kila tumbo, miongoni mwa wana wa Yisra'el — mwanadamu na mnyama — ni wangu.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "nitakaseni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ajili yangu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "mzaliwa wa kwanza"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "atanguzi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wa kila"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "tumbo"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "miongoni mwa wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mwanadamu"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "na mnyama"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:21:38.057745718Z",
+  "model": "glm-5.2"
+}

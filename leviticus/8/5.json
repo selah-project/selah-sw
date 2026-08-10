@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na Moshe akamwambia ⟨העדה⟩: Hili ndilo neno ambalo Yahweh ameamrisha kufanywa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akamwambia"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨jumuiya⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Hili"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ndilo neno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ameamrisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kufanywa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:06.706831878Z",
+  "model": "glm-5.2"
+}

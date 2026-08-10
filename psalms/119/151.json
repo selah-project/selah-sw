@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Karibu wewe, Yahweh, na amri zako zote ⟨ni⟩ kweli.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "karibu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na zote"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amri zako"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kweli"
+    }
+  ],
+  "timestamp": "2026-08-10T17:54:15.853079188Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na kwa watu hawa utawaambia: Ndivyo alivyosema Yahweh: Tazama, mimi nikiweka mbele yenu ⟨את⟩ njia ya uzima na ⟨את⟩ njia ya kifo.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "utawaambia"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alivyosema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tazama mimi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nikiweka"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mbele yenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njia"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njia"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ya uzima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "njia"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njia"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ya kifo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:12:26.401374090Z",
+  "model": "glm-5.2"
+}

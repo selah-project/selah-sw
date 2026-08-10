@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Nimeuona ⟨את⟩ kazi ambayo Elohim amewapa wana wa ⟨adamu⟩ ili washughulike nayo.",
+  "tokens": [
+    {
+      "surface": "רָאִ֣יתִי",
+      "gloss": "Nimeuona"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kazi"
+    },
+    {
+      "surface": "הָֽעִנְיָ֗ן",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "נָתַ֧ן",
+      "gloss": "amewapa"
+    },
+    {
+      "surface": "אֱלֹהִ֛ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לִבְנֵ֥י",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "הָאָדָ֖ם",
+      "gloss": "⟨adamu⟩"
+    },
+    {
+      "surface": "לַעֲנ֥וֹת",
+      "gloss": "ili washughulike"
+    },
+    {
+      "surface": "בּֽוֹ",
+      "gloss": "nayo"
+    }
+  ],
+  "timestamp": "2026-08-10T16:24:09.045847341Z",
+  "model": "glm-5.2"
+}

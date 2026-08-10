@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na ikiwa watu watapigana, na mtu ampigie ⟨את⟩ mwenzake kwa jiwe au kwa ngumi, na akifa, ⟨bali⟩ akaanguka kitandani;",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "watapigana"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "na ampigie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwenzake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mwenzake"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "kwa jiwe"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "kwa ngumi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na asi"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "akaanguka"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "kitandani"
+    }
+  ],
+  "timestamp": "2026-08-10T14:29:49.395577687Z",
+  "model": "glm-5.2"
+}

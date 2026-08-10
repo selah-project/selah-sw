@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 11:20",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "bali kwa mwezi wa siku, hadi itakapotoka ndani ya pua zenu, na itakuwa kwenu kichekesho, kwa sababu mlimkataa ⟨את⟩ Yahweh aliye kati yenu, na mliilia mbele zake mkiisha: Kwa nini sisi tukatoka katika Mitsrayim?",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "bali kwa"
+    },
+    {
+      "surface": "חֹדֶשׁ",
+      "gloss": "mwezi"
+    },
+    {
+      "surface": "יָמִים",
+      "gloss": "wa siku"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "itakapo"
+    },
+    {
+      "surface": "יֵצֵא",
+      "gloss": "toka"
+    },
+    {
+      "surface": "מֵאַפְּכֶם",
+      "gloss": "ndani ya pua zenu"
+    },
+    {
+      "surface": "וְהָיָה",
+      "gloss": "na itakuwa"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "לְזָרָא",
+      "gloss": "kichekesho"
+    },
+    {
+      "surface": "יַעַן",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "מְאַסְתֶּם",
+      "gloss": "mlikataa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "aliye"
+    },
+    {
+      "surface": "בְּקִרְבְּכֶם",
+      "gloss": "kati yenu"
+    },
+    {
+      "surface": "וַתִּבְכּוּ",
+      "gloss": "na mliilia"
+    },
+    {
+      "surface": "לְפָנָיו",
+      "gloss": "mbele zake"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "mkiisha"
+    },
+    {
+      "surface": "לָמָּה",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "זֶּה",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "יָצָאנוּ",
+      "gloss": "tukatoka"
+    },
+    {
+      "surface": "מִמִּצְרָיִם",
+      "gloss": "katika Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:45:11.286766173Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 85,
+  "translation": "Uturudishe, Elohim wa wokovu wetu, na uvunje hasira yako ⟨iliyomo⟩ nasi.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Uturudishe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "wokovu wetu"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "na uvunje"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "hasira yako"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nasi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:33.901527374Z",
+  "model": "glm-5.2"
+}

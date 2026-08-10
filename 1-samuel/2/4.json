@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Upinde wa watu wanyenyekevu umevunjika, na waliokwama wamejifunga nguvu.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "Upinde"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "wa watu wanyenyekevu"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "umevunjika"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "na waliokwama"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "wamejifunga"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "nguvu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:50:55.701423177Z",
+  "model": "glm-5.2"
+}

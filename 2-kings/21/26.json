@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Wakamzika ⟨את⟩ yeye katika kaburi lake, katika bustani ya Uza; na Yeremia mwana wake akatawala badala yake.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Wakamzika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "katika kaburi lake"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "katika bustani"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ya Uza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "na akatawala"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yeremia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "badala yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:03:00.734118008Z",
+  "model": "glm-5.2"
+}

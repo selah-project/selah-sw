@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 34:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Karibuni, enyi mata, kusikia; na taifa zilizeni masikio, nchi na \u0000e0\u0000j\u0000a\u0000 la\u0000 yake isikie, ulimwengu na mazao yake yote.",
+  "tokens": [
+    {
+      "surface": "\u00007\u0000a\u0000b\u0000ו\u0000",
+      "gloss": "karibuni"
+    },
+    {
+      "surface": "\u0000\u0000\u0000\u0000\u0000י\u00005\u0000",
+      "gloss": "mata"
+    },
+    {
+      "surface": "\u00005\u0000\u0000\u0000\u0000\u0000ע\u0000",
+      "gloss": "kusikia"
+    },
+    {
+      "surface": "\u0000\u00005\u0000\u0000\u0000\u0000\u0000ם\u0000",
+      "gloss": "na taifa"
+    },
+    {
+      "surface": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000ב\u00005\u0000",
+      "gloss": "zilizeni masikio"
+    },
+    {
+      "surface": "\u00000\u0000\u0000\u0000\u0000\u0000ע\u0000",
+      "gloss": "isikie"
+    },
+    {
+      "surface": "\u0000\u0000\u0000\u0000\u0000ץ\u0000",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "\u00000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "gloss": "na \u0000e0\u0000j\u0000a\u0000 lake"
+    },
+    {
+      "surface": "\u0000\u0000\u0000\u0000\u0000ל\u0000",
+      "gloss": "ulimwengu"
+    },
+    {
+      "surface": "\u0000\u0000\u00005\u0000",
+      "gloss": "na yote"
+    },
+    {
+      "surface": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ה\u0000",
+      "gloss": "mazao yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:07:16.159437849Z",
+  "model": "glm-5.2"
+}

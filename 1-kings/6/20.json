@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 6:20",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na mbele ya debiri ni dhiraba ishirini urefu, na dhiraba ishirini upana, na dhiraba ishirini kimo chake; akalifunika dhahabu iliyosafishwa, na akafunika altare ya sadifu.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "Na mbele ya"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "debiri"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ishirini"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dhiraba"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "urefu"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na ishirini"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dhiraba"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "upana"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na ishirini"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dhiraba"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "kimo chake"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "akalifunika"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "iliyosafishwa"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "na akafunika"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ya sadifu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:38:40.772944171Z",
+  "model": "glm-5.2"
+}

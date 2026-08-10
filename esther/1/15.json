@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kufuatana na sheria, ni nini cha kumfanyia malkia Vashti, kwa sababu ⟨hā⟩ hakumtenda ⟨את⟩ amri ya mfalme Achashverosh kwa mkono wa mhasi?",
+  "tokens": [
+    {
+      "surface": "כְּדָת֙",
+      "gloss": "kufuatana na sheria"
+    },
+    {
+      "surface": "מַֽה",
+      "gloss": "ni nini"
+    },
+    {
+      "surface": "לַּעֲשׂ֔וֹת",
+      "gloss": "cha kumfanyia"
+    },
+    {
+      "surface": "בַּמַּלְכָּ֖ה",
+      "gloss": "malkia"
+    },
+    {
+      "surface": "וַשְׁתִּ֑י",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "עַ֣ל",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "hā"
+    },
+    {
+      "surface": "עָשְׂתָ֗ה",
+      "gloss": "hakumtenda"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "amri"
+    },
+    {
+      "surface": "מַאֲמַר֙",
+      "gloss": "amri"
+    },
+    {
+      "surface": "הַמֶּ֣לֶךְ",
+      "gloss": "ya mfalme"
+    },
+    {
+      "surface": "אֲחַשְׁוֵר֔וֹשׁ",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "בְּיַ֖ד",
+      "gloss": "kwa mkono wa"
+    },
+    {
+      "surface": "הַסָּרִיסִֽים",
+      "gloss": "mhasi"
+    }
+  ],
+  "timestamp": "2026-08-10T17:56:17.885310039Z",
+  "model": "glm-5.2"
+}

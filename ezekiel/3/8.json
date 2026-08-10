@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Tazama, nimekupa uso wako kuwa mgumu dhidi ya uso wao, na ⟨את⟩ paji la uso lako kuwa gumu dhidi ya ⟨את⟩ paji la uso lao.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nimekupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uso wako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uso wako"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "mgumu"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "dhidi ya"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "uso wao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "paji la uso lako"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "paji la uso lako"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "gumu"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "dhidi ya"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "paji la uso lao"
+    }
+  ],
+  "timestamp": "2026-08-10T12:27:17.379473928Z",
+  "model": "glm-5.2"
+}

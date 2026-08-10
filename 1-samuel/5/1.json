@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na Pelishtim wakauchukua ⟨את⟩ sanduku la Elohim, wakauleta kutoka Even-ha-Ezer hadi Ashdodi.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Na Pelishtim"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "wakauchukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "la Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "wakauleta"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "kutoka Even"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "-ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "hadi Ashdodi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:21:23.088630359Z",
+  "model": "glm-5.2"
+}

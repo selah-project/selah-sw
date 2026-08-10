@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na ikiwa ni mtu maskini yeye, usilale na dhamana yake.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "maskini"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "lale"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "na dhamana yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:00:34.209794094Z",
+  "model": "glm-5.2"
+}

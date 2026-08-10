@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Kwa kuwa ⟨yeye⟩ amevunja milango ya shaba, na mihimili ya chuma amekata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "amevunja"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "milango"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ya shaba"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "na mihimili ya"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "chuma"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "amekata"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:31.245327455Z",
+  "model": "glm-5.2"
+}

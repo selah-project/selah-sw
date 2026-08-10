@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Akaitumia kutengeneza ⟨את⟩ misingi ya mlangoni pa hema ya mkutano, na ⟨את⟩ altari ya shaba, na ⟨את⟩ chujio chake cha shaba, na ⟨את⟩ vyombo vyote vya altari.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Akaitumia kutengeneza"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misingi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "misingi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mlangoni"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "altari"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ya shaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "chujio"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "chujio"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "cha shaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambacho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ni chake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vyombo vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vyombo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ya altari"
+    }
+  ],
+  "timestamp": "2026-08-10T15:53:20.082671570Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Hasatani akajibu ⟨את⟩ Yahweh, akasema: Ngozi kwa ngozi, naam, vyote ∙ ambavyo ∙ ni vyake ∙ mtu ∙ atavitoa kwa ajili ya nafsi yake.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akajibu"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hasatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "עור",
+      "gloss": "Ngozi"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ngozi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "naam, vyote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambavyo"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ni vyake mtu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "atavitoa"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafsi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:31:40.905094544Z",
+  "model": "glm-5.2"
+}

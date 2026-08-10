@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Yahweh akaongea na Moshe, akisema:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akaongea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:30.045422478Z",
+  "model": "glm-5.2"
+}

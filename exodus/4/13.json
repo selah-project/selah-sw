@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na akasema: Tafadhali, Adonai, tuma kwa mkono ⟨yule ambaye⟩ utamtuma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Tafadhali"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tuma"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwa mkono"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "utamtuma"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:40.387374018Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "Huwanywesha wanyama wote wa nyika; punda mwitu huvunja kiu yao.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "huwanywesha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "wanyama wa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "huvunja"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "punda mwitu"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "kiu yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:42.472536654Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na mtawafukuza ⟨את⟩ maadui zenu, nao wataanguka mbele zenu kwa upanga.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "na mtawafukuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maadui zenu"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "maadui zenu"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "nao wataanguka"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mbele zenu"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "kwa upanga"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:27.685692858Z",
+  "model": "glm-5.2"
+}

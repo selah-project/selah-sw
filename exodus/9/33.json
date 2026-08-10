@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Moshe akaondoka mbele ya Paroh, akatoka ⟨את⟩ jiji, akaeneza mikono yake kuelekea Yahweh; na ngurumo na mawe yakaacha, na mvua haikumwagika tena ⟨kwenye⟩ nchi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akaondoka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiji"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "jiji"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "akaeneza"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "mikono yake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuelekea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "yakaacha"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "ngurumo"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "na mawe"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "na mvua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "-kumwagika"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:56.460862686Z",
+  "model": "glm-5.2"
+}

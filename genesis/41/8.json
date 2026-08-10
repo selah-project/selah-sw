@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 41:8",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Ikawa asubuhi roho yake ikatetereka, akatuma, akaita ⟨את⟩ waganga wote wa Mitsrayim na ⟨את⟩ hekima zake; na Paroh akawahadithia ⟨את⟩ ndoto yake, lakeni hakuna aliyetafsiri ⟨את⟩ ⟨ao⟩ kwa Paroh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "ikatetereka"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "roho yake"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waganga wote wa Mitsrayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "waganga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hekima zake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "hekima"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "akawahadithia"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndoto yake"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "ndoto yake"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lakini hakuna"
+    },
+    {
+      "surface": "פותר",
+      "gloss": "aliyetafsiri"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨ao⟩",
+      "marks": "ndoto kwa Paroh"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kwa Paroh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:13:34.950701594Z",
+  "model": "glm-5.2"
+}

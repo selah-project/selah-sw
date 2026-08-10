@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Atakuja, Elohim wetu, na asikimamie; moto mbele zake utameza, na kuzunguka kwake kuna dhoruba kubwa sana.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "Atakuja"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na asikimamie"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": ""
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbele zake"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "utameza"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "na kuzunguka kwake"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "kuna dhoruba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kubwa sana"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:56.444112253Z",
+  "model": "glm-5.2"
+}

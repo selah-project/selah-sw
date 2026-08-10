@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 16:22",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na Shaul akamtuma ⟨את⟩ Yishai, akisema: \"Tafadhali na David asimame mbele yangu, kwa maana amepata chen mbele ya macho yangu.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Na akamtuma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "na asimame"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele yangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "amepata"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mbele ya macho yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T17:45:56.282355807Z",
+  "model": "glm-5.2"
+}

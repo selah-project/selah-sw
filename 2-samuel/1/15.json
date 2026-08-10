@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na David akamwita mmoja wa vijana, na akasema, Njoo, mpige. Naye akampiga, naye akafa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Na akamwita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "wa vijana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "גש",
+      "gloss": "Njoo"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "mpige"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hatua juu yake"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "Naye akampiga"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "naye akafa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:28:54.794180978Z",
+  "model": "glm-5.2"
+}

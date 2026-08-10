@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Avraham akasali kwa Elohim, naye Elohim akamwonya ⟨את⟩ Avimeleki na ⟨את⟩ mke wake na masuria wake, wakazaa.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "akasali"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "naye akamwonya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimeleki"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mke wake"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mke wake"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "na masuria wake"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "wakazaa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:06:03.705111689Z",
+  "model": "glm-5.2"
+}

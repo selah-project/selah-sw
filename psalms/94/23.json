@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 94,
+  "translation": "Na atawarudishia ⟨את⟩ uovu wao, na katika ubaya wao atawatekanisha; atawatekanisha Yahweh Elohim wetu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Na atawarudishia"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uovu wao"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "uovu wao"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "na katika ubaya wao"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "atawatekanisha"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "atawatekanisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:06.623211920Z",
+  "model": "glm-5.2"
+}

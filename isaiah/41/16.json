@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Utawapeperusha, na upepo utawachukua, na dufu utawatawanya, na wewe utafurahi katika Yahweh, katika Qadosh wa Israel utajisifu.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "Utawapeperusha"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "na upepo"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "utawachukua"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "na dufu"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "utawatawanya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wewe"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "utafurahi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "katika Yahweh"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "katika Qadosh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Israel"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "utajisifu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:12.562272039Z",
+  "model": "glm-5.2"
+}

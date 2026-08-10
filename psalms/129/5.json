@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 129,
+  "translation": "Waaibu na warudi nyuma, wote wanaochukia Tsiyon.",
+  "tokens": [
+    {
+      "surface": "יֵ֭בֹשׁוּ",
+      "gloss": "waaibu"
+    },
+    {
+      "surface": "וְיִסֹּ֣גוּ",
+      "gloss": "na warudi"
+    },
+    {
+      "surface": "אָח֑וֹר",
+      "gloss": "nyuma"
+    },
+    {
+      "surface": "כֹּ֝֗ל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "שֹׂנְאֵ֥י",
+      "gloss": "wanaochukia"
+    },
+    {
+      "surface": "צִיּֽוֹן",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:55.452059354Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Wakamsinya Yahweh katika dhiki yao, naye kuwatoa katika maskani yao ya dhiki.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "wakamsinya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "katika dhiki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yao"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "na katika maskani yao ya dhiki"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "kuwatoa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:29.424953553Z",
+  "model": "glm-5.2"
+}

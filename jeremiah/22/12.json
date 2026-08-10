@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Maana katika mahali palipoendelekwa, huko atakufa, na ⟨את⟩ nchi hii hatoyaona tena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maana"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "katika mahali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "walimhamisha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "atakufa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hat"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "yaona"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    }
+  ],
+  "timestamp": "2026-08-10T12:16:03.319542555Z",
+  "model": "glm-5.2"
+}

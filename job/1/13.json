@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Ikawa siku moja, wanawe wa kiume na wanawe wa kike walikuwa wakila na kunywa divai ⟨katika⟩ nyumba ya ndugu yao ⟨wa⟩ kwanza kuzaliwa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siku moja"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na wanawe wa kiume"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "na wanawe wa kike"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "walikuwa wakila"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "na kunywa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "divai"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "⟨katika⟩ nyumba"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ya ndugu yao"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "kwanza kuzaliwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:31:29.533859633Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 29:23",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "na mkate mmoja wa mkate wa mafuta mmoja, na biskuti moja, kutoka kwenye kikapu cha mikate isiyochachuka iliyo mbele za Yahweh.",
+  "tokens": [
+    {
+      "surface": "וככר",
+      "gloss": "na mkate"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "wa mkate"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "na mkate"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "wa mkate"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "wa mafuta"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "ורקיק",
+      "gloss": "na biskuti"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "מסל",
+      "gloss": "kutoka kwenye kikapu"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "cha mikate isiyochachuka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iliyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:14.482490291Z",
+  "model": "glm-5.2"
+}

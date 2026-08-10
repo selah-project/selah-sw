@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 148,
+  "translation": "Msifuni Yah, msifuni ⟨את⟩ Yahweh kutoka mbingu, msifuni ⟨yeye⟩ katika maeneo ya juu.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "katika maeneo ya juu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:08.104336658Z",
+  "model": "glm-5.2"
+}

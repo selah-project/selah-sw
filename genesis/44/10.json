@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Akasema: Hata sasa kama maneno yenu ndivyo ilivyo; ambaye ⟨את⟩ atapatikana naye atakuwa wangu kwa mtumwa, na ninyi mtakuwa huru na hatia.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֕אמֶר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "עַתָּ֥ה",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "כְדִבְרֵיכֶ֖ם",
+      "gloss": "kama maneno yenu"
+    },
+    {
+      "surface": "כֵּ֑ן",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "ה֖וּא",
+      "gloss": "ilivyo"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "יִמָּצֵ֤א",
+      "gloss": "atapatikana"
+    },
+    {
+      "surface": "אִתּוֹ֙",
+      "gloss": "⟨את⟩ naye",
+      "marks": "ambaye"
+    },
+    {
+      "surface": "יִהְיֶ֣ה",
+      "gloss": "atakuwa"
+    },
+    {
+      "surface": "לִּ֔י",
+      "gloss": "wangu"
+    },
+    {
+      "surface": "עֶ֖בֶד",
+      "gloss": "kwa mtumwa"
+    },
+    {
+      "surface": "וְאַתֶּ֖ם",
+      "gloss": "na ninyi"
+    },
+    {
+      "surface": "תִּהְי֥וּ",
+      "gloss": "mtakuwa"
+    },
+    {
+      "surface": "נְקִיִּֽם",
+      "gloss": "huru na hatia"
+    }
+  ],
+  "timestamp": "2026-08-10T10:14:28.821614672Z",
+  "model": "glm-5.2"
+}

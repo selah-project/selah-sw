@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 11:10",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Basi wanaume wa Yavesh wakasema, \"Kesho tutatoka kwenda kwenu, nanyi mtatenda kwenu kila ⟨kichwani⟩ mwema machoni mwenu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wakasema"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "wanaume wa"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "kesho"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "tutatoka"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwenda kwenu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "nanyi mtatunda"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwetu"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "chwa mwema"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "machoni mwenu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:21:56.447108662Z",
+  "model": "glm-5.2"
+}

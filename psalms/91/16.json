@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 91,
+  "translation": "Kwa urefu wa siku nitamshibisha, nami nitamwonyesha wokovu wangu.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "urefu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wa siku"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "nitamshibisha"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "nami nitamwonyesha"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "wokovu wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:16.485543123Z",
+  "model": "glm-5.2"
+}

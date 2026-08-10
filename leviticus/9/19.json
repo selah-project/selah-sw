@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ mafuta kutoka kwa ng'ombe na kutoka kwa dhambi — mkia wa mafuta, na utando wa tumbo, na figo, na kibofu ya ini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka kwa"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na kutoka kwa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "dhambi"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "mkia wa mafuta"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "na utando wa tumbo"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "na figo"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "na kibofu ya"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-08-10T14:33:38.203179716Z",
+  "model": "glm-5.2"
+}

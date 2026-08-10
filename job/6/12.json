@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Je, nguvu yangu ni nguvu ya mawe? Au nyama yangu ni ya shaba?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "je, je"
+    },
+    {
+      "surface": "כח",
+      "gloss": "nguvu"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ya mawe"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "nguvu yangu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "au"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "nyama yangu"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "ni ya shaba"
+    }
+  ],
+  "timestamp": "2026-08-10T15:33:26.553424846Z",
+  "model": "glm-5.2"
+}

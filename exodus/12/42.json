@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 12:42",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Usiku wa maangalizi ⟨ni⟩ wa Yahweh, kwa kuwatoa kutoka nchi ya Mitsrayim. ⟨Huo⟩ mwenyewe ⟨ni⟩ usiku huu wa Yahweh, maangalizi kwa wote wana wa Yisra'el, kwa vizazi vyao.",
+  "tokens": [
+    {
+      "surface": "ליל",
+      "gloss": "Usiku"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "wa maangalizi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "kuwatoa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kutoka nchi ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Huo⟩ mwenyewe"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "huu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "maangalizi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa wote"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "kwa vizazi vyao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:21:06.595965534Z",
+  "model": "glm-5.2"
+}

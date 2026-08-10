@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na hema itakuwa kwa kivuli mchana kutokana na joto, na kwa mahali pa kukimbilia na kwa kifuniko kutokana na dhoruba na kutokana na mvua.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "na hema"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "itakuwa"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "kwa kivuli"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mchana"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kutokana na joto"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "na kwa mahali pa kukimbilia"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "na kwa kifuniko"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "kutokana na dhoruba"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "na kutokana na mvua"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:39.196589210Z",
+  "model": "glm-5.2"
+}

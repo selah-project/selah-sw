@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Wakaongea juu ya Elohim, walisema: Je, ⟨huwezi⟩ El kuandaa meza jangwani?",
+  "tokens": [
+    {
+      "surface": "וַֽיְדַבְּר֗וּ",
+      "gloss": "wakaongea"
+    },
+    {
+      "surface": "בֵּֽאלֹ֫הִ֥ים",
+      "gloss": "juu ya Elohim"
+    },
+    {
+      "surface": "אָמְר֗וּ",
+      "gloss": "walisema"
+    },
+    {
+      "surface": "הֲיוּכַ֣ל",
+      "gloss": "Je, huwezi"
+    },
+    {
+      "surface": "אֵ֑ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "לַעֲרֹ֥ךְ",
+      "gloss": "kuandaa"
+    },
+    {
+      "surface": "שֻׁ֝לְחָ֗ן",
+      "gloss": "meza"
+    },
+    {
+      "surface": "בַּמִּדְבָּֽר",
+      "gloss": "jangwani"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:36.102670468Z",
+  "model": "glm-5.2"
+}

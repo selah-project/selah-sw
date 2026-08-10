@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na nitawafanya ⟨את⟩ miji yenu ukiwa ukiwa, na nitazifanya mahali penu mtakatifu kuwa jangwa, wala sitapumua ⟨harufu⟩ ya harufu yenu yenye kupendeza.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Na nitawafanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miji yenu"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "miji yenu"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "kiwa ukiwa"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "na nitazifanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahali penu mtakatifu"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "mahali penu mtakatifu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuwa jangwa, wala"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "sitapumua"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "⟨harufu⟩"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "ya harufu yenu yenye kupendeza"
+    }
+  ],
+  "timestamp": "2026-08-10T15:55:05.514333694Z",
+  "model": "glm-5.2"
+}

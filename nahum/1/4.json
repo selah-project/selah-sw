@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Anakemea bahari na kukaifanya ikauke, na mito yote ameifanya ikauke; Bashan na Karmeli wamepotea, na ua wa Lebanoni umechoka.",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "anakemea"
+    },
+    {
+      "surface": "בים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "na kukaifanya ikauke"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yote"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "mito"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "ameifanya ikauke"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "wamepotea"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "na Karmeli"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "na ua"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "wa Lebanoni"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "umechoka"
+    }
+  ],
+  "timestamp": "2026-08-10T12:48:55.985223706Z",
+  "model": "glm-5.2"
+}

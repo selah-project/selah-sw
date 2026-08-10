@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Akapanga ⟨את⟩ kuni, akakata ⟨את⟩ ng'ombe, akaweka juu ya kuni.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "Akapanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuni"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "akakata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akaweka"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kuni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:43:49.361596949Z",
+  "model": "glm-5.2"
+}

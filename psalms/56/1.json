@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 56,
+  "translation": "Kwa mwonongozi. Juu ya Njiwa ya Umyumu wa Wanaombaombolea. Kwa David. Mchongo. Wakamshika ⟨את⟩ Wapelishti ⟨katika Gati⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwonongozi"
+    },
+    {
+      "surface": "על",
+      "gloss": "Juu ya"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "Njiwa ya"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "Umyumu"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "Wanaombaombolea"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Kwa David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mchongo"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "Wakamshika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Wapelishti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Wapelishti"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "katika Gati"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:16.374077979Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na David akapanda kutoka huko, akakaa katika ngome za Ein Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "na akapanda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kutoka huko"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akakaa"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "katika ngome"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:26:27.759910680Z",
+  "model": "glm-5.2"
+}

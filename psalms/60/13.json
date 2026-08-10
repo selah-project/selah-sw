@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 60,
+  "translation": "Tupatie sisi msaada dhidi ⟨ya⟩ shida, na ubatili ⟨ni⟩ wokovu wa mwanadamu.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "tupatie"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "msaada"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "dhidi shida"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "na ubatili"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "wokovu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa mwanadamu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:25.777814277Z",
+  "model": "glm-5.2"
+}

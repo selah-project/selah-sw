@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Heri ya wakamilifu ⟨katika⟩ njia yao, ⟨ao⟩ waendaotembbea katika tora ya Yahweh.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heri"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "wakamilifu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njia"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "waendaotembbea"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "katika tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:03.223343769Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Paroh afanye, na aweke wasimamizi juu ya nchi, na aweke sehemu ya tano ⟨ya⟩ ⟨את⟩ nchi ya Mitsrayim katika miaka saba ya wingi.",
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "afanye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "na aweke"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "wasimamizi"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na aweke sehemu ya tano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi ya Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "katika saba"
+    },
+    {
+      "surface": "שני",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "ya wingi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:27:12.551985891Z",
+  "model": "glm-5.2"
+}

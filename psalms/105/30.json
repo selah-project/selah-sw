@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Aliyajaza nchi yao vyura, katika vyumba vya wafalme wao.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "Aliyajaza"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nchi yao"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "vyura"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "katika vyumba vya"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "wafalme wao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:10.468612349Z",
+  "model": "glm-5.2"
+}

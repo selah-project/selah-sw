@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Akaunda ⟨את⟩ mifumo ya mbao za mshita, akazifunika ⟨אתם⟩ shaba.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Akaunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mifumo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mifumo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ya mbao"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "za mshita"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "akazifunika"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "shaba"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "shaba"
+    }
+  ],
+  "timestamp": "2026-08-10T10:29:23.658762001Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "⟨Mwenye kupenda⟩ haki na hukumu, chesed cha Yahweh kimejaza ⟨hiyo⟩ nchi.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "⟨Mwenye kupenda⟩"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "haki"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na hukumu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "cha Yahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "kimejaza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨hiyo⟩ nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:24.263939178Z",
+  "model": "glm-5.2"
+}

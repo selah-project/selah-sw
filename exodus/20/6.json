@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na kufanya chesed kwa maelfu, kwa wale wakinipenda na kwa wale wazishikao amri zangu.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Na kufanya"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "kwa maelfu"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kwa wale wakinipenda"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "na kwa wale wazishikao"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amri zangu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:29:42.104339783Z",
+  "model": "glm-5.2"
+}

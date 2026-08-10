@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "kwa maana mwamba wako na boma lako ⟨ni⟩ wewe; na kwa ajili ya jina lako uniongoze na kuiongoze.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mwamba wako"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "na boma lako"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "na kwa ajili ya"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "niongoze"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "na kuiongoze"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:18.544831241Z",
+  "model": "glm-5.2"
+}

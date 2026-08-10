@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Waliohesabiwa kwao kwa kabila la Gad ⟨walikuwa⟩ elfu arobaini na tano, sita mia na hamsini.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "waliohesabiwa kwao"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "kwa kabila"
+    },
+    {
+      "surface": "גד",
+      "gloss": "la Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "tano"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na arobaini"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "sita"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na hamsini"
+    }
+  ],
+  "timestamp": "2026-08-10T10:39:32.425763759Z",
+  "model": "glm-5.2"
+}

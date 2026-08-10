@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Kwa maana hakuna katika kifo kukukumbuka; katika Sheol ni nani atakayekushukuru?",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "בַּמָּ֣וֶת",
+      "gloss": "katika kifo"
+    },
+    {
+      "surface": "זִכְרֶ֑ךָ",
+      "gloss": "kukumbuka"
+    },
+    {
+      "surface": "בִּ֝שְׁא֗וֹל",
+      "gloss": "katika Sheol"
+    },
+    {
+      "surface": "מִ֣י",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "יֽוֹדֶה",
+      "gloss": "atakayeshukuru"
+    },
+    {
+      "surface": "לָּֽךְ",
+      "gloss": "wewe"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:40.199964965Z",
+  "model": "glm-5.2"
+}

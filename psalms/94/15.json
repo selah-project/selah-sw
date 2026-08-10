@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 94,
+  "translation": "Kwa maana hukumu itarejea ⟨kwenye⟩ haki, na nyuma yake ⟨watategemea⟩ wote wenye moyo wa kweli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨kwenye⟩"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "haki"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "itarejea"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "na nyumba yake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "wenye moyo wa kweli"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨moyo⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:39.447547528Z",
+  "model": "glm-5.2"
+}

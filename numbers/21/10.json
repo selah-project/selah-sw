@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na wana wa Yisra'eli wakaondoka, wakapiga kambi huko Oboth.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "na wakaondoka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "wakapiga kambi"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "huko Oboth"
+    }
+  ],
+  "timestamp": "2026-08-10T10:46:43.565586588Z",
+  "model": "glm-5.2"
+}

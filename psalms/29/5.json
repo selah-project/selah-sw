@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Sauti ya Yahweh wavunja misedarsi, na Yahweh akavunja ⟨את⟩ misedarsi ya mlima wa Levanoni.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Sauti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "wavunja"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "misedarsi"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "na akavunja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misedarsi"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "misedarsi"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ya mlima wa Levanoni"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:22.459239271Z",
+  "model": "glm-5.2"
+}

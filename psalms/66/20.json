@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 66,
+  "translation": "Abarikiwe Elohim, ambaye hakumkataliza sala yangu, wala chesed yake ⟨ץ⟩ ⟨את⟩ kutoka kwangu.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Abarikiwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haku"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "mkataliza"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "sala yangu"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "wala chesed yake"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩",
+      "marks": "kutoka kwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:51.543898643Z",
+  "model": "glm-5.2"
+}

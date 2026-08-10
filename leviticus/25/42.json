@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Kwa kuwa watumwa wangu ni wao, ambao nimewatoa ⟨אתם kutoka nchi ya Mitsrayim; hawatauzwa kwa uuzaji wa mtumwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "watumwa wangu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ni wao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "nimewatoa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kutoka nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawatauzwa"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "⟨hive⟩"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "kwa uuzaji"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "wa mtumwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:53.439816790Z",
+  "model": "glm-5.2"
+}

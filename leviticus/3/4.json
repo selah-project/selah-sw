@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na ⟨את⟩ figo mbili, na ⟨את⟩ mafuta yaliyo juu yake, yaliyo juu ya viuno, na ⟨את⟩ kishogo juu ya ini, pamoja na figo ataviondoa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "figo mbili"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "figo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaliyo"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaliyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "viuno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kishogo"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "kishogo"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ini"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "figo"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ataviondoa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:39.625212145Z",
+  "model": "glm-5.2"
+}

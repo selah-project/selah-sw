@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 29:16",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Na m-buzi mmoja wa mbuzi, kafara ya dhambi; mbali na ⟨עלה⟩ ya daima, sadaka yake ya nafaka na mtembe wao.",
+  "tokens": [
+    {
+      "surface": "וּשְׂעִיר",
+      "gloss": "na m-buzi"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "wa mbuzi"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "חַטָּ֑את",
+      "gloss": "kafara ya dhambi"
+    },
+    {
+      "surface": "מִלְּבַד֙",
+      "gloss": "mbali na"
+    },
+    {
+      "surface": "עֹלַ֣ת",
+      "gloss": "⟨עלה⟩"
+    },
+    {
+      "surface": "הַתָּמִ֔יד",
+      "gloss": "ya daima"
+    },
+    {
+      "surface": "מִנְחָתָ֖הּ",
+      "gloss": "sadaka yake ya nafaka"
+    },
+    {
+      "surface": "וְנִסְכָּֽהּ",
+      "gloss": "na mtembe wao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:41:13.610717550Z",
+  "model": "glm-5.2"
+}

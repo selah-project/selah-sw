@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 6:13",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Yahweh akamwambia Moshe na ⟨akamwambia⟩ Aharon, akawapa amri ⟨kwa⟩ wana wa Yisra'el na ⟨kwa⟩ Paroh mfalme wa Mitsrayim, kuwatoa ⟨את⟩ wana wa Yisra'el kutoka nchi ya Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ⟨kwa⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "akawapa amri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ⟨kwa⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayim"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "kuwatoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana wa Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kutoka nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:29.825904963Z",
+  "model": "glm-5.2"
+}

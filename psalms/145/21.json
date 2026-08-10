@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 145,
+  "translation": "Sifa ya Yahweh kinywa chaki ⟨ki⟩kitazungumza, na nyama yote ⟨i⟩mhimiliye jina la utakatifu wake, milele na milele.",
+  "tokens": [
+    {
+      "surface": "תְּהִלַּ֥ת",
+      "gloss": "sifa"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "יְֽדַבֶּ֫ר",
+      "gloss": "kitazungumza"
+    },
+    {
+      "surface": "פִּ֥י",
+      "gloss": "kinywa chaki"
+    },
+    {
+      "surface": "וִיבָרֵ֣ךְ",
+      "gloss": "na ⟨i⟩mhimiliye"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "בָּ֭שָׂר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "שֵׁ֥ם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "קָדְשׁ֗וֹ",
+      "gloss": "la utakatifu wake"
+    },
+    {
+      "surface": "לְעוֹלָ֥ם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "וָעֶֽד",
+      "gloss": "na milele"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:32.330783247Z",
+  "model": "glm-5.2"
+}

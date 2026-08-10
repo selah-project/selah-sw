@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 44:8",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Msiogope wala msitetee; je, si tangu zamani nilikufanya usikie na nikatangaza? Nanyi ni mashahidi wangu. Je, kuna Eloah pasipo mimi? Na hakuna mwamba; sijui.",
+  "tokens": [
+    {
+      "surface": "אַֽל",
+      "gloss": "Msi-"
+    },
+    {
+      "surface": "תִּפְחֲדוּ֙",
+      "gloss": "ogope"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "wala msi-"
+    },
+    {
+      "surface": "תִּרְה֔וּ",
+      "gloss": "tetee"
+    },
+    {
+      "surface": "הֲלֹ֥א",
+      "gloss": "je, si"
+    },
+    {
+      "surface": "מֵאָ֛ז",
+      "gloss": "tangu zamani"
+    },
+    {
+      "surface": "הִשְׁמַעְתִּ֥יךָ",
+      "gloss": "nilikufanya usikie"
+    },
+    {
+      "surface": "וְהִגַּ֖דְתִּי",
+      "gloss": "na nikatangaza"
+    },
+    {
+      "surface": "וְאַתֶּ֣ם",
+      "gloss": "Nanyi"
+    },
+    {
+      "surface": "עֵדָ֑י",
+      "gloss": "ni mashahidi wangu"
+    },
+    {
+      "surface": "הֲיֵ֥שׁ",
+      "gloss": "Je, kuna"
+    },
+    {
+      "surface": "אֱל֨וֹהַּ֙",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מִבַּלְעָדַ֔י",
+      "gloss": "pasipo mimi"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "Na hakuna"
+    },
+    {
+      "surface": "צ֖וּר",
+      "gloss": "mwamba"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "(hakuna)"
+    },
+    {
+      "surface": "יָדָֽעְתִּי",
+      "gloss": "sijui"
+    }
+  ],
+  "timestamp": "2026-08-10T15:08:03.337422372Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 1:10",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Siku ya saba, kama vile moyo wa mfalme ulipokuwa mzuri kwa divai, aliwaambia Mehumanu, Bizita, Harbona, Bigta, na Abagta, Zetari, na Karkasi, wasaba wahasidi waliotumikia ⟨mbele ya⟩ uso wa mfalme Achashverosh.",
+  "tokens": [
+    {
+      "surface": "בַּיּוֹם֙",
+      "gloss": "Siku ya"
+    },
+    {
+      "surface": "הַשְּׁבִיעִ֔י",
+      "gloss": "saba"
+    },
+    {
+      "surface": "כְּט֥וֹב",
+      "gloss": "kama vile … mzuri"
+    },
+    {
+      "surface": "לֵב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "הַמֶּ֖לֶךְ",
+      "gloss": "wa mfalme"
+    },
+    {
+      "surface": "בַּיָּ֑יִן",
+      "gloss": "kwa divai"
+    },
+    {
+      "surface": "אָמַ֡ר",
+      "gloss": "aliwaambia"
+    },
+    {
+      "surface": "לִ֠מְהוּמָן",
+      "gloss": "Mehumanu"
+    },
+    {
+      "surface": "בִּזְּתָ֨א",
+      "gloss": "Bizita"
+    },
+    {
+      "surface": "חַרְבוֹנָא",
+      "gloss": "Harbona"
+    },
+    {
+      "surface": "בִּגְתָ֤א",
+      "gloss": "Bigta"
+    },
+    {
+      "surface": "וַאֲבַגְתָא֙",
+      "gloss": "na Abagta"
+    },
+    {
+      "surface": "זֵתַ֣ר",
+      "gloss": "Zetari"
+    },
+    {
+      "surface": "וְכַרְכַּ֔ס",
+      "gloss": "na Karkasi"
+    },
+    {
+      "surface": "שִׁבְעַת֙",
+      "gloss": "wasaba"
+    },
+    {
+      "surface": "הַסָּ֣רִיסִ֔ים",
+      "gloss": "wahasidi"
+    },
+    {
+      "surface": "הַמְשָׁ֣רְתִ֔ים",
+      "gloss": "waliotumikia"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mbele ya uso"
+    },
+    {
+      "surface": "פְּנֵ֖י",
+      "gloss": "mbele ya uso"
+    },
+    {
+      "surface": "הַמֶּ֥לֶךְ",
+      "gloss": "wa mfalme"
+    },
+    {
+      "surface": "אֲחַשְׁוֵרֽוֹשׁ",
+      "gloss": "Achashverosh"
+    }
+  ],
+  "timestamp": "2026-08-10T13:48:46.511441405Z",
+  "model": "glm-5.2"
+}

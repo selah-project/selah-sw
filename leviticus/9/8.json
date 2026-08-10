@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Aharon akakaribia mbele ya madhabahu, akachinja ⟨את⟩ ndama wa dhambi ambaye ⟨alikuwa⟩ wake.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "akakaribia"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "akachinja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndama wa dhambi"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ndama"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "wa dhambi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:05.439969210Z",
+  "model": "glm-5.2"
+}

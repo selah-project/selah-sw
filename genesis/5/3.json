@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na Adam akaishi miaka ⟨thelathini⟩ na mia, naye akazaa kwa mfano wake, kwa sura yake, naye akaita ⟨את⟩ jina lake Shet.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Na akaishi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thelathini"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na mia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "naye akazaa"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "kwa mfano wake"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "kwa sura yake"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "naye akaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina lake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    }
+  ],
+  "timestamp": "2026-08-10T15:49:16.761874310Z",
+  "model": "glm-5.2"
+}

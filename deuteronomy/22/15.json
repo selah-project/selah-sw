@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Na baba wa huyo ➔msichana➔ na mama yake watatoa ⟨את⟩ ushahidi wa ubikera wa huyo ➔msichana➔ mbele ya wazee wa mji, huo mlango.",
+  "tokens": [
+    {
+      "surface": "וְלָקַ֛ח",
+      "gloss": "na atachukua"
+    },
+    {
+      "surface": "אֲבִ֥י",
+      "gloss": "baba"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wa huyo msichana"
+    },
+    {
+      "surface": "וְאִמָּ֑הּ",
+      "gloss": "na mama yake"
+    },
+    {
+      "surface": "וְהוֹצִ֜יאוּ",
+      "gloss": "na watatoa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ushahidi wa ubikira wa huyo msichana"
+    },
+    {
+      "surface": "בְּתוּלֵ֧י",
+      "gloss": "ushahidi wa ubikira"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wa huyo msichana"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "זִקְנֵ֥י",
+      "gloss": "wazee"
+    },
+    {
+      "surface": "הָעִ֖יר",
+      "gloss": "wa mji"
+    },
+    {
+      "surface": "הַשָּֽׁעְרָה",
+      "gloss": "uo mlango"
+    }
+  ],
+  "timestamp": "2026-08-10T11:01:08.839092725Z",
+  "model": "glm-5.2"
+}

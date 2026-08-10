@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 125,
+  "translation": "Maana fimbo ya uovu haitapumzika juu ya bahati ya wakolwa, ili wakolwa wasitumanie mikono yao katika ovu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hai"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "tapumzika"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "fimbo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ya uovu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "bahati"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "ya wakolwa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "tumanie"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "wakolwa"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "katika ovu"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mikono yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:33.043215652Z",
+  "model": "glm-5.2"
+}

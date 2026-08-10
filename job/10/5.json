@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Je, siku zako ni kama siku za enosh, au miaka yako kama siku za geber?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "je, ni kama siku za"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "enosh"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "siku zako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "au"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "miaka yako"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kama siku za"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "geber"
+    }
+  ],
+  "timestamp": "2026-08-10T15:33:24.802732855Z",
+  "model": "glm-5.2"
+}

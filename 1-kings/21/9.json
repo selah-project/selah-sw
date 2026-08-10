@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na akaandika katika ⟨the⟩ barua, kusema: Tangazeni ⟨a⟩ fasting, na mwekeni ⟨את⟩ Navothi mbele ya ⟨the⟩ umma.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "Na akaandika"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "katika barua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kusema"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "Tangazeni"
+    },
+    {
+      "surface": "צום",
+      "gloss": "fasting"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "na mwekeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navothi"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navothi"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umma"
+    }
+  ],
+  "timestamp": "2026-08-10T11:44:27.408547441Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Kwa sababu ya baridi mvivu hapalimi; ataomba wakati wa mavuno, na ⟨hapana⟩ kitu.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "Kwa sababu ya baridi"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "mvivu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapalimi"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "hapalimi"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "ataomba"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "wakati wa mavuno"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ⟨hapana⟩ kitu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:27:43.236874534Z",
+  "model": "glm-5.2"
+}

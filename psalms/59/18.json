@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 59,
+  "translation": "Nguvu zangu, kwako nitazimu; kwa kuwa Elohim ni ngome yangu, Elohim wa chesed yangu.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Nguvu zangu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nitazimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ni ngome yangu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "chesed yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:28.160124737Z",
+  "model": "glm-5.2"
+}

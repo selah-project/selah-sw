@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Nikawa nimeweka hapo mahali pa sanduku ⟨wa⟩ agano la Yahweh, ambalo alilikata na baba zetu miongoni mwa kuwatoa ⟨את⟩ kutoka nchi ya Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "nikawa nimeweka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hapo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "pa sanduku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "papo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "agano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "alilikata"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "baba zetu"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "miongoni mwa kuwatoa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuwatoa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kutoka nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T11:40:21.707166775Z",
+  "model": "glm-5.2"
+}

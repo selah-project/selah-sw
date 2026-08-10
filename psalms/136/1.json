@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 136,
+  "translation": "Mshukuru Yahweh, maana ⟨yeye⟩ ni mwema, maana chesed chake ⟨hudumu⟩ milele.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Mshukuru"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed chake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:40.662204861Z",
+  "model": "glm-5.2"
+}

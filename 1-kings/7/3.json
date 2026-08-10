@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Ilikuwa imefunikwa kwa masedari juu, juu ya mbavu zilizokuwa juu ya nguzo, arobaini na tano; kumi na tano kwa kila safu.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "imefunikwa"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "kwa masedari"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "juu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "mbavu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zilizokuwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "nguzo"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "arobaini"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "na tano"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "kumi na tano"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "↔"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "safu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:39:05.059897991Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 140,
+  "translation": "Makaa yateleze juu yao; katika moto awatupe; katika mashimo wala wasiinuke.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "yateleze"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "juu yao"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "Makaa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "katika moto"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "awatupe"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "katika mashimo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "wasiinuke"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:15.709800553Z",
+  "model": "glm-5.2"
+}

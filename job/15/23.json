@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 15:23",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Yeye anatangatanga kwa mikate: 'Iko wapi?' ⟨hu⟩jua kwamba siku ya giza imeandaliwa mkononi mwake.",
+  "tokens": [
+    {
+      "surface": "נדד",
+      "gloss": "anatangatanga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "kwa mikate"
+    },
+    {
+      "surface": "איה",
+      "gloss": "iko wapi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "⟨hu⟩jua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "imeandaliwa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mkononi mwake"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ya giza"
+    }
+  ],
+  "timestamp": "2026-08-10T15:33:42.741959114Z",
+  "model": "glm-5.2"
+}

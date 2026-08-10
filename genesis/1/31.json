@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Elohim akaona ⟨את⟩ vyote alivyounda, na tazama, nili jema sana. Na ikawa jioni, na ikawa asubuhi, siku ya sita.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "na akaona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "alivyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "unda"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jema"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ikawa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "jioni"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ikawa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ya sita"
+    }
+  ],
+  "timestamp": "2026-08-10T17:40:17.176073775Z",
+  "model": "glm-5.2"
+}

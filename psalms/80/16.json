@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 80,
+  "translation": "na ⟨kile⟩ kilichopandwa na mkono wako wa kulioto, na juu ya mwana uliyemtie nguvu kwa ajili yako.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "na shina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "ulilopanda"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "mkono wako wa kulioto"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "uliyemtie nguvu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa ajili yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:12.175412249Z",
+  "model": "glm-5.2"
+}

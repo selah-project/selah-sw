@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na wakaacha huko ⟨את⟩ sanamu zao, na David na watu wake akazichukua.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "na wakaacha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanamu zao"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "sanamu zao"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "na akazichukua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "na watu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:30:12.522570693Z",
+  "model": "glm-5.2"
+}

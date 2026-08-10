@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na wataweka ⟨את⟩⟨yeye⟩ na ⟨את⟩ vyombo vyake vyote ndani ya kifuniko cha ngozi ya tahash, na wataweka juu ya bao.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "na wataweka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vyombo vyake vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "vyombo vyake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndani ya"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "kifuniko"
+    },
+    {
+      "surface": "עור",
+      "gloss": "cha ngozi"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "ya tahash"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "na wataweka"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "bao"
+    }
+  ],
+  "timestamp": "2026-08-10T18:27:47.674088337Z",
+  "model": "glm-5.2"
+}

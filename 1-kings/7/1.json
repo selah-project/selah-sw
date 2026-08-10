@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na ⟨את⟩ nyumba yake Shelomoh alijenga, miaka kumi na tatu, akakamilisha ⟨את⟩ nyumba yake yote.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "alijenga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "akakamilisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba yake yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:39:05.059448730Z",
+  "model": "glm-5.2"
+}

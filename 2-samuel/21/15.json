@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Vita vikaendelea tena kwa Wapelishti ⟨na⟩ Yisraeli; Davidi akashuka pamoja na watumishi wake, wakapigana ⟨na⟩ Wapelishti, naye Davidi akauchoka.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "vikaendelea"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "vita"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "kwa Wapelishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨na⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "akashuka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "na watumishi wake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "wakapigana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨na⟩",
+      "marks": "Wapelishti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Wapelishti"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "akauchoka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:57:30.477182490Z",
+  "model": "glm-5.2"
+}

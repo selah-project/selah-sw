@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Mashauri ningapi kuliko walimwzi wangu niliyapata, maana ushahidi wako ni mazungumzo yangu.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "kuliko wote"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "walimwzi wangu"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "niliyapata mashauri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ushahidi wako"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "ni mazungumzo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:40.505314331Z",
+  "model": "glm-5.2"
+}

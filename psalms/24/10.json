@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Ni nani yeye huu, mfalme wa utukufu? Yahweh Tzevaot — yeye ndiye mfalme wa utukufu. Selah.",
+  "tokens": [
+    {
+      "surface": "מִי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "זֶה",
+      "gloss": "huu"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "mfalme wa"
+    },
+    {
+      "surface": "הַכָּבוֹד",
+      "gloss": "utukufu"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְבָאוֹת",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "mfalme wa"
+    },
+    {
+      "surface": "הַכָּבוֹד",
+      "gloss": "utukufu"
+    },
+    {
+      "surface": "סֶלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:56.243535847Z",
+  "model": "glm-5.2"
+}

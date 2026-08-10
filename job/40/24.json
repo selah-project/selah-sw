@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 40:24",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Je, ⟨mtu⟩ atamchukua mbele ya macho yake? Au kwa mitego atamtoboa pua?",
+  "tokens": [
+    {
+      "surface": "בְּעֵינָ֥יו",
+      "gloss": "mbele ya macho yake"
+    },
+    {
+      "surface": "יִקָּחֶ֑נּוּ",
+      "gloss": "atamchukua"
+    },
+    {
+      "surface": "בְּמֽוֹקְשִׁ֗ים",
+      "gloss": "kwa mitego"
+    },
+    {
+      "surface": "יִנְקָב",
+      "gloss": "atamtoboa"
+    },
+    {
+      "surface": "אָֽף",
+      "gloss": "pua"
+    }
+  ],
+  "timestamp": "2026-08-10T13:40:50.274666751Z",
+  "model": "glm-5.2"
+}

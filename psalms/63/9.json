@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 63,
+  "translation": "Nafsi yangu inambatia sana: ⟨haki yako⟩ yeminikani ⟨i⟩ ikinishika imara.",
+  "tokens": [
+    {
+      "surface": "דָּבְקָ֣ה",
+      "gloss": "inambatia sana"
+    },
+    {
+      "surface": "נַפְשִׁ֣י",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "אַחֲרֶ֑יךָ",
+      "gloss": "nyuma yako"
+    },
+    {
+      "surface": "בִּ֝֗י",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "תָּמְכָ֥ה",
+      "gloss": "ikinishika imara"
+    },
+    {
+      "surface": "יְמִינֶֽךָ",
+      "gloss": "yeminikani"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:56.146538347Z",
+  "model": "glm-5.2"
+}

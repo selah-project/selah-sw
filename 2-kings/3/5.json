@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Ikawa baada ya kufa ⟨Achab⟩ mfalme wa Moabu akasihi dhidi ya mfalme wa Israeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "baada ya kufa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "akasihi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "wa Moabu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "dhidi ya mfalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Israeli"
+    }
+  ],
+  "timestamp": "2026-08-10T11:45:59.806821427Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Ninyi mcheni Yahweh, msifuni ⟨yeye⟩; mbegu yote ya Yaakov, mtukuzeni ⟨yeye⟩; naogopeni kutoka kwake, mbegu yote ya Yisrael.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Ninyi mcheni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "msifuni ⟨yeye⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbegu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakov"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "mtukuzeni ⟨yeye⟩"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "naogopeni"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kutoka kwake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbegu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:49.592172076Z",
+  "model": "glm-5.2"
+}

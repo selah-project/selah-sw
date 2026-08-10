@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Shaul akaona ya kwamba yeye ni mwenye busara sana, akaogopa kutoka kwa uso wake.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ni mwenye busara"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "akaogopa"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kutoka kwa uso wake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:24:42.913818136Z",
+  "model": "glm-5.2"
+}

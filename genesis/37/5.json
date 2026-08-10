@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Yosef aliota ndoto, akaiwaambia ndugu zake, nao wakaongeza bado kumchukia ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "aliota"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ndoto"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akaiwaambia"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "wakaongeza"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bado"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "kumchukia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T10:12:20.813147382Z",
+  "model": "glm-5.2"
+}

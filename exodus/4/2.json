@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Yahweh akamwambia: Ni nini hili ⟨koko⟩ mkononi mwako? Naye akasema: Fimbo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ni nini hili"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mkononi mwako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "fimbo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:01.146773731Z",
+  "model": "glm-5.2"
+}

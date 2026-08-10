@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Yehoshua akaamuru ⟨את⟩ maofisa wa watu, akisema:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "akaamuru"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maofisa wa watu"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "maofisa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wa watu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    }
+  ],
+  "timestamp": "2026-08-10T14:44:39.012045382Z",
+  "model": "glm-5.2"
+}

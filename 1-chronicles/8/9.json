@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na akamzaa mke wake ⟨את⟩ Yovavu na ⟨את⟩ Tsivya na ⟨את⟩ Meshi na ⟨את⟩ Malkamu.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "na akamzaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka kwa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Chodeshi"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mke wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yovavu"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovavu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tsivya"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsivya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Meshi"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Meshi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Malkamu"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkamu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:05:19.907099556Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 11:14",
+  "book": "zechariah",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Nikakata ⟨את⟩ fimbo yangu ya pili, ⟨את⟩ ⟨hiyo ya⟩ Vifungo, ili kuvunja ⟨את⟩ udugu kati ya Yehudah na kati ya Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ואגדע",
+      "gloss": "Nikakata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fimbo yangu"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "fimbo yangu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya pili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨hiyo ya⟩",
+      "marks": "Vifungo"
+    },
+    {
+      "surface": "החבלim",
+      "gloss": "Vifungo"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "ili kuvunja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udugu"
+    },
+    {
+      "surface": "האחוה",
+      "gloss": "udugu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-10T12:53:31.262290744Z",
+  "model": "glm-5.2"
+}

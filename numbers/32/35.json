@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Na ⟨את⟩ Atarothi-Shophani na ⟨את⟩ Yazeri na Yogbeha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Atarothi-Shophani"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarothi"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Shophani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yazeri"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazeri"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "na Yogbeha"
+    }
+  ],
+  "timestamp": "2026-08-10T10:51:46.926375536Z",
+  "model": "glm-5.2"
+}

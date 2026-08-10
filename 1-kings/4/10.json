@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Ben-Chesed, katika Aruboth; lake ⟨alikuwa⟩ Sokoh na ⟨eneo⟩ lote la chepher:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Chesed"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "katika Aruboth"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lake"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na lote"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "eneo la"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Chepher"
+    }
+  ],
+  "timestamp": "2026-08-10T11:37:07.372026284Z",
+  "model": "glm-5.2"
+}

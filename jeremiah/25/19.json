@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "⟨Na⟩ ⟨את⟩ Paroh mfalme wa Mitsrayim, na ⟨את⟩ watumishi wake, na ⟨את⟩ masharifu wake, na ⟨את⟩ watu wake wote.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh mfalme wa Mitsrayim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "watumishi wake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumishi wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "masharifu wake"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "masharifu wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "watou wake wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "watu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:17:50.831746974Z",
+  "model": "glm-5.2"
+}

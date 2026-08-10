@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Atakayekufa kwa Baasha mjini, mbwa watamla; na atakayekufa kwake shambani, ndege wa mbingu watamla.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "atakayekufa"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "kwa Baasha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mjini"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "watamla"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "mbwa"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "na atakayekufa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "shambani"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "watamla"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ndege"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wa mbingu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:43:14.614238681Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na wana wa Yisra'el wafanye ⟨את⟩ Pasaka kwa wakati wake ulioteuliwa.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Na wafanye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pasaka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pasaka"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "kwa wakati wake ulioteuliwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:43:27.194778767Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Nami nitawabariki wanaokubariki, na yule akuhudhunikaye nitamlaani; na katika wewe watabarikiwa jamaa zote za ⟨ה⟩ ardhi.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "nami nitawabariki"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "wanaokubariki"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "na yule akuhudhunikaye"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "nitamlaani"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "watabarikiwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "katika wewe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "jamaa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "za ⟨the⟩ ardhi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:04:05.821616220Z",
+  "model": "glm-5.2"
+}

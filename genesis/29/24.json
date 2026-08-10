@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Lavan akampa ⟨את⟩ Zilpa mjakazi wake — kwa Lea binti yake — kuwa mjakazi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akampa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "mjakazi wake"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "kwa Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "binti yake"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "kuwa mjakazi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:08:33.138135592Z",
+  "model": "glm-5.2"
+}

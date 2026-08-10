@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Pengineeni nguvu Elohim; juu ya Yisrael ⟨ndiyo⟩ enzi yake; na nguvu yake ⟨ipo⟩ katika mawingu.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Pengineeni"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguvu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "enzi yake"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "na nguvu yake"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "katika mawingu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:52.791700171Z",
+  "model": "glm-5.2"
+}

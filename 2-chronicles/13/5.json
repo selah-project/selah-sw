@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 13:5",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Je, si kwenu kujua ya kwamba Yahweh, Elohim wa Yisrael, alimpa ufalme David juu ya Yisrael milele, kwake na kwa wanawe ⟨kwa⟩ beriti ya chumvi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "je, si"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kujua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "alimpa"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "ufalme"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "na kwa wanawe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨kwa⟩ beriti ya"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "chumvi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:44:54.192580501Z",
+  "model": "glm-5.2"
+}

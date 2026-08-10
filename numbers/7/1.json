@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 7:1",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Ikawa siku ya Moshe kumaliza kuweka ⟨את⟩ hema, akapaka mafuta ⟨את⟩ ⟨iyo⟩ na kuitakasa, ⟨na⟩ ⟨את⟩ vyombo vyake vyote, na ⟨את⟩ madhabahu na ⟨את⟩ vyombo vyake vyote; akavipaka mafuta na kuvitakasa ⟨את⟩ ⟨avyo⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ikawa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "kumaliza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "kuweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "hema"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "akapaka mafuta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨iyo⟩",
+      "marks": "hema"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "na kuitakasa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨iyo⟩",
+      "marks": "hema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨na⟩ ⟨את⟩",
+      "marks": "vyombo vyake vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "vyombo vyake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "madhabahu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vyombo vyake vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "vyombo vyake"
+    },
+    {
+      "surface": "וימשחם",
+      "gloss": "akavipaka mafuta"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "na kuvitakasa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨avyo⟩",
+      "marks": "hema na vyombo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:41:47.026737161Z",
+  "model": "glm-5.2"
+}

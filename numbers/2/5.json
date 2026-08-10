@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na wanaoshamba karibu naye ⟨ni⟩ kabila la Yissaskar, na mkuu wa wana wa Yissaskar ⟨ni⟩ Netan'eli mwana wa Tsuari.",
+  "tokens": [
+    {
+      "surface": "וְהַחֹנִ֥ים",
+      "gloss": "Na wanaoshamba"
+    },
+    {
+      "surface": "עָלָ֖יו",
+      "gloss": "karibu naye"
+    },
+    {
+      "surface": "מַטֵּ֣ה",
+      "gloss": "kabila"
+    },
+    {
+      "surface": "יִשָּׂשכָ֑ר",
+      "gloss": "la Yissaskar"
+    },
+    {
+      "surface": "וְנָשִׂיא֙",
+      "gloss": "na mkuu"
+    },
+    {
+      "surface": "לִבְנֵ֣י",
+      "gloss": "wa wana wa"
+    },
+    {
+      "surface": "יִשָּׂשכָ֔ר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "נְתַנְאֵ֖ל",
+      "gloss": "Netan'eli"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "צוּעָֽר",
+      "gloss": "Tsuari"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:00.948020952Z",
+  "model": "glm-5.2"
+}

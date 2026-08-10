@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 115,
+  "translation": "Mbingu, mbingu ⟨ni⟩ za Yahweh, lakini ⟨hiyo⟩ nchi amewapa wana wa Adamu.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Mbingu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "za Yahweh"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "lakini ⟨hiyo⟩ nchi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "amewapa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:24.193379853Z",
+  "model": "glm-5.2"
+}

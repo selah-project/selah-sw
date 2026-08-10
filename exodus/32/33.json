@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Yahweh akamwambia Moshe: Yeyote ambaye ametenda dhambi dhidi yangu, nitamfuta katika kitabu changu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yeyote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ametenda dhambi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dhidi yangu"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "nitamfuta"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "katika kitabu changu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:52:46.617445540Z",
+  "model": "glm-5.2"
+}

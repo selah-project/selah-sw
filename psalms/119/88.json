@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Kwa chesed yako nihuishe, ili nizishike amri za kinywa chako.",
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "kwa chesed yako"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "nihuishe"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ili nizishike"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "amri za"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "kinywa chako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:23.390567019Z",
+  "model": "glm-5.2"
+}

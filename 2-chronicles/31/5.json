@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 31:5",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Na amri iliposambaa, wana wa Yisrael walileta kwa wingi mazao ya kwanza ya nafaka, divai mpya, mafuta, asali, na mazao yote ya shamba; na zaka ya yote walileta kwa wingi.",
+  "tokens": [
+    {
+      "surface": "וכפרץ",
+      "gloss": "na iliposambaa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "amri"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "walileta kwa wingi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "mazao ya kwanza"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "nafaka"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "divai mpya"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "na asali"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yote"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "mazao"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ya shamba"
+    },
+    {
+      "surface": "ומעשר",
+      "gloss": "na zaka"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ya yote"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "kwa wingi"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "walileta"
+    }
+  ],
+  "timestamp": "2026-08-10T15:47:08.919953671Z",
+  "model": "glm-5.2"
+}

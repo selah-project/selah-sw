@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Basi zote siku za Sheth zilikuwa miaka mia tisa na kumi na mbili, naye akafa.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "zikawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "siku za"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sheth"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "na kumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "na tisa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "naye akafa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:14.586992037Z",
+  "model": "glm-5.2"
+}

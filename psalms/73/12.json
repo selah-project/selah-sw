@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 73,
+  "translation": "Tazama, hawa ni waovu, na walio huru daima wamepata mali.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ni waovu"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "na walio huru"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daima"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "wamepata"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mali"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:12.396422258Z",
+  "model": "glm-5.2"
+}

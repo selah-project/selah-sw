@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 88,
+  "translation": "Na maombi yangu yafike mbele zako, telekeza sikio lako kwa kilio changu.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "yafike"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbele zako"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "na maombi yangu"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "telekeza"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "sikio lako"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "kwa kilio changu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:37.592501098Z",
+  "model": "glm-5.2"
+}

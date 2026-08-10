@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 17:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Kwa watu, mkono wako, Yahweh, kwa watu wa dunia hii — falme yao ni ⟨katika⟩ uhai; na hazina yako uliyoficha unaijaza tumbo lao, washibe kwa wana, na waache mabaki yao kwa watoto wao wadogo.",
+  "tokens": [
+    {
+      "surface": "ממתים",
+      "gloss": "kwa watu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mkono wako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ממתים",
+      "gloss": "kwa watu"
+    },
+    {
+      "surface": "מחלד",
+      "gloss": "wa dunia hii"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "falme yao"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "⟨katika⟩ uhai"
+    },
+    {
+      "surface": "וצפינך",
+      "gloss": "na hazina yako uliyoficha"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "unaijaza"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "tumbo lao"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "washibe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kwa wana"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "na waache"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "mabaki yao"
+    },
+    {
+      "surface": "לעולליהם",
+      "gloss": "kwa watoto wao wadogo"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:05.676406521Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Hakuna mtakatifu kama Yahweh, kwa maana hakuna ila wewe, na hakuna mwamba kama Elohim wetu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Hakuna"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mtakatifu"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "kama Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "ila wewe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na hakuna"
+    },
+    {
+      "surface": "צור",
+      "gloss": "mwamba"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "kama Elohim wetu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:50:55.701107550Z",
+  "model": "glm-5.2"
+}

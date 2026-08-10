@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Uchi wa dada ya baba yako hutofunua; ⟨hiyo ni⟩ mwili wa baba yako.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Uchi"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "wa dada"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya baba yako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "huto"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "funua"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "mwili"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wa baba yako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hiyo ni"
+    }
+  ],
+  "timestamp": "2026-08-10T17:58:55.623969152Z",
+  "model": "glm-5.2"
+}

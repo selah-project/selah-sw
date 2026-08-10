@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Hivi asema Yahweh ⟨Mfanyaji⟩ wake, Yahweh ⟨Mwundaji⟩ wake kuiliandaa, Yahweh ndiye jina lake:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Hivi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨Mfanyaji⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "⟨Mwundaji⟩"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ wake",
+      "marks": "kuiliandaa"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "kuiliandaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:20:11.062873461Z",
+  "model": "glm-5.2"
+}

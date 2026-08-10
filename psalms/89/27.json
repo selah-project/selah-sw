@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Yeye ataniniita: «Wewe ni baba yangu, El wangu, na mwamba wa wokovu wangu.»",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Yeye"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "ataniniita"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba yangu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wewe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El wangu"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "na mwamba"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "wa wokovu wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:42.625601738Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na Zabad alimzaa ⟨את⟩ Eflal, na Eflal alimzaa ⟨את⟩ Obedi.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Na Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eflal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Eflal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "na Eflal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obedi"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obedi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:03:08.675987185Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 55,
+  "translation": "Ambaye pamoja tulitengeneza ⟨siri⟩ tamu, katika nyumba ya Elohim tulitembea pamoja.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "Ambaye"
+    },
+    {
+      "surface": "יַ֭חְדָּו",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "נַמְתִּ֣יק",
+      "gloss": "tulitengeneza tamu"
+    },
+    {
+      "surface": "ס֑וֹד",
+      "gloss": "⟨siri⟩"
+    },
+    {
+      "surface": "בְּבֵ֥ית",
+      "gloss": "katika nyumba"
+    },
+    {
+      "surface": "אֱ֝לֹהִ֗ים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "נְהַלֵּ֥ךְ",
+      "gloss": "tulitembea"
+    },
+    {
+      "surface": "בְּרָֽגֶשׁ",
+      "gloss": "pamoja"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:23.825981325Z",
+  "model": "glm-5.2"
+}

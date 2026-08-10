@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 88,
+  "translation": "Ghadhabu yako inategemea juu yangu, na mawimbi yako yote umeniudhi. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "inategemea"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ghadhabu yako"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yote"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "mawimbi yako"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "umeniudhi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:47.498286043Z",
+  "model": "glm-5.2"
+}

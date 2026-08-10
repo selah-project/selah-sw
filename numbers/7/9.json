@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na kwa wana wa Kehath hakumpa, kwa maana huduma ya vitu vitakatifu ilikuwa juu yao; kwenye bega wamebeba.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "na kwa wana wa"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehath"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sio"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "alipa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "huduma ya"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kitakatifu"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "juu yao"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "kwenye bega"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "wamebeba"
+    }
+  ],
+  "timestamp": "2026-08-10T14:37:42.161705531Z",
+  "model": "glm-5.2"
+}

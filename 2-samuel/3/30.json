@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na Yoavu na Avishay nduguye walmuuwa Avner, kwa sababu ⟨aliwaua⟩ ⟨את⟩ Asaheli ndugu yao, katika Givoni, vitengani.",
+  "tokens": [
+    {
+      "surface": "ואבישי",
+      "gloss": "na Avishay"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nduguye"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "walmuuua"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ambaye⟩"
+    },
+    {
+      "surface": "המית",
+      "gloss": "⟨aliwaua⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asaheli"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "⟨את⟩ Asaheli"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ndugu yao"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "katika Givoni"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "vitengani"
+    }
+  ],
+  "timestamp": "2026-08-10T14:56:37.418563055Z",
+  "model": "glm-5.2"
+}

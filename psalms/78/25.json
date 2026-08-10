@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Mkate wa mashujaa mtu ⟨ali⟩kula; chakula ⟨ali⟩kituma kwao kwa kushiba.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "wa mashujaa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kula"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "chakula"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "⟨ali⟩kituma"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "kwa kushiba"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:13.262561295Z",
+  "model": "glm-5.2"
+}

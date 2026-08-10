@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Hawataacha kitu chochote mswaki hadi asubuhi, wala hawatavunja mfupa ndani ⟨wake⟩; kwa mujibu wa sheria yote ya Pasaka watamfanya ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hawata"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "acha"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kitu chochote kutoka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "na mfupa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Hawata"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "vunja"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kwa mujibu wa yote"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "sheria"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ya Pasaka"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "watamfanya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Pasaka"
+    }
+  ],
+  "timestamp": "2026-08-10T10:43:17.973116111Z",
+  "model": "glm-5.2"
+}

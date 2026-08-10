@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Na uaminifu wangu na chesed changu ⟨kuwa⟩ pamoja naye, na kwa jina langu pembe yake itainishwa.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "Na uaminifu wangu"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "na chesed changu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja naye"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "na kwa jina langu"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "itainishwa"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "pembe yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:42.625182087Z",
+  "model": "glm-5.2"
+}

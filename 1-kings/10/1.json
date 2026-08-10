@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na malka wa Sheba akasikia ⟨את⟩ masikio ya Shelomoh kwa ajili ya jina la Yahweh, akaingia kumjaribu kwa vitendawili.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "Na malka wa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "akasikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masikio"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "masikio"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ya Shelomoh"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "kwa ajili ya jina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "kumjaribu"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "kwa vitendawili"
+    }
+  ],
+  "timestamp": "2026-08-10T11:40:44.726268201Z",
+  "model": "glm-5.2"
+}

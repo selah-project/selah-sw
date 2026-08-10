@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Yahweh, Elohim wangu, niliitoa sauti yangu kwako, nawe uniona.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wangu"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "niliitoa sauti yangu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "na umeponza"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:25.155264855Z",
+  "model": "glm-5.2"
+}

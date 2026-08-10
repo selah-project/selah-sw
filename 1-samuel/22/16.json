@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Mfalme akasema, Kufa utakufa Achimelek, wewe na nyumba yako yote ya baba yako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mfalme akasema"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Kufa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "utakufa"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yote"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya nyumba"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya baba yako"
+    }
+  ],
+  "timestamp": "2026-08-10T11:27:21.347075103Z",
+  "model": "glm-5.2"
+}

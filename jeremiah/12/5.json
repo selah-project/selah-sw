@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 12:5",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Kwa kuwa ⟨את⟩ wapiga-miguu ukawakimbia wakakuchosha, je, utashindana na ⟨את⟩ farasi? Na katika nchi ya amani wewe hutegemea, je, utafanya nini katika kiburi cha Yardeni?",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wapiga-miguu"
+    },
+    {
+      "surface": "רַגְלִ֥ים",
+      "gloss": "wapiga-miguu"
+    },
+    {
+      "surface": "רַצְתָּ֨ה֙",
+      "gloss": "ukawakimbia"
+    },
+    {
+      "surface": "וַיַּלְא֔וּךָ",
+      "gloss": "wakakuchosha"
+    },
+    {
+      "surface": "וְאֵ֥יךְ",
+      "gloss": "je"
+    },
+    {
+      "surface": "תְּתַֽחֲרֶ֖ה",
+      "gloss": "utashindana"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "farasi"
+    },
+    {
+      "surface": "הַסּוּסִ֑ים",
+      "gloss": "farasi"
+    },
+    {
+      "surface": "וּבְאֶ֤רֶץ",
+      "gloss": "Na katika nchi"
+    },
+    {
+      "surface": "שָׁלוֹם֙",
+      "gloss": "ya amani"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "בוֹטֵ֔חַ",
+      "gloss": "hutegemea"
+    },
+    {
+      "surface": "וְאֵ֥יךְ",
+      "gloss": "je"
+    },
+    {
+      "surface": "תַּעֲשֶׂ֖ה",
+      "gloss": "utafanya"
+    },
+    {
+      "surface": "בִּגְא֥וֹן",
+      "gloss": "katika kiburi"
+    },
+    {
+      "surface": "הַיַּרְדֵּֽן",
+      "gloss": "cha Yardeni"
+    }
+  ],
+  "timestamp": "2026-08-10T16:10:06.657689293Z",
+  "model": "glm-5.2"
+}

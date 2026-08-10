@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Tanuru ni kwa fedha na tanuru kuyeyusha ni kwa dhahabu, na Yahweh ni mchunguzi wa nyoyo.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "tanuru"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "ni kwa fedha"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "na tanuru kuyeyusha"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "ni kwa dhahabu"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "wa nyoyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni mchunguzi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:26:15.171273559Z",
+  "model": "glm-5.2"
+}

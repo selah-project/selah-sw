@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Watumishi wake wakampandisha ⟨את⟩, Yerushalayim, wakamzika ⟨את⟩ kaburini pamoja na baba zake katika mji wa David.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "wakampandisha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumishi wake"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "wakamzika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "kaburini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baba zake"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "katika mji wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-10T15:02:14.719737065Z",
+  "model": "glm-5.2"
+}

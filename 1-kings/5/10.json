@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na hekima ya Shelomoh ikazidi hekima ya wote wana wa qedem, na hekima yote ya Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "Na ikazidi"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hekima ya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": " kuliko hekima ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "qedem"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "na ⟨hekima⟩ yote ya"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hekima ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T11:38:28.447472164Z",
+  "model": "glm-5.2"
+}

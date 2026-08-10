@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 37:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Na katika taa vikombe vine vikiwa vimeundwa kama lozi, vichwa vyake na maua yake.",
+  "tokens": [
+    {
+      "surface": "ובמנרה",
+      "gloss": "Na katika taa"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vine"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "vikombe"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "vikiwa vimeundwa kama lozi"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "vichwa vyake"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "na maua yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:29:29.297048387Z",
+  "model": "glm-5.2"
+}

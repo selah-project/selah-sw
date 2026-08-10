@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 110,
+  "translation": "Atahukumu mataifa, atajaza maiti, atavunja kichwa juu ya nchi kubwa.",
+  "tokens": [
+    {
+      "surface": "יָדִ֣ין",
+      "gloss": "Atahukumu"
+    },
+    {
+      "surface": "בַּ֭גּוֹיִם",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "מָלֵ֣א",
+      "gloss": "atajaza"
+    },
+    {
+      "surface": "גְוִיּ֑וֹת",
+      "gloss": "maiti"
+    },
+    {
+      "surface": "מָחַ֥ץ",
+      "gloss": "atavunja"
+    },
+    {
+      "surface": "רֹ֝֗אשׁ",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu"
+    },
+    {
+      "surface": "אֶ֥רֶץ",
+      "gloss": "ya nchi"
+    },
+    {
+      "surface": "רַבָּֽה",
+      "gloss": "kubwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:13.068357005Z",
+  "model": "glm-5.2"
+}

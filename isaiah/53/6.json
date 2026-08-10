@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 53,
+  "translation": "Sisi sote kama kondoo tumeacha bila njia, kila mmoja amegeuka kwenye njia yake mwenyewe; na Yahweh amemfanyia kukutana naye ⟨את⟩ uovu wa sisi sote.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "sisi sote"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kama kondoo"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "tumeacha bila njia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "kwenye njia yake mwenyewe"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "amegeuka kila"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "amemfanyia kukutana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uovu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "wa sisi sote"
+    }
+  ],
+  "timestamp": "2026-08-10T15:09:12.911748295Z",
+  "model": "glm-5.2"
+}

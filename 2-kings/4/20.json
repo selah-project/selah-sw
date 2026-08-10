@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Naye akamchukua, akamletea kwa mama yake; naye akaketi juu ya magoti yake hata mchana, akafa.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "naye akamchukua"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "akamletea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama yake"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "naye akaketi"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "magoti yake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "mchana"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:46:33.635387799Z",
+  "model": "glm-5.2"
+}

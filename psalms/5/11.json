@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Wauhesabu na dhama, Elohim; waanguke kutoka mipango yao; uwafukuze kwa wingi wa maasi yao, kwa kuwa wamekufuria wewe.",
+  "tokens": [
+    {
+      "surface": "הַֽאֲשִׁימֵ֨ם",
+      "gloss": "Wauhesabu na dhama"
+    },
+    {
+      "surface": "אֱֽלֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יִפְּלוּ֮",
+      "gloss": "waanguke"
+    },
+    {
+      "surface": "מִֽמֹּעֲצ֪וֹתֵ֫יהֶ֥ם",
+      "gloss": "kutoka mipango yao"
+    },
+    {
+      "surface": "בְּרֹ֣ב",
+      "gloss": "kwa wingi"
+    },
+    {
+      "surface": "פִּ֭שְׁעֵיהֶם",
+      "gloss": "wa maasi yao"
+    },
+    {
+      "surface": "הַדִּיחֵ֑מוֹ",
+      "gloss": "uwafukuze"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "מָ֥רוּ",
+      "gloss": "wamekufuria"
+    },
+    {
+      "surface": "בָֽךְ",
+      "gloss": "wewe"
+    }
+  ],
+  "timestamp": "2026-08-10T18:06:40.764948123Z",
+  "model": "glm-5.2"
+}

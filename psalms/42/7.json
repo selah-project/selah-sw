@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Elohay, juu yangu nefesh yangu inazama chini; kwa hiyo nakukumbuka wewe, kutoka nchi ya Yardeni na Hermoni, kutoka mlima Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh yangu"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "inazama chini"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "nakukumbuka wewe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kutoka nchi"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "ya Yardeni"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "na Hermoni"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kutoka mlima"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:47.446136275Z",
+  "model": "glm-5.2"
+}

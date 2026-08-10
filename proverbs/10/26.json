@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 10:26",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Kama siki kwa meno, na kama moshi kwa macho, ndivyo mvivu kwa wamemtuma.",
+  "tokens": [
+    {
+      "surface": "כחמץ",
+      "gloss": "kama siki"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "kwa meno"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "na kama moshi"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "kwa macho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "העצל",
+      "gloss": "mvivu"
+    },
+    {
+      "surface": "לשלחיו",
+      "gloss": "kwa wamemtuma"
+    }
+  ],
+  "timestamp": "2026-08-10T13:24:28.137603653Z",
+  "model": "glm-5.2"
+}

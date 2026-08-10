@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "⟨Hizo⟩ zinatamaniwa zaidi kuliko dhahabu, na kuliko dhahabu safi nyingi; na tamu kuliko asali na matone ya asali ya chungwa.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "zinatamaniwa zaidi"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "kuliko dhahabu"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "na kuliko dhahabu safi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ningi"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "na tamu kuliko"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "asali"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "na matone ya asali"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "ya chungwa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:32.973058451Z",
+  "model": "glm-5.2"
+}

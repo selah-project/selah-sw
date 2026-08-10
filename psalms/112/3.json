@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 112,
+  "translation": "Mali na utajiri ⟨utakuwa⟩ nyumbani mwake, na haki yake inasimama milele.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Mali"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "na utajiri"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "nyumbani mwake"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "na haki yake"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "inasimama"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:20.525767724Z",
+  "model": "glm-5.2"
+}

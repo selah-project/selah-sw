@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Nchi yake imejaa fedha na dhahabu, na hakuna mwisho kwa akiba zake; nchi yake imejaa farasi, na hakuna mwisho kwa magari yake ya kivita.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "imejaa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "Nchi yake"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "na dhahabu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na hakuna"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "mwisho"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "kwa akiba zake"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "imejaa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nchi yake"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "farasi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na hakuna"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "mwisho"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "kwa magari yake ya kivita"
+    }
+  ],
+  "timestamp": "2026-08-10T15:04:08.053048754Z",
+  "model": "glm-5.2"
+}

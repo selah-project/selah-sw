@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Na Kalev akasema: «Yeyote atakayempiga ⟨את⟩ Qiryat-Sefer na kuiteketeza, nitampa yeye ⟨את⟩ Akza binti yangu kuwa mke.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Yeyote atakaye"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "mpiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "na kuiteketeza"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "nitampa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akza binti yangu"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akza"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "binti yangu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kuwa mke"
+    }
+  ],
+  "timestamp": "2026-08-10T11:09:43.742238429Z",
+  "model": "glm-5.2"
+}

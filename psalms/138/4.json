@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 138,
+  "translation": "Watakushukuru, Yahweh, falme wote wa dunia, kwa kuwa wamesikia maneno ya kinywa chako.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Watakushukuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "falme"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wa dunia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "wamesikia"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ya kinywa chako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:50.057446385Z",
+  "model": "glm-5.2"
+}

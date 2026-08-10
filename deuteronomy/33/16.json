@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 33:16",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "na katika uzuri wa nchi na ⟨kila kilicho⟩ ndani yake, na kibali cha yeye anakaye kwenye mtepu; ⟨baraka hiyo⟩ na iwafikie kichwani mwa Yosefu, na tundu la jama la wenzake.",
+  "tokens": [
+    {
+      "surface": "וממגד",
+      "gloss": "na katika uzuri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "na ⟨kila kilicho⟩ ndani yake"
+    },
+    {
+      "surface": "ורצון",
+      "gloss": "na kibali"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "cha yeye anakaye"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "kwenye mtepu"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "⟨baraka hiyo⟩ na iwafikie"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "kichwani mwa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "ולקדקד",
+      "gloss": "na tundu la"
+    },
+    {
+      "surface": "נזיר",
+      "gloss": "jama"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "la wenzake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:58:13.045312762Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na Eshtoni alimzaa ⟨את⟩ Beyt-Rafa, na ⟨את⟩ Paseaḥ, na ⟨את⟩ Teḥinna, baba yake ∙Ir-Naḥashu. Hao ndio watu wa Reka.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Na Eshtoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Paseaḥ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseaḥ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Teḥinna"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Teḥinna"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "∙Ir-"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Naḥashu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Hao"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ndio watu wa"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Reka"
+    }
+  ],
+  "timestamp": "2026-08-10T14:04:58.655627096Z",
+  "model": "glm-5.2"
+}

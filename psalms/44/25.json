@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Kwa nini uficha uso wako, unasahau dhiki yetu na ukandaji wetu?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uso wako"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "uficha"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unasahau"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "dhiki yetu"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "na ukandaji wetu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:04.742851951Z",
+  "model": "glm-5.2"
+}

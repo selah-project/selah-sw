@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 89:19",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Kwa maana kwa Yahweh ⟨ni⟩ ngao yetu, na kwa Mtakatifu wa Yisrael ⟨ni⟩ mfalme wetu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "ngao yetu"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "na kwa Mtakatifu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "mfalme wetu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:43.822104668Z",
+  "model": "glm-5.2"
+}

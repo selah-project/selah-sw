@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Wakaingia katika aga kumtafuta ⟨את⟩ Yahweh, Elohim wa baba zao, kwa moyo wao wote na kwa nafsi yao yote.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "wakaingia"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "katika aga"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "kumtafuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "wa baba zao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa … wote"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "moyo wao"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na kwa … yote"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nafsi yao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:45:18.963024691Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 145,
+  "translation": "Sifa ya David. Nitakukuza, Eloah wangu, mfalme, na nitakibaraka jina lako milele na hata milele.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Sifa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Nitakukuza"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloah wangu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "na nitakibaraka"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na hata milele"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:03.358755880Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na watu ambao hawakufa walipigwa kwa vilima; na ombi la mji likapanda mbinguni.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "Na watu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawaku"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "walipigwa"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "kwa vilima"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "na...likapanda"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "ombi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la mji"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbinguni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:20:27.148320601Z",
+  "model": "glm-5.2"
+}

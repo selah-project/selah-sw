@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Nanyi mtazishika ⟨את⟩ sheria zangu na ⟨את⟩ hukumu zangu, wala msifanye katika yote machukizo haya, ⟨kia asili⟩ na mgeni akaaye kati yenu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "nanyi mtazishika"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nanyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sheria zangu"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "sheria zangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hukumu zangu"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukumu zangu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mtafanya"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "machukizo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "⟨kia asili⟩"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "na mgeni"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "akaaye"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "kati yenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:35:52.902079001Z",
+  "model": "glm-5.2"
+}

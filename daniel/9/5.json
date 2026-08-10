@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Tumekosa, tumefanya uovu, tumetenda uovu, tumefanya uasi, na kugeuka kutoka amri zako na kutoka hukumu zako.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "tumekosa"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "tumefanya uovu"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "tumetenda uovu"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "tumefanya uasi"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "na kugeuka"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "kutoka amri zako"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "na kutoka hukumu zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:54:42.365143299Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na mikono ya binadamu ⟨ilikuwa⟩ chini ya mawingi yao, juu ya pande zao nne; na nyuso zao na mawingi yao ⟨ulikuwa⟩ kwa [[wao wanne]].",
+  "tokens": [
+    {
+      "surface": "וִידֵ֧י",
+      "gloss": "Na mikono"
+    },
+    {
+      "surface": "אָדָ֛ם",
+      "gloss": "ya binadamu"
+    },
+    {
+      "surface": "מִתַּ֥חַת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "כַּנְפֵיהֶ֖ם",
+      "gloss": "mawingi yao"
+    },
+    {
+      "surface": "עַ֣ל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "אַרְבַּעְתָּ֑ם",
+      "gloss": "pande zao nne"
+    },
+    {
+      "surface": "רִבְעֵיהֶ֖ם",
+      "gloss": "pande zao"
+    },
+    {
+      "surface": "וּפָנֵיהֶ֥ם",
+      "gloss": "na nyuso zao"
+    },
+    {
+      "surface": "וְכַנְפֵיהֶ֖ם",
+      "gloss": "na mawingi yao"
+    },
+    {
+      "surface": "לְאַרְבַּעְתָּֽם",
+      "gloss": "kwa wao wanne"
+    }
+  ],
+  "timestamp": "2026-08-10T12:26:38.656631342Z",
+  "model": "glm-5.2"
+}

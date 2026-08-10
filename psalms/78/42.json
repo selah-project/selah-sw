@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Hawakumbuka ⟨את⟩ mkono wake, ⟨siku⟩ aliyoukomboa kutoka mwenye dhiki.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hawakumbuka"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "יום",
+      "gloss": "⟨siku⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliyoukomboa"
+    },
+    {
+      "surface": "פדם",
+      "gloss": ""
+    },
+    {
+      "surface": "מני",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mwenye dhiki"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:43.673894937Z",
+  "model": "glm-5.2"
+}

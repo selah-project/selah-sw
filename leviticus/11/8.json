@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Katika nyama yao hamtala, na katika maiti zao hamtagusa — wachafu ⟨wao⟩ kwenu.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "Katika nyama yao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "-mtala"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "na katika maiti zao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "-mtagusa"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "wachafu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:34:06.647788523Z",
+  "model": "glm-5.2"
+}

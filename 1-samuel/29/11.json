@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "David akaamka mapema, yeye na watu wake, kuondoka asubuhi, kurudi nchi ya Wapelishti; na Wapelishti wakapanda Yizreeli.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "akaamka mapema"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "na watu wake"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuondoka"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kurudi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Wapelishti"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "na Wapelishti"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "wakapanda"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreeli"
+    }
+  ],
+  "timestamp": "2026-08-10T11:27:46.889275628Z",
+  "model": "glm-5.2"
+}

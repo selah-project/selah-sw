@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Na utaweka ⟨את⟩ ⟨the⟩ ua uzungukeni, na utaweka ⟨את⟩ pazia la lango la ⟨the⟩ ua.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "na utaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ua"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ua"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "uzungukeni"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "na utaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pazia"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "pazia"
+    },
+    {
+      "surface": "שער",
+      "gloss": "la lango"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "la ua"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:36.151354456Z",
+  "model": "glm-5.2"
+}

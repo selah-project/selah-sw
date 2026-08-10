@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na mtu ⟨את⟩ vitu vyake vitakatifu, ni vyake; mtu yule ambaye atatoa kwa kuhani, ni lake.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na mtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vitu vyake vitakatifu"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "vitu vyake vitakatifu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vyake"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yule ambaye"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "atatoa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kwa kuhani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:41:17.982652675Z",
+  "model": "glm-5.2"
+}

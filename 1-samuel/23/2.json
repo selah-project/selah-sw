@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 23:2",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "David akauliza kwa Yahweh, akisema: Je, niende nikapige ⟨kati ya⟩ Pelishtim hawa? Naye Yahweh akamwambia David: Nenda, ukapige ⟨kati ya⟩ Pelishtim, uokoe ⟨את⟩ Qeila.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "akauliza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "Je, niende"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "nikapige"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "⟨kati ya⟩ Pelishtim"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Naye … akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Nenda"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ukapige"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "⟨kati ya⟩ Pelishtim"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "uokoe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qeila"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeila"
+    }
+  ],
+  "timestamp": "2026-08-10T14:54:30.975944381Z",
+  "model": "glm-5.2"
+}

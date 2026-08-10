@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na wataliwa wivu wa Efrayimu, na wale wanaomdhidi Yehuda watatokwa; Efrayimu hatamwonea wivu ⟨את⟩ Yehuda, na Yehuda hamtai ⟨את⟩ Efrayimu.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "na wataliwa"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "wivu wa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "na wanaomdhidi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "watatokwa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatamwonea"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "wivu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamtai"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "kumkamaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayimu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:57:13.537702553Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 12:22",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na Yehozabadi mwana wa Shimathi, na Yehozabadi mwana wa Shomeri, watumishi wake, wakampiga, naye akafa; wakamzika ⟨את⟩ pamoja na baba zake ⟨kwenye⟩ mji wa Davidi; na Amatsiahu mwana wake akatawala badala yake.",
+  "tokens": [
+    {
+      "surface": "וזאבד",
+      "gloss": "Yehozabadi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "wa Shimathi"
+    },
+    {
+      "surface": "ויהוזבד",
+      "gloss": "na Yehozabadi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "wa Shomeri"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumishi wake"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "wakampiga"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "wakamzika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baba zake"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "⟨kwenye⟩ mji"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Davidi"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akatawala"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatsiahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "badala yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:48:57.708890268Z",
+  "model": "glm-5.2"
+}

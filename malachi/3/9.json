@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Kwa laana mmebarikiwa, na ⟨אתי⟩ nyinyi mnanidanganya — taifa ⟨nzima⟩.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "kwa laana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nyinyi"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "mmebarikiwa"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "nyinyi (mnanidanganya)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nyinyi"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "mnanidanganya"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "nzima"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:01.995397755Z",
+  "model": "glm-5.2"
+}

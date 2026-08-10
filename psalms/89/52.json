@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Ambayo maadui zako wamefedhehesha, Yahweh; ambayo wamefedhehesha nyayo za Mashíaj wako.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "wamefedhehesha"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "maadui zako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "wamefedhehesha"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "nyayo"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "za Mashíaj wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:14.529087865Z",
+  "model": "glm-5.2"
+}

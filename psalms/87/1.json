@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 87,
+  "translation": "Kwa wanawe Korach. Mzaburi, wimbo. Msingi wake ⟨uoko⟩ katika milima ya kitakatifu.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Kwa wanawe"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mzaburi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "Msingi wake"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "katika milima ya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kitakatifu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:42.125186654Z",
+  "model": "glm-5.2"
+}

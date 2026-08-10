@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "basi mimi pia nitaendenda pamoja nanyi kwa uasi, na kuwapiga, mimi pia, mara saba kwa dhambi zenu.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "basi nitaendenda"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pia"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "pamoja nanyi"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "kwa uasi"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "na kuwapiga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nyinyi",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mara saba"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "dhambi zenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:39:28.492285858Z",
+  "model": "glm-5.2"
+}

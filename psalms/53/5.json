@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 53,
+  "translation": "Je, hawajui wafanyao ovu? Walao watu wangu kama watakao mkate — Elohim hawukuita.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Je, hawa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "wajua"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "wafanyao"
+    },
+    {
+      "surface": "און",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "walao"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "watu wangu"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "wamela"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "kuita"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:52.995877736Z",
+  "model": "glm-5.2"
+}

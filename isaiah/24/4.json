@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Inaomboleza, inauchakavu ⟨ni⟩ nchi; inalegea, inauchakavu ⟨ni⟩ dunia; wamelegea ⟨wale wenye⟩ kimo cha watu wa nchi.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Inaomboleza"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "inauchakavu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "inalegea"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "inauchakavu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "wamelegea"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "⟨wale wenye⟩ kimo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cha watu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:06:26.587533912Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Najua, ee Yahweh, ya kwamba haki ⟩na⟪ hukumu zako, na kwa uaminifu ulinitia shida.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Najua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ee Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "haki"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukumu zako"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "na kwa uaminifu"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "ulinitia shida"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:29.860825015Z",
+  "model": "glm-5.2"
+}

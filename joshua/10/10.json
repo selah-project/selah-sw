@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 10:10",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na Yahweh akawahemesha mbele ya Yisraeli, na akawapiga kwa mpigo mkubwa huko Givon; na akawafuatilia njia ya kupanda ya Beit Horon, na akawapiga hadi Azeqa na hadi Makeda.",
+  "tokens": [
+    {
+      "surface": "ויהמם",
+      "gloss": "na akawahemesha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "na akawapiga"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "kwa mpigo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mkubwa"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "huko Givon"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "na akawafuatilia"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njia ya"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "kupanda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "na akawapiga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeqa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na hadi"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makeda"
+    }
+  ],
+  "timestamp": "2026-08-10T14:46:38.473279456Z",
+  "model": "glm-5.2"
+}

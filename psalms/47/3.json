@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 47,
+  "translation": "Kwa kuwa Yahweh Aliye Juu ⟨ni⟩ wa kustahili kuogopwa, mfalme mkuu juu ya nchi yote.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Aliye Juu"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "wa kustahili kuogopwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:57.963108044Z",
+  "model": "glm-5.2"
+}

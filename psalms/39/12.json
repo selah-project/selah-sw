@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "Kwa masikizo kuhusu uovu ulimrekebisha mtu; na kama nondo umemharbisha kitu akipendacho; hakika uvunge tu ni kila mtu. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "kwa masikizo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuhusu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "ulimrekebisha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "na umemharbisha"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "kama nondo"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "kitu akipendacho"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "uvunge tu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ni kila"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:19.406785108Z",
+  "model": "glm-5.2"
+}

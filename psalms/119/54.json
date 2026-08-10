@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Nyimbo zimekuwa ⟨ni⟩ze, amri zako, katika nyumba ya mahali pangu pa kuishi kama mgeni.",
+  "tokens": [
+    {
+      "surface": "זְ֭מִרוֹת",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "הָֽיוּ",
+      "gloss": "zimekuwa"
+    },
+    {
+      "surface": "לִ֥י",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חֻקֶּ֗יךָ",
+      "gloss": "amri zako"
+    },
+    {
+      "surface": "בְּבֵ֣ית",
+      "gloss": "katika nyumba"
+    },
+    {
+      "surface": "מְגוּרָֽי",
+      "gloss": "ya mahali pangu pa kuishi kama mgeni"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:53.373873133Z",
+  "model": "glm-5.2"
+}

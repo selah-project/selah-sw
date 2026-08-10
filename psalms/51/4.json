@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 51,
+  "translation": "⟨Zidi⟩ nioshe sana kosa langu, na kwenye dhambi yangu nitakase.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "sana"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "nioshe"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "kosa langu"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "na kwenye dhambi yangu"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "nitakase"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:27.207831429Z",
+  "model": "glm-5.2"
+}

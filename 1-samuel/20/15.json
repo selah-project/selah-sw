@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "wala usikate ⟨את⟩ chesed (fadhili) yako kutoka kwa nyumba yangu hata milele; wala ⟨sio⟩ katika kukatwa kwa Yahweh ⟨את⟩ maadui wa David, kila mmoja kutoka juu ya uso wa ardhi.",
+  "tokens": [
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "תַכְרִ֧ת",
+      "gloss": "usikate"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "chesed yako"
+    },
+    {
+      "surface": "חַסְדְּךָ֛",
+      "gloss": "chesed (fadhili) yako"
+    },
+    {
+      "surface": "מֵעִ֥ם",
+      "gloss": "kutoka kwa"
+    },
+    {
+      "surface": "בֵּיתִ֖י",
+      "gloss": "nyumba yangu"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "עוֹלָ֑ם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "וְלֹ֗א",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בְּהַכְרִ֤ת",
+      "gloss": "katika kukatwa"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "maadui wa David"
+    },
+    {
+      "surface": "אֹיְבֵ֣י",
+      "gloss": "maadui"
+    },
+    {
+      "surface": "דָוִ֔ד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אִ֕ישׁ",
+      "gloss": "kila mmoja"
+    },
+    {
+      "surface": "מֵעַ֖ל",
+      "gloss": "kutoka juu ya"
+    },
+    {
+      "surface": "פְּנֵ֥י",
+      "gloss": "uso"
+    },
+    {
+      "surface": "הָאֲדָמָֽה",
+      "gloss": "ardhi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:25:55.682294295Z",
+  "model": "glm-5.2"
+}

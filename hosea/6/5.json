@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 6:5",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Kwa hiyo niliwachonga kwa manabii, niliwaua kwa maneno ya kinywa changu, na hukumu zako zitoke kama nuru.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "חצבתי",
+      "gloss": "nilichonga"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "kwa manabii"
+    },
+    {
+      "surface": "הרגתים",
+      "gloss": "niliwaua"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "kwa maneno"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ya kinywa changu"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "na hukumu zako"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kama nuru"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "zitoke"
+    }
+  ],
+  "timestamp": "2026-08-10T12:41:06.928471305Z",
+  "model": "glm-5.2"
+}

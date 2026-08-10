@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Akapiga ⟨את⟩ Moabu, nao Waabu wakawa watumishi wa David, waoletao zawadi.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "akapiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "wakawa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Waabu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "watumishi"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "waoletao"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "zawadi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:09:05.126481252Z",
+  "model": "glm-5.2"
+}

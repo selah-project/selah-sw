@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 94,
+  "translation": "Mjane na mpitanzi waua, na yatima wawaua.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "mjane"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "na mpitanzi"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "waua"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "na yatima"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "wawaua"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:40.770266665Z",
+  "model": "glm-5.2"
+}

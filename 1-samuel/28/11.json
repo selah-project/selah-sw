@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Na mwanamke akasema: ⟨את⟩ Nani nimemwinua kwa ajili yako? Na akasema: ⟨את⟩ Shemuweli — winua ⟨kwangu⟩.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ninwinua"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa ajili yako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuweli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "winua"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:53:57.215471034Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Wamtengeneze Yahweh utukufu, na sifa zake katika visiwa waitangaze.",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "wamtengeneze"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "utukufu"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "na sifa zake"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "katika visiwa"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "waitangaze"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:14.153515535Z",
+  "model": "glm-5.2"
+}

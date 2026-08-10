@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 55,
+  "translation": "Lakini wewe — mtu kama mwenzi wangu, kiongozi wangu, na mwenye kujulikana kwangu.",
+  "tokens": [
+    {
+      "surface": "וְאַתָּ֣ה",
+      "gloss": "Lakini wewe"
+    },
+    {
+      "surface": "אֱנ֣וֹשׁ",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "כְּעֶרְכִּ֑י",
+      "gloss": "kama mwenzi wangu"
+    },
+    {
+      "surface": "אַ֝לּוּפִ֗י",
+      "gloss": "kiongozi wangu"
+    },
+    {
+      "surface": "וּמְיֻדָּֽעִי",
+      "gloss": "na mwenye kujulikana kwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:23.825790562Z",
+  "model": "glm-5.2"
+}

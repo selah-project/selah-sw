@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na Attai alimzaa ⟨את⟩ Nathani, na Nathani alimzaa ⟨את⟩ Zabadi.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Na Attai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nathani"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathani"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na Nathani"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabadi"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabadi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:03:08.990878267Z",
+  "model": "glm-5.2"
+}

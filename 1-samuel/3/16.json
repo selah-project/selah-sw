@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Basi Eli akamwita ⟨את⟩ Shemu'el, akasema: Shemu'el, mwanangu. Naye akasema: Tena, hapa nilipo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akamwita"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemu'el"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanangu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akasema"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hapa nilipo"
+    }
+  ],
+  "timestamp": "2026-08-10T11:20:23.469509641Z",
+  "model": "glm-5.2"
+}

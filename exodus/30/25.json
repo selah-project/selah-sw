@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na utatengeneza ⟨את⟩ hayo kuwa mafuta ya mpako wa kitakatifu, mchanganyiko wa manukato, kazi ya mchanganyishi; mafuta ya mpako wa kitakatifu yatakuwa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Na utatengeneza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ya mpako"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "wa kitakatifu"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "mchanganyiko"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "wa manukato"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ya mchanganyishi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ya mpako"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "wa kitakatifu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yatakuwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:01.763858394Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 66:15",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 66,
+  "translation": "Kwa maana angalieni, Yahweh katika moto atakuja, na kama dhoruba yaliyo mbinguni ni gari lake, kurejesha kwa wivu hasira yake, na ghadhabu yake katika miala ya moto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "angalieni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באש",
+      "gloss": "katika moto"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "atakuja"
+    },
+    {
+      "surface": "וכסופה",
+      "gloss": "na kama dhoruba"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "gari lake"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "kurejesha"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "kwa wivu"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hasira yake"
+    },
+    {
+      "surface": "וגערתו",
+      "gloss": "na ghadhabu yake"
+    },
+    {
+      "surface": "בלהבי",
+      "gloss": "katika miala"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ya moto"
+    }
+  ],
+  "timestamp": "2026-08-10T12:09:47.274444554Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 40:18",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Na kwa ninyi, mnamfananisha na nini El? Na mfano gani mnaweka kwa ajili yake?",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Na kwa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ninyi"
+    },
+    {
+      "surface": "תדמיון",
+      "gloss": "mnamfananisha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na nini"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Na mfano gani"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "mfano"
+    },
+    {
+      "surface": "תערכו",
+      "gloss": "mnaweka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa ajili yake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:34.177623078Z",
+  "model": "glm-5.2"
+}

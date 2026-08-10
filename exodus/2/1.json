@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Akenda mtu ⟨miongoni mwa⟩ nyumba ya Levi, akamchukua ⟨⟩ binti ya Levi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Akenda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "⟨miongoni mwa⟩ nyumba"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "binti"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:27:57.574834811Z",
+  "model": "glm-5.2"
+}

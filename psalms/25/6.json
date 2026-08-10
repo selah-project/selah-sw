@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Kumbuka huruma zako, Yahweh, na chesed zako, kwa kuwa tangu milele ⟨ni⟩ hivyo.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Kumbuka"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "huruma zako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "na chesed zako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "tangu milele"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hivyo"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:07.654202889Z",
+  "model": "glm-5.2"
+}

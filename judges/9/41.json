@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na Avimeleki akakaa Aruma, na Zebuli akamfukuza ⟨את⟩ Gaali na ⟨את⟩ ndugu zake wasikae Shekemu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "na akakaa"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleki"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "Aruma"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "na akamfukuza"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaali"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ndugu zake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "wasikae"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "Shekemu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:14:59.370789462Z",
+  "model": "glm-5.2"
+}

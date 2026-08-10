@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "na nitawapa mvua zenu kwa wakati wake, na nchi itatoa mazao yake, na miti ya shamba itatoa matunda yake.",
+  "tokens": [
+    {
+      "surface": "וְנָתַתִּ֥י",
+      "gloss": "na nitawapa"
+    },
+    {
+      "surface": "גִשְׁמֵיכֶ֖ם",
+      "gloss": "mvua zenu"
+    },
+    {
+      "surface": "בְּעִתָּ֑ם",
+      "gloss": "kwa wakati wake"
+    },
+    {
+      "surface": "וְנָתְנָ֤ה",
+      "gloss": "na itatoa"
+    },
+    {
+      "surface": "הָאָ֨רֶץ֙",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "יְבוּלָ֔הּ",
+      "gloss": "mazao yake"
+    },
+    {
+      "surface": "וְעֵ֥ץ",
+      "gloss": "na miti"
+    },
+    {
+      "surface": "הַשָּׂדֶ֖ה",
+      "gloss": "ya shamba"
+    },
+    {
+      "surface": "יִתֵּ֥ן",
+      "gloss": "itatoa"
+    },
+    {
+      "surface": "פִּרְיֽוֹ",
+      "gloss": "matunda yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:40.726395207Z",
+  "model": "glm-5.2"
+}

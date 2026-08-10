@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 112,
+  "translation": "Kwa maana hatahimiliwia milele; wa haki ⟨⟩ atakuwa kwa ukumbusho wa milele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hata"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "hatahimiliwia"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "kwa ukumbusho"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa milele"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "atakuwa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wa haki"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:26.508875246Z",
+  "model": "glm-5.2"
+}

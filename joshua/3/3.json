@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "wakaamuru ⟨את⟩ taifa wakisema: \"Mtakapoona ⟨את⟩ sanduku la agano la Yahweh, Elohim wenu, na makohani Walawi wanalibeba, nanyi mtaondoka kutoka mahali penu, na kuitembelea nyuma yake.\"",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "wakaamuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taifa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wakisema"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "Mtakapoona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "la agano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wenu"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "na makohani"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Walawi"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "wanalibeba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nalo"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "nanyi"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "mtaondoka"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "kutoka mahali penu"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "na kuitembelea"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nyuma yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:05:17.537139727Z",
+  "model": "glm-5.2"
+}

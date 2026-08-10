@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Kulingana na yote ambazo mimi ninakuonyesha ⟨את⟩ mfano wa hema na ⟨את⟩ mfano wa vyombo vyake vyote, vivyo hivi mtatenda.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "kulingana na yote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ninakuonyesha"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ kwako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfano"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mfano"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "wa hema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mfano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wa vyombo vyote"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "vyake"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "vivyo hivi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mtatenda"
+    }
+  ],
+  "timestamp": "2026-08-10T14:31:09.305177038Z",
+  "model": "glm-5.2"
+}

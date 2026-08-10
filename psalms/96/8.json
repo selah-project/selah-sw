@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 96,
+  "translation": "Toeni Yahweh kavod ⟨la⟩ jina lake, chukueni mincha na ingieni milangoni mwake.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "toeni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "chukueni"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "na ingieni"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "milangoni mwake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:04.357225211Z",
+  "model": "glm-5.2"
+}

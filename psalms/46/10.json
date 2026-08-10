@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 46,
+  "translation": "⟨Yeye⟩ anasimamisha vita hata mwisho wa ⟨nchi⟩; ⟨pupa⟩ huvunja, na ⟨mkuki⟩ huukata; magari ya kivita anauchoma kwa moto.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "⟨Yeye⟩ anasimamisha"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "vita"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "mwisho"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa ⟨nchi⟩"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "⟨pupa⟩"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "huvunja"
+    },
+    {
+      "surface": "ויקצץ",
+      "gloss": "na huukata"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "⟨mkuki⟩"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "magari ya kivita"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "anauchoma"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kwa moto"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:25.852851809Z",
+  "model": "glm-5.2"
+}

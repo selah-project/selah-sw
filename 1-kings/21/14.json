@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Wakamtumia ujumbe ⟨kwa⟩ Izebeli, wakisema: Nabothi amepigwa mawe, akafa.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Wakamtumia ujumbe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wakisema"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "amepigwa mawe"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabothi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:44:43.673485143Z",
+  "model": "glm-5.2"
+}

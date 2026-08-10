@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Jema ni kidogo pamoja na haki, kuliko wingi wa mapato bila haki.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "jema"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kidogo"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "pamoja na haki"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "kuliko wingi"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "mapato"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "bila"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "haki"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:55.706759881Z",
+  "model": "glm-5.2"
+}

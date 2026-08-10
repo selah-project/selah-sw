@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 88,
+  "translation": "Je, ajabu zako zitajulikana gizani, na haki yako katika nchi ya kusahauli?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "je, zitajulikana"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "gizani"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ajabu zako"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "na haki yako"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "ya kusahauli"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:19.988546936Z",
+  "model": "glm-5.2"
+}

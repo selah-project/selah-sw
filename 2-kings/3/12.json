@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Yehoshafati akasema: \"Neno la Yahweh liko naye.\" Basi mfalme wa Yisra'el na Yehoshafati na mfalme wa Edom wakashuka kwenda kwake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "יש",
+      "gloss": "liko"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Neno"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "wakashuka"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwenda kwake"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "na Yehoshafati"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "na mfalme"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "wa Edom"
+    }
+  ],
+  "timestamp": "2026-08-10T11:45:39.572773314Z",
+  "model": "glm-5.2"
+}

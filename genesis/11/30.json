@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Sarayi ikawa tasa; ⟨halle⟩ kuwa na mtoto.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "na-ikawa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarayi"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "tasa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨halle⟩"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "mtoto"
+    }
+  ],
+  "timestamp": "2026-08-10T15:48:49.982357535Z",
+  "model": "glm-5.2"
+}

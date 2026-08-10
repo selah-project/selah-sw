@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Na wa Mitsrayim walikuwa wakiwazika ⟨את⟩ wale aliowapiga Yahweh miongoni mwao, ⟨ni⟩ kila mzaliwa wa kwanza; na katika miungu yao, Yahweh alifanya hukumu.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Na wa Mitsrayim"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "walikuwa wakiwazika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wale aliowapiga Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wale"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "aliowapiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "miongoni mwao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "mzaliwa wa kwanza"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "na katika miungu yao"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alifanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "hukumu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:56:23.234407204Z",
+  "model": "glm-5.2"
+}

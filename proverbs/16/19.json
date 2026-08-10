@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Heri ⟨kua⟩ na unyofu wa roho pamoja na ⟨את⟩ maskini, kuliko kugawa ⟨את⟩ ny oslo pamoja na ⟨את⟩ wajivuno.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "heri"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "unyofu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wa roho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maskini"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "maskini"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "kuliko kugawa"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ny oslo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajivuno"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "wajivuno"
+    }
+  ],
+  "timestamp": "2026-08-10T15:31:44.408386030Z",
+  "model": "glm-5.2"
+}

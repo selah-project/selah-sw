@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Ambao njia zao ⟨ni⟩ zipotokezazo, nao ⟨ni⟩ wapotovu katika nyayo zao.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "אָרְחֹתֵיהֶ֣ם",
+      "gloss": "njia zao"
+    },
+    {
+      "surface": "עִקְּשִׁ֑ים",
+      "gloss": "zipotokezazo"
+    },
+    {
+      "surface": "וּ֝נְלוֹזִ֗ים",
+      "gloss": "na wapotovu"
+    },
+    {
+      "surface": "בְּמַעְגְּלוֹתָֽם",
+      "gloss": "katika nyayo zao"
+    }
+  ],
+  "timestamp": "2026-08-10T17:55:08.073071716Z",
+  "model": "glm-5.2"
+}

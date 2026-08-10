@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 83,
+  "translation": "Kama moto unaowasha msitu, na kama mwali unaoziaza milima;",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "Kama moto"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "unaowasha"
+    },
+    {
+      "surface": "יער",
+      "gloss": "msitu"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "na kama mwali"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "unaoziaza"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "milima"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:46.729671614Z",
+  "model": "glm-5.2"
+}

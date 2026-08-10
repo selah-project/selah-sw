@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Wakanung'unika jumuiya yote ya wana wa Yisra'eli dhidi ya Moshe na dhidi ya Aharoni ⟨kwenye⟩ jangwa.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "wakanung'unika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jumuiya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhidi ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na dhidi ya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "⟨kwenye⟩ jangwa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:17.286229654Z",
+  "model": "glm-5.2"
+}

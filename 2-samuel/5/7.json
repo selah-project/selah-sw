@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na David akateka ⟨את⟩ ngome ya Tsiyoni — hiyo ⟨ni⟩ mji wa David.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "na akateka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngome"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "ngome"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-10T14:55:56.163784499Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 118:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 118,
+  "translation": "Sauti ya shangwe ⟨na⟩ wokovu ⟨ipo⟩ katika hema za wenye haki: mkono wa kuume wa Yahweh hufanya ujasiri.",
+  "tokens": [
+    {
+      "surface": "ק֤וֹל",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "רִנָּ֬ה",
+      "gloss": "ya shangwe"
+    },
+    {
+      "surface": "וִֽישׁוּעָ֗ה",
+      "gloss": "⟨na⟩ wokovu"
+    },
+    {
+      "surface": "בְּאָהֳלֵ֥י",
+      "gloss": "katika hema"
+    },
+    {
+      "surface": "צַדִּיקִ֑ים",
+      "gloss": "za wenye haki"
+    },
+    {
+      "surface": "יְמִ֥ין",
+      "gloss": "mkono wa kuume"
+    },
+    {
+      "surface": "יְ֝הוָה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "עֹ֣שָׂה",
+      "gloss": "hufanya"
+    },
+    {
+      "surface": "חָֽיִל",
+      "gloss": "ujasiri"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:27.377227265Z",
+  "model": "glm-5.2"
+}

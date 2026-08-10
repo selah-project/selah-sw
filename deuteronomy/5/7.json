@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Isiweko kuwa na miungu mingine mbele zangu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Isiweko"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuwa na"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kwako⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "miungu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "mingine"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbele"
+    },
+    {
+      "surface": "פני",
+      "gloss": "zangu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:55:21.244343522Z",
+  "model": "glm-5.2"
+}

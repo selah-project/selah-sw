@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 143,
+  "translation": "Fanya haraka, nijibie, Yahweh; roho yangu inakwisha — usifiche uso wako umpendezayo na mimi, nisawe na washuka shimoni.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Fanya haraka"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "nijibie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "inakwisha"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "roho yangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usifiche"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "⟨Usifiche⟩"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uso wako"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "umpendezayo na mimi"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "nisawe na"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "washuka"
+    },
+    {
+      "surface": "בור",
+      "gloss": "shimoni"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:50.785041888Z",
+  "model": "glm-5.2"
+}

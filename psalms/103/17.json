@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 103,
+  "translation": "Na chesed ya Yahweh ni ⟨ni⟩ kutoka milele hata milele juu ya wamchao, na haki yake ⟨ni⟩ kwa wana wa wana;",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "na chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "kutoka milele"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wamchao"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "na haki yake"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa wana wa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wana"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:02.438350384Z",
+  "model": "glm-5.2"
+}

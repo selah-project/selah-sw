@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 7:9",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na utajua ya kwamba Yahweh Elohim wako, ⟨yeye⟩ ndiye Elohim, El mwaminifu, anayeshika ⟨את⟩ agano na ⟨את⟩ chesed kwa wanaompenda na kwa wazishikao amri zake, hadi vizazi elfu.",
+  "tokens": [
+    {
+      "surface": "ולדעת",
+      "gloss": "na utajua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הנאמן",
+      "gloss": "mwaminifu"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "anayeshika"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "agano"
+    },
+    {
+      "surface": "והחסד",
+      "gloss": "na chesed"
+    },
+    {
+      "surface": "לאהביו",
+      "gloss": "kwa wanaompenda"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "na kwa wazishikao"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "amri zake"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "vizazi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:56:16.059222512Z",
+  "model": "glm-5.2"
+}

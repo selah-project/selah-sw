@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Nami nilikuamrisheni ⟨את⟩ wakati huo ⟨את⟩ maneno yote ambayo mnapaswa kuyafanya.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "nami nilikuamrisheni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wakati huo",
+      "marks": "wakati huo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "mnapaswa kuyafanya"
+    }
+  ],
+  "timestamp": "2026-08-10T10:53:12.036120913Z",
+  "model": "glm-5.2"
+}

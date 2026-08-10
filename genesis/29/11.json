@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Yakobo akambusu Rachel, akainua ⟨את⟩ sauti yake, akaalia.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "akambusu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "akainua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauti yake"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sauti yake"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "akaalia"
+    }
+  ],
+  "timestamp": "2026-08-10T10:08:35.656316279Z",
+  "model": "glm-5.2"
+}

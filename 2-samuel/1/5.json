@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na David akamwambia kijana aliyemwandikia ⟨yoote⟩: Je, ulijuaje kwamba Shaul amekufa, na Yehonathanani mwanae?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akamwambia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "kijana"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "aliyemwandikia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨yoote⟩"
+    },
+    {
+      "surface": "איך",
+      "gloss": "je"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ulijuaje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "מת",
+      "gloss": "amekufa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "na Yehonathanani"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanae"
+    }
+  ],
+  "timestamp": "2026-08-10T14:53:27.926067562Z",
+  "model": "glm-5.2"
+}

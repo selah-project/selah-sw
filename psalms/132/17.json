@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 132,
+  "translation": "Huko nitalesha pembe kwa David; nimepanga taa kwa Mashíaj wangu.",
+  "tokens": [
+    {
+      "surface": "שָׁ֤ם",
+      "gloss": "Huko"
+    },
+    {
+      "surface": "אַצְמִ֣יחַ",
+      "gloss": "nitalesha"
+    },
+    {
+      "surface": "קֶ֣רֶן",
+      "gloss": "pembe"
+    },
+    {
+      "surface": "לְדָוִ֑ד",
+      "gloss": "kwa David"
+    },
+    {
+      "surface": "עָרַ֥כְתִּי",
+      "gloss": "nimepanga"
+    },
+    {
+      "surface": "נֵ֝֗ר",
+      "gloss": "taa"
+    },
+    {
+      "surface": "לִמְשִׁיחִֽי",
+      "gloss": "kwa Mashíaj wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:25.151808487Z",
+  "model": "glm-5.2"
+}

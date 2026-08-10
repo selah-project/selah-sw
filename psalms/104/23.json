@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "Mwanadamu huondoka kwenda kazi yake, na kwa kazi ya utumishi wake hadi jioni.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "huondoka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mwanadamu"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "kwenda kazi yake"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "na kwa kazi ya utumishi wake"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "jioni"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:03.512876211Z",
+  "model": "glm-5.2"
+}

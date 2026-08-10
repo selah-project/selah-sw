@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Kwa kuwa Yahweh amejenga Tsiyon, ⟨ameonekana⟩ katika utukufu wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "amejenga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "⟨ameonekana⟩"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "katika utukufu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:31.639771428Z",
+  "model": "glm-5.2"
+}

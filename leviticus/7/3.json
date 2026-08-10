@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na ⟨את⟩ mafuta yake yote atatoa kutoka humo: ⟨את⟩ mkia wa mafuta, na ⟨את⟩ mafuta yanayofunika tumbo",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "mafuta yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "mafuta yake"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "atatoa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kutoka humo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkia wa mafuta"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "mkia wa mafuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "yanayofunika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tumbo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "tumbo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:31:47.088733611Z",
+  "model": "glm-5.2"
+}

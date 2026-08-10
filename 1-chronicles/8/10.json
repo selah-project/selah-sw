@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ Yeutsi na ⟨את⟩ Shekia na ⟨את⟩ Mirmah; hawa ni wana wake, machifu wa baba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yeutsi"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeutsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shekia"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Shekia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ni wana wake"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "machifu wa"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "baba"
+    }
+  ],
+  "timestamp": "2026-08-10T14:05:19.907332282Z",
+  "model": "glm-5.2"
+}

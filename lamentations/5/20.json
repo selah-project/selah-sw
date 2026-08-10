@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Kwa nini hutusahau milele, hutuacha kwa muda mrefu wa siku?",
+  "tokens": [
+    {
+      "surface": "לָ֤מָּה",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "לָנֶ֨צַח֙",
+      "gloss": "milele"
+    },
+    {
+      "surface": "תִּשְׁכָּחֵ֔נוּ",
+      "gloss": "hutusahau"
+    },
+    {
+      "surface": "תַּֽעַזְבֵ֖נוּ",
+      "gloss": "hutuacha"
+    },
+    {
+      "surface": "לְאֹ֥רֶךְ",
+      "gloss": "kwa muda mrefu"
+    },
+    {
+      "surface": "יָמִֽים",
+      "gloss": "wa siku"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:02.354297463Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "na ⟨את⟩ Patrusim na ⟨את⟩ Kasluhim, ambao kutoka kwao waliotoka ni Wapeleshti, na ⟨את⟩ Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kasluhim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluhim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "waliotoka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kutoka kwao"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Wapeleshti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorim"
+    }
+  ],
+  "timestamp": "2026-08-10T14:02:56.223312026Z",
+  "model": "glm-5.2"
+}

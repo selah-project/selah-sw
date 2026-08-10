@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Rudi, E Yisrael, mpaka kwa Yahweh Elohim wako, maana umeteleza katika uovu wako.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Rudi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "E Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "umeteleza"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "katika uovu wako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:43:00.721630547Z",
+  "model": "glm-5.2"
+}

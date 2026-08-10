@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Naye akasema kwa binti zake, Na yu wapi? Kwa nini mlimwacha ⟨את⟩ mtu yule? Mwiteni, apate kula mkate.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akasema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "binti zake"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "na yu wapi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kwa nini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "mlimwacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtu yule"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mtu yule"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "mwiteni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "amwite"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "apate kula"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    }
+  ],
+  "timestamp": "2026-08-10T10:17:20.734477575Z",
+  "model": "glm-5.2"
+}

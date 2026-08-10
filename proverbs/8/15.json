@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Kwa ⟨njia yangu⟩ wafalme hufalme, na watawala huamua haki.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "kwa ⟨njia yangu⟩"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "hufalme"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "na watawala"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "huamua"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "haki"
+    }
+  ],
+  "timestamp": "2026-08-10T15:31:41.313415211Z",
+  "model": "glm-5.2"
+}

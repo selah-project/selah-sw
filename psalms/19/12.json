@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Tena mja wako anaonywa ⟨katika⟩ hizo; katika kuzihifadhi kuna thawabu kubwa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Tena"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mja wako"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "anaonywa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨katika⟩ hizo"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "katika kuzihifadhi"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kuna thawabu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kubwa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:32.973167344Z",
+  "model": "glm-5.2"
+}

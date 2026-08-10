@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na nefesh yango imefadhaika sana; na wewe ⟨את⟩ Yahweh — ⟨huo⟩ mpaka lini?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Na nefesh yango"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "imefadhaika"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ו",
+      "gloss": "Na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "lini"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:45.143942208Z",
+  "model": "glm-5.2"
+}

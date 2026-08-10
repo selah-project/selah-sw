@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kama alivyomrithia Yahweh ⟨את⟩ Moshe, akawahesabu jangwani pa Sinai.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Kama"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alivyomrithia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "akawahesabu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "jangwani"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "pa Sinai"
+    }
+  ],
+  "timestamp": "2026-08-10T14:36:36.641303225Z",
+  "model": "glm-5.2"
+}

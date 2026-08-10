@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 76,
+  "translation": "Kwa maana hasira ya binadamu itakusifia; sehemu iliyobaki ya hasira utajifunga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "hasira"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya binadamu"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "itakusifia"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "sehemu iliyobaki"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ya hasira"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "utajifunga"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:21.683033051Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na mtu yule Elkanah, na nyumba yake yote, walipanda kutoa sadaka kwa Yahweh ⟨את⟩ sadaka ya siku ⟨za kila mwaka⟩, na ⟨את⟩ nadhiri yake.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "na akapanda"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mtu yule"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yote"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kutoa sadaka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sadaka"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ya siku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nadhiri yake"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "nadhiri yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:50:58.551232997Z",
+  "model": "glm-5.2"
+}

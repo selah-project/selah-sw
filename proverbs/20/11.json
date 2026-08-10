@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 20:11",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Hata kwa matendo yake, mtoto ⟨anajulikana⟩; kama matendo yake ni safi, na kama ni yanyofu, kazi yake.",
+  "tokens": [
+    {
+      "surface": "גַּ֣ם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "בְּ֭מַעֲלָלָיו",
+      "gloss": "kwa matendo yake"
+    },
+    {
+      "surface": "יִתְנַכֵּ֣ר",
+      "gloss": "⟨anajulikana⟩"
+    },
+    {
+      "surface": "נַ֭עַר",
+      "gloss": "mtoto"
+    },
+    {
+      "surface": "אִ֣ם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "זַ֣ךְ",
+      "gloss": "safi"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "na kama"
+    },
+    {
+      "surface": "יָשָׁ֣ר",
+      "gloss": "yanyofu"
+    },
+    {
+      "surface": "פֹּֽעַל־",
+      "gloss": "kazi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:26:57.256657783Z",
+  "model": "glm-5.2"
+}

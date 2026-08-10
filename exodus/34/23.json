@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Mara tatu katika mwaka atatokeza kiume wako wote ⟨kumuona⟩ nyuso za Adonai, Yahweh, Elohim wa Yisrael.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mara"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "katika mwaka"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "atatokeza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "kiume wako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyuso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nyuso za"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T10:28:06.124370923Z",
+  "model": "glm-5.2"
+}

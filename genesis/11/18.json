@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na Peleg akaishi miaka thelathini, na akazaa ⟨את⟩ Reu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Na-akaishi"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thelathini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na akazaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:34.567065258Z",
+  "model": "glm-5.2"
+}

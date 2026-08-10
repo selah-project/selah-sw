@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 98,
+  "translation": "⟨Amekumbuka⟩ chesed (fadhili) wake na imani yake kwa nyumba ya Yisrael; marikebu wote wa nchi wameona ⟨את⟩ uokoaji wa Elohim wetu.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "⟨amekumbuka⟩"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed (fadhili) wake"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "na imani yake"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kwa nyumba ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "wameona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "mrikebu wa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uokoaji"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "uokoaji wa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:52.712427308Z",
+  "model": "glm-5.2"
+}

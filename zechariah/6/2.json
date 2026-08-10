@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Katika gari la kwanza kulikuwa na farasi wekundu, na katika gari la pili kulikuwa na farasi weusi.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "katika gari"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "la kwanza"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "farasi"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "wekundu"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "na katika gari"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "la pili"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "farasi"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "weusi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:22:59.376345950Z",
+  "model": "glm-5.2"
+}

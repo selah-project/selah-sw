@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "na moyo wako ukainuka, ukasahau ⟨את⟩ Yahweh Elohim wako, ⟨yule⟩ aliyeautoa kutoka katika nchi ya Mitsrayim, kutoka nyumbani mwa utumwa.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "na ukinuka"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "ukasahau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "aliyeautoa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kutoka katika nchi ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kutoka nyumbani mwa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "utumwa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:57:01.696351849Z",
+  "model": "glm-5.2"
+}

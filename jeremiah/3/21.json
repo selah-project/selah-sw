@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Sauti juu ya vilima ⟨inasikika⟩, kilio cha maombezi ya wana wa Yisra'el, kwa maana wamepotosha ⟨את⟩ njia yao, wamesahau ⟨את⟩ Yahweh Elohim wao.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "vilima"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "inasikika"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "kilio"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "maombezi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "wamepotosha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njia yao"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "njia yao"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "wamesahau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:10:08.172895550Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Jina zuri ⟨ni bora⟩ kuliko mafuta mazuri, na siku ya kufa kuliko siku ya kuzaliwa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "zuri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "kuliko mafuta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mazuri"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "na siku"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ya kufa"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kuliko siku"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "ya kuzaliwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:47:11.982563268Z",
+  "model": "glm-5.2"
+}

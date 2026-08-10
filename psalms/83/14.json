@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 83,
+  "translation": "Elohai, waweke ⟨wao⟩ kama giligili, kama ung'ang'a mbele ya upepo.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "waweke"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "kama giligili"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "kama ung'ang'a"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "upepo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:46.729522031Z",
+  "model": "glm-5.2"
+}

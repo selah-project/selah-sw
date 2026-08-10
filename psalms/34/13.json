@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Ni nani ⟨hiyo⟩ mtu anayetamani uhai, anayependa siku ⟨nyingi⟩, kuona jema?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨hiyo⟩ mtu"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "anayetamani"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "uhai"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "anayependa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku ⟨ningi⟩"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jema"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:05.320710252Z",
+  "model": "glm-5.2"
+}

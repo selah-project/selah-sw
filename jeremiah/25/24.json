@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "na ⟨את⟩ wafalme wote wa Araba na ⟨את⟩ wafalme wote wa ⟨⟩ watu wa mchanganyiko wakaao jangwani;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wafalme wote wa Araba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme wa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wafalme wote wa watu wa mchanganyiko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme wa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "⟨⟩ watu wa mchanganyiko"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "wakaao"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "jangwani"
+    }
+  ],
+  "timestamp": "2026-08-10T12:16:33.962421439Z",
+  "model": "glm-5.2"
+}

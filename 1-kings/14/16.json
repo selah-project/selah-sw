@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na atawasalisha ⟨את⟩ Israeli kwa ajili ya dhambi za Yerav'am, ambaye alizitenda, na ambaye aliwafanya Israeli wazitende.",
+  "tokens": [
+    {
+      "surface": "וְיִתֵּ֖ן",
+      "gloss": "Na atawasalisha"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Israeli"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "בִּגְלַ֞ל",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "חַטֹּ֤אות",
+      "gloss": "dhambi"
+    },
+    {
+      "surface": "יָֽרָבְעָם֙",
+      "gloss": "za Yerav'am"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "חָטָ֔א",
+      "gloss": "alizitenda"
+    },
+    {
+      "surface": "וַאֲשֶׁ֥ר",
+      "gloss": "na ambaye"
+    },
+    {
+      "surface": "הֶחֱטִ֖יא",
+      "gloss": "aliwafanya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Israeli"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Israeli wazitende"
+    }
+  ],
+  "timestamp": "2026-08-10T15:00:06.619462264Z",
+  "model": "glm-5.2"
+}

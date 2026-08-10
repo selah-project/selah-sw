@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Elohim akawabariki ⟨אתם⟩ akisema: \"Zaalini, mwingiwe, na kujaza ⟨את⟩ maji katika bahari, na ndege awe na wingi katika nchi.\"",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "akabariki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "zaalini"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mwingiwe"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "na kujaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maji"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "katika bahari"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "na ndege"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "awe na wingi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:48:43.639187132Z",
+  "model": "glm-5.2"
+}

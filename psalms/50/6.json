@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Na mbingu zitatangaza haki yake, kwani Elohim ⟨⟨ni⟩⟩ mwamuzi, yeye. Sela.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "na zitatangaza"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "haki yake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "mwamuzi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:30.894561530Z",
+  "model": "glm-5.2"
+}

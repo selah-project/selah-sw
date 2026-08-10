@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "na ⟨את⟩ Ebal na ⟨את⟩ Avimael na ⟨את⟩ Sheva",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ebal"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ebal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Avimael"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-10T14:02:51.663294984Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 85,
+  "translation": "Kwa mwongozaji ⟨wa⟩ wan wa Korach, wimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwongozaji"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨wa⟩ wan wa"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "wimbo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:50.048980004Z",
+  "model": "glm-5.2"
+}

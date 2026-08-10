@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na David akachukua ⟨את⟩ ngao za dhahabu zilizokuwa juu ya watumwa wa Hadadezer, na akazileta Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "na akachukua"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngao za dhahabu"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "ngao"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "za dhahabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kilizokuwa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zilizokuwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ya watumwa"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "wa Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "na akazileta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T14:09:26.903175276Z",
+  "model": "glm-5.2"
+}

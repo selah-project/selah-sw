@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "⟨את⟩ kinara ⟨cha⟩ dhahabu ⟨cha⟩ safi, ⟨את⟩ taa zake, taa za mpangilio, na ⟨את⟩ vyombo vyake vyote, na ⟨את⟩ mafuta ya kuwaka;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinara"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kinara"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "⟨cha⟩ safi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taa zake"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "taa zake"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "taa"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "za mpangilio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vyombo vyake vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "vyombo vyake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ya kuwaka"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:03.021062769Z",
+  "model": "glm-5.2"
+}

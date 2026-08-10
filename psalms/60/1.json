@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 60,
+  "translation": "Kwa mwongozaji, kwa njia ya Shushan-Eduth, miktam ya David, kwa kufundisha.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwongozaji"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa njia ya"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan-"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "kwa kufundisha"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:44.978765034Z",
+  "model": "glm-5.2"
+}

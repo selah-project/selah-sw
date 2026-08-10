@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Akaunganisha ⟨את⟩ mapazia matano peke yake, na ⟨את⟩ mapazia sita peke yake.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Akaunganisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapazia matano"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "matano"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "mapazia"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "peke yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mapazia sita"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sita"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "mapazia"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "peke yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:29:02.123706051Z",
+  "model": "glm-5.2"
+}

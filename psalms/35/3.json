@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Na ukivute mkuki, na ufunge njia kwa ajili ya kuwaita wanaonikimbilia, umimi kwa nafsi yangu: '⟨⟨Mimi⟩⟩ ni wokovu wako.'",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "Na ukivute"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "mkuki"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "na ufunge"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kwa ajili ya kuwaita"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "wanaonikimbilia"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "umimi"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kwa nafsi yangu"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "wokovu wako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mimi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:51.895100109Z",
+  "model": "glm-5.2"
+}

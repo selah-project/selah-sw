@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Na Wamshukuru Yahweh kwa chesed chake, na kwa ajabu zake kwa wana wa Adamu.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Na Wamshukuru"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kwa chesed chake"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "na kwa ajabu zake"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa wana wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:43.520500340Z",
+  "model": "glm-5.2"
+}

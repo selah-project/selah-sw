@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ mnara wa Penueli akauangusha, akawauwa ⟨את⟩ watu wa ⟨hiyo⟩ jiji.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "mnara"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "mnara"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "wa Penueli"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "akauangusha"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "akawauwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "watu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa jiji"
+    }
+  ],
+  "timestamp": "2026-08-10T11:15:15.621191445Z",
+  "model": "glm-5.2"
+}

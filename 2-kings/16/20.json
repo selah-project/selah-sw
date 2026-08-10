@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Achaz akalala na baba zake, akazikwa na baba zake ⟨yake⟩ mjini wa David, na Chizkiyahu mwana wake akafanywa mfalume mahali pake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "akalala"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baba zake"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "akazikwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baba zake"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mjini"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akafanywa mfalume"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mahali pake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:02:07.989859553Z",
+  "model": "glm-5.2"
+}

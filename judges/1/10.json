@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Wayakaenda Yehudah ⟨kumsibia⟩ Mkanani amyekaa kule Khebroni — na jina la Khebroni zamani lilikuwa Qiryat-Arba — wakapiga ⟨את⟩ Sheshay na ⟨את⟩ Akhiman na ⟨את⟩ Talmay.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Wayakaenda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumsibia"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mkanani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "amyekaa"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "kule Khebroni"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na jina la"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khebroni"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "zamani"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wakapiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshay"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Akhiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Akhiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Talmay"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmay"
+    }
+  ],
+  "timestamp": "2026-08-10T14:47:29.863032580Z",
+  "model": "glm-5.2"
+}

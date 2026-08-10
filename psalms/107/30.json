@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Wakafurahi kwa kuwa yametulia, naye akawaongoza hadi bandari walipotamani.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Wakafurahi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "yametulia"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "naye akawaongoza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "bandari"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "walipotamani"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:07.474029325Z",
+  "model": "glm-5.2"
+}

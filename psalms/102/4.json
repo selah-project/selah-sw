@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Kwa kuwa siku zangu zimekamilika kwa moshi, na mifupa yangu kama moto imewaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "zimekamilika"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "ka moshi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "siku zangu"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "na mifupa yangu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kama"
+    },
+    {
+      "surface": "קד",
+      "gloss": "moto"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "imewaka"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:40.994684902Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 145,
+  "translation": "Watakutukua, Ee Yahweh, kazi zako zote; na watakatifu watakubaruku.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Watakutukua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "kazi zako"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "na watakatifu wako"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "watakubaruku"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:01.847403126Z",
+  "model": "glm-5.2"
+}

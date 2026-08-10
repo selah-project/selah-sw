@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na Adamu akaita jina la mkewe Chavah, kwa maana yeye ⟨alikuwa⟩ mama wa wote walio hai.",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "na akaita"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adamu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mkewe"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "alikuwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "חי",
+      "gloss": "walio hai"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:41.106955862Z",
+  "model": "glm-5.2"
+}

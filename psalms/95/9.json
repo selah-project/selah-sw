@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 95,
+  "translation": "ambapo baba zenu walinipima, walinichunguza, hata wakaona kazi yangu.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "נִ֭סּוּנִי",
+      "gloss": "walinipima"
+    },
+    {
+      "surface": "אֲבוֹתֵיכֶ֑ם",
+      "gloss": "baba zenu"
+    },
+    {
+      "surface": "בְּחָנ֗וּנִי",
+      "gloss": "walinichunguza"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "רָא֥וּ",
+      "gloss": "wakaona"
+    },
+    {
+      "surface": "פָעֳלִֽי",
+      "gloss": "kazi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:39.576035662Z",
+  "model": "glm-5.2"
+}

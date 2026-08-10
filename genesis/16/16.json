@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na Avram ⟨akiwa na⟩ umri wa miaka themanini na sita Hagar alipomzaa ⟨את⟩ Yishma'el kwa Avram.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "na Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "themanini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na sita"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "alipozaa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishma'el"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishma'el"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "kwa Avram"
+    }
+  ],
+  "timestamp": "2026-08-10T14:23:45.784842578Z",
+  "model": "glm-5.2"
+}

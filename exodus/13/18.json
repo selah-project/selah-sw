@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Elohim akawazungusha ⟨את⟩ watu njia ya jangwa, Bahari ya Mwanzi. Na wakiwa wamejeshi wana wa Israeli wali kutoka nchi ya Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "akawazungusha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njia ya"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "jangwa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Bahari"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ya Mwanzi"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na wakiwa wamejeshi"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "wali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kutoka nchi ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:21:58.269415719Z",
+  "model": "glm-5.2"
+}

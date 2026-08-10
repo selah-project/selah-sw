@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 9:8",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Yahweh, Elohim wako, naabarikiwe, ⟨ye⟩ aliyependea moyo wake kwa wewe, ili aweke juu ya kiti chake cha enzi kuwa mfalme kwa ajili ya Yahweh, Elohim wako; kwa mapenzi ya Elohim wako kwa ⟨את⟩ Yisrael, ili aweke ⟨ao⟩ milele. Ndiye aliyekuweka wewe juu yao kuwa mfalme, kufanya hukumu na uadilifu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "naabarikiwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "aliyebarikiwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "alipendelea"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kwa wewe"
+    },
+    {
+      "surface": "לתתך",
+      "gloss": "ili akuweke"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kiti chake cha enzi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuwa mfalme"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa ajili ya Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "באהבת",
+      "gloss": "kwa mapenzi ya"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להעמידו",
+      "gloss": "ili aweke"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "ויתנך",
+      "gloss": "naye akakuweka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "juu yao"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuwa mfalme"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kufanya"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na uadilifu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:14:53.620300873Z",
+  "model": "glm-5.2"
+}

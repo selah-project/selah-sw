@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Jisifuni katika jina la utakatifu wake, naafanya moyo wahitaji wa Yahweh kufurahi.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Jisifuni"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "katika jina"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "la utakatifu wake"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "kufurahi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "wa watafutao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:20.005048186Z",
+  "model": "glm-5.2"
+}

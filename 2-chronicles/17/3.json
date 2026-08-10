@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 17:3",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Na Yahweh ⟨alikuwa⟩ pamoja na Yehoshapha, kwa sababu aliitembea katika njia za David baba yake za mwanzo, wala hakufuatilia ⟨⟩ kwa Baali.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na akawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshapha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "aliitembea"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "katika njia za"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "za mwanzo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hakufuatilia"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "kufuatilia"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "kwa Baali"
+    }
+  ],
+  "timestamp": "2026-08-10T15:45:14.306004622Z",
+  "model": "glm-5.2"
+}

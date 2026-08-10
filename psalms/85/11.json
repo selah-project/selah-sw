@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 85,
+  "translation": "Chesed na uaminifu zimekutana; haki na amani zimebusuana.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na uaminifu"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "zimekutana"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "haki"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "na amani"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "zimebusuana"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:17.457702419Z",
+  "model": "glm-5.2"
+}

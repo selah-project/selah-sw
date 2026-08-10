@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 87,
+  "translation": "Mambo yenye utukufu yamesemwa kuhusu wewe, mji wa Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "yenye utukufu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "yamesemwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuhusu wewe"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:42.125558632Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Kwa maana humtangulizia kwa baraka ⟨za⟩ wema, hutia taji ⟨ya⟩ dhahabu safi kichwani mwake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "humtangulizia"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "baraka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wema"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "hutia"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "kichwani mwake"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "taji"
+    },
+    {
+      "surface": "פז",
+      "gloss": "dhahabu safi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:17.376561416Z",
+  "model": "glm-5.2"
+}

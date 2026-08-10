@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Kwa maana amejipangia kwa unyofu mbele ya macho yake, kupata uovu wake kuwa wa kuchukiwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "amejipangia kwa unyofu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mbele ya macho yake"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "kupata"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "uovu wake"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "kuwa wa kuchukiwa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:42.316677382Z",
+  "model": "glm-5.2"
+}

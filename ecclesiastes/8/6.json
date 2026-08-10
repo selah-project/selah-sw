@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Kwa maana kwa kila nia kuna wakati na hukumu, kwa maana shari ya ⟨adamu⟩ ni nyingi juu yake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa kila"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nia"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na hukumu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "shari"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ya ⟨adamu⟩"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ni nyingi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:48:01.742480803Z",
+  "model": "glm-5.2"
+}

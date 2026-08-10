@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Haki na hukumu ⟨ni⟩ msingi wa kiti chako cha enzi; chesed na kweli zitakitangulia uso wako.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Haki"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na hukumu"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "msingi"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "wa kiti chako cha enzi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na kweli"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "zitakitangulia"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uso wako"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:31.778537310Z",
+  "model": "glm-5.2"
+}

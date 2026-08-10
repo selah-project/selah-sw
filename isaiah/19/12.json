@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Wako wapi basi wenye hekima wako? Na waambie sasa, na wajue Yahweh Sevaoti ameshauri nini juu ya Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "wako wapi"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "basi"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "wenye hekima wako"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "na waambie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "na wajue"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ameshauri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaoti"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T16:06:50.797661364Z",
+  "model": "glm-5.2"
+}

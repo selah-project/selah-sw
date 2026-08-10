@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "⟨את⟩ neno lote ambalo mimi nakuitengeneza ⟨את⟩ ninyi ⟨את⟩ lile mtalinda kuletenda; hamtaongeza juu yake, wala hamtapunguza kutoka mlangoni.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neno lote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lote"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "nanakuitengeneza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninyi",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lile",
+      "marks": "lile"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "mtalinda"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuletenda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamta"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ongeza"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hamta"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "punguza"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kung'oa kutoka mlangoni"
+    }
+  ],
+  "timestamp": "2026-08-10T10:58:27.599483707Z",
+  "model": "glm-5.2"
+}

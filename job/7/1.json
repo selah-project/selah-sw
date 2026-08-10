@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Je, sivyo? ⟨⟨Jeshi⟩⟩ limewekwa kwa ⟨אנוש⟩ juu ya nchi, na siku zake ni kama siku za mjinga wa kulipwa?",
+  "tokens": [
+    {
+      "surface": "הֲלֹא",
+      "gloss": "Je, sivyo?"
+    },
+    {
+      "surface": "צָבָ֣א",
+      "gloss": "jeshi"
+    },
+    {
+      "surface": "לֶאֱנ֣וֹשׁ",
+      "gloss": "kwa ⟨אנוש⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "אָ֑רֶץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "וְכִימֵ֖י",
+      "gloss": "na kama siku za"
+    },
+    {
+      "surface": "שָׂכִ֣יר",
+      "gloss": "mjinga wa kulipwa"
+    },
+    {
+      "surface": "יָמָֽיו",
+      "gloss": "siku zake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:32:32.392524504Z",
+  "model": "glm-5.2"
+}

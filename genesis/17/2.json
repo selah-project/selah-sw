@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "nami nitaweka ⟨את⟩ beriti yangu kati yangu na wewe, nami nitakuzaliza sana sana.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "nami nitaweka"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beriti yangu"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "kati yangu"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "na wewe"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "nami nitakuzaliza"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "wewe"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-10T10:05:40.719298209Z",
+  "model": "glm-5.2"
+}

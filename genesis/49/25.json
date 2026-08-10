@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Kwa El wa baba yako, naye atakusaidia, na ⟨את⟩ Shaddai, naye atakubariki, kwa baraka za mbingu kutoka juu, kwa baraka za tehomu inayolala chini, kwa baraka za matiti na tumbo la uzazi:",
+  "tokens": [
+    {
+      "surface": "מֵאֵ֨ל",
+      "gloss": "kwa El"
+    },
+    {
+      "surface": "אָבִ֜יךָ",
+      "gloss": "wa baba yako"
+    },
+    {
+      "surface": "וְיַעְזְרֶ֗ךָּ",
+      "gloss": "naye atakusaidia"
+    },
+    {
+      "surface": "וְאֵ֤ת",
+      "gloss": "⟨את⟩",
+      "marks": "Shaddai"
+    },
+    {
+      "surface": "שַׁדַּי֙",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "וִיבָ֣רְכֶ֔ךָּ",
+      "gloss": "naye atakubariki"
+    },
+    {
+      "surface": "בִּרְכֹ֤ת",
+      "gloss": "kwa baraka"
+    },
+    {
+      "surface": "שָׁמַ֨יִם֙",
+      "gloss": "za mbingu"
+    },
+    {
+      "surface": "מֵעָ֔ל",
+      "gloss": "kutoka juu"
+    },
+    {
+      "surface": "בִּרְכֹ֥ת",
+      "gloss": "kwa baraka"
+    },
+    {
+      "surface": "תְּה֖וֹם",
+      "gloss": "za tehomu"
+    },
+    {
+      "surface": "רֹבֶ֣צֶת",
+      "gloss": "inayolala"
+    },
+    {
+      "surface": "תָּ֑חַת",
+      "gloss": "chini"
+    },
+    {
+      "surface": "בִּרְכֹ֥ת",
+      "gloss": "kwa baraka"
+    },
+    {
+      "surface": "שָׁדַ֖יִם",
+      "gloss": "za matiti"
+    },
+    {
+      "surface": "וָרָֽחַם",
+      "gloss": "na tumbo la uzazi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:51:38.459092969Z",
+  "model": "glm-5.2"
+}

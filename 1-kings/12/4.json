@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Baba yako alifanya mzigo ⟨את⟩ ngozi yetu; wewe sasa punguza utumwa mzito wa baba yako na jokofu lake JEhilu alilotia juu yetu, nasi tukutumikie.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "baba yako"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "alifanya mzito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngozi yetu"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "ngozi yetu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "punguza"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "utumwa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wa baba yako"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "mzito"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "na jokofu lake"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "JEhilu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "alotia"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "juu yetu"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "nasi tukutumikie"
+    }
+  ],
+  "timestamp": "2026-08-10T11:41:40.421176939Z",
+  "model": "glm-5.2"
+}

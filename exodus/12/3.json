@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Semezeni kwa kusanyiko lote la Yisra'el, mkaseme: Siku ya kumi ya mwezi huu, kila mtu atachukua ⟨kwa⟩ nyumba ya baba zake — kundi moja kwa kila nyumba.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Semezeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lote"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kusanyiko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "la Yisra'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mkaseme"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "Siku ya kumi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya mwezi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "huu"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "atachukua"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kwa nyumba"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "ya baba zake"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kundi moja"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kwa nyumba"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:47.678472492Z",
+  "model": "glm-5.2"
+}

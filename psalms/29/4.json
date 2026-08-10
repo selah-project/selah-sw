@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Sauti ⟨ya⟩ Yahweh ⟨ni⟩ kwa nguvu; sauti ⟨ya⟩ Yahweh ⟨ni⟩ kwa hadara.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Sauti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "kwa nguvu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "kwa hadara"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:36.107904307Z",
+  "model": "glm-5.2"
+}

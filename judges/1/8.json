@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Wana wa Yehuda wakapigana na Yerushalayim, wakaiteka, wakaipiga kwa kinywa cha upanga, na ⟨את⟩ mji wakauchoma moto.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "wakapigana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Wana wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "wakaiteka"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "wakaipiga"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "kwa kinywa cha"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "upanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mji"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "wakauchoma"
+    },
+    {
+      "surface": "באש",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-08-10T14:47:48.168402307Z",
+  "model": "glm-5.2"
+}

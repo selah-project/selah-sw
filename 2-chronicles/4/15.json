@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "⟨את⟩ bahari moja, na ⟨את⟩ ng'ombe kumi na wawili chini yake.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahari"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kumi na"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "chini yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:44:08.831418289Z",
+  "model": "glm-5.2"
+}

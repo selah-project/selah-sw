@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 145,
+  "translation": "Kizazi kwenda kizaki kitakipenda kazi yako, na nguvu zako watadai.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Kizazi"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kwenda kizaki"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "kitakipenda"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "kazi yako"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "na nguvu zako"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "watadai"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:03.359321758Z",
+  "model": "glm-5.2"
+}

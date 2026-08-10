@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 21:3",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na David akamwambia Akimeleki kuhani: Mfalme ameniamrisha jambo, na akaniambia, Mtu yeyotu asiwe mjuzi wa ⟨את⟩ jambo hili ambalo mimi nakutuma, na ambalo nimekuamrisha; na ⟨את⟩ vijana nawafahamu ⟨kwa⟩ mahali fulani na fulani.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akamwambia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "Akimeleki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mfalme"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "ameniamrisha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akaniambia"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "we mjuzi wa"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "yeyotu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jambo hili"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "nakutuma"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na ambalo"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "nimekuamrisha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vijana"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "vijana"
+    },
+    {
+      "surface": "יודעתי",
+      "gloss": "nawafahamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "fulani"
+    },
+    {
+      "surface": "אלמוני",
+      "gloss": "na fulani"
+    }
+  ],
+  "timestamp": "2026-08-10T18:04:18.852410646Z",
+  "model": "glm-5.2"
+}

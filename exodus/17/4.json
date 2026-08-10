@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Moshe akapiga kelele kwa Yahweh akisema: Nifanye nini kwa watu hawa? Hata kidogo tu watanipiga mawe.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "akapiga kelele"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nifanye"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kwa watu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kidogo tu"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "watanipiga mawe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:23:32.484821118Z",
+  "model": "glm-5.2"
+}

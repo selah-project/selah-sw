@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Balaki akafanya kama Bilamu alivyosema; Balaki na Bilamu wakatoa ወንዱን fahali na dhimbili juu ya kila madhabahu.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֣עַשׂ",
+      "gloss": "akafanya"
+    },
+    {
+      "surface": "בָּלָ֔ק",
+      "gloss": "Balaki"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֖ר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "דִּבֶּ֣ר",
+      "gloss": "alivyosema"
+    },
+    {
+      "surface": "בִּלְעָ֑ם",
+      "gloss": "Bilamu"
+    },
+    {
+      "surface": "וַיַּ֨עַל",
+      "gloss": "wakatoa"
+    },
+    {
+      "surface": "בָּלָ֧ק",
+      "gloss": "Balaki"
+    },
+    {
+      "surface": "וּבִלְעָ֛ם",
+      "gloss": "na Bilamu"
+    },
+    {
+      "surface": "פָּ֥ר",
+      "gloss": "fahali"
+    },
+    {
+      "surface": "וָאַ֖יִל",
+      "gloss": "na dhimbili"
+    },
+    {
+      "surface": "בַּמִּזְבֵּֽחַ",
+      "gloss": "juu ya madhabahu"
+    }
+  ],
+  "timestamp": "2026-08-10T17:43:26.963763168Z",
+  "model": "glm-5.2"
+}

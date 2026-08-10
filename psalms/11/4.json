@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Yahweh — ⟨yuko⟩ hekaluni katika kitu cha siri; Yahweh — ⟨yuko⟩ mbinguni kiti chake; macho yake yanaangalia, kope zake zinachunguza, wana waadamu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "hekaluni"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "katika kitu cha siri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mbinguni"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kiti chake"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "macho yake"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "yanaangalia"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "kope zake"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "zinachunguza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:30.005490693Z",
+  "model": "glm-5.2"
+}

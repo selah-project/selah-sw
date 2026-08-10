@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 22:10",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Na mfalme wa Yisra'eli na Yehoshafat mfalme wa Yehudah walikuwa wakikaa kila mmoja juu ya kiti chake, wamevalia nguo, ⟨wakiwa⟩ goroni, mlangoni pa mgeni wa Shomron; na manabii wote walikuwa wanatabiri mbele yao.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "na mfalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "na Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "walikuwa wakikaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mmoja"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kiti chake"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "wamevalia"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "nguo"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "⟨wakiwa⟩ goroni"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mlangoni pa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "mgeni"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "manabii"
+    },
+    {
+      "surface": "מתנבאים",
+      "gloss": "walikuwa wanatabiri"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "mbele yao"
+    }
+  ],
+  "timestamp": "2026-08-10T11:45:06.510700570Z",
+  "model": "glm-5.2"
+}

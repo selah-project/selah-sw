@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Ikawa baada ya siku kadhaa, kishazi kikakauka, kwa maana hakukuwa na mvua katika nchi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ikawa"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku kadhaa"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "kikakauka"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "kishazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakukuwa na"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨hakukuwa⟩"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "mvua"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:59:34.203751011Z",
+  "model": "glm-5.2"
+}

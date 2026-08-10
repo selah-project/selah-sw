@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na Ornan akageuka, akaona ⟨את⟩ mjumbe, na wana wake wanne ⟨אלה⟩ walikuwa pamoja naye wakijificha; na Ornan alikuwa akidunga ngano.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "na akageuka"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mjumbe"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mjumbe"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "na wana wake wanne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wana wake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja naye"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "wakijificha"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "na Ornan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "alikuwa akidunga"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "ngano"
+    }
+  ],
+  "timestamp": "2026-08-10T14:09:51.138209919Z",
+  "model": "glm-5.2"
+}

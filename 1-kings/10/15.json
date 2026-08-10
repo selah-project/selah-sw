@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Isipokuwa kutokana na watu wa ⟨the⟩ wafanyabiashara, na biashara ya wafanyabiashara, na wafalme wote wa ⟨the⟩ Kiarabu, na magavana wa ⟨the⟩ nchi.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "Isipokuwa"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "kutokana na watu wa"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "wafanyabiashara"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "na biashara ya"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "wafanyabiashara"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "Kiarabu"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "na magavana wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T16:03:22.010895061Z",
+  "model": "glm-5.2"
+}

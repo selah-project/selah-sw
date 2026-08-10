@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Wakaenda wana wa uhamishoni wakafanya ⟨את⟩ Pasaka siku ya kumi na nne ya mwezi wa kwanza.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "wakafanya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "wa uhamishoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pasaka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pasaka"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "siku ya kumi na nne"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kumi na nne"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya mwezi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "wa kwanza"
+    }
+  ],
+  "timestamp": "2026-08-10T13:56:49.929342679Z",
+  "model": "glm-5.2"
+}

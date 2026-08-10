@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Usikusanye na wahalifu nafsi yangu, wala na watu wa damu uhai wangu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "kusanye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "wahalifu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "watu"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "wa damu"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "uhai wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:13.559596492Z",
+  "model": "glm-5.2"
+}

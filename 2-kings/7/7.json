@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Basi wakaondoka wakakimbia katika giza la alfajiri, wakaacha ⟨את⟩ hema zao na ⟨את⟩ farasi wao na ⟨את⟩ punda wao, ⟨iyo⟩ kambi kama ilivyo, wakakimbia kwa ajili ya uhai wao.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "wakaondoka"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "wakakimbia"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "katika giza la alfajiri"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "wakaacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema zao"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "hema zao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "farasi wao"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "farasi wao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "punda wao"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "punda wao"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kambi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ilivyo"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "wakakimbia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "uhai wao"
+    }
+  ],
+  "timestamp": "2026-08-10T16:04:59.481656386Z",
+  "model": "glm-5.2"
+}

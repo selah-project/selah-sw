@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na Moshe akasikia ⟨את⟩ taifa likilia, kila familia yake; mtu mmoja mmoja mlangoni pa hema yake; na hasira za Yahweh zikawaka sana, na machoni pa Moshe ⟨ilikuwa⟩ ovu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Na akasikia"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taifa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "likilia"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "kila familia yake"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "mlangoni"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "pa hema yake"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "na zikawaka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hasira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "za Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "na machoni pa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ovu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:45:34.790811132Z",
+  "model": "glm-5.2"
+}

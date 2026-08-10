@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 90,
+  "translation": "Na ionekane kwa waja wako kazi yako, na utukufu wako juu ya watoto wao.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Na ionekane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "waja wako"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "kazi yako"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "na utukufu wako"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "watoto wao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:16.960232726Z",
+  "model": "glm-5.2"
+}

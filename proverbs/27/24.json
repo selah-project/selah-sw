@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Kwa maana si milele mali, wala taji ⟨hudumu⟩ kwa kizazi na kizazi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "mali"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "taji"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kwa kizazi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "na kizazi"
+    }
+  ],
+  "timestamp": "2026-08-10T16:21:22.419008640Z",
+  "model": "glm-5.2"
+}

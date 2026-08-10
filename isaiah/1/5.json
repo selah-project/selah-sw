@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kwa nini mpigwe tena? Mnaongeza uasi! Kichwa kote ⟨ni⟩ ugonjwa, na moyo wote ⟨ni⟩ mwangu.",
+  "tokens": [
+    {
+      "surface": "עַ֣ל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מֶ֥ה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "תֻכּ֛וּ",
+      "gloss": "mpigwe"
+    },
+    {
+      "surface": "ע֖וֹד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "תּוֹסִ֣יפוּ",
+      "gloss": "mnaongeza"
+    },
+    {
+      "surface": "סָרָ֑ה",
+      "gloss": "uasi"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "kote"
+    },
+    {
+      "surface": "רֹ֣אשׁ",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "לָחֳלִ֔י",
+      "gloss": "ugonjwa"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "na moyo wote"
+    },
+    {
+      "surface": "לֵבָ֖ב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "דַּוָּֽי",
+      "gloss": "mwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:00.952768293Z",
+  "model": "glm-5.2"
+}

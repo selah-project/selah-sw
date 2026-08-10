@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Nanyi mkaniambia ⟨את⟩, mkasema: Ni jema zamu ambayo uliyoyaongea kufanywa.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "nanyi mkaniambia"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mimi"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "mkasema"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ni jema"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "zamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "uliyoziyaongea"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kufanywa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:54:18.579997211Z",
+  "model": "glm-5.2"
+}

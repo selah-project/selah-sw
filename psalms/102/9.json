@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Siku nzima adui zangu wamenitukana; na wale waliopagawa kwa hasira ⟨ndani yangu⟩ wameapa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nzima"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "wamenitukana"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "adui zangu"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "na wale waliopagawa kwa hasira"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨ndani yangu⟩"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "wameapa"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:48.013021679Z",
+  "model": "glm-5.2"
+}

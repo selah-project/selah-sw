@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na kutoka kwa ⟨את⟩ kusanyiko la wana wa Yisra'el atachukua mbili-billy ya mbuzi kwa sadaka ya dhambi, na doodoo moja kwa sadaka ya mwunguo.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "Na kutoka kwa ⟨את⟩",
+      "marks": "kusanyiko"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kusanyiko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "atachukua"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "billy"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "mbuzi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "kwa sadaka ya dhambi"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "na doodoo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "kwa sadaka ya mwunguo"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:04.584520482Z",
+  "model": "glm-5.2"
+}

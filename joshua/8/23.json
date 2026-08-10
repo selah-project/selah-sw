@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ mfalme wa Ay wakamshika hai, wakamleta ⟨את⟩ kwa Yehoshua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "mfalme wa Ay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "העי",
+      "gloss": "wa Ay"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "wakamshika"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "wakamleta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-08-10T11:07:04.306193940Z",
+  "model": "glm-5.2"
+}

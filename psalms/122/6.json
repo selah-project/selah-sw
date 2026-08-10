@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 122,
+  "translation": "Ombeni shalom ya Yerushalayim; wapendao wako watastawi.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Ombeni"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ya Yerushalayim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "watastawi"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "wapendao wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:33.901667350Z",
+  "model": "glm-5.2"
+}

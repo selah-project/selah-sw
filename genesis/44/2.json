@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Na ⟨את⟩ kikombe changu, kikombe cha fedha, uweke kwenye kinywa cha mfuko wa mdogo, pamoja na ⟨את⟩ fedha ya nafaka yake. Naye akafanya kulingana neno la Yosef ambalo alikuwa amenena.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "kikombe changu"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "kikombe"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "cha fedha"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "uweke"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "kwenye kinywa cha"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "mfuko"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "wa mdogo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "pamoja na ⟨את⟩"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ya nafaka yake"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Naye akafanya"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kulingana neno"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "la Yosef"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alikuwa amenena"
+    }
+  ],
+  "timestamp": "2026-08-10T14:27:20.585965219Z",
+  "model": "glm-5.2"
+}

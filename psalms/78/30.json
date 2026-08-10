@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Hawakurudi kutoka katika tamaa yao; chakula ⟨chao⟩ bado kilikuwa midomoni mwao.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hawa"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "kurudi"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "kutoka katika tamaa yao"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bado"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "chakula"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "kilikuwa midomoni mwao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:44.340134311Z",
+  "model": "glm-5.2"
+}

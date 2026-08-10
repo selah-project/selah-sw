@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Akamchukua Yahweh Elohim ⟨את⟩ adamu, akamweka katika bustani ya Eden, ili alilime na ili ailinde.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akamchukua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adamu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adamu"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "akamweka"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "katika bustani"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ya Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "ili alilime"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "na ili ailinde"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:34.880147652Z",
+  "model": "glm-5.2"
+}

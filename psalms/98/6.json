@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 98,
+  "translation": "Kwa tarumbeta na sauti ya shofar, pigeni kelele mbele za mfalme, Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Kwa tarumbeta"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "na sauti"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ya shofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "pigeni kelele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:04.034184296Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Yahweh Elohemu akapanda bustani iyEdeni, upande wa mashariki, akamweka huko ⟨את⟩ mtu ⟨ambaye⟩ aliyemunda.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "akapanda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohemu"
+    },
+    {
+      "surface": "גן",
+      "gloss": "bustani"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "iyEdeni"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "upande wa mashariki"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akamweka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ambaye⟩"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "aliyemunda"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:12.225531118Z",
+  "model": "glm-5.2"
+}

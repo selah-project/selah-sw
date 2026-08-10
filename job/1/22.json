@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Katika yote haya Iyovu HAKUTENDA dhambi, wala HAKUPEA upuuzi kwa Elohim.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Katika yote"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "haya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "HAKU-"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "-TENDA dhambi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyovu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala HAKU-"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "-PEA"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "upuuzi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T13:30:28.980447947Z",
+  "model": "glm-5.2"
+}

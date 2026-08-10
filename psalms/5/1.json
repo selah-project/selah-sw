@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Kwa kiongozi wa muziki, kwenye NJESTRUMI. Zaburi ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa kiongozi wa muziki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "NJESTRUMI"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Zaburi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:47.242527705Z",
+  "model": "glm-5.2"
+}

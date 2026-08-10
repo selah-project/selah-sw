@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Pale ambapo mataifa yakikusanywa pamoja, na ufalme, kumtumikia ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "pale ambapo yakikusanywa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "na ufalme"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kumtumikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:22.089308593Z",
+  "model": "glm-5.2"
+}

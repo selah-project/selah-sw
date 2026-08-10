@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Nikamwambia mjumbe aliyenizungumzia, Hizi ni nini? Naye akaniambia, Hizi ndizo pembe zilizotawanya ⟨את⟩ Yehudah, ⟨את⟩ Yisrael, na Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nikamwambia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mjumbe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "aliyenizungumzia"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ndani yangu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hizi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akaniambia"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hizi"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "pembe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "zilizotawanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T16:15:49.646628870Z",
+  "model": "glm-5.2"
+}

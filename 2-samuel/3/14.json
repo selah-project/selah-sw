@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na David akatuma wajumbe kwa Ish-Boshet mwana wa Shaul, akisema: Nipe mke wangu ⟨את⟩ Mikal, niliyemchumbia kwa viuno mia ⟨⟩ wa Pelishti.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Na akatuma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "wajumbe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "wa Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Nipe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mke wangu"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "mke wangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "niliyemchumbia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "kwa mia"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "viuno"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wa Pelishti"
+    }
+  ],
+  "timestamp": "2026-08-10T14:55:59.749031558Z",
+  "model": "glm-5.2"
+}

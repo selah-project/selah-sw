@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 18:14",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Kwa kuwa mataifa hawa ambao wewe unawaporwa ⟨uhawi⟩, kwa waotafuta miongoni mwa mawingu na kwa waopiga ramli husikiliza, lakini wewe — sivyo hivyo amekupa Yahweh Elohim wako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "unawaporwa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mataifa hawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מעננים",
+      "gloss": "waotafuta miongoni mwa mawingu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "waopiga ramli"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "husikiliza"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "lakini wewe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "amekup(a)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "amekupa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    }
+  ],
+  "timestamp": "2026-08-10T10:59:29.790062378Z",
+  "model": "glm-5.2"
+}

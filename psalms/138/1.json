@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 138,
+  "translation": "⟨Wa⟩ David. Nitakushukuru kwa moyo wangu wote; mbele ya Elohim nitakupigia ⟨kwa⟩ muziki.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "⟨Wa⟩ David"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "nitakushukuru"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwaote"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "nitakupigia muziki"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:50.056871770Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Akawaambia: Nendeni ⟨kwa⟩ siku tatu tena kisha mrudie kwangu. Na watu wakaenda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akawaambia"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Nendeni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "kisha mrudie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "Na wakaenda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:41:23.661343319Z",
+  "model": "glm-5.2"
+}

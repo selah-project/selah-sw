@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Je, ⟨si⟩ nchi yote mbele yako? Tengana, nakuomba, kutoka juu yangu. Ukipenda kushoto, nitakwenda kuliani; au ukichagua kuliani, nitakwenda kushotoni.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "je, ⟨si⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbele yako"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "tengana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nakuomba"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "kutoka juu yangu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukipenda"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "kushoto"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "nitakwenda kuliani"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "au ukichagua"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kuliani"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "nitakwenda kushotoni"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:54.000155882Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "Umependa haki, umelichukia uovu; kwa hiyo Elohim, Elohim wako, amekupaka mafuta ya shangwe kuliko washirika wako.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Umependa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "haki"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "umelichukia"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "amekupaka mafuta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafta"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ya shangwe"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "kuliko washirika wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:59.281240297Z",
+  "model": "glm-5.2"
+}

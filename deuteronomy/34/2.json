@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Na ⟨את⟩ kabila yote ya Naftali, na ⟨את⟩ nchi ya Efraimu na Manase, na ⟨את⟩ nchi yote ya Yehuda, hadi bahari ya mwisho.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kabila yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimu"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "na Manase"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nchi yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "ya mwisho"
+    }
+  ],
+  "timestamp": "2026-08-10T14:44:45.312779065Z",
+  "model": "glm-5.2"
+}

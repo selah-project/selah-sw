@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na watu wakatoka, wakapora ⟨את⟩ kambi ya Aramu; basi ilikuwa sa moja ya unga wa qamahi kwa shekeli, na sa mbili za shayiri kwa shekeli, kama neno la Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "na wakatoka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "wakapora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambi ya Aramu"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kambi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ya Aramu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "basi ilikuwa"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "sa moja"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ya unga wa qamahi"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "kwa shekeli"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "na sa mbili"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "za shayiri"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "kwa shekeli"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kama neno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T11:47:35.374571341Z",
+  "model": "glm-5.2"
+}

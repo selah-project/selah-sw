@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Si ⟨את⟩ ⟨na⟩ baba zetu Yahweh alikatina ⟨את⟩ agano hili, bali sisi ndio hawa hapa leo sisi wote tukiwa hai.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨na⟩",
+      "marks": "baba zetu"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "baba zetu"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "alikatina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agano hili"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "agano"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bali"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ⟨na⟩",
+      "marks": "sisi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndio hawa"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hapa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "sisi wote"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hai"
+    }
+  ],
+  "timestamp": "2026-08-10T14:41:48.101362503Z",
+  "model": "glm-5.2"
+}

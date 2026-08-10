@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 132,
+  "translation": "Kwa ajili ya David mtumishi wako, usimrudishe nyuma uso wa Mashíaj wako.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mtumishi wako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usi-"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "rulishe nyuma"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso wa"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashíaj wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:49.116525282Z",
+  "model": "glm-5.2"
+}

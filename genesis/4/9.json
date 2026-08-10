@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Yahweh akamwambia Qayin: Hevel ndugu yako yuko wapi? Naye akasema: Sijui; je, mimi ni mlinzi wa ndugu yangu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "אי",
+      "gloss": "wapi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ndugu yako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sijui"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "sijui"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "mlinzi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ndugu yangu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:31.836370043Z",
+  "model": "glm-5.2"
+}

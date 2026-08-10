@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na wana wa Bela walikuwa Ard na Naaman: familia ya Waardi; kwa Naaman, familia ya Wanaamai.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Na walikuwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "Ard"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "na Naaman"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "familia ya"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "Waardi"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "kwa Naaman"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "familia ya"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "Wanaamai"
+    }
+  ],
+  "timestamp": "2026-08-10T14:39:00.744468558Z",
+  "model": "glm-5.2"
+}

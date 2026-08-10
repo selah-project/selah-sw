@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 2:10",
+  "book": "micah",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Ondokeni mwende zenu, maana hii si pahali pa kupumzika; kwa sababu ya uchafu wake ⟨huvuruga⟩ na kuharibu kwa uharibufu mkali.",
+  "tokens": [
+    {
+      "surface": "ק֣וּמוּ",
+      "gloss": "Ondokeni"
+    },
+    {
+      "surface": "וּלְכ֔וּ",
+      "gloss": "mwende zenu"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "si"
+    },
+    {
+      "surface": "זֹ֖את",
+      "gloss": "hii"
+    },
+    {
+      "surface": "הַמְּנוּחָ֑ה",
+      "gloss": "pahali pa kupumzika"
+    },
+    {
+      "surface": "בַּעֲב֥וּר",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "טָמְאָ֛ה",
+      "gloss": "uchafu wake"
+    },
+    {
+      "surface": "תְּחַבֵּ֖ל",
+      "gloss": "⟨huvuruga⟩ na kuharibu"
+    },
+    {
+      "surface": "וְחֶ֥בֶל",
+      "gloss": "na uharibifu"
+    },
+    {
+      "surface": "נִמְרָֽץ",
+      "gloss": "mkali"
+    }
+  ],
+  "timestamp": "2026-08-10T12:46:57.142403407Z",
+  "model": "glm-5.2"
+}

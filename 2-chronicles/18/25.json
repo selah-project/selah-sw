@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na mfalme wa Yisra'el akasema: Mchukueni ⟨את⟩ Mikhayahu, mwarudisheni kwa Amoni, mkuu wa jiji, na kwa Yoashi, mwana wa mfalme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "mchukueni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikhayahu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhayahu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "mwarudisheni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa jiji"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoashi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T14:16:07.848998633Z",
+  "model": "glm-5.2"
+}

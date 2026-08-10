@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 75,
+  "translation": "Kwa kuwa Elohim ⟨ndiye⟩ mwamuzi; huyu huheshusha na huyu huinua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "hukimu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "huyu"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "huheshusha"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "na huyu"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "huinua"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:43.873832806Z",
+  "model": "glm-5.2"
+}

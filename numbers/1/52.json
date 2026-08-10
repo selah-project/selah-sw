@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na wana wa Yisra'el watapanga kambi, kila mtu kwenye kambi yake na kila mtu kwenye bendera yake kwa majeshi yao.",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "Na watapanga kambi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "kambi yake"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na kila mtu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "bendera yake"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "kwa majeshi yao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:39:57.963079071Z",
+  "model": "glm-5.2"
+}

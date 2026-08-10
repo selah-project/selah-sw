@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Ukaichukua ⟨את⟩ wanawako na ⟨את⟩ binti zako ambao ulizaa kwa ajili yangu, ukawachinja kwa ajili yao ili wale; hivyo ⟨je⟩ ni jambo dogo tu kwa kuwa unajisi?",
+  "tokens": [
+    {
+      "surface": "וַתִּקְחִי",
+      "gloss": "ukawa unaichukua"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "wanawako"
+    },
+    {
+      "surface": "בָּנַיִךְ",
+      "gloss": "wanawako"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "na ⟨את⟩",
+      "marks": "binti zako"
+    },
+    {
+      "surface": "בְּנוֹתַיִךְ",
+      "gloss": "binti zako"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "יָלַדְתְּ",
+      "gloss": "ulizaa"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "kwa ajili yangu"
+    },
+    {
+      "surface": "וַתִּזְבְּחִים",
+      "gloss": "ukawachinja"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "kwa ajili yao"
+    },
+    {
+      "surface": "לֶאֱכֹל",
+      "gloss": "ili wale"
+    },
+    {
+      "surface": "הַמְעַט",
+      "gloss": "hivyo ni jambo dogo tu"
+    },
+    {
+      "surface": "מִזְנוּתֵךְ",
+      "gloss": "kwa kuwa unajisi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:30:13.253112710Z",
+  "model": "glm-5.2"
+}

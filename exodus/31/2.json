@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Tazama, nimemwita kwa jina Betsalel mwana wa Uri mwana wa Hur, wa kabila la Yehudah.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nimemwita"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "kwa jina"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "wa Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "חור",
+      "gloss": "wa Hur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "wa kabila"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "la Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:17.644317639Z",
+  "model": "glm-5.2"
+}

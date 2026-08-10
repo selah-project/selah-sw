@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na mlaaye ⟨huyo⟩ atauchukua dhambi lake, kwa sababu ⟨ametenda ukiukaji⟩ kwa ⟨את⟩ kitu takatifu cha Yahweh; nafsi ⟨hiyo⟩ itakatiliwa kutoka kwa watu wake.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Na mlaaye"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "dhambi lake"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "atauchukua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kitu takatifu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kitu takatifu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "cha Yahweh"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "⟨ametenda ukiukaji⟩"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "itakatiliwa"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nafsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨hiyo⟩"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "kutoka kwa watu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:21.238812755Z",
+  "model": "glm-5.2"
+}

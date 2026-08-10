@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Wakageuka, wakaenda; wakaweka ⟨את⟩ watoto wadogo na ⟨את⟩ mifugo na ⟨את⟩ mali mbele yao.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "wakageuka"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wakaenda"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "wakaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watoto wadogo"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "watoto wadogo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mifugo"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "mifugo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mali"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "mali"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "mbele yao"
+    }
+  ],
+  "timestamp": "2026-08-10T11:18:27.224553830Z",
+  "model": "glm-5.2"
+}

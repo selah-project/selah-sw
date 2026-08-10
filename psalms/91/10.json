@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 91,
+  "translation": "Baya halitakukufikia, na pigo halitakukaribia hema lako.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "litakufikia"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kukufikia"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Baya"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "na pigo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haita"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "karibia"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "hema lako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:23.696092479Z",
+  "model": "glm-5.2"
+}

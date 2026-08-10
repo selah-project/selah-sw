@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "⟨את⟩ nani atamfundisha maarifa, na ⟨את⟩ nani atamwelewesha ujumbe uliosikizwa? ⟨Je,⟩ wale waliokoishibishwa maziwa, waliotolewa matiti?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "atamfundisha"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "maarifa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "atamwelewesha"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ujumbe uliosikizwa"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "waliokoishibishwa"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "maziwa"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "waliotolewa"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "matiti"
+    }
+  ],
+  "timestamp": "2026-08-10T11:59:59.603299309Z",
+  "model": "glm-5.2"
+}

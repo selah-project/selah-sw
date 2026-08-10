@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Usimchae juu ya chachu damu ya dhabihu yangu; wala isibaki hadi asubuhi dhabihu ya sikukuu ya Pasaka.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "Usi- (si)"
+    },
+    {
+      "surface": "תִשְׁחַ֥ט",
+      "gloss": "-chae"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "חָמֵ֖ץ",
+      "gloss": "chachu"
+    },
+    {
+      "surface": "דַּם",
+      "gloss": "damu"
+    },
+    {
+      "surface": "זִבְחִ֑י",
+      "gloss": "ya dhabihu yangu"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "wala isi-"
+    },
+    {
+      "surface": "יָלִ֣ין",
+      "gloss": "-baki (kulala usiku)"
+    },
+    {
+      "surface": "לַבֹּ֔קֶר",
+      "gloss": "hadi asubuhi"
+    },
+    {
+      "surface": "זֶ֖בַח",
+      "gloss": "dhabihu"
+    },
+    {
+      "surface": "חַ֥ג",
+      "gloss": "ya sikukuu"
+    },
+    {
+      "surface": "הַפָּֽסַח",
+      "gloss": "ya Pasaka"
+    }
+  ],
+  "timestamp": "2026-08-10T10:28:12.566675056Z",
+  "model": "glm-5.2"
+}

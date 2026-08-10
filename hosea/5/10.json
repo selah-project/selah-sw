@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Wakuu wa Yehuda wamekuwa kama wanaosogeza mpaka; juu yao nitayamimina kama maji hasira zangu.",
+  "tokens": [
+    {
+      "surface": "הָיוּ֙",
+      "gloss": "wamekuwa"
+    },
+    {
+      "surface": "שָׂרֵ֣י",
+      "gloss": "wakuu wa"
+    },
+    {
+      "surface": "יְהוּדָ֔ה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "כְּמַסִּיגֵ֖י",
+      "gloss": "kama wanaosogeza"
+    },
+    {
+      "surface": "גְּב֑וּל",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "עֲלֵיהֶ֕ם",
+      "gloss": "juu yao"
+    },
+    {
+      "surface": "אֶשְׁפּ֥וֹךְ",
+      "gloss": "nitayamimina"
+    },
+    {
+      "surface": "כַּמַּ֖יִם",
+      "gloss": "kama maji"
+    },
+    {
+      "surface": "עֶבְרָתִֽי",
+      "gloss": "hasira zangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:40:47.017269171Z",
+  "model": "glm-5.2"
+}

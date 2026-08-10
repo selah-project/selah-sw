@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Nitakufundisha hekima na nikuongoze njiani unazopasa kuendelea; nitanenusha wewe jicho langu likitazama.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "Nitakufundisha hekima"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "na nikuongoze"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njiani"
+    },
+    {
+      "surface": "זו",
+      "gloss": "unazopasa"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "kuendelea"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "nitanenusha"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "jicho langu likitazama"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:00.787487163Z",
+  "model": "glm-5.2"
+}

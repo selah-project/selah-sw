@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Zebuluni hakufukuza ⟨את⟩ wakaazi wa Kitroni wala ⟨את⟩ wakaazi wa Nahalali; naye Mkanaani akakaa katikati yake, nao wakawa watumwa wa kutoa kodi.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zebuluni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haku"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "fukuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wakaazi wa Kitroni"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "wakaazi wa"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wala ⟨את⟩",
+      "marks": "wakaazi wa Nahalali"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "wakaazi wa"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalali"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akakaa"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "naye Mkanaani"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "katikati yake"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "nao wakawa"
+    },
+    {
+      "surface": "למס",
+      "gloss": "watumwa wa kutoa kodi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:12:00.373432538Z",
+  "model": "glm-5.2"
+}

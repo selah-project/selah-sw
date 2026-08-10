@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 120,
+  "translation": "Mimi ⟨ni⟩ shalom, na pindi ninaposema, wao ⟨ni⟩ kwa vita.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "na pindi ninapo"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "sema"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wao"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kwa vita"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:10.518191831Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Je, kumcha ⟨kwako⟩ si matumaini yako, na tumaini lako, ⟨je, si⟩ ukamilifu wa njia zako?",
+  "tokens": [
+    {
+      "surface": "הֲלֹ֣א",
+      "gloss": "Je, ... si"
+    },
+    {
+      "surface": "יִ֭רְאָתְךָ",
+      "gloss": "kumcha kwako"
+    },
+    {
+      "surface": "כִּסְלָתֶ֑ךָ",
+      "gloss": "matumaini yako"
+    },
+    {
+      "surface": "תִּ֝קְוָתְךָ֗",
+      "gloss": "tumaini lako"
+    },
+    {
+      "surface": "וְתֹ֣ם",
+      "gloss": "ukamilifu"
+    },
+    {
+      "surface": "דְּרָכֶֽיךָ",
+      "gloss": "wa njia zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:30:26.470945591Z",
+  "model": "glm-5.2"
+}

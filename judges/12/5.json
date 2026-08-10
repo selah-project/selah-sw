@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 12:5",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na Giladi akachukua ⟨את⟩ mavuko ya Yardeni kwa Efrayimu; na ilikuwa ⟨iko hivi⟩: waliposema watoroka wa Efrayimu, «Naivuka,» basi watu wa Giladi walimwambia, «Wewe ni Efrati?» na akasema, «Hapana.»",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "na akachukua"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mavuko"
+    },
+    {
+      "surface": "מעברות",
+      "gloss": "mavuko"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ya Yardeni"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "kwa Efrayimu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na ilikuwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨iko hivi⟩ waliposema"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "waliposema"
+    },
+    {
+      "surface": "פליטי",
+      "gloss": "watoroka"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "wa Efrayimu"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "Naivuka"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "na walimwambia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mwambia"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "watu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "wa Giladi"
+    },
+    {
+      "surface": "האפרתי",
+      "gloss": "Efrati"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Hapana"
+    }
+  ],
+  "timestamp": "2026-08-10T11:16:40.055395206Z",
+  "model": "glm-5.2"
+}

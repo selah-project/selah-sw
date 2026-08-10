@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "⟨Ni⟩ siku kumi na moja ⟨ya safari⟩ kutoka Horebu, kwa njia ya mlima wa Seiri, mpaka Kadeshi-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kutoka Horebu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "kwa njia"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ya mlima"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "wa Seiri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeshi"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-08-10T14:41:01.790310327Z",
+  "model": "glm-5.2"
+}

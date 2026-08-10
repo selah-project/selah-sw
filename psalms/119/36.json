@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Tiegemeze moyo wangu ⟨kuelekea⟩ ushuhuda wako, na ⟨si⟩ kuelekea faida ya ukandamizaji.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Tiegemeze"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuelekea"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ushuhuda wako"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na si"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuelekea"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "faida ya ukandamizaji"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:38.465671372Z",
+  "model": "glm-5.2"
+}

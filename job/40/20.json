@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Kwa kuwa milima hubeba mazao ⟨kwa ajili yake⟩, na wanyama wote wa shangani wanacheza huko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "בול",
+      "gloss": "mazao"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "milima"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "hubeba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kwa ajili yake⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wanyama wote"
+    },
+    {
+      "surface": "חית",
+      "gloss": "wa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "shangani"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "wanacheza"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    }
+  ],
+  "timestamp": "2026-08-10T13:40:54.978246857Z",
+  "model": "glm-5.2"
+}

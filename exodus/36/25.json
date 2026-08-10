@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Na kwa upande wa pili wa hema, upande wa kaskazini, alifanya matabao ishirini.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "Na kwa upande"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "wa hema"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "wa pili"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "upande wa"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kaskazini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alifanya"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ishirini"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "matabao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:28:51.188487628Z",
+  "model": "glm-5.2"
+}

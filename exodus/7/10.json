@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 7:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Moshe na Aharon wakaingia kwa Paroh, wakafanya vivyo hivyo kama Yahweh alivyokuwa ameamuru; Aharon akaitupa ⟨את⟩ fimbo yake mbele za Paroh na mbele za watumishi wake, likawa kome.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wakaingia"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "wakafanya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alivyokuwa ameamuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "akaitupa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fimbo yake"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "fimbo yake"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "na mbele za"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumishi wake"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "likawa"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "kome"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:29.819000716Z",
+  "model": "glm-5.2"
+}

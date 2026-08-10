@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na neno lilinijia kwa siri, na sikio langu likapokea chembe yake.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "Na neno lilinijia"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨neno⟩"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "kwa siri"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "na likapokea"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "sikio langu"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "chembe"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:33:20.850369449Z",
+  "model": "glm-5.2"
+}

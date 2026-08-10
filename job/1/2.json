@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Naka walizaliwa ⟨kwake⟩ watoto saba, na binti watatu.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "Naka walizaliwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "saba"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "watoto"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "na watatu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "binti"
+    }
+  ],
+  "timestamp": "2026-08-10T13:31:38.624944393Z",
+  "model": "glm-5.2"
+}

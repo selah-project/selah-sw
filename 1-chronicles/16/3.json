@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Akagawa kila mtu wa Yisra'el — kwa kila mtu na mwanamke — kwa kila mtu kipande cha mkate, na kipande cha nyama, na keki ya zabibi.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "Akagawa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kwa kila mtu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kwa kila mtu"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kipande cha"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "na kipande cha nyama"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "na keki ya zabibi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:08:35.725141613Z",
+  "model": "glm-5.2"
+}

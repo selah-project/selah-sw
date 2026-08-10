@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Akaandika katika barua akisema: Wekeni ⟨את⟩ Uriyah mbele ya vita vikali, mkarudi nyuma kutoka nyuma yake, apigwe na kufa.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "akaandika"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "katika barua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "wekeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "מול",
+      "gloss": "kuelekea"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso wa"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "vita"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "vikali"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "mkarudi"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "nyuma yake"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "apigwe"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "na kufa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:55:17.103422226Z",
+  "model": "glm-5.2"
+}

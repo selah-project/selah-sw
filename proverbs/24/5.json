@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Mtu mwenye hekima ⟨ni⟩ mwenye nguvu, na mtu wa maarifa huongeza uwezo.",
+  "tokens": [
+    {
+      "surface": "גֶּֽבֶר",
+      "gloss": "Mtu"
+    },
+    {
+      "surface": "חָכָ֥ם",
+      "gloss": "mwenye hekima"
+    },
+    {
+      "surface": "בַּע֑וֹז",
+      "gloss": "mwenye nguvu"
+    },
+    {
+      "surface": "וְאִֽישׁ",
+      "gloss": "na mtu"
+    },
+    {
+      "surface": "דַּ֝֗עַת",
+      "gloss": "wa maarifa"
+    },
+    {
+      "surface": "מְאַמֶּץ",
+      "gloss": "huongeza"
+    },
+    {
+      "surface": "כֹּֽחַ",
+      "gloss": "uwezo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:28:14.613511613Z",
+  "model": "glm-5.2"
+}

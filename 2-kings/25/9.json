@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Akateketeza ⟨את⟩ nyumba ya Yahweh na ⟨את⟩ nyumba ya mfalme, na ⟨את⟩ nyumba zote za Yerushalayim; na ⟨את⟩ kila nyumba kuu aliiteketeza kwa moto.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "akateketeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba ya Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyumba ya mfalme"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mfalme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyumba zote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "za Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kila nyumba kuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "aliiteketeza"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kwa moto"
+    }
+  ],
+  "timestamp": "2026-08-10T15:03:41.438052820Z",
+  "model": "glm-5.2"
+}

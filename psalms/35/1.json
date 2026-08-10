@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Kwa David. Shindana, Yahweh, na ⟨את⟩ wapinzani wangu; pambana na ⟨את⟩ wanaopigana nami.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kwa David"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Shindana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wapinzani wangu"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "wapinzani wangu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pambana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanaopigana nami"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "wanaopigana nami"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:51.894688143Z",
+  "model": "glm-5.2"
+}

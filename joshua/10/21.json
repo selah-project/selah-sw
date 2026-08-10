@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 10:21",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na watu wote wakarudi kwenye kambi, kwa Yehoshua, Makeda, kwa amani; hakuna mtu aliyechoka ⟨kwa⟩ wana wa Yisraeli; kila mtu hakuweza ⟨את⟩ ulimi wake.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "na wakarudi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kambi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makeda"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "kwa amani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "חרץ",
+      "gloss": "aliyechoka"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨kwa⟩ wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulimi wake"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "ulimi wake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:07:17.437292150Z",
+  "model": "glm-5.2"
+}

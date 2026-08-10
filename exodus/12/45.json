@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Mkaaji wa muda na mjumishi wa kuajiriwa hawatakiwa kula ⟨ katika ⟩ hiyo.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "mkaaji wa muda"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "na mjumishi wa kuajiriwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kula"
+    },
+    {
+      "surface": "בו",
+      "gloss": "katika hiyo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:21:01.386748082Z",
+  "model": "glm-5.2"
+}

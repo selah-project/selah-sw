@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 17:10",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Kwa sababu umesahau Elohim wa wokovu wako, na mwamba wa nguvu zako humkumbuki — kwa hiyo utapanda miche mizuri, na miche ya kigeni utaipanda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "umesahau"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "wa wokovu wako"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "na mwamba"
+    },
+    {
+      "surface": "מעזך",
+      "gloss": "wa nguvu zako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hum"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "kumbuki"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kwa hiyo"
+    },
+    {
+      "surface": "תטעי",
+      "gloss": "utapanda"
+    },
+    {
+      "surface": "נטעי",
+      "gloss": "miche"
+    },
+    {
+      "surface": "נעמנים",
+      "gloss": "mizuri"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "na miche"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ya kigeni"
+    },
+    {
+      "surface": "תזרענו",
+      "gloss": "utaipanda"
+    }
+  ],
+  "timestamp": "2026-08-10T11:58:12.524756582Z",
+  "model": "glm-5.2"
+}

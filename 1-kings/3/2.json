@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Tu ⟨ Hao ⟩ watu walikuwa wakitoa dhabihu mahali pa juu, kwa kuwa nyumba haujajengwa kwa jina la Yahweh hadi siku zile.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "walikuwa wakitoa dhabihu"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "mahali pa juu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hau"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "jajengwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "kwa jina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "zile"
+    }
+  ],
+  "timestamp": "2026-08-10T11:38:13.724064237Z",
+  "model": "glm-5.2"
+}

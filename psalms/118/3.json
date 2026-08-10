@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 118,
+  "translation": "Na nyumba ya Aharon na iseme sasa, maana chesed chake ⟨hudumu⟩ milele.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Na iseme"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed chake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:24.313816244Z",
+  "model": "glm-5.2"
+}

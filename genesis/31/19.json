@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Na Labani akaenda kukata ⟨את⟩ kondoo wake; na Raheli akaiba ⟨את⟩ terafim za baba yake.",
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "Na Labani"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "kukata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kondoo wake"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "kondoo wake"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "akaiba"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raheli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "za"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "baba yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:25:38.036550719Z",
+  "model": "glm-5.2"
+}

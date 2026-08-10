@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Abarikiwa Yahweh, Elohim wa Yisra'el, tangu milele na hata milele. Amina, na amina.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Abarikiwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "tangu milele"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na hata"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amina"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "na amina"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:01.518719641Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 116,
+  "translation": "Kwa kuwa wewe umeniokoa ⟨⟨את⟩⟩ nafsi yangu katika mauti, ⟨⟨את⟩⟩ jicho langu katika machozi, ⟨⟨את⟩⟩ mguu wangu katika kuanguka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "umeniokoa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "katika mauti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jicho langu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "jicho langu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "katika"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "machozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mguu wangu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mguu wangu"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "katika kuanguka"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:44.911220043Z",
+  "model": "glm-5.2"
+}

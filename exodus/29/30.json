@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 29:30",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Siku saba huvalisha kuhani anayemwendesza miongoni mwa wanawe, yule anayeingia hema ya mkutano kuhudumu katika ⟨sehemu ya⟩ utakatifu.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Siku saba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "—"
+    },
+    {
+      "surface": "ילבשם",
+      "gloss": "huvalisha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "anayemwendesza"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "miongoni mwa wanawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yule anayeingia"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "—"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mkutano"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "kuhudumu"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "katika ⟨sehemu ya⟩ utakatifu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:26:44.754260639Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 8:32",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na Gideoni mwana wa Yoashi akafa katika uzee mwema, akazikwa katika kaburi la Yoashi baba yake, baki Ofra ya ⟨wa⟩ Abi-ha-Ezri.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoashi"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "katika uzee"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "mwema"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "akazikwa"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "katika kaburi la"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoashi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "בעפרה",
+      "gloss": "baki Ofra ya"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Abi"
+    },
+    {
+      "surface": "העזרי",
+      "gloss": "ha-Ezri"
+    }
+  ],
+  "timestamp": "2026-08-10T11:15:32.253019637Z",
+  "model": "glm-5.2"
+}

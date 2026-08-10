@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "nikasikia ⟨את⟩ sauti ya Adonai akisema: ⟨את⟩ Nye nitamtuma? Naye atakayekwenda kwa ajili yetu? Nikasema: Hapa nipo, nitume mimi.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "nikasikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauti"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ya Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nye"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Nye"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "nitamtuma"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Naye atakayekwenda"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "kwenda"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ajili yetu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "nikasema"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hapa nipo"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "nitume mimi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:55:57.032420089Z",
+  "model": "glm-5.2"
+}

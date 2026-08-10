@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na baada ya hayo ⟨alisoma⟩ ⟨את⟩ maneno yote ya torati, baraka na laana, sawa na yote yaliyoandikwa katika kitabu cha torati.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "na baada ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hayo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "⟨alisoma⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ya torati"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "baraka"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "na laana"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sawa na yote"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "yaliyoandikwa"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "katika kitabu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "cha torati"
+    }
+  ],
+  "timestamp": "2026-08-10T15:58:50.567663076Z",
+  "model": "glm-5.2"
+}

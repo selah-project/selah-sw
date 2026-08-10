@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kalevu akasema: «Yeye atakayepiga ⟨את⟩ Qiryat-Sefer na kuivamia, nitampa yeye ⟨את⟩ Akhsah binti yangu kuwa mke.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalevu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Yeye atakayepiga"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "piga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "na kuivamia"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "nitampa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhsha binti yangu"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akhsha"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "binti yangu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kuwa mke"
+    }
+  ],
+  "timestamp": "2026-08-10T14:47:29.863399087Z",
+  "model": "glm-5.2"
+}

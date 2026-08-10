@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Naye Hathak akaingia, akamwambia Esteri ⟨את⟩ maneno ya Mordekai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hathak"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ya Mordekai"
+    }
+  ],
+  "timestamp": "2026-08-10T15:38:18.746672397Z",
+  "model": "glm-5.2"
+}

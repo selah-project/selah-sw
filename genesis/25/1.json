@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Avraham akaongeza, akamkeba ⟨mke⟩, na jina lake ⟨likawa⟩ Ketura.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "akaongeza"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akamkeba"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "⟨mke⟩"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "na jina lake"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Ketura"
+    }
+  ],
+  "timestamp": "2026-08-10T10:07:39.774306120Z",
+  "model": "glm-5.2"
+}

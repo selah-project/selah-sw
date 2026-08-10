@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 103,
+  "translation": "Ya David. Bariki, nafsi yangu, ⟨את⟩ Yahweh, na vyote vilivyo ndani yangu ⟨את⟩ jina la kitukufu chake.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya David"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "bariki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na vyote"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "vilivyo ndani yangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "la kitukufu chake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:59.074954260Z",
+  "model": "glm-5.2"
+}

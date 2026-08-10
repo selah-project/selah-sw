@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Nami nitafanya ndani yako ⟨את⟩ yale ambayo sikufanya, na ⟨את⟩ yale ambalo sitafanya kama hayo tena, kwa sababu ya machukizo yako yote.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "nami nitafanya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ndani yako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kufanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "yale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "itafanya"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "kama hayo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "יען",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "machukizo yako"
+    }
+  ],
+  "timestamp": "2026-08-10T17:51:27.548837607Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Wala msidhulumu, mtu ⟨את⟩ jamaa yake; na uomwoo kwa Mungu wako, kwa maana mimi Yahweh Elohim wenu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wala ms"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "dhulumu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jamaa yake"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "jamaa yake"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "na uomwoo"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "kwa Mungu wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:59.199820448Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na ⟨את⟩ Reseni, kati ya Ninawe na kati ya Kalahi; hiyo ⟨ni⟩ mji mkubwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "Reseni"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Reseni"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninawe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalahi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "mkubwa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:33.801955922Z",
+  "model": "glm-5.2"
+}

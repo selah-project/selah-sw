@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 115,
+  "translation": "Yahweh ametukumbuka; atabariki, atabariki ⟨את⟩ nyumba ya Yisrael, atabariki ⟨את⟩ nyumba ya Aharon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "ametukumbuka"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "atabariki"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "atabariki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba ya Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisrael"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "atabariki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba ya Aharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ya Aharon"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:02.202604152Z",
+  "model": "glm-5.2"
+}

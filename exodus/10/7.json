@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 10:7",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na watumishi wa Paroh wakamwambia: Hata lini mtu huyu atakuwa mtego kwetu? Waachilie ⟨את⟩ hao watu ili watumikie ⟨את⟩ Yahweh, Elohim wao. Je, bado hujui kwamba Mitsrayim imeangamia?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Na wakamwambia"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "watumishi wa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "lini"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "atakuwa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mtu huyu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwetu"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "mitego"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Waachilie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hao watu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "hao watu"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ili watumikie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wao"
+    },
+    {
+      "surface": "הטרם",
+      "gloss": "Je, bado"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "hujui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "imeangamia"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:51.438494436Z",
+  "model": "glm-5.2"
+}

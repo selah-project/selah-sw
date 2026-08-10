@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ ayili hiyo akaitenga kwa vipande vyake; na Moshe akawasha ⟨ moto⟩ ⟨את⟩ kichwa, na ⟨את⟩ vipande, na ⟨את⟩ mafuta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ayili hiyo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ayili"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "akaitenga"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "kwa vipande vyake"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "na akawasha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kichwa"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vipande"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "vipande"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "mafuta"
+    }
+  ],
+  "timestamp": "2026-08-10T15:53:21.026589593Z",
+  "model": "glm-5.2"
+}

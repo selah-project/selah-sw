@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 12:9",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na zaidi, kwa kuwa Qohelet alikuwa mwerevu, bado alimfundisha ⟨את⟩ ⟨umma⟩ elimu; na akasikiliza na kuchunguza, akapanga mithali nyingi.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "na zaidi"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "kwa kuwa alikuwa"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mwerevu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bado"
+    },
+    {
+      "surface": "למד",
+      "gloss": "alimfundisha"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "elimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umma"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "na akasikiliza"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "na kuchunguza"
+    },
+    {
+      "surface": "תקן",
+      "gloss": "akapanga"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "mithali"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nyingi"
+    }
+  ],
+  "timestamp": "2026-08-10T16:24:47.363435157Z",
+  "model": "glm-5.2"
+}

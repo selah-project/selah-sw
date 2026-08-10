@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 91,
+  "translation": "Nitasema kwa Yahweh: «Maporaji yangu na ngome yangu, Elohim wangu, ndani yake ninatumaini.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Nitasema"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "Maporaji yangu"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "na ngome yangu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wangu"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ninatumainia"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ndani yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:33.009309878Z",
+  "model": "glm-5.2"
+}

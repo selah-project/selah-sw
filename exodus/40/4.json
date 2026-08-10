@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Na uleta ⟨את⟩ meza na upangalie mpangilio wake, na uleta ⟨את⟩ kinara na uwashe taa zake.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "na uleta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "na upangalie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpangilio wake"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "mpangilio wake"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "na uleta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinara"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kinara"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "na uwashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taa zake"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "taa zake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:33.554055178Z",
+  "model": "glm-5.2"
+}

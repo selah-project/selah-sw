@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Wimbo wa ala, wimbo wa kuweka wakfu ⟨wa⟩ nyumba, wa David.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "wimbo wa ala"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "wa kuweka wakfu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:25.154880884Z",
+  "model": "glm-5.2"
+}

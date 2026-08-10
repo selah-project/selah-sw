@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "⟨Yeye⟩ anaweza kuchipiza manyasi kwa ajili ya mifugo, na mimea kwa ajili ya huduma ya ⟨mwadamu⟩, ili ⟨⟨aweze⟩⟩ kutoa chakuma kutoka nchi:",
+  "tokens": [
+    {
+      "surface": "מַצְמִיחַ",
+      "gloss": "⟨Yeye⟩ anaweza kuchipiza"
+    },
+    {
+      "surface": "חָצִיר",
+      "gloss": "manyasi"
+    },
+    {
+      "surface": "לַבְּהֵמָה",
+      "gloss": "kwa ajili ya mifugo"
+    },
+    {
+      "surface": "וְעֵשֶׂב",
+      "gloss": "na mimea"
+    },
+    {
+      "surface": "לַעֲבֹדַת",
+      "gloss": "kwa ajili ya huduma"
+    },
+    {
+      "surface": "הָאָדָם",
+      "gloss": "ya ⟨mwadamu⟩"
+    },
+    {
+      "surface": "לְהוֹצִיא",
+      "gloss": "ili ⟨⟨aweze⟩⟩ kutoa"
+    },
+    {
+      "surface": "לֶחֶם",
+      "gloss": "chakuma"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:41.094389789Z",
+  "model": "glm-5.2"
+}

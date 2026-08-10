@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 61,
+  "translation": "Atakaa milele mbele za Elohim; chesed na imini ziwe chenzo cha kumlinda.",
+  "tokens": [
+    {
+      "surface": "יֵשֵׁ֣ב",
+      "gloss": "Atakaa"
+    },
+    {
+      "surface": "ע֭וֹלָם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "לִפְנֵ֣י",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חֶ֥סֶד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "וֶ֝אֱמֶ֗ת",
+      "gloss": "na imani"
+    },
+    {
+      "surface": "מַ֣ן",
+      "gloss": "ziwe chenzo"
+    },
+    {
+      "surface": "יִנְצְרֻֽהוּ",
+      "gloss": "cha kumlinda"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:54.010669573Z",
+  "model": "glm-5.2"
+}

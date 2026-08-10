@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Na Yahweh akasema: Ni nye atamdanganya ⟨את⟩ Achab, ili apande na akaangukie Ramothi Giladi? Na mmoja akasema hivi, na mwingine akasema hivi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ni nani"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "atamdanganya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ili apande"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "na akaangukie"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "Ramothi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "na mwingine"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "hivi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:46:12.358621777Z",
+  "model": "glm-5.2"
+}

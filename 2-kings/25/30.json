@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Ration yake, ration ya daima, ilipewa kutoka kwa ⟨את⟩ mfalme, kipango cha siku kwa siku yake, siku zote za maisha yake.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "ration yake"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "ration"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ya daima"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ilipewa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kutoka kwa ⟨את⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kipango"
+    },
+    {
+      "surface": "יום",
+      "gloss": "cha siku"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "kwa siku yake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "siku zote"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "za"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "maisha yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:53:03.589448468Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Wamekuwa wajinga wakuu wa Tsoan, wamepotoshwa wakuu wa Nof; wamepotosha ⟨את⟩ Mitsrayim, ⟨hiyo⟩ pembe ya ─ kabila zake.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "wamekuwa wajinga"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "wakuu wa"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "wamepotoshwa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "wakuu wa"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Nof"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "wamepotosha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "pembe"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "kabila zake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:58:38.339918872Z",
+  "model": "glm-5.2"
+}

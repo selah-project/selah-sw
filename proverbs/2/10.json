@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Kwa kuwa hekima itaingia moyoni mwako, na maarifa kwa nafsi yako yatakuwa ya kupendeza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "itaingia"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hekima"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "moyoni mwako"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "na maarifa"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "kwa nafsi yako"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "yatakuwa ya kupendeza"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:38.356771346Z",
+  "model": "glm-5.2"
+}

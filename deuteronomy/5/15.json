@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 5:15",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na ukumbuke kwamba ⟨umekuwa⟩ mtumwa katika nchi ya Mitsrayim, na Yahweh Elohim waka akakutoa kutoka huko kwa mkono wenye nguvu na kwa mkono ulionyoshwa; kwa hiyo Yahweh Elohim wako amekuagiza kufanya ⟨את⟩ siku ya Shabbat",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "Na ukumbuke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mtumwa"
+    },
+    {
+      "surface": "היית",
+      "gloss": "⟨umekuwa⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    },
+    {
+      "surface": "ויצאך",
+      "gloss": "na akakutoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kutoka huko"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwa mkono"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "wenye nguvu"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "na kwa mkono"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ulinyoshwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "Kwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "amekuagiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kufanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ya Shabbat"
+    }
+  ],
+  "timestamp": "2026-08-10T14:42:19.478569465Z",
+  "model": "glm-5.2"
+}

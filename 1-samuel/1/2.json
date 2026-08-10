@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na ⟨alikuwa na⟩ wake wawili; jina la moja ⟨likawa⟩ Chana, na jina la pili ⟨likawa⟩ Penina; na Penina ⟨alikuwa na⟩ watoto, lakini Chana hakuwa na watoto.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "na kwake"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "wake"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moja"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Chana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na jina"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ya pili"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ikawa"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "kwa Penina"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "watoto"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "na kwa Chana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "watoto"
+    }
+  ],
+  "timestamp": "2026-08-10T11:19:43.355252097Z",
+  "model": "glm-5.2"
+}

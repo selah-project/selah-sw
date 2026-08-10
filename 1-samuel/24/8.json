@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na David akawazuia watu wake kwa maneno, wala hakuwapa kuondoka dhidi ya Shaul. Na Shaul akaondoka kutoka pangoni, akaenda njiani.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "na akawazuia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu wake"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "watu wake"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "kwa maneno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "hakuwapa"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "kuondoka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhidi ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Shaul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "akaondoka"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "kutoka pangoni"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njiani"
+    }
+  ],
+  "timestamp": "2026-08-10T11:26:27.847109933Z",
+  "model": "glm-5.2"
+}

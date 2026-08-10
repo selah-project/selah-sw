@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Zimri akaangamiza ⟨את⟩ nyumba yote ya Baasha, sawasawa na neno la Yahweh aliolosemwa kwa Baasha kwa mkono wa Yehu nabii.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "akaangamiza"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba yote ya Baasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ya Baasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sawasawa na neno la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliolosemwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aliyosema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwa mkono wa"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabii"
+    }
+  ],
+  "timestamp": "2026-08-10T11:42:16.366259712Z",
+  "model": "glm-5.2"
+}

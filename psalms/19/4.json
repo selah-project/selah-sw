@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Hakuna neno na hakuna maneno; bila kusikika sauti yao.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na hakuna"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bila"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "kusikika"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sauti yao"
+    }
+  ],
+  "timestamp": "2026-08-10T16:16:30.125624905Z",
+  "model": "glm-5.2"
+}

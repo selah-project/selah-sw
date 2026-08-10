@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 101,
+  "translation": "Macho yangu ⟨yataelekea⟩ waaminifu wa nchi, ili wakae nami; aanaye katika njia ya ukamilifu, ⟨yeye⟩ atanitumikia.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "macho yangu"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "waaminifu wa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ili wakae"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "aanaye"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "katika njia ya"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ukamilifu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "atanitumikia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:34.632075609Z",
+  "model": "glm-5.2"
+}

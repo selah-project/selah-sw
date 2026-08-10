@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Toeni shukrani kwa Yahweh, mwiteni kwa jina lake, mfanyeni zijuluzi kati ya mataifa matendo yake.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Toeni shukrani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "mwiteni"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "kwa jina lake"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "mfanyeni zijuluzi"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "kati ya mataifa"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "matendo yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:20.004672671Z",
+  "model": "glm-5.2"
+}

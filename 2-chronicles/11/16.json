@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 11:16",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na baada yao, kutoka kabila zote za Yisraeli, wale waliotoa ⟨את⟩ mioyo yao kumtafuta ⟨את⟩ Yahweh, Elohim wa Yisraeli, waliingia Yerushalayim ili kutoa dhabihu kwa Yahweh, Elohim wa baba zao.",
+  "tokens": [
+    {
+      "surface": "ואחריהם",
+      "gloss": "Na baada yao"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kutoka zote"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kabila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "za Yisraeli"
+    },
+    {
+      "surface": "הנתנים",
+      "gloss": "wale waliotoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mioyo yao"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "mioyo yao"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kumtafuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "באו",
+      "gloss": "waliingia"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לזבוח",
+      "gloss": "ili kutoa dhabihu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "baba zao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:45:45.280502159Z",
+  "model": "glm-5.2"
+}

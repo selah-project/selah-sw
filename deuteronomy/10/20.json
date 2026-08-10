@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "⟨את⟩ Yahweh, Elohim wako, umwogope; ⟨את⟩ yeye umtumikie, naye umeshikamane, na kwa jina lake uapiapo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "umwogope"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yeye"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "umtumikie"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "umeshikamane"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "na kwa jina lake"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "uapiapo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:57:04.279429315Z",
+  "model": "glm-5.2"
+}

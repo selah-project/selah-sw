@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Kwa matiti, waomboleza; kwa mashamba ya kupendezwa, kwa mzabibu wa kutoa matunda.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "Kwa"
+    },
+    {
+      "surface": "שָׁדַ֖יִם",
+      "gloss": "matiti"
+    },
+    {
+      "surface": "סֹֽפְדִ֑ים",
+      "gloss": "waomboleza"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שְׂדֵי",
+      "gloss": "mashamba"
+    },
+    {
+      "surface": "חֶ֕מֶד",
+      "gloss": "ya kupendezwa"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "גֶּ֖פֶן",
+      "gloss": "mzabibu"
+    },
+    {
+      "surface": "פֹּרִיָּֽה",
+      "gloss": "wa kutoa matunda"
+    }
+  ],
+  "timestamp": "2026-08-10T12:01:16.671523712Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 56,
+  "translation": "Kila mnyama ⟨wa⟩ shamba, njooni kula, kila mnyama ⟨wa⟩ msitu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "mnyama"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "shamba"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "njooni"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "mnyama"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "msitu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:09:18.155298Z",
+  "model": "glm-5.2"
+}

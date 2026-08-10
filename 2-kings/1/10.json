@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Eliyahu akajibu, akamwambia mkuu wa hamsini: Kama ⟨nikiwa⟩ mimi ni mtu wa Elohim, na moto ushuke kutoka mbinguni, nao ukuse ⟨את⟩ wewe na hamsini wako. Moto ukashuka kutoka mbinguni, ukamla ⟨⟨את⟩ yeye⟩ pamoja na ⟨את⟩ hamsini wake.",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "akajibu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "wa hamsini"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Kama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "na ushuke"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbinguni"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "na ukuse"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wewe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hamsini wako"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "na hamsini wako"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ukashuka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Moto"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbinguni"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ukamla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yeye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hamsini wake"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "hamsini wake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:45:05.468999182Z",
+  "model": "glm-5.2"
+}

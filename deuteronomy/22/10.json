@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Usilime kwa ng'ombe na punda pamoja.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "lime"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "kwa ng'ombe"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "na punda"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamoja"
+    }
+  ],
+  "timestamp": "2026-08-10T11:00:08.525448978Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "⟨Ambaye⟩ alisema kwa baba yake na kwa mama yake, 'Sikumwona'; na ⟨את⟩ ndugu zake hakumtambua, na ⟨את⟩ wanawe hakuwajua; maana walihifadhi neno lako, na agano lako watalinda.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "⟨Ambaye⟩ alisema"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "kwa baba yake"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "na kwa mama yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "sikumwona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndugu zake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haku"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "mtambua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wanawe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haku"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wajua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "walihifadhi"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "neno lako"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "na agano lako"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "watalinda"
+    }
+  ],
+  "timestamp": "2026-08-10T11:03:29.847664044Z",
+  "model": "glm-5.2"
+}

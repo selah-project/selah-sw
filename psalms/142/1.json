@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 142,
+  "translation": "Mafundisho ya David, pale alipokuwa ⟨pangoni⟩, maombi.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "mafundisho"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "pale alipokuwa"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "⟨pangoni⟩"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "maombi"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:39.108633669Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Nasi mkakaa naye, na nchi itakuwa mbele yenu; kaeni, fanyani biashara humo, na mshike ⟨kwa⟩ umiliki wake.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "na ⟨את⟩ sisi"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "mkakaa"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na nchi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "itakuwa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mbele yenu"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "kaeni"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "fanyani biashara ⟨kwa⟩ hiyo"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "na mshike"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kwa umiliki wake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:11:51.069844621Z",
+  "model": "glm-5.2"
+}

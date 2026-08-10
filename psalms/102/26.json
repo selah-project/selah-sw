@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Zamani ⟨uliuweka⟩ msingi wa nchi, na mbingu ni kazi ya mikono yako.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "Zamani"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "msingi"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "na kazi"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ya mikono yako"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mbingu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:08.817857062Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Yitschak akaita Yaakov, akambariki, akamwagiza, akamwambia: Usimtake mke miongoni mwa binti za Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akambariki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak (kiishiriki cha kitenzi)"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "akamwagiza"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usimtake"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "utwae"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mke"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "miongoni mwa binti za"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-10T10:09:44.602443749Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 26:8",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na Avishai akasema kwa David: Elohim amefunga ⟨את⟩ adui wako leo ndani ya mkono wako, na sasa niruhusu kumgonga ⟨tafadhali⟩ kwa mkuki na katika nchi mara moja, na sitamgonga ⟨tena⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "amefunga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adui wako"
+    },
+    {
+      "surface": "אויבך",
+      "gloss": "adui wako"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ndani ya mkono wako"
+    },
+    {
+      "surface": "ויעתה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "אכנו",
+      "gloss": "niruhusu kumgonga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "kwa mkuki"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "na katika nchi"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "mara"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na sita"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "kumgonga tena"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T11:28:30.690359811Z",
+  "model": "glm-5.2"
+}

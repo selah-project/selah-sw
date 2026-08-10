@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Na utawaleteza ⟨את⟩ Aharoni na ⟨את⟩ wanawe mbele ya mlango wa hema ya mkutano, na utawaosha ⟨את⟩ kwa maji.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "na utawaleteza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wanawe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mlango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "na utawaosha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni na wanawe"
+    },
+    {
+      "surface": "במים",
+      "gloss": "kwa maji"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:14.237176552Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 24:18",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Moshe akaingia katikati ya wingu, akapanda hadi ⟨the⟩ mlima; na Moshe akawa katika ⟨the⟩ mlima siku arobaini na usiku arobaini.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "katikati ya"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "wingu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "akapanda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mlima"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na akawa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "katika"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "arobaini"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na arobaini"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:46.338052536Z",
+  "model": "glm-5.2"
+}

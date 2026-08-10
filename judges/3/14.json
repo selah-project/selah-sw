@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na wana wa Yisra'eli wakamtumikia ⟨את⟩ Eglon mfalme wa Moabu kwa miaka kumi na nane.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "wakamtumikia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme wa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "kumi na"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "nane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "kwa miaka"
+    }
+  ],
+  "timestamp": "2026-08-10T14:47:40.389441983Z",
+  "model": "glm-5.2"
+}

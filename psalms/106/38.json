@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Wakamwanga damu isiyo na hatia, damu ya wanawao na mabinti zao, ambao waliwachinja kwa sanamu za Kenaani; nchi ikachukizwa kwa damu",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "wakamwanga"
+    },
+    {
+      "surface": "דם",
+      "gloss": "damu"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "isiyo na hatia"
+    },
+    {
+      "surface": "דם",
+      "gloss": "damu"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ya wanawao"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "na mabinti zao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "waliwachinja"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "kwa sanamu za"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "ikachukizwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "kwa damu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:02.973063491Z",
+  "model": "glm-5.2"
+}

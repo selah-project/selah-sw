@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "Naye Yosef akawaambia ndugu zake: \"Mimi ni Yosef. Je, baba yangu anaendelea kuwa hai?\" Wala ndugu zake hakuweza kumjibu, ⟨⟨את⟩⟩, kwa kuwa waliyumbayumba mbele za uso wake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akawaambia"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "Je-anaendelea"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba yangu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kuwa hai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala-haku"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kuweza"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "kumjibu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "waliyumbayumba"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "mbele za uso wake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:16:15.573961746Z",
+  "model": "glm-5.2"
+}

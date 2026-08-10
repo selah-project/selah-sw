@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Na waangamizwe kwa sababu ya aibu yao, ⟨ndio⟩ waosemiao ⟨kwangu⟩: Hēāh! Hēāh!",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "Na waangamizwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨thibiti⟩"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "aibu yao"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "waosemiao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨kwangu⟩"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hēāh!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hēāh!"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:58.122456524Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "David akaogopa ⟨את⟩ Elohim siku hiyo, akisema: Nitawaingizaje kwangu ⟨את⟩ sanduku la Elohim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "akaogopa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "היך",
+      "gloss": "nitawaingizaje"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "nitawaingiza"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku la Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "la Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T14:08:09.145082514Z",
+  "model": "glm-5.2"
+}

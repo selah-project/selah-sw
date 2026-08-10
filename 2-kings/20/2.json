@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Naye akaugeuza uso wake ⟨את⟩ kuelekea ukuta, akasali kwa Yahweh, akisema:",
+  "tokens": [
+    {
+      "surface": "ובוא",
+      "gloss": "akaugeuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uso wake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uso wake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuelekea"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "ukuta"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "akasali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    }
+  ],
+  "timestamp": "2026-08-10T11:52:15.033188198Z",
+  "model": "glm-5.2"
+}

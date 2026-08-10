@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 57,
+  "translation": "Mimi nitatangaza haki yako, na ⟨את⟩ matendo yako, na hayatakufaa.",
+  "tokens": [
+    {
+      "surface": "אֲנִי",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "אַגִּיד",
+      "gloss": "nitatangaza"
+    },
+    {
+      "surface": "צִדְקָתֵךְ",
+      "gloss": "haki yako"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "matendo yako"
+    },
+    {
+      "surface": "מַעֲשַׂיִךְ",
+      "gloss": "matendo yako"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "na hayata"
+    },
+    {
+      "surface": "יוֹעִילוּךְ",
+      "gloss": "kufaa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:07:53.430521314Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Na utaweka ⟨את⟩ ⟨the⟩ beseni kati ya hema ya mkutano na ⟨the⟩ madhabahu, na utaweka hali maji.",
+  "tokens": [
+    {
+      "surface": "וְנָֽתַתָּ֙",
+      "gloss": "na utaweka"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "beseni"
+    },
+    {
+      "surface": "הַכִּיֹּ֔ר",
+      "gloss": "beseni"
+    },
+    {
+      "surface": "בֵּֽין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "אֹ֥הֶל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מוֹעֵ֖ד",
+      "gloss": "ya mkutano"
+    },
+    {
+      "surface": "וּבֵ֣ין",
+      "gloss": "na"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֑חַ",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "וְנָתַתָּ֥",
+      "gloss": "na utaweka"
+    },
+    {
+      "surface": "שָׁ֖ם",
+      "gloss": "hali"
+    },
+    {
+      "surface": "מָֽיִם",
+      "gloss": "maji"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:36.151164656Z",
+  "model": "glm-5.2"
+}

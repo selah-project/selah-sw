@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na Yahweh atarithi ⟨את⟩ Yehuda ⟨kuwa⟩ sehemu yake juu ya ardhi takatifu, naye atachagua tena Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "na atarithi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "sehemu yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ardhi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "takatifu"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "naye atachagua"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T15:22:32.579177583Z",
+  "model": "glm-5.2"
+}

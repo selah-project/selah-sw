@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Naye akasema: Je, niliombe mwana kwa bwana wangu? Je, sikusema: Usidanganyike na ⟨את⟩ mimi?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "naye akasema"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "je, niliombe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "kwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bwana wangu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "je, si"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nikusema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "danganyike"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mimi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:01:27.953109122Z",
+  "model": "glm-5.2"
+}

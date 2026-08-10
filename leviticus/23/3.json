@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 23:3",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Siku sita kazi itafanywa, na siku ya saba ni Shabbat ya mapumziko kamili, mkutano wa utakatifu; kazi yoyote msifanye — Shabbat hiyo ni ya Yahweh katika makao yenu yote.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "sitakuwa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "itafanywa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "na siku ya"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "saba"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ya mapumziko kamili"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "mkutano"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "wa utakatifu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yoyote"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "msifanye"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "← (ungaano na 'msifanye')"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ni ya Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "makao yenu yote"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:44.043514400Z",
+  "model": "glm-5.2"
+}

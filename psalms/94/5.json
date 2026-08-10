@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 94,
+  "translation": "⟨Wao⟩ wanamwaga watu wako, ewe Yahweh, na urithi wako wanauandama.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "watu wako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ewe Yahweh"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "wanamwaga"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "na urithi wako"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "wanauandama"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:40.769933220Z",
+  "model": "glm-5.2"
+}

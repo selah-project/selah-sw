@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 27:30",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Ikawa baada ya Yitschak kumaliza kumbariki ⟨את⟩ Yakobo, ikawa, Yakobo hivi tu ameondoka ⟨את⟩ mbele za Yitschak baba yake, na Esavu ndugu yake akaja kutoka uwindaji wake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "kumaliza"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "kumbariki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hivi tu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ameondoka"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ameondoka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ mbele za"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "na Esavu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu yake"
+    },
+    {
+      "surface": "בא",
+      "gloss": "akaja"
+    },
+    {
+      "surface": "מצידו",
+      "gloss": "kutoka uwindaji wake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:08:49.131103154Z",
+  "model": "glm-5.2"
+}

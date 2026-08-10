@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "«Na kuleta mkono wangu juu ya Yehudah na juu ya wakaaji wote wa Yerushalayim, na nitakata kutoka mahali hiki ⟨את⟩ mabaki ya Baali, ⟨את⟩ jina la makemari pamoja na makuhani.",
+  "tokens": [
+    {
+      "surface": "וְנָטִ֤יתִי",
+      "gloss": "Na kuleta"
+    },
+    {
+      "surface": "יָדִי֙",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu"
+    },
+    {
+      "surface": "יְהוּדָ֔ה",
+      "gloss": "ya Yehudah"
+    },
+    {
+      "surface": "וְעַ֖ל",
+      "gloss": "na juu"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "יוֹשְׁבֵ֣י",
+      "gloss": "wakaaji"
+    },
+    {
+      "surface": "יְרוּשָׁלִָ֑ם",
+      "gloss": "wa Yerushalayim"
+    },
+    {
+      "surface": "וְהִכְרַתִּ֞י",
+      "gloss": "na nitakata"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "הַמָּק֤וֹם",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "הַזֶּה֙",
+      "gloss": "hiki"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mabaki"
+    },
+    {
+      "surface": "שְׁאָ֣ר",
+      "gloss": "mabaki"
+    },
+    {
+      "surface": "הַבַּ֔עַל",
+      "gloss": "ya Baali"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "jina"
+    },
+    {
+      "surface": "שֵׁ֥ם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "הַכְּמָרִ֖ים",
+      "gloss": "la makemari"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "הַכֹּהֲנִֽים",
+      "gloss": "makuhani"
+    }
+  ],
+  "timestamp": "2026-08-10T12:50:22.200969898Z",
+  "model": "glm-5.2"
+}

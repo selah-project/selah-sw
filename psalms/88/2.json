@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 88,
+  "translation": "Yahweh, Elohim wa wokovu wangu, siku nilipolia kwa sauti, usiku, mbele zako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "wokovu wangu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "nilipolia kwa sauti"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "mbele zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:37.592375402Z",
+  "model": "glm-5.2"
+}

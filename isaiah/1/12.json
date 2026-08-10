@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Maana mnapokuja kuona uso wangu, nani alitaka hii kutoka mikono yenu? kanyaga nyumba zangu za mawe.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Maana"
+    },
+    {
+      "surface": "תָבֹ֔אוּ",
+      "gloss": "mnapokuja"
+    },
+    {
+      "surface": "לֵרָא֖וֹת",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "פָנָ֑י",
+      "gloss": "uso wangu"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "בִקֵּ֥שׁ",
+      "gloss": "alitaka"
+    },
+    {
+      "surface": "זֹ֛את",
+      "gloss": "hii"
+    },
+    {
+      "surface": "מִיֶּדְכֶ֖ם",
+      "gloss": "kutoka mikono yenu"
+    },
+    {
+      "surface": "רְמֹ֥ס",
+      "gloss": "kanyaga"
+    },
+    {
+      "surface": "חֲצֵרָֽי",
+      "gloss": "nyumba zangu za mawe"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:24.458988720Z",
+  "model": "glm-5.2"
+}

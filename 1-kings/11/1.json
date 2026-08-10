@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na mfalume Shelomah aliwapenda wanawake wa kigeni wengi, pamoja na ⟨את⟩ binti Paroh — Moabiyyah, Ammoniyyah, Edomiyyah, Tsidoniyyah, Hithiyyah.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Na mfalume"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "aliwapenda"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "wanawake"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "wa kigeni"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "binti"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moabiyyah"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Ammoniyyah"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Edomiyyah"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Tsidoniyyah"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Hithiyyah"
+    }
+  ],
+  "timestamp": "2026-08-10T14:59:22.546916078Z",
+  "model": "glm-5.2"
+}

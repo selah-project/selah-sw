@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 34:27",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Yahweh akamwambia Moshe: Andika ⟨kwa ajili yako⟩ maneno haya, kwa maana kwa kauli ya maneno haya nimekata ⟨את⟩ ⟨pamoja nao⟩ ⟨את⟩ agano na ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֤אמֶר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כְּתָב",
+      "gloss": "Andika"
+    },
+    {
+      "surface": "לְךָ֖",
+      "gloss": "⟨kwa ajili yako⟩"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "maneno"
+    },
+    {
+      "surface": "הַדְּבָרִ֣ים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "הָאֵ֑לֶּה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "כִּ֞י",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פִּ֣י",
+      "gloss": "kauli"
+    },
+    {
+      "surface": "הַדְּבָרִ֣ים",
+      "gloss": "ya maneno"
+    },
+    {
+      "surface": "הָאֵ֗לֶּה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "כָּרַ֧תִּי",
+      "gloss": "nimekata"
+    },
+    {
+      "surface": "אִתְּךָ֛",
+      "gloss": "⟨את⟩ ⟨pamoja nao⟩"
+    },
+    {
+      "surface": "בְּרִ֖ית",
+      "gloss": "agano"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T10:28:12.567255826Z",
+  "model": "glm-5.2"
+}

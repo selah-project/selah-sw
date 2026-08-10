@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Ukibarikiwa wewe ⟨pale⟩ unapoingia, na ukibarikiwa wewe ⟨pale⟩ unapotoka.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ukibarikiwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "⟨pale⟩ unapoingia"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "na ukibarikiwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "⟨pale⟩ unapotoka"
+    }
+  ],
+  "timestamp": "2026-08-10T11:02:16.717850110Z",
+  "model": "glm-5.2"
+}

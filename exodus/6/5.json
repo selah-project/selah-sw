@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na pia mimi nimesikia ⟨את⟩ kuiguna kwa wana wa Yisra'eli, ambao Mitsrayim wanawafanya watumwa, nami nikakumbuka ⟨את⟩ agano langu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Na pia"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nimesikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuiguna"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "kuiguna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "wanawafanya watumwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ←(ao)"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "nami nikakumbuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agano langu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "agano langu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:25.814288587Z",
+  "model": "glm-5.2"
+}

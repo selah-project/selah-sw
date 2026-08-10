@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 84,
+  "translation": "Hata ndege amepata nyumba, na suma tundu lake, ambapo anaweka vifaranga wake ⟨את⟩ madhabahu yako, Yahweh wa majeshi, mfalme wangu na Elohim wangu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ndege"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "amepata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "na suma"
+    },
+    {
+      "surface": "קן",
+      "gloss": "tundu lake"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "anaweka"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "vifaranga wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madhabahu yako"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "madhabahu yako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wa majeshi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mfalme wangu"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "na Elohim wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:14.744320169Z",
+  "model": "glm-5.2"
+}

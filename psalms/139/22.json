@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 139,
+  "translation": "Kiwango cha juu kabisa cha chuki nimewachukia; kuwa maadui zangu ⟨tumekuwa⟩.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "kiwango cha juu kabisa"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "cha chuki"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "nimewachukia"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "kuwa maadui"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tumekuwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:55.938632701Z",
+  "model": "glm-5.2"
+}

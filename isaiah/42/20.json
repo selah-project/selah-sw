@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Umeona mambo mengi, lakini hujazingatia; ⟨hata kama⟩ masikio yamefunguliwa, lakini ⟨yeye⟩ hasikii.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "Umeona"
+    },
+    {
+      "surface": "רַבּ֖וֹת",
+      "gloss": "mambo mengi"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "lakini hu"
+    },
+    {
+      "surface": "תִשְׁמֹ֑ר",
+      "gloss": "jazazingatia"
+    },
+    {
+      "surface": "פָּק֥וֹחַ",
+      "gloss": "⟨hata kama⟩ yamefunguliwa"
+    },
+    {
+      "surface": "אָזְנַ֖יִם",
+      "gloss": "masikio"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "lakini"
+    },
+    {
+      "surface": "יִשְׁמָֽע",
+      "gloss": "⟨yeye⟩ hasikii"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:58.690458160Z",
+  "model": "glm-5.2"
+}

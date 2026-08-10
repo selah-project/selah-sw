@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Akamwambia Ebyathari akamjulisha David, ya kwamba Shaul ameuwa ⟨את⟩ makuhani wa Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "akamjulisha"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebyathari"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ameuwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makuhani"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "makuhani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T11:25:57.807476154Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Na umati wote wakaondoa ⟨את⟩ pete za dhahabu zilizo masikioni mwao, wakamletea ⟨kwa⟩ Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "Na wakaondoa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pete za dhahabu"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "pete za"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zilizo"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "masikioni mwao"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "wakamletea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-10T10:28:19.615231301Z",
+  "model": "glm-5.2"
+}

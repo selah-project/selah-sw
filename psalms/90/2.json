@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 90,
+  "translation": "Kabla ya milima kuuzaliwa na ⟨kabla⟩ ya kuumba nchi na uwazi, kutoka milele hadi milele wewe ⟨ni⟩ El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Kabla ya"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "milima"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "kuuzaliwa"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "na ⟨kabla⟩ ya kuumba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "na uwazi"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "kutoka milele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ni⟩ El"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:31.460590768Z",
+  "model": "glm-5.2"
+}

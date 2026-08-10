@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 30:6",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Katika mabonde ya kushtua ⟨kukaa⟩, mashimo ya udongo na miamba.",
+  "tokens": [
+    {
+      "surface": "בַּעֲרוּץ",
+      "gloss": "ya kushtua"
+    },
+    {
+      "surface": "נְחָלִים",
+      "gloss": "katika mabonde"
+    },
+    {
+      "surface": "לִשְׁכֹּן",
+      "gloss": "kukaa"
+    },
+    {
+      "surface": "חֹרֵי",
+      "gloss": "mashimo ya"
+    },
+    {
+      "surface": "עָפָר",
+      "gloss": "udongo"
+    },
+    {
+      "surface": "וְכֵפִים",
+      "gloss": "na miamba"
+    }
+  ],
+  "timestamp": "2026-08-10T15:35:28.289565446Z",
+  "model": "glm-5.2"
+}

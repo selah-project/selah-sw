@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Akajenga ⟨את⟩ nyumba na akaimaliza, akafunika ⟨את⟩ nyumba kwa vigogo na safu za mizedarshe.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Akajenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "akaimaliza"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "akafunika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "kwa vigogo"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "na safu"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "za mizedarshe"
+    }
+  ],
+  "timestamp": "2026-08-10T11:38:31.053711135Z",
+  "model": "glm-5.2"
+}

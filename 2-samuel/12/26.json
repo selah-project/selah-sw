@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na Yowabu akaupana vita Raba ya wana wa Amoni, na akateka ⟨את⟩ mji wa ufalme.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "na akaupana vita"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "na akateka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mji"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "wa ufalme"
+    }
+  ],
+  "timestamp": "2026-08-10T11:31:18.169274282Z",
+  "model": "glm-5.2"
+}

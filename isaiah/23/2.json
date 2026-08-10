@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Nyamateni, enyi wakaaji wa kisiwa; biashara ya Tsidon, wapita baharini, ⟨amekujazia⟩.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "nyamateni"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wakaaji"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kisiwa"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "biashara"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wapita"
+    },
+    {
+      "surface": "ים",
+      "gloss": "baharini"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "amekujazia"
+    }
+  ],
+  "timestamp": "2026-08-10T12:00:21.860968041Z",
+  "model": "glm-5.2"
+}

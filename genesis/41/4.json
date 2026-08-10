@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 41:4",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Ng'ombe wa kike wenye sura mbaya na wenye nyama iliyokonda wakameza ⟨את⟩ ng'ombe wa kike saba wenye sura nzuri na wenye nyama iliyonenepa. Na Paroh akaamka.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "wakameza"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "ng'ombe wa kike"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "wenye sura mbaya"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "sura mbaya"
+    },
+    {
+      "surface": "ודקת",
+      "gloss": "na wenye nyama iliyokonda"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nyama iliyokonda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe wa kike saba wenye sura nzuri na wenye nyama iliyonenepa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "saba"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "ng'ombe wa kike"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "wenye sura nzuri"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "sura nzuri"
+    },
+    {
+      "surface": "והבריאת",
+      "gloss": "na wenye nyama iliyonenepa"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "akaamka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:13:17.496792330Z",
+  "model": "glm-5.2"
+}

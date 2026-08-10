@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Lakini mkuu wa wahunzi hakumkumbuka ⟨את⟩ Yosef, akamsahau.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Lakini hakumkumbuka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hakumkumbuka"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wa wahunzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "akamsahau"
+    }
+  ],
+  "timestamp": "2026-08-10T10:12:42.084139813Z",
+  "model": "glm-5.2"
+}

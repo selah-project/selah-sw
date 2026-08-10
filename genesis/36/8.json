@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Na Esav akakaa katika mlima wa Seir; Esav huyu ni Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akakaa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "katika mlima wa"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huyu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ni Edom"
+    }
+  ],
+  "timestamp": "2026-08-10T14:26:52.012659516Z",
+  "model": "glm-5.2"
+}

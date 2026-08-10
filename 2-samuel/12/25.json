@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na ⟨ake⟩ tuma kwa mkono wa Natan nabii, na ⟨ake⟩ liita ⟨את⟩ jina lake Yedideyah, kwa ajili ya Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "na akatuma"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwa mkono"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabii"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na akaliita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina lake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedideyah"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kwa ajili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T11:31:18.169041797Z",
+  "model": "glm-5.2"
+}

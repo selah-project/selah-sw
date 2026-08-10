@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Wote watajibu na watakusema: ⟨Hata⟩ wewe umedhoofika kama sisi, kwetu umefananishwa.",
+  "tokens": [
+    {
+      "surface": "כֻּלָּ֣ם",
+      "gloss": "wote"
+    },
+    {
+      "surface": "יַֽעֲנ֔וּ",
+      "gloss": "watajibu"
+    },
+    {
+      "surface": "וְיֹאמְר֖וּ",
+      "gloss": "na watakusema"
+    },
+    {
+      "surface": "אֵלֶ֑יךָ",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "⟨hata⟩"
+    },
+    {
+      "surface": "אַתָּ֛ה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "חֻלֵּ֥יתָ",
+      "gloss": "umedhoofika"
+    },
+    {
+      "surface": "כָמ֖וֹנוּ",
+      "gloss": "kama sisi"
+    },
+    {
+      "surface": "אֵלֵ֥ינוּ",
+      "gloss": "kwetu"
+    },
+    {
+      "surface": "נִמְשָֽׁלְתָּ",
+      "gloss": "umefananishwa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:05:14.716319808Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 22:4",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Panda kwa Hilkiya kuhani mkubwa, naye naazimishe ⟨את⟩ fedha iliyopelekwa nyumbani pa Yahweh, ambayo walinzi wa kizingiti walikusanya kutoka kwa ⟨את⟩ watu.",
+  "tokens": [
+    {
+      "surface": "עֲלֵ֗ה",
+      "gloss": "Panda"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "חִלְקִיָּ֨הוּ֙",
+      "gloss": "Hilkiya"
+    },
+    {
+      "surface": "הַכֹּהֵ֣ן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "הַגָּד֔וֹל",
+      "gloss": "mkubwa"
+    },
+    {
+      "surface": "וְיַתֵּ֣ם",
+      "gloss": "naye naazimishe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "fedha"
+    },
+    {
+      "surface": "הַכֶּ֔סֶף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "הַמּוּבָ֖א",
+      "gloss": "iliyopelekwa"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "nyumbani"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "pa Yahweh"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "אָסְפ֛וּ",
+      "gloss": "walikusanya"
+    },
+    {
+      "surface": "שֹׁמְרֵ֥י",
+      "gloss": "walinzi"
+    },
+    {
+      "surface": "הַסַּ֖ף",
+      "gloss": "wa kizingiti"
+    },
+    {
+      "surface": "מֵאֵ֥ת",
+      "gloss": "kutoka kwa ⟨את⟩",
+      "marks": "watoo"
+    },
+    {
+      "surface": "הָעָֽם",
+      "gloss": "watu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:52:51.729729198Z",
+  "model": "glm-5.2"
+}

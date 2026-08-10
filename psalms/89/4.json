@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Nilikata ⟨br⟩ agano kwa ⟨wa⟩ mteule wangu, Niliiapa David mtumishi wangu.",
+  "tokens": [
+    {
+      "surface": "כָּרַ֣תִּֽי",
+      "gloss": "Nilikata"
+    },
+    {
+      "surface": "בְ֭רִית",
+      "gloss": "agano"
+    },
+    {
+      "surface": "לִבְחִירִ֑י",
+      "gloss": "kwa ⟨wa⟩ mteule wangu"
+    },
+    {
+      "surface": "נִ֝שְׁבַּ֗עְתִּי",
+      "gloss": "Niliiapa"
+    },
+    {
+      "surface": "לְדָוִ֥ד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עַבְדִּֽי",
+      "gloss": "mtumishi wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T17:54:57.125736673Z",
+  "model": "glm-5.2"
+}

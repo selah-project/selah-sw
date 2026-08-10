@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "na turudishe ⟨את⟩ sanduku la Elohim wetu kwetu, kwa maana hatukumtafuta siku za Shaul.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "na turudishe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kwetu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatuku"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "mtafuta"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "siku za"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-10T14:08:33.446300989Z",
+  "model": "glm-5.2"
+}

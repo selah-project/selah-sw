@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Usimchukie ndugu yako moyoni mwako; mwonye hakika jirani yako, wala usibebeshe juu yake dhambi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "mchukie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndugu yako"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ndugu yako"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "moyoni mwako"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "mwonye"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jirani yako"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "jirani yako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala usi"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "bebeshe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "dhambi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:57.245705717Z",
+  "model": "glm-5.2"
+}

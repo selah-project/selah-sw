@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 23:14",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Na kwa manabii wa Yerushalayim niliona kitu cha kutisha: uzinzi, na kutembea katika uongo. Wanaima mikono ya watenda mabaya, ili hakuna mtu arudi katika ubaya wake; wote wamekuwa kwangu kama Sdomu, na wakaazi wake kama Amorah.",
+  "tokens": [
+    {
+      "surface": "ובנבאי",
+      "gloss": "Na kwa manabii wa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "niliiona"
+    },
+    {
+      "surface": "שערורה",
+      "gloss": "kitu cha kutisha"
+    },
+    {
+      "surface": "נאוף",
+      "gloss": "uzinzi"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "na kutembea"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "katika uongo"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "Wanaima"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mikono ya"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "watenda mabaya"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ili (si)"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "arudi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "מרעתו",
+      "gloss": "katika ubaya wake"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wamekuwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "wote"
+    },
+    {
+      "surface": "כסדם",
+      "gloss": "kama Sdomu"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "na wakaazi wake"
+    },
+    {
+      "surface": "כעמרה",
+      "gloss": "kama Amorah"
+    }
+  ],
+  "timestamp": "2026-08-10T12:17:11.452317855Z",
+  "model": "glm-5.2"
+}

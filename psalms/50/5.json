@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Kusanyeni kwangu wachasidi wangu, wale waliokatika ⟨את⟩ beriti yangu juu ya dhabahu.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "kusanyeni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "wachasidi wangu"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "waliokatika"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beriti yangu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "dhabahu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:30.894285179Z",
+  "model": "glm-5.2"
+}

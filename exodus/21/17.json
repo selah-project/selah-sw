@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na anayemlaani baba yake na mama yake, kifo cha kufa.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "Na anayemlaani"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "na mama yake"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kifo"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "cha kufa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:29:49.395349251Z",
+  "model": "glm-5.2"
+}

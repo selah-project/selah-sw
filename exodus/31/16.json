@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Na wana wa Yisra'el watatunza ⟨את⟩ shabbat, kufanya ⟨את⟩ shabbat kwa vizazi vyao, ni agano la milele.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "na watatunza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kufanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "kwa vizazi vyao"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "agano"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "la milele"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:19.564932021Z",
+  "model": "glm-5.2"
+}

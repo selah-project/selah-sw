@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 74,
+  "translation": "Kwa nini unarudisha mkono wako, hata mkono wako wa kulia? Katikati ya kifua chako, waharibu!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "unarudisha"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mkono wako"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "hata mkono wako wa kulia"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "Katikati ya"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "kifua chako"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "waharibu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:51.826474048Z",
+  "model": "glm-5.2"
+}

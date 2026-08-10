@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 88,
+  "translation": "Jicho langu lamechoka kwa dhiki yangu; yakukuita wewe, Yahweh, kila siku; nimekunyoshea mikono yangu kwako.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Jicho langu"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "lamechoka"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dhiki yangu"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "yakukuita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "nimekunyoshea"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mikono yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:52.324789519Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "na ⟨את⟩ binti ya-ya'anah, na ⟨את⟩ tahmasi, na ⟨את⟩ shahaphi, na ⟨את⟩ netzi kwa jinsi yake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "binti"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ya-ya'anah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "tahmasi"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "tahmasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "shahaphi"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "shahaphi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "netzi"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "netzi"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "kwa jinsi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:30.174571412Z",
+  "model": "glm-5.2"
+}

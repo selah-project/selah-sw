@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Asiwe na amtoe ⟨isikhuni⟩, wala asiwe na amrehemu yatima zake.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "asiwe na"
+    },
+    {
+      "surface": "יְהִי",
+      "gloss": "akuwe"
+    },
+    {
+      "surface": "ל֭וֹ",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "מֹשֵׁ֣ךְ",
+      "gloss": "amtoe"
+    },
+    {
+      "surface": "חָ֑סֶד",
+      "gloss": "⟨isikhuni⟩"
+    },
+    {
+      "surface": "וְֽאַל",
+      "gloss": "wala asiwe na"
+    },
+    {
+      "surface": "יְהִ֥י",
+      "gloss": "akuwe"
+    },
+    {
+      "surface": "ח֝וֹנֵ֗ן",
+      "gloss": "amrehemu"
+    },
+    {
+      "surface": "לִיתוֹמָֽיו",
+      "gloss": "yatima zake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:34.484555158Z",
+  "model": "glm-5.2"
+}

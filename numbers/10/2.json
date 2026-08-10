@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Tengeneza ⟨kwa ajili yako⟩ trumpeti mbili za fedha; za mikunjo uzitengeneze, na zitakuwa ⟨kwa ajili yako⟩ kwa kuitisha mkusanyiko na kwa kuhamisha ⟨את⟩ kambi.",
+  "tokens": [
+    {
+      "surface": "עֲשֵׂ֣ה",
+      "gloss": "Tengeneza"
+    },
+    {
+      "surface": "לְךָ֗",
+      "gloss": "⟨kwa ajili yako⟩"
+    },
+    {
+      "surface": "שְׁתֵּי֙",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "חֲצֽוֹצְרֹ֣ת",
+      "gloss": "trumpeti"
+    },
+    {
+      "surface": "כֶּ֔סֶף",
+      "gloss": "za fedha"
+    },
+    {
+      "surface": "מִקְשָׁ֖ה",
+      "gloss": "za mikunjo"
+    },
+    {
+      "surface": "תַּעֲשֶׂ֣ה",
+      "gloss": "uzitengeneze"
+    },
+    {
+      "surface": "אֹתָ֑ם",
+      "gloss": "⟨את⟩",
+      "marks": "trumpeti"
+    },
+    {
+      "surface": "וְהָי֤וּ",
+      "gloss": "na zitakuwa"
+    },
+    {
+      "surface": "לְךָ֙",
+      "gloss": "⟨kwa ajili yako⟩"
+    },
+    {
+      "surface": "לְמִקְרָ֣א",
+      "gloss": "kwa kuitisha"
+    },
+    {
+      "surface": "הָֽעֵדָ֔ה",
+      "gloss": "mkusanyiko"
+    },
+    {
+      "surface": "וּלְמַסַּ֖ע",
+      "gloss": "na kwa kuhamisha"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kambi"
+    },
+    {
+      "surface": "הַֽמַּחֲנֽוֹת",
+      "gloss": "kambi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:44:02.588734812Z",
+  "model": "glm-5.2"
+}

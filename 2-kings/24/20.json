@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Kwa sababu kwa hasira ya Yahweh ⟨hiyo ilikuwa⟩ juu ya Yerushalayim na Yehudah, hadi pale alipowatupa mbali kutoka mbele za uso wake; na Tsidkiyahu akawaasi mfalme wa Baveli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kwa hasira ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ilikuwa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "na Yehudah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "alipowatupa mbali"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kutoka juu ya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mbele za uso wake"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "na akawaasi"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Baveli"
+    }
+  ],
+  "timestamp": "2026-08-10T11:53:20.409466557Z",
+  "model": "glm-5.2"
+}

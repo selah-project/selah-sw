@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "nikamwambia: Siku nyingi utakaa nikingoja, hutazini, wala hutakuwa ⟨na⟩ mume; na mimi pia kwako.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nikamwambia"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nyingi"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "utakaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nikingoja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hu-"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "tazini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hu-"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "takuwa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mume"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:41:22.353484085Z",
+  "model": "glm-5.2"
+}

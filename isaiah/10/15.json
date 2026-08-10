@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Je, jeuri itajivuna shimaba juu ya yule anayemata kwa ⟨nyayo⟩? Au mtasi atakua juu ya anayeitikia? Kama fimbo inavyoitikia wanaoinua, au kama fimbo inavyoinua ambayo si muti!",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "Je, itajivuna"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "jeuri"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "anayemata"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kwa ⟨nyayo⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Au"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "itakua"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "mtasi"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "anayeitikia"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "Kama inavyoitikia"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "fimbo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wanaoinua"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "wanaoinua"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "kama inavyoinua"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "fimbo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ambayo si"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "muti"
+    }
+  ],
+  "timestamp": "2026-08-10T15:06:28.438844541Z",
+  "model": "glm-5.2"
+}

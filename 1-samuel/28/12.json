@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Na mwanamke akamwona ⟨את⟩ Shemuweli, akapiga kelele kwa sauti kuu, na mwanamke akamwambia Shaul, akisema: Kwa nini umenidanganya? Na wewe ⟨ni⟩ Shaul!",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Na akaona"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuweli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "akapiga kelele"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kwa sauti"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kwa nini"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "umenidanganya"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wewe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-10T14:53:57.215622351Z",
+  "model": "glm-5.2"
+}

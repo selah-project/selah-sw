@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Yahweh, Elohim wangu, wewe ⟨ni⟩ nitakutukuza, nitalitaja jina lako, maana umefanya muujiza; mashauri ⟨ya⟩ zamani yaliyo mbali, uaminifu wa kuaminika.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wangu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "nitakutukuza"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "nitalitaja"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "umefanya"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "muujiza"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "mashauri"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "yaliyo mbali"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "uaminifu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "wa kuaminika"
+    }
+  ],
+  "timestamp": "2026-08-10T15:06:17.679150955Z",
+  "model": "glm-5.2"
+}

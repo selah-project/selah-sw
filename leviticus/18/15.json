@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Uchi wa mkewe wa mwanao hutamfunua; yeye ni mke wa mwanao; uchi wake hutamfunua.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Uchi"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "wa mkewe wa mwanao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hutamfunua"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "hutamfunua"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mke"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wa mwanao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hutamfunua"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "hutamfunua"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "uchi wake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:35:23.681622269Z",
+  "model": "glm-5.2"
+}

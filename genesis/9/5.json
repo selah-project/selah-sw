@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na hakika ⟨את⟩ damu yenu, kwa ajili ya nafsi zenu, nitaihesabu; kutoka mkononi mwa kila mnyama nitaihesabu; na kutoka mkononi mwa binadamu, kutoka mkononi mwa mtu ndugu yake, nitahesabu ⟨את⟩ nafsi ya binadamu.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "na hakika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "damu yenu"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "damu yenu"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "kwa ajili ya nafsi zenu"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "nitaihesabu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kutoka mkononi mwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "mnyama"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "nitaihesabu"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "na kutoka mkononi mwa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "binadamu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kutoka mkononi mwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu yake"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "nitahesabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafsi ya binadamu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafsi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ya binadamu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:02:15.666219705Z",
+  "model": "glm-5.2"
+}

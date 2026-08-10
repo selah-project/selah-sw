@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Kwa sababu hii watu wenye nguvu watakuheshimu, jiji la mataja wakatili watakuogopa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sababu hii"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "watakuheshimu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "עז",
+      "gloss": "wenye nguvu"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "jiji la"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mataja"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "wakatili"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "watatuogopa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:06:17.679554594Z",
+  "model": "glm-5.2"
+}

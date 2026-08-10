@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 25:20",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na ⟨את⟩ wote wa jamii mchanganyiko, na ⟨את⟩ wafalme wote wa nchi ya Utsi, na ⟨את⟩ wafalme wote wa nchi ya Wapelishti, na ⟨את⟩ Ashkelon, na ⟨את⟩ Aza, na ⟨את⟩ Ekroni, na ⟨את⟩ mabaki ya Ashdodi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wote wa jamii mchanganyiko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "wa jamii mchanganyiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wafalme wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "העוץ",
+      "gloss": "ya Utsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wafalme wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya Wapelishti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ashkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ekroni"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mabaki"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "mabaki"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "ya Ashdodi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:17:50.831931195Z",
+  "model": "glm-5.2"
+}

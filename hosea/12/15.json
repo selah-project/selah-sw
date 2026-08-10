@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 12:15",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Efrayim amemkasirikia kwa machungu, na damu zake zitamwagwa juu yake, na fedha zake Adonai wake atamrudishia.",
+  "tokens": [
+    {
+      "surface": "הכעיס",
+      "gloss": "amemkasirikia"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "תמרורים",
+      "gloss": "kwa machungu"
+    },
+    {
+      "surface": "ודמיו",
+      "gloss": "na damu zake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "zitamwagwa"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "na fedha zake"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "atamrudishia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Adonai wake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:20:30.780497617Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na kuhani anayemkaribisha ⟨את⟩ sadaka ya kuteketezwa ya mtu yoyote — ngozi ya sadaka ya kuteketezwa ambayo ⟨hiyo⟩ amemkaribisha, ya kuhani ⟨kwake itakuwa⟩.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "na kuhani"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "anayemkaribisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaka ya kuteketezwa"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "sadaka ya kuteketezwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ngozi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya sadaka ya kuteketezwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "amemkaribisha"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ya kuhani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "itakuwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:31:57.466305752Z",
+  "model": "glm-5.2"
+}

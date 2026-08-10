@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 12:18",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "⟨Yeye⟩ anafungua kamba za wafalme, na kuifunga saa ⟨yao⟩ katika viuno vyao.",
+  "tokens": [
+    {
+      "surface": "מוּסַ֣ר",
+      "gloss": "kamba"
+    },
+    {
+      "surface": "מְלָכִ֣ים",
+      "gloss": "za wafalme"
+    },
+    {
+      "surface": "פִּתֵּ֑חַ",
+      "gloss": "anafungua"
+    },
+    {
+      "surface": "וַיֶּאְסֹ֥ר",
+      "gloss": "na kuifunga"
+    },
+    {
+      "surface": "אֵ֝ז֗וֹר",
+      "gloss": "saa"
+    },
+    {
+      "surface": "בְּמָתְנֵיהֶֽם",
+      "gloss": "katika viuno vyao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:33:50.846455493Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 67,
+  "translation": "Nchi imetoa mavuno yake; atubariki Elohim, Elohim wetu.",
+  "tokens": [
+    {
+      "surface": "אֶ֭רֶץ",
+      "gloss": "Nchi"
+    },
+    {
+      "surface": "נָתְנָ֣ה",
+      "gloss": "imetoa"
+    },
+    {
+      "surface": "יְבוּלָ֑הּ",
+      "gloss": "mavuno yake"
+    },
+    {
+      "surface": "יְבָרְכֵ֗נוּ",
+      "gloss": "atubariki"
+    },
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֱלֹהֵֽינוּ",
+      "gloss": "Elohim wetu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:24.078839417Z",
+  "model": "glm-5.2"
+}

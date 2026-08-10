@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "Nimenyamaza, siufungue mdomo wangu; kwa kuwa wewe ⟨ndiye uliye⟩kitenda.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "nimenyamaza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ufungue"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mdomo wangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ulikitenda"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:19.406543595Z",
+  "model": "glm-5.2"
+}

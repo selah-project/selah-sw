@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Kwa maana wewe ulinitoa tumboni; ulinifanya nitumainie kwenye matiti ya mama yangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "ulinitoa"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "tumboni"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "ulinifanya nitumainie"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "matiti ya"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mama yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:10.254504975Z",
+  "model": "glm-5.2"
+}

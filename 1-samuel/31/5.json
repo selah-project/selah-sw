@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Na mbeba wa silaha zake alipoona ya kwamba Shaul amekufa, akaanguka yeye pia juu ya upanga wake, na kufa pamoja naye.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "na alipoona"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mbeba"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "silaha zake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "מת",
+      "gloss": "amekufa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "akaanguka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "upanga wake"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "na kufa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja naye"
+    }
+  ],
+  "timestamp": "2026-08-10T18:04:33.137765972Z",
+  "model": "glm-5.2"
+}

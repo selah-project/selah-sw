@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Na akaingia pia kwa Rachel, akampenda pia ⟨את⟩ Rachel kuliko Lea. Akamtumikia naye tena miaka saba nyingine.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Na akaingia"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "akampenda"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "kuliko Lea"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "Akamtumikia"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "saba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "nyingine"
+    }
+  ],
+  "timestamp": "2026-08-10T10:09:03.052558924Z",
+  "model": "glm-5.2"
+}

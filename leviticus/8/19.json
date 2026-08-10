@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na akachinja ⟨hiyo⟩, na Moshe akanyunyuzia ⟨את⟩ damu ⟨kwenye⟩ madhabahu pande zote.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "na akachinja"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "na akanyunyuzia"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "damu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "damu"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kwenye⟩"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "pande zote"
+    }
+  ],
+  "timestamp": "2026-08-10T15:53:21.026343551Z",
+  "model": "glm-5.2"
+}

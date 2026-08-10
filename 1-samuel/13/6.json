@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na wanaume wa Yisraeli wakaona ya kuwa walikuwa ⟨wamekaza,⟩ maana taifa lilibanwa, nayo taifa likajificha katika pangoni, katika matitini, katika miambani, katika ngome, na katika matango.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na wanaume wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "wakaona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kuwa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "⟨wamekaza⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "walikuwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "libanwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "likajificha katika pangoni"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "katika matitini"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "katika miambani"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "katika ngome"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "na katika matango"
+    }
+  ],
+  "timestamp": "2026-08-10T11:21:57.866853841Z",
+  "model": "glm-5.2"
+}

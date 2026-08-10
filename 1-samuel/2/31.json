@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Tazama, siku zinakuja, na mimi nitakata ⟨את⟩ mkono wako na ⟨את⟩ mkono wa nyumba ya baba yako, kutokuwa na mzee katika nyumbani mwako.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "באים",
+      "gloss": "zinakuja"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "na mimi nitakata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wako"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mkono wako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mkono wa nyumba ya baba yako"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wa nyumba"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya baba yako"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "kutokuwa na"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "mzee"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "katika nyumbani mwako"
+    }
+  ],
+  "timestamp": "2026-08-10T16:00:17.205212877Z",
+  "model": "glm-5.2"
+}

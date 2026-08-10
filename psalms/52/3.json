@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 52,
+  "translation": "Kwanini unajisifu katika uovu, ee shujaa? Chesed ya El ⟨huwa⟩ wakati wote.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kwanini"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "unajisifu"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "katika uovu"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "ee shujaa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Chesed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ya El"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "היום",
+      "gloss": "wote"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:54.189457107Z",
+  "model": "glm-5.2"
+}

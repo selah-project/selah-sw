@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 39:5",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "Na ukanda wa ephodi wake ambao ulikuwa juu yake, kutoka kwake ⟨ulikuwa⟩ sawa na kazi yake: dhahabu, samawi, zambaridi, na mdudu wa nyekundu, na kitani cha mshazani kilichosokotwa; kama alivyokuagiza Yahweh ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "Na ukanda"
+    },
+    {
+      "surface": "אפדתו",
+      "gloss": "wa ephodi wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kutoka kwake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "sawa na kazi yake"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "samawi"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "na zambaridi"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "na mdudu wa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "nyekundu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na kitani cha"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mshazani kilichosokotwa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alivyokuagiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:29:46.190886790Z",
+  "model": "glm-5.2"
+}

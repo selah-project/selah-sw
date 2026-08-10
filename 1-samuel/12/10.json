@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Wakawilia kwa Yahweh, wakasema: Tumekosa, kwa kuwa tuliacha ⟨את⟩ Yahweh, nakutumikia ⟨את⟩ ha-Baalim na ⟨את⟩ ha-Ashtaroth. Na sasa, okoa kutoka mkononi mwa maadui zetu, ili tukutumikie.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "wakawilia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wakasema"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "tumekosa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "tuliacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "nakutumikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha-Baalim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ha-Baalim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ha-Ashtaroth"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "ha-Ashtaroth"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "okoa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mkononi mwa"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "maadui zetu"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "ili tukutumikie"
+    }
+  ],
+  "timestamp": "2026-08-10T17:59:21.693624945Z",
+  "model": "glm-5.2"
+}

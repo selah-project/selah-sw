@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 38:22",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Nami nitahukumu ⟨na⟩ yeye kwa tauni na kwa damu; na mvua ya kuyeyuka na mawe ya ünjanouu, moto na sulfuri nitamimina juu yake na juu ya makundi yake na juu ya mataifa mengi ambayo pamoja naye.",
+  "tokens": [
+    {
+      "surface": "וְנִשְׁפַּטְתִּ֥י",
+      "gloss": "nami nitahukumu"
+    },
+    {
+      "surface": "אִתּ֖וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "בְּדֶ֣בֶר",
+      "gloss": "kwa tauni"
+    },
+    {
+      "surface": "וּבְדָ֑ם",
+      "gloss": "na kwa damu"
+    },
+    {
+      "surface": "וְגֶ֣שֶׁם",
+      "gloss": "na mvua"
+    },
+    {
+      "surface": "שׁוֹטֵף֩",
+      "gloss": "ya kuyeyuka"
+    },
+    {
+      "surface": "וְאַבְנֵ֨י",
+      "gloss": "na mawe"
+    },
+    {
+      "surface": "אֶלְגָּבִ֜ישׁ",
+      "gloss": "ya ünjano"
+    },
+    {
+      "surface": "אֵ֣שׁ",
+      "gloss": "moto"
+    },
+    {
+      "surface": "וְגָפְרִ֗ית",
+      "gloss": "na sulfuri"
+    },
+    {
+      "surface": "אַמְטִ֤יר",
+      "gloss": "nitamimina"
+    },
+    {
+      "surface": "עָלָיו֙",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "na juu"
+    },
+    {
+      "surface": "אֲגַפָּ֔יו",
+      "gloss": "ya makundi yake"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "na juu"
+    },
+    {
+      "surface": "עַמִּ֥ים",
+      "gloss": "ya mataifa"
+    },
+    {
+      "surface": "רַבִּ֖ים",
+      "gloss": "mengi"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "אִתּֽוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "pamoja naye"
+    }
+  ],
+  "timestamp": "2026-08-10T12:36:26.456116670Z",
+  "model": "glm-5.2"
+}

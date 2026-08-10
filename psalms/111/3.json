@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 111,
+  "translation": "Utukufu na staha ni kazi yake; na haki yake ⟨hu⟩dumu mpaka milele.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Utukufu"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "na staha"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ni kazi yake"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "na haki yake"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "⟨hu⟩dumu"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "mpaka milele"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:23.803869209Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 75,
+  "translation": "Inayeyuka ⟨ni⟩ nchi na wakaazi wake wake; mimi nimethibitisha nguzo zake. Sela.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "Inayeyuka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "wakaazi wake"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "nimethibitisha"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "nguzo zake"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:44.415207778Z",
+  "model": "glm-5.2"
+}

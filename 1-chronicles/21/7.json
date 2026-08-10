@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Naye Elohim akadhulu katika macho yake kuhusu jambo hili, naye akapiga ⟨את⟩ Yisraeli.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "akadhulu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "katika macho"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "yake kuhusu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "naye akapiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-08-10T14:09:22.338047177Z",
+  "model": "glm-5.2"
+}

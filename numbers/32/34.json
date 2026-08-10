@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Na wana wa Gad walijenga ⟨את⟩ Diboni na ⟨את⟩ Atarothi na ⟨את⟩ Aroeri.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "walijenga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Diboni"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Diboni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Atarothi"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarothi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aroeri"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroeri"
+    }
+  ],
+  "timestamp": "2026-08-10T10:51:46.925938852Z",
+  "model": "glm-5.2"
+}

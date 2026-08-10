@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na jina la ⟨mmoja⟩ ⟨lilikuwa⟩ Eli'ezer, kwa kuwa ⟨alikuwa akisema⟩: Elohim wa baba yangu ⟨ni⟩ katika msaada wangu, naye aliniokoa kutoka katika upanga wa Paroh.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "na jina"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "la mmoja"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eli'ezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "wa baba yangu"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "katika msaada wangu"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "naye aliniokoa"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kutoka upanga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paroh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:22:53.175002124Z",
+  "model": "glm-5.2"
+}

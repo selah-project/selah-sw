@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Adui amfuate nafsi yangu na amshike, na anyanyue hadi ardhini uhai wangu, na utukufu wangu afanyie makao katika vumbi. Selah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "Adui amfuate"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "adui"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "na amshike"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "na anyanyue"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "hadi ardhini"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "uhai wangu"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "na utukufu wangu"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "katika vumbi"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "afanyie makao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:22.821735656Z",
+  "model": "glm-5.2"
+}

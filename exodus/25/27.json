@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Juu mbele ya frame vitaningo vitakuwa ⟨hizi⟩ pete, kuwa nyumba za fiti, ili kubeba ⟨את⟩ meza.",
+  "tokens": [
+    {
+      "surface": "לְעֻמַּת",
+      "gloss": "juu mbele ya"
+    },
+    {
+      "surface": "הַמִּסְגֶּרֶת",
+      "gloss": "frame"
+    },
+    {
+      "surface": "תִּהְיֶיןָ",
+      "gloss": "zitakuwa"
+    },
+    {
+      "surface": "הַטַּבָּעֹת",
+      "gloss": "pete"
+    },
+    {
+      "surface": "לְבָתִּים",
+      "gloss": "kuwa nyumba za"
+    },
+    {
+      "surface": "לְבַדִּים",
+      "gloss": "fiti"
+    },
+    {
+      "surface": "לָשֵׂאת",
+      "gloss": "ili kubeba"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "meza"
+    },
+    {
+      "surface": "הַשֻּׁלְחָן",
+      "gloss": "meza"
+    }
+  ],
+  "timestamp": "2026-08-10T18:08:22.821151419Z",
+  "model": "glm-5.2"
+}

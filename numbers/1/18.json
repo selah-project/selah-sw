@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 1:18",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na ⟨את⟩ jumuiya yote wakaikusanya pamoja siku ya kwanza ya mwezi wa pili, wakajitaja kuzaliwa kwao kufuatana na familia zao, kwa nyumba za baba zao, kwa hesabu ya majina, kuanzia mwana wa miaka ishirini na kuendelea, kichwa kwa kichwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "jumuiya yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jumuiya"
+    },
+    {
+      "surface": "הקהילו",
+      "gloss": "wakaikusanya"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "siku ya kwanza"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya mwezi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa pili"
+    },
+    {
+      "surface": "ויתילדו",
+      "gloss": "wakajitaja kuzaliwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kufuatana na"
+    },
+    {
+      "surface": "משפחתם",
+      "gloss": "familia zao"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kwa nyumba za"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "baba zao"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "kwa hesabu"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ya majina"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "kuanzia mwana wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ishirini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "na kuendelea"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "kichwa kwa kichwa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:36:36.641153933Z",
+  "model": "glm-5.2"
+}

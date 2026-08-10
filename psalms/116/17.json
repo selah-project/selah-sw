@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 116,
+  "translation": "Kwako nitatenga dhabihu ya shukrani, na kwa jina la Yahweh nitaita.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kwako"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "nitatenga"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "dhabihu"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ya shukrani"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "na kwa jina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nitaita"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:18.663590420Z",
+  "model": "glm-5.2"
+}

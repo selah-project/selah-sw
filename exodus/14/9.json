@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 14:9",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na Mitsrayim wakawafuatilia, wakawafikia ⟨את⟩ wakiwa wamesimama kando ya bahari — farasi wote, magari ya Paroh, na watu wake wa farasi, na jeshi lake — kwenye Pi-ha-Chiroth, mbele ya Baal-Tsephon.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "wakawafuatilia"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "nyuma yao"
+    },
+    {
+      "surface": "וישיגו",
+      "gloss": "wakawafikia"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wakiwa wamesimama"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "wakiwa wamesimama"
+    },
+    {
+      "surface": "על",
+      "gloss": "kando ya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "farasi"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "magari"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Paroh"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "na watu wake wa farasi"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "na jeshi lake"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mdomo wa"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "Pi-ha-Chiroth"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "Tsephon"
+    }
+  ],
+  "timestamp": "2026-08-10T17:41:20.549373520Z",
+  "model": "glm-5.2"
+}

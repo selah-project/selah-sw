@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 37:1",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Mkono wa Yahweh ulikuwa juu yangu, akanitoa katika roho ya Yahweh, akanidondosha katikati ya bonde, nalo ⟨likawa⟩ limejaa mifupa.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ilikuwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "ויוצאני",
+      "gloss": "akanitoa"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "katika roho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "ויניחני",
+      "gloss": "akanidondosha"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "katikati"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "ya bonde"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "nalo"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "limejaa"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mifupa"
+    }
+  ],
+  "timestamp": "2026-08-10T18:01:11.373181091Z",
+  "model": "glm-5.2"
+}

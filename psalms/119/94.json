@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Mimi ni wako, niokoe, kwa kuwa amri zako nimezitafuta.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "wako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "niokoe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "amri zako"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "nimezitafuta"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:23.482317245Z",
+  "model": "glm-5.2"
+}

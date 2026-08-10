@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Sifa zao ni kama simba anayetamani kumwangamiza, na kama mwanasimba anaketi mahali pa kujificha.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "sifa zao"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kama simba"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "anayetamani"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "kumwangamiza"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "na kama mwanasimba"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "anaketi"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "mahali pa kujificha"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:13.265790046Z",
+  "model": "glm-5.2"
+}

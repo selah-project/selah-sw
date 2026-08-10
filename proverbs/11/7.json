@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Kifo cha mtu mbaya kinapoja, matumaini yake hupotea, na tumaini la nguvu za uovu limepotea kabisa.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "Kifo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cha mtu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mbaya"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "kinapoja, hupotea"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "matumaini yake"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "na tumaini"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "la nguvu za uovu"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "limepotea kabisa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:24:50.499574296Z",
+  "model": "glm-5.2"
+}

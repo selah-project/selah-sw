@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "⟨Yule⟩ aanaye kutimilifu, na afanyaye haki, na anenaye kweli katika moyo wake.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "aanaye"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kutimilifu"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "na afanyaye"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "haki"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "na anenaye"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kweli"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "katika moyo wake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:31.985093993Z",
+  "model": "glm-5.2"
+}

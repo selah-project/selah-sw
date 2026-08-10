@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Akatokea akapigana na Wapelishti, akavunja ⟨את⟩ ukuta wa Gathi na ⟨את⟩ ukuta wa Yabne na ⟨את⟩ ukuta wa Ashdodi; akajenga miji katika Ashdodi na ⟨kuso⟩ ya Wapelishti.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akatokea"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "akapigana"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "na Wapelishti"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "akavunja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuta wa Gathi"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ukuta wa"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ukuta wa Yabne"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ukuta wa"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yabne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ukuta wa Ashdodi"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ukuta wa"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdodi"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "akajenga"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miji"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "katika Ashdodi"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "na ⟨kuso⟩ ya Wapelishti"
+    }
+  ],
+  "timestamp": "2026-08-10T14:17:54.987965744Z",
+  "model": "glm-5.2"
+}

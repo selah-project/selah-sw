@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Nikayageuza mimi kuhitilifu ⟨את⟩ moyo wangu kuhusu jito lote ambalo nime-jita chini ya jua.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "Nikayageuza"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "kuhitilifu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wangu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuhusu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jito lote"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "nime-jita"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "jua"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:20.994764385Z",
+  "model": "glm-5.2"
+}

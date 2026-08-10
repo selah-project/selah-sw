@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 148,
+  "translation": "Vijana na hata mabinti, wazee pamoja na watoto:",
+  "tokens": [
+    {
+      "surface": "בַּחוּרִ֥ים",
+      "gloss": "vijana"
+    },
+    {
+      "surface": "וְגַם",
+      "gloss": "na hata"
+    },
+    {
+      "surface": "בְּתוּל֑וֹת",
+      "gloss": "mabinti"
+    },
+    {
+      "surface": "זְ֝קֵנִ֗ים",
+      "gloss": "wazee"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "נְעָרִֽים",
+      "gloss": "watoto"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:46.228462449Z",
+  "model": "glm-5.2"
+}

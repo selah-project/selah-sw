@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 19:22",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na kuhani atafuta ∼kwa↔ yeye ∼kwa↔ ayili ⟨⊕⟩ ya ashem mbele za Yahweh kuhusu dhambi yake aliyoitenda; nanyi ∼↔ msamehewe ∼kwa↔ yewe ∼kutoka↔ dhambi yenu aliyoitenda.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "Na kuhani atafuta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kwa yeye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "kwa ayili"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ya ashem"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuhusu"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "dhambi yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "alitenda"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "nanyi msamehewe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa yeye"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "kutoka dhambi yenu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "alitenda"
+    }
+  ],
+  "timestamp": "2026-08-10T15:54:19.736734976Z",
+  "model": "glm-5.2"
+}

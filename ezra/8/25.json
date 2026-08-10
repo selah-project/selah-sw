@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Nikawaniazini ⟨את⟩ fedha na ⟨את⟩ dhahabu na ⟨את⟩ vyombo, mchango wa nyumba ya Elohim yetu, ambao mfalme na washauri wake na mabwana wake na wote Waisraeli waliojitokeza walikuwa wameuinua.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "nikawaniazini"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fedha"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "dhahabu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vyombo"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "vyombo"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "mchango"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ya Elohim yetu"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "walikuwa wameuinua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "na washauri wake"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "na mabwana wake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Waisraeli"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "waliojitokeza"
+    }
+  ],
+  "timestamp": "2026-08-10T15:40:39.011434863Z",
+  "model": "glm-5.2"
+}

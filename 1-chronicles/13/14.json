@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na sanduku la Elohim likakaa pamoja na nyumba ya Oved-Edomi, nyumbani mwake, miezi mitatu; nayo Yahweh akabariki ⟨את⟩ nyumba ya Oved-Edomi na ⟨את⟩ vyote vilivyoko kwake.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "na-likakaa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja-na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edomi"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "nyumbani-mwake"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mitatu"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "miezi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "nayo-akabariki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edomi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na-⟨את⟩",
+      "marks": "vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilivyoko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    }
+  ],
+  "timestamp": "2026-08-10T16:27:48.447266950Z",
+  "model": "glm-5.2"
+}

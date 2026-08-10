@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na siku hii itakuwa kwenu kwa ukumbusho, nanyi mtaiadhimisha ⟨את⟩ ⟨hiyo⟩ kama sherehe kwa Yahweh kwa vizazi vyenu; amri ya milele — mtoiadhimshe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na itakuwa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "kwa ukumbusho"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "nanyi mtaiadhimisha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hiyo (siku)"
+    },
+    {
+      "surface": "חג",
+      "gloss": "kama sherehe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "kwa vizazi vyenu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "amri"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya milele"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "mtoiadhimshe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:21:48.722199218Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 51,
+  "translation": "Kwa maana huhitaji dhabihu, (singekuapa ningetoa) ⟨את⟩; sadaka ya kuteketezwa, humridhiki.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תַחְפֹּ֣ץ",
+      "gloss": "huhitaji"
+    },
+    {
+      "surface": "זֶ֣בַח",
+      "gloss": "dhabihu"
+    },
+    {
+      "surface": "וְאֶתֵּ֑נָה",
+      "gloss": "(singekuapa ningetoa)"
+    },
+    {
+      "surface": "ע֝וֹלָ֗ה",
+      "gloss": "sadaka ya kuteketezwa"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "si"
+    },
+    {
+      "surface": "תִרְצֶֽה",
+      "gloss": "humridhiki"
+    }
+  ],
+  "timestamp": "2026-08-10T17:54:56.994813042Z",
+  "model": "glm-5.2"
+}

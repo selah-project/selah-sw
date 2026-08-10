@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Nenda, taifa langu, ingia vyumbani mwako, na ufunge milango yako kwa ajili yako; jifiche kwa muda mfupi wakati, hata ghadhabu itakapopita.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "taifa langu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ingia"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "vyumbani mwako"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "na ufunge"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "milango yako"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "kwa ajili yako"
+    },
+    {
+      "surface": "חבי",
+      "gloss": "jifiche"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "kwa muda mfupi"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "itakapopita"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ghadhabu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:00:11.665894523Z",
+  "model": "glm-5.2"
+}

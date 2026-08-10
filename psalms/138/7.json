@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 138,
+  "translation": "Ikiwa niende katikati ya dhiki, utanifufua; juu ya ghadhabu ya adui zangu utapeleka mkono wako, na mkono wako wa kulia unaokoa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ikiwa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "niende"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "katikati ya"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dhiki"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "utanifufua"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ghadhabu"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "adui zangu"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "utapeleka"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mkono wako"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "na … unaokoa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "mkono wako wa kulia"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:15.822124555Z",
+  "model": "glm-5.2"
+}

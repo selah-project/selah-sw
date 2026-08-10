@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "wakaona wana wa Elohim ⟨את⟩ mabinti wa wanadamu, ya kuwa wazuri, wakawachukulia wanawake miongoni mwa wote waliowachagua.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "wakaona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabinti wa wanadamu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mabinti wa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wanadamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kuwa"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "wazuri"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wao"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "wakawachukulia"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "נשים",
+      "gloss": "wanawake"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "miongoni mwa wote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waliokuwa"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "waliowachagua"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:56.796180155Z",
+  "model": "glm-5.2"
+}

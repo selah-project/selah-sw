@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Elohim akafanya ⟨את⟩ mianga miwili mikubwa: ⟨את⟩ mwanga mkubwa kwa utawala wa mchana, na ⟨את⟩ mwanga mdogo kwa utawala wa usiku, na ⟨את⟩ nyota.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na akafanya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mianga miwili mikubwa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "miwili"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "mianga"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "mikubwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanga mkubwa"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "mwanga"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "mkubwa"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "kwa utawala wa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mchana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mwanga mdogo"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "mwanga"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mdogo"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "kwa utawala wa"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyota"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "nyota"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:14.151547763Z",
+  "model": "glm-5.2"
+}

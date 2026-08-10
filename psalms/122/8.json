@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 122,
+  "translation": "Kwa ajili ya ndugu zangu na rafiki zangu, nitaliambia ⟨sasa⟩ shalom uwe ndani yako.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Kwa ajili ya"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ndugu zangu"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "na rafiki zangu"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "nitaliambia"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨sasa⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "בך",
+      "gloss": "uwe ndani yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:33.901885146Z",
+  "model": "glm-5.2"
+}

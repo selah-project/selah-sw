@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Wana wa Gad kwa familia zao: kwa Tsefoni, familia ya Watsefoni; kwa Chagi, familia ya Wachagi; kwa Shuni, familia ya Washuni.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kwa familia zao"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "kwa Tsefoni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "familia ya"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "Watsefoni"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "kwa Chagi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "familia ya"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "Wachagi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "kwa Shuni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "familia ya"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "Washuni"
+    }
+  ],
+  "timestamp": "2026-08-10T10:49:10.801778279Z",
+  "model": "glm-5.2"
+}

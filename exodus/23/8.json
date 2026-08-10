@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Na rushwa usichukue, kwa sababu rushwa hufanya wapenzi wa macho kuwa kipofu, na kuharibu maneno ya watu wa haki.",
+  "tokens": [
+    {
+      "surface": "וְשֹׁ֖חַד",
+      "gloss": "Na rushwa"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תִקָּ֑ח",
+      "gloss": "chukue"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "הַשֹּׁ֨חַד֙",
+      "gloss": "rushwa"
+    },
+    {
+      "surface": "יְעַוֵּ֣ר",
+      "gloss": "hufanya kuwa kipofu"
+    },
+    {
+      "surface": "פִּקְחִ֔ים",
+      "gloss": "wapenzi wa macho"
+    },
+    {
+      "surface": "וִֽיסַלֵּ֖ף",
+      "gloss": "na kuharibu"
+    },
+    {
+      "surface": "דִּבְרֵ֥י",
+      "gloss": "maneno ya"
+    },
+    {
+      "surface": "צַדִּיקִֽים",
+      "gloss": "watu wa haki"
+    }
+  ],
+  "timestamp": "2026-08-10T14:31:06.633638907Z",
+  "model": "glm-5.2"
+}

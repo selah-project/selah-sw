@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Bali kwa sababu Yahweh anawapenda, na kwa kuhifadhi kiapo ambacho aliapa kwa baba zenu, ndiye Yahweh aliyewatoa kwa ⟨⟩ mkono wa nguvu, akakukomboa kutoka nyumba ya utumwa, kutoka mkononi mwa Paroh, mfalme wa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bali"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "kwa upendo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "na kuhifadhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiapo"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "kiapo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambacho"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "aliapa"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "kwa baba zenu"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "aliyewatoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwa mkono"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "wa nguvu"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "akakukomboa"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kutoka nyumba"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ya utumwa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kutoka mkononi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "mwa Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:55:48.302157667Z",
+  "model": "glm-5.2"
+}

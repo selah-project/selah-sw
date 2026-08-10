@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 118:29",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 118,
+  "translation": "Toeni Yahweh, maana ⟨yeye ni⟩ mwema; maana chesed chake ⟨hudumu⟩ hata milele.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Toeni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hata milele"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed chake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:10.087753667Z",
+  "model": "glm-5.2"
+}

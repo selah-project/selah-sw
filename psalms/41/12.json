@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Kwa ⟨hii⟩ najua kwamba wewe unipendelea, kwani adui wangu hatashangilia juu yangu.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "kwa hii"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "najua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "wewe unataka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatashangilia"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "shout"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "adui wangu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dhidi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:38.794214232Z",
+  "model": "glm-5.2"
+}

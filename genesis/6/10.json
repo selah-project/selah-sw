@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Noach ⟨ali⟩zaa watoto wawaliu ⟨wanawaliu⟩ watatu: ⟨את⟩ Shem, ⟨את⟩ Cham, na ⟨את⟩ Yefeth.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "akazaa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "watatu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "watoto wawaliu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yefeth"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefeth"
+    }
+  ],
+  "timestamp": "2026-08-10T10:02:07.360011511Z",
+  "model": "glm-5.2"
+}

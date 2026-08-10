@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Na ikiwa hatatakomboa ⟨את⟩ shamba, au ikiwa ameuza ⟨את⟩ shamba kwa mtu mwengine, hatutakomboa tena kamwe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatatakomboa"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "hatatakomboa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shamba"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "shamba"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "au ikiwa"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ameuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shamba"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "shamba"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kwa mtu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mwengine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatutakomboa"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "hatutakomboa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena kamwe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:39:31.231927931Z",
+  "model": "glm-5.2"
+}

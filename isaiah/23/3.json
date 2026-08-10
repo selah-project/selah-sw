@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 23:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Na juu ya maji mengi mbegu ya Shijori, mavuno ya mto, ⟨yalikuwa⟩ mapato yake; na ⟨yeye⟩ ⟨akawa⟩ soko la mataifa.",
+  "tokens": [
+    {
+      "surface": "ובמים",
+      "gloss": "na juu ya maji"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mengi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbegu"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "Shijori"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "mavuno"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "mto"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "mapato yake"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "na akawa"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "soko"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mataifa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:00:21.861141190Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Na macho ya waonao hayatatazama mbali, na masikio ya wasikiao yatawekea shauri.",
+  "tokens": [
+    {
+      "surface": "וְלֹא",
+      "gloss": "Na hatatazama"
+    },
+    {
+      "surface": "תִשְׁעֶינָה",
+      "gloss": "mbali"
+    },
+    {
+      "surface": "עֵינֵי",
+      "gloss": "macho"
+    },
+    {
+      "surface": "רֹאִים",
+      "gloss": "ya waonao"
+    },
+    {
+      "surface": "וְאָזְנֵי",
+      "gloss": "na masikio"
+    },
+    {
+      "surface": "שֹׁמְעִים",
+      "gloss": "ya wasikiao"
+    },
+    {
+      "surface": "תִּקְשֹֽׁבְנָה",
+      "gloss": "yatawekea shauri"
+    }
+  ],
+  "timestamp": "2026-08-10T12:02:09.013148675Z",
+  "model": "glm-5.2"
+}

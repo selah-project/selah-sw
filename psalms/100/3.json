@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 100,
+  "translation": "Jueni kwamba Yahweh, yeye ⟨ni⟩ Elohim; yeye alitufanya tuko, na sisi siyo ⟨wa jinasi yetu⟩; tumekuwa taifa lake, na kundi la kondoo wa malisho yake.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "jueni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "alitufanya tuko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na sisi siyo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "taifa lake"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "na kundi la kondoo"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "wa malisho yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:04.272177268Z",
+  "model": "glm-5.2"
+}

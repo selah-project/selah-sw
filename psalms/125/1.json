@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 125,
+  "translation": "Wimbo wa ngazi. Wanaotegemea Yahweh ni kama mlima Tsiyoni — hauitikisiki, ⟨hudumu⟩ milele.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wa ngazi"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "wanaotegemea"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "kama mlima"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hau"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "itikisiki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨hudumu⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:33.042738988Z",
+  "model": "glm-5.2"
+}

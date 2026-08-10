@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Hatatabadilisha wala hatamgeuza ⟨אתו⟩ — jema kwa baya au baya kwa jema. Na ikiwa atamgeuza mnyama kwa mnyama, basi yeye na badala yake vitakuwa takatifu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "tabadilisha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hata"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "mgeuza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mnyama"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jema"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "kwa baya"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "רע",
+      "gloss": "baya"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "kwa jema"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "המר",
+      "gloss": "atamgeuza"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "geuza"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mnyama"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "kwa mnyama"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "basi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "na badala yake"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "vitakuwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "takatifu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:36:31.979200094Z",
+  "model": "glm-5.2"
+}

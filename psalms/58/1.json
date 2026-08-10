@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 58,
+  "translation": "Kwa mwongoza. Usiharibu. Ya David. Michtam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwongoza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Usiharibu"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": ""
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Ya David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Michtam"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:03.943146043Z",
+  "model": "glm-5.2"
+}

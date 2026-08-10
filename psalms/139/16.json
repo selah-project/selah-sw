@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 139,
+  "translation": "Kiumbe changu kisichokamilika macho yako yalikiona, na katika kitabu chako vyote vimeandikwa; siku zilizopangwa zimembwa, na bado hakuna hata mmoja wapo.",
+  "tokens": [
+    {
+      "surface": "גָּלְמִ֤י",
+      "gloss": "Kiumbe changu kisichokamilika"
+    },
+    {
+      "surface": "רָא֘וּ",
+      "gloss": "yaliona"
+    },
+    {
+      "surface": "עֵינֶ֗יךָ",
+      "gloss": "macho yako"
+    },
+    {
+      "surface": "וְעַֽל",
+      "gloss": "na katika"
+    },
+    {
+      "surface": "סִפְרְךָ֮",
+      "gloss": "kitabu chako"
+    },
+    {
+      "surface": "כֻּלָּ֪ם",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "יִכָּ֫תֵ֥בוּ",
+      "gloss": "vimeandikwa"
+    },
+    {
+      "surface": "יָמִ֥ים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "יֻצָּ֑רוּ",
+      "gloss": "zilizopangwa zimembwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na bado hakuna"
+    },
+    {
+      "surface": "אֶחָ֣ד",
+      "gloss": "hata mmoja"
+    },
+    {
+      "surface": "בָּהֶֽם",
+      "gloss": "wapo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:12.926536503Z",
+  "model": "glm-5.2"
+}

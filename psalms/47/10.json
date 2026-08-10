@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 47,
+  "translation": "Wakuu wa mataifa wamekusanyika, ⟨ni⟩ watu wa Mungu wa Avraham; kwa maana ngao za nchi ni za Elohim, ameinuliwa sana.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "Wakuu wa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "wamekusanyika"
+    },
+    {
+      "surface": "עם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "wa Mungu wa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ni za Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ngao za"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "ameinuliwa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:42.408463129Z",
+  "model": "glm-5.2"
+}

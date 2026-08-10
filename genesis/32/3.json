@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 32:3",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Na Yaakov akasema, alipowaona, ⟨hii ni⟩ kambi ya Elohim. Naye akaiita jina la mahali pale Mahanaim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "alipo"
+    },
+    {
+      "surface": "ראם",
+      "gloss": "waona"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kambi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Naye akaiita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "la mahali"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "pale"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Mahanaim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:10:31.616265945Z",
+  "model": "glm-5.2"
+}

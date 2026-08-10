@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 114,
+  "translation": "Milima, mlikuachipia kama stroo? Na vilima kama wana wa kundi?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "milima"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "mlikuachipia"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "kama stroo"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "vilima"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "kama wana wa"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kundi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:46.250859052Z",
+  "model": "glm-5.2"
+}

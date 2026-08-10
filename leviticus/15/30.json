@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Na hakkohen atafanya ⟨את⟩ moja kuwa dhabihu ya dhambi na ⟨את⟩ moja kuwa dhabihu ya kuchomwa, na hakkohen atafuta msamaha kwa ajili yake mbele za Yahweh, kwa sababu ya mtiririko wa unajisi wake.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Na atafanya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "hakkohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moja"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "kuwa dhabihu ya dhambi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "moja"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kuwa dhabihu ya kuchomwa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "na atafuta msamaha"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kwa ajili yake"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "hakkohen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "mtiririko"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "wa unajisi wake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:54:07.250539Z",
+  "model": "glm-5.2"
+}

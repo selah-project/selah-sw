@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Hao ⟨ndio⟩ kwa magari, na hao ⟨ndio⟩ kwa farasi; lakini sisi katika jina la Yahweh Elohim wetu hutaja",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "hao"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "kwa magari"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "na hao"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "kwa farasi"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "lakini sisi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "katika jina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "hutaja"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:36.596409079Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Kwa sababu hiyo ⟨ndiyo sababu⟩ mwanaume atamwacha baba yake na mama yake, na atamwishia mke wake, na watakuwa mwili mmoja.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "sababu hiyo"
+    },
+    {
+      "surface": "יַֽעֲזָב",
+      "gloss": "atamwacha"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "mwanaume"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "baba yake"
+    },
+    {
+      "surface": "אָבִיו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mama yake"
+    },
+    {
+      "surface": "אִמּוֹ",
+      "gloss": "mama yake"
+    },
+    {
+      "surface": "וְדָבַק",
+      "gloss": "na atamwishia"
+    },
+    {
+      "surface": "בְּאִשְׁתּוֹ",
+      "gloss": "mke wake"
+    },
+    {
+      "surface": "וְהָיוּ",
+      "gloss": "na watakuwa"
+    },
+    {
+      "surface": "לְבָשָׂר",
+      "gloss": "mwili"
+    },
+    {
+      "surface": "אֶחָד",
+      "gloss": "mmoja"
+    }
+  ],
+  "timestamp": "2026-08-10T17:40:10.183265692Z",
+  "model": "glm-5.2"
+}

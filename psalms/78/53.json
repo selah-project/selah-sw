@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Akawaongoza kwa usalama, wala hawakuogopa, na bahari ilifunika ⟨את⟩ maadui zao.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Akawaongoza"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "kwa usalama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hawaku"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ogopa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maadui zao"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "maadui zao"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ilifunika"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahari"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:43.985473142Z",
+  "model": "glm-5.2"
+}

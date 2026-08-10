@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Si kwa wafalme, E Lemueli, si kwa wafalme kunywa divai, wala kwa wakuu ⟨⟨kutafuta⟩⟩ kileo;",
+  "tokens": [
+    {
+      "surface": "אַ֤ל",
+      "gloss": "Si"
+    },
+    {
+      "surface": "לַֽמְלָכִ֨ים",
+      "gloss": "kwa wafalme"
+    },
+    {
+      "surface": "לְֽמוֹאֵ֗ל",
+      "gloss": "E Lemueli"
+    },
+    {
+      "surface": "אַ֣ל",
+      "gloss": "si"
+    },
+    {
+      "surface": "לַֽמְלָכִ֣ים",
+      "gloss": "kwa wafalme"
+    },
+    {
+      "surface": "שְׁתוֹ",
+      "gloss": "kunywa"
+    },
+    {
+      "surface": "יָ֑יִן",
+      "gloss": "divai"
+    },
+    {
+      "surface": "וּ֝לְרוֹזְנִ֗ים",
+      "gloss": "wala kwa wakuu"
+    },
+    {
+      "surface": "אוֹ",
+      "gloss": "⟨kutafuta⟩"
+    },
+    {
+      "surface": "שֵׁכָֽר",
+      "gloss": "kileo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:32:59.041585500Z",
+  "model": "glm-5.2"
+}

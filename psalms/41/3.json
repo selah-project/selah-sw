@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Yahweh atamlinda na kumhuisha; atabarikiwa katika nchi, na usimkabidhi kwa nafsi ya maadui zake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "atamlinda"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "na kumhuisha"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "atabarikiwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na usi"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "mkabidhi"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "kwa nafsi"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ya maadui zake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:06.527286400Z",
+  "model": "glm-5.2"
+}

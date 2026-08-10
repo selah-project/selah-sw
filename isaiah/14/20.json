@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Hutakuunganishwa nao katika maziko, kwa sababu nchi yako umeiharibu, taifa lako umeliuawa; haitaitwa milele mbegu ya watenda-mabaya",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hu"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "takuunganishwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nao"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "katika maziko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "nchi yako"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "umeiharibu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "taifa lako"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "umeliuawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "itaitwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbegu"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ya watenda-mabaya"
+    }
+  ],
+  "timestamp": "2026-08-10T11:57:14.453185778Z",
+  "model": "glm-5.2"
+}

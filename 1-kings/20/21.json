@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na mfalme wa Yisrael akatoka, akapiga ⟨את⟩ farasi na ⟨את⟩ magari, akapiga Aramu kwa mapigo makubwa.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "na akatoka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akapiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "farasi"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "farasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "magari"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "magari"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "akapiga"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "mapigo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "makubwa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:44:20.427067056Z",
+  "model": "glm-5.2"
+}

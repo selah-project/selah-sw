@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 103,
+  "translation": "Bariki, nafsi yangu, ⟨את⟩ Yahweh, wala usisahau faida zake zote.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "bariki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wala usi-"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "sahau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "faida zake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:59.075156346Z",
+  "model": "glm-5.2"
+}

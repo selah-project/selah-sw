@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 150,
+  "translation": "Kila ⟨nafsi yenye⟩ pumzi na imsifu Yah, hallelu-Yah!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kila"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "⟨nafsi yenye⟩ pumzi"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "na imsifu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:19.014599340Z",
+  "model": "glm-5.2"
+}

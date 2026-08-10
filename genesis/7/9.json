@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "wawili wawili waliingia kwa Noach, kwenye safina, dume na jike, kama vile alivyoagiza Elohim ⟨את⟩ Noach.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "באו",
+      "gloss": "waliingia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "safina"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "dume"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "na jike"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama vile"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alivyoagiza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    }
+  ],
+  "timestamp": "2026-08-10T14:23:00.913078766Z",
+  "model": "glm-5.2"
+}

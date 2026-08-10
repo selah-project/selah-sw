@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Kwa kuwa uovu wangu ⟨nita⟩tangaza, nina huzuni kwa dhambi yangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "uovu wangu"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "⟨nita⟩tangaza"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "nina huzuni"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "kwa dhambi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:00.093564923Z",
+  "model": "glm-5.2"
+}

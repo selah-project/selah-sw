@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "Kwa kuwa wewe Elohim wa boma langu, kwa nini umenikataa? Kwa nini nahemba ninatembea chini ya dhulma ya adui?",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אַתָּ֤ה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "אֱלֹהֵ֣י",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מָֽעוּזִּי֮",
+      "gloss": "wa boma langu"
+    },
+    {
+      "surface": "לָמָ֪ה",
+      "gloss": "kwa nini"
+    },
+    {
+      "surface": "זְנַ֫חְתָּ֥נִי",
+      "gloss": "umenikataa"
+    },
+    {
+      "surface": "לָֽמָּה",
+      "gloss": "kwa nini"
+    },
+    {
+      "surface": "קֹדֵ֥ר",
+      "gloss": "nahemba"
+    },
+    {
+      "surface": "אֶתְהַלֵּ֗ךְ",
+      "gloss": "ninatembea"
+    },
+    {
+      "surface": "בְּלַ֣חַץ",
+      "gloss": "chini ya dhulma"
+    },
+    {
+      "surface": "אוֹיֵֽב",
+      "gloss": "ya adui"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:36.193144322Z",
+  "model": "glm-5.2"
+}

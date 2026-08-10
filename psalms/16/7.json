@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Nitambariki ⟨את⟩ Yahweh ambaye amenishauri; naam, hata usiku figo zangu zinanifundisha.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Nitambariki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "amenishauri"
+    },
+    {
+      "surface": "אף",
+      "gloss": "naam"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "zinanifundisha"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "figo zangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:24.379486420Z",
+  "model": "glm-5.2"
+}

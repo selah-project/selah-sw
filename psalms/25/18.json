@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Tazama shida yangu na taabu yangu, na msamehe dhambi zangu zote.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "shida yangu"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "na taabu yangu"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "na (msamehe)"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "dhambi zangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:27.970385184Z",
+  "model": "glm-5.2"
+}

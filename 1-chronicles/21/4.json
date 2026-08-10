@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Lakini neno la mfalme lilikuwa ngumu ⟨kwa⟩ Yoabu. Yoabu akatoka, akatembea katika Yisra'el yote, akafika Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "na neno"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "la mfalme"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ilikuwa ngumu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "akatoka"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "akatembea"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akafika"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T14:10:12.265428034Z",
+  "model": "glm-5.2"
+}

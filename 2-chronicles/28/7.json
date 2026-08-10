@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Zikri, shujaa wa Efrayimu, aliuwa ⟨את⟩ Maaseyahu mwana wa mfalme, na ⟨את⟩ Azrikamu mkuu wa nyumba, na ⟨את⟩ Elkanahu wa pili kwa mfalme.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "aliuwa"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "shujaa wa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maaseyahu"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maaseyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Azrikamu"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikamu"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "mkuu wa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Elkanahu"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanahu"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "wa pili kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T14:18:28.585716035Z",
+  "model": "glm-5.2"
+}

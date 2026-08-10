@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Nyama yangu inasimama kwa nguvu kuficha kutokana na woga wako, nami naogopa hukumu zako.",
+  "tokens": [
+    {
+      "surface": "סָמַ֣ר",
+      "gloss": "inasimama kwa nguvu kuficha"
+    },
+    {
+      "surface": "מִפַּחְדְּךָ֣",
+      "gloss": "kutokana na woga wako"
+    },
+    {
+      "surface": "בְשָׂרִ֑י",
+      "gloss": "nyama yangu"
+    },
+    {
+      "surface": "וּֽמִמִּשְׁפָּטֶ֥יךָ",
+      "gloss": "nami naogopa hukumu zako"
+    },
+    {
+      "surface": "יָרֵֽאתִי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:41.526813527Z",
+  "model": "glm-5.2"
+}

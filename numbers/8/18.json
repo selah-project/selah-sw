@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Nami nikawachukua ⟨את⟩ Walawi badala ya kila mzaliwa wa kwanza katika wana wa Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "nami nikawachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Walawi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Walawi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "badala ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "mzaliwa wa kwanza"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "katika wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-10T14:38:07.512043861Z",
+  "model": "glm-5.2"
+}

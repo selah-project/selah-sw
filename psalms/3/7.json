@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Sitakiwa kuogopa mamilioni ya watu, ambao pande zote wamejipanga dhidi yangu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Si"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "takiwa kuogopa"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "mamilioni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya watu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "pande zote"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "wamejipanga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dhidi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:26.659517020Z",
+  "model": "glm-5.2"
+}

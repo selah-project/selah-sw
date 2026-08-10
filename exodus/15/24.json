@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Wakaomba wale watu kwa Moshe, wakisema: \"Tutanipa nini tunywe?\"",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "wakaomba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wale watu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wakisema"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "tutanipa tunywe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:21:35.073326339Z",
+  "model": "glm-5.2"
+}

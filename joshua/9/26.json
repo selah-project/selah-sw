@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Akawafanyia hivyo, akawaokoa ⟨אתם⟩ katika mkono wa wana wa Yisra'el, wala hawakuwaua.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akawafanyia"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hivyo"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "akawaokoa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wao (WaGiboni)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "katika mkono"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hawaku"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "waua"
+    }
+  ],
+  "timestamp": "2026-08-10T11:06:28.985964139Z",
+  "model": "glm-5.2"
+}

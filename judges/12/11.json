@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Baada yake Eiloni Mzabuloni akawahukumu ⟨את⟩ Yisrael, naye akawahukumu ⟨את⟩ Yisrael miaka kumi.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "akawahukumu"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "baada yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Eiloni"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "Mzabuloni"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "akawahukumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    }
+  ],
+  "timestamp": "2026-08-10T11:16:10.125929936Z",
+  "model": "glm-5.2"
+}

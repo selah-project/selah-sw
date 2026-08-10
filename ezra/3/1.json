@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Mwezi wa saba ulipofika, ⟨na⟩ wana wa Yisra'eli walikuwa katika miji, basi watu walikusanyika kama mtu mmoja huko Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "ulipofika"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mwezi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wa saba"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "katika miji"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "wakikusanyika"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kama mtu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huko"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T13:57:04.491326041Z",
+  "model": "glm-5.2"
+}

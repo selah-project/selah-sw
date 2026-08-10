@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 88,
+  "translation": "Mimi ni mnyonge, naye mimi nakufa; tokea ujana langu nalichukua taabu zako — nasinzia.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "mnyonge"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi nami"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "nakufa"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "tokea ujana"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nalichukua"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "taabu zako"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "nasinzia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:19.989074318Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Torah alituamrisha Moshe, urithi wa makusanyiko ya Ya'akov.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alituamrisha"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "urithi"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "wa makusanyiko"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Ya'akov"
+    }
+  ],
+  "timestamp": "2026-08-10T14:44:22.837955059Z",
+  "model": "glm-5.2"
+}

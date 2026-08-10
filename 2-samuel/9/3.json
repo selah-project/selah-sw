@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 9:3",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na mfalme akasema: Je, hakuna tena mtu kwa nyumba ya Shaul, ili niifanyie naye chesed cha Elohim? Naye Tsiba akamwambia mfalme: Bado ⟨kuna⟩ mwana wa Yehonatan, mwenye kupigwa miguu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "האפס",
+      "gloss": "Je, hakuna"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kwa nyumba ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ili niifanyie"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "cha Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Naye akasema"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Bado"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨kuna⟩ mwana"
+    },
+    {
+      "surface": "ליהונתן",
+      "gloss": "wa Yehonatan"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "mwenye kupigwa"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "miguu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:30:41.599236562Z",
+  "model": "glm-5.2"
+}

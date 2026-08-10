@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "katika giza jingine, jioni ya siku, katika giza kuu la usiku na giza.",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "katika giza jingine"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "jioni"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ya siku"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "katika giza kuu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "la usiku"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "na giza"
+    }
+  ],
+  "timestamp": "2026-08-10T15:31:30.515628088Z",
+  "model": "glm-5.2"
+}

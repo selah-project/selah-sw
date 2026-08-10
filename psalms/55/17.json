@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 55,
+  "translation": "Mimi kwenda Elohim nitaomba, na Yahweh ataokoa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nitaomba"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "ataokoa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:31.972000837Z",
+  "model": "glm-5.2"
+}

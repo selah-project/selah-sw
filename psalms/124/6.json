@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 124,
+  "translation": "Abarikiwa Yahweh, ambaye hatukupa ⟨sisi⟩ kuwa mawindo kwa meno yao.",
+  "tokens": [
+    {
+      "surface": "בָּר֥וּךְ",
+      "gloss": "abarikiwa"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שֶׁלֹּ֥א",
+      "gloss": "ambaye hatu"
+    },
+    {
+      "surface": "נְתָנָ֥נוּ",
+      "gloss": "kupa"
+    },
+    {
+      "surface": "טֶ֝֗רֶף",
+      "gloss": "kuwa mawindo"
+    },
+    {
+      "surface": "לְשִׁנֵּיהֶֽם",
+      "gloss": "kwa meno yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:57.641219348Z",
+  "model": "glm-5.2"
+}

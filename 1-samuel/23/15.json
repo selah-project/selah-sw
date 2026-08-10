@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Naye David akaona kwamba Shaul ameondoka kutafuta ⟨את⟩ uhai wake; naye David ⟨alikuw⟩ jangwani mwa Zifu, kwenye msitu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "naye akaona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ameondoka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kutafuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uhai wake"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "uhai wake"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "naye David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "jangwani mwa"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zifu"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "kwenye msitu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:53:37.545164247Z",
+  "model": "glm-5.2"
+}

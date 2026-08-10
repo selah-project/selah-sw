@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Wana wa Shem ⟨ni⟩ Elam na Ashur na Arpakshad na Lud na Aram.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "Wana"
+    },
+    {
+      "surface": "שֵׁ֖ם",
+      "gloss": "wa Shem"
+    },
+    {
+      "surface": "עֵילָ֣ם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "וְאַשּׁ֑וּר",
+      "gloss": "na Ashur"
+    },
+    {
+      "surface": "וְאַרְפַּכְשַׁ֖ד",
+      "gloss": "na Arpakshad"
+    },
+    {
+      "surface": "וְל֥וּד",
+      "gloss": "na Lud"
+    },
+    {
+      "surface": "וַֽאֲרָֽם",
+      "gloss": "na Aram"
+    }
+  ],
+  "timestamp": "2026-08-10T14:23:39.260355781Z",
+  "model": "glm-5.2"
+}

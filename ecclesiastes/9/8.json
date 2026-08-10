@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Wakati wowote nguo zako ziwe nyeupe, na mafuta yasisitoshwe juu ya kichwa chako.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "wakati wowote"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ziwe"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "nguo zako"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "nyeupe"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "kichwa chako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yasi"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "sitoshwe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:47:31.346460574Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Kwa sababu hawakuamini katika Elohim, wala hawakutegemea ⟨katika⟩ wokovu wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa sababu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "kuamini"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "katika Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hawa"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "kutegemea"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "wokovu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:48.479578136Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Na waone aibu na waashindwe pamoja wanaotafuta nafsi yangu kuiharibu; warudi nyuma na wafedheheshwe wenye kufurahia maovu yangu.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Na waone aibu"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "na waashindwe"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "wanaotafuta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "kuiharibu"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "warudi nyuma"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "⟨nyuma⟩"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "na wafedhehezhwe"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "wenye kufurahia"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "maovu yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:58.122321340Z",
+  "model": "glm-5.2"
+}

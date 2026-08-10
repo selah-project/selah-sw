@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na Yoqtan alimzaa ⟨את⟩ Almodad, na ⟨את⟩ Shelef, na ⟨את⟩ Chatsarmavet, na ⟨את⟩ Yerach.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "Na Yoqtan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Chatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yerach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerach"
+    }
+  ],
+  "timestamp": "2026-08-10T14:23:44.577643125Z",
+  "model": "glm-5.2"
+}

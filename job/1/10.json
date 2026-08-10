@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Je, si wewe uliyemzingira yeye na nyumba yake na kila kitu chake kwa njia ya uondo pande zote? Kazi ya mikono yake umbariki, na mifugo yake imeenea katika nchi.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Je, si"
+    },
+    {
+      "surface": "את",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "uliyemzingira"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chake"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "pande zote"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ya mikono yake"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "umbariki"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "na mifugo yake"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "imeenea"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:31:22.260804694Z",
+  "model": "glm-5.2"
+}

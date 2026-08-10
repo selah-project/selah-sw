@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Wakasema: Hujatudhulumu, wala hujatukandamiza, wala hukuchukua chochote kutoka mkononi wa mtu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Wakasema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Hujatudhulumu"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "Hujatudhulumu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "hujatukandamiza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "hukuchukua"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kutoka mkononi"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "wa mtu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:00:48.153721683Z",
+  "model": "glm-5.2"
+}

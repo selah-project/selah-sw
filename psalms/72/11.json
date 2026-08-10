@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 72,
+  "translation": "Na watakusujudia wafalme wote; mataifa yote watamtumikia.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "na watakusujudia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "watamtumikia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:59.482843237Z",
+  "model": "glm-5.2"
+}

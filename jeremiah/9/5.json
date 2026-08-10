@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Makao yako yamo katikati ya udanganyifu; kwa udanganyifu wamekataa kumjua ⟨את⟩ neno la Yahweh.",
+  "tokens": [
+    {
+      "surface": "שִׁבְתְּךָ֖",
+      "gloss": "Makao yako"
+    },
+    {
+      "surface": "בְּת֣וֹךְ",
+      "gloss": "katikati ya"
+    },
+    {
+      "surface": "מִרְמָ֑ה",
+      "gloss": "udanganyifu"
+    },
+    {
+      "surface": "בְּמִרְמָ֛ה",
+      "gloss": "kwa udanganyifu"
+    },
+    {
+      "surface": "מֵאֲנ֥וּ",
+      "gloss": "wamekataa"
+    },
+    {
+      "surface": "דַֽעַת",
+      "gloss": "kumjua"
+    },
+    {
+      "surface": "אוֹתִ֖י",
+      "gloss": "⟨את⟩",
+      "marks": "neno la"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "neno la"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T12:12:47.264913435Z",
+  "model": "glm-5.2"
+}

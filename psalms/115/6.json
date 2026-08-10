@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 115,
+  "translation": "Masikio ⟨kina⟩ yao, wala hawasikii; pua ⟨kina⟩ yao, wala hawatoni.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "masikio"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "hawasikii"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pua"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "hawatoni"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:48.294278663Z",
+  "model": "glm-5.2"
+}

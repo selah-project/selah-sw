@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Mwangu, ikiwa utaipokea ⟨את⟩ maneno yangu na ⟨את⟩ amri zangu utazihifadhi ⟨pamoja⟩ na wewe,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwangu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "utaipokea"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "maneno yangu"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "na amri zangu"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "utazihifadhi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "pamoja na wewe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:22:46.923378205Z",
+  "model": "glm-5.2"
+}

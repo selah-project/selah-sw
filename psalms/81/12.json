@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 81,
+  "translation": "Lakini taifa langu halikusikiliza sauti yangu, wala Yisra'el hakutaka ⟨kuwa⟩ nami.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Lakini ⟨si⟩"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "haliku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "taifa langu"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "sauti yangu"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "wala Yisra'el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haku"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "taka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨kuwa⟩ nami"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:21.754267144Z",
+  "model": "glm-5.2"
+}

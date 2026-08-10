@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Hadi wakati wa kuja neno lake, neno la Yahweh lilimchambua.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "Hadi"
+    },
+    {
+      "surface": "עֵ֥ת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "בֹּֽא",
+      "gloss": "wa kuja"
+    },
+    {
+      "surface": "דְבָר֑וֹ",
+      "gloss": "neno lake"
+    },
+    {
+      "surface": "אִמְרַ֖ת",
+      "gloss": "neno la"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְרָפָֽתְהוּ",
+      "gloss": "lilimchambua"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:51.010334055Z",
+  "model": "glm-5.2"
+}

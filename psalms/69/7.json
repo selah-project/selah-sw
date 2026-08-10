@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Wasione aibu kwa ajili yangu wanaotegemea wewe, Adonai, Yahweh wa majeshi; wasione aibu kwa ajili yangu wanaokutafuta wewe, Elohim wa Yisrael.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "was"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "sione aibu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kwa ajili yangu"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "wanaotegemea wewe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wa majeshi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "was"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "sione aibu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kwa ajili yangu"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "wanaokutafuta wewe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:57.130308823Z",
+  "model": "glm-5.2"
+}

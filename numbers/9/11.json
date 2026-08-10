@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Siku ya kumi na nne, mwezi wa pili, kati ya jioni watamfanya ⟨אתו⟩; kwa mikate isiyotiwa chachu na mimea ya uchungu watamla.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "mwezi wa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "pili"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "kwa nne"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "jioni"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "watamfanya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Pasaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mikate isiyotiwa chachu"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "na mimea ya uchungu"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "watamla"
+    }
+  ],
+  "timestamp": "2026-08-10T10:43:17.972965166Z",
+  "model": "glm-5.2"
+}

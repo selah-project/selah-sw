@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Na jistarehe ∖furahia⟩ ndani ya Yahweh, naye atakupa maombi ya moyo wako.",
+  "tokens": [
+    {
+      "surface": "וְהִתְעַנַּ֥ג",
+      "gloss": "Na jistarehe ⟩furahia⟩"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "ndani ya"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְיִֽתֶּן",
+      "gloss": "naye atakupa"
+    },
+    {
+      "surface": "לְ֝ךָ֗",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מִשְׁאֲלֹ֥ת",
+      "gloss": "maombi"
+    },
+    {
+      "surface": "לִבֶּֽךָ",
+      "gloss": "ya moyo wako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:43.612052673Z",
+  "model": "glm-5.2"
+}

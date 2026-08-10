@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Yahweh Elohai, ndani yako nimejificha; niokoe kutoka kwa wote wanaonifuatilia, na uniokoe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ndani yako"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nimejificha"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "niokoe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kutoka kwa wote"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "wanaonifuatilia"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "na uniokoe"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:27.460501890Z",
+  "model": "glm-5.2"
+}

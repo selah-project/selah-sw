@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "miji yote ⟨ya⟩ uwazi, na Giljadi yote, na Bashani yote, mpaka Salcah na Edrei, miji ⟨ya⟩ ufalme wa Ogi katika Bashani.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miji"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "⟨ya⟩ uwazi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yote"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giljadi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yote"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salcah"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "na Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miji"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "⟨ya⟩ ufalme"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "wa Ogi"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "katika Bashani"
+    }
+  ],
+  "timestamp": "2026-08-10T14:41:55.155024452Z",
+  "model": "glm-5.2"
+}

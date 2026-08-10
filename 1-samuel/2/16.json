@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 2:16",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na mtu akamwambia: Fukiza mafuta kwanza kama leo, kisha jichukulie kadiri nafsi yako itakavyo. Lakini yule akamwambia: La, sasa ndiyo utanipa, na kama la, nimekichukua kwa nguvu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akamwambia"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yule"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "fukiza"
+    },
+    {
+      "surface": "יקטירון",
+      "gloss": "wafukize"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kama leo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "kisha jichukulie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa ajili yako"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kadiri"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "itakavyo"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nafsi yako"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "lakini akasema"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "utanipa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na kama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "la"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "nimekichukua"
+    },
+    {
+      "surface": "בחזקה",
+      "gloss": "kwa nguvu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:50:58.318310847Z",
+  "model": "glm-5.2"
+}

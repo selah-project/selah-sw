@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Je, ungali linasukumwa na upepo unaliogofya? Na ⟨את⟩ majani makavu unayafukuza?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "ungali"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "linasukumwa na upepo"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "unaliogofya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "majani makavu"
+    },
+    {
+      "surface": "קש",
+      "gloss": "majani makavu"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "makavu"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "unayafukuza"
+    }
+  ],
+  "timestamp": "2026-08-10T13:34:01.518918297Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Kutangaza katika Tzioni jina la Yahweh, na sifa zake katika Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "kutangaza"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "katika Tzioni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "na sifa zake"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "katika Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:22.089178418Z",
+  "model": "glm-5.2"
+}

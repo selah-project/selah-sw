@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Ni jema kwangu niliopata shida, ili nipate kujifunza amri zako.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ni jema"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu niliyopata shida"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": ""
+    },
+    {
+      "surface": "למען",
+      "gloss": "ili"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "nipate kujifunza"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "amri zako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:18.020186242Z",
+  "model": "glm-5.2"
+}

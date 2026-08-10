@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na Yitro mkwe wa Moshe akachukua ⟨את⟩ Tsiporah mke wa Moshe, baada ya kuwa amemtuma ⟨aliyemtuma⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "na akachukua"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "mkwe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiporah"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsiporah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mke"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "kuwa amemtuma"
+    }
+  ],
+  "timestamp": "2026-08-10T10:22:53.173865158Z",
+  "model": "glm-5.2"
+}

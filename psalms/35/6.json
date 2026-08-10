@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Njia yao iwe giza na utelezi, na mjumbe wa Yahweh awafuatilie.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "njia yao"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "giza"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "na utelezi"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "na mjumbe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "awafuatilie"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:58.394298990Z",
+  "model": "glm-5.2"
+}

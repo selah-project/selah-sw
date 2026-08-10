@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na akuvitia juu yake ⟨את⟩ kifua-cha; na akuvitia ndani ya kifua-cha ⟨את⟩ Urimi na ⟨את⟩ Tumimi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Na akuvitia"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kifua-cha"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "kifua-cha"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na akuvitia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndani ya"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "kifua-cha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urimi"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tumimi"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumimi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:06.707726443Z",
+  "model": "glm-5.2"
+}

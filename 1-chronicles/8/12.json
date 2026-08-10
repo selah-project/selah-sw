@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na wana wa Elpaali ni Everi na Mishami na Shamedi; yeye alijenga ⟨את⟩ Ono na ⟨את⟩ Lodi pamoja na vijiiji vyake.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "na wana wa"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaali"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Everi"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "na Mishami"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "na Shamedi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "alijenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Lodi"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lodi"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "pamoja na vijiiji vyake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:05:19.907596670Z",
+  "model": "glm-5.2"
+}

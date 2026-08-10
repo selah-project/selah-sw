@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na Shemu'el aliuhukumu ⟨את⟩ Yisra'el siku zote za maisha yake.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Na aliuhukumu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "siku zote"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "za"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "maisha yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:20:48.736082645Z",
+  "model": "glm-5.2"
+}

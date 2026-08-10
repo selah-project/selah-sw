@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na Aharoni na wana wake walitenda ⟨את⟩ maneno yote ambayo Yahweh aliamrishwa kwa mkono wa Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "na walitenda"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Na Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na wana wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aliamrishwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwa mkono"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moshe"
+    }
+  ],
+  "timestamp": "2026-08-10T15:53:43.660555627Z",
+  "model": "glm-5.2"
+}

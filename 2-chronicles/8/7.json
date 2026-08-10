@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "watu wote waliobaki miongoni mwa Wahiti, na Waamori, na Waperizi, na Wahivi, na Wayebusi, ambao hawaikuwa ⟨wao⟩ kutoka Yisraeli —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "waliobaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "miongoni mwa"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Wahiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "na Waamori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "na Waperizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "na Wahivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "na Wayebusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawaikuwa"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kutoka Yisraeli"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:45:05.927624006Z",
+  "model": "glm-5.2"
+}

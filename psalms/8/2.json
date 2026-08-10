@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Yahweh, Adonai wetu, ah, jina lako ni adiri kufikaaje katika nchi yote, ⟨ambaye⟩ umeweka utukufu wako juu ya mbingu!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai wetu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ah"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "adiri"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ambaye⟩"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "umeweka"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "utukufu wako"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:19.704269798Z",
+  "model": "glm-5.2"
+}

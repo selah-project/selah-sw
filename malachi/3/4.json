@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Nayo itakuwa tamu kwa Yahweh mnoffa wa Yehudah na wa Yerushalayim, kama siku za zamani na kama miaka ya awali.",
+  "tokens": [
+    {
+      "surface": "וְעָֽרְבָה֙",
+      "gloss": "nayo itakuwa tamu"
+    },
+    {
+      "surface": "לַֽיהוָ֔ה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "מִנְחַ֥ת",
+      "gloss": "mnoffa wa"
+    },
+    {
+      "surface": "יְהוּדָ֖ה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וִירֽוּשָׁלִָ֑ם",
+      "gloss": "na wa Yerushalayim"
+    },
+    {
+      "surface": "כִּימֵ֣י",
+      "gloss": "kama siku"
+    },
+    {
+      "surface": "עוֹלָ֔ם",
+      "gloss": "za zamani"
+    },
+    {
+      "surface": "וּכְשָׁנִ֖ים",
+      "gloss": "na kama miaka"
+    },
+    {
+      "surface": "קַדְמֹנִיּֽוֹת",
+      "gloss": "ya awali"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:10.812094311Z",
+  "model": "glm-5.2"
+}

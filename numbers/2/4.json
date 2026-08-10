@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na jeshi lake, na waliohesabiwa wao: elfu sabini na nne na mia sita.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Na jeshi lake"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "na waliohesabiwa wao"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "nne"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "sabini"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia sita"
+    }
+  ],
+  "timestamp": "2026-08-10T10:39:55.434202756Z",
+  "model": "glm-5.2"
+}

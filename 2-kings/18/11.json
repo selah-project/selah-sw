@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Mfalme wa Ashuru akawahamisha ⟨את⟩ Yisra'el hadi Ashuru, akawakaza Halah na Habor, mto wa Gozani, na miji ya Madhai.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "akawahamisha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "wa Ashuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "hadi Ashuru"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "akawakaza"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "Halah"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "na Habor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "mto"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "wa Gozani"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "na miji"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ya Madhai"
+    }
+  ],
+  "timestamp": "2026-08-10T15:02:23.411273293Z",
+  "model": "glm-5.2"
+}

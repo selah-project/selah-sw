@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 12:23",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Yahweh atapita kuwapiga ⟨את⟩ Mitsrayim, na kuona ⟨את⟩ damu juu ya mlingoti na juu ya mibao miwili ya upande, Yahweh atapita mlango, hatamruhusu mharibufu kuingia ndani ya nyumba zenu kuwapiga.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "atapita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "kuwapiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "na kuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "damu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "damu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "ya mlingoti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na juu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ya mibao miwili"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "ya upande"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "atapita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "mlango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hatamruhusu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kumruhusu"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "mharibufu"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "kuingia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndani ya"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "nyumba zenu"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "kuwapiga"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:29.565333619Z",
+  "model": "glm-5.2"
+}

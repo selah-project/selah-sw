@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Ninasema, Eloah wangu, usinipande katikati ya siku zangu; katika kizazi cha vizazi ⟨ni⟩ miaka yako.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ninasema"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eloah wangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "nipande"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "katikati ya"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "siku zangu"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "katika kizazi"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "cha vizazi"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "miaka yako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:08.817646630Z",
+  "model": "glm-5.2"
+}

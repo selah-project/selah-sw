@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Yahweh wa majeshi, Elohim wa Yisrael, unayeketi juu ya Makerubi, wewe ndiwe Elohim pekee, kwa ufalme wote wa nchi; wewe umefanya ⟨את⟩ mbingu na ⟨את⟩ nchi.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֨ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְבָא֜וֹת",
+      "gloss": "wa majeshi"
+    },
+    {
+      "surface": "אֱלֹהֵ֤י",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "יִשְׂרָאֵל֙",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יֹשֵׁ֣ב",
+      "gloss": "unayeketi"
+    },
+    {
+      "surface": "הַכְּרֻבִ֔ים",
+      "gloss": "juu ya Makerubi"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ה֤וּא",
+      "gloss": "ndiwe"
+    },
+    {
+      "surface": "הָֽאֱלֹהִים֙",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לְבַדְּךָ֔",
+      "gloss": "pekee"
+    },
+    {
+      "surface": "לְכֹ֖ל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מַמְלְכ֣וֹת",
+      "gloss": "ufalme wote"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "עָשִׂ֔יתָ",
+      "gloss": "umefanya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mbingu"
+    },
+    {
+      "surface": "הַשָּׁמַ֖יִם",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:03:36.099699052Z",
+  "model": "glm-5.2"
+}

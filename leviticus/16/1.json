@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Yahweh akamwambia Moshe, baada ya kufa kwamba wana wawili wa Aharon, wakimkaribia kuitegemea Yahweh, wakafa.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "wa Aharon"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "wakimkaribia"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kuitegemea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "wakafa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:14.917412360Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 10:14",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na ⟨את⟩ kifua cha kupeperushwa na ⟨את⟩ mguu wa kuinuliwa, mtakula mahali pa nadhifu; wewe na wana wako na binti zako ⟨pamoja⟩ nawe; kwa kuwa amri yako na amri ya wana wako zimepewa, kutokana na dhabihu za amani za wana wa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kifua"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "kifua"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "cha kupeperushwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mguu"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "mguu"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "wa kuinuliwa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mtakula"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pa nadhifu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "na wana wako"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "na binti zako"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "amri yako"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "na amri"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ya wana wako"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "zimepewa"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "kutokana na dhabihu"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "za amani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "za wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T14:34:21.522768608Z",
+  "model": "glm-5.2"
+}

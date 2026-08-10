@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "nikaandika katika hati, nikaweka muhuri, nikaitesha mashahidi, nikipima ⟨את⟩ fedha kwenye mizani.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "nikaandika"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "katika hati"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "nikaweka muhuri"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "nikaitesha"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "mashahidi"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "nikipima"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "kwenye mizani"
+    }
+  ],
+  "timestamp": "2026-08-10T12:19:40.088523717Z",
+  "model": "glm-5.2"
+}

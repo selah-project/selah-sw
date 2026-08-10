@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na Elohim akaona ⟨את⟩ wana wa Yisra'eli, na Elohim akajua.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Na akaona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana wa Yisra'eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'eli"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "na akajua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:16:44.149433490Z",
+  "model": "glm-5.2"
+}

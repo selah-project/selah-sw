@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Ghasia kwa baba yake ⟨ni⟩ mwana mpumbavu, na uchungu kwa mzalizaye.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "ghasia"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "kwa baba yake"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "mpumbavu"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "na uchungu"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "kwa mzalizaye"
+    }
+  ],
+  "timestamp": "2026-08-10T13:26:19.947646311Z",
+  "model": "glm-5.2"
+}

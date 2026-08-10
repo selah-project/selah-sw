@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Ni nani kama mwenye hekima, na nani anayejua tafsiri ya neno? Hekima ya mtu huiangazia uso wake, na nguvu za uso wake hubadilika.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "kama mwenye hekima"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na nani"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "anayejua"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "tafsiri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya neno"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hekima"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya mtu"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "huiangazia"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uso wake"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "na nguvu"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "za uso wake"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "hubadilika"
+    }
+  ],
+  "timestamp": "2026-08-10T15:38:09.947891456Z",
+  "model": "glm-5.2"
+}

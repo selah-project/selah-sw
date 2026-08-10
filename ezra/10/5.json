@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Ezra akaondoka, akawaapia ⟨את⟩ wakuu wa makuhani, walawi, na ⟨את⟩ wote Yisraeli, kufanya kulingana na neno hili; wakaapa.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akaondoka"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "akawaapia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wakuu wa makuhani, walawi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "wakuu wa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "makuhani"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "walawi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kufanya"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kulingana na neno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "wakaapa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:58:03.674432163Z",
+  "model": "glm-5.2"
+}

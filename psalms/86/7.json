@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 86,
+  "translation": "Siku ya dhiki yangu nitakuita, kwa kuwa weweutanibuwa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "dhiki yangu"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "nitakuita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "wewe utanibuwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:45.689193120Z",
+  "model": "glm-5.2"
+}

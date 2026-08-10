@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Mtatenda nini siku ya mkusanyiko, na siku ya sikukuu ya Yahweh?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mtatenda"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mkusanyiko"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "na siku ya"
+    },
+    {
+      "surface": "חג",
+      "gloss": "sikukuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T12:43:14.553069365Z",
+  "model": "glm-5.2"
+}

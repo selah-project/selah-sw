@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Kama moshi uangamivyofukuazwa, ndivyo utakavyowafukuaza; kama nta inavyyeyuka mbele ya moto, ndivyo wabaya wataangamia mbele za Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "Kama uangamivyofukuazwa"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "moshi"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "ndivyo utakavyowafukuaza"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "kama inavyyeyuka"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "nta"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "wataangamia"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wabaya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:27.580067172Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Bwana wangu aliuliza ⟨את⟩ watumwa wake, akisema: Je, mna baba au ndugu?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Bwana wangu"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "aliuliza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watumwa wake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumwa wake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Je mna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": ""
+    },
+    {
+      "surface": "אב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ndugu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:27:31.475320854Z",
+  "model": "glm-5.2"
+}

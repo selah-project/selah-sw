@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 22:5",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Je, si mbaya kubwa? Na hakuna mwisho kwa makosa yako.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Je, si"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "mbaya yako"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na hakuna"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "mwisho"
+    },
+    {
+      "surface": "לעונתיך",
+      "gloss": "kwa makosa yako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:34:11.736798061Z",
+  "model": "glm-5.2"
+}

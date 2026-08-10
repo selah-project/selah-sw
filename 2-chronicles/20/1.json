@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Ikawa baada ya haya, wakaja wana wa Moabu na wana wa Amoni, na pamoja nao ⟨baadhi ya⟩ waamoni, juu ya Yehoshafati, kwa vita.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "haya"
+    },
+    {
+      "surface": "באו",
+      "gloss": "wakaja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na wana wa"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "na pamoja nao"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "⟨baadhi ya⟩ waamoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kwa vita"
+    }
+  ],
+  "timestamp": "2026-08-10T16:29:27.304512060Z",
+  "model": "glm-5.2"
+}

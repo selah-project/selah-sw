@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Ndugu kumi za Yosef wakashuka kununua nafaka kutoka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "wakashuka"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ndugu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "za Yosef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kununua"
+    },
+    {
+      "surface": "בר",
+      "gloss": "nafaka"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kutoka Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T14:27:33.165318981Z",
+  "model": "glm-5.2"
+}

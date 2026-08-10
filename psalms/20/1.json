@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Kwa mwongozaji. Wimbo wa David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwongozaji"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:06.620973133Z",
+  "model": "glm-5.2"
+}

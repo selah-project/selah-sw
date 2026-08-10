@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 30:21",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na masikio yako yatasikia neno nyuma yako, ⟨yakisema⟩: Huu ndiyo njia, nendeni humu, iwapo mgeukia mkono wa kulia na iwapo mgeukia mkono wa kushoto.",
+  "tokens": [
+    {
+      "surface": "ואזניך",
+      "gloss": "na masikio yako"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "yatasikia"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "nyuma yako"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨yakisema⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "huu"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ndiyo njia"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "nendeni"
+    },
+    {
+      "surface": "בו",
+      "gloss": "humu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iwapo"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "mgeukia kulia"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "na iwapo"
+    },
+    {
+      "surface": "תשמאילו",
+      "gloss": "mgeukia kushoto"
+    }
+  ],
+  "timestamp": "2026-08-10T12:01:44.277575544Z",
+  "model": "glm-5.2"
+}

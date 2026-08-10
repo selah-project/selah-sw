@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 4:4",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Ubenthu mwana wa Yehoyada, juu ya jeshi; na Tsadoki na Evyathari, makuhani.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "Ubenthu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "jeshi"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "na Tsadoki"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "na Evyathari"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "makuhani"
+    }
+  ],
+  "timestamp": "2026-08-10T11:37:56.839568594Z",
+  "model": "glm-5.2"
+}

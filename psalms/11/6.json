@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "⟨Ata⟩nyesha juu ya wakosefu mitego, moto na sulfuri, na upepo wa vipuli vya joto — sehemu ya kikombe chao.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "⟨Ata⟩nyesha"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wakosefu"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "mitego"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "na sulfuri"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "na upepo"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "wa vipuli vya joto"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "sehemu"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "ya kikombe chao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:20.405774183Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Uovu hunyonyoa wenye dhambi, na kwenda ⟨את⟩ wenye haki hulipwa jema.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "wenye dhambi"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "hunyonyoa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wenye haki"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wenye haki"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "hulipwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jema"
+    }
+  ],
+  "timestamp": "2026-08-10T13:24:26.299620529Z",
+  "model": "glm-5.2"
+}

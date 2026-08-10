@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "⟨את⟩ sanduku na ⟨את⟩ fimbo zake, ⟨את⟩ kifuniko cha awamu, na ⟨את⟩ pazia la utazi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "fimbo zake"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "fimbo zake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kifuniko cha upatanisho"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kifuniko cha upatanisho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "pazia"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "pazia"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "la utazi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:31:49.417364050Z",
+  "model": "glm-5.2"
+}

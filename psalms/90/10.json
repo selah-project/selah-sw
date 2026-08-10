@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 90,
+  "translation": "Siku za miaka yetu ni ⟨ndani yake⟩ sabini miaka; na ikiwa katika nguvu themanini miaka — na kiburi chao ni taabu na ubatilifu; kwa maana ⟨hiyo⟩ inakatwa haraka, nasi tunaruka mbio.",
+  "tokens": [
+    {
+      "surface": "יְמֵֽי",
+      "gloss": "siku za"
+    },
+    {
+      "surface": "שְׁנוֹתֵ֨ינוּ",
+      "gloss": "miaka yetu"
+    },
+    {
+      "surface": "בָהֶ֥ם",
+      "gloss": "⟨ndani yake⟩"
+    },
+    {
+      "surface": "שִׁבְעִ֪ים",
+      "gloss": "sabini"
+    },
+    {
+      "surface": "שָׁנָ֡ה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "וְאִ֤ם",
+      "gloss": "na ikiwa"
+    },
+    {
+      "surface": "בִּגְבוּרֹ֨ת",
+      "gloss": "katika nguvu"
+    },
+    {
+      "surface": "שְׁמ֘וֹנִ֤ים",
+      "gloss": "themanini"
+    },
+    {
+      "surface": "שָׁנָ֗ה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "וְ֭רָהְבָּם",
+      "gloss": "na kiburi chao"
+    },
+    {
+      "surface": "עָמָ֣ל",
+      "gloss": "taabu"
+    },
+    {
+      "surface": "וָאָ֑וֶן",
+      "gloss": "na ubatilifu"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "גָ֥ז",
+      "gloss": "inakatwa"
+    },
+    {
+      "surface": "חִ֝֗ישׁ",
+      "gloss": "haraka"
+    },
+    {
+      "surface": "וַנָּעֻֽפָה",
+      "gloss": "nasi tunaruka mbio"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:04.487570776Z",
+  "model": "glm-5.2"
+}

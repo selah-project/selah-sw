@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 4:4",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na Hevel naye akazileta, yeye pia, mazaliya ya kwanza ya kondoo wake pamoja na mafuta yao. Na Yahweh akamtazama ⟨kwa kukubalika⟩ Hevel na toleo lake.",
+  "tokens": [
+    {
+      "surface": "והבל",
+      "gloss": "Na Hevel"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "akazileta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "מבכרות",
+      "gloss": "mazaliya ya kwanza"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "ya kondoo wake"
+    },
+    {
+      "surface": "ומחלבהן",
+      "gloss": "pamoja na mafuta yao"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "akamtazama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "kwa toleo lake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:55.997998001Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Kwa kuwa, ingaki huisha kutesa, ⟨hata hivyo⟩ atawahurumia kulingana na wingi wa chesed wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ingaki"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "huisha kutesa"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "⟨hata hivyo⟩ atawahurumia"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "kulingana na wingi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "wa chesed wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:44:22.870077388Z",
+  "model": "glm-5.2"
+}

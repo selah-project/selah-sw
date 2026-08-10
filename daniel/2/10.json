@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 2:10",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Wakajibu Wakasdi mbele ya mfalme na wakasema: Hakuna mtu juu ya nchi kavu ambaye maneno ya mfalme yaweza kuyaonyesha, kwa sababu yoyote mfalme mkuu na mwenye mamlaka neno kama hili hakuombi na lolote mchawi na mlegeu wa moto na Mkasdi.",
+  "tokens": [
+    {
+      "surface": "עֲנ֨וֹ",
+      "gloss": "Wakajibu"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "Wakasdi"
+    },
+    {
+      "surface": "קֳדָם",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "מַלְכָּא֙",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "וְאָ֣מְרִ֔ין",
+      "gloss": "na wakasema"
+    },
+    {
+      "surface": "לָֽא",
+      "gloss": "Hakuna"
+    },
+    {
+      "surface": "אִיתַ֤י",
+      "gloss": "⟨yupo⟩"
+    },
+    {
+      "surface": "אֲנָשׁ֙",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "יַבֶּשְׁתָּ֔א",
+      "gloss": "nchi kavu"
+    },
+    {
+      "surface": "דִּ֚י",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "מִלַּ֣ת",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "מַלְכָּ֔א",
+      "gloss": "ya mfalme"
+    },
+    {
+      "surface": "יוּכַ֖ל",
+      "gloss": "yaweza"
+    },
+    {
+      "surface": "לְהַחֲוָיָ֑ה",
+      "gloss": "kuyaonyesha"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "קֳבֵ֗ל",
+      "gloss": "yoyote"
+    },
+    {
+      "surface": "דִּ֚י",
+      "gloss": "⟨ambaye⟩"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "yoyote"
+    },
+    {
+      "surface": "מֶ֨לֶךְ֙",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "רַ֣ב",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "וְשַׁלִּ֔יט",
+      "gloss": "na mwenye mamlaka"
+    },
+    {
+      "surface": "מִלָּ֤ה",
+      "gloss": "neno"
+    },
+    {
+      "surface": "כִדְנָה֙",
+      "gloss": "kama hili"
+    },
+    {
+      "surface": "לָ֣א",
+      "gloss": "hakuombi"
+    },
+    {
+      "surface": "שְׁאֵ֔ל",
+      "gloss": "⟨chochote⟩"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "na"
+    },
+    {
+      "surface": "חַרְטֹּ֖ם",
+      "gloss": "mchawi"
+    },
+    {
+      "surface": "וְאָשַׁ֥ף",
+      "gloss": "na mlegeu wa moto"
+    },
+    {
+      "surface": "וְכַשְׂדָּֽי",
+      "gloss": "na Mkasdi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:51:10.773845036Z",
+  "model": "glm-5.2"
+}

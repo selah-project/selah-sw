@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "na ⟨את⟩ Mrvadi na ⟨את⟩ Mzemari na ⟨את⟩ Mhamathi; na baadaye vikunjulika familia za MKanaani.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mrvadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Mrvadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mzemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Mzemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mhamathi"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Mhamathi"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "na baadaye"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "vikunjulika"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "familia"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "za MKanaani"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:34.757457600Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Kwa kuwa kwa Yahweh ⟨ni⟩ ufalme, na yeye hutawala mataifa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ufalme"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "na yeye hutawala"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mataifa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:10.584979238Z",
+  "model": "glm-5.2"
+}

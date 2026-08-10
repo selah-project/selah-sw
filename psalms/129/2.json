@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 129,
+  "translation": "Mara nyingi wamenifedhehesha tangu ujana wangu, lakini hawakuweza juu yangu.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "mara nyingi"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "wamenifedhehesha"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "tangu ujana wangu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "lakini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kuweza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "juu yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:44.209065825Z",
+  "model": "glm-5.2"
+}

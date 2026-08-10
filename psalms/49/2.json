@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Sikilizeni hii, mataifa yote; toageni masikio, enyi wakaaji wote wa ⟨dunia⟩.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Sikilizeni"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "toageni masikio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wakaaji wa"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "⟨dunia⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:49.852345109Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Nayo hasira ya Yahweh ikawaka dhidi yao, akaondoka.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ikawaka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hasira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dhidi yao"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaondoka"
+    }
+  ],
+  "timestamp": "2026-08-10T14:37:41.547855569Z",
+  "model": "glm-5.2"
+}

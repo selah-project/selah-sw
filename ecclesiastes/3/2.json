@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Kipindi cha kuzaliwa, na kipindi cha kufa; kipindi cha kupanda, na kipindi cha kung'oa kilichopandwa.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "kipindi"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "cha kuzaliwa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na kipindi"
+    },
+    {
+      "surface": "למות",
+      "gloss": "cha kufa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "kipindi"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "cha kupanda"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na kipindi"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "cha kung'oa"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "kilichopandwa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:37:51.082870829Z",
+  "model": "glm-5.2"
+}

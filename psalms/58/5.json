@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 58,
+  "translation": "Sumu yao ⟨ni⟩ kama sumu ya nyoka, kama lufimwi bubu linalofunga sikio lake,",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "sumu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "yao"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "kama"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sumu"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ya nyoka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kama"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "lufimwi"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "bubu"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "linalofunga"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "sikio lake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:24.659061028Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Lakini nyama, pamoja na nafsi yake, damu yake — msile.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Lakini"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "pamoja na nafsi yake"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "damu yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "msi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-08-10T14:23:29.874672720Z",
+  "model": "glm-5.2"
+}

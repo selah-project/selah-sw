@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Akasema, \"Sikuchafua ⟨את⟩ Yisra'el, bali wewe na nyumba ya baba yako, kwa kuwa mmeacha ⟨את⟩ maagizo ya Yahweh, nanyi mkaenda nyuma ya mabaalimu.\"",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֗אמֶר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "sio"
+    },
+    {
+      "surface": "עָכַ֨רְתִּי֙",
+      "gloss": "nimewachafua"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "bali"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "ilikuwa"
+    },
+    {
+      "surface": "אַתָּ֖ה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "וּבֵ֣ית",
+      "gloss": "na nyumba"
+    },
+    {
+      "surface": "אָבִ֑יךָ",
+      "gloss": "ya baba yako"
+    },
+    {
+      "surface": "בַּֽעֲזָבְכֶם֙",
+      "gloss": "kwa kuwa mmeacha"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "maagizo"
+    },
+    {
+      "surface": "מִצְוֺ֣ת",
+      "gloss": "maagizo"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "וַתֵּ֖לֶךְ",
+      "gloss": "ukawa unaenda"
+    },
+    {
+      "surface": "אַחֲרֵ֥י",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "הַבְּעָלִֽים",
+      "gloss": "mabaalimu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:00:21.164097634Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Ongeza uovu juu ya uovu wao, na wasiingie katika haki yako.",
+  "tokens": [
+    {
+      "surface": "תְּֽנָה",
+      "gloss": "Ongeza"
+    },
+    {
+      "surface": "עָ֭וֺן",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "עֲוֺנָ֑ם",
+      "gloss": "uovu wao"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "na wasiingie"
+    },
+    {
+      "surface": "יָ֝בֹ֗אוּ",
+      "gloss": "← wasiingie"
+    },
+    {
+      "surface": "בְּצִדְקָתֶֽךָ",
+      "gloss": "katika haki yako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:39.035465115Z",
+  "model": "glm-5.2"
+}

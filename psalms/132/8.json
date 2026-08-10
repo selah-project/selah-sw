@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 132,
+  "translation": "Ondea, ee Yahweh, kwenye mahali pako pa kupumzika, wewe na sanduku la nguvu zako.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ondea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ee Yahweh"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "kwenye mahali pako pa kupumzika"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "na sanduku la"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "nguvu zako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:46.373903089Z",
+  "model": "glm-5.2"
+}

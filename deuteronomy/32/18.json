@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Mwamba ⟨aliyekuzaa⟩ ulimsahau, na kumsahau El ⟨aliyekuumba⟩.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "mwamba"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "aliyekuzaa"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "ulisahau"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "na kumsahau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "aliyekuumba"
+    }
+  ],
+  "timestamp": "2026-08-10T11:03:43.726859957Z",
+  "model": "glm-5.2"
+}

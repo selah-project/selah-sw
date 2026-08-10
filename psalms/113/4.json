@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 113,
+  "translation": "Ameinuliwa juu ya mataifa yote Yahweh, juu ya mbingu ⟨umo⟩ utukufu wake.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "ameinuliwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "⟨umo⟩ utukufu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:29.275801007Z",
+  "model": "glm-5.2"
+}

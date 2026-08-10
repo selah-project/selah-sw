@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Wakaweka miongoni mwao maneno ya alama zake, na miujiza katika nchi ya Cham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Wakaweka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "miongoni mwao"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "ya alama zake"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "na miujiza"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ya Cham"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:35.944251382Z",
+  "model": "glm-5.2"
+}

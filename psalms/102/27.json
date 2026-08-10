@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Hao watapotea, wewe ukiwa utasimama; na wote kama nguo watachakaa; kama mavazi utawabadilisha nao watabadilika.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Hao"
+    },
+    {
+      "surface": "י אבדו",
+      "gloss": "watapotea"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "utasimama"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "kama nguo"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "watachakaa"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "kama mavazi"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "utawabadilisha"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "nao watabadilika"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:08.818019620Z",
+  "model": "glm-5.2"
+}

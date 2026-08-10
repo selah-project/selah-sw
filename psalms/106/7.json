@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Baba zetu katika Mitsrayim hawakutia akilini miujiza yako; hawakukumbuka ⟨את⟩ wingi wa chesed zako; wakapiga ukomavu juu ya bahari, ⟨katika⟩ bahari ya Suph.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "baba zetu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "katika Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawaku"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "tia akilini"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "miujiza yako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawaku"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "kumbuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wingi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wingi"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "wa chesed zako"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "wakapiga ukomavu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "בים",
+      "gloss": "⟨katika⟩ bahari"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ya Suph"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:28.879549513Z",
+  "model": "glm-5.2"
+}

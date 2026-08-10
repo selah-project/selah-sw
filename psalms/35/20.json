@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Kwa maana hawaongei amani, na juu ya watu wa amani wa nchi, maneno ya udanganyifu wapanga.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "sio"
+    },
+    {
+      "surface": "שָׁל֗וֹם",
+      "gloss": "amani"
+    },
+    {
+      "surface": "יְדַ֫בֵּ֥רוּ",
+      "gloss": "wanaongea"
+    },
+    {
+      "surface": "וְעַ֥ל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "רִגְעֵי",
+      "gloss": "watu wa amani"
+    },
+    {
+      "surface": "אֶ֑רֶץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "דִּבְרֵ֥י",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "מִרְמֹות",
+      "gloss": "ya udanganyifu"
+    },
+    {
+      "surface": "יַחֲשֹׁבֽוּן",
+      "gloss": "wapanga"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:30.038721460Z",
+  "model": "glm-5.2"
+}

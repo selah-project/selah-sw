@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 38:11",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Nilisema: Sitamwona tena Yah, Yah, katika nchi ya wahaio; sitatazama tena binadamu pamoja na wakaazi wa ⟨kutulia⟩.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "nilisema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "tamuona tena"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ya wahaio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "tatazama tena"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "binadamu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wakaazi"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "⟨kutulia⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T15:06:54.178481232Z",
+  "model": "glm-5.2"
+}

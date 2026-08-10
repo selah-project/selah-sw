@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Kwa maana ⟨wewe⟩ ndilo mapambo ya nguvu zao, na kwa upendezako pembe yetu imeinuliwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "mapambo"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "ya nguvu zao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "na kwa upendezako"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "imeinuliwa"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "pembe yetu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:43.821963471Z",
+  "model": "glm-5.2"
+}

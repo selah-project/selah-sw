@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 49:3",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Re'uwen, mwanzo wa kuzaliwa kwangu, wewe ⟨ni⟩ nguvu yangu, na mwanzo wa nguvu yangu; ⟨ni⟩ wema wa heshima, na wema wa uwezo.",
+  "tokens": [
+    {
+      "surface": "רְאוּבֵן",
+      "gloss": "Re'uwen"
+    },
+    {
+      "surface": "בְּכֹרִי",
+      "gloss": "mwanzo wa kuzaliwa kwangu"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "כֹּחִי",
+      "gloss": "nguvu yangu"
+    },
+    {
+      "surface": "וְרֵאשִׁית",
+      "gloss": "na mwanzo wa"
+    },
+    {
+      "surface": "אוֹנִי",
+      "gloss": "nguvu yangu"
+    },
+    {
+      "surface": "יֶתֶר",
+      "gloss": "wema wa"
+    },
+    {
+      "surface": "שְׂאֵת",
+      "gloss": "heshima"
+    },
+    {
+      "surface": "וְיֶתֶר",
+      "gloss": "na wema wa"
+    },
+    {
+      "surface": "עָז",
+      "gloss": "uwezo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:51:01.957542686Z",
+  "model": "glm-5.2"
+}

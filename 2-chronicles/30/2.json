@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Basi mfalme akafanya shauri na wakuu wake na kusanyiko lote birushalayim, ili kufanya Pesach mwezi wa pili.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "akafanya shauri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "na wakuu wake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na lote"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kusanyiko"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "birushalayim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ili kufanya"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mwezi wa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "pili"
+    }
+  ],
+  "timestamp": "2026-08-10T15:47:05.950761251Z",
+  "model": "glm-5.2"
+}

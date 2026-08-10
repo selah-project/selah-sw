@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "Lakini wewe hukunisita, ee Ya'akov; bali wewe umechoka kwa ajili yangu, ee Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lakini si"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mimi"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ulisita"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ee Ya'akov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bali"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "umechoka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kwa ajili yangu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ee Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T15:07:19.565513485Z",
+  "model": "glm-5.2"
+}

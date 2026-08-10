@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Yahweh, okoa! Mfalme ⟨atie⟩ jibu siku tunapoita.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוֹשִׁ֑יעָה",
+      "gloss": "okoa!"
+    },
+    {
+      "surface": "הַ֝מֶּ֗לֶךְ",
+      "gloss": "Mfalme"
+    },
+    {
+      "surface": "יַעֲנֵ֥נוּ",
+      "gloss": "⟨atie⟩ jibu"
+    },
+    {
+      "surface": "בְיוֹם",
+      "gloss": "siku"
+    },
+    {
+      "surface": "קָרְאֵֽנוּ",
+      "gloss": "tunapoita"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:47.760253734Z",
+  "model": "glm-5.2"
+}

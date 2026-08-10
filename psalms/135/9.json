@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 135,
+  "translation": "Alipeleka ishara na miujiza katikati yako, ewe Mitsrayim, ⟨kwa⟩ Paroh na katika watumishi wake wote.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Alipeleka"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "ishara"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "na miujiza"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "katikati yako"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ewe Mitsrayim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "⟨kwa⟩ Paroh"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na katika wote"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumishi wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:08.760031141Z",
+  "model": "glm-5.2"
+}

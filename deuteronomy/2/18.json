@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Wewe unaipita leo ⟨את⟩ mpaka wa Moabu, ⟨את⟩ Ari.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "unaipita"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpaka wa Moabu"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "wa Moabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ari"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ari"
+    }
+  ],
+  "timestamp": "2026-08-10T10:53:10.782021490Z",
+  "model": "glm-5.2"
+}

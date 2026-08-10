@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Yahweh akayakataa yote ya kizazi cha Yisra'el, akawaudhi, akawatia katika mikono ya wanyang'anyi, hadi alipowatupa mbele za uso wake.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "akayakataa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ya kizazi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cha Yisra'el"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "akawaudhi"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "akawatia"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "katika mikono"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "ya wanyang'anyi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "alipo"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "watupa"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "mbele za uso wake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:51:17.283344577Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 59:9",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 59,
+  "translation": "Kwa sababu hii hukumu imekwisha mbali nasi, na haki hatuitufikii; tunatarajia nuru, na tazama — giza; kwa mwangaza, katika giza jingi tunatembea.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sababu hii"
+    },
+    {
+      "surface": "רחק",
+      "gloss": "imekwisha mbali"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nasi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na la"
+    },
+    {
+      "surface": "תשיגנו",
+      "gloss": "hatuitufikii"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "haki"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "tunatarajia"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "kwa nuru"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "giza"
+    },
+    {
+      "surface": "לנגהות",
+      "gloss": "kwa mwangaza"
+    },
+    {
+      "surface": "באפלות",
+      "gloss": "katika giza jingi"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "tunatembea"
+    }
+  ],
+  "timestamp": "2026-08-10T16:08:30.131956272Z",
+  "model": "glm-5.2"
+}

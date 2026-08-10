@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Akamwambia Avraham: Mfukuze hii mjakazi na ⟨את⟩ mwanae, kwa kuwa mwana wa huyu mjakazi hatapata urithi pamoja na mwanangu, pamoja na Yitschaq.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Akamwambia"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Mfukuze"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "hii mjakazi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "huyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mwanae"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwanae"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatapata"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "urithi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "wa huyu mjakazi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "huyu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanangu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaq"
+    }
+  ],
+  "timestamp": "2026-08-10T10:06:16.684022721Z",
+  "model": "glm-5.2"
+}

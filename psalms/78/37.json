@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Na moyo wao haukuwa imara pamoja naye, wala hawakuwa waaminifu katika beriti yake.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "na moyo wao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "imara"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja naye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "walioaminifu"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "katika beriti yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:12.332082534Z",
+  "model": "glm-5.2"
+}

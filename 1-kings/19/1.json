@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Achab akamwambia Izebeli ⟨את⟩ yote aliyoyafanya Eliyahu, na ⟨את⟩ yote alivyouwa — ⟨את⟩ nabii wote kwa upanga.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Izebeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yafanya"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "alivyo"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ouwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nabii wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nabii"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kwa upanga"
+    }
+  ],
+  "timestamp": "2026-08-10T16:03:40.960117763Z",
+  "model": "glm-5.2"
+}

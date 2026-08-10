@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "Na binti ya Tsor ⟨ni⟩ pamoja na tunzo; nyuso zako wataombolea wanyonge, matajiri wa taifa.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "na binti ya"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "pamoja na tunzo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nyuso zako"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "wataombolea wanyonge"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "matajiri wa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "taifa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:36.978001477Z",
+  "model": "glm-5.2"
+}

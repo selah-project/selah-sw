@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Yahweh Elohemu akamunda ⟨את⟩ mtu kwa mavumbi kutoka ardhi, akapuliza mapuwani mwake pumzi ya uhai, mtu akawa nafsi yenye uhai.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "akamunda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "kwa mavumbi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ardhi"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "akapuliza"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "mapuwani mwake"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "pumzi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ya uhai"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akawa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "nafsi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "yenye uhai"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:12.225324333Z",
+  "model": "glm-5.2"
+}

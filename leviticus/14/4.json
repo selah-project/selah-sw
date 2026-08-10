@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na kuhani naamuru, na kuchukua kwa ajili ya ⟨yule⟩ anayetakaswa ndege wawili walio hai na watakaso, na mbao ya mwerezi, na uzi wekundu, na hisopo.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "na kuiamuru"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "na kuchukua"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "kwa ajili ya anayetakaswa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "ndege"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "walio hai"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "na watakaso"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "na mbao"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ya mwerezi"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "na uzi wekundu"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "(wa)nyenzo ya wadudu"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "na hisopo"
+    }
+  ],
+  "timestamp": "2026-08-10T17:42:39.440566827Z",
+  "model": "glm-5.2"
+}

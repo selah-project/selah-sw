@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 12:15",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na itakuwa baada ya kuwang'oa, nitarejea, nami watarehemu, nami nitawarudisha, kila mtu kwenye urithi wake, na kila mtu kwenye nchi yake.",
+  "tokens": [
+    {
+      "surface": "וְהָיָ֗ה",
+      "gloss": "na itakuwa"
+    },
+    {
+      "surface": "אַֽחֲרֵי֙",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "נָתְשִׁ֣י",
+      "gloss": "kuwang'oa"
+    },
+    {
+      "surface": "אוֹתָ֔ם",
+      "gloss": "⟨את⟩",
+      "marks": "kuwang'oa (lengo: wao)"
+    },
+    {
+      "surface": "אָשׁ֖וּב",
+      "gloss": "nitarejea"
+    },
+    {
+      "surface": "וְרִֽחַמְתִּ֑ים",
+      "gloss": "nami watarehemu"
+    },
+    {
+      "surface": "וַהֲשִׁבֹתִ֛ים",
+      "gloss": "nami nitawarudisha"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "לְנַחֲלָת֖וֹ",
+      "gloss": "kwenye urithi wake"
+    },
+    {
+      "surface": "וְאִ֥ישׁ",
+      "gloss": "na kila mtu"
+    },
+    {
+      "surface": "לְאַרְצֽוֹ",
+      "gloss": "kwenye nchi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:12:02.831834541Z",
+  "model": "glm-5.2"
+}

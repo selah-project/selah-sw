@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "David akafuatilia, yeye na watu mia nne; na watu mia mbili walisimama ambao walichoka, kwa kuwa wameshindwa kuvuka ⟨את⟩ mto wa Besor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "akafuatilia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "na nne"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "walisimama"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mia mbili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "watu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "walichoka"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "kwa kuwa wameshindwa kuvuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mto"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "mto"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "wa Besor"
+    }
+  ],
+  "timestamp": "2026-08-10T11:27:56.642091104Z",
+  "model": "glm-5.2"
+}

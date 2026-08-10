@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Achi mwana wa Abdieli, mwana wa Guni, mkuu wa nyumba za baba zao.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Achi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Abdieli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Guni"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mkuu wa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nyumba za"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "baba zao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:41:49.818720233Z",
+  "model": "glm-5.2"
+}

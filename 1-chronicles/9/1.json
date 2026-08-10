@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na waisraeli wote waliandikwa kwa nasaba, na tazama, wameandikwa katika kitabu cha wafalme wa Yisra'el, na Yehudah; walihamishiwa Baveli kwa uasi wao.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Na wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "waliandikwa kwa nasaba"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "wameandikwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "katika"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitabu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "cha wafalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "na Yehudah"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "walihamishiwa"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "Baveli"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "kwa uasi wao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:43:11.177256717Z",
+  "model": "glm-5.2"
+}

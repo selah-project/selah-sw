@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Elfu kwa kila kabila, elfu kwa kila kabila, kwa kabila zote za Yisraeli, mtatuma ⟨kwenye⟩ vita.",
+  "tokens": [
+    {
+      "surface": "אֶ֚לֶף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "לַמַּטֶּ֔ה",
+      "gloss": "kwa kila kabila"
+    },
+    {
+      "surface": "אֶ֖לֶף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "לַמַּטֶּ֑ה",
+      "gloss": "kwa kila kabila"
+    },
+    {
+      "surface": "לְכֹל֙",
+      "gloss": "kwa zote"
+    },
+    {
+      "surface": "מַטּ֣וֹת",
+      "gloss": "kabila"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "תִּשְׁלְח֖וּ",
+      "gloss": "mtatuma"
+    },
+    {
+      "surface": "לַצָּבָֽא",
+      "gloss": "kwenye vita"
+    }
+  ],
+  "timestamp": "2026-08-10T17:43:33.706806931Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Wimbo wa David, pale alipokimbia kutoka mbele za uso wa Avshalom mwana wake.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "pale alipokimbia"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kutoka mbele za uso wa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:12.080509177Z",
+  "model": "glm-5.2"
+}

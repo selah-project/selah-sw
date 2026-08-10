@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na kutakuwa na kilio kikubwa katika nchi yote ya Mitsrayim, ambacho kama hicho hakukupita wala hakutakuwa tena.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "na kutakuwa"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "kilio"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "kikubwa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambacho"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "kama hicho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "kupita"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "na kama hicho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "kutakuwa tena"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:36.210667253Z",
+  "model": "glm-5.2"
+}

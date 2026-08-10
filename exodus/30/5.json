@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na utatengeneza ⟨את⟩ fimbo za mbao za shitim, na utazie dhahabu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Na utatengeneza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fimbo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "fimbo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "za mbao"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "za shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "na utazie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dhahabu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahabu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:26:37.956746803Z",
+  "model": "glm-5.2"
+}

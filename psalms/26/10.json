@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Ambao mikono yao ⟨ni⟩ mpango wa uovu, na mkono wao wa kulia umejaa rushwa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ambao"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "mikono yao"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "mpango wa uovu"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "na mkono wao wa kulia"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "umejaa"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "rushwa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:13.559876299Z",
+  "model": "glm-5.2"
+}

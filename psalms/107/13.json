@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Wakalia kwa Yahweh katika dhiki yao, na katika mashaka yao ⟨Mungu⟩ anawaokoa.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Wakalia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "katika dhiki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yao"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "na katika mashaka yao"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "anawaokoa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:31.244737200Z",
+  "model": "glm-5.2"
+}

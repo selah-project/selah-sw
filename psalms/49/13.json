@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Na adam katika heshima hatukai; amefananishwa na wanyama, wameangamia.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Na adam"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "katika heshima"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hatukai"
+    },
+    {
+      "surface": "ילין",
+      "gloss": ""
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "amefananishwa"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "na wanyama"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "wameangamia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:45.918507460Z",
+  "model": "glm-5.2"
+}

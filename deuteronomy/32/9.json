@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Kwa maana sehemu ya Yahweh ni ⟨ni⟩ watu wake; Yaakov ⟨ni⟩ kamba ya urithi wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "sehemu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YaHWeH"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "watun wake"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "kamba"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ya urithi wake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:04:07.779533799Z",
+  "model": "glm-5.2"
+}

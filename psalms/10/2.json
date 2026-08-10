@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Kwa kiburi cha mwovu yeye humfukuza mnyenyekevu; ⟨wanaeshikwa⟩ katika mipango ambayo wameifanya.",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "Kwa kiburi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "cha mwovu"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "yeye humfukuza"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mnyenyekevu"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "⟨wanaeshikwa⟩"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "katika mipango"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "wameifanya"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:56.160359038Z",
+  "model": "glm-5.2"
+}

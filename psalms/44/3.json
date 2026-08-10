@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Wewe, kwa mkono wako mataifa umewafukuza, nawe ⟨umewapanda⟩; umewaumiza makabila, nawe umewafukuza.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wewe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kwa mkono wako"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "umewafukuza"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "nawe ⟨umewapanda⟩"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "umewaumiza"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "makabila"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "nawe umewafukuza"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:04.552739702Z",
+  "model": "glm-5.2"
+}

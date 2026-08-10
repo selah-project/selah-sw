@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na Mitsrayim ni ubatili na ukiwa; watasaidia kwa bure. Kwa hiyo nimeiita hii: Rahab anayekaa kimya.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Na Mitsrayim"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ni ubatili"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "na ukiwa"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "watasaidia"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Kwa hiyo"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nimeiita"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "hii"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "anayekaa kimya"
+    }
+  ],
+  "timestamp": "2026-08-10T12:02:12.021909149Z",
+  "model": "glm-5.2"
+}

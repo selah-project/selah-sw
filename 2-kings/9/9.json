@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Nami nitawafanya ⟨את⟩ nyumba ya Ahab kama nyumba ya Yarobeamu mwana wa Nebati, na kama nyumba ya Baasha mwana wa Achiya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nami nitawafanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba ya Ahab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ya Ahab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "kama nyumba"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ya Yarobeamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "wa Nebati"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "na kama nyumba"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ya Baasha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "wa Achiya"
+    }
+  ],
+  "timestamp": "2026-08-10T11:47:29.207366186Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 9:3",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na wakuu wote wa majimbo, na wasatrapu, na waliwali, na watendaji wa kazi ambao ni wa mfalme, walikuwa wakiinua ⟨את⟩ Wayahudi, maana woga wa Mordekai uliangukia juu yao.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "Na wote"
+    },
+    {
+      "surface": "שָׂרֵ֨י",
+      "gloss": "wakuu"
+    },
+    {
+      "surface": "הַמְּדִינ֜וֹת",
+      "gloss": "wa majimbo"
+    },
+    {
+      "surface": "וְהָאֲחַשְׁדַּרְפְּנִ֣ים",
+      "gloss": "na wasatrapu"
+    },
+    {
+      "surface": "וְהַפַּח֗וֹת",
+      "gloss": "na waliwali"
+    },
+    {
+      "surface": "וְעֹשֵׂ֤י",
+      "gloss": "na watendaji"
+    },
+    {
+      "surface": "הַמְּלָאכָה֙",
+      "gloss": "wa kazi"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "לַמֶּ֔לֶךְ",
+      "gloss": "ni wa mfalme"
+    },
+    {
+      "surface": "מְנַשְּׂאִ֖ים",
+      "gloss": "walikuwa wakiinua"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Wayahudi"
+    },
+    {
+      "surface": "הַיְּהוּדִ֑ים",
+      "gloss": "Wayahudi"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "נָפַ֥ל",
+      "gloss": "uliangukia"
+    },
+    {
+      "surface": "פַּֽחַד",
+      "gloss": "woga"
+    },
+    {
+      "surface": "מָרְדֳּכַ֖י",
+      "gloss": "wa Mordekai"
+    },
+    {
+      "surface": "עֲלֵיהֶֽם",
+      "gloss": "juu yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:50:38.619570225Z",
+  "model": "glm-5.2"
+}

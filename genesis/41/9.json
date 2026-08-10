@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Akasema mkuu wa wahudumu ⟨את⟩ Paroh, akisema: ⟨את⟩ makosa yangu mimi nayaleta kumbukwani leo.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Akasema"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wa wahudumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makosa yangu"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "makosa yangu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "nayaleta kumbukwani"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:13:24.680733346Z",
+  "model": "glm-5.2"
+}

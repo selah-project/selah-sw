@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Yahweh ⟨ni⟩ sehemu ya urithi wangu na kikombe changu; wewe unaniweka imara gurudumu langu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "sehemu ya"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "urithi wangu"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "na kikombe changu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "unaniweka imara"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "gurudumu langu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:24.379056520Z",
+  "model": "glm-5.2"
+}

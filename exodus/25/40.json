@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na uangalie na utengenze kwa kigezo chao, ambacho wewe unaonyeshwa ⟨kilicho⟩ katika mlima.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Na uangalie"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na utengenze"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "kwa kigezo chao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambacho"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "unaonyeshwa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "katika mlima"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:56.365535522Z",
+  "model": "glm-5.2"
+}

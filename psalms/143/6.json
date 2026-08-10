@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 143,
+  "translation": "Niliyanyosha mikono yangu kwako; nafsi yangu ⟨ni⟩ kama nchi iliyochoka ⟨kwa kiu chako⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "Niliyanyosha"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mikono yangu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "kama nchi"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "iliyochoka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kwa kiu chako⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:50.784832818Z",
+  "model": "glm-5.2"
+}

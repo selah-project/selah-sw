@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Moshe akamwambia Aharon ⟨את⟩ maneno yote ya Yahweh ambayo ⟨aliyemtuma⟩ nayo, na ⟨את⟩ ishara zote ambazo ⟨aliziamuru⟩.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "aliyemtuma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ishara zote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ishara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "aliziamuru"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:05.394848751Z",
+  "model": "glm-5.2"
+}

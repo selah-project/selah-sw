@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Na ⟨wakina⟩ watu wakasikia ⟨את⟩ habari ile mbaya hii, wakadhika; wala hakuna mtu aliyeivaa pambio lake juu yake.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wakasikia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "habari ile mbaya hii"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "habari"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ile mbaya"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "wakadhika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hakuna"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "aliyeivaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "pambio lake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:51.746066780Z",
+  "model": "glm-5.2"
+}

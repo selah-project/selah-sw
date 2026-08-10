@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Yahweh akujibu siku ya dhiki; jina la Elohim ya-Yaaqov yakulinde.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "akujibu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dhiki"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "yakulinde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina la"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqov"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:06.621220076Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 96,
+  "translation": "Simulizeni mataifa utukufu wake, mbele ya watu wote ajabu zake.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "simulizeni"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "utukufu wake"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "watu wote"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ajabu zake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:39.391951655Z",
+  "model": "glm-5.2"
+}

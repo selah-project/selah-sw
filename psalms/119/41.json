@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Na ifike kwangu chesed yako, ee Yahweh, wokovu wako kama alivyokuwa neno lako.",
+  "tokens": [
+    {
+      "surface": "וִֽיבֹאֻ֣נִי",
+      "gloss": "Na naifike kwangu"
+    },
+    {
+      "surface": "חֲסָדֶ֣ךָ",
+      "gloss": "chesed yako"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תְּ֝שׁוּעָתְךָ֗",
+      "gloss": "wokovu wako"
+    },
+    {
+      "surface": "כְּאִמְרָתֶֽךָ",
+      "gloss": "kama alivyokuwa neno lako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:46.446749705Z",
+  "model": "glm-5.2"
+}

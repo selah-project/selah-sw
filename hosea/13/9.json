@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Akuharibu, Ee Yisrael, kwa kuwa ⟨uli⟩ dhidi yangu, dhidi ya msaada wako.",
+  "tokens": [
+    {
+      "surface": "שִֽׁחֶתְךָ֥",
+      "gloss": "Akukuharibu"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Ee Yisrael"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "בִ֥י",
+      "gloss": "dhidi yangu"
+    },
+    {
+      "surface": "בְעֶזְרֶֽךָ",
+      "gloss": "dhidi ya msaada wako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:20:50.520387617Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "⟨He⟩ amesha sema moyoni mwake: «Sitateteka; kwa kizazi na kizazi ⟨ni⟩ yule asiyekuwa kwenye baya.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "amesha sema"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "moyoni mwake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "tateteka"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwa kizazi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na kizazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yule asiyekuwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "kwenye baya"
+    }
+  ],
+  "timestamp": "2026-08-10T17:53:32.841214886Z",
+  "model": "glm-5.2"
+}

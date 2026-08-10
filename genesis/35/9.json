@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Elohim akaonekana tena kwa Ya'akov anapokuja kutoka Paddan-Aram, akambariki.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaonekana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "anapokuja"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "kutoka Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akambariki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yakobo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:50:41.714852403Z",
+  "model": "glm-5.2"
+}

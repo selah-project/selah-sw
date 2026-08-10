@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na K'elubu, ndugu yake Shuha, alimzaa ⟨את⟩ Meḥiri; yeye ⟨ni⟩ baba yake Eshtoni.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "Na K'elubu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ndugu yake"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Shuha"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Meḥiri"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Meḥiri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Eshtoni"
+    }
+  ],
+  "timestamp": "2026-08-10T14:04:58.655464367Z",
+  "model": "glm-5.2"
+}

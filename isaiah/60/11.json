@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 60:11",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 60,
+  "translation": "Na milango yako itafunguliwa daima, mchana na usiku, haitafungwa; ili kuleta kwako utajiri wa mataifa, na wafalme wao ⟨kuwa⟩ waongozwa.",
+  "tokens": [
+    {
+      "surface": "וּפִתְּח֨וּ",
+      "gloss": "Na itafunguliwa"
+    },
+    {
+      "surface": "שְׁעָרַ֧יִךְ",
+      "gloss": "milango yako"
+    },
+    {
+      "surface": "תָּמִ֛יד",
+      "gloss": "daima"
+    },
+    {
+      "surface": "יוֹמָ֥ם",
+      "gloss": "mchana"
+    },
+    {
+      "surface": "וָלַ֖יְלָה",
+      "gloss": "na usiku"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "haitafungwa"
+    },
+    {
+      "surface": "יִסָּגֵ֑רוּ",
+      "gloss": "⟨hatafungwa⟩"
+    },
+    {
+      "surface": "לְהָבִ֤יא",
+      "gloss": "ili kuleta"
+    },
+    {
+      "surface": "אֵלַ֨יִךְ֙",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "חֵ֣יל",
+      "gloss": "utajiri"
+    },
+    {
+      "surface": "גּוֹיִ֔ם",
+      "gloss": "wa mataifa"
+    },
+    {
+      "surface": "וּמַלְכֵיהֶ֖ם",
+      "gloss": "na wafalme wao"
+    },
+    {
+      "surface": "נְהוּגִֽים",
+      "gloss": "⟨kuwa⟩ waongozwa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:08:24.352204061Z",
+  "model": "glm-5.2"
+}

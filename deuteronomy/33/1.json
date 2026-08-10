@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Na hii ndiyo baraka ambayo Moshe, mtu wa Elohim, alimbariki ⟨את⟩ wana wa Yisrael kabla ya kufa kwake.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "na hii"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "⟨ndiyo⟩ baraka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "alimbariki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana wa Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kabla ya"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "kufa kwake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:44:22.837363441Z",
+  "model": "glm-5.2"
+}

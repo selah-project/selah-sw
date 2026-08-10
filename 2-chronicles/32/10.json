@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "«Hivi anasema Sancherib mfalme wa Ashur: Ni nini mnategemea, nanyi mnapumzika katika <-mzozio> ndani ya Yerushalayima?»",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Hivi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anasema"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "על",
+      "gloss": "Ni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mnategemea"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "nanyi"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "mnapumzika"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "katika mzozio"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ndani ya Yerushalayima"
+    }
+  ],
+  "timestamp": "2026-08-10T14:20:01.109993049Z",
+  "model": "glm-5.2"
+}

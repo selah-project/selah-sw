@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Yaʿaqov akaona kwamba kuna nafaka katika Mitsrayim, na Yaʿaqob akawaambia wanawe, «Mnaangaliana ninyi kwa nini?»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaʿaqov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "nafaka"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "katika Mitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akawaambia"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaʿaqov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kwa nini"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "mnaangaliana ninyi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:27:33.164849074Z",
+  "model": "glm-5.2"
+}

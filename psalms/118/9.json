@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 118,
+  "translation": "Ni jema kujificha kwa Yahweh kuliko kuamini kwa wakuu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ni jema"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "kujificha"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "kuliko kuamini"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "kwa wakuu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:57.853388776Z",
+  "model": "glm-5.2"
+}

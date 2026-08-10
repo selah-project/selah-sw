@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 64,
+  "translation": "Kwa mwongozaji. Wimbo wa David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwongozaji"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:56.971663873Z",
+  "model": "glm-5.2"
+}

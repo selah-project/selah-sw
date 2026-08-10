@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Nitakukuza, Ee Yahweh, kwa kuwa umeniinua, wala hukuruhusu adui zangu kufurahi juu yangu.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "nitakukuza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "umeniinua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala huku"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "ruhusu kufurahi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "adui zangu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "juu yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:25.155155711Z",
+  "model": "glm-5.2"
+}

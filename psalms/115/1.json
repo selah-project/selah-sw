@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 115,
+  "translation": "Si sisi, Yahweh, si sisi, bali jina lako liwe ⟨na⟩ utukufu, kwa chesed (wema wako) na kwa uaminifu wako.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bali"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "תן",
+      "gloss": "liwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "utukufu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed (wema wako)"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "uaminifu wako"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:27.694705023Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Kama vile Yahweh alivyomrithisha ⟨את⟩ Moshe, ndivyo walivyo[[fanya]] binti za Tselofchad.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Kama vile"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alivyomrithisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "walivyo[[fanya]]"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "binti"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "za Tselofchad"
+    }
+  ],
+  "timestamp": "2026-08-10T10:53:40.104764289Z",
+  "model": "glm-5.2"
+}

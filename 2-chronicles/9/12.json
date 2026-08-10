@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 9:12",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na mfalme Shelomoh akampa malkia wa Sheba ⟨את⟩ kila matakwa yake aliyoomba, zaidi ya yale aliyoleta kwa mfalme; naye akageuka akaenda kwenda nchi yake ⟨yeye⟩ pamoja na watumwa wake.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Na mfalme"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akampa"
+    },
+    {
+      "surface": "למלכת",
+      "gloss": "kwa malkia"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "wa Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kila matakwa yake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "חפצה",
+      "gloss": "matakwa yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliyoomba"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "aliyoomba"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "zaidi ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yale"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "aliyoleta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ותהפך",
+      "gloss": "naye akageuka"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "לארצה",
+      "gloss": "kwenda nchi yake"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ועבדיה",
+      "gloss": "pamoja na watumwa wake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:45:45.660872730Z",
+  "model": "glm-5.2"
+}

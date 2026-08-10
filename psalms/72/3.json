@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 72,
+  "translation": "Milima itachota amani kwa watu, na vilima kwa haki.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "itachota"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "milima"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "amani"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kwa watu"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "na vilima"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "kwa haki"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:45.321692097Z",
+  "model": "glm-5.2"
+}

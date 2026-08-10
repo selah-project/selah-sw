@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Wana wa Ham: Kush, na Mitsrayim, Put, na Kenaan.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֖י",
+      "gloss": "Wana"
+    },
+    {
+      "surface": "חָ֑ם",
+      "gloss": "wa Ham"
+    },
+    {
+      "surface": "כּ֥וּשׁ",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "וּמִצְרַ֖יִם",
+      "gloss": "na Mitsrayim"
+    },
+    {
+      "surface": "פּ֥וּט",
+      "gloss": "Put"
+    },
+    {
+      "surface": "וּכְנָֽעַן",
+      "gloss": "na Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-10T14:03:00.005609614Z",
+  "model": "glm-5.2"
+}

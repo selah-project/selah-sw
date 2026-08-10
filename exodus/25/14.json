@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na ukaingiza ⟨את⟩ fiti ndani ya pete zilizo pembeni mwa sanduku, ili kuibeba ⟨את⟩ sanduku kwa hizo.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "na ukaingiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiti"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "fiti"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ndani ya pete"
+    },
+    {
+      "surface": "על",
+      "gloss": "zilizo"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "pembeni mwa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ili kuibeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kwa hizo"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:58.091214771Z",
+  "model": "glm-5.2"
+}

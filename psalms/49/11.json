@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Kwa kuwa ⟨huyaona⟩ wenye hekima wakifa pamoja na mpumbavu na mpumbavu hawa; na hawa watapotea, na utajiri wao watauacha kwa wengine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "⟨huyaona⟩"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "wenye hekima"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "wakifa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "na mpumbavu"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "na mpumbavu hawa"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "watapoteza"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "na wataacha"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "kwa wengine"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "utajiri wao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:49.786677556Z",
+  "model": "glm-5.2"
+}

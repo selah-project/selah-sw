@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Nami nitawapiga ⟨את⟩ wakaazi wa mji huu, na ⟨את⟩ mwanadamu na ⟨את⟩ mnyama; kwa tauni kuu watakufa.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "nitawapiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wakaazi"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "wakaazi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa mji"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "huu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mwanadamu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mwanadamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mnyama"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mnyama"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "kwa tauni"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "watakufa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:12:26.400993205Z",
+  "model": "glm-5.2"
+}

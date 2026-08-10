@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 3:4",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na mfalme akaenda Gibeona kutoa dhabihu hapo, kwa kuwa ⟨yule⟩ ulikuwa ⟨ni⟩ mahali pa juu pa pekee; elfu za dhabihu za kuchomwa Shelomoh alizipandisha juu ya madhabahu ile.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "גבענה",
+      "gloss": "Gibeona"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kutoa dhabihu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hapo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ulikuwa"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "mahali pa juu"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "pa pekee"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "za dhabihu za kuchomwa"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "alizipandisha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ile"
+    }
+  ],
+  "timestamp": "2026-08-10T11:38:13.724407049Z",
+  "model": "glm-5.2"
+}

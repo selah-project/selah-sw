@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 65,
+  "translation": "Mambo ya uovu yamenishinda; madhambi yetu wewe utayafunika.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "ya uovu"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "yamenishinda"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "madhambi yetu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "utayafunika"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:29.139181070Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Msifanye vivyo hivyo kwa Yahweh, Elohim wenu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Msifanye"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "(mtende)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:42:43.266611651Z",
+  "model": "glm-5.2"
+}

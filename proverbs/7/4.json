@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Mwambie hekima, ⟨wewe⟩ ndugu yangu ⟨ewe⟩; na uelewe kuwa ujuzi ni jamaa yako.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Mwambie"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "hekima"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ndugu yangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨ewe⟩"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "na uelewe"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ujuzi"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "kuwa ni jamaa yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:23:33.859564990Z",
+  "model": "glm-5.2"
+}

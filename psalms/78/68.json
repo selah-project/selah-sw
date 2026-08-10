@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Lakini akachagua ⟨את⟩ kabila la Yehuda, ⟨את⟩ mlima wa Tsiyoni ambao aliupenda.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Lakini akachagua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabila la Yehuda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kabila"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "la Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mlima wa Tsiyoni"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mlima wa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "aliupenda"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:57.600594730Z",
+  "model": "glm-5.2"
+}

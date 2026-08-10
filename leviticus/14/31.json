@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 14:31",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "⟨את⟩ kile ambacho mkono wake unaweza kufikia, ⟨את⟩ moja kwa dhambi na ⟨את⟩ moja kwa sadaka ya kuchomwa, pamoja na toleo la nafaka; naye koheni atafanya upatanisho juu ya anayetakaswa mbele za Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kile ambacho mkono wake unaweza kufikia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambacho"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "unaweza kufikia"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moja kwa dhambi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "kwa dhambi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "moja kwa sadaka ya kuchomwa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kwa sadaka ya kuchomwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "toleo la nafaka"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "naye atafanya upatanisho"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "koheni"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "anayetakaswa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:34:37.352205285Z",
+  "model": "glm-5.2"
+}

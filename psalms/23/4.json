@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Hata kama ningetembea katika bonde la giza la mauti, sitaogopa mabaya, kwa sababu wewe u pamoja nami; fimbo yako na mtego wako, huo ndio unipa faraja.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ningetembea"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "katika bonde la"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "giza la mauti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "taogopa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "u pamoja nami"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "fimbo yako"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "na mtego wako"
+    },
+    {
+      "surface": "המה",
+      "gloss": "huo ndio"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "unipa faraja"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:34.480200224Z",
+  "model": "glm-5.2"
+}

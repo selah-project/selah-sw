@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 2:21",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Basi Yahweh Elohim akamletea usingizi wa kina ⟨al⟩ ha-adam, naye akalala; akachukua moja ya mbavu zake, akafunga nyama mahali pake.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "akamletea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "usingizi wa kina"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨al⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ha-adam"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "naye akalala"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akachukua"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moja"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "ya mbavu zake"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "akafunga"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "mahali pake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:48:42.956551110Z",
+  "model": "glm-5.2"
+}

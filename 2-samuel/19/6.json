@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 19:6",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Nayoabu akaingia kwa mfalme nyumbani, akasema: Umeaibusha leo ⟨את⟩ nyuso za watumishi wako wote, wokao ⟨את⟩ nafsi yako leo, na ⟨את⟩ nafsi za wana wako na binti zako, na nafsi za wake zako, na nafsi za masuria zako.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Nayoabu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumbani"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "הבשת",
+      "gloss": "umeaibusha"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyuso za watumishi wako wote"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nyuso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "za wote"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "watumishi wako"
+    },
+    {
+      "surface": "הממלטים",
+      "gloss": "wokao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafsi yako"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nafsi yako"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nafsi za wana wako na binti zako"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafsi za"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wana wako"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "na binti zako"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "na nafsi za"
+    },
+    {
+      "surface": "נשיך",
+      "gloss": "wake zako"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "na nafsi za"
+    },
+    {
+      "surface": "פלגשיך",
+      "gloss": "masuria zako"
+    }
+  ],
+  "timestamp": "2026-08-10T11:35:40.261396475Z",
+  "model": "glm-5.2"
+}

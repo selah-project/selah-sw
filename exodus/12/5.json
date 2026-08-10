@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Mnyama wa kundi asiye na kasoro, dume wa mwaka mmoja, atakuwa kwenu; kutoka miongoni mwa kondoo au kutoka miongoni mwa mbuzi mtachukua.",
+  "tokens": [
+    {
+      "surface": "שֶׁ֥ה",
+      "gloss": "mnyama wa kundi"
+    },
+    {
+      "surface": "תָּמִ֛ים",
+      "gloss": "asiye na kasoro"
+    },
+    {
+      "surface": "זָכָ֥ר",
+      "gloss": "dume"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שָׁנָ֖ה",
+      "gloss": "wa mwaka"
+    },
+    {
+      "surface": "יִהְיֶ֣ה",
+      "gloss": "atakuwa"
+    },
+    {
+      "surface": "לָכֶ֑ם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "הַכְּבָשִׂ֥ים",
+      "gloss": "kondoo"
+    },
+    {
+      "surface": "וּמִן",
+      "gloss": "au kutoka"
+    },
+    {
+      "surface": "הָעִזִּ֖ים",
+      "gloss": "mbuzi"
+    },
+    {
+      "surface": "תִּקָּֽחוּ",
+      "gloss": "mtachukua"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:46.601411486Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 2:1",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na Shelomah akahesabu elfu sabini ⟨ya⟩ watu wa kubeba mizigo, na elfu themanini ⟨ya⟩ watu wa kuchimba katika milima, na wasimamizi juu yao — elfu tatu na mia sita.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "akahesabu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sabini"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya watu"
+    },
+    {
+      "surface": "סבל",
+      "gloss": "wa kubeba mizigo"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "na themanini"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya watu"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "wa kuchimba"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "katika milima"
+    },
+    {
+      "surface": "ומנצחים",
+      "gloss": "na wasimamizi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "juu yao"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na sita"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    }
+  ],
+  "timestamp": "2026-08-10T14:13:10.915436088Z",
+  "model": "glm-5.2"
+}

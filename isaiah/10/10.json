@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "kama vile mkono wangu ulivyopata ufalme wa sanamu, na sanamu zao zilizochongwa, kutoka Yerushalayim na kutoka Shomeron —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kama vile"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "ulivyopata"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mkono wangu"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "ufalma wa"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "sanamu"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "na sanamu zao zilizochongwa"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "kutoka Yerushalayim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "na kutoka Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-10T16:05:55.309696861Z",
+  "model": "glm-5.2"
+}

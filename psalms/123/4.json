@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 123,
+  "translation": "Mengi imelewa ndani ya nafsi yetu: dhihaka ya wataliis, na dharau ya wenye kiburi.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Mengi"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "imelewa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ndani ya"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nafsi yetu"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "dhihaka"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "ya wataliis"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "na dharau"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "ya wenye kiburi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:01.273042990Z",
+  "model": "glm-5.2"
+}

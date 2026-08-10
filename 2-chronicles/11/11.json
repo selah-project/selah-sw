@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Akaitia ngema ⟨את⟩ ngome, akaweka ndani yao wakuu, na akiba za chakula na mafuta na mvinyo.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Akaitia ngema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngome"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "ngome"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akaweka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ndani yao"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "wakuu"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "na akiba"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "za chakula"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "na mvinyo"
+    }
+  ],
+  "timestamp": "2026-08-10T14:13:47.121179664Z",
+  "model": "glm-5.2"
+}

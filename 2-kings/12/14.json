@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 12:14",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "kwa maana waliitoa kwa wafanyikazi, nao wakaitumia kuimarisha nyumba ya Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "kwa wafanyikazi"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "wa kazi"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "waliitoa"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "wakaitumia kuimarisha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kwayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T15:02:20.247898382Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "Ifunge upanga wako juu ya paja lako, ee shujaa, sifa yako na ufahari wako.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Ifunge"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "upanga wako"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "paja lako"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ee shujaa"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "sifa yako"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "na ufahari wako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:31.528296079Z",
+  "model": "glm-5.2"
+}

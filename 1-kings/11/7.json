@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 11:7",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Wakati huo Shelomah akajenga ⟨the⟩ bamah kwa Kemosh, kitu cha kuchukiza cha Moabu, katika kilima ambacho ⟨kiko⟩ mbele ya Yerushalayim, na kwa Moleki, kitu cha kuchukiza cha wana wa Amoni.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "wakati huo"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "akajenga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "במה",
+      "gloss": "bamah"
+    },
+    {
+      "surface": "לכמוש",
+      "gloss": "kwa Kemosh"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "kitu cha kuchukiza"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "katika kilima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambacho"
+    },
+    {
+      "surface": "על",
+      "gloss": "kiko"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "na kwa Moleki"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "kitu cha kuchukiza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:41:17.347947151Z",
+  "model": "glm-5.2"
+}

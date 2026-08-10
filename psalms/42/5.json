@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Haya ninayakumbuka, na kumimina juu yangu nefesh yangu, kwa kuwa nitapita ⟨kati⟩ ya makundi, nitaenda kwa upole nao hata nyumbani kwa Elohim, kwa sauti ya rwaha na shukrani, umati wenye sherehe.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ninayakumbuka"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "na kumimina"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh yangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "nitapita"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "⟨kati⟩ ya makundi"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "nitaenda kwa upole"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumbani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kwa sauti"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ya rwaha"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "na shukrani"
+    },
+    {
+      "surface": "המון",
+      "gloss": "umati"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "wenye sherehe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:47.445677768Z",
+  "model": "glm-5.2"
+}

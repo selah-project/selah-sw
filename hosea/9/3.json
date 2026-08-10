@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Hawatakaa katika nchi ya Yahweh; bali Efrayimu atarudi Mitsrayim, na Ashuru watakula vyakula visivyo safi.",
+  "tokens": [
+    {
+      "surface": "לֹ֥א",
+      "gloss": "si"
+    },
+    {
+      "surface": "יֵשְׁב֖וּ",
+      "gloss": "watakaa"
+    },
+    {
+      "surface": "בְּאֶ֣רֶץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "וְשָׁ֤ב",
+      "gloss": "na atarudi"
+    },
+    {
+      "surface": "אֶפְרַ֨יִם֙",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "מִצְרַ֔יִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וּבְאַשּׁ֖וּר",
+      "gloss": "na Ashuru"
+    },
+    {
+      "surface": "טָמֵ֥א",
+      "gloss": "visivyo safi"
+    },
+    {
+      "surface": "יֹאכֵֽלוּ",
+      "gloss": "watakula"
+    }
+  ],
+  "timestamp": "2026-08-10T12:42:34.220369599Z",
+  "model": "glm-5.2"
+}

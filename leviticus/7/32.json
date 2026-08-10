@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na ⟨את⟩ mguu wa kuume mtawapa kwa kuhani kama toleo maalum, kutoka katika dhabihu za shalom zenu.",
+  "tokens": [
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "Na ⟨את⟩"
+    },
+    {
+      "surface": "שׁ֣וֹק",
+      "gloss": "mguu"
+    },
+    {
+      "surface": "הַיָּמִ֔ין",
+      "gloss": "wa kuume"
+    },
+    {
+      "surface": "תִּתְּנ֥וּ",
+      "gloss": "mtawapa"
+    },
+    {
+      "surface": "תְרוּמָ֖ה",
+      "gloss": "kama toleo maalum"
+    },
+    {
+      "surface": "לַכֹּהֵ֑ן",
+      "gloss": "kwa kuhani"
+    },
+    {
+      "surface": "מִזִּבְחֵ֖י",
+      "gloss": "kutoka katika dhabihu"
+    },
+    {
+      "surface": "שַׁלְמֵיכֶֽם",
+      "gloss": "za shalom zenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:32:14.012933243Z",
+  "model": "glm-5.2"
+}

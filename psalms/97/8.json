@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 97,
+  "translation": "Tsiyonu imesikia ikafurahi, na mabinti wa Yehuda wamefurahiya, kwa ajili ya hukumu zako, ee Yahweh.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "imesikia"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "ikafurahi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyonu"
+    },
+    {
+      "surface": "וַתָּגֵלְנָה",
+      "gloss": "wamefurahiya"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "na mabinti"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukumu zako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:58.487761996Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Nami nitakumbuka ⟨את⟩ agano langu ⟨na⟩ Ya'akov, na pia ⟨את⟩ agano langu ⟨na⟩ Yitzhak, na pia ⟨את⟩ agano langu ⟨na⟩ Avraham nitakumbuka, na ⟨את⟩ nchi nitakumbuka.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "Nami nitakumbuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agano langu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "agano langu"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agano langu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "agano langu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitzhak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agano langu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "agano langu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "nitakumbuka"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na nchi"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "nitakumbuka"
+    }
+  ],
+  "timestamp": "2026-08-10T14:37:20.065899282Z",
+  "model": "glm-5.2"
+}

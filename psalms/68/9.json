@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Nchi ilitetemeka, hata mbingu zilitonea mbele za Elohim — huu Sinai — mbele za Elohim, Elohim wa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Nchi"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "ilitetemeka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hata"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "zilitonea"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "huu"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:46.904479957Z",
+  "model": "glm-5.2"
+}

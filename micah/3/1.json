@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Nikasema: Sikilizeni, enyi waongozaji wa Ya'akov, na enyi machifu wa nyumba ya Yisra'el — je, si kwenu kujua ⟨את⟩ hukumu?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nikasema"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sikilizeni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "eni"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "waongozaji"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "na machifu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "je, si"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kujua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukumu"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "hukumu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:47:19.906201553Z",
+  "model": "glm-5.2"
+}

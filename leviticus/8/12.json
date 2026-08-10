@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Akamimina mafuta ya mapako juu ya kichwa cha Aharoni, akampaka ⟨את⟩ ili kumtakasa.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "akamimina"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ya mapako"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "cha Aharoni"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "akampaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mhim"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ili kumtakasa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:53:09.823203447Z",
+  "model": "glm-5.2"
+}

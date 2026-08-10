@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 4:6",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na Achishar ⟨alikuwa⟩ juu ya nyumba, na Adoniramu mwana wa Avda juu ya kazi ya shauri.",
+  "tokens": [
+    {
+      "surface": "ואחישר",
+      "gloss": "Na Achishar"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ואדנירם",
+      "gloss": "na Adoniramu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "עבדא",
+      "gloss": "wa Avda"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "המס",
+      "gloss": "kazi ya shauri"
+    }
+  ],
+  "timestamp": "2026-08-10T11:37:17.231600090Z",
+  "model": "glm-5.2"
+}

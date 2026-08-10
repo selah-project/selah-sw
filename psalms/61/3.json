@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 61,
+  "translation": "Kutoka mwisho wa nchi hadi wewe nitakuita; pale ambapo moyo wangu unapotea, kwenye mwamba ulioko juu kuliko mimi, uniongoze.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Kutoka mwisho wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hadi wewe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nitakuita"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "pale ambapo moyo wangu unapotea"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "kwenye mwamba"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ulioko juu kuliko mimi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuliko mimi"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "niongoze"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:29.117045361Z",
+  "model": "glm-5.2"
+}

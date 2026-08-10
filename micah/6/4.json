@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Kwa maana nikikuinua ninyi kutoka nchi ya Mitsrayim, na kutoka nyumba ya watumwa nikikuokoa ninyi, nika Kutuma mbele yako ⟨את⟩ Moshe, Aharon na Miryam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "nikikuinua"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kutoka nchi ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "na kutoka nyumba ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "watumwa"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "nikikuokoa"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "nika"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbele yako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe, Aharon na Miryam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "na Miryam"
+    }
+  ],
+  "timestamp": "2026-08-10T12:48:29.914189892Z",
+  "model": "glm-5.2"
+}

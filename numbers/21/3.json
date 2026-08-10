@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Akasikia Yahweh sauti ya Yisraeli, akawapa ⟨את⟩ MKanaani, akawaharimu ⟨את⟩ wao na ⟨את⟩ miji yao; akaita jina la mahali pale Horma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Akasikia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akawapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "MKanaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "MKanaani"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "akawaharimu"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ wao",
+      "marks": "wao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "miji yao"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "miji yao"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "la mahali pale"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Horma"
+    }
+  ],
+  "timestamp": "2026-08-10T10:47:03.900173340Z",
+  "model": "glm-5.2"
+}

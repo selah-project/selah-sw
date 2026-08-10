@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Kama umekuwa mwenye hekima, umekuwa mwenye hekima kwa ajili yako mwenyewe; na kama umedharau, wewe peke yako utabeba ⟨matokeo⟩.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "Kama"
+    },
+    {
+      "surface": "חָ֭כַמְתָּ",
+      "gloss": "umekuwa mwenye hekima"
+    },
+    {
+      "surface": "חָכַ֣מְתָּ",
+      "gloss": "umekuwa mwenye hekima"
+    },
+    {
+      "surface": "לָּ֑ךְ",
+      "gloss": "kwa ajili yako mwenyewe"
+    },
+    {
+      "surface": "וְ֝לַ֗צְתָּ",
+      "gloss": "na kama umedharau"
+    },
+    {
+      "surface": "לְֽבַדְּךָ֥",
+      "gloss": "wewe peke yako"
+    },
+    {
+      "surface": "תִשָּֽׂא",
+      "gloss": "utabeba"
+    }
+  ],
+  "timestamp": "2026-08-10T16:21:08.231680947Z",
+  "model": "glm-5.2"
+}

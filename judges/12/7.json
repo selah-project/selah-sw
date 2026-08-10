@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na Yifta alihukumu ⟨את⟩ Yisrael miaka sita; na Yifta Mgiladi akafa, akazikwa katika miji ya Giladi.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Na alihukumu"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yifta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sita"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "na akafa"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yifta"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Mgiladi"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "akazikwa"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "katika miji"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ya Giladi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:16:40.055810489Z",
+  "model": "glm-5.2"
+}

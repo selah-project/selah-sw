@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na kutoka kwa Hushimu alizaa ⟨את⟩ Avituvu na ⟨את⟩ Elpaali.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "na kutoka kwa Hushimu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avituvu"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avituvu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Elpaali"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaali"
+    }
+  ],
+  "timestamp": "2026-08-10T14:05:19.907467367Z",
+  "model": "glm-5.2"
+}

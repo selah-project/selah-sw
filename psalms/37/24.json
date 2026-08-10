@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Hata akidondoka hatatupiliwa chini, kwa maana Yahweh humshika mkononi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hata"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "akidondoka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatatupiliwa"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "chini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "humshika"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkononi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:00.052582023Z",
+  "model": "glm-5.2"
+}

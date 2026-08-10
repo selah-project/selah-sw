@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Utoe kutoka katika mtego huu waliounificha, kwa sababu wewe ndiwe nguvu yangu.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "Utoe kutoka"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "katika mtego"
+    },
+    {
+      "surface": "זו",
+      "gloss": "huu"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "waliounificha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "nguvu yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:27.264079076Z",
+  "model": "glm-5.2"
+}

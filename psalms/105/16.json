@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Akaita njaa juu ya nchi, fimbo yote ya mkate akavunja.",
+  "tokens": [
+    {
+      "surface": "וַיִּקְרָ֣א",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "רָ֭עָב",
+      "gloss": "njaa"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "כָּֽל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "מַטֵּה",
+      "gloss": "fimbo"
+    },
+    {
+      "surface": "לֶ֥חֶם",
+      "gloss": "ya mkate"
+    },
+    {
+      "surface": "שָׁבָֽר",
+      "gloss": "akavunja"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:59.013478867Z",
+  "model": "glm-5.2"
+}

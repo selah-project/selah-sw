@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Hivyo Elohim aliokoa ⟨את⟩ mifugo ya baba yenu, na akampa mimi.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "Hivyo aliokoa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mifugo"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mifugo"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ya baba yenu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na akampa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mimi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:50:17.800374352Z",
+  "model": "glm-5.2"
+}

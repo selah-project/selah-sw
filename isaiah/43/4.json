@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "Kwa kuwa umekuwa mwenye thamani machoni pangu, umeheshimika, na mimi nakupenda; kwa hiyo nitawatuza binadamu badala yako, na taifa badala ya uhai wako.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "umekuwa mwenye thamani"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "machoni pangu"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "umeheshimika"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na mimi"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "nakupenda"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "kwa hiyo nitawatuza"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "binadamu"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "badala yako"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "na taifa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "badala ya"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "uhai wako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:05:21.494957423Z",
+  "model": "glm-5.2"
+}

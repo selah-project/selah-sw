@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Naye akamwambia mwenye kumiliki ⟨wake⟩: «Laiti bwana wangu ⟨angelikuwa⟩ mbele ya nabii aliye Shomroni, basi ⟨yeye⟩ angemtoa kutoka ukoma wake!»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Naye akamwambia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "mwenye kumiliki wake"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Laiti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bwana wangu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliye"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomroni"
+    },
+    {
+      "surface": "אז",
+      "gloss": "basi"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "angemtoa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "kutoka ukoma wake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:01:21.924166658Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Je, mkulima ∅ wote siku anapalilia ili kupanda? Je, ⟨hana⟩ kufungua na kulainisha udongo wake?",
+  "tokens": [
+    {
+      "surface": "הֲכֹ֣ל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "הַיּ֔וֹם",
+      "gloss": "siku"
+    },
+    {
+      "surface": "יַחֲרֹ֥שׁ",
+      "gloss": "anapalilia"
+    },
+    {
+      "surface": "הַחֹרֵ֖שׁ",
+      "gloss": "mkulima ∅"
+    },
+    {
+      "surface": "לִזְרֹ֑עַ",
+      "gloss": "ili kupanda"
+    },
+    {
+      "surface": "יְפַתַּ֥ח",
+      "gloss": "kufungua"
+    },
+    {
+      "surface": "וִֽישַׂדֵּ֖ד",
+      "gloss": "na kulainisha"
+    },
+    {
+      "surface": "אַדְמָתֽוֹ",
+      "gloss": "udongo wake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:05:41.605848326Z",
+  "model": "glm-5.2"
+}

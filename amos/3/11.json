@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 3:11",
+  "book": "amos",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Kwa hiyo ndivyo asema Adonai Yahweh: Adui ⟨ataizunguka⟩ nchi, naye atateremsha nguvu zako kutoka kwako, na ngome zako zitapinduliwa.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kwa hiyo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "asema"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Adui"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "na ataizunguka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "והוריד",
+      "gloss": "naye atateremsha"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kutoko kwako"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "nguvu zako"
+    },
+    {
+      "surface": "ונבזו",
+      "gloss": "na zitapinduliwa"
+    },
+    {
+      "surface": "ארמנותיך",
+      "gloss": "ngome zako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:45:03.737884366Z",
+  "model": "glm-5.2"
+}

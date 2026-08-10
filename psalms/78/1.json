@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Mafundisho kwa Asaph. Sikilizeni, enye watu wangu, mafundisho yangu; tegezeni masikio yenu kwa maneno ya kinywa changu.",
+  "tokens": [
+    {
+      "surface": "מַשְׂכִּ֗יל",
+      "gloss": "Mafundisho"
+    },
+    {
+      "surface": "לְאָ֫סָ֥ף",
+      "gloss": "kwa Asaph"
+    },
+    {
+      "surface": "הַאֲזִ֣ינָה",
+      "gloss": "Sikilizeni"
+    },
+    {
+      "surface": "עַ֭מִּי",
+      "gloss": "enye watu wangu"
+    },
+    {
+      "surface": "תּוֹרָתִ֑י",
+      "gloss": "mafundisho yangu"
+    },
+    {
+      "surface": "הַטּ֥וּ",
+      "gloss": "tegezeni"
+    },
+    {
+      "surface": "אָ֝זְנְכֶ֗ם",
+      "gloss": "masikio yenu"
+    },
+    {
+      "surface": "לְאִמְרֵי",
+      "gloss": "kwa maneno ya"
+    },
+    {
+      "surface": "פִֽי",
+      "gloss": "kinywa changu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:22.662825691Z",
+  "model": "glm-5.2"
+}

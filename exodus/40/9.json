@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Na utachukua ⟨את⟩ mafuta ya upako, na utapaka ⟨את⟩ hema na ⟨את⟩ vyote vilivyomo ndani yake, na utavitukuza ⟨את⟩ hema na ⟨את⟩ vyombo vyake vyote, na vitakuwa takatifu.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "na utachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ya upako"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "na utapaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "hema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilivyomo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ndani yake"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "na utavitukuza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vyombo vyake vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "vyombo vyake"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na vitakuwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "takatifu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:14.236599234Z",
+  "model": "glm-5.2"
+}

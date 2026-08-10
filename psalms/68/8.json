@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Elohim, katika kuondoka kwako mbele ya taifa lako, katika kupiga hatua yako ⟨katika⟩ ujangwa, selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "katika kuondoka kwako"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "taifa lako"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "katika kupiga hatua yako"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "ujangwa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "selah"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:43.739242043Z",
+  "model": "glm-5.2"
+}

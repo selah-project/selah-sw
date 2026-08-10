@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na mwanamume ambaye ataweka kulala kwake na mnyama, kwa kufa atakufa, na ⟨את⟩ mnyama mtauwe.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na mwanamume"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ataweka"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "kulala kwake"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "na mnyama"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kwa kufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "atakufa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mnyama"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mnyama"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "mtauwe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:12.580706680Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 95,
+  "translation": "Miaka arobaini nilichukizwa na kizazi hicho, nikaambia: Ni watu wanaopotoka moyo, nao hawajui njia zangu.",
+  "tokens": [
+    {
+      "surface": "אַרְבָּ֘עִ֤ים",
+      "gloss": "arobaini"
+    },
+    {
+      "surface": "שָׁנָ֨ה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "אָ֘ק֤וּט",
+      "gloss": "nilichukizwa"
+    },
+    {
+      "surface": "בְּד֗וֹר",
+      "gloss": "na kizazi"
+    },
+    {
+      "surface": "וָאֹמַ֗ר",
+      "gloss": "nikaambia"
+    },
+    {
+      "surface": "עַ֤ם",
+      "gloss": "Ni watu"
+    },
+    {
+      "surface": "תֹּעֵ֣י",
+      "gloss": "wanaopotoka"
+    },
+    {
+      "surface": "לֵבָ֣ב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "הֵ֑ם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "וְ֝הֵ֗ם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יָדְע֥וּ",
+      "gloss": "wakajua"
+    },
+    {
+      "surface": "דְרָכָֽי",
+      "gloss": "njia zangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:39.576419513Z",
+  "model": "glm-5.2"
+}

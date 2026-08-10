@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Na siku ya kutikisa kwenu ⟨את⟩ sheafu, mtoke dume wa kondwa asiye na kasoro, wa mwaka wake wa kwanza, kwa tunu ya kuchomwa, kwa Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "Na mtatoa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "ya kutikisa kwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sheafu"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "sheafu"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "dume wa kondwa"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "asiye na kasoro"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "mwaka wake wa kwanza"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "kwa tunu ya kuchomwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:36.670319826Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Na taifa lote litasikia na kuogopa, wala watatenda kiburi tena.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "litasikia"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "na kuogopa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hatatatenda"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "kiburi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    }
+  ],
+  "timestamp": "2026-08-10T10:59:30.516471120Z",
+  "model": "glm-5.2"
+}

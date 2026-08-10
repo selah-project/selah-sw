@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 129,
+  "translation": "Juuya mgongo wangu walalima walimaji, wakaurefusha mistari yao ⟨ya kulima⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "juu"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "ya mgongo wangu"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "walalima"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "walimaji"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "wakaurefusha"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "mistari yao ⟨ya kulima⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:44.209214355Z",
+  "model": "glm-5.2"
+}

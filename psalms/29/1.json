@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Wimbo wa David. Toeni kwa Yahweh, enyi wana wa El, toeni kwa Yahweh kavod na nguvu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Toeni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "enyi wana"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "wa El"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "toeni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "na nguvu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:36.107348269Z",
+  "model": "glm-5.2"
+}

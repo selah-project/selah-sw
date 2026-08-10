@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Baba yako alifanya ⟨kuwa⟩ nzito ⟨את⟩ nira yetu; na sasa, punguza mizigo mik Nzito ya baba yako, na nira yake ile Nzito alioweka juu yetu, nasi tutakutumikia.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "baba yako"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "alifanya ⟨kuwa⟩ nzito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nira yetu"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "nira yetu"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "punguza"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "mizigo mik"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya baba yako"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ile Nzito"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "na nira yake"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ile Nzito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aliyeka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "juu yetu"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "nasi tutakutumikia"
+    }
+  ],
+  "timestamp": "2026-08-10T14:14:50.500179730Z",
+  "model": "glm-5.2"
+}

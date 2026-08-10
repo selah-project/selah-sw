@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Je, mimi ni Elohim wa karibu? — neno la Yahweh — na si Elohim wa mbali?",
+  "tokens": [
+    {
+      "surface": "הַאֱלֹהֵ֥י",
+      "gloss": "Je, Elohim"
+    },
+    {
+      "surface": "מִקָּרֹ֛ב",
+      "gloss": "wa karibu"
+    },
+    {
+      "surface": "אָ֖נִי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "נְאֻ֥ם",
+      "gloss": "neno la"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "na si"
+    },
+    {
+      "surface": "אֱלֹהֵ֖י",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מֵרָחֹֽק",
+      "gloss": "wa mbali"
+    }
+  ],
+  "timestamp": "2026-08-10T15:11:23.989076395Z",
+  "model": "glm-5.2"
+}

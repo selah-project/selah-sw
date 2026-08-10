@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Ole wako, enye nchi, mfalme wako ni kijana, na wakuu wako wana kula asubuhi!",
+  "tokens": [
+    {
+      "surface": "אִֽי",
+      "gloss": "Ole"
+    },
+    {
+      "surface": "לָ֣ךְ",
+      "gloss": "wako"
+    },
+    {
+      "surface": "אֶ֔רֶץ",
+      "gloss": "enye nchi"
+    },
+    {
+      "surface": "שֶׁמַּלְכֵּ֖ךְ",
+      "gloss": "mfalme wako"
+    },
+    {
+      "surface": "נָ֑עַר",
+      "gloss": "ni kijana"
+    },
+    {
+      "surface": "וְשָׂרַ֖יִךְ",
+      "gloss": "na wakuu wako"
+    },
+    {
+      "surface": "בַּבֹּ֥קֶר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "יֹאכֵֽלוּ",
+      "gloss": "wana kula"
+    }
+  ],
+  "timestamp": "2026-08-10T15:37:43.220337377Z",
+  "model": "glm-5.2"
+}

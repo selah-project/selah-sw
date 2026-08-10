@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Maneno ya Yahweh ni maneno safi, fedha iliyotiwa tanuru ⟨ya⟩ udongo, iliyochujwa mara saba.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "ni maneno"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "safi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "iliyotiwa tanuru"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "⟨ya⟩ udongo"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ya ardhini"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "iliyochujwa"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "mara saba"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:32.675081640Z",
+  "model": "glm-5.2"
+}

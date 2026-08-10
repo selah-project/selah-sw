@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Inueni, lango, vichwa vyenu, na kuinuliwa, milango ya kabisa, na kuingia mfalme wa utukufu.",
+  "tokens": [
+    {
+      "surface": "שְׂא֤וּ",
+      "gloss": "Inueni"
+    },
+    {
+      "surface": "שְׁעָרִ֨ים",
+      "gloss": "lango"
+    },
+    {
+      "surface": "רָֽאשֵׁיכֶ֗ם",
+      "gloss": "vichwa vyenu"
+    },
+    {
+      "surface": "וְֽ֭הִנָּשְׂאוּ",
+      "gloss": "na kuinuliwa"
+    },
+    {
+      "surface": "פִּתְחֵ֣י",
+      "gloss": "milango"
+    },
+    {
+      "surface": "עוֹלָ֑ם",
+      "gloss": "ya kabisa"
+    },
+    {
+      "surface": "וְ֝יָב֗וֹא",
+      "gloss": "na kuingia"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "הַכָּבֽוֹד",
+      "gloss": "wa utukufu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:02.224677469Z",
+  "model": "glm-5.2"
+}

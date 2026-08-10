@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na kwa Hannah alimpa sehemu ⟨moja⟩ ya heshima kuu, kwa maana ⟨yeye⟩ alimpenda ⟨את⟩ Hannah; na Yahweh alifunga tumbo lake.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "Na kwa Hannah"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "alimpa"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "sehemu"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "⟨moja⟩"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ya heshima kuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hannah"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hannah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "alimpenda"
+    },
+    {
+      "surface": "והוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "alifunga"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "tumbo lake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:51:11.544868322Z",
+  "model": "glm-5.2"
+}

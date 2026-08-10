@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Jua likamwangazia alipovuka ⟨את⟩ Penueli, naye akataka juu ya nyayo yake.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "likamwangazia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mbele yake"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "Jua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "alipovuka"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "alipovuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penueli"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penueli"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "naye"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "akataka"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "nyayo yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:10:57.193637635Z",
+  "model": "glm-5.2"
+}

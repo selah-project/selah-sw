@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Basi Adonai akaamka kama mwenye usingizi, kama shujaa anayepiga mayowe kwa ajili ya mvinyo.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "akaamka"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "kama mwenye usingizi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "kama shujaa"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "anayepiga mayowe"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "kwa ajili ya mvinyo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:57.600046577Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Nikafika Yerushalayim, nikawa ⟨huko⟩ siku tatu.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "nikafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwenye⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "nikawa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨huko⟩"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:27:00.716048211Z",
+  "model": "glm-5.2"
+}

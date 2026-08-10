@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Na upana wa ua kwa upande wa mashariki, ⟨unaolekea⟩ mashariki, ⟨ni⟩ dhiraa hamsini.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "Na upana"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "wa ua"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "kwa upande"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "wa mashariki"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "mashariki"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "hamsini"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dhiraa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:25:17.401055906Z",
+  "model": "glm-5.2"
+}

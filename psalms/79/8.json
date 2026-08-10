@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 79,
+  "translation": "Usikumbuke dhambi zetu za kwanza; fanya haraka, narehema zako na zitangulie, kwa maana tumelegea sana.",
+  "tokens": [
+    {
+      "surface": "אַֽל",
+      "gloss": "usI"
+    },
+    {
+      "surface": "תִּזְכָּר",
+      "gloss": "kumbuka"
+    },
+    {
+      "surface": "לָנוּ֮",
+      "gloss": "kwetu"
+    },
+    {
+      "surface": "עֲוֺנֹ֪ת",
+      "gloss": "dhambi"
+    },
+    {
+      "surface": "רִאשֹׁ֫נִ֥ים",
+      "gloss": "za kwanza"
+    },
+    {
+      "surface": "מַ֭הֵר",
+      "gloss": "fanya haraka"
+    },
+    {
+      "surface": "יְקַדְּמ֣וּנוּ",
+      "gloss": "zitangulie"
+    },
+    {
+      "surface": "רַחֲמֶ֑יךָ",
+      "gloss": "narehema zako"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "דַלּ֣וֹנוּ",
+      "gloss": "tumelegea"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:16.085469794Z",
+  "model": "glm-5.2"
+}

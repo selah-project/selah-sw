@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Je, si giza ⟨hicho⟩ siku ya Yahweh, na si nuru? Na giza jembamba, na hakuna mng'aro wake?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Je, si"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "giza"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na si"
+    },
+    {
+      "surface": "אור",
+      "gloss": "nuru"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "na giza jembamba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na hakuna"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "mng'aro"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:45:46.437276008Z",
+  "model": "glm-5.2"
+}

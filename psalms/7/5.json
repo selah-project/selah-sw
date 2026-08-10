@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Kama nilimlipa ∅⟩ ∅⟩ anaye ∅⟩ amani ∅⟩ kwa baya, nikiponyeza adui wangu bure,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kama"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "nilimlipa"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "anaye amani"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwa baya"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "nikiponyeza"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "adui wangu"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "bure"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:22.821496468Z",
+  "model": "glm-5.2"
+}

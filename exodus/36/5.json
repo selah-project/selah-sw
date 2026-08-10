@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Wakasema kwa Moshe, wakisema: «Wananchi wanaleta wingi zaidi ya kutosha kwa kazi ya kufanya ile kazi ambayo Yahweh ameamrisha kufanya ⟨את⟩hı.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Wakasema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wakisema"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "wanaleta wingi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wananchi"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "analeta"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "zaidi ya kutosha"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "ya kufanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ameamrisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "kufanya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hi (kazi)"
+    }
+  ],
+  "timestamp": "2026-08-10T10:29:32.722942507Z",
+  "model": "glm-5.2"
+}

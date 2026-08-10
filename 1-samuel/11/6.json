@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na roho ya Elohim ikamjia Shaul kwa nguvu aliposikia ⟨את⟩ maneno haya, na hasira yake ikawaka sana.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "ikamjia kwa nguvu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "aliposikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ikawaka"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hasira yake"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-10T14:51:58.553609078Z",
+  "model": "glm-5.2"
+}

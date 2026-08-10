@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Naye kuhani atamthamini ⟨אתה⟩ kati ya jema na kati ya baya; kama ithibati yako, ee kuhani, ndivyo itakavyokuwa.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "Naye atamthamini"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kati ya jema na baya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jema"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "רע",
+      "gloss": "baya"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "kama ithibati yako"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ee kuhani"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "itakavyokuwa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:36:31.979463008Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Mbona mataifa yamefanya fujo, na makundi ya watu wanapanga mipango ya ubatili?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mbona"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "yamefanya fujo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "na makundi ya watu"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "wanapanga mipango"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ya ubatili"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:00.402484193Z",
+  "model": "glm-5.2"
+}

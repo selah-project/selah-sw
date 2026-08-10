@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Na jumla ya watu wa nchi walifurahi, na mji ulatulia, na ⟨את⟩ Athalyahu waliuawa kwa upanga.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "walifurahi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jumla ya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "na mji"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ulatulia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Athalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Athalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "waliuawa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kwa upanga"
+    }
+  ],
+  "timestamp": "2026-08-10T14:16:14.688893325Z",
+  "model": "glm-5.2"
+}

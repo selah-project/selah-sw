@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 60,
+  "translation": "Kwa kuwa tazama, giza litafunika nchi, na ukungu ⟨kwa⟩ taifa; bali juu yako Yahweh atachipuka, na utukufu wake juu yako utaonekana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "giza"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "litafunika"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "na ukungu"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "bali juu yako"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "atachipuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "na utukufu wake"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "juu yako"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "utaonekana"
+    }
+  ],
+  "timestamp": "2026-08-10T12:08:36.614064289Z",
+  "model": "glm-5.2"
+}

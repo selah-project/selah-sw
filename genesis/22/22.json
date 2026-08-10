@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Na ⟨את⟩ Kesedi, na ⟨את⟩ Hazo, na ⟨את⟩ Pildashi, na ⟨את⟩ Yidlafi, na ⟨את⟩ Bethueli.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kesedi"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Kesedi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hazo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Hazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Pildashi"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Pildashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yidlafi"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Yidlafi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Bethueli"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Bethueli"
+    }
+  ],
+  "timestamp": "2026-08-10T10:06:09.767380479Z",
+  "model": "glm-5.2"
+}

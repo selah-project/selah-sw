@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Kumfungia wakuu wake kwa nafsi yake, na wazee wake kumfundisha hekima.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "Kumfungia"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "wakuu wake"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "kwa nafsi yake"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "na wazee wake"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "kumfundisha hekima"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:05.263128697Z",
+  "model": "glm-5.2"
+}

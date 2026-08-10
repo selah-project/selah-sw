@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Hawakulishikia agano la Elohim, na katika torati yake walikataa kuendelea.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hawa"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "kulishikia"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "agano la"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "na katika torati yake"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "walikataa"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuendelea"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:40.514319248Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 36:20",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Wakaingia kwa mataifa walipokwenda huko, wakapotosha ⟨את⟩ jina takatifu langu, wakisema kwa ajili yao: hawa ndio watu wa Yahweh, na kutoka nchi yake wametoka.",
+  "tokens": [
+    {
+      "surface": "ובוא",
+      "gloss": "wakaingia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "walipo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kokwenda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    },
+    {
+      "surface": "ויחללו",
+      "gloss": "wakapotosha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "takatifu langu"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "wakisema"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa ajili yao"
+    },
+    {
+      "surface": "עם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "ומארצו",
+      "gloss": "na kutoka nchi yake"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "wametoka"
+    }
+  ],
+  "timestamp": "2026-08-10T16:13:59.644766789Z",
+  "model": "glm-5.2"
+}

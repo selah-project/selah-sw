@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na watu wake ambao walikuwa pamoja naye, David aliwapandaisha, kila mtu na nyumba yake; wakakaa katika miji ya Chebroni.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "Na watu wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "walikuwa pamoja naye"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "aliwapandaisha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "na nyumba yake"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "wakakaa"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "katika miji ya"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebroni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:29:09.865448624Z",
+  "model": "glm-5.2"
+}

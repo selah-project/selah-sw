@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Na wana wa Yisra'el walio kuwepo waliifanya ⟨את⟩ Pasaka wakati huo, na ⟨את⟩ sikukuu ya mikate isiyochachuka siku saba.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "na wakafanya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "walio kuwepo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pasaka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pasaka"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "huo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "sikukuu"
+    },
+    {
+      "surface": "חג",
+      "gloss": "sikukuu"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ya mikate isiyochachuka"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "saba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    }
+  ],
+  "timestamp": "2026-08-10T14:20:31.748373648Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 47,
+  "translation": "Elohim amepanda kwa nguvu za mayowe, Yahweh kwa sauti ya baragumu.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "amepanda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "kwa nguvu za mayowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kwa sauti"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ya baragumu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:13.109807528Z",
+  "model": "glm-5.2"
+}

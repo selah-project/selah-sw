@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na ⟨את⟩ nyumba ya Yehudha nitawareaheemu, nami nitawaokoa kwa Yahweh Elohim wao; wala siwaokoi kwa upinde, wala kwa upanga, wala kwa vita, kwa farasi, wala kwa wapanda farasi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehudha"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "nitawareaheemu"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "nami nitawaokoa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "waokoi"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "kwa upinde"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "wala kwa upanga"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "wala kwa vita"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "kwa farasi"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "wala kwa wapanda farasi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:41:13.049516100Z",
+  "model": "glm-5.2"
+}

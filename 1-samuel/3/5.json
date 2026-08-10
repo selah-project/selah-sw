@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Naye akakimbia kwa Eli, naye akasema, Tena niko hapa, maana wewe uliniita. Naye akasema, Sikukuita; rudi lala. Naye akaenda akalala.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "naye akakimbia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akasema"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tena niko hapa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "wewe uliita"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akasema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nikukuita"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "rudi"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lala"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "naye akaenda"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "akalala"
+    }
+  ],
+  "timestamp": "2026-08-10T16:00:09.529724505Z",
+  "model": "glm-5.2"
+}

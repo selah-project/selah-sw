@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 139,
+  "translation": "Niwachukue mabawa ya mwanzo wa mapambazuko, nikaishi katika mwisho wa bahari —",
+  "tokens": [
+    {
+      "surface": "אֶשָּׂא",
+      "gloss": "Niwachukue"
+    },
+    {
+      "surface": "כַנְפֵי",
+      "gloss": "mabawa ya"
+    },
+    {
+      "surface": "שָׁחַר",
+      "gloss": "mwanzo wa mapambazuko"
+    },
+    {
+      "surface": "אֶשְׁכְּנָה",
+      "gloss": "nikaishi"
+    },
+    {
+      "surface": "בְּאַחֲרִית",
+      "gloss": "katika mwisho wa"
+    },
+    {
+      "surface": "יָם",
+      "gloss": "bahari"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:04.244506271Z",
+  "model": "glm-5.2"
+}

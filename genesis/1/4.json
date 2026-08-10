@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Elohim akaona ⟨את⟩ nuru, kwamba ⟨ilikuwa⟩ nzuri; na Elohim akatenga kati ya nuru na kati ya giza.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "na akaona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nuru"
+    },
+    {
+      "surface": "האור",
+      "gloss": "nuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nzuri"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "na akatenga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "האור",
+      "gloss": "nuru"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "giza"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:04.769457340Z",
+  "model": "glm-5.2"
+}

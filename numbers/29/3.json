@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Na tunu yao: unga wa kusagwa uliyounguzwa na mafuta, sehemu kumi tatu kwa ndama, sehemu kumi mbili kwa alkale.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "Na tunu yao"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "unga wa kusagwa"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "uliyounguzwa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "sehemu kumi"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "kwa ndama"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "sehemu kumi"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "kwa alkale"
+    }
+  ],
+  "timestamp": "2026-08-10T10:49:52.709612773Z",
+  "model": "glm-5.2"
+}

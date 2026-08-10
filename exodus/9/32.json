@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Lakini ngano na nkumu hazikupigwa, kwa sababu ⟨ni⟩ za majira ya marefu.»",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "Lakini ngano"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "na nkumu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haziku"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "pigwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "za majira ya marefu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨ni⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:02.215427945Z",
+  "model": "glm-5.2"
+}

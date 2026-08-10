@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Naye akawachechesha kama ndama, Levanoni na Sirioni kama mwana wa nyati pori.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "Naye akawachechesha"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ndama"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Levanoni"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "na Sirioni"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "wa nyati pori"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:22.459466215Z",
+  "model": "glm-5.2"
+}

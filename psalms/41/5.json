@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Mimi nilisema: Yahweh, nihurumie, ponza nafsi yangu, maana nimekosa dhiki ⟨kwa⟩ wewe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nilisema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "nihurumie"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "ponza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nimekosa dhiki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kwa⟩ wewe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:09.488220176Z",
+  "model": "glm-5.2"
+}

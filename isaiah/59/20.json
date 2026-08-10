@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 59:20",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 59,
+  "translation": "Na atakuja kwa Tsiyoni mkombozi, na kwa wanaorejea uasi kayYaqob, hotuba ya Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "na atakuja"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "kwa Tsiyoni"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "mkombozi"
+    },
+    {
+      "surface": "ולשבי",
+      "gloss": "na kwa wanaorejea"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "uasi"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "kayYaqob"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "hotuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T15:08:35.127650897Z",
+  "model": "glm-5.2"
+}

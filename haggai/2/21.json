@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Sema na Zerubaveli, mkuu wa Yehudah, ukisema: Mimi ninatikisa ⟨את⟩ mbingu na ⟨את⟩ nchi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Sema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubaveli"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukisema"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ninatikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbingu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:50:06.859690920Z",
+  "model": "glm-5.2"
+}

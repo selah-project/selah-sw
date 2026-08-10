@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Ghadhabu ya Yahweh ikawaka juu ya watu wake, akachukiza ⟨את⟩ urithi wake",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ikawaka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ghadhabu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "juu ya watu wake"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "akachukiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urithi wake"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "urithi wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:02.973337838Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Nawe utarudi na kusikiliza kwa sauti ya Yahweh, na kutenda ⟨את⟩ amri zote zake ambazo mimi nakutengeneza leo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "utarudi"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "na-kusikiliza"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kwa sauti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "na-kutenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amri zote zake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "amri zake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nakutengeneza"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    }
+  ],
+  "timestamp": "2026-08-10T11:02:55.246803032Z",
+  "model": "glm-5.2"
+}

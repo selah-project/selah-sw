@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na siku ya nane ⟨itashindwa⟩ kutwa kiwambo cha nyama yake.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Na siku ya"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "nane"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "⟨itashindwa⟩ kutwa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "kiwambo cha yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:53:37.276127283Z",
+  "model": "glm-5.2"
+}

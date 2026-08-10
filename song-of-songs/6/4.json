@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Wewe ⟨את⟩ ni mzuri, mpenzi wangu, kama Tirzah, mzuri kama Yerushalayim, una kutisha kama majeshi yaliyowekwa bendera.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "mzuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "wewe",
+      "marks": "mzuri, mpenzi wangu"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mpenzi wangu"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "kama Tirzah"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "mzuri"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "kama Yerushalayim"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "una kutisha"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "kama majeshi yaliyowekwa bendera"
+    }
+  ],
+  "timestamp": "2026-08-10T13:41:59.918156816Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 111,
+  "translation": "Nguvu ya matendo yake ameonyesha kwa watu wake, ili kuwapa urithi wa mataifa.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "Nguvu"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ya matendo yake"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ameonyesha"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kwa watu wake"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ili kuwapa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨wao⟩"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "urithi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "wa mataifa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:49.185500066Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "na uihifadhi ⟨את⟩ amri za Yahweh Elohim wako, kuenda katika njia zake na kumcha ⟨את⟩ ⟨yeye⟩.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "na uihifadhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amri"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "za Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "katika njia zake"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "na kumcha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨yeye⟩",
+      "marks": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:56:22.476346939Z",
+  "model": "glm-5.2"
+}

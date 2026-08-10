@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Mwanadamu katika heshima, naye ⟨hali⟩ hafahamu, amefananishwa na wanyama; wamekufa.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Mwanadamu"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "katika heshima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "naye hafahamu"
+    },
+    {
+      "surface": "יבין",
+      "gloss": ""
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "amefananishwa"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "na wanyama"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "wamekufa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:58.457441591Z",
+  "model": "glm-5.2"
+}

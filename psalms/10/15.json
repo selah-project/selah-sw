@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Vunja mkono wa mwovu; na wa mwovu, yatafute uovu wake — ⟨hautakuta⟩ kitu.",
+  "tokens": [
+    {
+      "surface": "שְׁ֭בֹר",
+      "gloss": "Vunja"
+    },
+    {
+      "surface": "זְר֣וֹעַ",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "רָשָׁ֑ע",
+      "gloss": "wa mwovu"
+    },
+    {
+      "surface": "וָ֝רָ֗ע",
+      "gloss": "na wa mwovu"
+    },
+    {
+      "surface": "תִּֽדְרוֹשׁ",
+      "gloss": "yatafute"
+    },
+    {
+      "surface": "רִשְׁע֥וֹ",
+      "gloss": "uovu wake"
+    },
+    {
+      "surface": "בַל",
+      "gloss": "⟨hautakuta⟩"
+    },
+    {
+      "surface": "תִּמְצָֽא",
+      "gloss": "kitu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:16:33.798809865Z",
+  "model": "glm-5.2"
+}

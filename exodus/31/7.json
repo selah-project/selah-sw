@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "⟨את⟩ hema ya mkutano, na ⟨את⟩ sanda la ushahidi, na ⟨את⟩ kifuniko cha dhambi ambacho juu yake, na ⟨את⟩ vyombo vyote vya hema —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema ya mkutano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "sanda la ushahidi"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanda"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "la ushahidi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kifuniko cha dhambi"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kifuniko cha dhambi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambacho"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vyombo vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vyombo"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "vya hema"
+    }
+  ],
+  "timestamp": "2026-08-10T14:31:32.592402236Z",
+  "model": "glm-5.2"
+}

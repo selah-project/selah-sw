@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na Ashhur baba wa Tekoa alikuwa na wake wawili, Chelah na Naarah.",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "Na Ashhur"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba wa"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekoa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "alikuwa na"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "wake"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "Chelah"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "na Naarah"
+    }
+  ],
+  "timestamp": "2026-08-10T14:05:00.075420412Z",
+  "model": "glm-5.2"
+}

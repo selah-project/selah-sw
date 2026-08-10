@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Na ⟨את⟩ nchi ambayo niliipa Avraham na Yitschak—kwako mimi nito ⟨את⟩ ⟨hiyo⟩, na kwa mziao baada yako mimi nito ⟨את⟩ ⟨hiyo⟩ nchi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "niliipa"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kwa Avraham"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "na kwa Yitschak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "nito ⟨hiyo⟩",
+      "marks": "nchi (ya kwanza)"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "na kwa mziao"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "baada yako"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nito ⟨hiyo⟩",
+      "marks": "nchi (ya pili)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T17:40:28.533506061Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 24:8",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Nikawaleta ⟨את⟩ ninyi katika nchi ya Waemori, mkaao ng'ambo ya Yardeni; wakapigana nanyi, nikawapa katika mikono yenu, mkairithi ⟨את⟩ nchi yao, nikaawaangamiza mbele zenu.",
+  "tokens": [
+    {
+      "surface": "ואבאה",
+      "gloss": "nikawaleta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "katika"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ya Waemori"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "mkaao"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ng'ambo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ya Yardeni"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "wakapigana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nanyi",
+      "marks": "nanyi"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "nikawapa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wao"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "katika mikono yenu"
+    },
+    {
+      "surface": "ותירשו",
+      "gloss": "mkairithi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi yao"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nchi yao"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "nikaawaangamiza"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "mbele zenu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:11:47.418931387Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na Avraham akaweka ⟨את⟩ saba za kondoo wa kike peke yao.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "Na akaweka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saba za kondoo wa kike"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "saba"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "za kondoo wa kike"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ya kundi"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "peke yao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:06:10.957475252Z",
+  "model": "glm-5.2"
+}

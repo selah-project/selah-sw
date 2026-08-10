@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Yahweh, kwa mapendezo yako ulisimamisha milima yangu ⟨kuwa⟩ nguvu; ulificha uso wako, nikaisha nimetetereka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "kwa mapendezo yako"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "ulisimamisha"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "milima yangu"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguvu"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "ulificha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uso wako"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nikaisha"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "nimetetereka"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:24.454385042Z",
+  "model": "glm-5.2"
+}

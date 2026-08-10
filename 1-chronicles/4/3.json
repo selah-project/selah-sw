@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na hawa walikuwa wa baba wa Eytam: Yizreeli, Yishma, na Yidbash; na jina la dada yao ⟨ulikuwa⟩ Tselelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na hawa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Eytam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreeli"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "Yishma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "Yidbash"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na jina"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "dada yao"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Tselelponi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:04:48.926303692Z",
+  "model": "glm-5.2"
+}

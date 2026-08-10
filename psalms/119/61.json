@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Kamba za waovu zimenifunga, Torah yako sikuisahau.",
+  "tokens": [
+    {
+      "surface": "חֶבְלֵ֣י",
+      "gloss": "kamba za"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "waovu"
+    },
+    {
+      "surface": "עִוְּדֻ֑נִי",
+      "gloss": "zimenifunga"
+    },
+    {
+      "surface": "תּֽ֝וֹרָתְךָ֗",
+      "gloss": "Torah yako"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "si"
+    },
+    {
+      "surface": "שָׁכָֽחְתִּי",
+      "gloss": "kuisahau"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:27.119503700Z",
+  "model": "glm-5.2"
+}

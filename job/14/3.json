@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Je, juu ya ⟨huyo⟩ unafungua macho yako, na ⟨את⟩ mimi unaleta katika hukumu pamoja nawe?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Je"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨huyo⟩"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "unafungua"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "macho yako"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "mimi"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "unaleta"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "katika hukumu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pamoja nawe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:33:51.694037830Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Maana angalia, Yahweh anatoka mahali pake, naye atashuka, naye atakanyaga juu ya maeneo ya juu ya nchi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "angalia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "anatoka"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "mahali pake"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "naye atashuka"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "naye atakanyaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "maeneo ya juu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:47:54.191121554Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Kwa hiyo nimeapa kwa nyumba ya Eli: Udhibaini wake wa nyumba ya Eli hauwezi kusamehwa kwa dhabihu wala kwa toleo hata milele.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "kwa hiyo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nimeapa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kwa nyumba"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ya Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "udhibaini"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "hauwezi kusamehwa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "wake"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ya Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "kwa dhabihu"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "wala kwa toleo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T11:20:23.469204714Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 55,
+  "translation": "Kwa maana mbingu zimeinuka juu kuliko nchi, vivyo hivyo njia zangu zimeinuka juu kuliko njia zenu, na mawazo yangu kuliko mawazo yenu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "zimeinuka juu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuliko nchi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "zimeinuka juu"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "njia zangu"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "kuliko njia zenu"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "na mawazo yangu"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "kuliko mawazo yenu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:07:28.960065067Z",
+  "model": "glm-5.2"
+}

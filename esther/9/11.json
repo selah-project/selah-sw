@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Siku hiyo, idadi ya waliouawa huko Shushan ⟨katika⟩ ngome ilifika mbele za mfalme.",
+  "tokens": [
+    {
+      "surface": "בַּיּ֣וֹם",
+      "gloss": "Siku"
+    },
+    {
+      "surface": "הַה֗וּא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "בָּ֣א",
+      "gloss": "ilifika"
+    },
+    {
+      "surface": "מִסְפַּ֧ר",
+      "gloss": "idadi"
+    },
+    {
+      "surface": "הַֽהֲרוּגִ֛ים",
+      "gloss": "ya waliouawa"
+    },
+    {
+      "surface": "בְּשׁוּשַׁ֥ן",
+      "gloss": "huko Shushan"
+    },
+    {
+      "surface": "הַבִּירָ֖ה",
+      "gloss": "⟨katika⟩ ngome"
+    },
+    {
+      "surface": "לִפְנֵ֥י",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "הַמֶּֽלֶךְ",
+      "gloss": "mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T17:56:40.170035922Z",
+  "model": "glm-5.2"
+}

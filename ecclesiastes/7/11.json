@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Hekima ni nzuri pamoja na urithi, na faida kwa wanaoiona jua.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "nzuri"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Hekima"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "urithi"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "na faida"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "kwa wanaoiona"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "jua"
+    }
+  ],
+  "timestamp": "2026-08-10T13:47:01.883559918Z",
+  "model": "glm-5.2"
+}

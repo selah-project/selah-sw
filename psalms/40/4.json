@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Akaweza ⟨neno⟩ kinywani mwangu, wimbo mpya, sifa kwa Elohim wetu; wataona wengi na wataogopa, na watatumaini katika Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akaweka"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "kinywani mwangu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mpya"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "sifa"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "kwa Elohim wetu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "wataona"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "na wataogopa"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "na watatumaini"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "katika Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:51.438143341Z",
+  "model": "glm-5.2"
+}

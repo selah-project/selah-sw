@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Wakapiga kwa upanga kila nafsi iliyokuwa humo; wakaiazima kabisa — hakubaki mtu yeyote anayepumua. Na ⟨את⟩ Hatsori akauchoma kwa moto.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "wakapiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kila nafsi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nafsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iliyokuwa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "humo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "kwa makali"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ya upanga"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "wakaiazima kabisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haku"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "baki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yeyote"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "anayepumua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hatsori"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsori"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "akauchoma"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kwa moto"
+    }
+  ],
+  "timestamp": "2026-08-10T11:08:20.596317475Z",
+  "model": "glm-5.2"
+}

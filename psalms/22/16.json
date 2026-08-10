@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Nguvu zangu zimekauka kama kipande cha udongo, na ulimi wangu umeshikamana na taya zangu, na kwenye mavumbi ya mauti ⟨umeniweka⟩.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "zimekauka"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "kama kipande cha udongo"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "Nguvu zangu"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "na ulimi wangu"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "umeshikamana"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "na taya zangu"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "na kwenye mavumbi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ya mauti"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "⟨umeniweka⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:47.695246878Z",
+  "model": "glm-5.2"
+}

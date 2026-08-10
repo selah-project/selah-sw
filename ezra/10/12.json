@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na akili jumla ikajibu, wakasema kwa sauti kubwa: Ndiyo, kama maneno yako juu yetu, kufanya.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "na akili ikajibu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jumla"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "akili"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wakasema"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndiyo"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "kama maneno yako"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "juu yetu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kufanya"
+    }
+  ],
+  "timestamp": "2026-08-10T16:26:43.101559634Z",
+  "model": "glm-5.2"
+}

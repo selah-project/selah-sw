@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Na ⟨את⟩ ayili ya kujaza utakatifu utachukua, na ukipika ⟨את⟩ nyama yake mahali pa utakatifu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "ayili ya kujaza utakatifu"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ayili"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "ya kujaza utakatifu"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "utachukua"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "na ukipika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama yake"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nyama yake"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "mahali pa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "utakatifu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:26:44.754401173Z",
+  "model": "glm-5.2"
+}

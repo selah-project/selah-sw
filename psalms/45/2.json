@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "Moyo wangu unachemcha neno zuri; ⟨mimi⟩ nasema kazi zangu kwa mfalme; ulimi wangu ⟨ni⟩ kalamu ya mwandishi mwepesi.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "unachemcha"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Moyo wangu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zuri"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nasema"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨mimi⟩"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "kazi zangu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kwa mfalme"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ulimi wangu"
+    },
+    {
+      "surface": "עט",
+      "gloss": "kalamu ya"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "mwandishi"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "mwepesi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:31.528025039Z",
+  "model": "glm-5.2"
+}

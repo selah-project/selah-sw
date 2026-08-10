@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 131,
+  "translation": "Israel, watege Yahweh, kutoka sasa na hata milele.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "watege"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kutoka sasa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na hata"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:49.986578649Z",
+  "model": "glm-5.2"
+}

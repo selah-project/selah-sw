@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Kwa kuwa hukumu zote zangu ⟨zilikuwa⟩ mbele yangu, wala amri zake sikugeuza kutoka kwangu.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "מִשְׁפָּטָ֣יו",
+      "gloss": "hukumu zake"
+    },
+    {
+      "surface": "לְנֶגְדִּ֑י",
+      "gloss": "mbele yangu"
+    },
+    {
+      "surface": "וְ֝חֻקֹּתָ֗יו",
+      "gloss": "na amri zake"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "אָסִ֥יר",
+      "gloss": "geuza"
+    },
+    {
+      "surface": "מֶֽנִּי",
+      "gloss": "kutoka kwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:53.107635713Z",
+  "model": "glm-5.2"
+}

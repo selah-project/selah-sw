@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Hakuna awezaye kufananishwa nawe, Yahweh; wewe u mkubwa, na jina lako ni kubwa kwa nguvu.",
+  "tokens": [
+    {
+      "surface": "מֵאֵ֥ין",
+      "gloss": "Hakuna"
+    },
+    {
+      "surface": "כָּמ֖וֹךָ",
+      "gloss": "awezaye kufananishwa nawe"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גָּד֥וֹל",
+      "gloss": "mkubwa"
+    },
+    {
+      "surface": "אַתָּ֛ה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "וְגָד֥וֹל",
+      "gloss": "na ni kubwa"
+    },
+    {
+      "surface": "שִׁמְךָ֖",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "בִּגְבוּרָֽה",
+      "gloss": "kwa nguvu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:09:16.878779838Z",
+  "model": "glm-5.2"
+}

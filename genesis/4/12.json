@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Utakapolima ⟨את⟩ ardhi haitazidi kutoa nguvu yake kwako; utakuwa mtaabudi na mtoroki ⟨kwenye⟩ nchi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "utakapo"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ulima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ardhi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ardhi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haitazidi"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "zidi"
+    },
+    {
+      "surface": "תת",
+      "gloss": "kutoa"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "nguvu yake"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "נע",
+      "gloss": "mtaabudi"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "na mtoroki"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "utakuwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:31.836858720Z",
+  "model": "glm-5.2"
+}

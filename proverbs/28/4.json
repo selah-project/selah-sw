@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Waachao torah wanamsifu mbaya, na wazitunzao torah ⟨watapigana nao⟩.",
+  "tokens": [
+    {
+      "surface": "עֹזְבֵ֣י",
+      "gloss": "waachao"
+    },
+    {
+      "surface": "ת֭וֹרָה",
+      "gloss": "torah"
+    },
+    {
+      "surface": "יְהַֽלְל֣וּ",
+      "gloss": "wanamsifu"
+    },
+    {
+      "surface": "רָשָׁ֑ע",
+      "gloss": "mbaya"
+    },
+    {
+      "surface": "וְשֹׁמְרֵ֥י",
+      "gloss": "na wazitunzao"
+    },
+    {
+      "surface": "ת֝וֹרָ֗ה",
+      "gloss": "torah"
+    },
+    {
+      "surface": "יִתְגָּ֥רוּ",
+      "gloss": "⟨watapigana⟩"
+    },
+    {
+      "surface": "בָֽם",
+      "gloss": "nao"
+    }
+  ],
+  "timestamp": "2026-08-10T17:55:30.037881422Z",
+  "model": "glm-5.2"
+}

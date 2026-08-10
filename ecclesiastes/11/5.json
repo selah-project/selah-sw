@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Kama ambavyo wewe hujui njia ya upepo, ⟨kama⟩ mifupa tumboni mwa ⟨mama⟩ mwenye mimba, vivyo hivyo hutajua ⟨את⟩ kazi ya Elohim anayefanya ⟨את⟩ yote.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kama ambavyo"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "wewe hu-"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "-jui"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njia"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ya upepo"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "mifupa"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "tumboni mwa"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "mwenye mimba"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hu-"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "-tajua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kazi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anayefanya"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "(anayefanya)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yote"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "yote"
+    }
+  ],
+  "timestamp": "2026-08-10T13:48:22.449766119Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Kwa mwon-go' ni Zaburi ya David, wimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa mwongo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Zaburi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wimbo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:27.579567995Z",
+  "model": "glm-5.2"
+}

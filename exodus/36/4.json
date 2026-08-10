@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Wakaenda watu wote wenye hekima wafanyao ⟨את⟩ kazi yote ya ⟨the⟩ sehemu takatifu, kila mtu kutoka kazi yake ambayo walikuwa wakifanya.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "wakaenda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "wenye hekima"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "wafanyao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kazi yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya sehemu takatifu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "kutoka kazi yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "walikuwa"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "wakifanya"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:09.173058914Z",
+  "model": "glm-5.2"
+}

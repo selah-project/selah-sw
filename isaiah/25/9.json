@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 25:9",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na ⟨utakuwa⟩ umesema siku hiyo: Tazama, Elohim yetu ⟨ndiye⟩ huu; tumngojea yeye, naye niokue; huyu ni Yahweh, tumngojea yeye; tufurahi na kushangilia katika wokovu wake.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Na ⟨utakuwa⟩ umesema"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim yetu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "huu"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "tumngojea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ויושיענו",
+      "gloss": "naye niokue"
+    },
+    {
+      "surface": "זה",
+      "gloss": "huyu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "tumngojea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "tufurahi"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "na kushangilia"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "katika wokovu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:05:08.844809724Z",
+  "model": "glm-5.2"
+}

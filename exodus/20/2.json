@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Mimi ⟨ni⟩ Yahweh, Elohim wako, ambaye alikutoa kutoka nchi ya Mitsrayim, kutoka nyumbani mwa utumwa.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "alikutoa kutoka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nchi ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kutoka nyumbani mwa"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "utumwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:22:56.392040107Z",
+  "model": "glm-5.2"
+}

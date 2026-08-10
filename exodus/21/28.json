@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na ikiwa ng'ombe akimtukulia ⟨את⟩ mtu au ⟨את⟩ mke, na akafa, kwa kujipiga mawe ng'ombe hujipigwa mawe, wala nyama yake isiliwe; na mwenye ng'ombe huyo ⟨ni⟩ maso.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "akimtukulia"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mke"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mke"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "na akafa"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "kwa kujipiga mawe"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "hujipigwa mawe"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "isiliwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama yake"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nyama yake"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "na mwenye"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ng'ombe huyo"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "maso"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:07.964000909Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na atachukua ⟨את⟩ wawili wa billy, na kuwasimamisha ⟨אתם⟩ mbele ya Yahweh, ⟨kwenye⟩ mlango wa hema ya mkutano.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Na atachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawili wa billy"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "wa billy"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "na kuwasimamisha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wawili wa billy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mlango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wa hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:04.584900184Z",
+  "model": "glm-5.2"
+}

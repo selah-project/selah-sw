@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Siku saba utakula mikate yasiyo na chachu, na siku ya saba ⟨⟨ni⟩⟩ sikukuu kwa Yahweh.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "siku saba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "utakula"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "mikate yasiyo na chachu"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "na siku ya"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ya saba"
+    },
+    {
+      "surface": "חג",
+      "gloss": "sikukuu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:21:11.312873347Z",
+  "model": "glm-5.2"
+}

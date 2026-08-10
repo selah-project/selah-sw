@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 113,
+  "translation": "Na awe ⟨jina la⟩ Yahweh barikiwa, kutoka sasa na hata milele.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "na awe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "barikiwa"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kutoka sasa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na hata"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:29.275456944Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Ndipo David akashika nguo zake, akazirarua; na pia watu wote ⟨wale⟩ ambao ⟨walikuwa⟩ ⟨את⟩ pamoja naye.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "akashika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "nguo zake"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "akazirarua"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pamoja naye"
+    }
+  ],
+  "timestamp": "2026-08-10T11:29:04.184426192Z",
+  "model": "glm-5.2"
+}

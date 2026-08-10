@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Kama mbega ⟨anavyo⟩ kiu juu ya vijito vya maji, vivyo hivyo nefesh yangu ⟨ina⟩ kiu ⟨kwa⟩ wewe, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Kama mbega"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "kiu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "vijito"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vya maji"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh yangu"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "kiu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨kwa⟩ wewe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:11.893083889Z",
+  "model": "glm-5.2"
+}

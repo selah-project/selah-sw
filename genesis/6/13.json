@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 6:13",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na Elohim akamwambia Noachi: Mwisho wa nyama yote imekuja mbele yangu, kwani nchi imejaa chuki kutokana na uso wao, na tazama, mimi naharibu wao pamoja na ⟨את⟩ nchi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akamwambia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "Noachi"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "mwisho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wa nyama yote"
+    },
+    {
+      "surface": "בשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בא",
+      "gloss": "imekuja"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele yangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "imejaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "chuki"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "kutokana na uso wao"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "na tazama, mimi"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "naharibu wao pamoja na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:02:47.146412262Z",
+  "model": "glm-5.2"
+}

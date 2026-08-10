@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Wimbo wa dithirambi la David, aliouimbia kwa Yahweh, kuhusu maneno ya Kushi mwana wa Yemini.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "wimbo wa dithirambi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "la David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "שר",
+      "gloss": "aliouimbia"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuhusu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno ya"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Yemini"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:27.460259606Z",
+  "model": "glm-5.2"
+}

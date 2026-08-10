@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na Shaharayim alizaa ⟨katika⟩ shamba la Moabu baada ya kuwaacha ⟨את⟩ ⟨wakiwa⟩ ⟨את⟩ Hushimu na ⟨את⟩ Baara wake.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "Na Shaharayim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "⟨katika⟩ shamba la"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "kuwaacha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨wakiwa⟩"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "⟨את⟩ Hushimu",
+      "marks": "Hushimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "wake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:42:55.333780706Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 98,
+  "translation": "Bahari na igurume, na ⟨hiyo⟩ kujaa kwake, dunia, na wakaazi wake.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "na igurume"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "na kujaa kwake"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "na wakaazi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "wake"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:32.800210210Z",
+  "model": "glm-5.2"
+}

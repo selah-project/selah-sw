@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na ⟨ye⟩ ataingia katika ufalme wa mfalme wa kusini, na atarudi katika nchi yake.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Na ataingia"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "katika ufalme"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa mfalme"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "wa kusini"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "na atarudi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenda"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "katika nchi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:55:40.308543743Z",
+  "model": "glm-5.2"
+}

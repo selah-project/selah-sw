@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "na kwa msafi unajidhihirisha msafi, na kwa mwinama unajipinda;",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "msafi"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "unajidhihirisha msafi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "mwinama"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "unajipinda"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:50.550787863Z",
+  "model": "glm-5.2"
+}

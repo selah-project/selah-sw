@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 12:7",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na wewe, urudi kwa Elohim wako; shika chesed (wema waaminifu) na haki, na tumaini kwa Elohim wako daima.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wewe"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "kwa Elohim wako"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "urudi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed (wema waaminifu)"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na haki"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "shika"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "na tumaini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    }
+  ],
+  "timestamp": "2026-08-10T15:20:54.015731408Z",
+  "model": "glm-5.2"
+}

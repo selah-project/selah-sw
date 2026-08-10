@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 25:29",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na utatengenza sahani zake, na vyombo vyake vya kumimina, na vyakavisha vyake, na bakuli zake, ambazo zitamiminwa kwayo — dhahabu safi utazitengenza ⟨את⟩ hizo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Na utatengenza"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "sahani zake"
+    },
+    {
+      "surface": "וכפתיו",
+      "gloss": "na vyombo vyake vya kumimina"
+    },
+    {
+      "surface": "וקשותיו",
+      "gloss": "na vyakavisha vyake"
+    },
+    {
+      "surface": "ומנקיתיו",
+      "gloss": "na bakuli zake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "zitamiminwa"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "kwayo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "safi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "utazitengenza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hizo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:25:26.389872052Z",
+  "model": "glm-5.2"
+}

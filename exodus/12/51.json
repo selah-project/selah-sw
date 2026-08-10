@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na ikawa siku hiyo yenyewe Yahweh alimtoleza ⟨את⟩ wana wa Yisra'el kutoka nchi ya Mitsrayim kwa majeshi yao.",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֕י",
+      "gloss": "Na ikawa"
+    },
+    {
+      "surface": "בְּעֶ֖צֶם",
+      "gloss": "yenyewe"
+    },
+    {
+      "surface": "הַיּ֣וֹם",
+      "gloss": "siku"
+    },
+    {
+      "surface": "הַזֶּ֑ה",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "הוֹצִ֨יא",
+      "gloss": "alimtoleza"
+    },
+    {
+      "surface": "יְהוָ֜ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wana wa Yisra'el"
+    },
+    {
+      "surface": "בְּנֵ֧י",
+      "gloss": "wana"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֛ל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "מֵאֶ֥רֶץ",
+      "gloss": "kutoka nchi"
+    },
+    {
+      "surface": "מִצְרַ֖יִם",
+      "gloss": "ya Mitsrayim"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "צִבְאֹתָֽם",
+      "gloss": "majeshi yao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:42.777345900Z",
+  "model": "glm-5.2"
+}

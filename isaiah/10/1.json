@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Ole wenu waandikao sheria za uovu, na waandikao maudhi, wameyaandika;",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ole"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "wenu waandikao"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "sheria za"
+    },
+    {
+      "surface": "און",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "na waandikao"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "maudhi"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "wameyaandika"
+    }
+  ],
+  "timestamp": "2026-08-10T11:57:05.794733053Z",
+  "model": "glm-5.2"
+}

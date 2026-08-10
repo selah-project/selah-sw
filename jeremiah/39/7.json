@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "Na ⟨את⟩ macho ya Tsidkiyahu akayapofusha, akamfunga kwa minyororo ya shaba, kumleta ⟨את⟩ Babeli.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "macho"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "macho"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ya Tsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "akayapofusha"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "akamfunga"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "kwa minyororo ya shaba"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "kumleta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Babeli"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babeli"
+    }
+  ],
+  "timestamp": "2026-08-10T12:20:48.057950358Z",
+  "model": "glm-5.2"
+}

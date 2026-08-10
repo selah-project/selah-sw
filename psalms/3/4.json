@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Lakini wewe, Yahweh, ⟨umekuwa⟩ ngao kuzunguka niliyo nayo; utukufu wangu, na mwinuae kichwa changu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Lakini wewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ngao"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "kuzunguka niliyo nayo"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "utukufu wangu"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "na mwinuae"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kichwa changu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:12.080993163Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na wewe utamtakasa, kwa maana ⟨yeye⟩ ndiye anayemkaribishia ⟨את⟩ chakula cha Mungu wako; atakuwa mtakatifu kwako, kwa maana mimi ni mtakatifu, mimi Yahweh anayewatakasa.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "Na wewe utamtakasa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chakula cha Mungu wako"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chakula"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "cha Mungu wako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "anayemkaribishia"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mtakatifu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "atakuwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mtakatifu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "anayewatakasa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:12.573882124Z",
+  "model": "glm-5.2"
+}

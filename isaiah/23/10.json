@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Pita katika nchi yako kama mto, Ee binti wa Tarshishi — hakuna ⟨kinachokubana⟩ tena.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Pita"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "katika nchi yako"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "kama mto"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Ee binti"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "wa Tarshishi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "kinachokubana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    }
+  ],
+  "timestamp": "2026-08-10T11:59:31.651951482Z",
+  "model": "glm-5.2"
+}

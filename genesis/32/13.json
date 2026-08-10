@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 32:13",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Na wewe ulisema: 'Kwa hakika nitatenda mema nawe, nami nitaweka ⟨את⟩ mzigo wako kama mchanga wa bahari, ambao hauwezi kuhesabiwa kwa wingi.'",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na wewe"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ulisema"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "kwa hakika nitatenda mema"
+    },
+    {
+      "surface": "איטיב",
+      "gloss": "nitatenda mema"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "nami nitaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzigo wako"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mzigo wako"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "kama mchanga"
+    },
+    {
+      "surface": "הים",
+      "gloss": "wa bahari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "wezi kuhesabiwa"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "kwa wingi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:10:09.085033681Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 135,
+  "translation": "⟨enyi⟩ wasimamo katika nyumba ya Yahweh, katika viwanja vya nyumba ya Elohim wetu,",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "⟨enyi⟩ wasimamo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "katika nyumba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "katika viwanja vya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:08.445411818Z",
+  "model": "glm-5.2"
+}

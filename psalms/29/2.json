@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Toeni kwa Yahweh kavod la jina lake; susununi mbele ya Yahweh katika mapambo ya kudeshi.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Toeni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "la jina lake"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "susununi mbele ya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "katika mapambo ya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudeshi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:36.107598368Z",
+  "model": "glm-5.2"
+}

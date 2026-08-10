@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "Kulingana na uchafu wao na kulingana na maasi yao niliwatendea; nikaificha uso wangu kutoka kwao.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "kulingana na uchafu wao"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "na kulingana na maasi yao"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "niliwatendea"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "nikaificha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso wangu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kutoka kwao"
+    }
+  ],
+  "timestamp": "2026-08-10T12:37:31.386135860Z",
+  "model": "glm-5.2"
+}

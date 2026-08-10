@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Kila mahali, macho ya Yahweh ⟨yapo⟩, yatazama yabaya na yatabora.",
+  "tokens": [
+    {
+      "surface": "בְּֽכָל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "מָ֭קוֹם",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "עֵינֵ֣י",
+      "gloss": "macho"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "צֹ֝פ֗וֹת",
+      "gloss": "yatazama"
+    },
+    {
+      "surface": "רָעִ֥ים",
+      "gloss": "yabaya"
+    },
+    {
+      "surface": "וְטוֹבִֽים",
+      "gloss": "na yatabora"
+    }
+  ],
+  "timestamp": "2026-08-10T13:26:00.420575030Z",
+  "model": "glm-5.2"
+}

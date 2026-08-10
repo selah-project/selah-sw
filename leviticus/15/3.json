@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Nasi hii ndiyo uchafu wake katika ute wake: mwili wake unatokana na ute, ⟨au⟩ mwili wake umefungika na ute wake; uchafu wake ndio huo.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "nasi hii"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ndiyo"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "uchafu wake"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "katika ute wake"
+    },
+    {
+      "surface": "רר",
+      "gloss": "unatokana"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mwili wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ute wake"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "ute wake"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "umefungika na"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mwili wake"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "na ute wake"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "uchafu wake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndio huo"
+    }
+  ],
+  "timestamp": "2026-08-10T14:34:46.912461750Z",
+  "model": "glm-5.2"
+}

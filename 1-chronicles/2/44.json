@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na Shama alimzaa ⟨את⟩ Raḥamu baba wa Yorkeamu; na Rekemu alimzaa ⟨את⟩ Shammay.",
+  "tokens": [
+    {
+      "surface": "ו שמע",
+      "gloss": "na Shama"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raḥamu"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "Raḥamu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba wa"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "Yorkeamu"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "na Rekemu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shammay"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Shammay"
+    }
+  ],
+  "timestamp": "2026-08-10T15:42:06.563062513Z",
+  "model": "glm-5.2"
+}

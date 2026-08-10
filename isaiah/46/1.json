@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 46:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 46,
+  "translation": "Bel ameinama, Nebo amejikunja; sanamu zao zimekuwa ⟨kwa⟩ mnyama na ⟨kwa⟩ mnyama wa kufugwa; vizigo vyenu, vilichukuliwa, ni mzigo kwa ⟨mnyama⟩ mchovu.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "ameinama"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Bel"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "amejikunja"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nebo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zimekuwa"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "sanamu zao"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "kwa mnyama"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "na kwa mnyama wa kufugwa"
+    },
+    {
+      "surface": "נשאתיכם",
+      "gloss": "vizigo vyenu"
+    },
+    {
+      "surface": "עמוסות",
+      "gloss": "vilichukuliwa"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ni mzigo"
+    },
+    {
+      "surface": "לעיפה",
+      "gloss": "kwa mchovu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:08:26.718682525Z",
+  "model": "glm-5.2"
+}

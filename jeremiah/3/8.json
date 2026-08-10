@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 3:8",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Nilipoona kwamba, kwa sababu zote ⟨ambazo⟩ mrejeo Yisraeli alizini, nilimtuma ⟨aha⟩ mbali, nikamtoa hati ya talaka yake; Dada yake asiye mwaminifu Yehuda hakuogopa, bali akaenda akazini pia yeye.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Nilipoona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "sababu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "נאפה",
+      "gloss": "alizini"
+    },
+    {
+      "surface": "משבה",
+      "gloss": "mrejeo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "שלחתיה",
+      "gloss": "nilimtambaali"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "nikamtoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hati"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "hati"
+    },
+    {
+      "surface": "כריתתיה",
+      "gloss": "ya talaka yake"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hakuogopa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hakuogopa"
+    },
+    {
+      "surface": "בגדה",
+      "gloss": "asiye mwaminifu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "dada yake"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "bali akaenda"
+    },
+    {
+      "surface": "ותזן",
+      "gloss": "akazini"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T12:10:48.618967681Z",
+  "model": "glm-5.2"
+}

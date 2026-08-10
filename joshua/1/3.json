@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kila mahali ambapo palipo ya mguu wenu papitapo, nimewapa ⟨hiyo⟩; kama nilivyosema na Moshe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kila"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "palipo ya mguu wenu papitapo"
+    },
+    {
+      "surface": "כף",
+      "gloss": "⟨palipo⟩"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "⟨mguu wenu⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "nimewapa ⟨hiyo⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nilivyosema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-10T14:45:13.182165095Z",
+  "model": "glm-5.2"
+}

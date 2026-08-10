@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Nami nitatembea kwa uhuru, maana miamitisho yako niliitafuta.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "nami nitatembea"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "kwa uhuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "miamitisho yako"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "niliitafuta"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:09.675646733Z",
+  "model": "glm-5.2"
+}

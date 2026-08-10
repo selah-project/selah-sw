@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Nikainua ⟨את⟩ macho yangu, nikaona, na tazama, pembe nne.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "nikainua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macho yangu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "macho yangu"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "nikaona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nne"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "pembe"
+    }
+  ],
+  "timestamp": "2026-08-10T16:15:49.646391944Z",
+  "model": "glm-5.2"
+}

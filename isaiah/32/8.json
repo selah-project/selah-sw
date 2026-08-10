@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Na mwema anashauriana mambo ya ukarimu, naye kwa mambo ya ukarimu atasimama.",
+  "tokens": [
+    {
+      "surface": "וְנָדִ֖יב",
+      "gloss": "na mwema"
+    },
+    {
+      "surface": "נְדִיב֣וֹת",
+      "gloss": "mambo ya ukarimu"
+    },
+    {
+      "surface": "יָעָ֑ץ",
+      "gloss": "anashauriana"
+    },
+    {
+      "surface": "וְה֖וּא",
+      "gloss": "naye"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נְדִיב֥וֹת",
+      "gloss": "mambo ya ukarimu"
+    },
+    {
+      "surface": "יָקֽוּם",
+      "gloss": "atasimama"
+    }
+  ],
+  "timestamp": "2026-08-10T12:02:35.758469597Z",
+  "model": "glm-5.2"
+}

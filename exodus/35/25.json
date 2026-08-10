@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Na kila mwanamke mwenye hekima wa moyo kwa mikono yake ⟨ali⟩sokota, wakawaleta uzi uliosokotwa: ⟨את⟩ rangi ya samawi na ⟨את⟩ rangi ya zambarau, ⟨את⟩ nyuzi za skimu na ⟨את⟩ kitani.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na kila"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "mwenye hekima"
+    },
+    {
+      "surface": "לב",
+      "gloss": "wa moyo"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "kwa mikono yake"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "⟨ali⟩sokota"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "wakawaleta"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "uzi uliosokotwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rangi ya samawi"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "rangi ya samawi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "rangi ya zambarau"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "rangi ya zambarau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyuzi za skimu"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "nyuzi za"
+    },
+    {
+      "surface": "השני",
+      "gloss": "skimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kitani"
+    },
+    {
+      "surface": "השש",
+      "gloss": "kitani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:28:39.111642917Z",
+  "model": "glm-5.2"
+}

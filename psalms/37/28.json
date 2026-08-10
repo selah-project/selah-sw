@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Kwa maana Yahweh anapenda haki, wala hatamwacha ⟨את⟩ watakatifu wake; wao huhifadhiwa milele, lakini mzao wa waovu hukatiliwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "anapenda"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "haki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "atamwacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watakatifu wake"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "watakatifu wake"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "wao huhifadhiwa"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "lakini mzao"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wa waovu"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "hukatiliwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:21.753538214Z",
+  "model": "glm-5.2"
+}

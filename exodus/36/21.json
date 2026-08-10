@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Urefu wa ⟨kila⟩ bao ⟨ulikuwa⟩ dhiraa kumi, na dhiraa na nusu ⟨ndilo⟩ upana wa bao moja.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dhiraa"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "urefu"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "bao"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na dhiraa"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na nusu"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "dhiraa"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "upana"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "bao"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moja"
+    }
+  ],
+  "timestamp": "2026-08-10T10:29:00.955060209Z",
+  "model": "glm-5.2"
+}

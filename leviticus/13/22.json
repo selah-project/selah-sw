@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na ikiwa inaenea sana ndani ya ngozi, basi kohen ⟨atamtangaza⟩ mwepesi ⟨את⟩: ng'alo ndilo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "inaenea sana"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "inaenea"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ndani ya ngozi"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "⟨atamtangaza⟩ mwepesi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ng'alo"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ng'alo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndilo"
+    }
+  ],
+  "timestamp": "2026-08-10T14:34:38.541228317Z",
+  "model": "glm-5.2"
+}

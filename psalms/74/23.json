@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 74,
+  "translation": "Usisahau sauti ya wanaokudhuru: kelele ya wanaoinuka dhidi yako, ⟨inapanda⟩ daima.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "sahau"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ya wanaokudhuru"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "kelele"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "ya wanaoinuka dhidi yako"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "⟨inapanda⟩"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:50.805226584Z",
+  "model": "glm-5.2"
+}

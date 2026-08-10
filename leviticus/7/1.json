@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na hii ni torati ya ⟨האשׁם⟩: takatifu ya vitu takatifu ⟨ni⟩.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Na hii"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ni torati ya"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ya ⟨האשׁם⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "takatifu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ya vitu takatifu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T10:31:47.088184039Z",
+  "model": "glm-5.2"
+}

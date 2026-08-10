@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Moyo wangu unatetema, nguvu zangu zimeniacha, na nuru ya macho yangu, hata hayo hayapo ⟨את⟩ nami.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "unatetema"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "zimeniacha"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "nguvu zangu"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "na nuru"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ya macho yangu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hayapo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nami"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:59.414955851Z",
+  "model": "glm-5.2"
+}

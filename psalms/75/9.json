@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 75,
+  "translation": "Kwa kuwa kikombe kimoja katika mkono wa Yahweh, na mvin ⟨unachachka⟩, umejaa mchanganyiko, naye humimina kutoka huma: hakika mashemu yake, yatayonya, yatainywa — wote wahalifu wa nchi.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "כ֪וֹס",
+      "gloss": "kikombe"
+    },
+    {
+      "surface": "בְּֽיַד",
+      "gloss": "katika mkono"
+    },
+    {
+      "surface": "יְהוָ֡ה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "וְיַ֤יִן",
+      "gloss": "na mvin"
+    },
+    {
+      "surface": "חָמַ֨ר",
+      "gloss": "unachachka"
+    },
+    {
+      "surface": "מָ֥לֵא",
+      "gloss": "umejaa"
+    },
+    {
+      "surface": "מֶסֶךְ֮",
+      "gloss": "mchanganyiko"
+    },
+    {
+      "surface": "וַיַּגֵּ֪ר",
+      "gloss": "naye humimina"
+    },
+    {
+      "surface": "מִ֫זֶּ֥ה",
+      "gloss": "kutoka huma"
+    },
+    {
+      "surface": "אַךְ",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "שְׁ֭מָרֶיהָ",
+      "gloss": "mashemu yake"
+    },
+    {
+      "surface": "יִמְצ֣וּ",
+      "gloss": "yatayonya"
+    },
+    {
+      "surface": "יִשְׁתּ֑וּ",
+      "gloss": "yatainywa"
+    },
+    {
+      "surface": "כֹּ֝֗ל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "רִשְׁעֵי",
+      "gloss": "wahalifu"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "wa nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:21.206452311Z",
+  "model": "glm-5.2"
+}

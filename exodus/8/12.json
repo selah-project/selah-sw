@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Yahweh akamwambia Moshe: Nena kwa Aharon: Nyosha ⟨את⟩ fimbo yako na upige ⟨את⟩ vumbi la nchi, nalo litakuwa chawa katika nchi yote ya Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Nena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Nyosha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fimbo yako"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "fimbo yako"
+    },
+    {
+      "surface": "והך",
+      "gloss": "na upige"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vumbi la nchi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "vumbi la"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "nalo litakuwa"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "chawa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:59.001343864Z",
+  "model": "glm-5.2"
+}

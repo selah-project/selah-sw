@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na Yehonathan akasema kwa Davidi: Njoo tuende shambani. Na wote wawili wakatoka ⟨kwenye⟩ shamba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "njoo"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "tuende"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "shambani"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "na wakatoka"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wote wawili"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨kwenye⟩ shamba"
+    }
+  ],
+  "timestamp": "2026-08-10T11:24:49.452767225Z",
+  "model": "glm-5.2"
+}

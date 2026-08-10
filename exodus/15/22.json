@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Moshe akasafirisha ⟨את⟩ Yisraeli kutoka Bahari ya Mwani, wakatoka kwenda jangwani la Shur; wakatembea siku tatu jangwani, wala hawakuwapata maji.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "akasafirisha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kutoka bahari"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ya mwani"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "wakatoka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenda"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jangwani"
+    },
+    {
+      "surface": "שור",
+      "gloss": "la Shur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wakatembea"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "jangwani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hawaku"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "wapata"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    }
+  ],
+  "timestamp": "2026-08-10T10:21:35.072809076Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 146,
+  "translation": "Yahweh anafungua macho ya vipofu; Yahweh anainisha waliopinda; Yahweh anawapenda wenye haki.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "anafungua macho"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "ya vipofu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "anainisha"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "waliopinda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "anawapenda"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wenye haki"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:13.824337348Z",
+  "model": "glm-5.2"
+}

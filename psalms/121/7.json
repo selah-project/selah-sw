@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 121,
+  "translation": "Yahweh atakulinda dhidi ya shari yote; atalinda ⟨את⟩ nafsi yako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "atakulinda"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dhidi ya yote"
+    },
+    {
+      "surface": "רע",
+      "gloss": "shari"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "atalinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafsi yako"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nafsi yako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:47.747382876Z",
+  "model": "glm-5.2"
+}

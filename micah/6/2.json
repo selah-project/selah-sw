@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Sikeni, enyi milima, ⟨את⟩ mashindano ya Yahweh, na nguvu za milele, misingi ya nchi; kwa maana Yahweh ana mashindano na watu wake, naye atajadiliana na Yisrael.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Sikeni"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "enyi milima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashindano ya Yahweh"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "mashindano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "na nguvu za milele"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "misingi ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "mashindano"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh ana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "watu wake"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "atajadiliana"
+    }
+  ],
+  "timestamp": "2026-08-10T12:48:29.913888803Z",
+  "model": "glm-5.2"
+}

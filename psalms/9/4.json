@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Pale adui zangu wanaporejea nyuma, watakokwama na kupotea mbele zako.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "pale ... wanaporejea"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "adui zangu"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "nyuma"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "watakokwama"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "na kupotea"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "mbele zako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:18.410948776Z",
+  "model": "glm-5.2"
+}

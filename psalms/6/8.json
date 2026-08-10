@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Jicho langu limefifia kwa hasira; limezeeka kwa sababu ya watesaji wangu wote.",
+  "tokens": [
+    {
+      "surface": "עָֽשְׁשָׁ֣ה",
+      "gloss": "limefifia"
+    },
+    {
+      "surface": "מִכַּ֣עַס",
+      "gloss": "kwa hasira"
+    },
+    {
+      "surface": "עֵינִ֑י",
+      "gloss": "Jicho langu"
+    },
+    {
+      "surface": "עָֽ֝תְקָ֗ה",
+      "gloss": "limezeeka"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "kwa sababu ya wote"
+    },
+    {
+      "surface": "צוֹרְרָֽי",
+      "gloss": "watesaji wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:40.200392270Z",
+  "model": "glm-5.2"
+}

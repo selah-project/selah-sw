@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 43:3",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "maana Barukh mwana wa Neryah anakutia moyo dhidi yetu, ili atuje kwenye mkono wa Wakashedi, ili watue na tuhamishwe Babeli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barukh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "wa Neryah"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "anakutia moyo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wewe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "dhidi yetu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ili"
+    },
+    {
+      "surface": "תת",
+      "gloss": "atue"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ sisi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwenye mkono"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "wa Wakashedi"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ili watue"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ sisi"
+    },
+    {
+      "surface": "ולהגלות",
+      "gloss": "na tuhamishwe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ sisi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babeli"
+    }
+  ],
+  "timestamp": "2026-08-10T12:22:44.416817988Z",
+  "model": "glm-5.2"
+}

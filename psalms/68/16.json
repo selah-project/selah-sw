@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Mlima wa Elohim, mlima wa Bashan; mlima wa vilele, mlima wa Bashan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "Mlima wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mlima wa"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mlima wa"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "vilele"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mlima wa"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:54.988525062Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 143,
+  "translation": "Kwa ajili ya jina lako, Yahweh, unihuisha; kwa haki yako, utoe kutoka dhikini nefesh yangu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "unihuishe"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "kwa haki yako"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "utoe"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "kutoka dhikini"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:26.355752204Z",
+  "model": "glm-5.2"
+}

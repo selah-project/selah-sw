@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 108,
+  "translation": "Inuliwe, Elohim, juu ya mbingu, na juu ya nchi yote utukufu wako.",
+  "tokens": [
+    {
+      "surface": "ר֣וּמָה",
+      "gloss": "inuliwe"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "שָׁמַ֣יִם",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וְעַ֖ל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הָאָ֣רֶץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "כְּבוֹדֶֽךָ",
+      "gloss": "utukufu wako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:06.752979155Z",
+  "model": "glm-5.2"
+}

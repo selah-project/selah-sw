@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na ikiwa mtu atampiga ⟨את⟩ mtumwa wake au ⟨את⟩ mjakazi wake kwa fimbo, na akafa chini ya mkono wake, kwa kulipiza kisasi atalipizwa kisasi.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "atampiga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtumwa wake"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mtumwa wake"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mjakazi wake"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "mjakazi wake"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "kwa fimbo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "na akafa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "kwa kulipiza kisasi"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "atalipizwa kisasi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:29:49.395857614Z",
+  "model": "glm-5.2"
+}

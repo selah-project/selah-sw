@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 39:16",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "Wakatengeneza mifumo miwili ya dhahabu na pete mbili za dhahabu, wakaweka ⟨את⟩ pete mbili juu ya ncha mbili za hosheni.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "wakatengeneza"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "miwili"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "mifumo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya dhahabu"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "na mbili"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "pete"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "za dhahabu"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "wakaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pete mbili"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "pete"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ncha"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "za hosheni"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:00.440595917Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Naye akawaambia, Mwebrania mimi, na ⟨את⟩ Yahweh, Elohim wa mbingu, mimi namwogopa, ambaye aliumba ⟨את⟩ bahari na ⟨את⟩ nchi kavu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akawaambia"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Mwebrania"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "namwogopa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aliumba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahari"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nchi kavu"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "nchi kavu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:22:07.597488289Z",
+  "model": "glm-5.2"
+}

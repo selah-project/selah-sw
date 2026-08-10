@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Elohai wangu, nalilia mchana, wala hjawi kwa jibu; na usiku, wala haiku ⟨na⟩ amani kwangu.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai wangu"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nalilia"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mchana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "hjawi kwa jibu"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na usiku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "haiku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:34.449514482Z",
+  "model": "glm-5.2"
+}

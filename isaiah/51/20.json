@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 51,
+  "translation": "Wana wako wamelegea, wamelala kichwani mwa kila mitaa kama antelopeu katika nyavu, wamejaa hasira za Yahweh, makaripio ya Elohim wako.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "wana wako"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "wamelegea"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "wamelala"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "kichwani mwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "mitaa"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "kama antelopeu"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "katika nyavu"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "wamejaa"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "hasira za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "makaripio ya"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    }
+  ],
+  "timestamp": "2026-08-10T16:07:58.726858117Z",
+  "model": "glm-5.2"
+}

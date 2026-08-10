@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ Sabato ya kutakatifu kwako ukawajulisha, na amri na mafundisho na torati ukaamuru kwao, kwa mkono wa Moshe mtumishi wako.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sabato"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabato"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ya kutakatifu kwako"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "ukawajulisha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "na amri"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "na mafundisho"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "na torati"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ukaamuru"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwa mkono wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mtumishi wako"
+    }
+  ],
+  "timestamp": "2026-08-10T14:01:01.713028934Z",
+  "model": "glm-5.2"
+}

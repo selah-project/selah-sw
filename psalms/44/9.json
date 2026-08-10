@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Kwa Elohim tumejivunia siku nzima, na jina lako tunalishukia ⟨hadi⟩ milele. Sela.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Kwa Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "tumejivunia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "siku nzima"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siku nzima"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "na jina lako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "tunalishukia"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:11.441779206Z",
+  "model": "glm-5.2"
+}

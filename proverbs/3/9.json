@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Mheshimu Yahweh ⟨kwa⟩ mali yako, na ⟨kwa⟩ mazao ya kwanza ya ⟨את⟩ mapato yako yote.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Mheshimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "mali yako"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "na mazao ya kwanza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "mapato yako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:42.216416950Z",
+  "model": "glm-5.2"
+}

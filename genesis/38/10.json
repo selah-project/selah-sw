@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Na kilichomkera machoni pa Yahweh yule ambaye alifanya, na akamwua pia ⟨את⟩ yeye.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "Na kilichomkera"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "machoni pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yule ambaye"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alifanya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "na akamwua"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T15:50:55.833627257Z",
+  "model": "glm-5.2"
+}

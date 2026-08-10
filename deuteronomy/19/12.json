@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "bas iumaze wa mji wake watamtuma, wakamchukua ⟨אתו⟩ kutoka huko, wakamkabidhi ⟨אתו⟩ mkononi mwa mlipizi wa damu, naye kafa.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "watamtuma"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "wazee"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "wa mji wake"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "wakamchukua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "naye (mtu yule)"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kutoka huko"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "wakamkabidhi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "naye (mtu yule)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mkononi mwa"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "mlipizi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "wa damu"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "naye kafa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:57:45.234119614Z",
+  "model": "glm-5.2"
+}

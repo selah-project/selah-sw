@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Akawafikia, akawaongelea ⟨את⟩ maneno haya.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "akawafikia"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "akawaongelea"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨kwao⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "haya"
+    }
+  ],
+  "timestamp": "2026-08-10T10:14:52.274448581Z",
+  "model": "glm-5.2"
+}

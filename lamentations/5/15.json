@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Furaha ya mioyo yetu imekwisha, gome la kucheza kwetu limegeuka kuwa maombolezo.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "imekwisha"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "Furaha"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ya mioyo yetu"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "limegeuka"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "kuwa maombolezo"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "gome la kucheza kwetu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:37:15.221564636Z",
+  "model": "glm-5.2"
+}

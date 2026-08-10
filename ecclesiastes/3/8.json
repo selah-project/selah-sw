@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Wakati wa kupenda, na wakati wa kuchukia; wakati wa vita, na wakati wa amani.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "wa kupenda"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na wakati"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "wa kuchukia"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wa vita"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na wakati"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "wa amani"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:13.067171718Z",
+  "model": "glm-5.2"
+}

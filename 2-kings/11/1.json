@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na Atalya mama ya Ahaziahu alipoona ya kuwa mwana wake amekufa, akasimama akatekeleza kuharibu ⟨את⟩ kila mzao wa ufalme.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Na Atalya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "ya Ahaziahu"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "alipoona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kuwa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "amekufa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "akasimama"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "akatekeleza kuharibu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kila mzao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mzao"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "wa ufalme"
+    }
+  ],
+  "timestamp": "2026-08-10T11:48:31.236770406Z",
+  "model": "glm-5.2"
+}

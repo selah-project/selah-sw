@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "Wewe umependezwa kuliko wana wa adamu; neema imemwagwa kwenye midomo yako; kwa hiyo Elohim amekubariki daima.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "umependezwa"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "kuliko wana wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamu"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "imemwagwa"
+    },
+    {
+      "surface": "חן",
+      "gloss": "neema"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "kwenye midomo yako"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa hiyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨hiyo⟩"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "amekubariki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daima"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:31.528179130Z",
+  "model": "glm-5.2"
+}

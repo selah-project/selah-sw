@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Kamba za kupimia zimeniangukia katika mahali pa kupendeza; naam, urithi wangu unafurahisha juu yangu.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "kamba za kupimia"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "zimeniangukia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "katika mahali pa kupendeza"
+    },
+    {
+      "surface": "אף",
+      "gloss": "naam"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "urithi"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "unafurahisha"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:24.379326167Z",
+  "model": "glm-5.2"
+}

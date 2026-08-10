@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Hata akilini mwako, mfalke, usimtuke; na katika vyumba vya malazi yako, usimtuke tajiri; kwa kuwa ndege wa mbingu atapeleka ⟨את⟩ sauti, na mwenye mabawa atatangaza neno.",
+  "tokens": [
+    {
+      "surface": "גַּ֣ם",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "בְּמַדָּֽעֲךָ֗",
+      "gloss": "akilini mwako"
+    },
+    {
+      "surface": "מֶ֚לֶךְ",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "usimtuke"
+    },
+    {
+      "surface": "תְּקַלֵּ֔ל",
+      "gloss": "usimtuke"
+    },
+    {
+      "surface": "וּבְחַדְרֵי֙",
+      "gloss": "na katika vyumba"
+    },
+    {
+      "surface": "מִשְׁכָּבְךָ֔",
+      "gloss": "vya malazi yako"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "usimtuke"
+    },
+    {
+      "surface": "תְּקַלֵּ֖ל",
+      "gloss": "usimtuke"
+    },
+    {
+      "surface": "עָשִׁ֑יר",
+      "gloss": "tajiri"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "ע֤וֹף",
+      "gloss": "ndege"
+    },
+    {
+      "surface": "הַשָּׁמַ֨יִם֙",
+      "gloss": "wa mbingu"
+    },
+    {
+      "surface": "יוֹלִ֣יךְ",
+      "gloss": "atapeleka"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sauti"
+    },
+    {
+      "surface": "הַקּ֔וֹל",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "וּבַ֥עַל",
+      "gloss": "na mwenye"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "mabawa"
+    },
+    {
+      "surface": "יַגֵּ֥יד",
+      "gloss": "atatangaza"
+    },
+    {
+      "surface": "דָּבָֽר",
+      "gloss": "neno"
+    }
+  ],
+  "timestamp": "2026-08-10T13:47:36.642918799Z",
+  "model": "glm-5.2"
+}

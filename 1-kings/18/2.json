@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Basi Eliyahu akaenda kujidhihirisha kwa Ahabu. Njaa ilikuwa ngumu huko Shomroni.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "kujidhihirisha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "na njaa"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ngumu"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "huko Shomroni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:43:03.091266389Z",
+  "model": "glm-5.2"
+}

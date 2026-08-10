@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Kenaani mzalisha ⟨את⟩ Tsidoni mzaliwa wa kwanza na ⟨את⟩ Heti.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Na Kenaani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "mzalisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidoni"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidoni"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mzaliwa wa kwanza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Heti"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heti"
+    }
+  ],
+  "timestamp": "2026-08-10T14:02:52.538504445Z",
+  "model": "glm-5.2"
+}

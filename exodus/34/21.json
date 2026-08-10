@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Siku sita utafanya kazi, na siku ya saba utastahi; ⟨katika⟩ kupokanjua na ⟨katika⟩ kuvuna utastahi.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "sita"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "utafanya kazi"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "na siku ya"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "saba"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "utastahi"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "kupokanjua"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "na kuvuna"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "utastahi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:28:06.123472715Z",
+  "model": "glm-5.2"
+}

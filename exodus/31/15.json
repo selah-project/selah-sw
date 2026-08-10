@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Siku sita kazi itafanywa, na siku ya saba ni shabbat ya mapumziko kamili, takatifu kwa Yahweh; kila afanyaye kazi siku ya shabbat, ati kufa atakufa.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "siku sita"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "itafanywa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "na siku"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ya saba"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ya mapumziko kamili"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "takatifu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "afanyaye"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ya shabbat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "atakufa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:19.564802759Z",
+  "model": "glm-5.2"
+}

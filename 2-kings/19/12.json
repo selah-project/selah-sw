@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Je, Elohim wa mataifa ambao baba zangu waliwaangamiza waliwaokoa ⟨את⟩ — ⟨את⟩ Gozan na ⟨את⟩ Haran, na Retsefu na wana wa Edeni ambao walikuwa katika Telashari?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "je, waliwaokoa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "wa mataifa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "waliwaangamiza"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "baba zangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "na Retsefu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na wana"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "wa Edeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "walikuwa katika Telashari"
+    }
+  ],
+  "timestamp": "2026-08-10T11:51:24.082573984Z",
+  "model": "glm-5.2"
+}

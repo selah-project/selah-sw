@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Akafanya ⟨את⟩ bao za hema; bao ishirini kwa upande wa kusini kusini-magharibi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akafanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bao"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "bao"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "za hema"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ishirini"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "bao"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "kwa upande wa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kusini"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "kusini-magharibi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:29:00.955470067Z",
+  "model": "glm-5.2"
+}

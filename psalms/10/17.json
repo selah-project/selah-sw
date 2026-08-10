@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Tamani ya wanyenyekevu umeyasikia, Yahweh; unaiongeza nguvu nafsi yao; unageuza sikio lako ⟨kuwasikia⟩.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "tamani"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ya wanyenyekevu"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "umeyasikia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "unaiongeza nguvu"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "nafsi yao"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "unageuza"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "sikio lako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:45.004559608Z",
+  "model": "glm-5.2"
+}

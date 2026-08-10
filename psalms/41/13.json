@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 41:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Na mimi, kwa ukamilifu wangu ⟨umeminitea⟩, na ⟨umenisimamisha⟩ mbele zako hadi milele.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na mimi"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "kwa ukamilifu wangu"
+    },
+    {
+      "surface": "תמכת",
+      "gloss": "⟨umeminitea⟩"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "ותציבני",
+      "gloss": "na ⟨umenisimamisha⟩"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbele zako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hadi milele"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:01.518461305Z",
+  "model": "glm-5.2"
+}

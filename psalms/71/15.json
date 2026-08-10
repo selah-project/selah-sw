@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 71,
+  "translation": "Kinywa chani kita huesabu haki yako, siku yote wokovu wako; kwa maana siyajui idadi ⟨zake⟩.",
+  "tokens": [
+    {
+      "surface": "פִּ֤י",
+      "gloss": "Kinywa"
+    },
+    {
+      "surface": "יְסַפֵּ֬ר",
+      "gloss": "chani kita"
+    },
+    {
+      "surface": "צִדְקָתֶ֗ךָ",
+      "gloss": "haki yako"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "siku yote"
+    },
+    {
+      "surface": "הַיּ֥וֹם",
+      "gloss": "yote"
+    },
+    {
+      "surface": "תְּשׁוּעָתֶ֑ךָ",
+      "gloss": "wokovu wako"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לֹ֖א",
+      "gloss": "si"
+    },
+    {
+      "surface": "יָדַ֣עְתִּי",
+      "gloss": "yajui"
+    },
+    {
+      "surface": "סְפֹרֽוֹת",
+      "gloss": "idadi ⟨zake⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:14.401027565Z",
+  "model": "glm-5.2"
+}

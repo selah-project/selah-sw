@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Tazama, nimekuwekea mbele yako leo ⟨את⟩ uhai na ⟨את⟩ kheri, na ⟨את⟩ mauti na ⟨את⟩ shari.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nimekuwekea"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbele yako"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uhai"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "uhai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kheri"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "kheri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mauti"
+    },
+    {
+      "surface": "המות",
+      "gloss": "mauti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "shari"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "shari"
+    }
+  ],
+  "timestamp": "2026-08-10T11:03:15.922633228Z",
+  "model": "glm-5.2"
+}

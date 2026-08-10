@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kuna jambo ambalo mtu huasema: Tazama, hiki ni kipya? Tayari lilikuwepo tangu zamani za kale, katika ⟨zamani⟩ zilizotangulia kabla yetu.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "ambalo huasema"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hiki"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kipya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "tayari"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lilikuwepo"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "tangu zamani za kale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "katika"
+    },
+    {
+      "surface": "היה",
+      "gloss": "zilizotangulia"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "kabla yetu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:24:06.179141008Z",
+  "model": "glm-5.2"
+}

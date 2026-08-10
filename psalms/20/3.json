@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Atume msaada wako kutoka patakutakatifu, na kutoka Tsiyoni akuunge mkono.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Atume"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "msaada wako"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "kutoka patakutakatifu"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "na kutoka Tsiyoni"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "akuunge mkono"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:06.621373206Z",
+  "model": "glm-5.2"
+}

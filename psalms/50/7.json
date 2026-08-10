@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Sikiliza, taifa langu, nami nitazungumza; Yisrael, nami nitashuhudia dhidi yako: Elohim, Elohim wako, ni mimi.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "sikiliza"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "taifa langu"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "na nami nitazungumza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "na nami nitashuhudia"
+    },
+    {
+      "surface": "בך",
+      "gloss": "dhidi yako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ni mimi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:30.894686514Z",
+  "model": "glm-5.2"
+}

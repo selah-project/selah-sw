@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Je, si Elohim atayachunguza ⟨haya⟩? Kwa maana ⟨yeye⟩ anajua siri za moyo.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Je, si"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "atayachunguza"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨haya⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨yeye⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anajua"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "siri"
+    },
+    {
+      "surface": "לב",
+      "gloss": "za moyo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:12.828813925Z",
+  "model": "glm-5.2"
+}

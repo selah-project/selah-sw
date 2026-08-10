@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 5:12",
+  "book": "ezra",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Lakini kwa sababu baba zetu walemkasirikisha Eloah wa mbingu, alimkabidhi mikononi mwa Nevukhadnetssar mfalme wa Bavel, Mykaldayo, aliyeiharibu nyumba hii, na hii watu kuwachukua mateka kwenda Bavel.",
+  "tokens": [
+    {
+      "surface": "להן",
+      "gloss": "Lakini"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "די",
+      "gloss": "sababu"
+    },
+    {
+      "surface": "הרגזו",
+      "gloss": "walemkasirikisha"
+    },
+    {
+      "surface": "אבהתנא",
+      "gloss": "baba zetu"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "wa mbingu"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "alimkabidhi"
+    },
+    {
+      "surface": "המו",
+      "gloss": "hao"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mikononi mwa"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukhadnetssar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Bavel"
+    },
+    {
+      "surface": "כסדיא",
+      "gloss": "Mykaldayo"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "aliyeiharibu"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "nyumba hii"
+    },
+    {
+      "surface": "סתרה",
+      "gloss": "aliyeiharibu"
+    },
+    {
+      "surface": "ועמה",
+      "gloss": "na watu"
+    },
+    {
+      "surface": "הגלי",
+      "gloss": "kuwachukua mateka"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "kwenda Bavel"
+    }
+  ],
+  "timestamp": "2026-08-10T13:57:06.060713917Z",
+  "model": "glm-5.2"
+}

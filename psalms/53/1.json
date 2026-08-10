@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 53,
+  "translation": "Kwa mwenginyumba, kwa nyimbo ya Machalath. Mashkili ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwenginyumba"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "nyimbo ya Machalath"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Mashkili"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:29.499643208Z",
+  "model": "glm-5.2"
+}

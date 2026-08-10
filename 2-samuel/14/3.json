@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Nawe ukiingia kwa mfalme, na umwambie maneno haya. Nayo Yoavu akaweka ⟨את⟩ maneno hayo kinywani mwake.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "nawe ukiingia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "na umwambie"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nayo akaweka"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno hayo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maneno hayo"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "kinywani mwake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:32:10.440423245Z",
+  "model": "glm-5.2"
+}

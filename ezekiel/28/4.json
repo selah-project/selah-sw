@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 28:4",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Kwa hekima yako na kwa ufahamu wako,umejipatia utajiri,na dhahabu na fedha katika akiba zako.",
+  "tokens": [
+    {
+      "surface": "בחכמתך",
+      "gloss": "kwa hekima yako"
+    },
+    {
+      "surface": "ובתבונתך",
+      "gloss": "na kwa ufahamu wako"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "umejipatia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "utajiri"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "na umefanya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "na fedha"
+    },
+    {
+      "surface": "באוצרותיך",
+      "gloss": "katika akiba zako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:34:19.494913188Z",
+  "model": "glm-5.2"
+}

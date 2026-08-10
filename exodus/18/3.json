@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na ⟨את⟩ wana wake wawili ambao jina la ⟨mmoja⟩ ⟨lilikuwa⟩ Gershom, kani kwamba alisema: Mgeni nimekuwa katika nchi ya kigeni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wana wake wawili"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "wana wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "la mmoja"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alisema"
+    },
+    {
+      "surface": "גר",
+      "gloss": "mgeni"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nimekuwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "ya kigeni"
+    }
+  ],
+  "timestamp": "2026-08-10T10:22:53.174382891Z",
+  "model": "glm-5.2"
+}

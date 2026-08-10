@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 4:1",
+  "book": "joel",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Kwa kuwa angalieni, siku zile zile, na wakati huo, nitakaporejesha ⟨את⟩ mateka wa Yehuda na Yerushalayim,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "angalieni"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "zile"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "na wakati"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "huo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "nitakaporejesha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mateka"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "mateka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T12:44:08.086662668Z",
+  "model": "glm-5.2"
+}

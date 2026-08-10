@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 19:35",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na Barzillai akamwambia mfalme: Wangapi siku za miaka ya maisha yangu, ili niweze kumpandisha ⟨את⟩ mfalme Yerushalayim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akamwambia"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzillai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "Wangapi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "siku za"
+    },
+    {
+      "surface": "שני",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ya maisha yangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ili"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "niweze kumpandisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfalme"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T11:35:25.636436945Z",
+  "model": "glm-5.2"
+}

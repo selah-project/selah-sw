@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 26:10",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Nchi ikafungua kinywa chake ikawameza ⟨⟨את⟩ wao⟩ pamoja na Korahi wakati wowapo kufa kwa mkutano huo, moto ukala ⟨את⟩ watu hamsini na mia mbili, nao wakawa ⟨kwa⟩ ishara.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "ikafungua"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Nchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinywa chake"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "kinywa chake"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "ikawameza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "pamoja na ⟨את⟩",
+      "marks": "Korahi"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "במות",
+      "gloss": "wakati wowapo kufa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kwa mkutano huo"
+    },
+    {
+      "surface": "באכל",
+      "gloss": "moto ukala"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu hamsini na mia mbili"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "hamsini"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "na mia mbili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "nao wakawa"
+    },
+    {
+      "surface": "לנס",
+      "gloss": "⟨kwa⟩ ishara"
+    }
+  ],
+  "timestamp": "2026-08-10T10:49:05.232625155Z",
+  "model": "glm-5.2"
+}

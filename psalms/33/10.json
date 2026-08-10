@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Yahweh anavunja shauri ⟨ya⟩ mataifa, anafuta mawazo ⟨ya⟩ watu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "anavunja"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "shauri"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "anafuta"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mawazo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "wa watu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:21.389277167Z",
+  "model": "glm-5.2"
+}

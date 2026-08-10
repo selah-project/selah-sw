@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "Yosefu akapata neema machoni pake, naye akamtumikia; akamweka juu ya nyumba yake, na vyote walivyo navyo akaviweka mkononi mwake.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "akapata"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "neema"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "machoni pake"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "naye akamtumikia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu (kama nesba)"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "akamweka"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na vyote"
+    },
+    {
+      "surface": "יש",
+      "gloss": "walivyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "navyo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akaviweka"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mkononi mwake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:13:21.718165771Z",
+  "model": "glm-5.2"
+}

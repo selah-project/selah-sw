@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 145,
+  "translation": "Mapenzi ya wamchao ⟨atafanya⟩, na ⟨את⟩ mlio wao atasikia, na kuwaokoa.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "Mapenzi"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ya wamchao"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "⟨atafanya⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mlio wao"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "mlio wao"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "atasikia"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "na kuwaokoa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:52.681205813Z",
+  "model": "glm-5.2"
+}

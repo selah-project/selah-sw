@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Kwa maana yeye anayetafuta damu ametukumbuka; hakuwsahau maombolezo ya wanyenyekevu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "anayetafuta"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "damu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ametukumbuka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ametukumbuka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haku"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "sahau"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "maombolezo"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "wa wanyenyekevu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:33.691395660Z",
+  "model": "glm-5.2"
+}

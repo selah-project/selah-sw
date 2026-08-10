@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Naye Davidu alikuwa akitembea na kurudi kutoka kwa Shaul, kulisha ⟨את⟩ kundi la baba yake, Beth-lechemu.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "na Davidu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "akittembea"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "na kurudi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kutoka kwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "kulisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kundi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "la baba yake"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lechemu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:24:12.228498152Z",
+  "model": "glm-5.2"
+}

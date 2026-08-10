@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Nifundishe njia yako, Yahweh, na uniongoze katika njia iliyo nyofu, kwa ajili ya wapinzani wangu.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Nifundishe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "njia yako"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "na uniongoze"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "katika njia"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "iliyo nyofu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "wapinzani wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:16:46.250616950Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na Yarden ulikuwa ukimpa ⟨את⟩ mpaka upande wa mashariki. Hii ⟨hii⟩ ndio urithi wa wana wa Binyamin, kwa mipaka yake pande zote, kwa jamaa zao.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "Na Yarden"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "ulikuwa ukimpa mpaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mpaka"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "upande wa"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "mashariki"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Hii"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "⟨hii⟩ ndio urithi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa wana wa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "kwa mipaka yake"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "pande zote"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kwa jamaa zao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:58:41.978754679Z",
+  "model": "glm-5.2"
+}

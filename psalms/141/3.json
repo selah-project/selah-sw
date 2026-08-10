@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 141,
+  "translation": "Weka, ee Yahweh, ulinzi kwa mdomo wangu; linda mlango wa midomo yangu.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Weka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ee Yahweh"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "ulinzi"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "kwa mdomo wangu"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "linda"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨juu ya⟩"
+    },
+    {
+      "surface": "דל",
+      "gloss": "mlango"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "wa midomo yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:21.433181139Z",
+  "model": "glm-5.2"
+}

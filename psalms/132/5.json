@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 132,
+  "translation": "Hadi nitakapopata mahali pa Yahweh, maskani kwa Abiri ya Yaakov.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hadi"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nitakapopata"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pa Yahweh"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "maskani"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "kwa Abiri"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:46.373490031Z",
+  "model": "glm-5.2"
+}

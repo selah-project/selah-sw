@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Nchi ilifunguka na kumeza Dathani, na kufunika juu ya mkutano wa Aviramu.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "ilifunguka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Nchi"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "na kumeza"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Dathani"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "na kufunika"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "mkutano wa"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Aviramu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:19.915004724Z",
+  "model": "glm-5.2"
+}

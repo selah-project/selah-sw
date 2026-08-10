@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na Yahweh akamwambia Moshe: Mkuu mmoja kwa siku, mkuu mmoja kwa siku, watamkarimisha ⟨את⟩ dhabihu zao kwa kuwekwa wakfu kwa madhabahu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kwa siku"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kwa siku"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "watamkarimisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhabihu zao"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "dhabihu zao"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "kwa kuwekwa wakfu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kwa madhabahu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:37:42.162170270Z",
+  "model": "glm-5.2"
+}

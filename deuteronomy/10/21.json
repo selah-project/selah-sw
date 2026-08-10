@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 10:21",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Yeye ni sifa yako, naye ni Elohim wako, ambaye amefanya ⟨את⟩ ⟨pamoya⟩ nawe ⟨את⟩ mambo makuu na ⟨את⟩ mambo ya kutisha haya ambayo macho yako yameyaona.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "sifa yako"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "naye"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "amefanya"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨pamoya⟩ nawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mambo makuu"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "mambo makuu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mambo ya kutisha"
+    },
+    {
+      "surface": "הנוראת",
+      "gloss": "mambo ya kutisha"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "yameyaona"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "macho yako"
+    }
+  ],
+  "timestamp": "2026-08-10T10:56:07.422681414Z",
+  "model": "glm-5.2"
+}

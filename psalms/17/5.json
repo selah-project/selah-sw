@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Umgongo huunga hatua zangu njia zako, hatua zangu hazitetetezi.",
+  "tokens": [
+    {
+      "surface": "תָּמֹ֣ךְ",
+      "gloss": "unga"
+    },
+    {
+      "surface": "אֲ֭שֻׁרַי",
+      "gloss": "hatua zangu"
+    },
+    {
+      "surface": "בְּמַעְגְּלוֹתֶ֑יךָ",
+      "gloss": "njia zako"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "hazina"
+    },
+    {
+      "surface": "נָמ֥וֹטוּ",
+      "gloss": "tetetezi"
+    },
+    {
+      "surface": "פְעָמָֽי",
+      "gloss": "hatua zangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:16.614636924Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Ninakuapeni, binti za Yerushalayim, kwa swala au kwa paa wa shambani, msiamshayi na wala msiltilishe ⟨את⟩ mapenzi, hadi ⟨yeye⟩ atakapo",
+  "tokens": [
+    {
+      "surface": "הִשְׁבַּ֨עְתִּי",
+      "gloss": "nimekuapeni"
+    },
+    {
+      "surface": "אֶתְכֶ֜ם",
+      "gloss": "⟨את⟩",
+      "marks": "binti"
+    },
+    {
+      "surface": "בְּנ֤וֹת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "יְרוּשָׁלִַ֨ם֙",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בִּצְבָא֔וֹת",
+      "gloss": "kwa swala"
+    },
+    {
+      "surface": "א֖וֹ",
+      "gloss": "au"
+    },
+    {
+      "surface": "בְּאַיְל֣וֹת",
+      "gloss": "kwa paa"
+    },
+    {
+      "surface": "הַשָּׂדֶ֑ה",
+      "gloss": "wa shambani"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "תָּעִ֧ירוּ",
+      "gloss": "mtaamsha"
+    },
+    {
+      "surface": "וְֽאִם",
+      "gloss": "na kama"
+    },
+    {
+      "surface": "תְּעֽוֹרְר֛וּ",
+      "gloss": "mtilitishe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mapenzi"
+    },
+    {
+      "surface": "הָאַהֲבָ֖ה",
+      "gloss": "mapenzi"
+    },
+    {
+      "surface": "עַ֥ד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "שֶׁתֶּחְפָּֽץ",
+      "gloss": "atakapo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:42:46.276766358Z",
+  "model": "glm-5.2"
+}

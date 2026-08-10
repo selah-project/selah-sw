@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 113,
+  "translation": "Kutoka machizio ya jua hadi machizio yake, jina la Yahweh ⟨lazima⟩ lisifiwe.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "kutoko machizio ya"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "jua"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "machizio yake"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "⟨lazima⟩ lisifiwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:29.275623229Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 149,
+  "translation": "Kufunga wafalme wao kwa minyororo, na wakuu wao kwa pamba za chuma.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "kufunga"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "wafalme wao"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "kwa minyororo"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "na wakuu wao"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "kwa pamba"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "za chuma"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:40.016747666Z",
+  "model": "glm-5.2"
+}

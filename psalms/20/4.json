@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Akumbuke zaburi zako zote, na sadaka yako ya kuteketezwa ⟨i⟩fanye ⟨kuwa⟩ mnono. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Akumbuke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "zaburi zako"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "na sadaka yako ya kuteketezwa"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "⟨i⟩fanye ⟨kuwa⟩ mnono"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah."
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:06.621486397Z",
+  "model": "glm-5.2"
+}

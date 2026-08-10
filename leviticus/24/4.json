@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Juu ya kinara safi atavipanga ⟨את⟩ taa mbele za Yahweh daima.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kinara"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "safi"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "atazipanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taa"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "taa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:03.578364533Z",
+  "model": "glm-5.2"
+}

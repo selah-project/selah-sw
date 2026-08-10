@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Paroh mfalme wa Mitsrayim alipanda, akateka ⟨את⟩ Gezeri, akaichoma kwa moto; na ⟨את⟩ Mkanaani aliyekuwa akikaa mjini, akamuua; akampa ⟨yake⟩ k mahari binti yake, mke wa Shelomah.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "alipanda"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "akateka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezeri"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezeri"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "akaichoma"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kwa moto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mkanaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mkanaani"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "aliyekuwa akikaa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mjini"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "akamuua"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "akampa"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "mahari"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "binti yake"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mke"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "wa Shelomah"
+    }
+  ],
+  "timestamp": "2026-08-10T14:59:20.124887014Z",
+  "model": "glm-5.2"
+}

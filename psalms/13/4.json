@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Tazama, nijibu, Yahweh Elohai! Mwangazie macho yangu, asije nalala usingizi wa kifo;",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "nijibu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "Mwangazie"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "macho yangu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "asije"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "nalala"
+    },
+    {
+      "surface": "המות",
+      "gloss": "usingizi wa kifo"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:13.084129920Z",
+  "model": "glm-5.2"
+}

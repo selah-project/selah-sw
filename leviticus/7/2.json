@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Mahali ambapo wanachinja ⟨את⟩ dhabihu ya mwali, wat achinja ⟨את⟩ dhabihu ya makosa, na ⟨את⟩ damu yake atanyunyuziza juu ya madhabahu pande zote.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "wanachinja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhabihu ya mwali"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dhabihu ya mwali"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "watachinja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhabihu ya makosa"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "dhabihu ya makosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "damu yake"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "atanyunyuziza"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "pande zote"
+    }
+  ],
+  "timestamp": "2026-08-10T18:27:30.864621689Z",
+  "model": "glm-5.2"
+}

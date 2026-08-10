@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 140,
+  "translation": "Yahweh, Adonai, nguvu ya wokovu wangu, Umetia kichwa changu siku ya silaha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguvu"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ya wokovu wangu"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "Umetia"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "kichwa changu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "ya silaha"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:15.134817545Z",
+  "model": "glm-5.2"
+}

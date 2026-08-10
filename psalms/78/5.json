@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Akaiinua ⟨⟨shahidi⟩⟩ mashahidi katika Yaakov, na torati akaiweka katika Yisrael, aliyoiamuru ⟨את⟩ baba zetu, ili kuwajulisha wao kwa wana wao.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akaiinua"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "mashahidi"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "katika Yaakov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "na torati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "akaiweka"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "katika Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliyoiamuru"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aliagiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba zetu"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "baba zetu"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "ili kuwajulisha wao"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kwa wana wao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:11.528635388Z",
+  "model": "glm-5.2"
+}

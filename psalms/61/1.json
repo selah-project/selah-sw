@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 61,
+  "translation": "Kwa mwonongozi, kwa ajili ya muziki wa nyenyeji. ⟨Zaburi⟩ ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwonongozi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "muziki wa nyenyeji"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:29.116654285Z",
+  "model": "glm-5.2"
+}

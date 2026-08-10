@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 139,
+  "translation": "Na kwa mimi — wangapi walivyo wa thamani rafiki zako, Ee El; wangapi jumla yao imekuwa kubwa!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "Na kwa mimi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wangapi"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "walivyo wa thamani"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "rafiki zako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ee El"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wangapi"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "imekuwa kubwa"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "jumla yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:12.487412749Z",
+  "model": "glm-5.2"
+}

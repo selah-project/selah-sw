@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Mkono wako ⟨una⟩ nyakati zangu; niokoe kutoka mkononi mwa maadui zangu na kuwakimbia wanaonifuata.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Mkono wako"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "nyakati zangu"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "niokoe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kutoka mkononi mwa"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "maadui zangu"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "na kuwakimbia wanaonifuata"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:46.999587853Z",
+  "model": "glm-5.2"
+}

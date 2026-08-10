@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 122,
+  "translation": "Wimbo wa kupanda. Wa David. Nilifurahi katika walinioniambia: «Nyumbani mwa Yahweh tuende.»",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wa kupanda"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Wa David"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Nilifurahi"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "katika walinioniambia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "—"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Nyumbani mwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tuende"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:45.025666979Z",
+  "model": "glm-5.2"
+}

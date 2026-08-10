@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Nitambariki ⟨את⟩ Yahweh wakati wote; daima sifa yake ⟨iwe⟩ kinywani mwangu.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Nitambariki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wakati wote"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sifa yake"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "kinywani mwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:42.402713082Z",
+  "model": "glm-5.2"
+}

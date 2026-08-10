@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na mfalme wa Yisra'el akamtuma ⟨את⟩ mahali pale ambapo mtu wa Elohim alikuwa ameambia; naye akawanya onyo, akajilinda hali si mara moja wala si mbili.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "na akamtuma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "pale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ameambia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ake"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "naye akawanya onyo"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "akajilinda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "mara moja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mbili"
+    }
+  ],
+  "timestamp": "2026-08-10T16:04:44.775579914Z",
+  "model": "glm-5.2"
+}

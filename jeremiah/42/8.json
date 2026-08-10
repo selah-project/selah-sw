@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Akamwita Yochanan mwana wa Kareach, na ⟨kwa⟩ viongozi wote wa jeshi waliokuwa ⟨את⟩ ⟨na yeye⟩, na ⟨kwa⟩ watu wote, kutoka mdogo mpaka mkubwa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Akamwita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yochanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "wa Kareach"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ⟨kwa⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viongozi wote"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "viongozi"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "wa jeshi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waliokuwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨na yeye⟩"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na ⟨kwa⟩ watu wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "kutoka mdogo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mkubwa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:22:44.426054586Z",
+  "model": "glm-5.2"
+}

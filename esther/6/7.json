@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na Haman akamwambia mfalme: Kwa mtu ambaye mfalme anataka kumheshimu,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akamwambia"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "anataka"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "kumheshimu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:49:47.216797814Z",
+  "model": "glm-5.2"
+}

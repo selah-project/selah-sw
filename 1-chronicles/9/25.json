@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na ndugu zao katika mashamba yao ⟨walikuwa⟩ kuja kwa muda wa siku saba kutoka wakati hadi wakati pamoja na hao.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "Na ndugu zao"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "katika mashamba yao"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kuja"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "kwa muda wa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "siku saba"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "kutoka wakati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:06:29.345758538Z",
+  "model": "glm-5.2"
+}

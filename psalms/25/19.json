@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Tazama maadui zangu, maana wameongezeka, na chuki ya jeuri wamenichukia.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "maadui zangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "wameongezeka"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "na chuki ya"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "jeuri"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "wamenichukia"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:27.970533544Z",
+  "model": "glm-5.2"
+}

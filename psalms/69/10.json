@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Kwa ku wivu wa nyumba yako umenila, na matusi ya watakudhuru yalianguka juu yangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa ku"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "wivu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wa nyumba yako"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "umenila"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "na matusi"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "ya watakudhuru"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "yalianguka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:32.810528280Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Navisha mbingu manyasi, na gunia nifunika kama mavazi yao.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Navisha"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "manyasi"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "na gunia"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "nifunika"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "kama mavazi yao"
+    }
+  ],
+  "timestamp": "2026-08-10T12:07:40.204040661Z",
+  "model": "glm-5.2"
+}

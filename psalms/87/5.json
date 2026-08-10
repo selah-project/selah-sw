@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 87,
+  "translation": "Na kwa Tsiyoni itasemwa: mtu, na mtu, amezaliwa ndani yake; na yeye ⟨ndiye⟩ ataiimarisha, Elyon.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "Na kwa Tsiyoni"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "itasemwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mtu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "amezaliwa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ndani yake"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na yeye"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ataiimarisha"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:18.027865677Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 90,
+  "translation": "Umezirumsha kama mafuriko, huwa kama usingizi; asubuhi huwa kama nyasi yanayopita.",
+  "tokens": [
+    {
+      "surface": "זְ֭רַמְתָּם",
+      "gloss": "Umezirumsha"
+    },
+    {
+      "surface": "שֵׁנָ֣ה",
+      "gloss": "usingizi"
+    },
+    {
+      "surface": "יִהְי֑וּ",
+      "gloss": "huwa"
+    },
+    {
+      "surface": "בַּ֝בֹּ֗קֶר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "כֶּחָצִ֥יר",
+      "gloss": "kama nyasi"
+    },
+    {
+      "surface": "יַחֲלֹֽף",
+      "gloss": "yanayopita"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:29.816691334Z",
+  "model": "glm-5.2"
+}

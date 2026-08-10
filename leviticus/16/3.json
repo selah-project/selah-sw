@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Kwa hivi ndivo Aharon atakavyoingia ⟨ndani ya⟩ patakatifu: kwa ndama wa ng'ombe kwa ajili ya dhambi, na JO kwa ajili ya sadaka ya kuchomwa.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Kwa hivi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "atakapoingia"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ndani ya⟩"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "patakatifu"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "kwa ndama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "kwa ajili ya dhambi"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "na JO"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "kwa ajili ya sadaka ya kuchomwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:14.917906615Z",
+  "model": "glm-5.2"
+}

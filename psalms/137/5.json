@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 137,
+  "translation": "Kama nimekusahau wewe, Ee Yerushalayim, ⟨isahau⟩ mkono wangu wa kulioto",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kama"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "nimekusahau wewe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "⟨isahau⟩"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "mkono wangu wa kulioto"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:21.504445825Z",
+  "model": "glm-5.2"
+}

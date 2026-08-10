@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Na Yahweh akarejesha ⟨את⟩ mateka ya Iyovu alipokuwa akiomba kwa ajili ya rafiki yake; na Yahweh akaongeza ⟨את⟩ vyote vilivyokuwa vya Iyovu mara mbili.",
+  "tokens": [
+    {
+      "surface": "והוה",
+      "gloss": "Na Yahweh"
+    },
+    {
+      "surface": "שב",
+      "gloss": "akarejesha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mateka"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "mateka"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ya Iyovu"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "alipokuwa akiomba"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "kwa ajili"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ya rafiki yake"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "na akaongeza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilivyokuwa"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "vya Iyovu"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "mara mbili"
+    }
+  ],
+  "timestamp": "2026-08-10T15:36:45.450455282Z",
+  "model": "glm-5.2"
+}

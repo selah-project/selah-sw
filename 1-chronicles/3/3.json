@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "wa tano Shefatia, ⟨kwa⟩ Avitali; wa sita Yitreami, ⟨kwa⟩ Eglahi mke wake.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "wa tano"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Shefatia"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "⟨kwa⟩ Avitali"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "wa sita"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Yitreami"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "⟨kwa⟩ Eglahi"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mke wake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:04:31.574404903Z",
+  "model": "glm-5.2"
+}

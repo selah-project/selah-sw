@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na yule ambaye hakutia moyo wake maneno ya Yahweh akaacha ⟨את⟩ watumwa wake na ⟨את⟩ mifugo yake shambani.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Na yule ambaye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tia"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "akaacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watumwa wake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumwa wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mifugo yake"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "mifugo yake"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "shambani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:21.035816220Z",
+  "model": "glm-5.2"
+}

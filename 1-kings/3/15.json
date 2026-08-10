@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 3:15",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na Shelomoh akajua ameamka, na tazama ⟨ni⟩ ndoto, akaingia Yerushalayim, akasimama mbele ya sanda la agano la Adonai, akatoa ⟨את⟩ sadaka za mwunguro, akafanya ⟨את⟩ sadaka za amani, akafanya karamu kwa ajili ya watumishi wake wote.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "akajua ameamka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ndoto"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "akasimama"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "agano"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "akatoa"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "sadaka za mwunguro",
+      "marks": "sadaka za mwunguro"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akafanya"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "sadaka za amani"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akafanya"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "karamu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa ajili ya wote"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumishi wake"
+    }
+  ],
+  "timestamp": "2026-08-10T16:03:28.545514318Z",
+  "model": "glm-5.2"
+}

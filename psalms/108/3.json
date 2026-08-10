@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 108,
+  "translation": "Amka, ⟨ee⟩ kinanda na kithara! Mimi nitaamsha alfajiri.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "amka"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "⟨ee⟩ kinanda"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "na kithara"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "nitaamsha"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "alfajiri"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:47.234175294Z",
+  "model": "glm-5.2"
+}

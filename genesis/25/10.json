@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "⟨hiyo⟩ shamba ambalo Avraham alinunua ⟨kutoka kwa⟩ ⟨את⟩ wana wa Chethi: hapo alizikwa Avraham na Sarahi mkewe.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "⟨hiyo⟩ shamba"
+    },
+    {
+      "surface": "ashר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "alinunua"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨kutoka kwa⟩ ⟨את⟩",
+      "marks": "wana wa Chethi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "wa Chethi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hapo"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "alizikwa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "na Sarahi"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mkewe"
+    }
+  ],
+  "timestamp": "2026-08-10T15:49:59.824006935Z",
+  "model": "glm-5.2"
+}

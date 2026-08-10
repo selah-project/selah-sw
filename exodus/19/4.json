@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Ninyi mmeona yale niliyoyafanya kwa Mitsrayim, nami nikawabeba ⟨אתכם⟩ juu ya mabawa ya tai, nikawaleta ⟨אתכם⟩ kwangu.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Ninyi"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "mmeona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yale"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "niliyoyafanya"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kwa Mitsrayim"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "nami nikawabeba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mabawa ya"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "tai"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "nikawaleta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:23:01.959466149Z",
+  "model": "glm-5.2"
+}

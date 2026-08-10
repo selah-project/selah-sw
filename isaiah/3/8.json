@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Maana Yerushalayim imegongwa, na Yehudah ameanguka; maana ulimi wao na matendo yao ni dhidi ya Yahweh, kumkasirisha ⟨kwa⟩ macho ya utukufu wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "imegongwa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehudah"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ameanguka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ulimi wao"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "na matendo yao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhidi ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "kumkasirisha"
+    },
+    {
+      "surface": "עני",
+      "gloss": "macho ya"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "utukufu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:18.908595539Z",
+  "model": "glm-5.2"
+}

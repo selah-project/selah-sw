@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 147,
+  "translation": "Msifu, ee Yerushalayim, ⟨את⟩ Yahweh; msifu, Elohim wako, ee Tsiyoni.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Msifu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "msifu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:04.908006301Z",
+  "model": "glm-5.2"
+}

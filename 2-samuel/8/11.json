@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 8:11",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Hivyo vivu ⟨אתם⟩ mfalme David aliwawekea wakfu kwa Yahweh, pamoja na fedha na dhahabu alizoweka wakfu kutoka mataifa yote aliyowakomesha.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Hivyo vivu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hivyo vyombo"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "aliwawekea wakfu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "na dhahabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "alizoweka wakfu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "aliyowakomesha"
+    }
+  ],
+  "timestamp": "2026-08-10T11:30:12.421454354Z",
+  "model": "glm-5.2"
+}

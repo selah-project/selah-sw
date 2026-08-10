@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Naye akasubiri siku saba kwa muda aliokuwa ameagiza Shemuweli, lakini Shemuweli hakufika huko Gilgali, nao taifa likamwaga kutoka kwake.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "Naye akasubiri"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siku saba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "kwa muda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliokuwa ameagiza"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lakini"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hakufika"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "huko Gilgali"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "nao"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "likamwaga kutoka kwake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:21:57.867217843Z",
+  "model": "glm-5.2"
+}

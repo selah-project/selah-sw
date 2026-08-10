@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 35:2",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Nenda kwenye nyumba ya Wa-rekabu, uwaongelee, na kuwaleta ⟨ndani ya⟩ nyumba ya Yahweh, kwenye moja ya vyumba, na kuwanywesha ⟨את⟩ divai.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "ya Wa-rekabu"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "uwaongelee"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kuwaleta"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "na kuwaleta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨ndani ya⟩ nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moja"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "ya vyumba"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "na kuwanywesha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "divai"
+    },
+    {
+      "surface": "יין",
+      "gloss": "divai"
+    }
+  ],
+  "timestamp": "2026-08-10T17:50:35.592556279Z",
+  "model": "glm-5.2"
+}

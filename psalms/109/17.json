@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Naye akapenda laana, nayo ikamjia; wala hakutaka baraka, nayo ikawa mbali naye.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "akapenda"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "laana"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "ikamjia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hakutaka"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "baraka"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "ikawa mbali"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:31.221034409Z",
+  "model": "glm-5.2"
+}

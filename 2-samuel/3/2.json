@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Naka-⟨zaliwa⟩ wana kwa David ⟨huko⟩ Chevroni; naye mzaliwa wa kwanza wake ⟨akawa⟩ Amnoni, ⟨kwa⟩ Achinoamu Myizreeli.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "naka-"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwa David"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wana"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Chevroni"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "naye akawa"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "mzaliwa wa kwanza wake"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnoni"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "Achinoamu"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "Myizreeli"
+    }
+  ],
+  "timestamp": "2026-08-10T11:29:57.423151760Z",
+  "model": "glm-5.2"
+}

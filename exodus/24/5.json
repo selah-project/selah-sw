@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Akawatuma ⟨את⟩ vijana wa wana wa Yisra'el, wakatoa sadaka za kuchomwa, wakachinja dhabihu za amani kwa Yahweh, ⟨ni⟩ ndama.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akamtuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vijana"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "vijana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "wakatoa"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "sadaka za kuchomwa"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "wakachinja"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "dhabihu"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "za amani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ndama"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:57.315636628Z",
+  "model": "glm-5.2"
+}

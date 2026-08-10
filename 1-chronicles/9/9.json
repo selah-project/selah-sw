@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 9:9",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na ndugu zao, kwa vizazi vyao, ⟨walikuwa⟩ mia tisa na hamsini na sita. Wote hawa ⟨walikuwa⟩ watu, wakuu wa baba, kwa nyumba za baba zao.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "Na ndugu zao"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "kwa vizazi vyao"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "tisa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na hamsini"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "na sita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Wote"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "wakuu"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "wa baba"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kwa nyumba"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "za baba zao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:06:23.306511851Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Heri ⟨yule⟩ anayefikiri mwenye busara kuhusu maskini; siku ya uovu Yahweh atamwokoa.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heri"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "anayefikiri mwenye busara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuhusu"
+    },
+    {
+      "surface": "דל",
+      "gloss": "maskini"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ya uovu"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "atamwokoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:06.527151536Z",
+  "model": "glm-5.2"
+}

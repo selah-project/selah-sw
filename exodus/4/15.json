@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Nawe utazungumza naye, nawe utaweka ⟨את⟩ maneno kinywani mwake; nami mimi nitakuwa na kinywa chako na kinywa chake, nami nitawafundisheni ⟨אתם⟩ ⟨את⟩ yale mtakayoyafanya.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Nawe utazungumza"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "nawe utaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "kinywani mwake"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "nami mimi"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "nitakuwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "kinywa chako"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "kinywa chake"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "nami nitawafundisheni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "mtakayoyafanya"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:40.387859087Z",
+  "model": "glm-5.2"
+}

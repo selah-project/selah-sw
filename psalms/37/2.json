@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Kwa maana kama manyasi hara hara watakatokwa, na kama michaka ya kijani wataukuka.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "כֶ֭חָצִיר",
+      "gloss": "kama manyasi"
+    },
+    {
+      "surface": "מְהֵרָ֣ה",
+      "gloss": "hara hara"
+    },
+    {
+      "surface": "יִמָּ֑לוּ",
+      "gloss": "watakatokwa"
+    },
+    {
+      "surface": "וּכְיֶ֥רֶק",
+      "gloss": "na kama michaka ya"
+    },
+    {
+      "surface": "דֶּ֝֗שֶׁא",
+      "gloss": "kijani"
+    },
+    {
+      "surface": "יִבּוֹלֽוּן",
+      "gloss": "wataukuka"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:43.611723048Z",
+  "model": "glm-5.2"
+}

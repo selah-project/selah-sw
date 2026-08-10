@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Tukauchukua ⟨את⟩ nchi yao, tukautoa kwa urithi kwa Wa-ruveni na kwa Wagadi na kwa nusu ya kabila la Manase.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "tukauchukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi yao"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nchi yao"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "tukautoa"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "kwa urithi"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "kwa Wa-ruveni"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "na kwa Wagadi"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "na kwa nusu"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ya kabila"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "la Manase"
+    }
+  ],
+  "timestamp": "2026-08-10T11:02:25.788834308Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 95,
+  "translation": "Ambaye mkononi mwake ⟨upo⟩ vilimi vya nchi, na vilele vya milima ni vyake.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ambaye"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mkononi mwake"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "vilimi vya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "na vilele vya"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "milima"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ni vyake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:51.121474124Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 98,
+  "translation": "Zaburi. Mwimbieni Yahweh wimbo mpya, kwa maana ⟨ali⟩fanya mambo ya ajabu; uokoaji umpatia mkono wake wa kulia na mkono wake mtakatifu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Zaburi"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "mwimbieni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mpya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "mambo ya ajabu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨ali⟩fanya"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "umepatia uokoaji"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "mkono wake wa kulia"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "na mkono wake"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mtakatifu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:52.711962639Z",
+  "model": "glm-5.2"
+}

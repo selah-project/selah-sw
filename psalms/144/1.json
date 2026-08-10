@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 144,
+  "translation": "⟨Wa⟩ David. Abarikiwa Yahweh, mwamba wangu, ambaye anafundisha mikono yangu ⟨kwa⟩ vita, vidole vyangu ⟨kwa⟩ mapigano.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "⟨Wa⟩ David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Abarikiwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mwamba wangu"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "ambaye anafundisha"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mikono yangu"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "⟨kwa⟩ vita"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "vidole vyangu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "⟨kwa⟩ mapigano"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:48.028612217Z",
+  "model": "glm-5.2"
+}

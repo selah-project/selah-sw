@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Hili ndilo jina la wana wa Aharoni, makuhani walio mpakwa mafuta, ambao mikono yao ilijazwa ⟨ili⟩ wahudumu kama makuhani.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Hili"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "la wana wa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "makuhani"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "walio mpakwa mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ilijazwa"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "mikono yao"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "⟨ili⟩ wahudumu kama makuhani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:29.104393047Z",
+  "model": "glm-5.2"
+}

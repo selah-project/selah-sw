@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Na Elohim akamwambia Avraham: Na wewe ⟨את⟩ beriti yangu utaishika; wewe na mzao wako baada yako, kwa vizazi vyao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beriti yangu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beriti yangu"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "utaishika"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "na mzao wako"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "baada yako"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "kwa vizazi vyao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:49:05.308301401Z",
+  "model": "glm-5.2"
+}

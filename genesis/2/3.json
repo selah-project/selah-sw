@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Elohim akabariki ⟨את⟩ siku ya saba, akauitakasa; kwa kuwa ndani yake akastarehe kutoka kwa kazi yake yote ambayo Elohim aliiumba ili afanye.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "akabariki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ya saba"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "akaitakasa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ akauidhibisha",
+      "marks": "siku ya saba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ndani yake"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "akastarehe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kutoka kwa yote"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "kazi yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "aliiumba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ili afanye"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:34.382941975Z",
+  "model": "glm-5.2"
+}

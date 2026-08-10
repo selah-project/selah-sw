@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Kazi yote ya mtu ⟨ni⟩ kwa ajili ya kinywa chake, wala hata nefesh haijawi ⟨inajaza⟩.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "Kazi yote"
+    },
+    {
+      "surface": "עֲמַ֥ל",
+      "gloss": "ya jitu"
+    },
+    {
+      "surface": "הָאָדָ֖ם",
+      "gloss": "ya mtu"
+    },
+    {
+      "surface": "לְפִ֑יהוּ",
+      "gloss": "kwa ajili ya kinywa chake"
+    },
+    {
+      "surface": "וְגַם",
+      "gloss": "wala hata"
+    },
+    {
+      "surface": "הַנֶּ֖פֶשׁ",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "haijawi"
+    },
+    {
+      "surface": "תִמָּלֵֽא",
+      "gloss": "inajaza"
+    }
+  ],
+  "timestamp": "2026-08-10T13:48:04.158497561Z",
+  "model": "glm-5.2"
+}

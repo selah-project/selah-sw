@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na Shelomoh akajenga ⟨את⟩ ⟨nyumba⟩, akaimaliza.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akajenga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨nyumba⟩"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "akaimaliza"
+    }
+  ],
+  "timestamp": "2026-08-10T11:39:47.381150527Z",
+  "model": "glm-5.2"
+}

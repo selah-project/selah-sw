@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Utawangamiza wanaosema uongo; mtu wa damu na udanganyifu, Yahweh anamchukia.",
+  "tokens": [
+    {
+      "surface": "תְּאַבֵּד֮",
+      "gloss": "utawangamiza"
+    },
+    {
+      "surface": "דֹּבְרֵ֪י",
+      "gloss": "wanaosema"
+    },
+    {
+      "surface": "כָ֫זָ֥ב",
+      "gloss": "uongo"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "דָּמִ֥ים",
+      "gloss": "wa damu"
+    },
+    {
+      "surface": "וּמִרְמָ֗ה",
+      "gloss": "na udanganyifu"
+    },
+    {
+      "surface": "יְתָ֘עֵ֥ב",
+      "gloss": "anamchukia"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:06.284376153Z",
+  "model": "glm-5.2"
+}

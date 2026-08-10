@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "⟨Yeye⟩ huufanya jangwa kuwa ziwa la maji, na nchi yabisi kuwa chemchem za maji.",
+  "tokens": [
+    {
+      "surface": "יָשֵׂ֣ם",
+      "gloss": "huufanya"
+    },
+    {
+      "surface": "מִ֭דְבָּר",
+      "gloss": "jangwa"
+    },
+    {
+      "surface": "לַֽאֲגַם",
+      "gloss": "kuwa ziwa la"
+    },
+    {
+      "surface": "מַ֑יִם",
+      "gloss": "maji"
+    },
+    {
+      "surface": "וְאֶ֥רֶץ",
+      "gloss": "na nchi"
+    },
+    {
+      "surface": "צִ֝יָּ֗ה",
+      "gloss": "yabisi"
+    },
+    {
+      "surface": "לְמֹצָ֥אֵי",
+      "gloss": "kuwa chemchem za"
+    },
+    {
+      "surface": "מָֽיִם",
+      "gloss": "maji"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:22.062967325Z",
+  "model": "glm-5.2"
+}

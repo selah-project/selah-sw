@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 2:6",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Kwa kuwa umewaacha watu wako, nyumba ya Ya'akov, kwa sababu wamejaa kutoka mashariki, na ⟨ni⟩ waganga kama Filistini, na katika watoto wa wageni hupiga makofi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "נטשתה",
+      "gloss": "umewaacha"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "watu wako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Ya'akov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "wamejaa"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kutoka mashariki"
+    },
+    {
+      "surface": "ועננים",
+      "gloss": "na waganga"
+    },
+    {
+      "surface": "כפלשתים",
+      "gloss": "kama Filistini"
+    },
+    {
+      "surface": "ובילדי",
+      "gloss": "na katika watoto"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "wa wageni"
+    },
+    {
+      "surface": "ישפיקו",
+      "gloss": "hupiga makofi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:04:08.052865556Z",
+  "model": "glm-5.2"
+}

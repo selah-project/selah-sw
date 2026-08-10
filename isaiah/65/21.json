@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 65,
+  "translation": "Na watatengeneza nyumba na watakaa ⟨ndani⟩, na watapanda mizabibu na watakula matunda yake.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "na watatengeneza"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "na watakaa"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "na watapanda"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "mizabibu"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "na watakula"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "matunda yake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:09:42.189486539Z",
+  "model": "glm-5.2"
+}

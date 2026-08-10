@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na Yahweh akimandalia samaki mkubwa kumeza ⟨את⟩ Yonah, na Yonah akawa tumboni mwa ⟨⟨hao⟩⟩ samaki siku tatu na masiku matatu.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "Na akamandalia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דג",
+      "gloss": "samaki"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mkubwa"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "kumeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na akawa"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "tumboni mwa"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "samaki"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "na matatu"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "masiku"
+    }
+  ],
+  "timestamp": "2026-08-10T15:21:39.179161438Z",
+  "model": "glm-5.2"
+}

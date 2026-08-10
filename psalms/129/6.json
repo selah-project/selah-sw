@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 129,
+  "translation": "Na wawe kama manyasi ya paa, ambayo yameshakuka kabla ya kutekelezwa.",
+  "tokens": [
+    {
+      "surface": "יִ֭הְיוּ",
+      "gloss": "na wawe"
+    },
+    {
+      "surface": "כַּחֲצִ֣יר",
+      "gloss": "kama manyasi"
+    },
+    {
+      "surface": "גַּגּ֑וֹת",
+      "gloss": "ya paa"
+    },
+    {
+      "surface": "שֶׁ",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "קַדְמַ֖ת",
+      "gloss": "imesha"
+    },
+    {
+      "surface": "שָׁלַ֣ף",
+      "gloss": "kutekelezwa"
+    },
+    {
+      "surface": "יָבֵֽשׁ",
+      "gloss": "yameshakuka"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:55.452277251Z",
+  "model": "glm-5.2"
+}

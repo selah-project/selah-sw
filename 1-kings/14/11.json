@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "yeye afaye kwa Yarav'am katika jiji, mbwa watamla, na yeye afaye shambani, ndege wa mbingu watamla; maana Yahweh amesema.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "yeye afaye"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "kwa Yarav'am"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "katika jiji"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mbwa watamla"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "mbwa"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "na yeye afaye"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "shambani"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ndege wa mbingu watamla"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ndege wa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "amesema"
+    }
+  ],
+  "timestamp": "2026-08-10T14:59:59.125806178Z",
+  "model": "glm-5.2"
+}

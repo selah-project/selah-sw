@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Yehuda ukusanyike kuomba msaada kwa Yahweh; hata kutoka miji yote ya Yehuda wakaja kuomba msaada ⟨kwa⟩ ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ukusanyike"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kuomba msaada"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kutoka yote"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miji"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "באו",
+      "gloss": "wakaja"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kuomba msaada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T16:29:24.432437116Z",
+  "model": "glm-5.2"
+}

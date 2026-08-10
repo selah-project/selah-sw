@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "kwa maana hakuna mwisho kwa mwenye ubaya, taa ya wabaya huzima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨ipokuwepo⟩"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "mwisho"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "kwa mwenye ubaya"
+    },
+    {
+      "surface": "נר",
+      "gloss": "taa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya wabaya"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "huzima"
+    }
+  ],
+  "timestamp": "2026-08-10T13:28:32.461873412Z",
+  "model": "glm-5.2"
+}

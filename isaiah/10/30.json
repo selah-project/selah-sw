@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Paza sauti yako, binti Gallim! Sikiliza, Laish! Ee Anathoth mnyenyekevu!",
+  "tokens": [
+    {
+      "surface": "צַהֲלִ֥י",
+      "gloss": "paza"
+    },
+    {
+      "surface": "קוֹלֵ֖ךְ",
+      "gloss": "sauti yako"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "גַּלִּ֑ים",
+      "gloss": "Gallim"
+    },
+    {
+      "surface": "הַקְשִׁ֥יבִי",
+      "gloss": "sikiliza"
+    },
+    {
+      "surface": "לַ֖יְשָׁה",
+      "gloss": "Laish"
+    },
+    {
+      "surface": "עֲנִיָּ֥ה",
+      "gloss": "mnyenyekevu"
+    },
+    {
+      "surface": "עֲנָתֽוֹת",
+      "gloss": "Anathoth"
+    }
+  ],
+  "timestamp": "2026-08-10T17:59:46.101100349Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Lakini ⟨את⟩ Natani nabii, na Benayahu, na ⟨את⟩ watu wenye nguvu, na ⟨את⟩ Shelomah ndugu yake, hakumwita.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "Nataninabii"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabii"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "na Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "watu wenye nguvu"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "watujenye nguvu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shelomah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haku"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "mwita"
+    }
+  ],
+  "timestamp": "2026-08-10T14:58:20.582513881Z",
+  "model": "glm-5.2"
+}

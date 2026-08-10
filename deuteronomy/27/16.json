@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Mwenye laana ni yule anayedharau baba yake na mama yake; na watu wote watakasema: Amina.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Mwenye laana"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "anayedharau"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "na mama yake"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na watakasema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amina"
+    }
+  ],
+  "timestamp": "2026-08-10T11:01:19.921706272Z",
+  "model": "glm-5.2"
+}

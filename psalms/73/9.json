@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 73,
+  "translation": "Wameweka mbinguni kinywa chao, na ulimi wao utatembea katika nchi.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "Wameweka"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mbinguni"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "kinywa chao"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "na ulimi wao"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "utatembea"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:12.395881109Z",
+  "model": "glm-5.2"
+}

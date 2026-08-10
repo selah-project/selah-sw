@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 122,
+  "translation": "Ambapo makabila hupanda, makabila ya Yah, shahada kwa Yisraeli, kushukuru jina la Yahweh.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "Ambapo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "hupanda"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "makabila"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "makabila ya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "shahada"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kwa Yisraeli"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "kushukuru"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "jina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:45.026183160Z",
+  "model": "glm-5.2"
+}

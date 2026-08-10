@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Kwa maana nilikuwa mwana kwa baba yangu, ⟨mwenye⟩ upole na ⟨mwana⟩ pekee mbele ya mama yangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nilikuwa"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "kwa baba yangu"
+    },
+    {
+      "surface": "רך",
+      "gloss": "⟨mwenye⟩ upole"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "na ⟨mwana⟩ pekee"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mama yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:22:17.649900354Z",
+  "model": "glm-5.2"
+}

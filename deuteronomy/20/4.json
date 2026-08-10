@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "kwa maana Yahweh Elohim wenu, yeye atendaye pamoja nanyi, atapigana ⟨kwa ajili yenu⟩ na maadui zenu, ili awaokoeni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wenu"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yeye atendaye"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "pamoja nanyi"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "atapigana"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨kwa ajili yenu⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "maadui zenu"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ili awaokoeni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:00:24.739416990Z",
+  "model": "glm-5.2"
+}

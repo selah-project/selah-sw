@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 77,
+  "translation": "Njia yako ⟨iliyokuwa⟩ baharini, na nyayo zako katika maji mengi; na hatua zako hazikujulikana.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "baharini"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "Njia yako"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "na nyayo zako"
+    },
+    {
+      "surface": "במים",
+      "gloss": "katika maji"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mengi"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "na hatua zako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "hazikujulikana"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:49.318549288Z",
+  "model": "glm-5.2"
+}

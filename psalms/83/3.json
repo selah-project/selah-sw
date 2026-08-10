@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 83,
+  "translation": "Kwa maana tazama, maadui zako wanagongwa, nao wanaokuchukia wameinua kichwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "maadui zako"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "wanagongwa"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "nao wanaokuchukia"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "wameinua"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:04.119775999Z",
+  "model": "glm-5.2"
+}

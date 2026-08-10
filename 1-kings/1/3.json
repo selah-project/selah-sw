@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Wakatafuta msichana mzuri katika mipaka yote ya Yisra'eli, wakamchagua ⟨את⟩ Avíshag ha-Shunamit, wakamletea ⟨את⟩ kwa mfalme.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "Wakatafuta"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "msichana"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "mzuri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mipaka yote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "wakamchagua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avíshag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avíshag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "ha-Shunamit"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wakamleta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kwa mfalme"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kwa mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T11:37:05.730807085Z",
+  "model": "glm-5.2"
+}

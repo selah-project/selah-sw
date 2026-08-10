@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Kutoka hekalu wako juu ya Yerushalayim, falme watatoa zawadi ⟨kwa ajili yako⟩.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "kutoka hekalu wako"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa ajili yako"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "watatoa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "falme"
+    },
+    {
+      "surface": "שי",
+      "gloss": "zawadi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:55.831349245Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 20:25",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Hupeperushwa nje, na hutoka katika mgongo wake, na umeme wa nyojo yake huenda juu yake — vitisho.",
+  "tokens": [
+    {
+      "surface": "שָׁלַף֮",
+      "gloss": "hupeperushwa"
+    },
+    {
+      "surface": "וַיֵּצֵ֪א",
+      "gloss": "na hutoka"
+    },
+    {
+      "surface": "מִגֵּ֫וָ֥ה",
+      "gloss": "katika mgongo wake"
+    },
+    {
+      "surface": "וּ֭בָרָק",
+      "gloss": "na umeme"
+    },
+    {
+      "surface": "מִֽמְּרֹרָת֥וֹ",
+      "gloss": "wa nyojo yake"
+    },
+    {
+      "surface": "יַהֲלֹ֗ךְ",
+      "gloss": "huenda"
+    },
+    {
+      "surface": "עָלָ֥יו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "אֵמִֽים",
+      "gloss": "vitisho"
+    }
+  ],
+  "timestamp": "2026-08-10T13:36:36.125124101Z",
+  "model": "glm-5.2"
+}

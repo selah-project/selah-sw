@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na akapata mimba, akazaa mwana, akasema: Elohim ameondoa ⟨את⟩ maudhi yangu.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Na akapata mimba"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akazaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ameondoa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maudhi yangu"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "maudhi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:25:21.225026440Z",
+  "model": "glm-5.2"
+}

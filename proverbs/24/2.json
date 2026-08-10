@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Kwa maana uharibifu huupanga moyo wao, na mateso midomo yao husema.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "שד",
+      "gloss": "uharibifu"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "huupanga"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "moyo wao"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "na mateso"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "midomo yao"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "husema"
+    }
+  ],
+  "timestamp": "2026-08-10T13:28:35.049666022Z",
+  "model": "glm-5.2"
+}

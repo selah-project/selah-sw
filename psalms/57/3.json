@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 57,
+  "translation": "Nitaita kwa Elohim Elyon, kwa El ambaye ⟨anakamilisha⟩ ⟨kwa⟩ maneno yangu.",
+  "tokens": [
+    {
+      "surface": "אֶקְרָא",
+      "gloss": "Nitaita"
+    },
+    {
+      "surface": "לֵאלֹהִים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "עֶלְיוֹן",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "לָאֵל",
+      "gloss": "kwa El"
+    },
+    {
+      "surface": "גֹּמֵר",
+      "gloss": "ambaye ⟨anakamilisha⟩"
+    },
+    {
+      "surface": "עָלָי",
+      "gloss": "⟨kwa⟩ maneno yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:27.289448436Z",
+  "model": "glm-5.2"
+}

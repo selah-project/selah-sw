@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Ikiwa kambi itapiga kambi juu yangu, moyo wangu hauogopi; ikiwa vita vitaondoka juu yangu, katika hili mimi ninatumaini.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ikiwa"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "itapiga kambi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kambi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hau"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ogopi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "vita vitaondoka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "vita"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "katika hili"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "ninatumaini"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:59.693278155Z",
+  "model": "glm-5.2"
+}

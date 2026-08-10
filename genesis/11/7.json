@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 11:7",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Njoo, tushuke, na tuchanganye huko ulimi wao, ili mtu asisikie ulimi wa jirani yake.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Njoo"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "tushuke"
+    },
+    {
+      "surface": "ונבלה",
+      "gloss": "na tuchanganye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    },
+    {
+      "surface": "שפתם",
+      "gloss": "ulimi wao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asi-"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "-sisikie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ulimi"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "wa jirani yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:35.057092165Z",
+  "model": "glm-5.2"
+}

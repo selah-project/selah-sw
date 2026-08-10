@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Na itakuwa ⟨kwamba⟩ kutoka mtono utakunywa, na ⟨את⟩ wakunguru nimeamrisha kukulisha huko.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na itakuwa"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "kutoka mtono"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "utakunywa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wakunguru"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "wakunguru"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nimeamrisha"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "kukulisha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    }
+  ],
+  "timestamp": "2026-08-10T15:00:40.317237181Z",
+  "model": "glm-5.2"
+}

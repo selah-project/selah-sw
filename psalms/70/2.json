@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 70,
+  "translation": "Elohim, ⟨i⟩ okoe mimi, Yahweh, ⟨kwa⟩ msaada wangu, fanya haraka!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "⟨i⟩ okoe mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "⟨kwa⟩ msaada wangu"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "fanya haraka!"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:36.660853658Z",
+  "model": "glm-5.2"
+}

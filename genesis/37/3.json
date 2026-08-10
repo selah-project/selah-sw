@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Na Yisrael alimpenda ⟨את⟩ Yosef zaidi kuliko wana wake wote, kwa kuwa ⟨yeye⟩ ni mwana wa uzee wake; naye akamfanyia ⟨joho⟩ la kukunjwa.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Na Yisrael"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "alimpenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "zaidi kuliko"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wana wake wote"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "wa uzee"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na akamfanyia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "la joho"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "la kukunjwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:12:47.055872015Z",
+  "model": "glm-5.2"
+}

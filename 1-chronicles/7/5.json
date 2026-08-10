@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 7:5",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na ndugu zao, kwa jumla ya koo za Yissaskar, mashujaa wa nguvu, ⟨walikuwa⟩ themanini na saba elfu, waliyoandikwa kwa jumla kwa nasaba.",
+  "tokens": [
+    {
+      "surface": "וַאֲחֵיהֶם",
+      "gloss": "Na ndugu zao"
+    },
+    {
+      "surface": "לְכֹל",
+      "gloss": "kwa jumla ya"
+    },
+    {
+      "surface": "מִשְׁפְּחֹת",
+      "gloss": "koo"
+    },
+    {
+      "surface": "יִשָׂשכָר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "גִּבּוֹרֵי",
+      "gloss": "mashujaa"
+    },
+    {
+      "surface": "חֲיָלִים",
+      "gloss": "wa nguvu"
+    },
+    {
+      "surface": "שְׁמֹנִים",
+      "gloss": "themanini"
+    },
+    {
+      "surface": "וְשִׁבְעָה",
+      "gloss": "na saba"
+    },
+    {
+      "surface": "אֶלֶף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "הִתְיַחְשָׂם",
+      "gloss": "waliyoandikwa kwa nasaba"
+    },
+    {
+      "surface": "לַכֹּל",
+      "gloss": "kwa jumla"
+    }
+  ],
+  "timestamp": "2026-08-10T14:05:52.198973618Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "then you shall cut off her hand; your eye shall not spare.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "na umkate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wake"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "isi"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "na hurumie"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "jicho lako"
+    }
+  ],
+  "timestamp": "2026-08-10T14:43:17.013068847Z",
+  "model": "glm-5.2"
+}

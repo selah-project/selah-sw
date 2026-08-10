@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 33:25",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Nayo watu wa ⟨הארץ⟩ nchi wakapiga ⟨את⟩ wote wa njama dhidi ya mfalme Amoni, nayo watu wa ⟨הארץ⟩ nchi wakimfanya Yeshiahu mwanae kuwa mfalme badala yake.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "wakapiga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨wa⟩ nchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wote wa njama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "wa njama"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhidi ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "wakimfanya kuwa mfalme"
+    },
+    {
+      "surface": "עם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨wa⟩ nchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeshiahu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yeshiahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanae"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "badala yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:19:57.472115690Z",
+  "model": "glm-5.2"
+}

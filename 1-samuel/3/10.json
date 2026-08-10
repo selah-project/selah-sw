@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Yahweh akaingia, akasimama, akaita kama mara kwa mara: Shemueli, Shemueli. Na Shemueli akasema: Ona, maana mtumishi wako ⟨anasikia⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "akasimama"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "kama mara"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "kwa mara"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "⟨anasikia⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mtumishi wako"
+    }
+  ],
+  "timestamp": "2026-08-10T14:51:41.140162823Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na Mikali binti Shaul akampenda ⟨את⟩ David; wakamwambia Shaul, neno likapendeza machoni pake.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "Na akampenda"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikali"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "wakamwambia"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "likapendeza"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "machoni pake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:52:36.907144827Z",
+  "model": "glm-5.2"
+}

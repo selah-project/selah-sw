@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Akasema Yahweh kwa Moshe jangwani Sinai, akisema:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֤ר",
+      "gloss": "Akasema"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בְּמִדְבַּ֥ר",
+      "gloss": "jangwani"
+    },
+    {
+      "surface": "סִינַ֖י",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "akisema"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:58.484934602Z",
+  "model": "glm-5.2"
+}

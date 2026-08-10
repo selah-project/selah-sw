@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Paras, Kush, na Put ⟨pamoja⟩ naye, wote ⟨wakiwa na⟩ ngao na kofia:",
+  "tokens": [
+    {
+      "surface": "פָּרַ֛ס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "כּ֥וּשׁ",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "וּפ֖וּט",
+      "gloss": "na Put"
+    },
+    {
+      "surface": "אִתָּ֑ם",
+      "gloss": "⟨את⟩",
+      "marks": "pamoja naye"
+    },
+    {
+      "surface": "כֻּלָּ֖ם",
+      "gloss": "wote"
+    },
+    {
+      "surface": "מָגֵ֥ן",
+      "gloss": "ngao"
+    },
+    {
+      "surface": "וְכוֹבָֽע",
+      "gloss": "na kofia"
+    }
+  ],
+  "timestamp": "2026-08-10T15:19:16.445150626Z",
+  "model": "glm-5.2"
+}

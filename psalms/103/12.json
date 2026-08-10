@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 103,
+  "translation": "Kama kama mbali mashariki ni kutoka magharibi, ameyaondoa mbali kutoka kwetu ⟨את⟩ maasi yetu.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "Kama mbali"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "mashariki"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "kutoka magharibi"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "ameyaondoa mbali"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kutoka kwetu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maasi yetu"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "maasi yetu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:53.454114552Z",
+  "model": "glm-5.2"
+}

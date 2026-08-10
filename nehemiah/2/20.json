@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 2:20",
+  "book": "nehemiah",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Nikawapa jibu ⟨את⟩ neno, nikawaambia: Elohim wa mbingu, yeye atatupa mafanikio, na sisi, watumishi wake, tutaamka na kujenga; lakini kwenu hakuna sehemu wala haki wala ukumbusho Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ואשיב",
+      "gloss": "nikawapa jibu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "neno"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "nikawaambia"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wa mbingu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "atatupa mafanikio"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "na sisi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumishi wake"
+    },
+    {
+      "surface": "נקום",
+      "gloss": "tutaamka"
+    },
+    {
+      "surface": "ובנינו",
+      "gloss": "na kujenga"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "lakini kwenu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "sehemu"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "wala haki"
+    },
+    {
+      "surface": "וזכרון",
+      "gloss": "wala ukumbusho"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T14:00:18.622115537Z",
+  "model": "glm-5.2"
+}

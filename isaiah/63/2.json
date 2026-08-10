@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 63,
+  "translation": "Kwa nini ⟨ni⟩ nyekundu nguo zako, na mavazi yako kama ⟨ya⟩ anayekanyaga ⟨kwenye⟩ shinikizo la zabibu?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "kwa nini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨ni⟩ nyekundu"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "nguo zako"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "na mavazi yako"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "kama ⟨ya⟩ anayekanyaga"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "⟨kwenye⟩ shinikizo la zabibu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:09:10.274869461Z",
+  "model": "glm-5.2"
+}

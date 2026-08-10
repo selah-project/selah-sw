@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na ⟨yeye⟩ atamletea ⟨את⟩ madhambi yake kwa Yahweh, mlangoni pa hema ya mkutano, ayili kwa ⟨⊕⟩ dhabihu ya madhambi.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Na atamletea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madhambi yake"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "madhambi yake"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mlangoni pa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mlangoni pa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ayili"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "kwa ⟨⊕⟩ dhabihu ya madhambi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:54:19.736458405Z",
+  "model": "glm-5.2"
+}

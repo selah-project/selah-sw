@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Nao wahifadhi dhamana yake na ⟨את⟩ dhamana ya ⟨the⟩ makusanyiko yote mbele ya hema ya mkutano, kufanya ⟨את⟩ kazi ya maskani.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Nao wahifadhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhamana yake"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "dhamana yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "dhamana ya makusanyiko yote"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "dhamana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "makusanyiko yote"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hema ya mkutano"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kufanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kazi ya maskani"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ya maskani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:22.320834878Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 115,
+  "translation": "Yisrael, tumainia Yahweh; ⟨yeye⟩ ndiye msaada wao na ngao yao.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "tumainia"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "msaada wao"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "na ngao yao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:02.202129894Z",
+  "model": "glm-5.2"
+}

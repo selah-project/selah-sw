@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 145,
+  "translation": "Kumbukumbu ya wingi wa wema wako watatenga, na haki yako watatetema.",
+  "tokens": [
+    {
+      "surface": "זֵ֣כֶר",
+      "gloss": "Kumbukumbu"
+    },
+    {
+      "surface": "רַב",
+      "gloss": "ya wingi"
+    },
+    {
+      "surface": "טוּבְךָ֣",
+      "gloss": "wa wema wako"
+    },
+    {
+      "surface": "יַבִּ֑יעוּ",
+      "gloss": "watatenga"
+    },
+    {
+      "surface": "וְצִדְקָתְךָ֥",
+      "gloss": "na haki yako"
+    },
+    {
+      "surface": "יְרַנֵּֽנוּ",
+      "gloss": "watatetema"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:46.642027290Z",
+  "model": "glm-5.2"
+}

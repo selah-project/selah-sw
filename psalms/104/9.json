@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "Mpaka ulioweka — wasivuke, wasirudi kufunika ⟨את⟩ nchi.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ulioweka"
+    },
+    {
+      "surface": "בל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "wasivuke"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wasirudi"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "kusanya"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "kufunika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:42.472112845Z",
+  "model": "glm-5.2"
+}

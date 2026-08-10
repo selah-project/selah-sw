@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 95,
+  "translation": "Njoni, tufurahie kwa wimbo kwa Yahweh, tupige kelele kwa Mwamba wa wokovu wetu.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Njoni"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "tufurahie kwa wimbo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "tupige kelele"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "kwa Mwamba"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "wa wokovu wetu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:51.120962252Z",
+  "model": "glm-5.2"
+}

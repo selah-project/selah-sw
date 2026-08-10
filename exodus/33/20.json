@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Akasema: Huwezi kuona ⟨את⟩ uso wangu, kwa maana mtu hatanioni na kuishi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "wezi"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uso wangu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso wangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "tananiona"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "na kuishi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:39.543695955Z",
+  "model": "glm-5.2"
+}

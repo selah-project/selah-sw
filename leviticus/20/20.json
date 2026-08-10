@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na mtu ambaye atalala na ⟨את⟩ shangazi yake — uchi wa mjomba wake ameufunua; zambi yao wataichukua; bila watu watakufa.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na mtu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "atalala na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shangazi yake"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "shangazi yake"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "uchi"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "wa mjomba wake"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ameufunua"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "zambi yao"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "wataichukua"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "bila watu"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "watakufa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:38.671831016Z",
+  "model": "glm-5.2"
+}

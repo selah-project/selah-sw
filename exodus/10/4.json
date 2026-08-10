@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Maana ukikataa kuwachilia ⟨את⟩ watu wangu, tazama, mimi naleta kesho nzige ndani ya mipaka yako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukikataa"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ukikataa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kuwachilia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu wangu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "watu wangu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "mimi naleta"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "kesho"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "nzige"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "ndani ya mipaka yako"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:24.978270630Z",
+  "model": "glm-5.2"
+}

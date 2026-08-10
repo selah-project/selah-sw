@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 59,
+  "translation": "Elohim wa chesed yangu atanitangulia, Elohim atanionesha ⟨katika⟩ wapinzani wangu.",
+  "tokens": [
+    {
+      "surface": "אֱלֹהֵ֣י",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed yangu"
+    },
+    {
+      "surface": "יְקַדְּמֵ֑נִי",
+      "gloss": "atanitangulia"
+    },
+    {
+      "surface": "אֱ֝לֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יַרְאֵ֥נִי",
+      "gloss": "atanionesha"
+    },
+    {
+      "surface": "בְשֹׁרְרָֽי",
+      "gloss": "wapinzani wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:55.067540241Z",
+  "model": "glm-5.2"
+}

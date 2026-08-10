@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Unatuweka kuwa methali kati ya mataifa, kuwa kisingizio cha kukeketwa kichwa miongoni mwa watu.",
+  "tokens": [
+    {
+      "surface": "תְּשִׂימֵ֣נוּ",
+      "gloss": "Unatuweka"
+    },
+    {
+      "surface": "מָ֭שָׁל",
+      "gloss": "kuwa methali"
+    },
+    {
+      "surface": "בַּגּוֹיִ֑ם",
+      "gloss": "kati ya mataifa"
+    },
+    {
+      "surface": "מְנֽוֹד",
+      "gloss": "kukeketwa"
+    },
+    {
+      "surface": "רֹ֝אשׁ",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "⟨kati⟩ ya"
+    },
+    {
+      "surface": "אֻמִּֽים",
+      "gloss": "mataifa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:24.485635559Z",
+  "model": "glm-5.2"
+}

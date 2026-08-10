@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 81,
+  "translation": "Mara ndogo angaliniwashinda maadui zao, na juu ya watesi wao ningalirudisha mkono wangu.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Mara ndogo"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "maadui zao"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "angaliniwashinda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "watesi wao"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ningalirudisha"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mkono wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:10.490644573Z",
+  "model": "glm-5.2"
+}

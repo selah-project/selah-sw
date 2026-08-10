@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "kwa Yisaskari, Netanueli mwana wa Tsuari.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "kwa Yisaskari"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanueli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "wa Tsuari"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:52.916081327Z",
+  "model": "glm-5.2"
+}

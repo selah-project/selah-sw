@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Basi watu wakauchukua ⟨kutoka⟩ mawakala wao, na ⟨את⟩ kinywa cha Yahweh hawakuuliza.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "wakauchukua"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "mawakala wao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kinywa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kinywa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "cha Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawaku"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "uliza"
+    }
+  ],
+  "timestamp": "2026-08-10T11:06:36.679963522Z",
+  "model": "glm-5.2"
+}

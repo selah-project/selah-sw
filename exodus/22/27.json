@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Elohim, usimlaani; na mwandamani wa watu wako, usimlaani.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sio"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "utaangamiza"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "na kiongozi"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "katika watu wako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sio"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "utaangamiza"
+    }
+  ],
+  "timestamp": "2026-08-10T14:31:04.917652969Z",
+  "model": "glm-5.2"
+}

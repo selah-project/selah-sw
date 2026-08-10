@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Shabbat ya mapumziko kamili ⟨hiyo⟩ ni kwa ajili yenu, na mtajing'aiza ⟨את⟩ nafsi zenu; tarehe tisa ya mwezi jioni, kutoka jioni hadi jioni, mtashika Shabbat yenu.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ya mapumziko kamili"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ni kwa ajili yenu"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "na mtajing'aiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafsi zenu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "nafsi zenu"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "tarehe tisa"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya mwezi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "jioni"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "kutoka jioni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "jioni"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "mtashika"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Shabbat yenu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:57.219042825Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Nami nitaweka ⟨את⟩ maiti ya wana wa Yisraeli mbele ya giluli zao, nami nitatawanya ⟨את⟩ mifupa yenu kuzunguka madhabahu zenu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nami nitaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maiti"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "maiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "giluli zao"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "nami nitatawanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mifupa yenu"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "mifupa yenu"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "kuzunguka"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "madhabahu zenu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:27:14.468944676Z",
+  "model": "glm-5.2"
+}

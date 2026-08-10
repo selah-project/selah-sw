@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 26:1",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Kwa migawanyiko ya waangalizi wa milango: kwa waKorahi ⟨palikuwa na⟩ Meshelemiahu mwana wa Kore, miongoni mwa wana wa Asaf.",
+  "tokens": [
+    {
+      "surface": "למחלקות",
+      "gloss": "kwa migawanyiko ya"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "waangalizi wa milango"
+    },
+    {
+      "surface": "לקרחים",
+      "gloss": "kwa waKorahi"
+    },
+    {
+      "surface": "משלמיהו",
+      "gloss": "Meshelemiahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wa Kore"
+    },
+    {
+      "surface": "מן",
+      "gloss": "miongoni mwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "wa Asaf"
+    }
+  ],
+  "timestamp": "2026-08-10T15:43:53.025536306Z",
+  "model": "glm-5.2"
+}

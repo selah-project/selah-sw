@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na binti ya mtu kuhani, kama ⟨akijidhuru⟩ kwa uasherati, ⟨את⟩ baba yake ⟨yeye⟩ anamchafua; kwa moto atatekwa.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Na binti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya mtu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "akijidhuru"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "kwa uasherati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba yake"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "anamchafua"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kwa moto"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "atatekwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:05.012101665Z",
+  "model": "glm-5.2"
+}

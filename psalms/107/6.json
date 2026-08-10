@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Wakamsaalia Yahweh katika dhiki yao, na kutoka mihangaiko yao ⟨⟨ye⟩⟩ aliwaokoa.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "wakamsaalia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "katika dhiki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yao"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "kutoka mihangaiko yao"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "aliwaokoa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:43.520218268Z",
+  "model": "glm-5.2"
+}

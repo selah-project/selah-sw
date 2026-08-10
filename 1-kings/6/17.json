@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na ⟨nyumba⟩, ⟨yaani⟩ hekalu lililo mbele yake, lilikuwa dhiraba arubaini.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "Na arubaini"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "dhiraba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ilikuwa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨nyumba⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨yaani⟩"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "hekalu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "lililo mbele yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:38:40.772392680Z",
+  "model": "glm-5.2"
+}

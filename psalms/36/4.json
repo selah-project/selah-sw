@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Maneno ya kinywa chake ni uovu na udanganyifu; ameacha kuwa na akili, kufanya jema.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ya kinywa chake"
+    },
+    {
+      "surface": "און",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "na udanganyifu"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ameacha"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "kuwa na akili"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "kufanya jema"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:42.316786185Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Upepo umemfunga ⟨את⟩ katika mbawa zake, nao wataaibika kwa sababu ya dhabihu zao.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "umemfunga"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Upepo"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "katika mbawa zake"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "katika mbawa zake"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "nao wataaibika"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "kwa sababu ya dhabihu zao"
+    }
+  ],
+  "timestamp": "2026-08-10T12:40:38.684938800Z",
+  "model": "glm-5.2"
+}

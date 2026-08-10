@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 56,
+  "translation": "Siku nioguayo, mimi, kwako ninajiaminia.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Siku"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "nioguayo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ninajiaminia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:16.374619459Z",
+  "model": "glm-5.2"
+}

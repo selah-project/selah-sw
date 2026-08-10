@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Wakajaribu wakasihi ⟨את⟩ Elohim Elyon, na ushahidi wake hawakuuhifadhi.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "Wakajaribu"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "wakasihi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Elyon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "na ushahidi wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawaku"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "uhifadhi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:43.986035683Z",
+  "model": "glm-5.2"
+}

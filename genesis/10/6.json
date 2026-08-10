@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na wana wa Cham: Kush na Mitsrayim na Put na Kenaani.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na wana wa"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "na Mitsrayim"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "na Put"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "na Kenaani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:02:57.423713144Z",
+  "model": "glm-5.2"
+}

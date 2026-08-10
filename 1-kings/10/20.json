@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na simba kumi na wawili wamesimama huko juu ya matufe sita, upande huu na upande huu; haikufanywa vivyo hivyo kwa ufalme wowote.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "na wawili"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "simba"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "wamesimama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sita"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "matufe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "upande huu"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "na upande huu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hai-"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kufanywa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa wowote"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ufalme"
+    }
+  ],
+  "timestamp": "2026-08-10T11:40:47.114699653Z",
+  "model": "glm-5.2"
+}

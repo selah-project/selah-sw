@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Na ⟨את⟩ jina la wa pili akaita Efrayimu, maana Elohim amenifanya kuza katika nchi ya mateso yangu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "jina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "השני",
+      "gloss": "la wa pili"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "amenifanya kuza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ya mateso yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:15:11.472862277Z",
+  "model": "glm-5.2"
+}

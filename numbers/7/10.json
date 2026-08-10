@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na wakubwa wakimkarimisha ⟨את⟩ kuwekwa wakfu kwa madhabahu siku ya kumpaka mafuta ⟨אתו⟩, na wakubwa wakimkarimisha ⟨את⟩ dhabihu zao mbele ya madhabahu.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "na wakimkarimisha"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "wakubwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuwekwa wakfu"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "kuwekwa wakfu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kwa madhabahu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "kumpaka mafuta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "kumpaka mafuta"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "na wakimkarimisha"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "wakubwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhabihu zao"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "dhabihu zao"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:37:42.162013503Z",
+  "model": "glm-5.2"
+}

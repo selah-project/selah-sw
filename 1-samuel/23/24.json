@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 23:24",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Wakaondoka wakaenda, wana wa Zif mbele ya Shaul; na David na watu wake walikuwa ⟨wakikaa⟩ nyikani pa Maon, katika ─Araba, upande wa kulia wa Yeshimoni.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "wakaondoka"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wakaenda"
+    },
+    {
+      "surface": "זיפה",
+      "gloss": "wana wa Zif"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "na David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "na watu wake"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nyikani pa"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Maon"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "katika Araba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "upande wa"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kulia wa"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "Yeshimoni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:27:20.786580279Z",
+  "model": "glm-5.2"
+}

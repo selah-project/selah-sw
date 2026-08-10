@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Jambo moja nimemuomba kwa ⟨את⟩ Yahweh — ⟨את⟩ hilo nitalitafuta: kukaa katika nyumba ya Yahweh siku zote za uhai wangu, kuutazama uzuri wa Yahweh, na kutafuta ⟨kwa⟩ hekalu lake.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Jambo moja"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "nimemuomba"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kwa ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ hilo"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "nitalitafuta"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "kukaa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "katika nyumba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "siku zote"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "siku"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "za uhai wangu"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "kuutazama"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "uzuri wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "na kutafuta"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "⟨kwa⟩ hekalu lake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:59.693456554Z",
+  "model": "glm-5.2"
+}

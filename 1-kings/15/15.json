@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "akaingiza ⟨את⟩ vitu vitakatifu vya baba yake na vitu alivyojitolea yeye mwenyewe nyumbani mwa Yahweh: fedha, dhahabu na vyombo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akaingiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vitu vitakatifu vya baba yake"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "vitu vitakatifu vya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "na vitu alivyojitolea yeye mwenyewe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumbani mwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "na vyombo"
+    }
+  ],
+  "timestamp": "2026-08-10T11:42:34.684872769Z",
+  "model": "glm-5.2"
+}

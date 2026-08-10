@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na Yitro kuhani wa Midyani, mkwe wa Moshe, alisikia ⟨את⟩ yote ambayo Elohim alifanya kwa Moshe na kwa Yisra'el ⟨ami⟩, kwani Yahweh alitoa ⟨את⟩ Yisra'el kutoka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "na akasikia"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "wa Midyani"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "mkwe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alifanya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kwa Moshe"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "na kwa Yisra'el"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "alitoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kutoka Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:22:53.173400939Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Akaenda akachukua, akamletea mama yake. Na mama yake akapika maakuli kama baba yake alivyo pendezwa.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Akaenda"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akachukua"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akamletea"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "mama yake"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "Na akapika"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama yake"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "maakuli"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "alivyo pendezwa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:08:20.435505078Z",
+  "model": "glm-5.2"
+}

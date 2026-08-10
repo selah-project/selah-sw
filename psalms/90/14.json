@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 90,
+  "translation": "Tushibishe asubuhi na chesed yako, ili tuche na kufurahi siku zetu zote.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "Tushibishe"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "na chesed yako"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "ili tuche"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "na kufurahi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "siku zetu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:16.959972246Z",
+  "model": "glm-5.2"
+}

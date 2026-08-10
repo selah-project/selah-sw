@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 135,
+  "translation": "Sanamu za mataifa ⟨ni⟩ fedha na dhahabu, kazi ya mikono ya ⟨ki-)adamu(⟩.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "sanamu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "za mataifa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "na dhahabu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ya mikono"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya adamu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:09.831252221Z",
+  "model": "glm-5.2"
+}

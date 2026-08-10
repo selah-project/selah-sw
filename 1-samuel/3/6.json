@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 3:6",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Naye Yahweh akaongeza kuita tena, Shemueli; naye Shemueli akaamka akaenda kwa Eli, naye akasema, Tena niko hapa, maana wewe uliniita. Naye akasema, Sikukuita, wanangu; rudi lala.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "naye akaongeza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "naye akaamka"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "naye akaenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akasema"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tena niko hapa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "wewe uliita"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akasema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nikukuita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wanangu"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "rudi"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lala"
+    }
+  ],
+  "timestamp": "2026-08-10T16:00:09.529989313Z",
+  "model": "glm-5.2"
+}

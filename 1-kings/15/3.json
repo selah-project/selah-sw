@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 15:3",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Akatembea katika dhambi zote za baba yake ambazo alifanya mbele yake; na moyo wake haukuwa timilivu pamoja na Yahweh Elohim wake, kama moyo wa David baba yake.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Akatembea"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika zote"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dhambi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "za baba yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alifanya"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbele yake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na hayakuwa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨haukuwa⟩"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "timilivu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim wake"
+    },
+    {
+      "surface": "כלבב",
+      "gloss": "kama moyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:43:22.696255972Z",
+  "model": "glm-5.2"
+}

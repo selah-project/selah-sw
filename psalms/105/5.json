@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Kumbukeni miujiza yake aliyoifanya, alama zake na hukumu za kinywa chake.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "kumbukeni"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "miujiza yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ifanya"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "alama zake"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "na hukumu za"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "kinywa chake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:55.781218532Z",
+  "model": "glm-5.2"
+}

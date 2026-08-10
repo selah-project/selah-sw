@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Basi aka jibu ⟨hao⟩ watu wakasema, Hasha sisi tuache ⟨את⟩ Yahweh, ili kumtumikia miungu mingine.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akajibu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wakasema"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "hasha"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "tuache"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ili kumtumikia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "miungu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "mingine"
+    }
+  ],
+  "timestamp": "2026-08-10T11:11:56.552702054Z",
+  "model": "glm-5.2"
+}

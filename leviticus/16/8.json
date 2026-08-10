@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na Aharoni ataweka kura juu ya wawili wa billy: kura moja kwa Yahweh, na kura moja kwa Azazeli.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Na ataweka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "wa billy"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "kura"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "kura"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "na kura"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "kwa Azazeli"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:04.585064716Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Ambayo mkono wangu utaanza pamoja naye; naam, bidi yangu itamtia nguvu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ambayo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mkono wangu"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "utaanza"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja naye"
+    },
+    {
+      "surface": "אף",
+      "gloss": "naam"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "bidi yangu"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "itamtia nguvu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:41.994180878Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Hizi ndizo majina ya wana wa Esav: Elifazi, mwana wa Adahah mke wa Esav; Reueli, mwana wa Bashemathah mke wa Esav.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Hizi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "majina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya wana"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wa Esav"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adahah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mke wa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reueli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bashemathah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mke wa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-08-10T14:26:40.276877736Z",
+  "model": "glm-5.2"
+}

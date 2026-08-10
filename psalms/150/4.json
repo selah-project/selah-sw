@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 150,
+  "translation": "Msifuni ⟨yeye⟩ kwa tari na kucheza; msifuni ⟨yeye⟩ kwa minima na ugabu.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "kwa tari"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "na kucheza"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "kwa minima"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "na ugabu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:41.308375090Z",
+  "model": "glm-5.2"
+}

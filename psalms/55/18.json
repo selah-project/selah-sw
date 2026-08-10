@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 55,
+  "translation": "Jioni na asubuhi na mchana nitaongea ⟨na⟩ kugugunia, naye ataisikia sauti yangu.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Jioni"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "na asubuhi"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "na mchana"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "nitaongea"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "kugugunia"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "naye ataisikia"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sauti yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:31.972299562Z",
+  "model": "glm-5.2"
+}

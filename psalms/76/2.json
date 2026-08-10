@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 76,
+  "translation": "⟨Yeye⟩ amejulikana katika Yehuda, Elohim; na katika Yisrael jina lake ⟨ni⟩ kubwa.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "amejulikana"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "katika Yehuda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "katika Yisrael"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:45.771637256Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Na akabomoa ⟨את⟩ nyumba za wakazi wa utakaso ambazo zilikuwamo ndani ya nyumba ya Yahweh, ambako wanawake walikuwa wakipiga huko nyumba kwa Asherah.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "na akabomoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba za wakazi wa utakaso"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "nyumba za"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "wakazi wa utakaso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ndani ya nyumba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambako"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "wanawake"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "walikuwa wakipiga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "kwa Asherah"
+    }
+  ],
+  "timestamp": "2026-08-10T11:52:43.097941273Z",
+  "model": "glm-5.2"
+}

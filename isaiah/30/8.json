@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Sasa nja, iandike ⟨i⟩ juu ya mbao mbele yao, na ichore katika kitabu, na iwe kwa siku za mwisho, shahidi mpaka milele.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Sasa"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "nja"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "iandike"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "ya mbao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mbao"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na juu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ya kitabu"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "ichore"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "na iwe"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kwa siku"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "za mwisho"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "shahidi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T12:02:12.022075875Z",
+  "model": "glm-5.2"
+}

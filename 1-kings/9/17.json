@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na Shelomah akajenga ⟨את⟩ Gezer na ⟨את⟩ Beit-Choron ya chini.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "na akajenga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Beit-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "ya chini"
+    }
+  ],
+  "timestamp": "2026-08-10T11:40:53.880634642Z",
+  "model": "glm-5.2"
+}

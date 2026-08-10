@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Ukiwa na ufa ndani yake, kwa ubao, utaufanya ⟨את⟩ ⟨hao⟩; kama alivyoonyesha ⟨את⟩ kwenye mlima, ndivyo wataufanya.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "Ukiwa na ufa ndani yake"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "kwa ubao"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "utaufanya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hao"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "alivyoonyesha"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kwenye mlima"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "wataufanya"
+    }
+  ],
+  "timestamp": "2026-08-10T10:25:13.540044737Z",
+  "model": "glm-5.2"
+}

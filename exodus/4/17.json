@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na ⟨את⟩ fimbo hii utaichukua mkononi mwako, ambayo utafanya kwayo ⟨את⟩ ishara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "fimbo"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "fimbo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "utaichukua"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mkononi mwako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "utafanya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kwayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ishara"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ishara"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:25.798465790Z",
+  "model": "glm-5.2"
+}

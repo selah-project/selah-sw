@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Sikukaa pamoja na watu wa ubatili, na pamoja na waafiri siingi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Si"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "kukaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "watu"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "wa ubatili"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na pamoja na"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "waafiri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ingi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:26.530059436Z",
+  "model": "glm-5.2"
+}

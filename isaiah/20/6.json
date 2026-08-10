@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 20:6",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na mtu wa kazi hii atasema siku hiyo: Tazama, hivi ndivyo ilivyo matumaini yetu ambayo tulikimbia huko kwa msaada, ili kujinyang'oa kutoka mbele ya mfalme wa Ashur — na sisi, tunawezaje kuepoka?",
+  "tokens": [
+    {
+      "surface": "וְ֠אָמַר",
+      "gloss": "na atasema"
+    },
+    {
+      "surface": "יֹשֵׁ֨ב",
+      "gloss": "mkaazi"
+    },
+    {
+      "surface": "הָאִ֣י",
+      "gloss": "wa kisiwa"
+    },
+    {
+      "surface": "הַזֶּה֮",
+      "gloss": "hiki"
+    },
+    {
+      "surface": "בַּיּ֣וֹם",
+      "gloss": "siku"
+    },
+    {
+      "surface": "הַהוּא֒",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "הִנֵּה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "כֹ֣ה",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "מַבָּטֵ֗נוּ",
+      "gloss": "matumaini yetu"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "נַ֤סְנוּ",
+      "gloss": "tulikimbia"
+    },
+    {
+      "surface": "שָׁם֙",
+      "gloss": "huko"
+    },
+    {
+      "surface": "לְעֶזְרָ֔ה",
+      "gloss": "kwa msaada"
+    },
+    {
+      "surface": "לְהִ֨נָּצֵ֔ל",
+      "gloss": "ili kujinyang'oa"
+    },
+    {
+      "surface": "מִפְּנֵ֖י",
+      "gloss": "kutoka mbele ya"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "אַשּׁ֑וּר",
+      "gloss": "wa Ashur"
+    },
+    {
+      "surface": "וְאֵ֖יךְ",
+      "gloss": "na tunawezaje"
+    },
+    {
+      "surface": "נִמָּלֵ֥ט",
+      "gloss": "kuepoka"
+    },
+    {
+      "surface": "אֲנָֽחְנוּ",
+      "gloss": "sisi"
+    }
+  ],
+  "timestamp": "2026-08-10T16:06:41.966230902Z",
+  "model": "glm-5.2"
+}

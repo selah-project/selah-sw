@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na itakuwa siku ya sita, na watayaandaa ⟨את⟩ wile wataleta, na kitakuwa mara mbili juu ya wile wanakusanya siku hadi siku.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na itakuwa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "sita"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "na watayaandaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wile wataleta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wile"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "wataleta"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na kitakuwa"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "mara mbili"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wile"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "wanakusanya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hadi siku"
+    }
+  ],
+  "timestamp": "2026-08-10T10:23:16.640315953Z",
+  "model": "glm-5.2"
+}

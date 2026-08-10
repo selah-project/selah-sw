@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na wewe na watumishi wako, najua kwamba bado hamtaki kumwogopa uso wa Yahweh Elohim.»",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na wewe"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "na watumishi wako"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "najua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "bado"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "hamtaki kumwogopa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "uso wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:02.215112397Z",
+  "model": "glm-5.2"
+}

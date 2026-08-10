@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na nchi itajibu ⟨את⟩ ngano, na ⟨את⟩ divai mpya, na ⟨את⟩ mafuta; nayo yote yatajibu ⟨את⟩ Yizreeli.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "na nchi"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "itajibu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngano"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "ngano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "divai mpya"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "divai mpya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "והם",
+      "gloss": "nayo yote"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "yatajibu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreeli"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreeli"
+    }
+  ],
+  "timestamp": "2026-08-10T12:40:54.617549998Z",
+  "model": "glm-5.2"
+}

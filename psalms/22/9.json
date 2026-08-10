@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "«Mlilongolee Yahweh, nae atamwokoa; atamuokoa, kwa maana anapendezwa naye.»",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "mlilongolee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "atamwokoa"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "atamuokoa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "anapendezwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:10.254271228Z",
+  "model": "glm-5.2"
+}

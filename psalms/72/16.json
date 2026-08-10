@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 72,
+  "translation": "Itakuweko wingi wa ngano katika nchi, juu ya vichwa vya milima; matunda yake yatatingishika kama Lebanoni, na ⟨watu⟩ watachanua kutoka mji kama nyasi za nchi.",
+  "tokens": [
+    {
+      "surface": "יְהִ֤י",
+      "gloss": "Itakuweko"
+    },
+    {
+      "surface": "פִסַּת",
+      "gloss": "wingi"
+    },
+    {
+      "surface": "בַּר",
+      "gloss": "wa ngano"
+    },
+    {
+      "surface": "בָּאָרֶץ֮",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "בְּרֹ֪אשׁ",
+      "gloss": "juu ya vichwa"
+    },
+    {
+      "surface": "הָ֫רִ֥ים",
+      "gloss": "vya milima"
+    },
+    {
+      "surface": "יִרְעַ֣שׁ",
+      "gloss": "yatatingishika"
+    },
+    {
+      "surface": "כַּלְּבָנ֣וֹן",
+      "gloss": "kama Lebanoni"
+    },
+    {
+      "surface": "פִּרְי֑וֹ",
+      "gloss": "matunda yake"
+    },
+    {
+      "surface": "וְיָצִ֥יצוּ",
+      "gloss": "na watachanua"
+    },
+    {
+      "surface": "מֵ֝עִ֗יר",
+      "gloss": "kutoka mji"
+    },
+    {
+      "surface": "כְּעֵ֣שֶׂב",
+      "gloss": "kama nyasi"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "za nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:15.295231534Z",
+  "model": "glm-5.2"
+}

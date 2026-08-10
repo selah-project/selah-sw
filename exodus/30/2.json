@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Dira ⟨itakuwa⟩ urefu wake, na dira upana wake; ⟨italakiwa⟩ kuwa mraba; na dira mbili ⟨ni⟩ kimo chake; pembe zake ⟨zitakuwa⟩ kutoka humo.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "dira"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "urefu wake"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na dira"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "upana wake"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "mraba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ita⟩kuwa"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "na dira mbili"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "kimo chake"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kutoka humo"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "pembe zake"
+    }
+  ],
+  "timestamp": "2026-08-10T17:42:17.457612246Z",
+  "model": "glm-5.2"
+}

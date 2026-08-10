@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Akaondoa katika miji yote ya Yehuda ⟨את⟩ mahali pa juu na ⟨את⟩ sanamu za jua, na ufalme ukatulia mbele yake.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "akaondoa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miji ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahali pa juu"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "mahali pa juu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "sanamu za jua"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "sanamu za jua"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "ukatulia"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ufalme"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbele yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:15:20.946559420Z",
+  "model": "glm-5.2"
+}

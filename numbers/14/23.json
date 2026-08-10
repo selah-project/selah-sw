@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "hawataona ⟨את⟩ nchi ile ambayo niliapa kwa baba zao; wala wote wenye kudharau mimi hawataiona.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "«hawataona»"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "wataona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi ile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "niliapa"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "kwa baba zao"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "wenye kudharau mimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawa-"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "-taiona"
+    }
+  ],
+  "timestamp": "2026-08-10T10:44:28.478703983Z",
+  "model": "glm-5.2"
+}

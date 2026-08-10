@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "Naye Yosef akawaambia ndugu zake: \"Nikaribieni, tafadhali, kwangu.\" Wakakaribia. Naye akasema: \"Mimi ni Yosef, ndugu yenu, ambaye mliuza ⟨את⟩ mpaka Mitsrayim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akawaambia"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Nikaribieni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "Wakakaribia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ndugu yenu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "mliuza"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mimi"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "mpaka Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:16:15.574352601Z",
+  "model": "glm-5.2"
+}

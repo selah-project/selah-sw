@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 11:14",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Kwa kuwa Walawi waliacha ⟨את⟩ malisho yao na ⟨את⟩ urithi wao, wakaenda Yehuda na Yerushalayim, kwa kuwa Yarobeamu na wanawe aliwafukuza wasitumie kama makuhani kwa Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "waliacha"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Walawi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malisho yao"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "malisho yao"
+    },
+    {
+      "surface": "ואחזתם",
+      "gloss": "na urithi wao"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wakaenda"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "הזניחם",
+      "gloss": "aliwafukuza"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeamu"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na wanawe"
+    },
+    {
+      "surface": "מכהן",
+      "gloss": "wasitumie kama makuhani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T15:45:45.280229797Z",
+  "model": "glm-5.2"
+}

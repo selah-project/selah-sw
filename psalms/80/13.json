@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 80,
+  "translation": "Kwa nini umeyavunja mawe yake ⟨ya⟩ uzio, na kuiangamiza kila mpita njia?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "umeyavunja"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "mawe yake ⟨ya⟩ uzio"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "na kuiangamiza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "mpita"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:12.174806203Z",
+  "model": "glm-5.2"
+}

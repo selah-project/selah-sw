@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na wana wa Aharon kuhani wataweka moto juu ya altare, na watapanga kuni juu ya moto.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "Na wataweka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "wa Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "na watapanga"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-08-10T15:53:18.529104893Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Twa-shirikiani ⟨את⟩ sisi: binti zenu mpateni sisi, na ⟨את⟩ binti zetu mchukue kwenu.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "twa-shirikiani"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "sisi"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "binti zenu"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "mpateni"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "binti zetu"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "binti zetu"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "mchukue"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:11:51.069223274Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 136,
+  "translation": "Na akauza ⟨nchi⟩ yao kwa urithi, maana hata milele ni chesed wake.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Na akauza"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nchi yao"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "kwa urithi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hata milele"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:46.563819478Z",
+  "model": "glm-5.2"
+}

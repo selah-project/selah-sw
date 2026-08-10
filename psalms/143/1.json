@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 143,
+  "translation": "Wimbo wa David: Yahweh, sikiliza maombi yangu, tega masikio ⟨kwa⟩ maombeo yangu; kwa uaminifu wako nijibu, kwa haki yako.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sikiliza"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "maombi yangu"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tega masikio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "maombeso yangu"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "kwa uaminifu wako"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "nijibu"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "kwa haki yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:25.159477201Z",
+  "model": "glm-5.2"
+}

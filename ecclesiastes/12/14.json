@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Kwa kuwa Elohim ataleta ⟨את⟩ kila tendo hata kwenye hukumu, juu ya kila kilichofichwa, iwe jema au iwe baya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kila tendo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tendo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ataleta"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "hata kwenye hukumu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "kilichofichwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jema"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "au iwe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "baya"
+    }
+  ],
+  "timestamp": "2026-08-10T15:37:33.943858539Z",
+  "model": "glm-5.2"
+}

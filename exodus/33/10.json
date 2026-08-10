@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Na watu wote watauona ⟨את⟩ nguzo ya wingu ikisimama mlangoni pa hema,na watu wote watainuka,wataabudu,kila mmoja mlangoni pa hema lake.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Na watauona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguzo ya wingu"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "nguzo"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ya wingu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ikisimama"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mlangoni"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "pa hema"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "na watainuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "wataabudu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mmoja"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mlangoni"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "pa hema lake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:58.935856674Z",
+  "model": "glm-5.2"
+}

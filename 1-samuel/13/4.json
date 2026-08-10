@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na Yisra'el wote wakasikia wakisema, Shaul amepiga ⟨את⟩ kituo cha Waplishti, na pia Yisra'el amekuwa machafu mbele ya Waplishti; na watu wakaitwa nyuma ya Shaul huko HaGilgali.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "wakasikia"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wakisema"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "amepiga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kituo"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "kituo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "cha Waplishti"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "amekuwa machafu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "mbele ya Waplishti"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "na wakaitwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watU"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "huko HaGilgali"
+    }
+  ],
+  "timestamp": "2026-08-10T11:22:54.658755683Z",
+  "model": "glm-5.2"
+}

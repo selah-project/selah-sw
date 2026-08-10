@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ mafuta na ⟨את⟩ figo na ⟨את⟩ mbawa ya ini, toka katika toleo la dhambi, alivuta moshi kwenye madhabahu, kama alivyoamrisha Yahweh ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "figo"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "figo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mbawa ya ini"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "mbawa ya ini"
+    },
+    {
+      "surface": "מן",
+      "gloss": "toka katika"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מן",
+      "gloss": "toka katika"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "toleo la dhambi"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "alivuta moshi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "kwenye madhabahu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alivyoamrisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-10T15:53:48.230908414Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na utazishika ⟨את⟩ amri hii wakati wake ulioteuliwa, kutoka siku hadi siku.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "na utazishika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amri hii"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "amri"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hii"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "wakati wake ulioteuliwa"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "kutoka siku"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "hadi siku"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:49.830593616Z",
+  "model": "glm-5.2"
+}

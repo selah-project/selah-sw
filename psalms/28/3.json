@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Usinivute pamoja na wabaya, na pamoja na watendao ubatili, wanaozungumza amani na jirani zao, na uovu moyoni mwao.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "nivute"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wabaya"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na pamoja na"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "watendao"
+    },
+    {
+      "surface": "און",
+      "gloss": "ubatili"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "wanaozungumza"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "amani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "jirani zao"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "na uovu"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "moyoni mwao"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:06.424309205Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 26:4",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na kwa Oved-Edomu ⟨kulikuwa na⟩ wana: Shemaya mwanzilizi, Yehozabad wa pili, Yoah wa tatu, na Sakari wa nne, na Netaneli wa tano.",
+  "tokens": [
+    {
+      "surface": "ולעבד",
+      "gloss": "na kwa Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wana"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Shemaya"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "mwanzilizi"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Yehozabad"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa pili"
+    },
+    {
+      "surface": "יואח",
+      "gloss": "Yoah"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "wa tatu"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "na Sakari"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "wa nne"
+    },
+    {
+      "surface": "ונתנאל",
+      "gloss": "na Netaneli"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "wa tano"
+    }
+  ],
+  "timestamp": "2026-08-10T15:43:53.026076052Z",
+  "model": "glm-5.2"
+}

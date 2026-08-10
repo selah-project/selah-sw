@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Shughulikia mtego wako — shughulikia ⟨na⟩ ⟨את⟩ rafiki yako, na siri ya mwingine usifunue.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "mtego wako"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "shughulikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rafiki yako"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "rafiki yako"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "na siri"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ya mwingine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "funue"
+    }
+  ],
+  "timestamp": "2026-08-10T13:28:06.808021610Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 56,
+  "translation": "Kwa uovu ⟨wakitoroka⟩? Katika hasira Elohim washushe ⟨hao⟩ watu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Kwa"
+    },
+    {
+      "surface": "און",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "⟨wakitoroka⟩"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨wao⟩"
+    },
+    {
+      "surface": "באף",
+      "gloss": "Katika hasira"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "watU"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "washushe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:57.809565511Z",
+  "model": "glm-5.2"
+}

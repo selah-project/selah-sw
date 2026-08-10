@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Akakaripia Bahari ya Tini, ikakauka, akawaongoza katika vilindi kama jangwani.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "Akakaripia"
+    },
+    {
+      "surface": "בים",
+      "gloss": "Bahari"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ya Tini"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "ikakauka"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "akawaongoza"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "katika vilindi"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "kama jangwani"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:55.346900603Z",
+  "model": "glm-5.2"
+}

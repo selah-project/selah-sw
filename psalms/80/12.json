@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 80,
+  "translation": "Umeipeleka miche yake mpaka bahari, na mtoni mwa mto ⟨miche⟩ yake.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "umeipeleka"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "miche yake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na mtoni mwa"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "mto"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "miche yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:54.713525063Z",
+  "model": "glm-5.2"
+}

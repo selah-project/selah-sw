@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Nini umelijua, ambalo sisi hatukujua? Nini umelitambua, ambalo ⟨sina⟩ sawa nasi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "umelijua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ambalo sisi hatu-"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "kujua"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "umelitambua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ambalo ⟨sina⟩"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "sawa nasi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sina"
+    }
+  ],
+  "timestamp": "2026-08-10T13:34:11.078525676Z",
+  "model": "glm-5.2"
+}

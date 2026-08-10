@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Shika ngao na driki, na uinuke katika kunisaidia.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Shika"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ngao"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "na driki"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "na uinuke"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "katika kunisaidia"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:51.894886501Z",
+  "model": "glm-5.2"
+}

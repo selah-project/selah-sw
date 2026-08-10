@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Na Shaul akaona ⟨את⟩ kambi ya Wapelishti, akaogopa, na moyo wake kutetemeka sana.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Na akaona"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambi ya Wapelishti"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kambi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya Wapelishti"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaogopa"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "na kutetemeka"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-10T11:28:48.590771379Z",
+  "model": "glm-5.2"
+}

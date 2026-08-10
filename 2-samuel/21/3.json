@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Akasema David kwa wagiboni, \"Nifanye nini kwenu, na kwa nini nitoe fidia, ili mbariki ⟨את⟩ urithi wa Yahweh?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "wagiboni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nifanye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "na kwa nini"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "nitoe fidia"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "ili mbariki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urithi"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "urithi wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T11:35:03.359836034Z",
+  "model": "glm-5.2"
+}

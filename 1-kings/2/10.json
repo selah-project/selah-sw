@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na David alilala na baba zake, akazikwa katika mji wa David.",
+  "tokens": [
+    {
+      "surface": "ושיכב",
+      "gloss": "na alilala"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baba zake"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "akazikwa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "katika mji"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa David"
+    }
+  ],
+  "timestamp": "2026-08-10T16:03:02.218130932Z",
+  "model": "glm-5.2"
+}

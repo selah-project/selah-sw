@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na mfalme akageuza uso wake, akabariki ⟨את⟩ kusanyiko lote la Yisrael; na kusanyiko lote la Yisrael lilisimama.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "na akageuza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uso wake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uso wake"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "na akabariki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kusanyiko lote la Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kusanyiko lote"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na kusanyiko lote"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "lilisimama"
+    }
+  ],
+  "timestamp": "2026-08-10T11:40:47.364276655Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 7:48",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na Shelomo akafanya ⟨את⟩ vyombo vyote ambavyo ⟨vilikuwa⟩ ⟨kwenye⟩ nyumba ya Yahweh: ⟨את⟩ madhabahu ya dhahabu, na ⟨את⟩ meza ambayo juu yake ⟨pana⟩ mkate wa uso, ⟨ya⟩ dhahabu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na Shelomo akafanya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyombo vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "vyombo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambavyo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨kwenye⟩ nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madhabahu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ya dhahabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "meza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "wa uso"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "⟨ya⟩ dhahabu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:39:10.040792684Z",
+  "model": "glm-5.2"
+}

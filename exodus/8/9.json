@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Yahweh akafanya kama alivyonenwa na Moshe, naye wanyusi wakafa, kutoka nyumbani, kutoka viwandani, na kutoka mashambani.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akafanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kama alivyonenwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "wakafa"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "wanyusi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "nyumbani"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "viwandani"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na kutoka"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "mashambani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:59.000708560Z",
+  "model": "glm-5.2"
+}

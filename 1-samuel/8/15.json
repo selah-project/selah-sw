@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na mbegu zenu na mizabibu yenu atatoa zaka, na akawapa wahudumu wake na watumishi wake.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "na mbegu zenu"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "na mizabibu yenu"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "atatoa zaka"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na akawapa"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "wahudumu wake"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "na watumishi wake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:50:40.527514724Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Fanya jikwaa ya mbao za goferi; vyumba utfanye ⟨את⟩ jikwaa, na uipake ⟨את⟩ ⟨hiyo⟩ ndani na nje kwa lami.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Fanya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa ajili yako"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "jikwaa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ya mbao za"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "goferi"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "vyumba"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "utfanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jikwaa"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "jikwaa"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "na uipake"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hiyo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "na nje"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "kwa lami"
+    }
+  ],
+  "timestamp": "2026-08-10T10:02:47.146676079Z",
+  "model": "glm-5.2"
+}

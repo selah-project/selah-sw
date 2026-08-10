@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Nihukumu kulingana na haki yako, Yahweh Elohim wangu, na wasituchukuo furaha juu yangu.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Nihukumu"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "kulingana na haki yako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wangu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na wasituchukuo"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "furaha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "juu yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:21.271371585Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 67,
+  "translation": "Kwa mwongoza wa Kinanda. Zaburi, Wimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwongoza"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "wa Kinanda"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Zaburi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Wimbo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:23.101416540Z",
+  "model": "glm-5.2"
+}

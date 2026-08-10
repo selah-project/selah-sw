@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 141,
+  "translation": "Kwa kuwa macho yangu ⟨yako⟩ kuelekea wewe, Yahweh, Adonai; kwako mimi nilikimbilia usalama; usimfanye uchi nafsi yangu.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אֵלֶ֨יךָ",
+      "gloss": "kuelekea wewe"
+    },
+    {
+      "surface": "יְהֹוִ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֲדֹנָ֣י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עֵינָ֑י",
+      "gloss": "macho yangu"
+    },
+    {
+      "surface": "בְּכָ֥ה",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "חָ֝סִ֗יתִי",
+      "gloss": "nilikimbilia usalama"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תְּעַ֥ר",
+      "gloss": "mfanye uchi"
+    },
+    {
+      "surface": "נַפְשִֽׁי",
+      "gloss": "nafsi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T17:55:19.140576131Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Mtakula ⟨הַיָּשָׁן⟩ ya zamani, yaliyokwisha kuzaa ⟨נוֹשָׁן⟩; na za zamani mtoa ⟨mbeleni⟩ za sababu ya mpya.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "mtakula"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "⟨za⟩ zamani"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "yaliyokwisha kuzeeka"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "na za zamani"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sababu ya"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mpya"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "mtoa mbeleni"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:56.532636537Z",
+  "model": "glm-5.2"
+}

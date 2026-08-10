@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Akawahesabu ⟨את⟩ vijana wa wakuu wa mikoa, wakawa mia mbili na thelathini na mbili; na baada yao akawahesabu ⟨את⟩ watu wote, wote wana wa Yisra'eli, saba elfu.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Akawahesabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vijana wa wakuu wa mikoa"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "vijana"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "wa wakuu"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "wa mikoa"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "wakawa"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mia mbili"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "na mbili"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na thelathini"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "na baada yao"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "akawahesabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'eli"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "saba"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "elfu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:44:47.328732452Z",
+  "model": "glm-5.2"
+}

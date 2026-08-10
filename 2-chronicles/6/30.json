@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 6:30",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na wewe utasikia kutoka mbinguni, mahali pa makao yako, na utasamehe, na utampa kila mtu kufuatana na njia zake zote ambazo ⟨wewe⟩ unajua ⟨את⟩ moyo wake; kwa kuwa wewe pekee yako umeyajua ⟨את⟩ moyo wa wana waadamu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wewe"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "utasikia"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbinguni"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "pa makao yako"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "na utasamehe"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "na utampa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kufuatana na zote"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "njia zake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "unajua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wake"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "pekee yako"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "umeyajua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wana waadamu"
+    }
+  ],
+  "timestamp": "2026-08-10T17:57:45.787464478Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Semeni kwa ndugu zenu: Watu wangu, na kwa dada zenu: Akipendwa.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Semeni"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "kwa ndugu zenu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Watu wangu"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "na kwa dada zenu"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Akipendwa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:41:48.163785360Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Katika maagano yako nitafikiri, na nitazama njia zako.",
+  "tokens": [
+    {
+      "surface": "בְּפִקֻּדֶיךָ",
+      "gloss": "katika maagano yako"
+    },
+    {
+      "surface": "אָשִׂיחָה",
+      "gloss": "nitafikiri"
+    },
+    {
+      "surface": "וְאַבִּיטָה",
+      "gloss": "na nitazama"
+    },
+    {
+      "surface": "אֹרְחֹתֶיךָ",
+      "gloss": "njia zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:30.606342730Z",
+  "model": "glm-5.2"
+}

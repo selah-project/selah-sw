@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 112,
+  "translation": "Ni jema ⟨⟩ mtu anayehurumia na kukopesha; ⟨⟩ ataunga mambo yake kwa hukumu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ni jema"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "anayehurumia"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "na kukopesha"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "ataunga"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "mambo yake"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kwa hukumu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:26.508653311Z",
+  "model": "glm-5.2"
+}

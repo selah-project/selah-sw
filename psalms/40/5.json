@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Heri ⟨ni ya⟩ yule mtu ambaye ameweka Yahweh kuwa tegemeo lake, wala hajigeuza ⟨kutazama⟩ kwa wenye kiburi na wenye kuigeuza ⟨kwenda⟩ uwongo.",
+  "tokens": [
+    {
+      "surface": "אַשְֽׁרֵי",
+      "gloss": "heri"
+    },
+    {
+      "surface": "הַגֶּ֗בֶר",
+      "gloss": "yule mtu"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "שָׂ֣ם",
+      "gloss": "ameweka"
+    },
+    {
+      "surface": "יְ֭הֹוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מִבְטַח֑וֹ",
+      "gloss": "tegemeo lake"
+    },
+    {
+      "surface": "וְֽלֹא",
+      "gloss": "wala hatokuwa"
+    },
+    {
+      "surface": "פָנָ֥ה",
+      "gloss": "amegeuza"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "רְ֝הָבִ֗ים",
+      "gloss": "wenye kiburi"
+    },
+    {
+      "surface": "וְשָׂטֵ֥י",
+      "gloss": "na wenye kuigeuza"
+    },
+    {
+      "surface": "כָזָֽב",
+      "gloss": "uwongo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:35.388634496Z",
+  "model": "glm-5.2"
+}

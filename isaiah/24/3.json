@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Kutengwa kabisa ⟨itakuwa⟩ imetengwa nchi, na kuharibiwa kabisa ⟨itakuwa⟩ imeharibiwa, kwa kuwa Yahweh ameongeza ⟨את⟩ neno hili.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Kutengwa kabisa"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "⟨itakuwa⟩ imetengwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "na kuharibiwa kabisa"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "⟨itakuwa⟩ imeharibiwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ameongeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neno"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    }
+  ],
+  "timestamp": "2026-08-10T15:06:26.587403587Z",
+  "model": "glm-5.2"
+}

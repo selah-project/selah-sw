@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 10:11",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Yehu akapiga ⟨את⟩ wote waliobaki kwa nyumba ya Achab huye Yizreeli, na wakuu wake wote, na wapamaji wake wote, na makuhani wake, hata hakumwachia mwenye kubaki.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "akapiga"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wote waliobaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "waliobaki"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kwa nyumba"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "huye Yizreeli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "גדליו",
+      "gloss": "wakuu wake"
+    },
+    {
+      "surface": "ומידעיו",
+      "gloss": "na wapamaji wake"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "na makuhani wake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "akamwachia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "mwenye kubaki"
+    }
+  ],
+  "timestamp": "2026-08-10T11:48:09.520351853Z",
+  "model": "glm-5.2"
+}

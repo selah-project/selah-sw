@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Ester hakufunua ⟨את⟩ watu wake wala ⟨את⟩ asili yake, kwa sababu Mordekai alimríaríḥa juu yake asiyafunue.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "haku"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "funua"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu wake"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "watu wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wala ⟨את⟩",
+      "marks": "asili yake"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "asili yake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alimríaríḥa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "asi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "yafunue"
+    }
+  ],
+  "timestamp": "2026-08-10T15:38:28.526162372Z",
+  "model": "glm-5.2"
+}

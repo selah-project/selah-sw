@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Kama niliwa na njaa, sitakiambiwe; kwa maana yangu ni dunia na vilivyomo ndani yake.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "Kama"
+    },
+    {
+      "surface": "אֶ֭רְעַב",
+      "gloss": "nikiwa na njaa"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אֹ֣מַר",
+      "gloss": "takiambiwe"
+    },
+    {
+      "surface": "לָ֑ךְ",
+      "gloss": "⟨kwako⟩"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לִ֥י",
+      "gloss": "yangu ni"
+    },
+    {
+      "surface": "תֵ֝בֵ֗ל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "וּמְלֹאָֽהּ",
+      "gloss": "na vilivyomo ndani yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:47.629251262Z",
+  "model": "glm-5.2"
+}

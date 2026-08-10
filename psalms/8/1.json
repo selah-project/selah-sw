@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Kwa mwongozaji, kwa ⟨ngoma⟩ ya Gathu; wimbo wa David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa mwongozaji"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "⟨ngoma⟩ ya Gathu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:19.703989820Z",
+  "model": "glm-5.2"
+}

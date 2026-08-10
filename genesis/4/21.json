@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na jina la kaka yake ⟨alikuwa⟩ Yubal; yeye ⟨alikuwa⟩ baba wa wote washikao kinori na ugangi.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "na jina"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "la kaka yake"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yubal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "היה",
+      "gloss": "alikuwa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wa wote"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "washikao"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinori"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "na ugangi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:02:13.640230915Z",
+  "model": "glm-5.2"
+}

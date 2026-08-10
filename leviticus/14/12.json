@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na kuhani atachukua ⟨את⟩ kondoo mmoja na atautoa ⟨אתו⟩ kwa dhabihu ya hatia, na ⟨את⟩ logi ya mafuta, na atavitikisa ⟨אתם⟩ tikiso mbele za Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "na atachukua"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kondoo mmoja"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "kondoo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "na atautoa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "kwa dhabihu ya hatia"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "kwa dhabihu ya hatia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "logi ya mafuta"
+    },
+    {
+      "surface": "לג",
+      "gloss": "logi"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ya mafuta"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "na atavitikisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "tikiso"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tikiso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:12.372401219Z",
+  "model": "glm-5.2"
+}

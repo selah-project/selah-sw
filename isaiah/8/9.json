@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 8:9",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Fanyeni fujo, enye mataifa, ⟨na⟩ vunjikeni; na sikilizeni, nyote mbali na nchi; jifungeni ⟨mksingo⟩ ⟨na⟩ vunjikeni; jifungeni ⟨mksingo⟩ ⟨na⟩ vunjikeni.",
+  "tokens": [
+    {
+      "surface": "רעו",
+      "gloss": "fanyeni fujo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "enye mataifa"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "na vunjikeni"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "na sikilizeni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyote"
+    },
+    {
+      "surface": "מרחקי",
+      "gloss": "mbali na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "התאזרו",
+      "gloss": "jifungeni mksingo"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "na vunjikeni"
+    },
+    {
+      "surface": "התאזרו",
+      "gloss": "jifungeni mksingo"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "na vunjikeni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:55:23.750358195Z",
+  "model": "glm-5.2"
+}

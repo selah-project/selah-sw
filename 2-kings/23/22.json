@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Kwa maana hakufanywa kama Pasaka hii tangu siku za waamuzi waliokuwa wakiadhiri ⟨את⟩ Yisraeli, na siku zote za wafalme wa Yisraeli na wa Yehudha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ilifanywa"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "kama Pasaka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "tangu siku za"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "waamuzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waliokuwa"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "wakiadhiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na siku zote"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "za"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "na wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    }
+  ],
+  "timestamp": "2026-08-10T11:52:40.759333459Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Nimelegezwa na nimebangukiwa vibaya sana; nalila kwa kuuma kwa moyo wangu.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "nimelegezwa"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "na nimebangukiwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vibaya"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "nalila"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "kwa kuuma"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:59.414624413Z",
+  "model": "glm-5.2"
+}

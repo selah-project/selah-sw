@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Na mleta ⟨את⟩ ndugu yenu mdogo kwangu; ili maneno yenu yaaminike, nanyi msife.\" Wakafanya vivyo hivyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na mleta ⟨את⟩",
+      "marks": "ndugu yenu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ndugu yenu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mdogo"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "mleta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "ili yaaminike"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "maneno yenu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanyi msife"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "na msife"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "Wakafanya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivyo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:14:16.352026886Z",
+  "model": "glm-5.2"
+}

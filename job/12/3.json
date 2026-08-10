@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Lakini mimi pia nina moyo kama nyinyi; siko duni kuliko nyinyi; na ⟨כמו אלה⟩ nani hayapo kama haya?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "kama nyinyi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "duni"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kuliko nyinyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hayapo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "haya"
+    }
+  ],
+  "timestamp": "2026-08-10T15:33:46.388580384Z",
+  "model": "glm-5.2"
+}

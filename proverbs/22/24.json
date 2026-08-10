@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Usifanye urafiki na bwana wa hasira, na ⟨את⟩ mtu wa vuli usiingie ⟨pamoja naye⟩.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תִּ֭תְרַע",
+      "gloss": "fanye urafiki"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩ na"
+    },
+    {
+      "surface": "בַּ֣עַל",
+      "gloss": "bwana"
+    },
+    {
+      "surface": "אָ֑ף",
+      "gloss": "wa hasira"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mtu wa vuli"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "חֵ֝מוֹת",
+      "gloss": "wa vuli"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תָבֽוֹא",
+      "gloss": "ingie"
+    }
+  ],
+  "timestamp": "2026-08-10T16:21:08.136368515Z",
+  "model": "glm-5.2"
+}

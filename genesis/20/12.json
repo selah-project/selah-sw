@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na tena kweli daima ⟨hiyo⟩ ni dada yangu, ni binti baba yangu ⟨hivyo⟩ lakini si binti mama yangu; naye akawa mke wangu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Na tena"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "kweli daima"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ni dada yangu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ni binti"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba yangu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hiyo⟩"
+    },
+    {
+      "surface": "אך",
+      "gloss": "lakini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mama yangu"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "naye akawa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wangu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "mke"
+    }
+  ],
+  "timestamp": "2026-08-10T15:49:41.629524362Z",
+  "model": "glm-5.2"
+}

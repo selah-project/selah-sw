@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "Na sasa, si nyinyi mlininituma ⟨⟨nikawa⟩⟩ huko, bali ⟨ni⟩ Elohim; naye akaniweka kuwa baba kwa Paroh, na bwana kwa nyumba yake yote, na mtawala katika nchi yote ya Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nyinyi"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "mlininituma"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "huko"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "huko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bali"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "naye akaniweka"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "kuwa baba"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kwa Paroh"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "na bwana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake yote"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "na mtawala"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi yote"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:15:54.834321588Z",
+  "model": "glm-5.2"
+}

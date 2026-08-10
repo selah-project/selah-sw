@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kuwa imara na ujasiri; maana ⟨wewe⟩ utawarithisha ⟨את⟩ watu hawa ⟨את⟩ nchi ambayo niliwaapia baba zao kuiwapatia.",
+  "tokens": [
+    {
+      "surface": "חֲזַ֖ק",
+      "gloss": "Kuwa imara"
+    },
+    {
+      "surface": "וֶאֱמָ֑ץ",
+      "gloss": "na ujasiri"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "maana"
+    },
+    {
+      "surface": "אַתָּ֗ה",
+      "gloss": "⟨wewe⟩"
+    },
+    {
+      "surface": "תַּנְחִיל֙",
+      "gloss": "utawarithisha"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "watu hawa"
+    },
+    {
+      "surface": "הָעָ֣ם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "הַזֶּ֔ה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הָאָ֕רֶץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "נִשְׁבַּ֥עְתִּי",
+      "gloss": "niliwaapia"
+    },
+    {
+      "surface": "לַאֲבוֹתָ֖ם",
+      "gloss": "baba zao"
+    },
+    {
+      "surface": "לָתֵ֥ת",
+      "gloss": "kuiwapatia"
+    },
+    {
+      "surface": "לָהֶֽם",
+      "gloss": "kwao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:45:19.686715917Z",
+  "model": "glm-5.2"
+}

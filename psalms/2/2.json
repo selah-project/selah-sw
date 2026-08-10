@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Wamejipanga wafalme wa nchi, na watawala wameungana pamoja, dhidi ya Yahweh na dhidi ya Mashíaj wake.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "Wamejipanga"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "na watawala"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "wameungana"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhidi ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na dhidi ya"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashíaj wake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:00.402734833Z",
+  "model": "glm-5.2"
+}

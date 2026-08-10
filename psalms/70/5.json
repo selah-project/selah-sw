@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 70,
+  "translation": "Wafurahi na wafurahie ndani yako, wote wanaokutafuta, na wanaseme daima, \"Elohim na kuuzwa ukubwa,\" wapenzi wa wokovu wako.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "Wafurahi"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "na wafurahie"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ndani yako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "wanaokutafuta"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "na wanaseme"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "na kuuzwa ukubwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "wapenzi wa"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "wokovu wako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:26.936636294Z",
+  "model": "glm-5.2"
+}

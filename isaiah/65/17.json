@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 65:17",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 65,
+  "translation": "Kwa maana tazama, mimi ninaumba mbingu mpya na nchi mpya, na za zamani hazitakumbukwa tena, wala hazitopanda moyoni.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "הִנְנִ֥י",
+      "gloss": "tazama, mimi"
+    },
+    {
+      "surface": "בוֹרֵ֛א",
+      "gloss": "ninaumba"
+    },
+    {
+      "surface": "שָׁמַ֥יִם",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "חֲדָשִׁ֖ים",
+      "gloss": "mpya"
+    },
+    {
+      "surface": "וָאָ֣רֶץ",
+      "gloss": "na nchi"
+    },
+    {
+      "surface": "חֲדָשָׁ֑ה",
+      "gloss": "mpya"
+    },
+    {
+      "surface": "וְלֹ֤א",
+      "gloss": "wala hazita"
+    },
+    {
+      "surface": "תִזָּכַ֨רְנָה֙",
+      "gloss": "kumbukwa tena"
+    },
+    {
+      "surface": "הָרִ֣אשֹׁנ֔וֹת",
+      "gloss": "za zamani"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "wala hazita"
+    },
+    {
+      "surface": "תַעֲלֶ֖ינָה",
+      "gloss": "panda"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "ndani ya"
+    },
+    {
+      "surface": "לֵֽב",
+      "gloss": "moyo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:10:06.903950592Z",
+  "model": "glm-5.2"
+}

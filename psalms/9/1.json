@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Kwa mwongozaji, ⟨kufuatia⟩ Al-mut la-ben. Zaburi ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa mwongozaji"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Al-mut"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "la-ben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zaburi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:18.410370845Z",
+  "model": "glm-5.2"
+}

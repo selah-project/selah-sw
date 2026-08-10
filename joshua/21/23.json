@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na kutoka kabila la Dani: ⟨את⟩ Eltekei na ⟨את⟩ mashamba yake, ⟨את⟩ Gibethoni na ⟨את⟩ mashamba yake.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Na kutoka kabila"
+    },
+    {
+      "surface": "דן",
+      "gloss": "la Dani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eltekei"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Eltekei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mashamba yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mashamba yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibethoni"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Gibethoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mashamba yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mashamba yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:10:27.691542235Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Nawe utaisikia sauti ya Yahweh Elohim wako, na kufanya ⟨את⟩ amri zake na ⟨את⟩ sheria zake ambazo mimi nakuamrisha siku huu.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Nawe utaisikia"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "na kufanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amri zake"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "amri zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "sheria zake"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "sheria zake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nakuamrisha"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siku huu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:00:57.977731502Z",
+  "model": "glm-5.2"
+}

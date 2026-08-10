@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Maana ukoo wangu unautamka ukweli, na uovu ni chukizo kwa mdomo wangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ukweli"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "unautamka"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "ukoo wangu"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "na chukizo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "kwa mdomo wangu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "uovu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:23:20.819854123Z",
+  "model": "glm-5.2"
+}

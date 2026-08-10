@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 136,
+  "translation": "⟨את⟩ mwezi na nyota kwa kuwaleta ufalme wa usiku, maana hadi milele ni chesed yake.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwezi"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "mwezi"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "na nyota"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "kwa kuwaleta ufalme"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "wa usiku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hadi milele"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ni chesed yake"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:15.715559508Z",
+  "model": "glm-5.2"
+}

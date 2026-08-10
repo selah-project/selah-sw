@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "na ⟨את⟩ turbani ya shashi, na ⟨את⟩ mapambo ya mitara, ⟨ya⟩ shashi; na ⟨את⟩ suruali za kitani, ⟨za⟩ shashi iliyosokotwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "turbani"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turbani"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mapambo"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "mapambo"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "mitara"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "suruali"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "suruali"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "kitani"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shashi"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "iliyosokotwa"
+    }
+  ],
+  "timestamp": "2026-08-10T17:43:08.757592648Z",
+  "model": "glm-5.2"
+}

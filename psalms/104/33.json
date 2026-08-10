@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "Niimbe Yahweh katika maisha yangu, nimzaburi Elohay ⟨katika⟩ kuwa bado nipo.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "niimbe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "katika maisha yangu"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nimzaburi"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kwa Elohay"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "katika kuwa bado nipo"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:11.647411488Z",
+  "model": "glm-5.2"
+}

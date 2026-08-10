@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 21:13",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Nami nitanyosha juu ya Yerushalayim ⟨את kamba ya⟩ Shomeron, na ⟨את tufe la⟩ nyumba ya Achav; na nitafuta ⟨את⟩ Yerushalayim kama mtu anavyofuta ⟨את⟩ sahani — akifuta na kuigeuza uso wake chini.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "nami nitanyosha"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamba ya Shomeron"
+    },
+    {
+      "surface": "קו",
+      "gloss": "kamba ya"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tufe la nyumba ya Achav"
+    },
+    {
+      "surface": "משקלת",
+      "gloss": "tufe la"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "ומחיתי",
+      "gloss": "na nitafuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "anavyofuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sahani"
+    },
+    {
+      "surface": "הצלחת",
+      "gloss": "sahani"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "akifuta"
+    },
+    {
+      "surface": "והפך",
+      "gloss": "na kuigeuza"
+    },
+    {
+      "surface": "על",
+      "gloss": "uso"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "wake chini"
+    }
+  ],
+  "timestamp": "2026-08-10T17:47:57.342446529Z",
+  "model": "glm-5.2"
+}

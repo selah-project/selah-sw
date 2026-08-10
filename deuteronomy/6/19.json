@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "kuwafukuza ⟨את⟩ wote maadui zako mbele yako, kama vile alivyosema Yahweh.",
+  "tokens": [
+    {
+      "surface": "לַהֲדֹ֥ף",
+      "gloss": "kuwafukuza"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wote maadui zako"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "אֹיְבֶ֖יךָ",
+      "gloss": "maadui zako"
+    },
+    {
+      "surface": "מִפָּנֶ֑יךָ",
+      "gloss": "mbele yako"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֖ר",
+      "gloss": "kama vile"
+    },
+    {
+      "surface": "דִּבֶּ֥ר",
+      "gloss": "alivyosema"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T17:44:01.220461281Z",
+  "model": "glm-5.2"
+}

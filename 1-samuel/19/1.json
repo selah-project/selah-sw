@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na Shaul akamwambia Yonathanani, mwanae, na watumishi wake wote, kumuua ⟨את⟩ David; na Yonathanani, mwana wa Shaul, alipenda sana David.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Na akamwambia"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonathanani"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanae"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumishi wake"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "kumuua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Na Yonathanani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "wa Shaul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "alipenda"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-10T14:52:49.907527121Z",
+  "model": "glm-5.2"
+}

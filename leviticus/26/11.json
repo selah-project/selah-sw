@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Nami nitaweka maskani yangu kati yenu; nafsī haitawachukia, ⟨hata⟩ ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nami nitaweka"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "maskani yangu"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "kati yenu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "haita"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "wachukia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsī"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninyi",
+      "marks": "ninyi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:56.532774396Z",
+  "model": "glm-5.2"
+}

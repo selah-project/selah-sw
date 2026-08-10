@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Ikawa Ahab alipoona ⟨את⟩ Eliyahu, Ahab akamwambia, \"Wewe ndiwe ule anayeitesa Yisra'el?\"",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֛י",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "כִּרְא֥וֹת",
+      "gloss": "alipoona"
+    },
+    {
+      "surface": "אַחְאָ֖ב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אֵלִיָּ֑הוּ",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "וַיֹּ֤אמֶר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אַחְאָב֙",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אֵלָ֔יו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "הַאַתָּ֥ה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "זֶ֖ה",
+      "gloss": "huyu"
+    },
+    {
+      "surface": "עֹכֵ֥ר",
+      "gloss": "anayeitesa"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-10T15:00:21.163840964Z",
+  "model": "glm-5.2"
+}

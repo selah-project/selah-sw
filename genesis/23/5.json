@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Na wakajibu wana wa Cheth ⟨את⟩ Avraham, wakimwambia:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Na wakajibu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Cheth"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wakimwambia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T14:23:52.682150150Z",
+  "model": "glm-5.2"
+}

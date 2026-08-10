@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 148,
+  "translation": "Wamsifu ⟨את⟩ jina la Yahweh, maana yeye aliagiza, vikawa vimeumbwa.",
+  "tokens": [
+    {
+      "surface": "יְֽ֭הַֽלְלוּ",
+      "gloss": "wamsifu"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "jina"
+    },
+    {
+      "surface": "שֵׁ֣ם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "maana"
+    },
+    {
+      "surface": "ה֭וּא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "צִוָּ֣ה",
+      "gloss": "aliagiza"
+    },
+    {
+      "surface": "וְנִבְרָֽאוּ",
+      "gloss": "vikawa vimeumbwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:21.417943806Z",
+  "model": "glm-5.2"
+}

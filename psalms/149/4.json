@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 149,
+  "translation": "Kwa kuwa Yahweh anapendezwa na watu wake, humpambia ∅ mnyenyekevu kwa wokovu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "anapendezwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "na watu wake"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "humpambia"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "mnyenyekevu"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "kwa wokovu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:32.851339628Z",
+  "model": "glm-5.2"
+}

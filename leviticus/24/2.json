@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Amuru ⟨את⟩ wana wa Yisra'el, wakuchukue mafuta ya mzeitu safi ya kubonyeza, kwa ajili ya mwanga, ili kuwashwa taa daima.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "amuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana wa Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "wakuchukue"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "maafuta"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ya mzeitu"
+    },
+    {
+      "surface": "זך",
+      "gloss": "safi"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "ya kubonyeza"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "kwa ajili ya mwanga"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "ili kuwashwa"
+    },
+    {
+      "surface": "נר",
+      "gloss": "taa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:03.578073024Z",
+  "model": "glm-5.2"
+}

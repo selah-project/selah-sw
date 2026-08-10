@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "⟨Tena⟩ utukufu wa Yahweh utafunuliwa, na nyama yote ⟨italion⟩ pamoja, kwani kinywa cha Yahweh kimetamka.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "itafunuliwa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "utukufu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "na ⟨italion⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kinywa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kimetamka"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:10.388791468Z",
+  "model": "glm-5.2"
+}

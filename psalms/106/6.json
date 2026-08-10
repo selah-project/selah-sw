@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Tumekosa pamoja na baba zetu, tumepotosha, tumefanya uovu.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "tumekosa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "baba zetu"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "tumepotosha"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "tumefanya uovu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:28.879416202Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Ninapofahamu amri zako, huwa ninachukia kila njia ya uwongo.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "kutokana na amri zako"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ninafahamu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ninachukia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "njia"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "uwongo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:47.078273642Z",
+  "model": "glm-5.2"
+}

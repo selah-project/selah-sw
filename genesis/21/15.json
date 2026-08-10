@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Maji yalipokwisha katika chupa, akamtupa chini ⟨את⟩ mtoto chini ya mmoja wa vile vichaka.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "yalipokwisha"
+    },
+    {
+      "surface": "המים",
+      "gloss": "Maji"
+    },
+    {
+      "surface": "מן",
+      "gloss": "katika"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "chupa"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "akamtupa chini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtoto"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mtoto"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "wa vichaka"
+    }
+  ],
+  "timestamp": "2026-08-10T14:24:57.079142852Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 8:17",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Mwana wa miaka thelathini na mbili alikuwa ⟨akianza⟩ kufalme, na miaka nane alifalme katika Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "בֶּן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שְׁלֹשִׁ֥ים",
+      "gloss": "thelathini"
+    },
+    {
+      "surface": "וּשְׁתַּ֛יִם",
+      "gloss": "na mbili"
+    },
+    {
+      "surface": "שָׁנָ֖ה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "הָיָ֣ה",
+      "gloss": "alikuwa"
+    },
+    {
+      "surface": "בְמָלְכ֑וֹ",
+      "gloss": "kufalme kwake"
+    },
+    {
+      "surface": "וּשְׁמֹנֶ֣ה",
+      "gloss": "na nane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "מָלַ֖ךְ",
+      "gloss": "alifalme"
+    },
+    {
+      "surface": "בִּירוּשָׁלִָֽם",
+      "gloss": "katika Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T11:47:59.621644221Z",
+  "model": "glm-5.2"
+}

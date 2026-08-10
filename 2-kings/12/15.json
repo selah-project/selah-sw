@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Hawakuhesabu na ⟨hao⟩ watu ambao waliwapa ⟨hao⟩ fedha kuwapa wafanyikazi wa kazi, kwa kuwa wang'atenda kwa uaminifu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Hawakuhesabu"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "hesabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "waliwapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fedha"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "mikono yao"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuwapa"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "wafanyikazi"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "wa kazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "kwa uaminifu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "wang'atenda"
+    }
+  ],
+  "timestamp": "2026-08-10T15:02:20.248044096Z",
+  "model": "glm-5.2"
+}

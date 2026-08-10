@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kizazi kinakwenda, na kizazi kinakuja, na nchi inasimama hata milela.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Kizazi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kinakwenda"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "na kizazi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kinakuja"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na nchi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hata milela"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "inasimama"
+    }
+  ],
+  "timestamp": "2026-08-10T15:37:08.808192461Z",
+  "model": "glm-5.2"
+}

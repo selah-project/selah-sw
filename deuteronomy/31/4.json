@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Na Yahweh atawatendea kama alivyowatendea Sihoni na Ogu, wafalme wa Waemori, na nchi yao, ambayo ⟨aliyiharibu⟩ pamoja na ⟨את⟩ wao.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "na atatendea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alivyotenda"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "kwa Sihoni"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "na kwa Ogu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wa Waemori"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "na nchi yao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "aliyiharibu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:45:25.634870184Z",
+  "model": "glm-5.2"
+}

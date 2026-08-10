@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Wewe, umeyajua mawazo yangu ya aibu, na fedheha yangu, na aibu yangu; mbele yako ⟨ni⟩ wote washutumu wangu.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wewe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "umeyajua"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "mawazo yangu ya aibu"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "na fedheha yangu"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "na aibu yangu"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "mbele yako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "washutumu wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:57.602729096Z",
+  "model": "glm-5.2"
+}

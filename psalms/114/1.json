@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 114,
+  "translation": "Katika kuondoka kwa Yisrael kutoka Mitsrayim, nyumba ya Ya'akov kutoka watu wa lugha ya kigeni,",
+  "tokens": [
+    {
+      "surface": "בְּצֵ֣את",
+      "gloss": "Katika kuondoka kwa"
+    },
+    {
+      "surface": "יִ֭שְׂרָאֵל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מִמִּצְרָ֑יִם",
+      "gloss": "kutoka Mitsrayim"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "יַ֝עֲקֹ֗ב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "מֵעַ֥ם",
+      "gloss": "kutoka watu wa"
+    },
+    {
+      "surface": "לֹעֵֽז",
+      "gloss": "lugha ya kigeni"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:52.439035300Z",
+  "model": "glm-5.2"
+}

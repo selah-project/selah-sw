@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Wanaita msaada, na hakuna mwokozi; kwa Yahweh, wala ⟨hakuwajibu⟩.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "Wanaita msaada"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na hakuna"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mwokozi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "⟨hakuwajibu⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:07.216064138Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 91,
+  "translation": "Kwa kuwa wewe, Yahweh, ⟨ni⟩ mahali pangu pa kujificha, Elyon, umeweka makaazi yako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mahali pangu pa kujificha"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "umeweka"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "makaazi yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:23.695847199Z",
+  "model": "glm-5.2"
+}

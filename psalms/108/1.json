@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 108,
+  "translation": "Wimbo, zaburi ya David.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zaburi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:47.233791974Z",
+  "model": "glm-5.2"
+}

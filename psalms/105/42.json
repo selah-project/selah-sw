@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Kwa maana alikumbuka ⟨את⟩ neno la utakatifu wake, ⟨את⟩ Avraham mtumishi wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "alikumbuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neno la utakatifu wake"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "la utakatifu wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham mtumishi wake"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mtumishi wake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:50.101870940Z",
+  "model": "glm-5.2"
+}

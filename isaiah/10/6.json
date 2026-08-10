@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Katika taifa la ukanushasi nitamtuma, na juu ya taifa la wengine au ghadhabu yangu, nitamwachia amri, kuchukua nyara na kupora mali, na kuwafanya kama kichwani cha kusaga kama udongo wa nje.",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "katika taifa"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "la ukanushasi"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "nitamtuma"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "la wengine au ghadhabu yangu"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "nitamwachia amri"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "kuchukua"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "nyara"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "na kupora"
+    },
+    {
+      "surface": "בז",
+      "gloss": "mali"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "na kuwafanya"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "kichwani cha kusaga"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "kama udongo"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "wa nje"
+    }
+  ],
+  "timestamp": "2026-08-10T11:56:54.245427499Z",
+  "model": "glm-5.2"
+}

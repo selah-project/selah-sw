@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 87,
+  "translation": "Yahweh atahesabu, katika kuandika ⟨taarifa ya⟩ watu: huyu amezaliwa huko. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "atahesabu"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "katika kuandika"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "watuu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "huyu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "amezaliwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:18.028190763Z",
+  "model": "glm-5.2"
+}

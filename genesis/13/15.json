@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Maana ⟨את⟩ ardhi yote ⟨ambayo⟩ wewe unaiona, nitakupa ⟨hiyo⟩, na kwa mzazio wako hata milele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ardhi yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ardhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "unaiona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nitakupa"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "nitakupa"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "na kwa mzazio wako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T14:24:18.404874549Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 150,
+  "translation": "Msifuni ⟨yeye⟩ kwa nguvu zake za ajabu; msifuni ⟨yeye⟩ kulingana na wingi wa ukubwa wake.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "kwa nguvu zake za ajabu"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "kulingana na wingi"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "wa ukubwa wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:41.308106123Z",
+  "model": "glm-5.2"
+}

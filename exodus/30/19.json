@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Aharon na wanawe wataosha kutoka humo ⟨את⟩ mikono yao na ⟨את⟩ miguu yao.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "wataosha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na wanawe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kutoka humo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikono yao"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mikono yao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "miguu yao"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "miguu yao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:24.188125047Z",
+  "model": "glm-5.2"
+}

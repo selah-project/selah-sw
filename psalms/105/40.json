@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Waliomba, na ⟨⟨yeye⟩ akaleta⟩ selav, na mkate wa mbingu akawashibisha.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Waliomba"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na akileta"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "selav"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "na mkate"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "wa mbingu"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "akawashibisha"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:46.120672239Z",
+  "model": "glm-5.2"
+}

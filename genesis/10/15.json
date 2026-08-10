@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na Kenaani ⟨alimzaa⟩ ⟨את⟩ Tzidoni mzaliwa wake wa kwanza na ⟨את⟩ Heti.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Na Kenaani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tzidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mzaliwa wake wa kwanza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Heti"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heti"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:31.042106178Z",
+  "model": "glm-5.2"
+}

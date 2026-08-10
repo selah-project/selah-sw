@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Nitasema kwa El mwamba wangu: Kwa nini umenisahau? Kwa nini ninaenda ukiwa giza kwa kuonewa ⟨na⟩ adui?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "Nitasema"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kwa El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mwamba wangu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "umenisahau"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "nikiwa giza"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "naenda"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "kwa kuonewa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "adui"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:12.254249679Z",
+  "model": "glm-5.2"
+}

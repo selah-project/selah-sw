@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Jaribu sasa ⟨את⟩ watumishi wako siku kumi; na watupe kutoka ⟨kati ya⟩ mbegu, tukale; na maji, tukunywe.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "Jaribu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watumishi wako"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "watumishi wako"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "na watupe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "mbegu"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "tukale"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "na maji"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "tukunywe"
+    }
+  ],
+  "timestamp": "2026-08-10T16:25:07.577296429Z",
+  "model": "glm-5.2"
+}

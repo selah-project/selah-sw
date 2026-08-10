@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 81,
+  "translation": "Pigeni mwazo kwa Elohim nguvu yetu; pigeni pare kwa Elohim wa Ya'akov.",
+  "tokens": [
+    {
+      "surface": "הַרְנִ֙ינוּ֙",
+      "gloss": "pigeni mwazo"
+    },
+    {
+      "surface": "לֵאלֹהִ֔ים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "עֻזֵּ֑נוּ",
+      "gloss": "nguvu yetu"
+    },
+    {
+      "surface": "הָרִ֥יעוּ",
+      "gloss": "pigeni pare"
+    },
+    {
+      "surface": "לֵאלֹהֵ֥י",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "יַעֲקֹֽב",
+      "gloss": "Ya'akov"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:07.786333712Z",
+  "model": "glm-5.2"
+}

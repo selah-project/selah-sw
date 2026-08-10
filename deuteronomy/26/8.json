@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Naye Yahweh akatutoa kutoka Mitsrayim kwa mkono wenye nguvu na kwa mkono uliowekwa wazi na kya hofu kubwa na kwa ishara na kwa ajabu.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "akatutoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kutoka Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwa mkono"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "wenye nguvu"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "na kwa mkono"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "uliowekwa wazi"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "na kwa hofu"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "na kwa ishara"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "na kwa ajabu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:00:25.787999081Z",
+  "model": "glm-5.2"
+}

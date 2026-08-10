@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Sikiliza sauti ya maombi yangu ninapokulia kwako, ninapoinua mikono yangu kuelekea hekalu takatifu lao.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Sikiliza"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ya maombi yangu"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "ninapokulia"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "ninapoinua"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mikono yangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuelekea"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "hekalu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "takatifu lao"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:06.424155053Z",
+  "model": "glm-5.2"
+}

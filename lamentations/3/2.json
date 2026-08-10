@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "⟨את⟩ Nimepeleleza na kuifanya ⟨nikienda⟩ gizani, na isiyo ⟨katika⟩ mwanga.",
+  "tokens": [
+    {
+      "surface": "אוֹתִ֥י",
+      "gloss": "⟨את⟩",
+      "marks": "mimi (kiendesha cha 'Nimepeleleza')"
+    },
+    {
+      "surface": "נָהַ֛ג",
+      "gloss": "Nimepeleleza"
+    },
+    {
+      "surface": "וַיֹּלַ֖ךְ",
+      "gloss": "na kuifanya ⟨nikienda⟩"
+    },
+    {
+      "surface": "חֹ֥שֶׁךְ",
+      "gloss": "gizani"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "na isiyo"
+    },
+    {
+      "surface": "אֽוֹר",
+      "gloss": "mwanga"
+    }
+  ],
+  "timestamp": "2026-08-10T13:44:25.769741147Z",
+  "model": "glm-5.2"
+}

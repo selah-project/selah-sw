@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 130,
+  "translation": "Nilitarajia Yahweh, nafsi yangu ⟨ili⟩ itaraji, na kwa neno lake nilingoja.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "Nilitarajia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "itaraji"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "na kwa neno lake"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ningoja"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:30.693093695Z",
+  "model": "glm-5.2"
+}

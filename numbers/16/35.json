@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 16:35",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na moto ukatoka kwa ⟨את⟩ Yahweh, ukala ⟨את⟩ hamsini na wanaume mia mbili, wale watoa matoleo ya uvumba.",
+  "tokens": [
+    {
+      "surface": "ואש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "ukatoka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kwa ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ukala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamsini na wanaume mia mbili"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "hamsini"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "na mia mbili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanaume"
+    },
+    {
+      "surface": "מקריבי",
+      "gloss": "watoa matoleo"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ya uvumba"
+    }
+  ],
+  "timestamp": "2026-08-10T10:45:54.601084232Z",
+  "model": "glm-5.2"
+}

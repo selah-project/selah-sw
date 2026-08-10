@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 96,
+  "translation": "Jipigeni mbele kwa Yahweh katika urembo wa [[qodesh]]; tetemeka kutokana na uso wake, ⟨nchi⟩ yote.",
+  "tokens": [
+    {
+      "surface": "הִשְׁתַּחֲו֣וּ",
+      "gloss": "Jipigeni mbele"
+    },
+    {
+      "surface": "לַ֭יהוָה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "בְּהַדְרַת",
+      "gloss": "katika urembo wa"
+    },
+    {
+      "surface": "קֹ֑דֶשׁ",
+      "gloss": "[[qodesh]]"
+    },
+    {
+      "surface": "חִ֥ילוּ",
+      "gloss": "tetemeka"
+    },
+    {
+      "surface": "מִ֝פָּנָ֗יו",
+      "gloss": "kutokana na uso wake"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "⟨nchi⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:21.371098850Z",
+  "model": "glm-5.2"
+}

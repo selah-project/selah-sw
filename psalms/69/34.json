@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Kwa kuwa Yahweh husikia wanyenyekevu, na ⟨את⟩ mateka wake hatamdharau.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "husikia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "wanyenyekevu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mateka wake"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "mateka wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatamdharau ← si"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "← kumdharau"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:51.090072971Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 4:4",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na Debora, mwanamke nabii, mke wa Lapidoti, yeye alihukumu ⟨את⟩ Yisra'el wakati huo.",
+  "tokens": [
+    {
+      "surface": "וּדְבוֹרָה֙",
+      "gloss": "Na Debora"
+    },
+    {
+      "surface": "אִשָּׁ֣ה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "נְבִיאָ֔ה",
+      "gloss": "nabii"
+    },
+    {
+      "surface": "אֵ֖שֶׁת",
+      "gloss": "mke wa"
+    },
+    {
+      "surface": "לַפִּיד֑וֹת",
+      "gloss": "Lapidoti"
+    },
+    {
+      "surface": "הִ֛יא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "שֹׁפְטָ֥ה",
+      "gloss": "alihukumu"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בָּעֵ֥ת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "הַהִֽיא",
+      "gloss": "huo"
+    }
+  ],
+  "timestamp": "2026-08-10T11:13:48.667890979Z",
+  "model": "glm-5.2"
+}

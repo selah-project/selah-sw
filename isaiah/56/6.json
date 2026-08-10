@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 56:6",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 56,
+  "translation": "Na wana wa mwungamakuwani waunganao juu ya Yahweh kumhudumia, na kupenda ⟨את⟩ jina la Yahweh, kuwa kwake watumwa, kila mtu anayeshika Sabati pasipo kuitakasa, na wanaoshikamana na ⟨את⟩ agano langu.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "na wana wa"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "mwungamakuwani"
+    },
+    {
+      "surface": "הנלוים",
+      "gloss": "waunganao"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשרתו",
+      "gloss": "kumhudumia"
+    },
+    {
+      "surface": "ולאהבה",
+      "gloss": "na kupenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina la Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "watumwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "anayeshika"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabati"
+    },
+    {
+      "surface": "מחללו",
+      "gloss": "pasipo kuitakasa"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "na wanaoshikamana"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "na agano langu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:07:56.477895127Z",
+  "model": "glm-5.2"
+}

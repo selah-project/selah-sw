@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Wengi wanasema: Ni nani atakayeonyesha⟨sisi⟩ heri? Inua juu yetu nuru ya uso wako, Yahweh.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "wanasema"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "atakayeonyesha"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "heri"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "inua"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "juu yetu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "nuru"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ya uso wako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:23.014611167Z",
+  "model": "glm-5.2"
+}

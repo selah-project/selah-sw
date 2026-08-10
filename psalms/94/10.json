@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 94,
+  "translation": "Yeye aliye mwalimu wa mataifa, je, ⟨hatii sahihi⟩? Yeye aliye mfunza ⟨adamu⟩ maarifa —",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "aliye mwalimu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "je"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "⟨hatii sahihi⟩"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "aliye mfunza"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨adamu⟩"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "maarifa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:49.549528731Z",
+  "model": "glm-5.2"
+}

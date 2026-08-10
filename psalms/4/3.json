@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Wana wa wanawake, hadi lini utukufu wangu ⟨utageuzwa⟩ kuwa aibu? Mtapenda ubatilifu, mtatafuta uwongo. Selah.",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "wana"
+    },
+    {
+      "surface": "אִ֡ישׁ",
+      "gloss": "wa wanawake"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "מֶ֬ה",
+      "gloss": "lini"
+    },
+    {
+      "surface": "כְבוֹדִ֣י",
+      "gloss": "utukufu wangu"
+    },
+    {
+      "surface": "לִ֭כְלִמָּה",
+      "gloss": "kuwa aibu"
+    },
+    {
+      "surface": "תֶּאֱהָב֣וּן",
+      "gloss": "mtapenda"
+    },
+    {
+      "surface": "רִ֑יק",
+      "gloss": "ubatilifu"
+    },
+    {
+      "surface": "תְּבַקְשׁ֖וּ",
+      "gloss": "mtatafuta"
+    },
+    {
+      "surface": "כָזָ֣ב",
+      "gloss": "uwongo"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:52.323664022Z",
+  "model": "glm-5.2"
+}

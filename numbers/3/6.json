@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Mkaribishe ⟨את⟩ kabila la Levi, na uwamsimamishe ⟨את⟩ mbele ya Aharoni kuhani, nao wamtumikie.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Mkaribishe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabila la Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kabila"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "la Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "na uwamsimamishe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mbele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "nao wamtumikie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:22.320604498Z",
+  "model": "glm-5.2"
+}

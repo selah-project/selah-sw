@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na kwa nini husafari uasi wangu, na kufuta ⟨את⟩ makosa yangu? Kwa kuwa sasa nitakwenda kulala kwenye mavumbi, na utanitafuta — nami siwezi kupatikana.",
+  "tokens": [
+    {
+      "surface": "וּמֶ֤ה",
+      "gloss": "Na kwa nini"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תִשָּׂ֣א",
+      "gloss": "husafari"
+    },
+    {
+      "surface": "פִשְׁעִי֮",
+      "gloss": "uasi wangu"
+    },
+    {
+      "surface": "וְתַעֲבִ֪יר",
+      "gloss": "na kufuta"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "makosa yangu"
+    },
+    {
+      "surface": "עֲוֺ֫נִ֥י",
+      "gloss": "makosa yangu"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "עַ֭תָּה",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "לֶעָפָ֣ר",
+      "gloss": "kwenye mavumbi"
+    },
+    {
+      "surface": "אֶשְׁכָּ֑ב",
+      "gloss": "nitakwenda kulala"
+    },
+    {
+      "surface": "וְשִׁ֖חֲרְתַּ֣נִי",
+      "gloss": "na utanitafuta"
+    },
+    {
+      "surface": "וְאֵינֶֽנִּי",
+      "gloss": "nami siwezi kupatikana"
+    }
+  ],
+  "timestamp": "2026-08-10T13:31:53.673629238Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Mimi nilichimba na kunywa maji, na nitaangamisha kwa wayo wa nyayo zangu matawi yote ya Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "nilichimba"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "na kunywa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "ואחרib",
+      "gloss": "na nitaangamisha"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "kwa wayo"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "wa nyayo zangu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "matawi"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ya Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T16:07:54.729677031Z",
+  "model": "glm-5.2"
+}

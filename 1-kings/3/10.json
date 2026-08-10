@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Neno likapendeza machoni pa Adonai, kwa sababu Shelomoh aliuliza neno hili.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "likapendeza"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "machoni pa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "aliuliza"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neno"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    }
+  ],
+  "timestamp": "2026-08-10T11:37:36.843734107Z",
+  "model": "glm-5.2"
+}

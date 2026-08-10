@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Hakuna mfalme aanuliwaye kwa wingi wa jeshi; shujaa hatokolewi kwa wingi wa nguvu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "aanuliwaye"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "kwa wingi wa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "jeshi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "shujaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "tokolewi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "kwa wingi wa"
+    },
+    {
+      "surface": "כח",
+      "gloss": "nguvu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:41.768859528Z",
+  "model": "glm-5.2"
+}

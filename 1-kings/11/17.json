@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Akimbia Hadad, yeye pamoja na waendomi, baadhi ya watumishi wa baba yake, ⟨nae pamoja naye⟩ kuingia Mitsrayim; na Hadad ⟨alikuwa⟩ mtoto mdogo.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "akimbia"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "na waendomi"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "waendomi"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "kutoka watumishi wa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pamoja naye"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kuingia"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "na Hadad"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mtoto"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "mdogo"
+    }
+  ],
+  "timestamp": "2026-08-10T14:59:25.642374337Z",
+  "model": "glm-5.2"
+}

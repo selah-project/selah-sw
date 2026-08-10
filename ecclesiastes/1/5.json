@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na ⟨huhuqa⟩ jua, na kuchwa jua, na kuelekea mahali pake ⟨hupumua⟩ hupokea jua ⟨huko⟩.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "na kupokea"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "jua"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "na kuchwa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "jua"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kuelekea"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "mahali pake"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "hupumua"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "hupokea"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jua"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:16.629746848Z",
+  "model": "glm-5.2"
+}

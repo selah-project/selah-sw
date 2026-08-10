@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 4:37",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na kwa sababu aliupenda ⟨את⟩ baba zako, akachagua mzao wake baada yake, akakutoa mbele zake kwa nguvu yake kuu kutoka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ותחת",
+      "gloss": "na kwa sababu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "aliupenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba zako"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "baba zako"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "akachagua"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "mzao wake"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "baada yake"
+    },
+    {
+      "surface": "ויוצאך",
+      "gloss": "akakutoa"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "mbele zake"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "kwa nguvu yake"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kutoka Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:54:54.460246252Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Uchafu wake utarudi juu ya kichwa chake, na juu ya taji la kichwa chake jeuri yake itashuka.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "utarudi"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "uchafu wake"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "juu ya kichwa chake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "taji la kichwa chake"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "jeuri yake"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "itashuka"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:25.162379479Z",
+  "model": "glm-5.2"
+}

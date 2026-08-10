@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 7:15",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na itakuwa ⟨hivyo⟩: yule atakayeshikwa pamoja na kilichotengwa kwa uharibifu atateketezwa kwa moto, ⟨את⟩ yeye na ⟨את⟩ vyote vilivyo vyake, kwa sababu aliivuka ⟨את⟩ mapatano ya Yahweh, na kwa sababu alitenda ujinga katika Yisra'el.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na itakuwa"
+    },
+    {
+      "surface": "הנלכד",
+      "gloss": "yule atakayeshikwa"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "pamoja na kilichotengwa kwa uharibifu"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "atateketezwa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kwa moto"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yeye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vyote vilivyo vyake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilivyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vyake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "aliivuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapatano"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "mapatano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "na kwa sababu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alitenda"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ujinga"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "katika Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-10T11:07:22.664526339Z",
+  "model": "glm-5.2"
+}

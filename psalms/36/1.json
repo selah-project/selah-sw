@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Kwa mwenye kuongoza ⟨ni⟩ wa Yahweh, ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa mwenye kuongoza"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "⟨ni⟩ wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:42.316303300Z",
+  "model": "glm-5.2"
+}

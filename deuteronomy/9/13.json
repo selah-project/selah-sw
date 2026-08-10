@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na Yahweh akaniambia, akisema: Nimeuona ⟨את⟩ taifa hili, na tazama, ni taifa lenye shingo ngumu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Nimeuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taifa hili"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "עם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ngumu"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "shingo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-10T10:56:15.369798416Z",
+  "model": "glm-5.2"
+}

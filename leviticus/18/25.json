@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Nchi ilichafuka, nami niliingizia uovu wake juu yake, naye nchi ilitapika ⟨את⟩ wakaaji wake.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "ilichafuka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "nami niliingizia"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "uovu wake"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "naye ilitapika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wakaaji wake"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "wakaaji wake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:35:52.901764507Z",
+  "model": "glm-5.2"
+}

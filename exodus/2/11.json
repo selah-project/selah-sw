@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 2:11",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na ikawa katika siku zile, Moshe alipokuwa amekuwa mkubwa, akatoka kwenda kwa ndugu zake, akaona mizigo yao; akaona mtu Mitsrayi anampiga mtu Ibrani miongoni mwa ndugu zake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ikawa"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "katika siku"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "zile"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "alipokuwa amekuwa mkubwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "akatoka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenda kwa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "mizigo yao"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsrayi"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "anampiga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Ibrani"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "miongoni mwa ndugu zake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:28:07.732315468Z",
+  "model": "glm-5.2"
+}

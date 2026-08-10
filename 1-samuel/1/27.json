@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "„Kwa ajili ya mvulana huyu niliomba, na Yahweh akanipa ⟨את⟩ ombi langu nililomwomba kutoka kwake.”",
+  "tokens": [
+    {
+      "surface": "אֶל",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "הַנַּ֥עַר",
+      "gloss": "mvulana"
+    },
+    {
+      "surface": "הַזֶּ֖ה",
+      "gloss": "huyu"
+    },
+    {
+      "surface": "הִתְפַּלָּ֑לְתִּי",
+      "gloss": "niliombea"
+    },
+    {
+      "surface": "וַיִּתֵּ֨ן",
+      "gloss": "akampa"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לִי֙",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ombi langu"
+    },
+    {
+      "surface": "שְׁאֵ֣לָתִ֔י",
+      "gloss": "ombi langu"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "שָׁאַ֖לְתִּי",
+      "gloss": "nililomwomba"
+    },
+    {
+      "surface": "מֵעִמּֽוֹ",
+      "gloss": "kutoka kwake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:50:48.290052286Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Macho ⟨ya⟩ Yahweh ⟨huwa⟩ ⟨kuelekea⟩ wenye haki, na masikio ⟨yake⟩ ⟨kuelekea⟩ maombolezo yao.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "macho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Ya Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kuelekea⟩"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wenye haki"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "na masikio ⟨yake⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kuelekea⟩"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "maombolezo yao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:05.321330335Z",
+  "model": "glm-5.2"
+}

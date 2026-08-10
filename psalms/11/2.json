@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Kwa maana angalieni, waovu wameshika upinde; wameipanga mshale wao juu kamba, kupiga risasi kwa giza waliokuwa na moyo wa haki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "angalieni"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "waovu"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "wameshika"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "upinde"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "wameipanga"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "mshale wao"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "kamba"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "kupiga risasi"
+    },
+    {
+      "surface": "במו",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "giza"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "waliokuwa na"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo wa haki"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:30.005262526Z",
+  "model": "glm-5.2"
+}

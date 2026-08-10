@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Wimbo wa David. Yahweh, nani atakaa hema lako? Nani atakaa katika mlima wa utakatifu wako?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "atakaa"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "hema lako"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "atakaa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "katika mlima"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "utakatifu wako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:31.984854415Z",
+  "model": "glm-5.2"
+}

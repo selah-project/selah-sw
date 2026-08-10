@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Ili kuona ⟨katika⟩ wema wa wateule wako, kufurahi ⟨katika⟩ furaha ya taifa lako, kusifiana pamoja na urithi wako.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "ili kuona"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "⟨katika⟩ wema"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "wa wateule wako"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "kufurahi"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "⟨katika⟩ furaha"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "ya taifa lako"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "kusifiana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "urithi wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:28.879195901Z",
+  "model": "glm-5.2"
+}

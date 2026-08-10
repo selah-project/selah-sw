@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Isiwe ⟨na⟩ kuwa kwako miungu mingine juu ya uso wangu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Isiwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "miungu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "mingine"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:22:56.392213246Z",
+  "model": "glm-5.2"
+}

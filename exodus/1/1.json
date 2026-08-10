@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na hizi ndizo majina ya wana wa Yisra'el, ⟨aoleti⟩ wanaokuja Mitsrayim: ⟨את⟩ Ya'akov, mtu na nyumba yake, walikuja.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na hizi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "majina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "wanaokuja"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'akov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "na nyumba yake"
+    },
+    {
+      "surface": "באו",
+      "gloss": "walikuja"
+    }
+  ],
+  "timestamp": "2026-08-10T10:16:51.911826191Z",
+  "model": "glm-5.2"
+}

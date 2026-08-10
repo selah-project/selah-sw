@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 93,
+  "translation": "Yahweh amefungua ufalume, ⟨amejivika⟩ jeuri; amejivika Yahweh, amejifunga nguvu; pia, dunia ⟨imesimama⟩ imara, ⟨haitatetereka⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "amefungua ufalume"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "jeuri"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "amejivika"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "amejivika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguvu"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "amejifunga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pia"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "imesimama imara"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "בל",
+      "gloss": "haita-"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "tetereka"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:38.367150202Z",
+  "model": "glm-5.2"
+}

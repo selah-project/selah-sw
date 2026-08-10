@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na Amram akamchukua ⟨את⟩ Yokhebed shangazi yake kwake kuwa mke, naye akamzaa kwake ⟨את⟩ Aharon na ⟨את⟩ Moshe; na miaka ya maisha ya Amram ⟨ilikuwa⟩ saba na thelathini na mia moja.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Na akamchukua"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokhebed"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Yokhebed"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "shangazi yake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kuwa mke"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "naye akamzaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "Na miaka ya"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "maisha ya"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "saba"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na thelathini"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na mia moja"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    }
+  ],
+  "timestamp": "2026-08-10T15:51:36.038457711Z",
+  "model": "glm-5.2"
+}

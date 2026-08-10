@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Na ikiwa hakuna ⟨kwa yeye⟩ ndugu, mtampa ⟨את⟩ urithi wake kwa ndugu ⟨wa⟩ baba yake.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kwa yeye⟩"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ndugu"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "mtampa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urithi wake"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "urithi wake"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kwa ndugu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:56:09.558612668Z",
+  "model": "glm-5.2"
+}

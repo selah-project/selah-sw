@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "Tehom uliifunika kama nguo; juu ya milima maji yaliamama.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Tehom"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "kama nguo"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "uliifunika"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "milima"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "yaliamama"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:02.195726908Z",
+  "model": "glm-5.2"
+}

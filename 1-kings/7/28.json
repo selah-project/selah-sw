@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 7:28",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Nayo huu ndio umbo la msingi: zilikuwa na mifumo ya pande kwa ajili yake, na mifumo ya pande kati ya matawi.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Nayo huu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umbo"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "la msingi"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "mifumo ya pande"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa ajili yake"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "na mifumo ya pande"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "השלבים",
+      "gloss": "matawi"
+    }
+  ],
+  "timestamp": "2026-08-10T16:02:43.920384212Z",
+  "model": "glm-5.2"
+}

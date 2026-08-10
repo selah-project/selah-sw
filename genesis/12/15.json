@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Wakuu wa Paroh wakaiona ⟨את⟩ ⟨yeye⟩, wakamsifu ⟨את⟩ ⟨yeye⟩ kwa Paroh, na mwanamke akaletwa nyumbani mwa Paroh.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "wakaiona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "wakuu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "wakamsifu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "akaletwa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumbani"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:51.321807060Z",
+  "model": "glm-5.2"
+}

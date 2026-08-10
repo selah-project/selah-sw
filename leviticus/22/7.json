@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Na jua litakapochwa naye ⟨kuwa⟩ safi, na baadaye atakula katika ⟨vitu⟩ takatifu, kwa maana chakula chake ndicho ⟨hiki⟩.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Na litakapochwa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "jua"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "naye ⟨kuwa⟩ safi"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "na baadaye"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "atakula"
+    },
+    {
+      "surface": "מן",
+      "gloss": "katika"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "⟨vitu⟩ takatifu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "chakula chake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndicho ⟨hiki⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:48.319346300Z",
+  "model": "glm-5.2"
+}

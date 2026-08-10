@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 26:1",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na ⟨את⟩ maskani utatengeneza kwa mapazia kumi; shashi iliyosokotwa na buluu na zambarau na nyuzi za kinamasi; kikerubi, kazi ya mchoraji, ndiyo utakayotengeneza ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "maskani"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "maskani"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "utatengeneza"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "kwa mapazia"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shashi"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "iliyosokotwa"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "na buluu"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "na zambarau"
+    },
+    {
+      "surface": "ותלעת",
+      "gloss": "na nyuzi za"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kinamasi"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kikerubi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kazi ya"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "mchoraji"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "utatengeneza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "mapazia"
+    }
+  ],
+  "timestamp": "2026-08-10T10:26:07.106996896Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Nami nikawaambia wakati huo, nikisema: Siwezi peke yangu kuibeba ⟨את⟩ ninyi.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nikasema"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ule"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nikisema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "siwezi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kuiweza"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "peke yangu"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "kuibeba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:40:36.780628980Z",
+  "model": "glm-5.2"
+}

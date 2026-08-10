@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na Ahabu akamwita Obadiahu ambaye ⟨alikuwa⟩ juu ya nyumba; naye Obadiahu alikuwa mcha ⟨את⟩ Yahweh sana.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akamwita"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadiahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "na Obadiahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "alikuwa"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "mcha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-10T11:43:03.091394289Z",
+  "model": "glm-5.2"
+}

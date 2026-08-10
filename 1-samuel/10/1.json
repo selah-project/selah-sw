@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na Shemuëli akachukua ⟨את⟩ chupa ya mafuta ya upako, na akamimina juu ya kichwa chake, na akambusu, na akasema, Si kweli kwamba Yahweh amekupaka mafuta ya upako juu ya urithi wake kuwa kiongozi?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Na akachukua"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chupa"
+    },
+    {
+      "surface": "פך",
+      "gloss": "chupa"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ya mafuta ya upako"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "na akamimina"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kichwa chake"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "na akambusu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Si kweli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "amekupaka mafuta ya upako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "urithi wake"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "kuwa kiongozi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:22:33.492461786Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Wakavunja ⟨את⟩ nguzo ya Baali, wakaivunja ⟨את⟩ nyumba ya Baali, wakaifanya kuwa choo cha hadharani hata leo hii.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "wakavunja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguzo ya Baali"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "nguzo"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baali"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "wakaivunja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba ya Baali"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baali"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "wakaifanya"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "kuwa choo cha hadharani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo hii"
+    }
+  ],
+  "timestamp": "2026-08-10T11:47:38.554943634Z",
+  "model": "glm-5.2"
+}

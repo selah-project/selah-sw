@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na wana wa Yisra'eli wakaishi katikati ya ⟨hiyo⟩ waKenaani, ⟨hiyo⟩ waHiti, na waEmori, na waPerizi, na waHiwi, na waYebusi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "wakaishi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "katikati ya"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "⟨hiyo⟩ waKenaani"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "⟨hiyo⟩ waHiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "na waEmori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "na waPerizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "na waHiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "na waYebusi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:12:29.250649395Z",
+  "model": "glm-5.2"
+}

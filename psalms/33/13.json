@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Kutoka mbingu Yahweh ametazama, ameona ⟨את⟩ wote wana wa ⟨adamu⟩.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "kutoka mbingu"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ametazama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ameona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wote wana wa adamu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adamu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:41.768170520Z",
+  "model": "glm-5.2"
+}

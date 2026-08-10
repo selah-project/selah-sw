@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Akajenga madhabahu katika nyumba ya Yahweh, ambayo Yahweh alisema, «Katika Yerushalayimi nitaweka ⟨את⟩ jina langu.»",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "akajenga"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "katika nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alisema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "katika Yerushalayimi"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "nitaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina langu"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "jina langu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:03:39.617614436Z",
+  "model": "glm-5.2"
+}

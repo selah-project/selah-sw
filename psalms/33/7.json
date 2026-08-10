@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "⟨Yeye⟩ anakusanya kama tundu maji ya bahari, anaweka katika ghala zake vilindi.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "⟨Yeye⟩ anakusanya"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "kama tundu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "maji"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ya bahari"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anaweka"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "katika ghala"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "zake vilindi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:24.264302248Z",
+  "model": "glm-5.2"
+}

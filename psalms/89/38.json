@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Kama mwezi ⟨kitasimama⟩ daima, na ⟨kuwa⟩ shahidi mwaminifu mbinduni. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "kama mwezi"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "⟨kitasimama⟩"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "daima"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na ⟨kuwa⟩ shahidi"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "mbinduni"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "mwaminifu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:55.573336601Z",
+  "model": "glm-5.2"
+}

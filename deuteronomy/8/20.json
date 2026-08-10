@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Kama mataifa ambao Yahweh anawaharibu mbele yenu, kadhalika mtapotea, kwa sababu hamtaki kusikiliza katika sauti ya Yahweh Elohim wenu.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "kama mataifa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "anawaharibu"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "mbele yenu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kadhalika"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "mtapotea"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamtaki"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "kusikiliza"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "katika sauti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:57:18.611674425Z",
+  "model": "glm-5.2"
+}

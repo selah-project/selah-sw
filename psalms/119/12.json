@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Umebarikiwa wewe, Yahweh; nifundisheni ⟨katika⟩ amri zako.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "umebarikiwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "nifundisheni"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "⟨katika⟩ amri zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:05.268581261Z",
+  "model": "glm-5.2"
+}

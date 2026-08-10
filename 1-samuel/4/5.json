@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 4:5",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Ikawa walipoingia sanduku la agano la Yahweh ndani ya kambi, wote Waisraeli wakapiga mayowe — mlele mkuu — na nchi ikasikika",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "walipoingia"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "la agano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndani ya"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kambi"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "wakapiga mayowe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Waisraeli"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "mlele"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "na ikasikika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:20:29.565227599Z",
+  "model": "glm-5.2"
+}

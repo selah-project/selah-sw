@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Yule anayemwelekeza ⟨את⟩ damu ya zaburi za amani na ⟨את⟩ mafuta, kati ya wana wa Aharon, kwake atakuwa shingo ya upoto wa kulia kwa sehemu yake.",
+  "tokens": [
+    {
+      "surface": "הַמַּקְרִ֞יב",
+      "gloss": "yule anayemwelekeza"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "damu"
+    },
+    {
+      "surface": "דַּ֧ם",
+      "gloss": "damu"
+    },
+    {
+      "surface": "הַשְּׁלָמִ֛ים",
+      "gloss": "ya zaburi za amani"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "הַחֵ֖לֶב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "מִבְּנֵ֣י",
+      "gloss": "kati ya wana wa"
+    },
+    {
+      "surface": "אַהֲרֹ֑ן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ל֧וֹ",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "תִהְיֶ֛ה",
+      "gloss": "atakuwa"
+    },
+    {
+      "surface": "שׁ֥וֹק",
+      "gloss": "shingo"
+    },
+    {
+      "surface": "הַיָּמִ֖ין",
+      "gloss": "ya upoto wa kulia"
+    },
+    {
+      "surface": "לְמָנָֽה",
+      "gloss": "kwa sehemu yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:32:30.756673116Z",
+  "model": "glm-5.2"
+}

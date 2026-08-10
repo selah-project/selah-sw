@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na kuvua ⟨את⟩ nguo zake, na kuvaa nguo nyingine, na kutoa ⟨את⟩ majivu nje ya kambi, mpaka mahali pa ⟨kuwa⟩ safi.",
+  "tokens": [
+    {
+      "surface": "וּפָשַׁט",
+      "gloss": "Na kuvua"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "nguo zake"
+    },
+    {
+      "surface": "בְּגָדָיו",
+      "gloss": "nguo zake"
+    },
+    {
+      "surface": "וְלָבַשׁ",
+      "gloss": "na kuvaa"
+    },
+    {
+      "surface": "בְּגָדִים",
+      "gloss": "nguo"
+    },
+    {
+      "surface": "אֲחֵרִים",
+      "gloss": "zingine"
+    },
+    {
+      "surface": "וְהוֹצִיא",
+      "gloss": "na kutoa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "majivu"
+    },
+    {
+      "surface": "הַדֶּשֶׁן",
+      "gloss": "majivu"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "nje"
+    },
+    {
+      "surface": "מִחוּץ",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לַמַּחֲנֶה",
+      "gloss": "kambi"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "מָקוֹם",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "טָהוֹר",
+      "gloss": "safi"
+    }
+  ],
+  "timestamp": "2026-08-10T18:34:46.743530875Z",
+  "model": "glm-5.2"
+}

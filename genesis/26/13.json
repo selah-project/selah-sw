@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na mtu ⟨huyo⟩ akawa mkubwa, akaendelea kwenda mbele na kukua, hata akawa mkubwa sana.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "na akawa mkubwa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaendelea kwenda"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "mbele"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "na kukua"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "akawa mkubwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-10T10:08:05.797831286Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Akawapa ⟨את⟩ wao kwa ajili ya rehema, mbele za wote waliowateka mateka.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akawapa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "kwa ajili ya rehema"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "waliowateka mateka"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:02.882536113Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Wana wa Asnah, wana wa Meunim, wana wa Nephisim,",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "אַסְנָ֥ה",
+      "gloss": "Asnah"
+    },
+    {
+      "surface": "בְנֵי",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "Meunim"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "Nephisim"
+    }
+  ],
+  "timestamp": "2026-08-10T13:56:20.243025735Z",
+  "model": "glm-5.2"
+}

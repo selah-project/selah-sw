@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Akaita jina la mahali pale Taveraḥ, kwa sababu moto wa Yahweh uliwaka kati yao.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "la mahali"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "pale"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Taveraḥ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "uliwaka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kati yao"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:43:46.279460576Z",
+  "model": "glm-5.2"
+}

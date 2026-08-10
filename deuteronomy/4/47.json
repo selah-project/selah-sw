@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 4:47",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "wakairithi ⟨את⟩ nchi yake na ⟨את⟩ nchi ya Og mfalme wa Bashan, wafalme wawili wa waemori, ambao walikuwa ng'ambo ya Yardeni, upande wa machweo;",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "wakairithi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi yake"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nchi yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ya Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme wa"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wa waemori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "walikuwa ng'ambo ya"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "upande wa"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "machweo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:55:18.123767424Z",
+  "model": "glm-5.2"
+}

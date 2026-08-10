@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 65,
+  "translation": "Msikilizaji wa maombi, kwako nyote mwili utakuja.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "msikilizaji"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "wa maombi"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyote"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mwili"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "utakuja"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:29.139072107Z",
+  "model": "glm-5.2"
+}

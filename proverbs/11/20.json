@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Machukizo mbele ya Yahweh ni wenye mioyo miovu, na mapenzi yake ni watu wenye njia iliyo kamili.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "Machukizo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "wenye miovu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mioyo"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "na mapenzi yake"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "wenye iliyo kamili"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:24:54.263160284Z",
+  "model": "glm-5.2"
+}

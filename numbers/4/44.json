@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 4:44",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Wakawa waliohesabiwa wao, kwa jamii zao, ⟨ni⟩ elfu tatu na mia mbili.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Wakawa"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "waliohesabiwa wao"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kwa jamii zao"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "elfu tatu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "⟨elfu tatu⟩"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "na mia mbili"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:58.246996672Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Mambo mawili nimewauliza wewe ⟨את⟩; usinizibe kabla sijafa.",
+  "tokens": [
+    {
+      "surface": "שְׁ֭תַּיִם",
+      "gloss": "Mambo mawili"
+    },
+    {
+      "surface": "שָׁאַ֣לְתִּי",
+      "gloss": "nimewauliza"
+    },
+    {
+      "surface": "מֵאִתָּ֑ךְ",
+      "gloss": "⟨את⟩ wewe",
+      "marks": "wewe"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "usi-"
+    },
+    {
+      "surface": "תִּמְנַ֥ע",
+      "gloss": "nizibe"
+    },
+    {
+      "surface": "מִ֝מֶּ֗נִּי",
+      "gloss": "⟨nione⟩"
+    },
+    {
+      "surface": "בְּטֶ֣רֶם",
+      "gloss": "kabla"
+    },
+    {
+      "surface": "אָמֽוּת",
+      "gloss": "sijafa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:29:48.323941560Z",
+  "model": "glm-5.2"
+}

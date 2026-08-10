@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 123,
+  "translation": "Wimbo wa kupanda. Kwako nimeinua ⟨את⟩ macho yangu, ee ⟨yule anayeketi⟩ mbinguni.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wa kupanda"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kwako"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nimeinua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macho yangu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "macho yangu"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "anayeketi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mbinguni"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:01.272502452Z",
+  "model": "glm-5.2"
+}

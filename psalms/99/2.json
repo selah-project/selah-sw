@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 99,
+  "translation": "Yahweh ⟨ni⟩ mkuu katika Tsiyoni, naye ⟨ni⟩ mwenye kusimama juu ya makundi yote ya watu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "katika Tsiyoni"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "mwenye kusimama juu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "naye"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "makundi ya watu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:16.982727311Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na vyura watatoka ⟨kutoka⟩ kwako na kutoka nyumbani mwako na kutoka watumwako wako na kutoka watu wako; tu mtoni ndipo watakaposalia.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "na watatoka"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "vyura"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kutoka kwako"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "na kutoka nyumbani mwako"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "na kutoka watumwako wako"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "na kutoka watu wako"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "mtoni"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "watakaposalia"
+    }
+  ],
+  "timestamp": "2026-08-10T15:51:39.494971551Z",
+  "model": "glm-5.2"
+}

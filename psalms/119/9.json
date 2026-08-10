@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Kwa nini kijana atakataza ⟨את⟩ njia yake? Ili kuzishika kulingana na neno lako.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "kwa nini"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "atakataza"
+    },
+    {
+      "surface": "נער",
+      "gloss": "kijana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njia yake"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "njia yake"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ili kuzishika"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "kulingana na neno lako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:05.268093015Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Basi Waisraeli wote waliteremka kwa Wapelishti, kila mtu ⟨ili⟩ akolee ⟨את⟩ jembe lake na ⟨את⟩ shoka lake na ⟨את⟩ teke lake na ⟨את⟩ panga lake.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Basi waliteremka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Waisraeli"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "kwa Wa pelishti"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "⟨ili⟩ akolee"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jembe lake"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "jembe lake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "shoka lake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "shoka lake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "teke lake"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "teke lake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "panga lake"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "panga lake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:22:30.695716274Z",
+  "model": "glm-5.2"
+}

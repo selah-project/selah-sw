@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na utaweka ndani ya sanduku ⟨את⟩ ushahidi ambao nitautia mikononi mwako.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "na utaweka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndani ya"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ushahidi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ushahidi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nitautia"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "mikononi mwako"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:58.091493566Z",
+  "model": "glm-5.2"
+}

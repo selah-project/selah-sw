@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Na Davidi akiwa mzee na mstaarabu wa siku, akamfanya Shelomoh mwana wake kuwa mfalme juu ya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Na Davidi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "akiwa mzee"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "na mstaarabu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wa siku"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akamfanya mfalme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-08-10T17:58:04.048263217Z",
+  "model": "glm-5.2"
+}

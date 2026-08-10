@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Kwa matunda ya kinywa chake mtu ⟨hula⟩ chema, lakini nefesh ya wadanganyifu ⟨ni⟩ jeuri.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "Kwa matunda"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ya kinywa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "⟨hula⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chema"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "lakini nefesh"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ya wadanganyifu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "jeuri"
+    }
+  ],
+  "timestamp": "2026-08-10T13:25:17.830465113Z",
+  "model": "glm-5.2"
+}

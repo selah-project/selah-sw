@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Kwa sababu ya uonevaji wa wanyonge, kwa kugoja kwao wenye shida, sasa ni kwenye kusimama, atasema Yahweh; nitamweka ⟨kwenye⟩ wokovu atakapopumua.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "kwa uonevaji"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "wa wanyonge"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "kwa kugoja kwao"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "wenye shida"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ni kwenye kusimama"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "atasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "nitamweka"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "⟨kwenye⟩ wokovu"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "atakapopumua"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mwenye"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:32.674905816Z",
+  "model": "glm-5.2"
+}

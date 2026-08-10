@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na atachinja ⟨את⟩ ndege mmoja, ndani ya chombo cha udongo, juu ya maji yenye uhai.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "na atachinja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndege mmoja"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ndege"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndani ya"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "chombo"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "cha udongo"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yenye uhai"
+    }
+  ],
+  "timestamp": "2026-08-10T15:54:02.220117529Z",
+  "model": "glm-5.2"
+}

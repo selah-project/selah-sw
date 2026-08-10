@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 7:35",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na juu ya msingi kuna umbo la duara lenye kimo cha dira nusu, kuzunguka; na juu ya kichwa cha msingi mikono yake na mifumo yake ⟨ni⟩ kutoka kwake.",
+  "tokens": [
+    {
+      "surface": "ובראש",
+      "gloss": "na juu ya kichwa cha"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "msingi"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "nusu"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "dira"
+    },
+    {
+      "surface": "קומה",
+      "gloss": "kimo"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "la duara"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kuzunguka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa cha"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "msingi"
+    },
+    {
+      "surface": "ידתיה",
+      "gloss": "mikono yake"
+    },
+    {
+      "surface": "ומסגרתיה",
+      "gloss": "na mifumo yake"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kutoka kwake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:38:34.504405522Z",
+  "model": "glm-5.2"
+}

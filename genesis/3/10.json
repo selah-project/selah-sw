@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Akasema, \"⟨את⟩ sauti yako naisikia ⟨kwenye⟩ bustani, nikaogopa, maana mimi uchi, nikajificha.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauti yako"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "sauti yako"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "naisikia"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "⟨kwenye⟩ bustani"
+    },
+    {
+      "surface": "ו אירא",
+      "gloss": "nikaogopa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "uchi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "nikajificha"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:03.750381891Z",
+  "model": "glm-5.2"
+}

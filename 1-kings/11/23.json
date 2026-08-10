@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na Elohim akamwinulia ⟨kwa yeye⟩ mpinzani, ⟨את⟩ Rezon mwana wa Elyada, aliyekimbia ⟨את⟩ kutoka kwa Hadadezer mfalme wa Tsova, bwana wake.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "na akamwinulia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa yeye"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "mpinzani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Elyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliye"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "kimbia"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ kutoka kwa"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme wa"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bwana wake"
+    }
+  ],
+  "timestamp": "2026-08-10T16:03:00.378702988Z",
+  "model": "glm-5.2"
+}

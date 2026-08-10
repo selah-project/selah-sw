@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Telema ita-telema, nchi, kama mlevi, na ita-tetemeka kama kibanda; na maasi yake ni mazito juu yake, na itaanguka, na hai-ta-ongeza kusimama.",
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "telema"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "ita-telema"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "kama mlevi"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "na ita-tetemeka"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "kama kibanda"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "na ni mazito"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "maasi yake"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "na itaanguka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na hai-ta"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "-ongeza"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kusimama"
+    }
+  ],
+  "timestamp": "2026-08-10T11:59:50.822489095Z",
+  "model": "glm-5.2"
+}

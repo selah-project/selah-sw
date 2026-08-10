@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "⟨Wewe⟩ huweka giza, na huwa usiku; katika hilo viumbe wote wa msitu hujitambaza.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "huweka"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "giza"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na huwa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "katika hilo"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "hujitambaza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "viumbe"
+    },
+    {
+      "surface": "יער",
+      "gloss": "wa msitu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:29.888486688Z",
+  "model": "glm-5.2"
+}

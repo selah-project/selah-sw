@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Rehavam akaenda Shekemu, maana Shekemu ndiko kulisikusudi kila Yisraeli ⟨ilipokuja⟩ kumfanya mfalme ⟨את⟩ yeye.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ilikuja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "kumfanya mfalme"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T11:41:40.420631430Z",
+  "model": "glm-5.2"
+}

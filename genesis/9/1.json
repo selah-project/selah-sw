@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na Elohim alimbariki ⟨את⟩ Noachi na ⟨את⟩ wanawe, akawaambia: \"Zaleni, mkae wengi, na kujaza ⟨את⟩ nchi.\"",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Na akambariki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noachi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wanawe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Zaleni"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mkae wengi"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "na kujaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:23:29.874137532Z",
+  "model": "glm-5.2"
+}

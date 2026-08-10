@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Yehoshua akaamka asubuhi na akakaribisha ⟨את⟩ Yisra'el kwa majimbo yake; ukashikwa jimbo la Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "akaamka asubuhi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "akakaribisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "kwa majimbo yake"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ukashikwa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "jimbo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "la Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-10T11:07:22.664681874Z",
+  "model": "glm-5.2"
+}

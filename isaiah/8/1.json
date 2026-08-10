@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Yahweh akaniambia: Chukua ⟨kwa ajili yako⟩ lozi kubwa, na uandike juu yake kwa kalamu ya mwanaadamu: Machi-Shalal-Chash-Baz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akaniambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "קח",
+      "gloss": "chukua"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kwa ajili yako⟩"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "lozi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "na uandike"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "kwa kalamu"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ya mwanaadamu"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Machi"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "-Shalal-"
+    },
+    {
+      "surface": "חש",
+      "gloss": "-Chash-"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz"
+    }
+  ],
+  "timestamp": "2026-08-10T11:55:47.564532209Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na ikiwa ni minchah ya kisirage, cha kafara yako — soleti katika mafuta ⟨itafanywa⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "ya kisirage"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "cha kafara yako"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "soleti"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "katika mafuta"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "⟨itafanywa⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:39.978949152Z",
+  "model": "glm-5.2"
+}

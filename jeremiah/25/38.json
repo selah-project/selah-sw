@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 25:38",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "⟨Yeye⟩ ameacha kama simba pango lake, kwa kuwa nchi yao imekuwa ukiwa, kwa sababu ya mwasho wa ujeuri, na kwa sababu ya mwasho wa hasira yake.",
+  "tokens": [
+    {
+      "surface": "עזב",
+      "gloss": "ameacha"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "kama simba"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "pango lake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "imekuwa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nchi yao"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ukiwa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "mwasho"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "wa ujeuri"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "na kwa sababu ya"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "mwasho"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "wa hasira yake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:16:31.421463703Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Iyov akaishi baada ya haki miaka mia na arobaini, akaona ⟨את⟩ wana wake na ⟨את⟩ wana wa wana wake, vizazi vinne.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akaishi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "haki"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "mia"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na arobaini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana wake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wana wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wana wa wana wake"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wana wake"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vinne"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "vizazi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:41:32.165539514Z",
+  "model": "glm-5.2"
+}

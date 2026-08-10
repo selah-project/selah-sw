@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "⟨Atakwenda⟩ kwenye kizazi cha baba zake; hata milela hawataona nuru.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "⟨Atakwenda⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kizazi"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "cha baba zake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "milela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawata"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "nuru"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:38.035374988Z",
+  "model": "glm-5.2"
+}

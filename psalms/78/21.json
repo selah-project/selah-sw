@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Kwa hiyo Yahweh akasikia, akawasirikia, moto ukawashwa kwa Yakov, na ghadhabu pia ikapanda kwa Yisrael.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kwa hiyo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "akasikia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "akawasirikia"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "ukawashwa"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "kwa Yakov"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ghadhabu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ikapanda"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kwa Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:48.479383034Z",
+  "model": "glm-5.2"
+}

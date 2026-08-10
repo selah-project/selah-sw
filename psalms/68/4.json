@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Na wenye haki wafurahi, wajivune mbele za Elohim, na kufurahi kwa shangwe.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Na wenye haki"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "wafurahi"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "wajivune"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "na kufurahi"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "kwa shangwe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:27.580218037Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 116,
+  "translation": "Kwa sababu ameinamisha sikio lake kwangu, na siku zangu nitaliwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa sababu"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ameinamisha"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "sikio lake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "na siku zangu"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nitaliwa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:44.858445302Z",
+  "model": "glm-5.2"
+}

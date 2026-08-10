@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Hakuna ukumbusho kwa ⟨waliotangulia⟩; na hata kwa watakaofuata ambao watakuwako, hautakuwako tena ukumbusho pamoja na watakaokuwa mwishoni.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ukumbusho"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "kwa waliotangulia"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na hata"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "kwa watakaofuata"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "ambao watakuwako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hata"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "atakuwako tena"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ukumbusho"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "watakaokuwa"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "mwishoni"
+    }
+  ],
+  "timestamp": "2026-08-10T16:23:48.097660400Z",
+  "model": "glm-5.2"
+}

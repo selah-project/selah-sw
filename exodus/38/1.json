@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Akafanya ⟨את⟩ madhabahu ya sadaka ya mwali kwa mbao za mshita; dira tano urefu wake, na dira tano upana wake — ⟨ilikuwa⟩ mraba; na dira tatu kimo chake.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akafanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madhabahu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya sadaka ya mwali"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mbao"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "za mshita"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dira"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "urefu wake"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na tano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dira"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "upana wake"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "mraba"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na tatu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dira"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "kimo chake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:29:32.305747696Z",
+  "model": "glm-5.2"
+}

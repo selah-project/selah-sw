@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Macho yangu yamechoka kwa ⟨koteka⟩ wokovu wako na kwa neno la haki yako.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Macho yangu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "yamechoka"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "kwa wokovu wako"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "na kwa neno la"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "haki yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:43.766241685Z",
+  "model": "glm-5.2"
+}

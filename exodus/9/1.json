@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Yahweh akamwambia Moshe: Nenda kwa Paroh, na umwambie: Ndivyo alivyosema Yahweh, Elohim wa Waebrania: Wachilia ⟨את⟩ watu wangu, ili watoe ibada kwangu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "na umwambie"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alivyosema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Waebrania"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "wachilia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu wangu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "watu wangu"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ili watoe ibada kwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:58.791262219Z",
+  "model": "glm-5.2"
+}

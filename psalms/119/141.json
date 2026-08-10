@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Mdogo ⟨niye⟩ mimi na kupuzwa; ⟨hata hivyo⟩ maagizo yako siyakusahau.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "Mdogo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "na kupuzwa"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "maagizo yako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "yakusahau"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:49.294741952Z",
+  "model": "glm-5.2"
+}

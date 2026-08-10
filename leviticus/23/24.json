@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 23:24",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Ongea na wana wa Yisra'el, ⟨ukiwaambia⟩: Mwezi wa saba, siku ya kwanza ya mwezi, itakuwa kwenu siku ya mapumziko makubwa, ukumbusho wa kupiga kelele, ⟨ni⟩ mwito wa utakatifu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ongea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ukiwaambia⟩"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "Mwezi wa"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "saba"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "siku ya kwanza"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya mwezi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "itakuwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "siku ya mapumziko makubwa"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ukumbusho"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "wa kupiga kelele"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "mwito"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "wa utakatifu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:54:15.129386788Z",
+  "model": "glm-5.2"
+}

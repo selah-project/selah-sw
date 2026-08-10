@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 76,
+  "translation": "Kwa mwonongozaji, kwa nyimbo za kuvyumba. Zaburi ya Asafu. Wimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwonongozaji"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "kwa nyimbo za kuvyumba"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Zaburi"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asafu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Wimbo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:45.771385263Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Wakaichukua ⟨את⟩ mpaka wote wa Waemori, kutoka Arnoni hadi Yaboki, na kutoka jangwani hadi Yordani.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "Wakaichukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpaka wote wa Waemori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wa Waemori"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "kutoka Arnoni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yaboki"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na kutoka"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "jangwani"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordani"
+    }
+  ],
+  "timestamp": "2026-08-10T11:16:30.871789378Z",
+  "model": "glm-5.2"
+}

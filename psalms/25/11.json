@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Kwa ajili ya jina lako, ee Yahweh, na usamehe uovu wangu, kwa maana ni mkuu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Kwa ajili ya"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ee Yahweh"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "na usamehe"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "uovu wangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ni mkuu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huyu\/siyo"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:58.822806172Z",
+  "model": "glm-5.2"
+}

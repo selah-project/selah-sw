@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Ndege ⟨wa⟩ mbingu na samaki ⟨wa⟩ bahari, ⟨anayepita⟩ njia za bahari.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "ndege"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "na samaki"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "⟨anayepita⟩"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "njia"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "za bahari"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:09.266480122Z",
+  "model": "glm-5.2"
+}

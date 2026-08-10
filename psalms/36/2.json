@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Maneno ya nabii ⟨ni⟩ uasi wa mbaya, katika moyo wangu: hakuna hofu ya Elohim mbele ya macho yake.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "maneno ya nabii"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "uasi"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "wa mbaya"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "katika"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "hofu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "macho yake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:42.316559542Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na juu ya ⟨nafsi⟩ yoyote iliye kufa hataingia; kwa ajili ya baba yake na kwa ajili ya mama yake hatatomba.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Na juu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yoyote"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "nafsi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "iliye kufa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatataki"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "hataingia"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "kwa ajili ya baba yake"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "na kwa ajili ya mama yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatataki"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "kutomba"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:05.012586812Z",
+  "model": "glm-5.2"
+}

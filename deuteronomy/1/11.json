@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Yahweh, Elohim wa baba zenu, naawaongezeni kama mnavyo, elfu mara, na awabariki ⟨את⟩ ninyi kama alivyowaahidi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "baba zenu"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "naawaongezeni"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "juu yenu"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "kama mnavyo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mara"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "na awabariki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alivyosema"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:40:36.781046457Z",
+  "model": "glm-5.2"
+}

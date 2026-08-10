@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Mkuzeni pamoja nami Yahweh, na tukukeni jina lake pamoja.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Mkuzeni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ pamoja nami"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "na tukukeni"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamoja"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:42.402983502Z",
+  "model": "glm-5.2"
+}

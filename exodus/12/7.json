@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na watatoa kutoka damuni na kuweka juu ya nguzo mbili na juu ya linteli, juu ya nyumba ambazo watamla ⟨את⟩ ndani yake.",
+  "tokens": [
+    {
+      "surface": "וְלָֽקְחוּ֙",
+      "gloss": "Na watatoa"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "הַדָּ֔ם",
+      "gloss": "damuni"
+    },
+    {
+      "surface": "וְנָֽתְנ֛וּ",
+      "gloss": "na wataweka"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "שְׁתֵּ֥י",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "הַמְּזוּזֹ֖ת",
+      "gloss": "nguzo"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "הַמַּשְׁק֑וֹף",
+      "gloss": "linteli"
+    },
+    {
+      "surface": "עַ֚ל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הַבָּתִּ֔ים",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "יֹאכְל֥וּ",
+      "gloss": "watamla"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "yule"
+    },
+    {
+      "surface": "בָּהֶֽם",
+      "gloss": "ndani yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:46.601991612Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Paroh akageuka akaingia nyumbani kwake; wala moyo wake haukuelekea hata jambo hili.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "akageuka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwake⟩"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumbani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שת",
+      "gloss": "haukuelekea"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "jambo hili"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:32.607986238Z",
+  "model": "glm-5.2"
+}

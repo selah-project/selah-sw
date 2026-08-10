@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na mfalme akamwambia Yoabu: Tazama sasa, nimefanya ⟨את⟩ jambo hili; basi enda umrejeshe ⟨את⟩ kijana ⟨את⟩ Avishalomu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nimefanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jambo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "na enda"
+    },
+    {
+      "surface": "השב",
+      "gloss": "umrejeshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kijana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "kijana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishalomu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avishalomu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:33:16.499469638Z",
+  "model": "glm-5.2"
+}

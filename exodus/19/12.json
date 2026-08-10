@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na utaweka mpaka kwa watu pande zote, ukisema: Jichenzeni ninyi wenyewe, msipande juu ya mlima wala kugusa mpaka wake; kila anayegusa mlima atakufa kufa.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "na utaweka mpaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "pande zote"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukisema"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "jichenzeni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ninyi wenyewe"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "msipande juu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ya mlima"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "wala kugusa"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "mpaka wake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "anayegusa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mlima"
+    },
+    {
+      "surface": "מות",
+      "gloss": "atakufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "kufa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:29:53.301279559Z",
+  "model": "glm-5.2"
+}

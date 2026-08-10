@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Eli wangu, Eli wangu, kwa nini umeniacha? Ukiwa mbali na wokovu wangu, ⟨ni⟩ maneno ya kuanguka kwangu.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Eli wangu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eli wangu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kwa nini"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "umeniacha"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "Ukiwa mbali"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "na wokovu wangu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ya kuanguka kwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:34.449372684Z",
+  "model": "glm-5.2"
+}

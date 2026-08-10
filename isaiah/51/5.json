@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 51,
+  "translation": "Ukweli wangu ⟨umekaribia⟩, wokovu wangu umetoka, na mikono yangu ⟨itawahukumu⟩ watu; visiwa vitangoja, na kwa mkono wango watangoja.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "karibu"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "ukweli wangu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "umetoka"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "wokovu wangu"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "na mikono yangu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "⟨itawahukumu⟩"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "איים",
+      "gloss": "visiwa"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "vitangoja"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "mkono wango"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "watangoja"
+    }
+  ],
+  "timestamp": "2026-08-10T12:07:13.937557660Z",
+  "model": "glm-5.2"
+}

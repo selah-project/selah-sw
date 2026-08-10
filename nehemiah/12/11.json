@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na Yoyada alimzaa ⟨את⟩ Yonathani, na Yonathani alimzaa ⟨את⟩ Yadua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Na Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonathani"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonathani"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "na Yonathani"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yadua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yadua"
+    }
+  ],
+  "timestamp": "2026-08-10T14:02:26.953424630Z",
+  "model": "glm-5.2"
+}

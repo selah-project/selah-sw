@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Elohim, wewe umeyajua upumbavu wangu, na makosa yangu kutoka kwako hayajafichika.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "umeyajua"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "upumbavu wangu"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "na makosa yangu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kutoka kwako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayaja"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "fichika"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:57.130149692Z",
+  "model": "glm-5.2"
+}

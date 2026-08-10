@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Kama kivuli kinapoinama nimepita, nimefyatuliwa kama panzi.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "Kama kivuli"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "kinapoinama"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "nimepita"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "nimefyatuliwa"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "kama panzi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:45.099068942Z",
+  "model": "glm-5.2"
+}

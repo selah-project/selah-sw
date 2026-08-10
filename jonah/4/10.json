@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na Yahweh akasema: Wewe umehurumia mmea wa mkeka, ambaye haukufanya kazi juu yake wala hukuzalisha, ambaye ⟨aliwepo⟩ mwana wa usiku na mwana wa usiku akaangamia.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "umehurumia"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "mmea wa mkeka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hu-"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "kufanya kazi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hu-"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "kuzalisha"
+    },
+    {
+      "surface": "שבן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "היה",
+      "gloss": "alikuwa"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na mwana wa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "akaangamia"
+    }
+  ],
+  "timestamp": "2026-08-10T15:22:08.375184025Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Nami nitaondoa ⟨את⟩ majina ya Bawaliu kutoka kinywani mwake, wala hayatafikiriwa tena kwa jina lao.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "nami nitaondoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "majina ya Bawaliu"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "majina ya"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Bawaliu"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "kutoka kinywani mwake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "hayatafikiriwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "kwa jina lao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:20:37.294297956Z",
+  "model": "glm-5.2"
+}

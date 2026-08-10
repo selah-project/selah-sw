@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 133,
+  "translation": "Kama mafuta mema yanayoshuka juu ya kichwa, yakiteremka juu ya ndevu, ndevu za Aharon, yanayoshuka juu ya ukingo wa mavazi yake.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Kama mafuta"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "mema"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "yanayoshuka"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "ndevu"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ndevu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "za Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "yanayoshuka"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ukingo wa"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "mavazi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:45.591105543Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "mawe ya shoham na mawe za mafungilio kwa efodi na kwa choshen",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "mawe ya"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "na mawe za"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "mafungilio"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "kwa efodi"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "na kwa choshen"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:53.243869851Z",
+  "model": "glm-5.2"
+}

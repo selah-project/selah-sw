@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 12:17",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na mmtunze ⟨את⟩ mikate isiyochachuka, kwa kuwa siku hii yenyewe niliutoa ⟨את⟩ majeshi yenu kutoka nchi ya Mitsrayim; na mtashikilia ⟨את⟩ siku hii kwa vizazi vyenu, sheria ya milele.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Na mmtunze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikate isiyochachuka"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "mikate isiyochachuka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "yenyewe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "niliutoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "majeshi yenu"
+    },
+    {
+      "surface": "צבאותיכם",
+      "gloss": "majeshi yenu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kutoka nchi ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "na mtashikilia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siku hii"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "kwa vizazi vyenu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "sheria ya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:13.401705923Z",
+  "model": "glm-5.2"
+}

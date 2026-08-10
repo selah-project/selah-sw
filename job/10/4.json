@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Je, macho ya nyama una, au kama kuona ⟨kwa⟩ mwanadamu huona?",
+  "tokens": [
+    {
+      "surface": "הַעֵינֵ֣י",
+      "gloss": "Je, macho"
+    },
+    {
+      "surface": "בָשָׂ֣ר",
+      "gloss": "ya nyama"
+    },
+    {
+      "surface": "לָ֑ךְ",
+      "gloss": "una"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "au"
+    },
+    {
+      "surface": "כִּרְא֖וֹת",
+      "gloss": "kama kuona"
+    },
+    {
+      "surface": "אֱנ֣וֹשׁ",
+      "gloss": "⟨kwa⟩ mwanadamu"
+    },
+    {
+      "surface": "תִּרְאֶֽה",
+      "gloss": "huona"
+    }
+  ],
+  "timestamp": "2026-08-10T13:33:32.680213994Z",
+  "model": "glm-5.2"
+}

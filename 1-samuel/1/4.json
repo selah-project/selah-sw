@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na siku ikawa, na Elkanah akatoa dhabihu, na akampa Penina mke wake, na kwa wana wake wote na binti zake, sehemu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ikawa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "na akatoa dhabihu"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na akampa"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mke wake"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na kwa wote"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "wana wake"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "na binti zake"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "sehemu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:19:43.355592202Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Na wewe mleta karibu kwako ⟨את⟩ Aharoni kaka yako na ⟨את⟩ wanawe ⟨את⟩ pamoja naye, kutoka katikati ya wana wa Yisra'eli, ili atumie kwangu kuhani — Aharoni, Nadabu na Abihu, Elazari na Itamari, wana wa Aharoni.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wewe"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "mleta karibu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kaka yako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wanawe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pamoja naye"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kutoka katikati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "ili atumie kuhani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabu"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "na Abihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazari"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "na Itamari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "wa Aharoni"
+    }
+  ],
+  "timestamp": "2026-08-10T10:26:19.260961870Z",
+  "model": "glm-5.2"
+}

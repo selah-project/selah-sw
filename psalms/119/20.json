@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Imevunjika nefesh yako kwa tamu ⟨la⟩ hukumu zako wakati wote.",
+  "tokens": [
+    {
+      "surface": "גָּרְסָ֣ה",
+      "gloss": "Imevunjika"
+    },
+    {
+      "surface": "נַפְשִׁ֣י",
+      "gloss": "nefesh yako"
+    },
+    {
+      "surface": "לְתַאֲבָ֑ה",
+      "gloss": "kwa tamu ⟨la⟩"
+    },
+    {
+      "surface": "אֶֽל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "מִשְׁפָּטֶ֥יךָ",
+      "gloss": "hukumu zako"
+    },
+    {
+      "surface": "בְכָל",
+      "gloss": "wakati wote"
+    },
+    {
+      "surface": "עֵֽת",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:28.833137867Z",
+  "model": "glm-5.2"
+}

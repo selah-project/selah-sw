@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Na ndugu zake walimwonea wivu, baba yake akalihifadhi ⟨את⟩ ⟨sentro⟩.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "walimwonea wivu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mwingi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "na baba yake"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "akalihifadhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sentro"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sentro"
+    }
+  ],
+  "timestamp": "2026-08-10T15:50:38.174343442Z",
+  "model": "glm-5.2"
+}

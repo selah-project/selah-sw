@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 97,
+  "translation": "Wastaarabuni wote waabuduo sanamu, wajisifiao kwa miungu ya uongo — jeanshudukuni, enyi miungu yote!",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "wastaarabuni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "waabuduo"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "sanamu"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "wajisifiao"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "kwa miungu ya uongo"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "jeanshudukuni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kumshukuru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "enyi miungu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:58.487622893Z",
+  "model": "glm-5.2"
+}

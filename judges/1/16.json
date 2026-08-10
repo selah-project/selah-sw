@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 1:16",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na wana wa Mkinani, shemeji ya Moshe, walipanda kutoka mji wa mitende pamoja na ⟨את⟩ wana wa Yehuda mpaka jangwa la Yehuda, ili ipo kusini mwa Aradi; naye akaenda akaishi ⟨pamoja na⟩ ⟨את⟩ watu.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "na wana"
+    },
+    {
+      "surface": "קיני",
+      "gloss": "wa Mkinani"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "shemeji"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ya Moshe"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "walipanda"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kutoka mji"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "wa mitende"
+    },
+    {
+      "surface": "את",
+      "gloss": "pamoja na ⟨את⟩",
+      "marks": "wana wa Yehuda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehuda"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "mpaka jangwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "la Yehuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ili ipo"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "kusini mwa"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "Aradi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "naye akaenda"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akaishi"
+    },
+    {
+      "surface": "את",
+      "gloss": "pamoja na ⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:12:38.564908984Z",
+  "model": "glm-5.2"
+}

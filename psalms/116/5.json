@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 116,
+  "translation": "Mwenye huruma ⟨ni⟩ Yahweh na mwema, na Elohim yetu ⟨ni⟩ mwenye kurehemu.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Mwenye huruma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "na mwema"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "na Elohim yetu"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mwenye kurehemu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:44.910718892Z",
+  "model": "glm-5.2"
+}

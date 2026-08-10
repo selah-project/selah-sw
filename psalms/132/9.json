@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 132,
+  "translation": "Makuhani wako na wavae haki, na wachamungu wako na waimbe kwa shangwe.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "makuhani wako"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "na wavae"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "haki"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "na wachamungu wako"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "na waimbe kwa shangwe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:49.116290813Z",
+  "model": "glm-5.2"
+}

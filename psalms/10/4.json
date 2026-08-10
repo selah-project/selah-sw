@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Mwovu, kwa kiburi cha uso wake, hamtafuti ⟨Mungu⟩; hakuna Elohim katika mipango yake yote.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Mwovu"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "kwa kiburi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "cha uso wake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ha—"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "—mtafuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "katika … yote"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "mipango yake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:56.160666430Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Usiwatamani waovu, wala usitamai kuwa ⟨pamoja⟩ na ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usi-"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "watamani"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "wa-"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wala usi-"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "tamai"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pamoja nao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:28:35.049423267Z",
+  "model": "glm-5.2"
+}

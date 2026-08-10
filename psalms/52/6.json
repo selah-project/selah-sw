@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 52,
+  "translation": "Umezipenda kauli zote za mateka, ulimi wa udanganyifu.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "umezipenda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kauli"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "za mateka"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ulimi"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "wa udanganyifu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:12.485835717Z",
+  "model": "glm-5.2"
+}

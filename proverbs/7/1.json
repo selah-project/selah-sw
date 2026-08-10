@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Mwanangu, shimaza maneno yangu, na amri zang uvihifadhi ⟨את⟩ ⟨pamoja⟩ nawe.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwanangu"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "shimaza"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "maneno yangu"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "na amri zangu"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "uvihifadhi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨pamoja⟩ nawe",
+      "marks": "⟨pamoja⟩ nawe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:23:33.859083968Z",
+  "model": "glm-5.2"
+}

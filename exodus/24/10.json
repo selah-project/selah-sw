@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Nao wakaona ⟨את⟩ Elohim wa Yisraeli; na chini ya miguu yake ⟨kulikuwa⟩ kama kazi ya tilingo la safiri, na kama yeye mwenyewe wa mbingu kwa usafi.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "nayo wakaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "na chini ya"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "miguu yake"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "kama kazi ya"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "tilingo la"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "safiri"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "na kama yeye mwenyewe wa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "kwa usafi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:39.583817374Z",
+  "model": "glm-5.2"
+}

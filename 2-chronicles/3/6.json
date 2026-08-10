@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na akapamba ⟨את⟩ nyumba kwa mawe ya thamani kwa mapambo, na dhahabu ⟨ilokuwa⟩ dhahabu ya Parvaim.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "na akapamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "mawe"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "ya thamani"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "kwa mapambo"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "na dhahabu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "ya Parvaim"
+    }
+  ],
+  "timestamp": "2026-08-10T14:12:52.746927522Z",
+  "model": "glm-5.2"
+}

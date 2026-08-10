@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Naye akamwambia Elisha: «Chukua uta na mishale.» Naye akamchukulia uta na mishale.",
+  "tokens": [
+    {
+      "surface": "ואמר לו אלישע",
+      "gloss": "Naye akamwambia Elisha"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Chukua"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "na mishale"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "Naye akamchukulia"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "na mishale"
+    }
+  ],
+  "timestamp": "2026-08-10T11:49:09.105420358Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na wataiaminisha ⟨ndani yako⟩ wanaojua jina lako, kwa maana huwakasi wanaokutafuta wewe, ee Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "Na wataiaminisha"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨ndani yako⟩"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "wanaojua"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "huwakasi"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "wanaokutafuta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:16.266031159Z",
+  "model": "glm-5.2"
+}

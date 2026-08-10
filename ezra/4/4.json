@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Ikawa watu wa nchi wanalegeza mikono ya watu wa Yehudah, na kuwavuruga katika kujenga ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "וַיְהִי֙",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "הָאָ֔רֶץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "מְרַפִּ֖ים",
+      "gloss": "wanalegeza"
+    },
+    {
+      "surface": "יְדֵ֣י",
+      "gloss": "mikono"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "יְהוּדָ֑ה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "na kuwavuruga"
+    },
+    {
+      "surface": "אוֹתָ֖ם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "לִבְנֽוֹת",
+      "gloss": "katika kujenga"
+    }
+  ],
+  "timestamp": "2026-08-10T15:40:20.432985260Z",
+  "model": "glm-5.2"
+}

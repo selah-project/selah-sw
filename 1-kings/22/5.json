@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Akasema Yehoshafati kwa mfalme wa Yisrael: «Tafuta, tafadhali, leo ⟨את⟩ neno la Yahweh.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akasema"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Tafuta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "leo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neno"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T11:45:23.120679943Z",
+  "model": "glm-5.2"
+}

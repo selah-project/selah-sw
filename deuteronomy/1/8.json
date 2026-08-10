@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Tazameni, nimeiiweka ⟨את⟩ nchi mbele yenu; kwenyeni, na irithini ⟨את⟩ ⟨⟨את⟩⟩ nchi ambayo Yahweh aliapa kwa baba zenu, kwa Avraham, kwa Yitschak, na kwa Ya'akov, kuwapa wao na mzao wao baada yao.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "tazameni"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nimeiiweka"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mbele yenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kwenyeni"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "na irithini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "aliapa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "kwa baba zenu"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kwa Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kwa Yitschak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "na kwa Ya'akov"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuwapa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "na mzao wao"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "baada yao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:53:53.059105723Z",
+  "model": "glm-5.2"
+}

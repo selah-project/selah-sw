@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 86,
+  "translation": "Maombi ya David. Tia ea^Yahweh, uasikie, ujinie, kwa kuwa mimi ni maskini na mhitaji, mimi.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Maombi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Tia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ea^"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "uasikie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mimi ni maskini"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na mhitaji"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:01.166646668Z",
+  "model": "glm-5.2"
+}

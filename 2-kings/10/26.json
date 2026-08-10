@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Wakatoa ⟨את⟩ nguzo za nyumba ya Baali, wakaiziteketeza.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "wakatoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguzo za nyumba ya Baali"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "nguzo za"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baali"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "wakaiziteketeza"
+    }
+  ],
+  "timestamp": "2026-08-10T11:47:38.554814912Z",
+  "model": "glm-5.2"
+}

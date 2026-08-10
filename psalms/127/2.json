@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 127,
+  "translation": "Bure kwa ninyi, enyi waamkao mapema kuchwa, kuchelewa kukaa, kula mkate wa maudhi; vivyo hivo Yeye hupeana usingizi kwa mpendwa wake.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "bure"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa ninyi"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "waamkao mapema"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kuchwa"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "kuchelewa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "kukaa"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "kula"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "wa maudhi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Yeye hupeana"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "kwa mpendwa wake"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "usingizi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:29.787103925Z",
+  "model": "glm-5.2"
+}

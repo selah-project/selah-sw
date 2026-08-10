@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Wenye njaa na tena wenye kiu, nefesh yao ndani yao hufifia.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "wenye njaa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na tena"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "wenye kiu"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nefesh yao"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ndani yao"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "hufifia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:43.519967778Z",
+  "model": "glm-5.2"
+}

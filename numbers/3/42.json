@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Akawahesabu Moshe kama vile alivyomwagiza Yahweh ⟨את⟩ kila mzaliwa wa kwanza miongoni mwa wana wa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Akawahesabu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama vile"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alivyomwagiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ aye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kila mzaliwa wa kwanza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "mzaliwa wa kwanza"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "miongoni mwa wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:12.249895764Z",
+  "model": "glm-5.2"
+}

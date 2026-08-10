@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Lugha yango itaimba neno lako, kwa kuwa amri zako zote ⟨ni⟩ haki.",
+  "tokens": [
+    {
+      "surface": "תַּ֣עַן",
+      "gloss": "itaimba"
+    },
+    {
+      "surface": "לְ֭שׁוֹנִי",
+      "gloss": "lugha yango"
+    },
+    {
+      "surface": "אִמְרָתֶ֑ךָ",
+      "gloss": "neno lako"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "מִצְוֺתֶ֣יךָ",
+      "gloss": "amri zako"
+    },
+    {
+      "surface": "צֶּֽדֶק",
+      "gloss": "haki"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:51.421844115Z",
+  "model": "glm-5.2"
+}

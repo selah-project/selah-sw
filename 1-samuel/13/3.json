@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na Yonathan akampiga ⟨את⟩ kituo cha Waplishti kilichokuwa huko Geva, na Waplishti wakasikia; na Shaul akapiga tarumbeta katika nchi yote, akisema, Wasikie Wayahudi.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "na akampiga"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonathan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kituo"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "kituo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "cha Waplishti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kilichokuwa"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "huko Geva"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "na wakasikia"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Waplishti"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Shaul"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "akapiga"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "tarumbeta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "wasikie"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Waisraeli"
+    }
+  ],
+  "timestamp": "2026-08-10T11:22:54.658509130Z",
+  "model": "glm-5.2"
+}

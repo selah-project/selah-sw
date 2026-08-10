@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Moshe akachukua ⟨את⟩ fimbo mbele za Yahweh, kama alivyoamrisha.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akachukua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fimbo"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "fimbo"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "alivyoamrisha"
+    }
+  ],
+  "timestamp": "2026-08-10T17:44:00.422454453Z",
+  "model": "glm-5.2"
+}

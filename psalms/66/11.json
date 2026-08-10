@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 66,
+  "translation": "Ulituingiza katika mtego, uliweka dhiki juu ya viuno vyetu.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "Ulituingiza"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "katika mtego"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "uliweka"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "dhiki"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "juu ya viuno vyetu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:25.678764481Z",
+  "model": "glm-5.2"
+}

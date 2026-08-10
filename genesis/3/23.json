@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Basi Yahweh Elohim akamtuma mbali kutoka bustani ya Eden, ⟨ili⟩ alime ⟨את⟩ ardhi ambayo alitwalwa kutoka humo.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "akamtuma mbali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kutoka bustani"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ya Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "alime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ardhi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ardhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "alitwalwa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kutoka humo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:44.320409908Z",
+  "model": "glm-5.2"
+}

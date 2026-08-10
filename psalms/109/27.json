@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Na wajue ya kuwa hii ⟨ni⟩ mkono wako; wewe, Yahweh, ⟨ndiwe⟩ uliyefanya ⟨hivyo⟩.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Na wajue"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kuwa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mkono wako"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hii"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "uliyefanya"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:58.220234922Z",
+  "model": "glm-5.2"
+}

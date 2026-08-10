@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Maana amri juu ya amri, amri juu ya amri, katu juu ya katu, katu juu ya katu, kidogo hapa, kidogo pale.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maana"
+    },
+    {
+      "surface": "צו",
+      "gloss": "amri"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "juu ya amri"
+    },
+    {
+      "surface": "צו",
+      "gloss": "amri"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "juu ya amri"
+    },
+    {
+      "surface": "קו",
+      "gloss": "katu"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "juu ya katu"
+    },
+    {
+      "surface": "קו",
+      "gloss": "katu"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "juu ya katu"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "kidogo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hapa"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "kidogo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pale"
+    }
+  ],
+  "timestamp": "2026-08-10T11:59:59.603594577Z",
+  "model": "glm-5.2"
+}

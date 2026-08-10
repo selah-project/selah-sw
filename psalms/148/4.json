@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 148,
+  "translation": "Msifuni ⟨yeye⟩, enyi mbingu za mbingu, na ⟨enyi⟩ maji ⟨aliyo⟩ juu ya mbingu.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mbingu za"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "na maji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:08.104841727Z",
+  "model": "glm-5.2"
+}

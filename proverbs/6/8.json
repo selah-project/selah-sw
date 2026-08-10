@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "inaandaa chakula chake kiangazi, inavuna chakula chake wakati wa mavuno.",
+  "tokens": [
+    {
+      "surface": "תָּכִ֣ין",
+      "gloss": "inaandaa"
+    },
+    {
+      "surface": "בַּקַּ֣יִץ",
+      "gloss": "kiangazi"
+    },
+    {
+      "surface": "לַחְמָ֑הּ",
+      "gloss": "chakula chake"
+    },
+    {
+      "surface": "אָגְרָ֥ה",
+      "gloss": "inavuna"
+    },
+    {
+      "surface": "בַּ֝קָּצִ֗יר",
+      "gloss": "wakati wa mavuno"
+    },
+    {
+      "surface": "מַאֲכָלָֽהּ",
+      "gloss": "chakula chake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:23:14.547806850Z",
+  "model": "glm-5.2"
+}

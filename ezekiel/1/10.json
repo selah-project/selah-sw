@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na umbo la nyuso zao ⟨ni⟩ uso wa adamu, na uso wa simba kwa upande wa kulia kwa wao wote wane, na uso wa ng'ombe kwa upande wa kushoto kwa wao wote wane, na uso wa tai kwa wao wote wane",
+  "tokens": [
+    {
+      "surface": "וּדְמ֣וּת",
+      "gloss": "Na umbo"
+    },
+    {
+      "surface": "פְּנֵיהֶם֮",
+      "gloss": "la nyuso zao"
+    },
+    {
+      "surface": "פְּנֵ֣י",
+      "gloss": "uso"
+    },
+    {
+      "surface": "אָדָם֒",
+      "gloss": "wa adamu"
+    },
+    {
+      "surface": "וּפְנֵ֨י",
+      "gloss": "na uso"
+    },
+    {
+      "surface": "אַרְיֵ֤ה",
+      "gloss": "wa simba"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הַיָּמִין֙",
+      "gloss": "upande wa kulia"
+    },
+    {
+      "surface": "לְאַרְבַּעְתָּ֔ם",
+      "gloss": "kwa wao wote wane"
+    },
+    {
+      "surface": "וּפְנֵ֥י",
+      "gloss": "na uso"
+    },
+    {
+      "surface": "שׁ֥וֹר",
+      "gloss": "wa ng'ombe"
+    },
+    {
+      "surface": "מֵֽהַשְּׂמֹ֖אול",
+      "gloss": "kwa upande wa kushoto"
+    },
+    {
+      "surface": "לְאַרְבַּעְתָּ֑ן",
+      "gloss": "kwa wao wote wane"
+    },
+    {
+      "surface": "וּפְנֵ֖י",
+      "gloss": "na uso"
+    },
+    {
+      "surface": "נֶ֖שֶׁר",
+      "gloss": "wa tai"
+    },
+    {
+      "surface": "לְאַרְבַּעְתָּֽן",
+      "gloss": "kwa wao wote wane"
+    }
+  ],
+  "timestamp": "2026-08-10T12:26:06.454933996Z",
+  "model": "glm-5.2"
+}

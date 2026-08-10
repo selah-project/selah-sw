@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Kwa maana siku nyingi wana wa Yisrael watakaa bila mfalme, na bila mzee, na bila dhabihu, na bila nguzo, na bila efodi na terafimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nyingi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "watakaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bila"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na bila"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mzee"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na bila"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "dhabihu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na bila"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "nguzo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na bila"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "na terafimu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:41:22.353637355Z",
+  "model": "glm-5.2"
+}

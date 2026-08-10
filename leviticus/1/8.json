@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na wana wa Aharon makuhani watapanga ⟨את⟩ vipande, ⟨את⟩ kichwa, na ⟨את⟩ mafuta, juu ya kuni ambazo ⟨ziko⟩ juu ya moto ambao ⟨uko⟩ juu ya altare.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "Na watapanga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "wa Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "makuhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vipande"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "vipande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kichwa"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    }
+  ],
+  "timestamp": "2026-08-10T15:53:18.529315666Z",
+  "model": "glm-5.2"
+}

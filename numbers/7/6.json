@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Akachukua Moshe ⟨את⟩ magari na ⟨את⟩ ng'ombe, akawapa ⟨את⟩ hao kwa Walawi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akachukua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magari"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "magari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akawapa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hao",
+      "marks": "hao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Walawi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:41:16.479722655Z",
+  "model": "glm-5.2"
+}

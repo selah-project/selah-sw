@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Wewe u ⟨ndiye⟩ maficho yangu; kutoka shida utanihifadhi; na nyimbo za kuokoka utazunguka nayo. Sela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wewe"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "maficho"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yangu"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "kutoka shida"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "utanihifadhi"
+    },
+    {
+      "surface": "רני",
+      "gloss": "na nyimbo"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "za kuokoka"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "utazunguka nayo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:00.787362909Z",
+  "model": "glm-5.2"
+}

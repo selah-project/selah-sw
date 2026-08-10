@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Kwa mwonongozi, Zaburi ya David. Elohim wa sifa yangu, usikimamé.",
+  "tokens": [
+    {
+      "surface": "לַ֭מְנַצֵּחַ",
+      "gloss": "Kwa mwonongozi"
+    },
+    {
+      "surface": "לְדָוִ֣ד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "מִזְמ֑וֹר",
+      "gloss": "Zaburi"
+    },
+    {
+      "surface": "אֱלֹהֵ֥י",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "תְ֝הִלָּתִ֗י",
+      "gloss": "sifa yangu"
+    },
+    {
+      "surface": "אַֽל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תֶּחֱרַֽשׁ",
+      "gloss": "kimamé"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:01.324949588Z",
+  "model": "glm-5.2"
+}

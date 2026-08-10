@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Kwanini ulisema: ⟨Huyu ni⟩ dada yangu? Hata nikamchukua ⟨yeye⟩ kuwa mke wangu. Na sasa, tazama, mkeo — chukua ⟨yeye⟩ na uende.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kwanini"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ulisema"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "dada yangu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Huyu ni⟩"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "Hata nikamchukua"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨yeye⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kuwa mke"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Na sasa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "mkeo"
+    },
+    {
+      "surface": "קח",
+      "gloss": "chukua"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "na uende"
+    }
+  ],
+  "timestamp": "2026-08-10T10:04:28.263753690Z",
+  "model": "glm-5.2"
+}

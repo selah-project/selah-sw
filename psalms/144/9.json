@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 144,
+  "translation": "Elohim, wimbo mpya nitaimba kwako; kwa kinanda cha nyuzi kumi nitakwenda kwako.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mpya"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "nitaimba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "kwa kinanda"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "cha nyuzi kumi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nitakwenda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:50.530477554Z",
+  "model": "glm-5.2"
+}

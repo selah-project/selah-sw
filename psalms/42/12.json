@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Mbona unainama, nafsi yangu, na mbona unanguruma juu yangu? Subiri kwa Elohim, kwa maana bado nitamtukuzia ⟨yeye⟩; ⟨yeye ni⟩ wokovu wa uso wangu, na Elohim wangu.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mbona"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "unainama"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na mbona"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "unanguruma"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Subiri"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bado"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "nitamtukuzia"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "wokovu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wa uso wangu"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "na Elohim wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:12.254556118Z",
+  "model": "glm-5.2"
+}

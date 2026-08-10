@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na Moshe akasema mbele za Yahweh, akisema: «Tazama, wana wa Yisra'eli hawakusikiliza mimi; na vipi atani sikiliza Paroh? Na mimi ni mwenye masikio mazito ya midomo?»",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "הן",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawa-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "-kusikiliza"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "na vipi"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "atani-sikiliza"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na mimi"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "mwenye ... mazito ya"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "midodo"
+    }
+  ],
+  "timestamp": "2026-08-10T14:28:09.533396373Z",
+  "model": "glm-5.2"
+}

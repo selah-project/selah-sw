@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Yahweh ⟨ni⟩ mwamba wangu, na ngome yangu, na mweokoa wangu; El wangu, mwamba wangu, nitakimbilia kwake, ngao yangu, na pembe ya wokovu wangu, mbega yangu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mwamba wangu"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "na ngome yangu"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "na mweokoa wangu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El wangu"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mwamba wangu"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "nitakimbilia"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ngao yangu"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "na pembe"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ya wokovu wangu"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mbega yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:36.777840986Z",
+  "model": "glm-5.2"
+}

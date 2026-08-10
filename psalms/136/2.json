@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 136,
+  "translation": "Mshukuru Elohim wa miungu, maana chesed chake ⟨hudumu⟩ milele.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Mshukuru"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "miungu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed chake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:40.662551139Z",
+  "model": "glm-5.2"
+}

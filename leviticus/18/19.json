@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 18:19",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na ⟨kwa⟩ mwanamke katika kutengwa kwake cha uchafu wake, hutaki kukaribia kufunua uchi wake.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Na ⟨kwa⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "בנדת",
+      "gloss": "katika kutengwa kwake"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "cha uchafu wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hutaki"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "kukaribia"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "kufunua"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "uchi wake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:35:28.679590630Z",
+  "model": "glm-5.2"
+}

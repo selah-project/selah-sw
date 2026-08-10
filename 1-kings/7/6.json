@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na ⟨את⟩ ukumbi wa nguzo aliumba dhiriba hamsini urefu wake, na dhiriba thelathini upana wake; na ukumbi ⟨uli⟩ mbele yao, na nguzo na kando kubwa mbele yao.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ukumbi"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ukumbi"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "wa nguzo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aliumba"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "hamsini"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dhiriba"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "urefu wake"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na thelathini"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dhiriba"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "upana wake"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "na ukumbi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbele"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "yao"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "na nguzo"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "na kando kubwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbele"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "yao"
+    }
+  ],
+  "timestamp": "2026-08-10T11:39:35.280479549Z",
+  "model": "glm-5.2"
+}

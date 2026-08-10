@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 37:26",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Siku nzima ⟨huonyesha⟩ fadhili na kukopesha, na mzao wake ⟨huwa⟩ ⟨kwa⟩ baraka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nzima"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "⟨huonyesha⟩ fadhili"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "na kukopesha"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "na mzao wake"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "⟨kwa⟩ baraka"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:21.753161267Z",
+  "model": "glm-5.2"
+}

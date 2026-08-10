@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Ole wenu wachungaji wa kuangamiza na kuwatawanya ⟨את⟩ kundi la wanyama wachungoni mwangu, neno la Yahweh.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ole wenu"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "wachungaji"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "wa kuangamisha"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "na kuwatawanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kundi la wanyama wachungoni"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kundi la wanyama wachungoni"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "wachungoni mwangu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neno la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T12:16:10.882111056Z",
+  "model": "glm-5.2"
+}

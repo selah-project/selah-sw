@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 10:19",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na akasema, Msiogope, wewe mtu anayependwa! Amani iwe nawe; kuwa imara, naam, kuwa imara! Na aliponena nami nilijimarisha, nikasema, Abwanaangu niseme; kwa maana umeniimarisha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "msiogope"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "anayependwa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "amani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe nawe"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuwa imara"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "naam, kuwa imara"
+    },
+    {
+      "surface": "ובדברו",
+      "gloss": "na aliponena"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "התחזקתי",
+      "gloss": "nilijimarisha"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "nikasema"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "Abwanaangu niseme"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "—"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "חזקתני",
+      "gloss": "umeniimarisha"
+    }
+  ],
+  "timestamp": "2026-08-10T13:55:30.212373546Z",
+  "model": "glm-5.2"
+}

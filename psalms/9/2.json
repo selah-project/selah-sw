@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Nitatukuza, Yahweh, kwa moyo wangu wote; nitasimulia ajabu zako zote.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "nitatukuza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa ... wote"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "nitasimulia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ajabu zako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:18.410633549Z",
+  "model": "glm-5.2"
+}

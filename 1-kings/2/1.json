@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Siku za David zikakaribia kufa, naye akamrishia ⟨את⟩ Shelomoh mwanae, ⟨akisema⟩:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "zikakaribia"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "siku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "za David"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "naye akamrishia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanae"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    }
+  ],
+  "timestamp": "2026-08-10T11:38:05.637699490Z",
+  "model": "glm-5.2"
+}

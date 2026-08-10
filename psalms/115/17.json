@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 115,
+  "translation": "Si wafuallahimtukuza Yah, wala si wote washukao kwenye kifaa cha ukimya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Si"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "wafu"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "huita\/sifuni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "washukao"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "ukimya"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:15.425260110Z",
+  "model": "glm-5.2"
+}

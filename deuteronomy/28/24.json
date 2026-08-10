@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Yahweh atatoa ⟨את⟩ mvua ya nchi yako kuwa ivumbi na mavumbi; kutoka mbinguni itashuka juu yako hadi uharijwe kabisa.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "atatoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mvua"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "mvua"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ya nchi yako"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "kuwa ivumbi"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "na mavumbi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbinguni"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "itashuka"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "juu yako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "uharijwe kabisa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:02:20.698107990Z",
+  "model": "glm-5.2"
+}

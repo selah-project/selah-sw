@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 2:17",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na kiburi cha mtu kitaushwa chini, na kimo cha wanadamu kishushwa; na Yahweh peke yake atainuliwa siku hiyo.",
+  "tokens": [
+    {
+      "surface": "ושח",
+      "gloss": "na kutaushwa chini"
+    },
+    {
+      "surface": "גבהות",
+      "gloss": "kiburi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "cha mtu"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "na kushushwa"
+    },
+    {
+      "surface": "רום",
+      "gloss": "kimo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "cha wanadamu"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "na kutainuliwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "peke yake"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:03:45.332859647Z",
+  "model": "glm-5.2"
+}

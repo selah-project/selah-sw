@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Naye Uriya alilala mlangoni pa nyumba ya mfalme, ⟨pamoja na⟩ ⟨את⟩ watumishi wote wa bwana wake, wala hakushuka kwenda nyumbani kwake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "akalala"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mlangoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watumishi wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "watumishi"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bwana wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hakushuka"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "kwenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenda"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumbani kwake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:31:32.506889133Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Yahweh akatupa upepo mkubwa ⟨kuelekea⟩ baharini, ikawa dhoruba kubwa baharini, nayo⟨ni⟩ chombo kiliwaza kuvunjika.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yahweh"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "akatupa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "upepo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mkubwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kuelekea⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "baharini"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "סער",
+      "gloss": "dhoruba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "בים",
+      "gloss": "baharini"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "nayo⟨ni⟩ chombo"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "kiliwaza"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "kuvunjika"
+    }
+  ],
+  "timestamp": "2026-08-10T16:15:20.225180403Z",
+  "model": "glm-5.2"
+}

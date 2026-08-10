@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 8:23",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Gidhoni akawaambia: «Siyi kutowataka mimi wala mwanao hatawatawala ninyi; Yahweh ndiye atakayewatawala ninyi.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidhoni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "siyi"
+    },
+    {
+      "surface": "אמשל",
+      "gloss": "kutowataka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ninyi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala siyo"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "atakaatawala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanao"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ninyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "atakaatawala"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ninyi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:15:13.105888822Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Kwa maana mimi Yahweh, sikubadilika; nanyi, enyi wana wa Ya'akov, hamjakamilika ⟨kuangamia⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "kubadilika"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "nanyi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamja"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "kakamilika ⟨kuangamia⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:49.415355293Z",
+  "model": "glm-5.2"
+}

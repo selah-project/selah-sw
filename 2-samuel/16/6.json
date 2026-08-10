@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na akavitupa mawe kwa ⟨את⟩ David na ⟨את⟩ watumishi wote wa mfalme David; na watu wote na mashujaa wote ⟨walikuwa⟩ mkono wake wa kulia na mkono wake wa kushoto.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "na akavitupa"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "mawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "watumishi wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "watumishi wa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "mashujaa"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "mkono wake wa kulia"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "na mkono wake wa kushoto"
+    }
+  ],
+  "timestamp": "2026-08-10T14:57:04.375250347Z",
+  "model": "glm-5.2"
+}

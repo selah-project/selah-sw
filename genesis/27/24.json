@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Akasema: Wewe u ⟨ni⟩ mwanangu Esav? Naye akasema: Mimi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "huyu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanangu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mimi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:08:03.854392486Z",
+  "model": "glm-5.2"
+}

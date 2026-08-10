@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Ya David. Kwako, Yahweh, ninaliita; mwamba wangu, usinyame kutoka kwangu, usije ukanyamaza kutoka kwangu, nami nikafananishwa na washushao ⟨kwenye⟩ shimo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kwako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ninaliita"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mwamba wangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "nyame"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kutoka kwangu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "usije"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "ukanyamaza"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kutoka kwangu"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "nami nikafananishwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "washushao"
+    },
+    {
+      "surface": "בור",
+      "gloss": "shimo"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:06.423904353Z",
+  "model": "glm-5.2"
+}

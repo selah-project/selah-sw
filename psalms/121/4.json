@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 121,
+  "translation": "Angalia, hasilali wala hawalali mlinzi wa Yisrael.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "angalia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "silali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hawa"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "walali"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "mlinzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:00.989121384Z",
+  "model": "glm-5.2"
+}

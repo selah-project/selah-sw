@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Kutoka kwa Yahweh hatua za mtu huwekwa imara, na njia yake ⟨yeye⟩ hun pendea.",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "kutoka kwa Yahweh"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "hatua za"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "huwekwa imara"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "na njia yake"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "hupendea"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:00.052454333Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Ikawa katika kumwinua Yahweh ⟨את⟩ Eliyahu katika dhoruba ⟨ya⟩ mbingu, naye Eliyahu akaenda pamoja na Elisha kutoka ha-Gilgal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ikawa"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "katika kumwinua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "katika dhoruba"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ya mbingu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "naye akaenda"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "pamoja na Elisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ha-Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-10T11:46:03.072623610Z",
+  "model": "glm-5.2"
+}

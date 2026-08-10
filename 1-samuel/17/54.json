@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Na David akaichukua ⟨את⟩ kichwa cha Mpelishti, akakileta Yerushalayim; na ⟨את⟩ silaha zake akaziweka ⟨kwenye⟩ hema lake.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "na akaichukua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kichwa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "cha Mpelishti"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "akakileta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "silaha zake"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "silaha zake"
+    },
+    {
+      "surface": "שם",
+      "gloss": "akaziweka"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "hema lake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:24:46.301380710Z",
+  "model": "glm-5.2"
+}

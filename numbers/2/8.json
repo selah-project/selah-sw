@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na jeshi lake, na waliohesabiwa wake, ⟨ni⟩ elfu hamsini na saba na mia nne.",
+  "tokens": [
+    {
+      "surface": "וּצְבָא֖וֹ",
+      "gloss": "Na jeshi lake"
+    },
+    {
+      "surface": "וּפְקֻדָ֑יו",
+      "gloss": "na waliohesabiwa wake"
+    },
+    {
+      "surface": "שִׁבְעָ֧ה",
+      "gloss": "saba"
+    },
+    {
+      "surface": "וַחֲמִשִּׁ֛ים",
+      "gloss": "na hamsini"
+    },
+    {
+      "surface": "אֶ֖לֶף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "וְאַרְבַ֥ע",
+      "gloss": "na nne"
+    },
+    {
+      "surface": "מֵאֽוֹת",
+      "gloss": "mia"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:00.948770837Z",
+  "model": "glm-5.2"
+}

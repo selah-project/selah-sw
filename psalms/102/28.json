@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Wewe ndiwe yule, na miaka yako haitakamilika.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Wewe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiwe yule"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "na miaka yako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haita"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "kamilika"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:08.818121329Z",
+  "model": "glm-5.2"
+}

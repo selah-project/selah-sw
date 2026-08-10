@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Watumishi wa mfalme Chizkiyahu wakaenda kwa Yeshayahu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "wakaenda"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "watumishi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mfalme"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:51:40.863632164Z",
+  "model": "glm-5.2"
+}

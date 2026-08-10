@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 30:9",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na Yahweh Elohim wako atakutia ziada katika kazi yote ya mikono yako, katika tunda ya tumbo lako, na katika tunda ya mifugo yako, na katika tunda ya ardhi yako, kwa jema; maana Yahweh atarudi kufurahia juu yako kwa jema, kama alivyofurahia juu ya baba zako.",
+  "tokens": [
+    {
+      "surface": "והותירך",
+      "gloss": "na-atakutia ziada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika kazi yote"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ya mikono yako"
+    },
+    {
+      "surface": "בפרי",
+      "gloss": "katika tunda"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ya tumbo lako"
+    },
+    {
+      "surface": "ובפרי",
+      "gloss": "na katika tunda"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "ya mifugo yako"
+    },
+    {
+      "surface": "ובפרי",
+      "gloss": "na katika tunda"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ya ardhi yako"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "kwa jema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "atarudi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשוש",
+      "gloss": "kufurahia"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "juu yako"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "kwa jema"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "שש",
+      "gloss": "alivyofurahia"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "ya baba zako"
+    }
+  ],
+  "timestamp": "2026-08-10T11:03:18.807169811Z",
+  "model": "glm-5.2"
+}

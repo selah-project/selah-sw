@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 103,
+  "translation": "⟨Yeye⟩ anayemsamehe dhambi zako zote, anayekuropa magonjwa yako yote.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "anayemsamehe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "dhambi zako"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "anayekuropa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "magonjwa yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:59.075271451Z",
+  "model": "glm-5.2"
+}

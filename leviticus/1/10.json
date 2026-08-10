@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na ikiwa dhabihu yake ni kutoka kwa kondoo, au kutoka kwa mbuzi, kwa sadaka ya kuchomwa, dume timilifu atamkarimsha.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na ikiwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka kwa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kondoo"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "dhabihu yake"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka kwa"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "kondoo"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka kwa"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "mbuzi"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "kwa sadaka ya kuchomwa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "dume"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "timilifu"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "atamkarimsha"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:44.420530913Z",
+  "model": "glm-5.2"
+}

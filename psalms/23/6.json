@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Hakika wema na chesed watanifuata siku zote za uhai wangu, nami nitakaa katika nyumba ya Yahweh kwa muda mrefu wa siku.",
+  "tokens": [
+    {
+      "surface": "אַ֤ךְ",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "ט֤וֹב",
+      "gloss": "wema"
+    },
+    {
+      "surface": "וָחֶ֣סֶד",
+      "gloss": "na chesed"
+    },
+    {
+      "surface": "יִ֭רְדְּפוּנִי",
+      "gloss": "watanifuata"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "siku zote"
+    },
+    {
+      "surface": "יְמֵ֣י",
+      "gloss": "za"
+    },
+    {
+      "surface": "חַיָּ֑י",
+      "gloss": "uhai wangu"
+    },
+    {
+      "surface": "וְשַׁבְתִּ֥י",
+      "gloss": "nami nitakaa"
+    },
+    {
+      "surface": "בְּבֵית",
+      "gloss": "katika nyumba"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "לְאֹ֣רֶךְ",
+      "gloss": "kwa muda mrefu"
+    },
+    {
+      "surface": "יָמִֽים",
+      "gloss": "wa siku"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:59.328180052Z",
+  "model": "glm-5.2"
+}

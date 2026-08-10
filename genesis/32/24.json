@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Akawachukua, akawapitisha ⟨את⟩ pamoja na mto, akapitisha ⟨את⟩ vilivyokuwa vyake.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "akawachukua"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "akawapitisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mto"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "mto"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "akapitisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vilivyokuwa vyake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilivyokuwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vyake"
+    }
+  ],
+  "timestamp": "2026-08-10T18:27:45.504066958Z",
+  "model": "glm-5.2"
+}

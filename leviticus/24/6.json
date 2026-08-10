@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na utaziweka ⟨אתה⟩ safu mbili, sita kwa safu, juu ya meza safi mbele za Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "na utaziweka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתה⟩",
+      "marks": "safu mbili"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "safu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sita"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "kwa safu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "safi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:36.853244343Z",
+  "model": "glm-5.2"
+}

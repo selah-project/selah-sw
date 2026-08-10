@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Akatoa amri Avimeleki ⟨kwa⟩ watu wote, akisema: «Atakayegusa mtu huyu au mke wake, kuuawa atauawa.»",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Akatoa amri"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "Atakayegusa"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "huyu"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "au mke wake"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuuawa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "atauawa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:08:38.492015968Z",
+  "model": "glm-5.2"
+}

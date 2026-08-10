@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Wakaungana na ⟨את⟩ Moshe na ⟨את⟩ Aharon, wakisimama wakikutana nao, hapo walipotoka kwa ⟨את⟩ Paroh.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "Wakaungana na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "wakisimama"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "wakikutana nao"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "hapo walipotoka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kwa ⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:12.832130283Z",
+  "model": "glm-5.2"
+}

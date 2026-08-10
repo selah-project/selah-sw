@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 38:27",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Na mia talents ya fedha ilikuwa kwa kumimina ⟨את⟩ misinga ya hifadhi na ⟨את⟩ misinga ya pazia; mia misinga kwa mia talents, talent kwa msinga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ikawa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mia"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talents"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ya fedha"
+    },
+    {
+      "surface": "לצקת",
+      "gloss": "kwa kumimina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misinga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "misinga"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya hifadhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "misinga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "misinga"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "ya pazia"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mia"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "misinga"
+    },
+    {
+      "surface": "למאת",
+      "gloss": "kwa mia"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "talents"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talent"
+    },
+    {
+      "surface": "לאדן",
+      "gloss": "kwa msinga"
+    }
+  ],
+  "timestamp": "2026-08-10T10:29:30.589487907Z",
+  "model": "glm-5.2"
+}

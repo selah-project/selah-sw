@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Na watasema: Kwa sababu ⟨waliiacha⟩ ⟨את⟩ berith ya Yahweh, Elohim wao, na kusujudia elohim wengine, na kuwatumikia.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Na watasema"
+    },
+    {
+      "surface": "על",
+      "gloss": "Kwa sababu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ambayo⟩"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "waliiacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berith"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berith"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wao"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "na kusujudia"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wengine"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "na kuwatumikia"
+    }
+  ],
+  "timestamp": "2026-08-10T12:16:03.319000943Z",
+  "model": "glm-5.2"
+}

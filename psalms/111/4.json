@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 111,
+  "translation": "Ukumbusho ⟨ame⟩ufanya kwa ajili ya ajabu zake; mwingi wa neema na mwingi wa huruma ⟨ni⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ukumbusho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨ame⟩ufanya"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "kwa ajili ya ajabu zake"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "mwingi wa neema"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "na mwingi wa huruma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨ni⟩ Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:23.804033882Z",
+  "model": "glm-5.2"
+}

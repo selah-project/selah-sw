@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "Ukipita katika maji, ⟨אתך⟩ mimi ⟨niku⟩pamoja nawe, na mito haitakutoboa, na utakapotembea katikati ya moto, hutateketea, na ndege haitawaka ndani yako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kipofahamu"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ukipita"
+    },
+    {
+      "surface": "במים",
+      "gloss": "katika maji"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "mimi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "na mito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sio"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "hawatakutoboa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "utakapotembea"
+    },
+    {
+      "surface": "במו",
+      "gloss": "katikati ya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sio"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "hutateketea"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "na ndege"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sio"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "haitawaka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ndani yako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:05:21.494653759Z",
+  "model": "glm-5.2"
+}

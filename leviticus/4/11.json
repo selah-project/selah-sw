@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na ⟨את⟩ ngozi ya fahali na ⟨את⟩ nyama yake yote pamoja na kichwa chake na miguu yake na utumbo wake na mavi yake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "ngozi"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ngozi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ya fahali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyama yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nyama yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kichwa chake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "miguu yake"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "na utumbo wake"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "na mavi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:32:23.373797675Z",
+  "model": "glm-5.2"
+}

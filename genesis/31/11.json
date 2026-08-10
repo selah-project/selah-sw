@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Mjumbe wa Elohim akaniongelea katika ndoto, akisema: „Yaakov,“ nikasema: „Tazama, mimi hapa.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mjumbe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "katika ndoto"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "nikasema"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tazama, mimi hapa"
+    }
+  ],
+  "timestamp": "2026-08-10T17:40:16.064707708Z",
+  "model": "glm-5.2"
+}

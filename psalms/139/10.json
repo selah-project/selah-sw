@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 139,
+  "translation": "hata huko mkono wako ⟨utaniongoza⟩, na ⟨mkono⟩ wako wa kulia ⟨utanishika⟩.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "huko"
+    },
+    {
+      "surface": "יָדְךָ",
+      "gloss": "mkono wako"
+    },
+    {
+      "surface": "תַּנְחֵנִי",
+      "gloss": "⟨utaniongoza⟩"
+    },
+    {
+      "surface": "וְתֹאחֲזֵנִי",
+      "gloss": "na ⟨utanishika⟩"
+    },
+    {
+      "surface": "יְמִינֶךָ",
+      "gloss": "⟨mkono⟩ wa kulia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:04.244696844Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na David akaikagua ⟨את⟩ ile jeshi iliyokuwa ⟨את⟩ pamoja naye, akawaweka juu yao wakuu wa maelfu na wakuu wa mamia.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Na akaikagua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeshi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ile jeshi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iliyokuwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pamoja naye"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akawaweka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "juu yao"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "wakuu wa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "maelfu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "na wakuu wa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mamia"
+    }
+  ],
+  "timestamp": "2026-08-10T17:46:46.285962837Z",
+  "model": "glm-5.2"
+}

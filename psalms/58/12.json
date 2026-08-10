@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 58,
+  "translation": "Na mtu atasema: «Hakika ⟨kuna⟩ thawabu kwa mwenye haki; hakika Elohumu ⟨ndiye⟩ anayehukumu duniani.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na mtu atasema"
+    },
+    {
+      "surface": "אדם",
+      "gloss": ""
+    },
+    {
+      "surface": "אך",
+      "gloss": "Hakika"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "⟨kuna⟩ thawabu"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kwa mwenye haki"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "יש",
+      "gloss": ""
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohumu"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "⟨ndiye⟩ anayehukumu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "duniani"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:55.526552471Z",
+  "model": "glm-5.2"
+}

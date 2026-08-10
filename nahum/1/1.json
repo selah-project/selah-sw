@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Mzigo wa Nineveh. Kitabu cha maono cha Nachum M-elkoshi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "mzigo"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "wa Nineveh"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitabu"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "cha maono"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "cha Nachum"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "M-elkoshi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:48:55.984499010Z",
+  "model": "glm-5.2"
+}

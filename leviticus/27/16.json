@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 27:16",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Na ikiwa ⟨ni⟩ shamba la urithi wake mtu ataweka wakfu kwa Yahweh, na tathmini yako ⟨itakuwa⟩ kulingana na mbegu yake: mbegu ya homer ya shayiri kwa shekelimia hamsini za fedha.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "shamba"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "la urithi wake"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "ataweka wakfu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na tathmini yako"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "tathmini yako"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "kulingana na"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "mbegu yake"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbegu"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ya homer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ya shayiri"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "kwa hamsini"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekeli"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "za fedha"
+    }
+  ],
+  "timestamp": "2026-08-10T10:39:34.496250370Z",
+  "model": "glm-5.2"
+}

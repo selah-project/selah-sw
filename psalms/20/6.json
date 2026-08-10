@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Tutaimba katika wokovu wako, na katika jina la Elohim wetu tnyanyua bendera; Yahweh atimize maombi yako yote",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "tutaimba"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "katika wokovu wako"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "na katika jina"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "la Elohim wetu"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "tanyanyue bendera"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "atimize"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "maombi yako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:36.596084785Z",
+  "model": "glm-5.2"
+}

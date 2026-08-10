@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Na kazi hiyo ilikuwa ya kutosha kwa kazi yote ya kufanya ⟨את⟩hı, na kubakiza.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "Na kazi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ilikuwa"
+    },
+    {
+      "surface": "דים",
+      "gloss": "ya kutosha"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa kazi yote"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ya kufanya"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hi (kazi)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "na kubakiza"
+    }
+  ],
+  "timestamp": "2026-08-10T10:29:32.723345301Z",
+  "model": "glm-5.2"
+}

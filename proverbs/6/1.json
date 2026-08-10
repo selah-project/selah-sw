@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Mwanangu, ikiwa ume dhania kwa rafiki yako, umepiga kwa mgeni nguo za mikono yako,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwanangu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "ume dhania"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "kwa rafiki yako"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "umepiga"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "kwa mgeni"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "nguo za mikono yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:22:26.345599277Z",
+  "model": "glm-5.2"
+}

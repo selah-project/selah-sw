@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 135,
+  "translation": "Kwa kuwa Yahweh atahukumu watu wake, na kwa watumishi wake atajuta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "atahukumu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "watu wake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumishi wake"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "atajuta"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:09.831099562Z",
+  "model": "glm-5.2"
+}

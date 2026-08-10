@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 7:8",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na nyumba yake ambamo ⟨ali⟩ kukaa huko, ⟨kulikuwa na⟩ uwanja mwingine ndani ya nyumba kwa ukumbi; kama kazi hii ilikuwa; na nyumba akajenga kwa binti wa Paroh, ambaye Shelomoh alikuwa amemwoa, kama ukumbi huu.",
+  "tokens": [
+    {
+      "surface": "וביתו",
+      "gloss": "na nyumba yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambamo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "kukaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "uwanja"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "mwingine"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ndani ya nyumba"
+    },
+    {
+      "surface": "לאולם",
+      "gloss": "kwa ukumbi"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "kama kazi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ilikuwa"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na nyumba"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akajenga"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "kwa binti"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paroh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "alikuwa amemwoa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "כאולם",
+      "gloss": "kama ukumbi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "huu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:39:35.280805939Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Na ⟨את⟩ Aharoni na ⟨את⟩ wanae umkaribishe mlangoni pa hema ya mkutano, nao uwaoshe kwa maji.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wanae"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wanae"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "umkaribishe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mlangoni"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "nao uwaoshe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨ao⟩",
+      "marks": "kwa maji"
+    },
+    {
+      "surface": "במים",
+      "gloss": "kwa maji"
+    }
+  ],
+  "timestamp": "2026-08-10T10:26:58.841322206Z",
+  "model": "glm-5.2"
+}

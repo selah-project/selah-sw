@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 17:8",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "nami nilikuwa nawe popote palipopita, nikakatilia mbali ⟨את⟩ adui zako wote mbele yako, nami nitakufanyia jina kama jina la wakubwa walio duniani.",
+  "tokens": [
+    {
+      "surface": "וָֽאֶהְיֶ֣ה",
+      "gloss": "nami nilikuwa"
+    },
+    {
+      "surface": "עִמְּךָ֗",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "בְּכֹל֙",
+      "gloss": "popote"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "palipo"
+    },
+    {
+      "surface": "הָלַ֔כְתָּ",
+      "gloss": "ulipopita"
+    },
+    {
+      "surface": "וָאַכְרִ֥ית",
+      "gloss": "nikakatilia mbali"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "adui zako wote"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "אוֹיְבֶ֖יךָ",
+      "gloss": "adui zako"
+    },
+    {
+      "surface": "מִפָּנֶ֑יךָ",
+      "gloss": "mbele yako"
+    },
+    {
+      "surface": "וְעָשִׂ֤יתִֽי",
+      "gloss": "nami nitakufanyia"
+    },
+    {
+      "surface": "לְךָ֙",
+      "gloss": "⟨kwako⟩"
+    },
+    {
+      "surface": "שֵׁ֔ם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "כְּשֵׁ֥ם",
+      "gloss": "kama jina"
+    },
+    {
+      "surface": "הַגְּדוֹלִ֖ים",
+      "gloss": "la wakubwa"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "walio"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "duniani"
+    }
+  ],
+  "timestamp": "2026-08-10T14:09:48.312976585Z",
+  "model": "glm-5.2"
+}

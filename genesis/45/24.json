@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "Naye akawapeleka ⟨את⟩ ndugu zake, nao wakaenda; naye akawaambia, msitetereke njiani.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "naye akawapeleka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndugu zake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nao wakaenda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akawaambia"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "msi"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "tetereke"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njiani"
+    }
+  ],
+  "timestamp": "2026-08-10T14:27:59.006395887Z",
+  "model": "glm-5.2"
+}

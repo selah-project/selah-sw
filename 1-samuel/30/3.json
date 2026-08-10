@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Davidi akaingia na watu wake mpaka mji, na tazama, ulikuwa umechomwa moto; wake zao, na wana wao, na binti zao, walikuwa wametekwa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "na watu wake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "umechomwa moto"
+    },
+    {
+      "surface": "באש",
+      "gloss": ""
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "wake zao"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "na wana wao"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "na binti zao"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "walikuwa wametekwa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:28:33.870749066Z",
+  "model": "glm-5.2"
+}

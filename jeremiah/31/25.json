@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Kwa kuwa nimlewasha nefesh ⟨iliyo⟩choka, na kila nefesh ⟨iliyo⟩khizika nimelitimiza.",
+  "tokens": [
+    {
+      "surface": "כִּ֥י",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "הִרְוֵ֖יתִי",
+      "gloss": "nimlewasha"
+    },
+    {
+      "surface": "נֶ֣פֶשׁ",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "עֲיֵפָ֑ה",
+      "gloss": "⟨iliyo⟩choka"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "na kila"
+    },
+    {
+      "surface": "נֶ֥פֶשׁ",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "דָּאֲבָ֖ה",
+      "gloss": "⟨iliyo⟩khizika"
+    },
+    {
+      "surface": "מִלֵּֽאתִי",
+      "gloss": "nimelitimiza"
+    }
+  ],
+  "timestamp": "2026-08-10T12:18:33.404393722Z",
+  "model": "glm-5.2"
+}

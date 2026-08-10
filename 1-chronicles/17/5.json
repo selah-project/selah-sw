@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Kwa maana sijakaa ⟨katika⟩ nyumba tangu siku ile nilipomweleza ⟨את⟩ Yisraeli hadi siku hii, nami nimekuwa kutoka hema hadi hema na kutoka maskani.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "sija"
+    },
+    {
+      "surface": "יָשַׁ֨בְתִּי֙",
+      "gloss": "nilikaa"
+    },
+    {
+      "surface": "בְּבַ֔יִת",
+      "gloss": "⟨katika⟩ nyumba"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "tangu"
+    },
+    {
+      "surface": "הַיּ֗וֹם",
+      "gloss": "siku"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "ile"
+    },
+    {
+      "surface": "הֶעֱלֵ֨יתִי֙",
+      "gloss": "nilipomweleza"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עַ֖ד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "הַיּ֣וֹם",
+      "gloss": "siku"
+    },
+    {
+      "surface": "הַזֶּ֑ה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "וָֽאֶהְיֶ֛ה",
+      "gloss": "nami nimekuwa"
+    },
+    {
+      "surface": "מֵאֹ֥הֶל",
+      "gloss": "kutoka hema"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "אֹ֖הֶל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "וּמִמִּשְׁכָּֽן",
+      "gloss": "na kutoka maskani"
+    }
+  ],
+  "timestamp": "2026-08-10T14:09:48.312230653Z",
+  "model": "glm-5.2"
+}

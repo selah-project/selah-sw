@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na kuhani atatoa ⟨את⟩ dhabihu ya kuteketezwa na ⟨את⟩ sadaka ya nafaka juu ya madhabahu, na kuhani atafanya upatanisho kwa ajili yake, na atatakaswa.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "na atatoa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhabihu ya kuteketezwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dhabihu ya kuteketezwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "sadaka ya nafaka"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "sadaka ya nafaka"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "juu ya madhabahu"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "na atafanya upatanisho"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kwa ajili yake"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "na atatakaswa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:34:50.421520944Z",
+  "model": "glm-5.2"
+}

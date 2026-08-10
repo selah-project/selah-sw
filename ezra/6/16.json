@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 6:16",
+  "book": "ezra",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na wana wa Yisra'el, makuhani, na Walawi, na mabaki ya wana wa uhamishoni, walitenda utabaruku wa nyumba ya Eloah hii kwa furaha.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "Na walitenda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "כהניא",
+      "gloss": "makuhani"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "na Walawi"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "na mabaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya wana"
+    },
+    {
+      "surface": "גלותא",
+      "gloss": "wa uhamishoni"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "utabaruku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wa nyumba"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "ya Eloah"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "בחדוה",
+      "gloss": "kwa furaha"
+    }
+  ],
+  "timestamp": "2026-08-10T13:57:10.183760775Z",
+  "model": "glm-5.2"
+}

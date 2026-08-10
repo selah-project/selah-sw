@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Kwa kundi zao na ng'ombe zao wataenda kutafuta ⟨את⟩ Yahweh, wala hatatambulika; amejiondoa miongoni mwao.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "kwa kundi zao"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "na ng'ombe zao"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "wataenda"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kutafuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "hatatambulika"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "amejiondoa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "miongoni mwao"
+    }
+  ],
+  "timestamp": "2026-08-10T12:41:06.926258412Z",
+  "model": "glm-5.2"
+}

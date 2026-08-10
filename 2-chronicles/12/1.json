@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Ikawa mara ufalme wa Rechav'am ulipothibitishwa na yeye alipojipa nguvu, aliacha ⟨את⟩ torah ya Yahweh, na wote Waisraeli pamoja naye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ikawa"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "mara ulipothibitishwa"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ufalme"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "wa Rechav'am"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "na yeye alipojipa nguvu"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "aliacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torah"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Waisraeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja naye"
+    }
+  ],
+  "timestamp": "2026-08-10T14:15:15.339140918Z",
+  "model": "glm-5.2"
+}

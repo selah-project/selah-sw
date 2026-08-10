@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na utatuma dira za nyusi ⟨za⟩ mbuzi kuwa hema juu ya hema; dira kumi na moja utazitengeneza ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Na utatuma"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "dira"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "za mbuzi"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "kuwa hema"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "hema"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "kumi na"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "moja"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "dira"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "utazitengeneza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dira"
+    }
+  ],
+  "timestamp": "2026-08-10T10:25:35.061108913Z",
+  "model": "glm-5.2"
+}

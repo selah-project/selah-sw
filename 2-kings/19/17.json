@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Kweli, ee Yahweh, wafalume wa Ashshur wameharibu ⟨את⟩ mataifa na ⟨את⟩ nchi zao.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Kweli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "wameharibu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalume wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataifa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nchi zao"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nchi zao"
+    }
+  ],
+  "timestamp": "2026-08-10T11:52:51.270162903Z",
+  "model": "glm-5.2"
+}

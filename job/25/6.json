@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Ni mbaya zaidi binadamu, ⟨ni⟩ mchwa, na mwana wa Adamu, ⟨ni⟩ minyoo!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Zaidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mbaya"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "binadamu"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "mchwa"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa Adamu"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "minyoo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:33:53.935519420Z",
+  "model": "glm-5.2"
+}

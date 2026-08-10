@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Naye akasema, Siwezi kurudi ⟨את⟩ pamoja nawe wala kuingia ⟨את⟩ pamoja nawe; wala sili mkate wala sinywe ⟨את⟩ pamoja nawe maji katika mahali hili.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Naye akasema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Siwezi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kwa kurudi"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kurudi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ pamoja nawe"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "wala kuingia"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ pamoja nawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "sili"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "sinywe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ pamoja nawe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "katika mahali"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    }
+  ],
+  "timestamp": "2026-08-10T11:41:38.713389847Z",
+  "model": "glm-5.2"
+}

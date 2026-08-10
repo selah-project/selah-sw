@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 6:9",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na mtu wa Elohim akamtuma ⟨את⟩ mfalme wa Yisra'el, akisema: Jilinde usipitie mahali hapa; maana pale Aram wameshuka.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "na akamtuma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "jilinde"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "usipitie"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hapa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pale"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נחתים",
+      "gloss": "wameshuka"
+    }
+  ],
+  "timestamp": "2026-08-10T16:04:44.775366547Z",
+  "model": "glm-5.2"
+}

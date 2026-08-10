@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Taifa likasema kwa Shemueli, \"Ni nani aliyeyasema, 'Je, Shaul atatawala juu yetu?' Toeni ⟨wale⟩ watu tuwaua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "likasema"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "aliyeyasema"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "atatawala"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "juu yetu"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "toeni"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "tuwaua"
+    }
+  ],
+  "timestamp": "2026-08-10T11:21:56.447448277Z",
+  "model": "glm-5.2"
+}

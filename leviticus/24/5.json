@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na utachukua unga wa ubora na uukaanga ⟨את⟩ mikate kumi na miwili; sehemu kumi ziwe ndani ya mkate mmoja.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "na utachukua"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "unga wa ubora"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "na uukaanga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mikate kumi na miwili"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "miwili"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kumi na"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "mikate"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "sehemu za kumi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ziwe ndani"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "ya mkate"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "mmoja"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:36.852887346Z",
+  "model": "glm-5.2"
+}

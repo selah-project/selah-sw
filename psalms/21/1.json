@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Kwa kiongozi ⟨wa⟩ muziki. Wimbo wa David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa kiongozi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:17.375918558Z",
+  "model": "glm-5.2"
+}

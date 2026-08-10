@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Je, ni heri kwa kuwa ⟨⟨ye⟩⟩ atawachunguza ⟨אתכם⟩? Au kama mtu anavyomdhihaki mwanadamu, je, nyinyi mnamdhihaki?",
+  "tokens": [
+    {
+      "surface": "הֲ֭טוֹב",
+      "gloss": "Je, ni heri"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "יַחְקֹ֣ר",
+      "gloss": "atawachunguza"
+    },
+    {
+      "surface": "אֶתְכֶ֑ם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "Au"
+    },
+    {
+      "surface": "כְּהָתֵ֥ל",
+      "gloss": "anavyomdhihaki"
+    },
+    {
+      "surface": "בֶּ֝אֱנ֗וֹשׁ",
+      "gloss": "mwanadamu"
+    },
+    {
+      "surface": "תְּהָתֵ֥לּוּ",
+      "gloss": "mnamdhihaki"
+    },
+    {
+      "surface": "בֽוֹ",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-08-10T16:22:14.244752199Z",
+  "model": "glm-5.2"
+}

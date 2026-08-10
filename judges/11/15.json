@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "naye akamwambia: «Ndivo asema Yiftaḥ: Yisraeli hakutwanga ⟨את⟩ nchi ya Moabu wala ⟨את⟩ nchi ya wana wa Amoni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akasema"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kumwambia"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "asema"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftaḥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haku"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "twanga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi ya Moabu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi ya"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wala ⟨את⟩",
+      "marks": "nchi ya wana wa Amoni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:16:52.380272458Z",
+  "model": "glm-5.2"
+}

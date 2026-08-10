@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Basi wakawaweka juu yake wakuu wa kazi za shauri, ili kumdhoofisha kwa mizigo yao; akajenga miji ya hifadhi kwa Paroh, ⟨את⟩ Pithomi na ⟨את⟩ Raamsesi.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "wakawaweka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "wakuu wa"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "kazi za shauri"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ili"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "kumdhoofisha"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "kwa mizigo yao"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "akajenga"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miji ya"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "hifadhi"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kwa Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pithomi"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pithomi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Raamsesi"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamsesi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:05.333606203Z",
+  "model": "glm-5.2"
+}

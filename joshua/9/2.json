@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "wakakusanyika pamoja kwa nia ya kupigana na Yehoshua na ⟨na⟩ Yisraeli, kwa kinywa kimoja.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "wakakusanyika"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "kwa nia ya kupigana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "פה",
+      "gloss": "kwa kinywa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kimoja"
+    }
+  ],
+  "timestamp": "2026-08-10T11:07:44.350233670Z",
+  "model": "glm-5.2"
+}

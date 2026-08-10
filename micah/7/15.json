@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 7:15",
+  "book": "micah",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Kama siku za kutokwako kwako kutoka nchi ya Mitsrayim, nitamwonyesha mambo ya ajabu.",
+  "tokens": [
+    {
+      "surface": "כימי",
+      "gloss": "kama siku za"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "kutokwako kwako"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kutoka nchi ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "nitamwonyesha"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "mambo ya ajabu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:48:24.466377465Z",
+  "model": "glm-5.2"
+}

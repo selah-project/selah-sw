@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Msimjaribu ⟨את⟩ Yahweh Elohim wenu, kama mlivyojaribu Massah.",
+  "tokens": [
+    {
+      "surface": "לֹ֣א",
+      "gloss": "si"
+    },
+    {
+      "surface": "תְנַסּ֔וּ",
+      "gloss": "mjaribu"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶ֑ם",
+      "gloss": "Elohim wenu"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֥ר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "נִסִּיתֶ֖ם",
+      "gloss": "mlivyojaribu"
+    },
+    {
+      "surface": "בַּמַּסָּֽה",
+      "gloss": "Massah"
+    }
+  ],
+  "timestamp": "2026-08-10T10:54:47.510446559Z",
+  "model": "glm-5.2"
+}

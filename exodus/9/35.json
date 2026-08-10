@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Moyo wa Paroh ukawa imara, wala hakuwapeleka ⟨את⟩ wana wa Yisra'el, kama alivyosema Yahweh kwa mkono wa Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ukawa imara"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Moyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala haku-"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "-wapeleka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana wa Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alivyosema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwa mkono"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moshe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:56.461314571Z",
+  "model": "glm-5.2"
+}

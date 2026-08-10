@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Nao watu wa Mitsrayim watajua ya kuwa mimi ni Yahweh, nitakapotukuzwa ndani ya Paroh, ndani ya magari yake na ndani ya wapanda farasi wake.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Nao watajua"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wapagani wa Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kuwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "nitakapotukuzwa"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "ndani ya Paroh"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "ndani ya magari yake"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "na ndani ya wapanda farasi wake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:21:23.161457732Z",
+  "model": "glm-5.2"
+}

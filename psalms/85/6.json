@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 85,
+  "translation": "Je, kwa milele utakasirika nasi? Je, utavuta hasira yako kizazi hadi kizazi?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Je, kwa milele"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "utakasirika"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nasi"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "Je, utavuta"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "hasira yako"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kizazi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "hadi kizazi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:33.901757815Z",
+  "model": "glm-5.2"
+}

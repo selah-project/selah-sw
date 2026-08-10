@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Hapo waliogopa ofa kubwa ya hofu, maana Elohim ⟨yumo⟩ katika kizazi cha wenye haki.",
+  "tokens": [
+    {
+      "surface": "שָׁם",
+      "gloss": "Hapo"
+    },
+    {
+      "surface": "פָּחֲדוּ",
+      "gloss": "waliogopa"
+    },
+    {
+      "surface": "פָחַד",
+      "gloss": "ofa kubwa ya hofu"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בְּדוֹר",
+      "gloss": "katika kizazi cha"
+    },
+    {
+      "surface": "צַדִּיק",
+      "gloss": "wenye haki"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:01.217624031Z",
+  "model": "glm-5.2"
+}

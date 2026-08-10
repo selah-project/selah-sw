@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Je, El anapotosa hukumu? Au Shaddai anapotosa haki?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "anapotosa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Au"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "anapotosa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "haki"
+    }
+  ],
+  "timestamp": "2026-08-10T13:32:53.243508292Z",
+  "model": "glm-5.2"
+}

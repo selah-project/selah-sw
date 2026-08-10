@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "jeremiah 51:45",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 51,
+  "translation": "Tokeni, taifa langu, kutoka katikati yake, na kila mtu amwokoe ⟨את⟩ nafsi yake, khasabu ya waziuko wa hasira ya Yahweh.",
+  "tokens": [
+    {
+      "surface": "צְא֤וּ",
+      "gloss": "Tokeni"
+    },
+    {
+      "surface": "מִתּוֹכָהּ֙",
+      "gloss": "kutoka katikati yake"
+    },
+    {
+      "surface": "עַמִּ֔י",
+      "gloss": "taifa langu"
+    },
+    {
+      "surface": "וּמַלְּט֖וּ",
+      "gloss": "na mwoke"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "nafsi yake"
+    },
+    {
+      "surface": "נַפְשׁ֑וֹ",
+      "gloss": "nafsi yake"
+    },
+    {
+      "surface": "מֵחֲר֖וֹן",
+      "gloss": "khasabu ya waziuko"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "hasira"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "ya Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T15:15:31.781197938Z",
+  "model": "glm-5.2"
+}

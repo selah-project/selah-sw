@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Naye akasema: ⟨את⟩ ndugu zangu natafuta. Tafadhali niambie, wapo wapi wanafuga?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Naye akasema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndugu zangu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ndugu zangu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "mבקש",
+      "gloss": "natafuta"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Tafadhali niambie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "niambie"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "wapo wapi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "wanafuga"
+    }
+  ],
+  "timestamp": "2026-08-10T14:26:52.258508933Z",
+  "model": "glm-5.2"
+}

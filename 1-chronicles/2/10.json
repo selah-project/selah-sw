@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na Ram alimzaa ⟨את⟩ Aminadabu, na Aminadabu alimzaa ⟨את⟩ Nachshon, mkuu wa wana wa Yehuda.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Na Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadabu"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabu"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "na Aminadabu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa wana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-10T14:03:13.904998503Z",
+  "model": "glm-5.2"
+}

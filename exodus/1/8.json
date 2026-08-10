@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Wakasimama mfalme mpya juu ya Mitsrayim ambaye hakumjua ⟨את⟩ Yosef.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wakasimama"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mpya"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kumjua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-10T10:16:57.816330501Z",
+  "model": "glm-5.2"
+}

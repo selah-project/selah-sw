@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 55,
+  "translation": "Enyi wote mwenye kiu, njeni kwa maji, na yule ambaye hakuna kwake fedha, njeni nunueni mkale, na njeni, nunueni bila fedha na bila thamani, mvinyo na maziwa.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "oeni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "mwenye kiu"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "njeni"
+    },
+    {
+      "surface": "למים",
+      "gloss": "kwa maji"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na ambaye"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "njeni"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "nunueni"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "na mkale"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "na njeni"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "nunueni"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "bila"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "na bila"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "thamani"
+    },
+    {
+      "surface": "יין",
+      "gloss": "mvinyo"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "na maziwa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:06:56.997272079Z",
+  "model": "glm-5.2"
+}

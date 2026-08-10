@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Moyo wa bwana wake umemtegemea, na ⟨katika⟩ mapato hatatema.",
+  "tokens": [
+    {
+      "surface": "בָּ֣טַח",
+      "gloss": "umemtegemea"
+    },
+    {
+      "surface": "בָּ֭הּ",
+      "gloss": "(katika) yeye"
+    },
+    {
+      "surface": "לֵ֣ב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "בַּעְלָ֑הּ",
+      "gloss": "bwana wake"
+    },
+    {
+      "surface": "וְ֝שָׁלָ֗ל",
+      "gloss": "na mapato"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "hatatema"
+    },
+    {
+      "surface": "יֶחְסָֽר",
+      "gloss": "(kupungukiwa)"
+    }
+  ],
+  "timestamp": "2026-08-10T16:22:32.986447698Z",
+  "model": "glm-5.2"
+}

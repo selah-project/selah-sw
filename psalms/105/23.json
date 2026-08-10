@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Yisraeli akaingia Mitsrayim, na Yaakov kukaa kama mgeni katika nchi ya Ham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "na Yaakov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "kukaa kama mgeni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ya Ham"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:05.263242280Z",
+  "model": "glm-5.2"
+}

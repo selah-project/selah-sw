@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 75,
+  "translation": "Tumekushukuru, ee Elohim, tumekushukuru; jina lako liko karibu; ⟨watu⟩ wamehesabu ajabu zako.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Tumekushukuru"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ewe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "tumekushukuru"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "na liko karibu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "wamehesabu"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ajabu zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:44.414890648Z",
+  "model": "glm-5.2"
+}

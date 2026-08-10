@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Nayo Mitsrayim wakawafanya ⟨את⟩ wana wa Yisra'eli kufanya kazi kwa jeuri.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "wakawafanya kufanya kazi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana wa Yisra'eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "kwa jeuri"
+    }
+  ],
+  "timestamp": "2026-08-10T10:17:50.307012128Z",
+  "model": "glm-5.2"
+}

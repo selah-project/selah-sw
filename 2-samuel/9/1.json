@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na David akasema: Je, je ⟨kuna⟩ mtu yeyote aliyebaki kwa nyumba ya Shaul, ili niifanyie naye chesed kwa ajili ya Yehonatan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "Je"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨kuna⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yeyote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliye"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "baki"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kwa nyumba ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ili niifanyie"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    }
+  ],
+  "timestamp": "2026-08-10T11:30:41.598801731Z",
+  "model": "glm-5.2"
+}

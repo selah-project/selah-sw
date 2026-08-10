@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na Naarah alimzalia ⟨את⟩ Achuzzam na ⟨את⟩ Chefer na ⟨את⟩ Temeni na ⟨את⟩ Haahashtari; hawa ⟨ni⟩ wana wa Naarah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Na alimzalia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achuzzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Achuzzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Chefer"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Chefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Haahashtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Haahashtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    }
+  ],
+  "timestamp": "2026-08-10T14:05:00.075696012Z",
+  "model": "glm-5.2"
+}

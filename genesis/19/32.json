@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Tujeni, tumpywe ⟨את⟩ baba yetu divai, tukalale naye, ili tuhuidishe kutokea kwa baba yetu mzao.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Tujeni"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "tumpywe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba yetu"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "baba yetu"
+    },
+    {
+      "surface": "יין",
+      "gloss": "divai"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "tukalale"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "ili tuhuidishe"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "kutokea kwa baba yetu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mzao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:49:40.615435739Z",
+  "model": "glm-5.2"
+}

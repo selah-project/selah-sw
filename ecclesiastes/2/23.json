@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Kwa kuwa siku zake zote ni maumivu, na kero ni shughuli yake; hata usiku moyo wake haukutulia; hata hili ni hevel (uvungu).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "siku zake"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "ni maumivu"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "na kero"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "ni shughuli yake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haku"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "kutulia"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel (uvungu)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:24.340157221Z",
+  "model": "glm-5.2"
+}

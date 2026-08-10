@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 140,
+  "translation": "Hakika wenye haki watoa shukrani jina lako, wanyofu watakaa ⟨mbele ya⟩ ⟨את⟩ uso wako.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Hakika"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wenye haki"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "watoa shukrani"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "watakaa"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "wanyofu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uso wako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uso wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:36.025832725Z",
+  "model": "glm-5.2"
+}

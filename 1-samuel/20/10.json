@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na Davidi akasema kwa Yehonathan: Ni nani atakayeniambia? Au baba yako atakujibu nini kwa ukali?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "atakayeniambia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "atakujibu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba yako"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "kwa ukali"
+    }
+  ],
+  "timestamp": "2026-08-10T11:24:49.452632371Z",
+  "model": "glm-5.2"
+}

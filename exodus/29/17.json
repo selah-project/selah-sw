@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Na ⟨את⟩ kondoo uweke vipande vyake, nawe uosgoe ndani zake na miguu yake, na uweke juu ya vipande vyake na juu ya kichwa chake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kondoo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "kondoo"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "uweke vipande"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "vipande vyake"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "na uosgoe"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ndani zake"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "na miguu yake"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "na uweke"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "vipande vyake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kichwa chake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:13.612159289Z",
+  "model": "glm-5.2"
+}

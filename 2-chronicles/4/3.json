@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 4:3",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na mfano wa ng'ombe ulikuwa chini yake ukizunguka ⟨את⟩ ⟨hiyo⟩ pande zote — kumi kwa dhiraa wakizunguka ⟨את⟩ bahari pande zote — safu mbili za ng'ombe hao waliyeyushwa katika yeyusho lake.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "na mfano"
+    },
+    {
+      "surface": "בקרים",
+      "gloss": "wa ng'ombe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "pande zote"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "pande zote"
+    },
+    {
+      "surface": "סובבים",
+      "gloss": "ukizunguka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨hiyo⟩",
+      "marks": "kumi kwa dhiraa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kwa dhiraa"
+    },
+    {
+      "surface": "מקיפים",
+      "gloss": "wakizunguka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahari"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "pande zote"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "safu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "za ng'ombe hao"
+    },
+    {
+      "surface": "יצוקים",
+      "gloss": "waliyeyushwa"
+    },
+    {
+      "surface": "במצקתו",
+      "gloss": "katika yeyusho lake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:13:08.680475254Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Nini, mwanangu? na nini, mwana wa tumbo langu? na nini, mwana wa nadhiri zangu?",
+  "tokens": [
+    {
+      "surface": "מַה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "בְּ֭רִי",
+      "gloss": "mwanangu"
+    },
+    {
+      "surface": "וּמַֽה",
+      "gloss": "na nini"
+    },
+    {
+      "surface": "בַּר",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בִּטְנִ֑י",
+      "gloss": "wa tumbo langu"
+    },
+    {
+      "surface": "וּ֝מֶה",
+      "gloss": "na nini"
+    },
+    {
+      "surface": "בַּר",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נְדָרָֽי",
+      "gloss": "wa nadhiri zangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:32:59.041332996Z",
+  "model": "glm-5.2"
+}

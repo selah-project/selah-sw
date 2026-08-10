@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Usiniache, Yahweh, Elohim wangu, usitenge mbali nami.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "niache"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "tenge mbali"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nami"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:18.803302945Z",
+  "model": "glm-5.2"
+}

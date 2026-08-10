@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Tumekuwa yatima, bila baba, mama zetu ⟨ni⟩ kama wajane.",
+  "tokens": [
+    {
+      "surface": "יְתוֹמִ֤ים",
+      "gloss": "yatima"
+    },
+    {
+      "surface": "הָיִ֨ינוּ֙",
+      "gloss": "Tumekuwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bila"
+    },
+    {
+      "surface": "אָ֔ב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "אִמֹּתֵ֖ינוּ",
+      "gloss": "mama zetu"
+    },
+    {
+      "surface": "כְּאַלְמָנֽוֹת",
+      "gloss": "kama wajane"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:33.794825610Z",
+  "model": "glm-5.2"
+}

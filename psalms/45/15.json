@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "Kwa vazi lenye Rushesa ataletwa kwa mfalme; mabinti bikira nyuma yake, marafiki zake wa kike, wanaletwa kwako.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "kwa vazi lenye Rushesa"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "ataletwa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kwa mfalme"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "mabinti bikira"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "nyuma yake"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "marafiki zake wa kike"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "wanaletwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:36.978389586Z",
+  "model": "glm-5.2"
+}

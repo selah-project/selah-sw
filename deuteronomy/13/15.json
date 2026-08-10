@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 13:15",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "nawe utafute, nawe uchunguze, nawe ulize kwa makini; na tazama, ikiwa ⟨ni⟩ kweli, jambo limethibitishwa, kwamba kinyasi hiki kimetendwa katikati yako,",
+  "tokens": [
+    {
+      "surface": "וְדָרַשְׁתָּ֧",
+      "gloss": "nawe utafute"
+    },
+    {
+      "surface": "וְחָקַרְתָּ֧",
+      "gloss": "nawe uchunguze"
+    },
+    {
+      "surface": "וְשָׁאַלְתָּ֖",
+      "gloss": "nawe ulize"
+    },
+    {
+      "surface": "הֵיטֵ֑ב",
+      "gloss": "kwa makini"
+    },
+    {
+      "surface": "וְהִנֵּ֤ה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "אֱמֶת֙",
+      "gloss": "ikiwa ⟨ni⟩ kweli"
+    },
+    {
+      "surface": "נָכ֣וֹן",
+      "gloss": "limethibitishwa"
+    },
+    {
+      "surface": "הַדָּבָ֔ר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "נֶעֶשְׂתָ֛ה",
+      "gloss": "kimetendwa"
+    },
+    {
+      "surface": "הַתּוֹעֵב֥ה",
+      "gloss": "kinyasi"
+    },
+    {
+      "surface": "הַזֹּ֖את",
+      "gloss": "hiki"
+    },
+    {
+      "surface": "בְּקִרְבֶּֽךָ",
+      "gloss": "katikati yako"
+    }
+  ],
+  "timestamp": "2026-08-10T10:58:28.919418915Z",
+  "model": "glm-5.2"
+}

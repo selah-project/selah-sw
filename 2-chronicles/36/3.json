@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Nayo mfalme wa Mitsrayim akamtoa katika Yerushalayim; akawafanya ⟨את⟩ nchi ilipe faini ya talenti mia za fedha na talenti moja ya dhahabu.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "akamtoa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "katika Yerushalayim"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "akawafanya ilipe faini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "mia"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenti"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "za fedha"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "na talenti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya dhahabu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:21:16.330081392Z",
+  "model": "glm-5.2"
+}

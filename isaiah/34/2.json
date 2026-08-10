@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Kwani ghadhabu ⟨ni⟩ ya Yahweh juu ya mataifa yote, na hasira juu ya jeshi lao lote; amewatenga kwa uharibifu, amewapa kwa kuuwawa.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Kwani"
+    },
+    {
+      "surface": "קֶ֤צֶף",
+      "gloss": "ghadhabu"
+    },
+    {
+      "surface": "לַֽיהוָה֙",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הַגּוֹיִ֔ם",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "וְחֵמָ֖ה",
+      "gloss": "na hasira"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "lote"
+    },
+    {
+      "surface": "צְבָאָ֑ם",
+      "gloss": "jeshi lao"
+    },
+    {
+      "surface": "הֶחֱרִימָ֖ם",
+      "gloss": "amewatenga kwa uharibifu"
+    },
+    {
+      "surface": "נְתָנָ֥ם",
+      "gloss": "amewapa"
+    },
+    {
+      "surface": "לַטָּֽבַח",
+      "gloss": "kuuwawa"
+    }
+  ],
+  "timestamp": "2026-08-10T18:28:17.757592354Z",
+  "model": "glm-5.2"
+}

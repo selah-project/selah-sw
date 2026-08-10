@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 73,
+  "translation": "Kwa shauri lakoutaniongoza, na baadaye utakubali ⟨kwa⟩ utukufu.",
+  "tokens": [
+    {
+      "surface": "בַּעֲצָתְךָ֥",
+      "gloss": "Kwa shauri lako"
+    },
+    {
+      "surface": "תַנְחֵ֑נִי",
+      "gloss": "utaniongoza"
+    },
+    {
+      "surface": "וְ֝אַחַ֗ר",
+      "gloss": "na baadaye"
+    },
+    {
+      "surface": "כָּב֥וֹד",
+      "gloss": "utukufu"
+    },
+    {
+      "surface": "תִּקָּחֵֽנִי",
+      "gloss": "utakubali"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:23.693874139Z",
+  "model": "glm-5.2"
+}

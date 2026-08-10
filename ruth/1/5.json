@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Wakafa wote wawili, Mahlon na Kilyon, ⟨na⟩ mwanamke akabaki bila watoto wake wawili na bila mumewe.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "Wakafa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wote wawili"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Mahlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "na Kilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "na akabaki"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "משני",
+      "gloss": "bila wawili"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "watoto wake"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "na bila mumewe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:43:17.704582626Z",
+  "model": "glm-5.2"
+}

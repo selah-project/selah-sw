@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Niliponiita, ninijie, Elohim wa haki yangu; katika dhiki umenipanulia nafasi; unionee chesed, na usikie maombi yangu.",
+  "tokens": [
+    {
+      "surface": "בְּקָרְאִ֡י",
+      "gloss": "niliponiita"
+    },
+    {
+      "surface": "עֲנֵ֤נִי",
+      "gloss": "ninijie"
+    },
+    {
+      "surface": "אֱלֹ֘הֵ֤י",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צִדְקִ֗י",
+      "gloss": "wa haki yangu"
+    },
+    {
+      "surface": "בַּ֭צָּר",
+      "gloss": "katika dhiki"
+    },
+    {
+      "surface": "הִרְחַ֣בְתָּ",
+      "gloss": "umenipanulia nafasi"
+    },
+    {
+      "surface": "לִּ֑י",
+      "gloss": "uni"
+    },
+    {
+      "surface": "חָ֝נֵּ֗נִי",
+      "gloss": "unionee chesed"
+    },
+    {
+      "surface": "וּשְׁמַ֥ע",
+      "gloss": "na usikie"
+    },
+    {
+      "surface": "תְּפִלָּתִֽי",
+      "gloss": "maombi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:52.323496214Z",
+  "model": "glm-5.2"
+}

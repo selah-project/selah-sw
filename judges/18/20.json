@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na moyo wa kuhani ukafurahi, akachukua ⟨את⟩ ephodi na ⟨את⟩ terafimu na ⟨את⟩ sanamu, akaingia katikati ya watu.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "ukafurahi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wa kuhani"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ephodi"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ephodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "terafimu"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "sanamu"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "sanamu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "katikati"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya watu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:49:48.200094122Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Na kila mtu wa Yisra'eli, wao walipoona ⟨את⟩ yule mtu, wakakimbia kutoka uso wake, wakaogopa sana.",
+  "tokens": [
+    {
+      "surface": "וְכֹל֙",
+      "gloss": "Na kila"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "wa Yisra'eli"
+    },
+    {
+      "surface": "בִּרְאוֹתָ֖ם",
+      "gloss": "wao walipoona"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "yule mtu"
+    },
+    {
+      "surface": "הָאִ֑ישׁ",
+      "gloss": "yule mtu"
+    },
+    {
+      "surface": "וַיָּנֻ֨סוּ֙",
+      "gloss": "wakakimbia"
+    },
+    {
+      "surface": "מִפָּנָ֔יו",
+      "gloss": "kutoka uso wake"
+    },
+    {
+      "surface": "וַיִּֽירְא֖וּ",
+      "gloss": "wakaogopa"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-10T11:23:43.427050217Z",
+  "model": "glm-5.2"
+}

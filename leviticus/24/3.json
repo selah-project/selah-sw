@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 24:3",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Nje ya pazia la ushahidi, hema ya mkutano, Aharon ⟨atakipanga⟩ jioni hadi asubuhi mbele za Yahweh daima; ni amri ya milele kwa vizazi vyenu.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "nje"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "ya pazia"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "la ushahidi"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "atakipanga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "taa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "jioni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "amri"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya milele"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "kwa vizazi vyenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:03.578241663Z",
+  "model": "glm-5.2"
+}

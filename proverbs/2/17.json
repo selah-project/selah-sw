@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 2:17",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Ambaye humwacha mwenzi wa ujana wake, na ⟨את⟩ agano la Elohim wake amesahau.",
+  "tokens": [
+    {
+      "surface": "העזבת",
+      "gloss": "ambaye humwacha"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "mwenzi"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "wa ujana wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "agano"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "agano"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "la Elohim wake"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "amesahau"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:36.210816181Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Kuogopa Yahweh ni safi, kisimamo cha daima; hukumu za Yahweh ni za kweli, zimehaki pamoja.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Kuogopa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "ni safi"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "kisimamo cha"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "daima"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukumu za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ni za kweli"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "zimehaki"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamoja"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:32.972903749Z",
+  "model": "glm-5.2"
+}

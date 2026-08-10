@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Na sasa, msiogope; mimi nitawatengeneza chakula ⟨את⟩ ninyi na ⟨את⟩ watoto wenu wadogo. Akawafariji ⟨את⟩ wao na kusema juu ya moyo wao.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "msiogope"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "nitawatengeneza chakula"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninyi",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "watoto wenu wadogo"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "na watoto wenu wadogo"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "akawafariji"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "na kusema"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "moyo wao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:17:49.675842984Z",
+  "model": "glm-5.2"
+}

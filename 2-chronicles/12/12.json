@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 12:12",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na alipojinyenyekesha, hasira ya Yahweh ilirejea kutoka kwake, asipotee kwa maangamizo ya utimilifu; na pia katika Yehudha kulikuwa na mambo mazuri.",
+  "tokens": [
+    {
+      "surface": "ובהכנעו",
+      "gloss": "alipojinyenyekesha"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ilirejea"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kutoka kwake"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hasira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asipotee"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "kwa maangamizo"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "ya utimilifu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "katika Yehudha"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kulikuwa na"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "mazuri"
+    }
+  ],
+  "timestamp": "2026-08-10T14:14:37.820844753Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 118,
+  "translation": "Kutoka kwa ⟨את⟩ Yahweh jambo hili limekuwa; ni la ajabu machoni mwetu.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "limekuwa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "jambo hili"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "la ajabu"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "machoni mwetu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:21.553059513Z",
+  "model": "glm-5.2"
+}

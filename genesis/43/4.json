@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "Ikiwa wewe ni mtu wa kutuma ⟨את⟩ ndugu yetu ⟨pamoja⟩ nasi, tushuke, tutakununulia chakula.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ikiwa"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "wewe ni"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "mtu wa kutuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndugu yetu"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ndugu yetu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nasi",
+      "marks": "nasi"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "tushuke"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "tutakununulia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa wewe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chakula"
+    }
+  ],
+  "timestamp": "2026-08-10T15:51:10.099272695Z",
+  "model": "glm-5.2"
+}

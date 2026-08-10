@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Linda ⟨ye⟩ mtu wa ukamilifu, na uone mwenyewe aliye nyofu; maana ⟨kuna⟩ mwisho kwa ⟨ye⟩ mtu wa amani.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Linda"
+    },
+    {
+      "surface": "תם",
+      "gloss": "mtu wa ukamilifu"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "na uone"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "mwenyewe aliye nyofu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "mwisho"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kwa mtu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "wa amani"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:59.417854071Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Bana wa Yisraela wakaondoa ⟨את⟩ Baali, na ⟨את⟩ Ashtarothi, wakamhudumulia ⟨את⟩ Yahweh peke yake.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "wakaondoa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baali"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ashtaroth"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Ashtarothi"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "wakamhudumulia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "peke yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:20:49.572051427Z",
+  "model": "glm-5.2"
+}

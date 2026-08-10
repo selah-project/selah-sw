@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Nao taifa likasema kwa Yehoshua: ⟨את⟩ Yahweh, Elohim wetu, tutamtumikia, na kwa sauti yake tutasikia.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Nao wakasema"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "tutamtumikia"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "na kwa sauti yake"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "tutasikia"
+    }
+  ],
+  "timestamp": "2026-08-10T14:47:56.980514116Z",
+  "model": "glm-5.2"
+}

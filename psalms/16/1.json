@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Mchoro wa David. Liniebranie, Eloah, kwa kuwa nilikimbilia kwako.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Mchoro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Liniebranie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nilikimbilia"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kwako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:11.602682224Z",
+  "model": "glm-5.2"
+}

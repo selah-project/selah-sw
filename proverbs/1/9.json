@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kwa maana hao ⟨ni⟩ pazia ya grace kwa kichwa chako, na vikufuni koo zako.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "לִוְיַ֤ת",
+      "gloss": "pazia"
+    },
+    {
+      "surface": "חֵ֓ן",
+      "gloss": "ya grace"
+    },
+    {
+      "surface": "הֵ֬ם",
+      "gloss": "hao"
+    },
+    {
+      "surface": "לְרֹאשֶׁ֑ךָ",
+      "gloss": "kichwa chako"
+    },
+    {
+      "surface": "וַ֝עֲנָקִ֗ים",
+      "gloss": "na vikufuni"
+    },
+    {
+      "surface": "לְגַרְגְּרֹתֶֽיךָ",
+      "gloss": "koo zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:12.018469571Z",
+  "model": "glm-5.2"
+}

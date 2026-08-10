@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na nyoka akamwambia ⟨את⟩ mwanamke: Hapana, msife ⟨bila shaka⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akamwambia"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "nyoka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Hapana"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "msife"
+    }
+  ],
+  "timestamp": "2026-08-10T18:08:12.778625696Z",
+  "model": "glm-5.2"
+}

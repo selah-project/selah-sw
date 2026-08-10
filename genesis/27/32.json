@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Na Yitschak baba yake akamwambia: Wewe ni nani? Naye akasema: Mimi ni mwanako, mzaliako wa kwanza, Esavu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwanako"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "mzaliako wa kwanza"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:08:49.131624044Z",
+  "model": "glm-5.2"
+}

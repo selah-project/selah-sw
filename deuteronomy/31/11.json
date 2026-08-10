@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 31:11",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Wakati Yisra'el wote wanakuja kuonekana mbele za ⟨את⟩ uso wa Yahweh Elohim wako, mahali atakapochagua, utasoma ⟨את⟩ Tora hii mbele ya Yisra'el wote, masikioni mwao.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "wakati...wanakuja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuonekana mbele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "atakapochagua"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "utasoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora hii"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hii"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "masikioni mwao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:58:11.796227661Z",
+  "model": "glm-5.2"
+}

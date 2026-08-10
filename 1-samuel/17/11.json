@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Na Shaul na Yisraeli wote wakasikia ⟨את⟩ maneno ya Mplishti haya, wakatiisha na kuogopa sana.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "na wakasikia"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli wote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ya Mplishti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "wakatiisha"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "na kuogopa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-10T11:24:13.274250744Z",
+  "model": "glm-5.2"
+}

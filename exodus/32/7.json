@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Yahweh akamwambia Moshe: Nenda, shuka, maana watu wako walezioka, ambao weweuliwatoa kutoka nchi ya Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "רד",
+      "gloss": "shuka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "wameharibu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "watu wako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "weweuliwatoa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kutoka nchi ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:28:03.213682429Z",
+  "model": "glm-5.2"
+}

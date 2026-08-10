@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 9:17",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Eloah yangu atawakataa, ⟨kwa sababu⟩ hawakumsikiliza, nao watakuwa watangataji matajiri kati ya ⟨wakati wa⟩ mataifa.",
+  "tokens": [
+    {
+      "surface": "יִמְאָסֵ֣ם",
+      "gloss": "atawakataa"
+    },
+    {
+      "surface": "אֱלֹהַ֔י",
+      "gloss": "Eloah yangu"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "⟨kwa sababu⟩"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "sio"
+    },
+    {
+      "surface": "שָׁמְע֖וּ",
+      "gloss": "walisikiliza"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "kwa yeye"
+    },
+    {
+      "surface": "וְיִהְי֥וּ",
+      "gloss": "nao watakuwa"
+    },
+    {
+      "surface": "נֹדְדִ֖ים",
+      "gloss": "watangataji"
+    },
+    {
+      "surface": "בַּגּוֹיִֽם",
+      "gloss": "mataifa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:20:14.066025367Z",
+  "model": "glm-5.2"
+}

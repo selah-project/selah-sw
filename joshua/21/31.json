@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "⟨את⟩ Chelkat na ⟨את⟩ mbuga yake, na ⟨את⟩ Rechov na ⟨את⟩ mbuga yake; miji minne.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelkat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Chelkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mbuga yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mbuga yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Rechov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mbuga yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mbuga yake"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miji"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minne"
+    }
+  ],
+  "timestamp": "2026-08-10T15:58:52.021786751Z",
+  "model": "glm-5.2"
+}

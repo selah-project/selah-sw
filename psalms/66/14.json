@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 66,
+  "translation": "ambazo mdomo wangu ulizifungua, na kauli ya kinywa changu ilizisema katika dhiki yangu",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "ulizifungua"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mdomo wangu"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "na kauli"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ya kinywa changu"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "katika dhiki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:01.430139312Z",
+  "model": "glm-5.2"
+}

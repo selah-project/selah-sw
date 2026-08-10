@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 88,
+  "translation": "Wimbo, mazabidi, kwa wana wa Korach, kwa mwongozaji, kwa nyimbo ya Machalath, kwa kujibu, mafundisho, kwa Heman Mwezrahi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazabidi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa wana wa"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "kwa mwongozaji"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "nyimbo ya Machalath"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "kwa kujibu"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mafundisho"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "kwa Heman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Mwezrahi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:37.592128920Z",
+  "model": "glm-5.2"
+}

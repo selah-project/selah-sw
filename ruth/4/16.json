@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na Noomi akauchukua ⟨את⟩ mtoto, akamweka tumboni mwake, naye akawa mlezi wake.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Na Noomi akauchukua"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtoto"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mtoto"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "akamweka"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "tumboni mwake"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "naye akawa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "mlezi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:43:29.285728271Z",
+  "model": "glm-5.2"
+}

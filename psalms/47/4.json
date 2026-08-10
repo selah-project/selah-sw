@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 47,
+  "translation": "Atawanyima watu chini yetu, na taifa chini ya miguu yetu.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "atawanyima"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "chini yetu"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "na taifa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "miguu yetu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:57.963311352Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 143,
+  "translation": "Nifundishe kufanya mapenzi yako, kwa sababu wewe Eloah wangu; roho yako ⟨ni⟩ nzuri, uniongoze katika nchi ya uwima.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "nifundishe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kufanya"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "mapenzi yako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloah wangu"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "roho yako"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "nzuri"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "uniongoze"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "ya uwima"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:26.355615266Z",
+  "model": "glm-5.2"
+}

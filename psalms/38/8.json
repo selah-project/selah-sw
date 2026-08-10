@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Kwa kuwa viuno vyangu vimewa na kuchomwa moto, wala hakuna afya ndani ya mwili wangu.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "כְ֭סָלַי",
+      "gloss": "viuno vyangu"
+    },
+    {
+      "surface": "מָלְא֣וּ",
+      "gloss": "vimewa"
+    },
+    {
+      "surface": "נִקְלֶ֑ה",
+      "gloss": "na kuchomwa moto"
+    },
+    {
+      "surface": "וְאֵ֥ין",
+      "gloss": "wala hakuna"
+    },
+    {
+      "surface": "מְתֹ֗ם",
+      "gloss": "afya"
+    },
+    {
+      "surface": "בִּבְשָׂרִֽי",
+      "gloss": "ndani ya mwili wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:45.363397253Z",
+  "model": "glm-5.2"
+}

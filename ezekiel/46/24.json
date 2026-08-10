@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 46:24",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 46,
+  "translation": "Akanambia, Hizi ni nyumba za kupikia, ambapo wahudumu wa ⟨hii⟩ nyumba wanapika ⟨huko⟩ ⟨את⟩ dhabihu za watu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akanambia"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Hizi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "המבשלים",
+      "gloss": "za kupikia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "יבשלו",
+      "gloss": "wanapika"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "wahudumu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wa nyumba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhabihu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "dhabihu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "za watu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:39:52.321378219Z",
+  "model": "glm-5.2"
+}

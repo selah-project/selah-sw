@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Yahweh ⟨ameketi⟩ juu ya maelfu-mawe, na Yahweh ⟨ameketi⟩ kuwa mfalme milele.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "juu ya maelfu-mawe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨ameketi⟩"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na ⟨ameketi⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuwa mfalme"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:57.836196002Z",
+  "model": "glm-5.2"
+}

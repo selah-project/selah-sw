@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 11:14",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na wataruka juu ya mabega ya Wapelishti upande wa magharibi, pamoja watateleza ⟨את⟩ wana wa Kedem; Edomu na Moabu ni utume wa mkono wao, na wana wa Amoni ni watii wao.",
+  "tokens": [
+    {
+      "surface": "ועפו",
+      "gloss": "na wataruka"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "juu ya mabega ya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Wapelishti"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "upande wa magharibi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "watateleza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana wa Kedem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Kedem"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "na Moabu"
+    },
+    {
+      "surface": "משלוח",
+      "gloss": "utume"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "wa mkono wao"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na wana wa"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "משמעתם",
+      "gloss": "ni watii wao"
+    }
+  ],
+  "timestamp": "2026-08-10T11:57:13.538028381Z",
+  "model": "glm-5.2"
+}

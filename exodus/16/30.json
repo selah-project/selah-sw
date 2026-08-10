@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Basi hao watu walipumzika siku ya saba.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "Basi walipumzika"
+    },
+    {
+      "surface": "העם",
+      "gloss": "hao watu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "saba"
+    }
+  ],
+  "timestamp": "2026-08-10T17:41:06.322735778Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Yahweh, hakuna awezaye kufanana nawe, wala hakuna Elohim kando yako, katika yote tuliyoisikia masikioni mwetu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "awezaye kufanana nawe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wala hakuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "kando yako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "tuliyoisikia"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "masikioni mwetu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:09:27.471474363Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 4:3",
+  "book": "song-of-songs",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Kama mshipa wa shani ⟨ni⟩ midomo yako, na kuongea kwako ⟨ni⟩ kupendeza; kama kipande la granati ndewe yako, nyuma ya utaji wako.",
+  "tokens": [
+    {
+      "surface": "כְּחוּת",
+      "gloss": "kama mshipa wa"
+    },
+    {
+      "surface": "הַשָּׁנִי",
+      "gloss": "shani"
+    },
+    {
+      "surface": "שִׂפְתֹתַ֔יִךְ",
+      "gloss": "midomo yako"
+    },
+    {
+      "surface": "וּמִדְבָּרֵ֖יךְ",
+      "gloss": "na kuongea kwako"
+    },
+    {
+      "surface": "נָאוֶ֑ה",
+      "gloss": "kupendeza"
+    },
+    {
+      "surface": "כְּפֶ֤לַח",
+      "gloss": "kama kipande cha"
+    },
+    {
+      "surface": "הָֽרִמֹּון֙",
+      "gloss": "granati"
+    },
+    {
+      "surface": "רַקָּתֵ֔ךְ",
+      "gloss": "ndewe yako"
+    },
+    {
+      "surface": "מִבַּ֖עַד",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "לְצַמָּתֵֽךְ",
+      "gloss": "utaji wako"
+    }
+  ],
+  "timestamp": "2026-08-10T16:23:56.013420923Z",
+  "model": "glm-5.2"
+}

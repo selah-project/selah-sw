@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "Na sasa, ningoje nini, Adonai? Tumaini langu, kwako ⟨hili⟩⟨ni⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na sasa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ningoje"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "Tumaini langu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨hili⟩⟨ni⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:46.536401484Z",
+  "model": "glm-5.2"
+}

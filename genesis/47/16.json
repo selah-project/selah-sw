@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 47,
+  "translation": "Na Yosefe akasema: Leteni mifugo yenu, nami nitawapa ⟨kwa⟩ mifugo yenu, ikiwa fedha imekwisha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Leteni"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "mifugo yenu"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "nami nitawapa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ndiyo"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "kwa mifugo yenu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "imekwisha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fedha"
+    }
+  ],
+  "timestamp": "2026-08-10T10:16:23.018907332Z",
+  "model": "glm-5.2"
+}

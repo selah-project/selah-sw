@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 51,
+  "translation": "Niokoe damu, Elohim, Elohim wa wokovu wangu; ⟨na⟩ ulimi wangu utaimba kwa sauti haki yako.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "niokoe"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "damu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "wa"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "wokovu wangu"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "utaimba kwa sauti"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ulimi wangu"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "haki yako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:07.473228439Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "na ⟨את⟩ Gath, na ⟨את⟩ Mareshah, na ⟨את⟩ Zif.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Gath"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mareshah"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Mareshah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Zif"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    }
+  ],
+  "timestamp": "2026-08-10T14:13:46.825566186Z",
+  "model": "glm-5.2"
+}

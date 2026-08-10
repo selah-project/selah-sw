@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na Yahweh akasema kwa Moshe, akisema:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    }
+  ],
+  "timestamp": "2026-08-10T14:28:09.533149752Z",
+  "model": "glm-5.2"
+}

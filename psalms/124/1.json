@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 124,
+  "translation": "Wimbo wa hatua za juu, wa David: Lusingekuwa Yahweh ⟨aliye⟩ kwetu — na sasa Israel na useme.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wa hatua za juu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "Lusingekuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "⟨aliye⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwetu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "na useme"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:16.521063789Z",
+  "model": "glm-5.2"
+}

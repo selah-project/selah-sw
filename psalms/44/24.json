@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Amka! Kwa nini unalala, ee Adonai? Ondoka! Usitukataje milela.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Amka!"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "unalala"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ee Adonai"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Ondoka!"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "tukataje"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "milela"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:12.829085917Z",
+  "model": "glm-5.2"
+}

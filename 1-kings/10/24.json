@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na nchi yote walimtafuta Shelomoh, ili kusikiliza ⟨את⟩ hekima yake, ambayo Elohim aliyaweka moyoni mwake.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Na wote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "walimtafuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uso wa Shelomoh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "wa Shelomoh"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ili kusikiliza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hekima yake"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "hekima yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Elohim aliyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "moyoni mwake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:40:49.378586492Z",
+  "model": "glm-5.2"
+}

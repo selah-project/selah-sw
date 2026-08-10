@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 5:8",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na ⟨kiasi⟩ cha matofali ambacho hao walikuwa wakifanya jana na juzi mtawawekea; msipunguze kitu mkwacho, kwa maana wale ni wavivu; kwa hiyo wao wanapiga kelele wakisema: Tuende tukachinja kwa Mungu wetu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "kiasi"
+    },
+    {
+      "surface": "מתכנת",
+      "gloss": "kiasi"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "cha matofali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambacho"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hao"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "walikuwa wakifanya"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "jana"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "na juzi"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "mtawawekea"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "msipunguze"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "msipunguze"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kitu mkwacho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "נרפים",
+      "gloss": "ni wavivu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wale"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa hiyo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kwa hiyo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "wanapiga kelele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wakisema"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "Tuende"
+    },
+    {
+      "surface": "נזבחה",
+      "gloss": "tukachinja"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "kwa Elohim wetu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:52.832470532Z",
+  "model": "glm-5.2"
+}

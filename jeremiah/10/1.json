@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Sikeni ⟨את⟩ neno ambalo Yahweh amenena juu yenu, nyumba ya Yisra'el.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Sikeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neno"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "amenena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "juu yenu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-10T12:13:11.194093520Z",
+  "model": "glm-5.2"
+}

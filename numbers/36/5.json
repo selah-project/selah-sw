@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Moshe akaamuru ⟨את⟩ wana wa Yisrael kwa amri ya Yahweh, akisema: \"Hivyo kabisa — kabila la wana wa Yosef linasema sawa.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "akaamuru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "amri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hivyo kabisa"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kabila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "la wana wa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "linasema sawa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:41:23.567617715Z",
+  "model": "glm-5.2"
+}

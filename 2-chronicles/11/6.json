@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "akajenga ⟨את⟩ Beth-Lechem, na ⟨את⟩ Etam, na ⟨את⟩ Tekoa;",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akajenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beth-Lechem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lechem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Etam"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tekoa"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekoa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:13:46.825327749Z",
+  "model": "glm-5.2"
+}

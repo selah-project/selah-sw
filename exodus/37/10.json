@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Akafanya ⟨את⟩ meza, kwa mbao zashiti; dhiraa mbili urefu wake, na dhiraa moja upana wake, na dhiraa moja na nusu kimo chake.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akafanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mbao za"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ashiti"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dhiraa mbili"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "urefu wake"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na dhiraa moja"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "upana wake"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na dhiraa moja"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na nusu"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "kimo chake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:29:26.763686787Z",
+  "model": "glm-5.2"
+}

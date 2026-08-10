@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Kwa maana misingi inavunjwa; mwenye haki — amefanya nini?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "misingi"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "inavunjwa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mwenye haki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "amefanya"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:30.005374796Z",
+  "model": "glm-5.2"
+}

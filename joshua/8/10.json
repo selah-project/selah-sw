@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na Yehoshua akaamka asubuhi mapema, akaikagua ⟨את⟩ watu, akapanda, yeye na wazee wa Yisraeli, mbele za watu, ⟨hadi⟩ Ha-Ay.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "akaamka mapema"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "akaikagua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "akapanda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "na wazee wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ha-Ay"
+    }
+  ],
+  "timestamp": "2026-08-10T15:58:27.733617629Z",
+  "model": "glm-5.2"
+}

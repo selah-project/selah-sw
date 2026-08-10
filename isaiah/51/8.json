@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 51,
+  "translation": "Kwa maana kama nguo itawala nondo, na kama sufu itawala kungu; na ukweli wango utakuwa milele, na wokovu wango kwa vizazi vya vizazi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "kama nguo"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "itawala"
+    },
+    {
+      "surface": "עש",
+      "gloss": "nondo"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "na kama sufu"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "itawala"
+    },
+    {
+      "surface": "סס",
+      "gloss": "kungu"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "na ukweli wango"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "utakuwa"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "na wokovu wango"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kwa vizazi"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "vya vizazi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:07:13.938220046Z",
+  "model": "glm-5.2"
+}

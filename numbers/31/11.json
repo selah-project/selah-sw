@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Wakachukua ⟨את⟩ nyenyo yote na ⟨את⟩ mateka yote, kati ya watu na kati ya wanyama.",
+  "tokens": [
+    {
+      "surface": "וַיִּקְחוּ֙",
+      "gloss": "Wakachukua"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "nyenyo yote"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הַשָּׁלָ֔ל",
+      "gloss": "nyenyo"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mateka yote"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הַמַּלְק֑וֹחַ",
+      "gloss": "mateka"
+    },
+    {
+      "surface": "בָּאָדָ֖ם",
+      "gloss": "kati ya watu"
+    },
+    {
+      "surface": "וּבַבְּהֵמָֽה",
+      "gloss": "na kati ya wanyama"
+    }
+  ],
+  "timestamp": "2026-08-10T18:27:30.819165954Z",
+  "model": "glm-5.2"
+}

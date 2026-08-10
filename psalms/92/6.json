@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 92,
+  "translation": "Ni kubwa vipi matendo yako, Yahweh; sana, ⟨ni⟩ ya kina sana mawazo yako.",
+  "tokens": [
+    {
+      "surface": "מַה",
+      "gloss": "vipi"
+    },
+    {
+      "surface": "גָּדְל֣וּ",
+      "gloss": "ni kubwa"
+    },
+    {
+      "surface": "מַעֲשֶׂ֣יךָ",
+      "gloss": "matendo yako"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מְ֝אֹ֗ד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "עָמְק֥וּ",
+      "gloss": "ya kina sana"
+    },
+    {
+      "surface": "מַחְשְׁבֹתֶֽיךָ",
+      "gloss": "mawazo yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:41.728546879Z",
+  "model": "glm-5.2"
+}

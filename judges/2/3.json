@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Nikaambia tena: Siwafukuzi ⟨את⟩ wao mbele zenu; nao watakuwa kwa ninyi kwa migono, na elohe yao watakuwa kwa ninyi kwa mtego.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Na tena"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nikaambia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Si"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "wafukuzi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wao"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "mbele zenu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "watakuwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa ninyi"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "kwa migono"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "na elohe yao"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "watakuwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa ninyi"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "kwa mtego"
+    }
+  ],
+  "timestamp": "2026-08-10T11:12:31.169811486Z",
+  "model": "glm-5.2"
+}

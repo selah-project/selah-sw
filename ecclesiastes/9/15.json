@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Akapata ndani yake mtu maskini mwenye hekima, naye akaokoa ⟨את⟩ jiji kwa hekima yake; lakini mtu hakumkumbuka ⟨את⟩ mtu yule maskini.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "akapata"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ndani yake"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "maskini"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mwenye hekima"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "naye akaokoa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiji"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "jiji"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "kwa hekima yake"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "lakini mtu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mkumbuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtu yule maskini"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "maskini"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yule"
+    }
+  ],
+  "timestamp": "2026-08-10T16:24:50.240367563Z",
+  "model": "glm-5.2"
+}

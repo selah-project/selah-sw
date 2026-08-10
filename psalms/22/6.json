@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Kwako walipiga mayowe wakaokolewa; kwako waliotegemea wala hawakuaibika.",
+  "tokens": [
+    {
+      "surface": "אֵלֶ֣יךָ",
+      "gloss": "Kwako"
+    },
+    {
+      "surface": "זָעֲק֣וּ",
+      "gloss": "walipiga mayowe"
+    },
+    {
+      "surface": "וְנִמְלָ֑טוּ",
+      "gloss": "wakaokolewa"
+    },
+    {
+      "surface": "בְּךָ֖",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "בָטְח֣וּ",
+      "gloss": "waliotegemea"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בֽוֹשׁוּ",
+      "gloss": "hawakuaibika"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:08.809326523Z",
+  "model": "glm-5.2"
+}

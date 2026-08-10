@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 80,
+  "translation": "Mzabibu umemhamisha kutoka Mitsrayim, umefukuza mataifa na kupanda ⟨ה⟩.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "mzabibu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kutoka Mitsrayim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "umemhamisha"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "umefukuza"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "na kupanda"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:54.712865122Z",
+  "model": "glm-5.2"
+}

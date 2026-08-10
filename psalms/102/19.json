@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Hilitatafsiriwa kwa ajili ya kizazi cha mwisho, na taifa litakaumbwa litasifu Yah.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "Hilitatafsiriwa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Hili"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kwa ajili ya kizazi cha"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "mwisho"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na taifa"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "litakaumbwa"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "litasifu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:31.640157934Z",
+  "model": "glm-5.2"
+}

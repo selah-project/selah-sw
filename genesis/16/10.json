@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na mjumbe wa Yahweh akamwambia: Kwa wingi nitakuongezea ⟨את⟩ mzazi wako, wala hataweza kuhesabiwa kwa wingi wake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akamwambia"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mjumbe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "kwa wingi"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "nitakuongezea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzazi wako"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mzazi wako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hataweza"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "kuhesabiwa"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "kwa wingi wake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:04:35.685875225Z",
+  "model": "glm-5.2"
+}

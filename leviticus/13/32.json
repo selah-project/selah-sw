@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na kohen ataangalia ⟨את⟩ pengo siku ya saba, na tazama, kama netek haujaeneza, wala hakuna ndani yake nyekundu-ya dhahabu, na muonekano wa netek haukwa wa kina zaidi kuliko ngozi;",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Na ataangalia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pengo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "pengo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "saba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "halipo"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "kueneza"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "היה",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ndani yake"
+    },
+    {
+      "surface": "שער",
+      "gloss": "nyeupe"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "nyekundu-ya dhahabu"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "na muonekano wa"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netek"
+    },
+    {
+      "surface": "אין",
+      "gloss": "haukwa"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "wa kina"
+    },
+    {
+      "surface": "מן",
+      "gloss": "zaidi kuliko"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ngozi"
+    }
+  ],
+  "timestamp": "2026-08-10T17:42:38.676463270Z",
+  "model": "glm-5.2"
+}

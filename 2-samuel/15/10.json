@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Na Avishalomi akatumaapelelezi katika makabila yote ya Yisraeli, akisema: \"Mara mtakaposikia ⟨⟨את⟩⟩ sauti ya tarumbeta, mtasema: Avishalomi amefanywa mfalme huko Hevroni.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Na akatuma"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avishalomi"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "apelelezi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "makabila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "mtakaposikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauti"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "ya tarumbeta"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "mtasema"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "amefanywa mfalme"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avishalomi"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "huko Hevroni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:33:16.383569566Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Akanitoa ⟨kuelekea⟩ nafasi yenye wasaa, ⟨את⟩ mimi; akaniokoa, maana alipendezwa nami.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Akanitoa"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "⟨kuelekea⟩ nafasi yenye wasaa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mimi"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "akaniokoa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "alipendezwa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nami"
+    }
+  ],
+  "timestamp": "2026-08-10T11:36:03.426261993Z",
+  "model": "glm-5.2"
+}

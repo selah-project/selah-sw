@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Iniwezeshe kulingana na neno lako ili niwe hai, wala usinionyeshe aibu kuhusu matumaini yangu.",
+  "tokens": [
+    {
+      "surface": "סָמְכֵ֣נִי",
+      "gloss": "iniwezeshe"
+    },
+    {
+      "surface": "כְאִמְרָתְךָ֣",
+      "gloss": "kulingana na neno lako"
+    },
+    {
+      "surface": "וְאֶֽחְיֶ֑ה",
+      "gloss": "ili niwe hai"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "wala usi"
+    },
+    {
+      "surface": "תְּ֝בִישֵׁ֗נִי",
+      "gloss": "nionyeshe aibu"
+    },
+    {
+      "surface": "מִשִּׂבְרִֽי",
+      "gloss": "kuhusu matumaini yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:14.319277783Z",
+  "model": "glm-5.2"
+}

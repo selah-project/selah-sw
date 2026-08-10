@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 50:10",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Na Kashdim itakuwa ⟨kwa⟩ nyara; wote wanaoinyara watashiba, neno la Yahweh.",
+  "tokens": [
+    {
+      "surface": "וְהָיְתָה",
+      "gloss": "Na itakuwa"
+    },
+    {
+      "surface": "כַשְׂדִּים",
+      "gloss": "Kashdim"
+    },
+    {
+      "surface": "לְשָׁלָל",
+      "gloss": "⟨kwa⟩ nyara"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "שֹׁלְלֶיהָ",
+      "gloss": "wanaoinyara"
+    },
+    {
+      "surface": "יִשְׂבָּעוּ",
+      "gloss": "watashiba"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "neno la"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T12:24:36.559645449Z",
+  "model": "glm-5.2"
+}

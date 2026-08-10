@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Moshe akaandika ⟨את⟩ torah hii, akawapa ⟨kwa⟩ makuhani, wana wa Levi, wanaobeba ⟨את⟩ sanduku la agano la Yahweh, na ⟨kwa⟩ wazee wote wa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "akaandika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torah"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hii"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "akawapa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "makuhani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "wa Levi"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "wanaobeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "la agano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ⟨kwa⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "wazee"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T15:57:51.201742171Z",
+  "model": "glm-5.2"
+}

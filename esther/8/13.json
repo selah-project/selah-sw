@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 8:13",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Nakala ya andiko ili ⟨iwe⟩ toleo wa amri katika jimbo na jimbo, iliyo wazi kwa watu wote, na Wayahudi wawe tayari kwa siku hii kujilipiza kisasi dhidi ya maadui zao.",
+  "tokens": [
+    {
+      "surface": "פַּתְשֶׁ֣גֶן",
+      "gloss": "Nakala"
+    },
+    {
+      "surface": "הַכְּתָ֗ב",
+      "gloss": "ya andiko"
+    },
+    {
+      "surface": "לְהִנָּ֤תֵֽן",
+      "gloss": "ili ⟨iwe⟩ toleo"
+    },
+    {
+      "surface": "דָּת֙",
+      "gloss": "wa amri"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "katika"
+    },
+    {
+      "surface": "מְדִינָ֣ה",
+      "gloss": "jimbo"
+    },
+    {
+      "surface": "וּמְדִינָ֔ה",
+      "gloss": "na jimbo"
+    },
+    {
+      "surface": "גָּל֖וּי",
+      "gloss": "iliyo wazi"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הָעַמִּ֑ים",
+      "gloss": "watu wote"
+    },
+    {
+      "surface": "וְלִהְי֨וֹת",
+      "gloss": "na wawe"
+    },
+    {
+      "surface": "היהודיים",
+      "gloss": "Wayahudi"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "tayari"
+    },
+    {
+      "surface": "לַיּ֣וֹם",
+      "gloss": "kwa siku"
+    },
+    {
+      "surface": "הַזֶּ֔ה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "לְהִנָּקֵ֖ם",
+      "gloss": "kujilipiza kisasi"
+    },
+    {
+      "surface": "מֵאֹיְבֵיהֶֽם",
+      "gloss": "dhidi ya maadui zao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:50:13.164408745Z",
+  "model": "glm-5.2"
+}

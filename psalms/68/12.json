@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Adonai anatoa neno; ⟨⟩ wabashiri wa kike ni jeshi kubwa.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "anatoa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "wabashiri wa kike"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "jeshi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kubwa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:46.904912363Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Basi mfalme akaondoa ⟨את⟩ alama yake ya mhuri kutoka mkononi mwake, akampa Hamani mwana wa Medatha, Mwagagi, adui wa Wayahudi.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֧סַר",
+      "gloss": "basi akaondoa"
+    },
+    {
+      "surface": "הַמֶּ֛לֶךְ",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "alama yake ya mhuri"
+    },
+    {
+      "surface": "טַבַּעְתּ֖וֹ",
+      "gloss": "alama yake ya mhuri"
+    },
+    {
+      "surface": "מֵעַ֣ל",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "יָד֑וֹ",
+      "gloss": "mkononi mwake"
+    },
+    {
+      "surface": "וַֽיִּתְּנָ֗הּ",
+      "gloss": "akampa"
+    },
+    {
+      "surface": "לְהָמָ֧ן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "בֶּֽן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הַמְּדָ֛תָא",
+      "gloss": "wa Medatha"
+    },
+    {
+      "surface": "הָאֲגָגִ֖י",
+      "gloss": "Mwagagi"
+    },
+    {
+      "surface": "צֹרֵ֥ר",
+      "gloss": "adui"
+    },
+    {
+      "surface": "הַיְּהוּדִֽים",
+      "gloss": "wa Wayahudi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:48:50.775626974Z",
+  "model": "glm-5.2"
+}

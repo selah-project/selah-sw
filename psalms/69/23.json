@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Na meza yao na iwe mtego mbele yao, na ⟨vitu⟩ vya amani yao na viwe kamili.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "na iwe"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "meza yao"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "mbele yao"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "mtego"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "na ⟨vitu⟩ vya amani yao"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "kamtili"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:37.186038011Z",
+  "model": "glm-5.2"
+}

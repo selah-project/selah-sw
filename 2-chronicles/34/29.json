@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Na mfalume akatuma ⟨na⟩ akakusanya ⟨את⟩ wazee wote wa Yehudah na Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "na akatuma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalume"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "na akakusanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wazee wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "wazee wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T14:20:53.950753568Z",
+  "model": "glm-5.2"
+}

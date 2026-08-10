@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na ⟨amtekie moto⟩ ⟨את⟩ ng'ombe jike mbele za macho yake; ⟨את⟩ ngozi yake na ⟨את⟩ nyama yake na ⟨את⟩ damu yake juu ya mavi yake atateketeza.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "na atateketeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe jike"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "ng'ombe jike"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "mbele za macho yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngozi yake"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "ngozi yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyama yake"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "nyama yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "damu yake"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "damu yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "mavi yake"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "atateketeza"
+    }
+  ],
+  "timestamp": "2026-08-10T10:47:03.224157785Z",
+  "model": "glm-5.2"
+}

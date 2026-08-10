@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Nao wataleta mkutano juu yako, nao watakutongoza ⟨na⟩ mawe, nao watakukata kwa upanga wao.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "nao wataleta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "juu yako"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "mkutano"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "nao watakutongoza"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wewe",
+      "marks": "wewe kwa mawe"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "⟨na⟩ mawe"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "nao watakukata"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "kwa upanga wao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:16:12.263155200Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Aliwapa mafuriko yao barafu, moto wa mwako katika nchi yao.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Aliwapa"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "mafuriko yao"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "barafu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "wa mwako"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "katika nchi yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:10.468881125Z",
+  "model": "glm-5.2"
+}

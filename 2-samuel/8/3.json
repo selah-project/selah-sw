@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "David akampiga ⟨את⟩ Hadadezeri mwana wa Rehobu, mfalme wa Zobahu, aendapo kurudisha mkono wake ⟨kwenye⟩ Mto.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "akampiga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezeri"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezeri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehobu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme wa"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Zobahu"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "aendapo"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "kurudisha"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "⟨kwenye⟩ Mto"
+    }
+  ],
+  "timestamp": "2026-08-10T11:31:14.827026608Z",
+  "model": "glm-5.2"
+}

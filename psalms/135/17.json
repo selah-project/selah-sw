@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 135,
+  "translation": "Masikio nayo yana, lakini hayasikii; pia hakuna hewa kwenye midomo yao.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "masikio"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lakini hayana"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "hayasikii"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pia"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨kunako⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hewa"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "kwenye midomo yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:28.060952243Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Naye Davidu ⟨yeye⟩ ⟨ni⟩ mdogo, na watatu wakuu walienda nyuma ya Shaul.",
+  "tokens": [
+    {
+      "surface": "vdvd",
+      "gloss": "na Davidu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mdogo"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "na watatu"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "wakuu"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "walienda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-10T11:24:12.228339661Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na kwa Makiri nilimpa ⟨את⟩ Gileadi.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Na kwa Makiri"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nilimpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gileadi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileadi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:53:39.428386706Z",
+  "model": "glm-5.2"
+}

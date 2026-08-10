@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Nayo wana wa Yisra'eli wakaja kununua chakula kati ya wanaokuja, kwa njia ya kwali njaa ⟨ilikuwa⟩ katika nchi ya Kenaani.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "wakaja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kununua chakula"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "wanaokuja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa njia ya kwamba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ilikuwa"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "njaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi ya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:14:25.147740012Z",
+  "model": "glm-5.2"
+}

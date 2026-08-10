@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Ondoka, ee Yahweh! Niokoe, Elohai wangu! Maana wewe umepiga ⟨את⟩ wote adui zangu kofia; meno wa wabaya umeyavunja.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ondoka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "Niokoe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai wangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Maana"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "umepiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wote adui zangu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "adui zangu"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "kofia"
+    },
+    {
+      "surface": "שני",
+      "gloss": "meno"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wa wabaya"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "umeyavunja"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:26.659697172Z",
+  "model": "glm-5.2"
+}

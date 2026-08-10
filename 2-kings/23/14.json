@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Akavunja ⟨את⟩ nguzo, akakata ⟨את⟩ mashine, akaijaza ⟨את⟩ mahali pao mifupa ya watu.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "Akavunja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguzo"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "nguzo"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "akakata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashine"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "mashine"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "akaijaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahali pao"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "mahali pao"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mifupa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya watu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:04:36.500416593Z",
+  "model": "glm-5.2"
+}

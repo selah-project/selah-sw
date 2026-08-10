@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 2:10",
+  "book": "habakkuk",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Umeshauri aibu kwa ajili ya nyumba yako, ukiwatenga mataifa mengi, na kufanya dhambi dhidi ya nafsi yako.",
+  "tokens": [
+    {
+      "surface": "יעצת",
+      "gloss": "umeshauri"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "aibu"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "kwa ajili ya nyumba yako"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ukiwatenga"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mengi"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "na kufanya dhambi"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "dhidi ya nafsi yako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:49:10.356707309Z",
+  "model": "glm-5.2"
+}

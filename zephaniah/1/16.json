@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Siku ya pembe na mpigo wa kelele, juu ya miji iliyofungwa, na juu ya pembe za juu.",
+  "tokens": [
+    {
+      "surface": "י֥וֹם",
+      "gloss": "siku"
+    },
+    {
+      "surface": "שׁוֹפָ֖ר",
+      "gloss": "ya pembe"
+    },
+    {
+      "surface": "וּתְרוּעָ֑ה",
+      "gloss": "na mpigo wa kelele"
+    },
+    {
+      "surface": "עַ֚ל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הֶעָרִ֣ים",
+      "gloss": "miji"
+    },
+    {
+      "surface": "הַבְּצֻר֔וֹת",
+      "gloss": "iliyofungwa"
+    },
+    {
+      "surface": "וְעַ֖ל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "הַפִּנּ֥וֹת",
+      "gloss": "pembe"
+    },
+    {
+      "surface": "הַגְּבֹהֽוֹת",
+      "gloss": "za juu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:50:13.891554188Z",
+  "model": "glm-5.2"
+}

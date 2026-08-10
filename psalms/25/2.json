@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Elohay wangu, ndani yako nimejiaminia; nisionwe aibu; wala adui zangu wasifurahi juu yangu.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohay wangu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ndani yako"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nimejiaminia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nisionwe"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "aibu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "wasifurahi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "adui zangu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "juu yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:01.595780468Z",
+  "model": "glm-5.2"
+}

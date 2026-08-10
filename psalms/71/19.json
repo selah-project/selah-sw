@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 71,
+  "translation": "Na haki yako, Elohim, ⟨imefika⟩ mpaka mbali juu; ⟨wewe⟩ ambaye umefanya mambo makuu, Elohim, ni nani kama wewe?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "Na haki yako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "mbali juu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "umefanya"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "mambo makuu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kama wewe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:13.670285247Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 118,
+  "translation": "Huu ndio siku ambayo Yahweh ⟨ameifanya⟩; tufurahi na kushangilia ndani yake.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "huu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨ameifanya⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "tufurahi"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "na kushangilia"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ndani yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:21.553168346Z",
+  "model": "glm-5.2"
+}

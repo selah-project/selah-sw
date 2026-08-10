@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Kwa kuwa kuna maneno mengi yanaongeza hebel; ni faida gani ⟨kwa⟩ mtu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mengi"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "yanaongeza"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gani"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "faida"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "mtu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:47:27.228550329Z",
+  "model": "glm-5.2"
+}

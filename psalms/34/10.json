@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Mcheni ⟨את⟩ Yahweh, watakatifu wake, maana hakuna uhaba kwa wamchao.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Mcheni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "watakatifu wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "uhaba"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kwa wamchao"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:23.206844623Z",
+  "model": "glm-5.2"
+}

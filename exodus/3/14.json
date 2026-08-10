@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 3:14",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Elohim akamwambia Moshe: Ehyeh asher ehyeh. Akasema: Hivi ndivyo utakavyowaambia wana wa Yisrael: Ehyeh amenituma kwenu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ehyeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "asher"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ehyeh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Hivi"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "utakavyowaambia"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ehyeh"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "amenituma"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:59.639630026Z",
+  "model": "glm-5.2"
+}

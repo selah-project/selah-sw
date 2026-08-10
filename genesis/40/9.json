@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 40:9",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Na sar wa wahudumu wa masharaba akamsimulia ⟨את⟩ ndoto yake kwa Yosefu, akamwambia: Katika ndoto yangu, na tazama, mzabibu ⟨ulikuwa⟩ mbele yangu.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "akamsimulia"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wa wahudumu wa masharaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndoto yake"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "ndoto yake"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "kwa Yosefu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "m"
+    },
+    {
+      "surface": "בחלומי",
+      "gloss": "Katika ndoto yangu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "mzabibu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:12:51.866322183Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 85,
+  "translation": "Hakika wokovu wake ⟨u⟩ karibu na wamchao, ili utukufu apkae katika nchi yetu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Hakika"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "karibu"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "na wamchao"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "wokovu wake"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "apkae"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "utukufu"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "katika nchi yetu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:17.457570561Z",
+  "model": "glm-5.2"
+}

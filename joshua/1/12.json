@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 1:12",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na kwa Warubeni, na kwa Wagadi, na kwa nusu ya kabila la Menashe, Yehoshua akasema, akisema:",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "na kwa Warubeni"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "na kwa Wagadi"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "na kwa nusu ya"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kabila la"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    }
+  ],
+  "timestamp": "2026-08-10T14:44:39.012370689Z",
+  "model": "glm-5.2"
+}

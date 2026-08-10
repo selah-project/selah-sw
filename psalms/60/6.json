@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 60,
+  "translation": "Umewapa wakaogopa ⟨ako⟩ bendera ili yainuliwe kwa ajili ya kweli. Selah.",
+  "tokens": [
+    {
+      "surface": "נָ֘תַ֤תָּה",
+      "gloss": "umewapa"
+    },
+    {
+      "surface": "לִירֵאֶ֣יךָ",
+      "gloss": "wakaogopa ⟨ako⟩"
+    },
+    {
+      "surface": "נֵּ֭ס",
+      "gloss": "bendera"
+    },
+    {
+      "surface": "לְהִתְנוֹסֵ֑ס",
+      "gloss": "ili yainuliwe"
+    },
+    {
+      "surface": "מִ֝פְּנֵ֗י",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "קֹ֣שֶׁט",
+      "gloss": "kweli"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:49.307255865Z",
+  "model": "glm-5.2"
+}

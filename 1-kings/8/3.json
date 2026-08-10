@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Wakaingia wazee wote wa Yisra'el, nao makuhani wakaichukua ⟨את⟩ sanduku.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Wakaingia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "wazee"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "wakaichukua"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "makuhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sanduku"
+    }
+  ],
+  "timestamp": "2026-08-10T11:40:15.921288974Z",
+  "model": "glm-5.2"
+}

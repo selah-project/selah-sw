@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Kwa hiyo nimzipenda amri zako zaidi kuliko dhahabu, na kuliko dhahabu safi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "nimzipenda"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amri zako"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "kuliko dhahabu"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "na kuliko dhahabu safi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:11.360936238Z",
+  "model": "glm-5.2"
+}

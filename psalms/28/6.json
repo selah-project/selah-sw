@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Abarikiwe Yahweh, kwa maana ⟨ame⟩sikia sauti ya maombi yangu.",
+  "tokens": [
+    {
+      "surface": "בָּר֥וּךְ",
+      "gloss": "abarikiwe"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "שָׁ֝מַע",
+      "gloss": "amesikia"
+    },
+    {
+      "surface": "ק֣וֹל",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "תַּחֲנוּנָֽי",
+      "gloss": "ya maombi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:59.335377710Z",
+  "model": "glm-5.2"
+}

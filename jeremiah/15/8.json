@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 15:8",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Wajane wake wamezidi kwangu kuliko mchanga wa bahari; nimewaleteni juu yake, ⟨dhidi ya⟩ mama wa vijana, mharibifu mchana; nimeifanya ianguke juu yake ghafla, mji, na mahadhi.",
+  "tokens": [
+    {
+      "surface": "עָֽצְמוּ",
+      "gloss": "wamezidi"
+    },
+    {
+      "surface": "לִ֤י",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "אַלְמְנֹתָו֙",
+      "gloss": "wajane wake"
+    },
+    {
+      "surface": "מֵח֣וֹל",
+      "gloss": "kuliko mchanga"
+    },
+    {
+      "surface": "יַמִּ֔ים",
+      "gloss": "wa bahari"
+    },
+    {
+      "surface": "הֵבֵ֨אתִי",
+      "gloss": "nimeleta"
+    },
+    {
+      "surface": "לָהֶ֥ם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "אֵ֛ם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "בָּח֖וּר",
+      "gloss": "wa vijana"
+    },
+    {
+      "surface": "שֹׁדֵ֣ד",
+      "gloss": "mharibifu"
+    },
+    {
+      "surface": "בַּֽצָּהֳרָ֑יִם",
+      "gloss": "mchana"
+    },
+    {
+      "surface": "הִפַּ֤לְתִּי",
+      "gloss": "nimeifanya ianguke"
+    },
+    {
+      "surface": "עָלֶ֨יהָ֙",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "פִּתְאֹ֔ם",
+      "gloss": "ghafla"
+    },
+    {
+      "surface": "עִ֖יר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "וּבֶהָלֽוֹת",
+      "gloss": "na mahadhi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:14:29.404795203Z",
+  "model": "glm-5.2"
+}

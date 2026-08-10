@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Na Moshe aliandika ⟨את⟩ matemazi yao kwa safari zao kwa amri ya Yahweh; na hizi ndizo safari zao kwa matemazi yao.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Na aliandika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matemazi yao"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "matemazi yao"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "kwa safari zao"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "amri ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "na hizi"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "safari zao"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "kwa matemazi yao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:56:08.930882114Z",
+  "model": "glm-5.2"
+}

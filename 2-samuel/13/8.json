@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Basi Tamar akaenda nyumbani kwa Amnon ndugu yake; naye alelala. Akachukua ⟨את⟩ unga, akulikanda, akapika mikate mbele ya macho yake, na kuoka ⟨את⟩ mikate.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumbani"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "kwa Amnon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ndugu yake"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "naye"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "alelala"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "akachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unga"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "unga"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "akalikanda"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "akapika mikate"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "mbele ya macho yake"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "na kuoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikate"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "mikate"
+    }
+  ],
+  "timestamp": "2026-08-10T14:55:54.162946662Z",
+  "model": "glm-5.2"
+}

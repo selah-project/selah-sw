@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Izebeli akamtuma mjumbe kwa Eliyahu, akisema: Vivyo hivi na Elohim afanye nami, na vivyo hivi na waongeze; kwa maana keshakati hii nitafanya ⟨את⟩ nafsi yako kuwa kama nafsi ya mmoja wao.",
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "akamtuma"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebeli"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mjumbe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "כה",
+      "gloss": "vivyo hivi"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "na afanye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "na vivyo hivi"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "na waongeze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "keshakati hii"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "kesho"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "nitafanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafsi yako"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nafsi yako"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "kuwa kama nafsi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ya mmoja"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wao"
+    }
+  ],
+  "timestamp": "2026-08-10T16:03:40.960381018Z",
+  "model": "glm-5.2"
+}

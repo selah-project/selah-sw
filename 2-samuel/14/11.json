@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 14:11",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na akasema: «Tafadhali mfalme akumbuke ⟨את⟩ Yahweh Elohim wako, ili mkombozi wa damu asiongeze kuharibu, wasiangamize ⟨את⟩ mwanangu.» Na mfalme akasema: «Kwaisha Yahweh — kama unywele wa mwanako utaanguka ardhini!»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "akumbuke"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Tafadhali"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "מהרבית",
+      "gloss": "asiongeze"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "mkombozi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "wa damu"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "kuharibu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "ישמידו",
+      "gloss": "angamize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanangu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanangu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Kwaisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "utaanguka"
+    },
+    {
+      "surface": "משערת",
+      "gloss": "unywele"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wa mwanako"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ardhini"
+    }
+  ],
+  "timestamp": "2026-08-10T11:32:10.407574940Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "Na huyo mtu akafanya kama alivyosema Yosefu, na huyo mtu akaingiza ⟨את⟩ watu nyumbani kwa Yosefu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akafanya"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "na huyo mtu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alivyosema"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na akaingiza"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "huyo mtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "nyumbani"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "kwa Yosefu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:14:44.706090174Z",
+  "model": "glm-5.2"
+}

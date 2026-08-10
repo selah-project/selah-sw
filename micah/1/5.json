@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kwaasi ya Yaakov ⟨ni⟩ hivi vyote, na kwa dhambi za nyumba ya Yisra'el. Asi ya Yaakov ni nini? Je, si Shomron? na mahali pa juu pa Yehudah ni nini? Je, si Yerushalayim?",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "kwaasi ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "na kwa dhambi za"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nini"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "asi ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "je, si"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na ni nini"
+    },
+    {
+      "surface": "במות",
+      "gloss": "mahali pa juu pa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "je, si"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T12:47:38.048522579Z",
+  "model": "glm-5.2"
+}

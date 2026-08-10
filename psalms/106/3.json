@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Heri ⟨wale⟩ wahifadhiao hukumu, ⟨wale⟩ watendao haki wakati wote.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heri"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "⟨wale⟩ wahifadhiao"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨wale⟩ watendao"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "haki"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wakati wote"
+    },
+    {
+      "surface": "עת",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:18.826419101Z",
+  "model": "glm-5.2"
+}

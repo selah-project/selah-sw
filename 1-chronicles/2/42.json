@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 2:42",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na wana wa Kalev ndugu wa Yerahme'eli: Mesha nduguze wa kwanza, yeye ⟨ni⟩ baba wa Zifu; na wana wa Maresha: baba wa ⟨Ḥevron⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "na wana wa"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ndugu wa"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerahme'eli"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "Mesha"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mwanzo wake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba wa"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zifu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na wana wa"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Maresha"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba wa"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Ḥevron"
+    }
+  ],
+  "timestamp": "2026-08-10T15:42:06.562797525Z",
+  "model": "glm-5.2"
+}

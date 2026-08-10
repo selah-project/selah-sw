@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 18:5",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Kwa kuwa kabla ya mavuno, wakati ua limekamilika, na zabibu mbichi kinakuwa ⟨ni⟩ mlolongo, ⟨yeye⟩ atakata miche na wingaji, na ⟨את⟩ vigogo vitaondolewa vikatwavwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kabla ya"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "mavuno"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "limekamilika"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "ua"
+    },
+    {
+      "surface": "ובסר",
+      "gloss": "na zabibu mbichi"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "kinakuza"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ni⟩ mlolongo"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "ua"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "na atakata"
+    },
+    {
+      "surface": "הזלזלים",
+      "gloss": "miche na wingaji"
+    },
+    {
+      "surface": "במזמרות",
+      "gloss": "na wingaji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vigogo"
+    },
+    {
+      "surface": "הנטישות",
+      "gloss": "vigogo"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "vitaondolewa"
+    },
+    {
+      "surface": "התז",
+      "gloss": "vikatwavwa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:58:31.152282859Z",
+  "model": "glm-5.2"
+}

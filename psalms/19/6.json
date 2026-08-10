@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na yeye kama bwana arusi ⟨anatoka⟩ kutoka chumba chake, ⟨anafurahi⟩ kama shujaa wa kukimbia njia.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "na yeye"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "kama bwana arusi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "⟨anatoka⟩"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "kutoka chumba chake"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "⟨anafurahi⟩"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "kama shujaa"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "wa kukimbia"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "njia"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:35.090522985Z",
+  "model": "glm-5.2"
+}

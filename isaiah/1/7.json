@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Nchi yenu ⟨ni⟩ ukiwa, miji yaku imechomwa moto, ardhi yenu — mbele yenu wageni wanala ⟨את⟩, na ⟨ni⟩ ukiwa kama mahali pa kupinduliwa na wageni.",
+  "tokens": [
+    {
+      "surface": "אַרְצְכֶ֣ם",
+      "gloss": "Nchi yenu"
+    },
+    {
+      "surface": "שְׁמָמָ֔ה",
+      "gloss": "ukiwa"
+    },
+    {
+      "surface": "עָרֵיכֶ֖ם",
+      "gloss": "miji yenu"
+    },
+    {
+      "surface": "שְׂרֻפ֣וֹת",
+      "gloss": "imechomwa"
+    },
+    {
+      "surface": "אֵ֑שׁ",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אַדְמַתְכֶ֗ם",
+      "gloss": "ardhi yenu"
+    },
+    {
+      "surface": "לְנֶגְדְּכֶם֙",
+      "gloss": "mbele yenu"
+    },
+    {
+      "surface": "זָרִ֔ים",
+      "gloss": "wageni"
+    },
+    {
+      "surface": "אֹכְלִ֖ים",
+      "gloss": "wanala"
+    },
+    {
+      "surface": "אֹתָ֑הּ",
+      "gloss": "⟨את⟩",
+      "marks": "ardhi yenu"
+    },
+    {
+      "surface": "וּשְׁמָמָ֖ה",
+      "gloss": "na ukiwa"
+    },
+    {
+      "surface": "כְּמַהְפֵּכַ֥ת",
+      "gloss": "kama mahali pa kupinduliwa"
+    },
+    {
+      "surface": "זָרִֽים",
+      "gloss": "na wageni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:00.953261879Z",
+  "model": "glm-5.2"
+}

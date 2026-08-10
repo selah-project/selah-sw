@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Wamemteja wote waopita njiani; amekuwa fedheha kwa jirani zake.",
+  "tokens": [
+    {
+      "surface": "שַׁ֭סֻּהוּ",
+      "gloss": "Wamemteja"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "עֹ֣בְרֵי",
+      "gloss": "waopita"
+    },
+    {
+      "surface": "דָ֑רֶךְ",
+      "gloss": "njiani"
+    },
+    {
+      "surface": "הָיָ֥ה",
+      "gloss": "amekuwa"
+    },
+    {
+      "surface": "חֶ֝רְפָּ֗ה",
+      "gloss": "fedheha"
+    },
+    {
+      "surface": "לִשְׁכֵנָֽיו",
+      "gloss": "kwa jirani zake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:07.594730813Z",
+  "model": "glm-5.2"
+}

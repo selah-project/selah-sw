@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 111,
+  "translation": "Ukombozi ⟨umetumwa⟩ kwa watu wake; ameagiza ⟨⟩ beriti yake hata milele; mtakatifu na wa kutisha ni jina lake.",
+  "tokens": [
+    {
+      "surface": "פְּדוּת",
+      "gloss": "ukombozi"
+    },
+    {
+      "surface": "שָׁלַח",
+      "gloss": "umetumwa"
+    },
+    {
+      "surface": "לְעַמּוֹ",
+      "gloss": "kwa watu wake"
+    },
+    {
+      "surface": "צִוָּה",
+      "gloss": "ameagiza"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "hata milele"
+    },
+    {
+      "surface": "בְּרִיתוֹ",
+      "gloss": "beriti yake"
+    },
+    {
+      "surface": "קָדוֹשׁ",
+      "gloss": "mtakatifu"
+    },
+    {
+      "surface": "וְנוֹרָא",
+      "gloss": "na wa kutisha"
+    },
+    {
+      "surface": "שְׁמוֹ",
+      "gloss": "jina lake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:48.264276136Z",
+  "model": "glm-5.2"
+}

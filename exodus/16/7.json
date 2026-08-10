@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na asubuhi, nanyi mtaona ⟨את⟩ utukufu wa Yahweh, kwa kusikia kwake ⟨את⟩ malalamiko yenu juu ya Yahweh; na sisi ni nini, ya kwamba mnalalamika juu yetu?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "Na asubuhi"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "nanyi mtaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utukufu wa Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "utukufu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "kwa kusikia kwake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malalamiko yenu"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "malalamiko yenu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "na sisi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni nini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "mnalalamika"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "juu yetu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:23:16.640814499Z",
+  "model": "glm-5.2"
+}

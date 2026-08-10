@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na ⟨את⟩ sehemu iliyosalia ya taifa akaiweka mkononi mwa Avishayi nduguye, naye akaupanga ⟨kwa⟩ kukabiliana na wana wa Amoni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sehemu iliyosalia"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "sehemu iliyosalia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya taifa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akaiweka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mkononi mwa"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Avishayi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nduguye"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "naye akaupanga"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "⟨kwa⟩ kukabiliana na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:31:26.697236068Z",
+  "model": "glm-5.2"
+}

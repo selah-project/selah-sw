@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Kwa hiyo nimeyathibitisha yote maagizo yako kuhusu yote; njia kila ya uongo nimichukia.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "maagizo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "nimeyathibitisha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "njia"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ya uongo"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nimichukia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:11.361067805Z",
+  "model": "glm-5.2"
+}

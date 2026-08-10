@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Pamoja wana wa adamu, pamoja wana wa ⟨mwanaume⟩, mwenye mali na maskini.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Pamoja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨mwanaume⟩"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "mwenye mali"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na maskini"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:49.852486796Z",
+  "model": "glm-5.2"
+}

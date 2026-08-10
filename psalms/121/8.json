@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 121,
+  "translation": "Yahweh atalinda kuondoka kwako na kuja kwako, sasa na hata milele.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "atalinda"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "kuondoka kwako"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "na kuja kwako"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na hata"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:47.747500066Z",
+  "model": "glm-5.2"
+}

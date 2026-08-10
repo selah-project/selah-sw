@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 139,
+  "translation": "Nikisema, hakika giza linanizunguka, basi usiku huwa ⟨ni⟩ mwangaza kuzunguka nami.",
+  "tokens": [
+    {
+      "surface": "וָאֹמַר",
+      "gloss": "Nikisema"
+    },
+    {
+      "surface": "אַךְ",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "חֹשֶׁךְ",
+      "gloss": "giza"
+    },
+    {
+      "surface": "יְשׁוּפֵנִי",
+      "gloss": "linanizunguka"
+    },
+    {
+      "surface": "וְלַיְלָה",
+      "gloss": "basi usiku"
+    },
+    {
+      "surface": "אוֹר",
+      "gloss": "huwa ⟨ni⟩ mwangaza"
+    },
+    {
+      "surface": "בַּעֲדֵנִי",
+      "gloss": "kuzunguka nami"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:04.244814384Z",
+  "model": "glm-5.2"
+}

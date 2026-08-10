@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 76,
+  "translation": "Kutoka tukano lako, Elohim wa Ya'akov, ⟨wameshuhudiwa na⟩ magari ya vita na farasi wamelala usingizi wa kifo.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "Kutoka tukano lako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "wamelala usingizi wa kifo"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "na magari ya vita"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "na farasi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:39.275145807Z",
+  "model": "glm-5.2"
+}

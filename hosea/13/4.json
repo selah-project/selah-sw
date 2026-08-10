@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na mimi ni Yahweh, Elohim wako, tangu nchi ya Mitsrayim; na Elohim mbali nami hutajui, wala hamna mwokozi ila mimi.",
+  "tokens": [
+    {
+      "surface": "וְאָנֹכִ֛י",
+      "gloss": "na mimi"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶ֖יךָ",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "מֵאֶ֣רֶץ",
+      "gloss": "tangu nchi"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "ya Mitsrayim"
+    },
+    {
+      "surface": "וֵאלֹהִ֤ים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "זֽוּלָתִי֙",
+      "gloss": "mbali nami"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "hutajui"
+    },
+    {
+      "surface": "תֵדָ֔ע",
+      "gloss": "hutajui"
+    },
+    {
+      "surface": "וּמוֹשִׁ֥יעַ",
+      "gloss": "wala hamna mwokozi"
+    },
+    {
+      "surface": "אַ֖יִן",
+      "gloss": "hamna"
+    },
+    {
+      "surface": "בִּלְתִּֽי",
+      "gloss": "ila mimi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:43:17.140630499Z",
+  "model": "glm-5.2"
+}

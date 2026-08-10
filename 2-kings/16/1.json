@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Mwaka wa kumi na saba wa Pekah mwana wa Remalyahu, Achaz mwana wa Yotam mfalme wa Yehudah alianza kufalaku.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Mwaka wa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "saba"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kumi na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "⟨wa⟩ mwaka"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "wa Pekah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "alianza kufalaku"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-10T15:02:21.376667970Z",
+  "model": "glm-5.2"
+}

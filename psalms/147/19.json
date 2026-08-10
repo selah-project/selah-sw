@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 147,
+  "translation": "Anatangaza neno lake kwa Yaakov; amri zake na hukumu zake kwa Yisrael.",
+  "tokens": [
+    {
+      "surface": "מַגִּ֣יד",
+      "gloss": "Anatangaza"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "neno lake"
+    },
+    {
+      "surface": "לְיַעֲקֹ֑ב",
+      "gloss": "kwa Yaakov"
+    },
+    {
+      "surface": "חֻקָּ֥יו",
+      "gloss": "amri zake"
+    },
+    {
+      "surface": "וּ֝מִשְׁפָּטָ֗יו",
+      "gloss": "na hukumu zake"
+    },
+    {
+      "surface": "לְיִשְׂרָאֵֽל",
+      "gloss": "kwa Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:32.030475786Z",
+  "model": "glm-5.2"
+}

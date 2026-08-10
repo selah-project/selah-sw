@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "na kuangusha mzao wao katika mataifa, na kuwatawanya katika nchi.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "na kuangusha"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "mzao wao"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "katika mataifa"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "na kuwatawanya"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "katika nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:51.153133085Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Ikiwa baba yake anaikataa hakikika kwa kutoa kwake, fedha ataipima kulingana na mahari ya bikira.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ikiwa"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "anaikataa"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "hakikika"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "kwa kutoa kwake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "ataipima"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "kulingana na mahari"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "ya bikira"
+    }
+  ],
+  "timestamp": "2026-08-10T14:31:02.727847725Z",
+  "model": "glm-5.2"
+}

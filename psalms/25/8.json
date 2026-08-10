@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Yahweh ⟨ni⟩ mwema na mwongofu; kwa hiyo huwaanisha wenye dhambi njiani.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mwema"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "na mwongofu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "kwa hiyo"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "huwaanisha"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "wenye dhambi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njiani"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:07.654537504Z",
+  "model": "glm-5.2"
+}

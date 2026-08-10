@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Na ⟨את⟩ miji yao yote yenye makao yao, na ⟨את⟩ ngome zao zote, waliziteketeza kwa moto.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "miji yao yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "miji yao"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "yenye makao yao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ngome zao zote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "ngome zao"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "waliziteketeza"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kwa moto"
+    }
+  ],
+  "timestamp": "2026-08-10T10:51:40.137396006Z",
+  "model": "glm-5.2"
+}

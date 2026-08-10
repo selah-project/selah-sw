@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Yeye ⟨ndiye aliye⟩jenga ⟨את⟩ Eylath, akairejesha kwa Yehudah, baada ya mfalme kulala na baba zake.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Yeye"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kujenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eylath"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eylath"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "akairejesha"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kwa Yehudah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "kulala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baba zake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:49:17.531123101Z",
+  "model": "glm-5.2"
+}

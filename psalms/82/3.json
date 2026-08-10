@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 82,
+  "translation": "Hukumuni dhaifu na yatima; mnyenyekevu na maskini mthibitishe haki.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Hukumuni"
+    },
+    {
+      "surface": "דל",
+      "gloss": "dhaifu"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "na yatima"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mnyenyekevu"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "na maskini"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "mthibitishe haki"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:41.917125529Z",
+  "model": "glm-5.2"
+}

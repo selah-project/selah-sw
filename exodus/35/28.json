@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Na ⟨את⟩ manukato na ⟨את⟩ mafuta kwa mwangaza, na kwa mafuta ya kupaka, na kwa uvumba wenye manukato.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "manukato"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "manukato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "kwa mwangaza"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "na kwa mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ya kupaka"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "na kwa uvumba"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "wenye manukato"
+    }
+  ],
+  "timestamp": "2026-08-10T10:28:39.112279827Z",
+  "model": "glm-5.2"
+}

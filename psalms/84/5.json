@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 84,
+  "translation": "Heri ya wakaazi wa nyumba yako; bado watakusifu. Sela.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Heri ya"
+    },
+    {
+      "surface": "יוֹשְׁבֵי",
+      "gloss": "wakaazi wa"
+    },
+    {
+      "surface": "בֵיתֶ֑ךָ",
+      "gloss": "nyumba yako"
+    },
+    {
+      "surface": "ע֝֗וֹד",
+      "gloss": "bado"
+    },
+    {
+      "surface": "יְֽהַלְל֥וּךָ",
+      "gloss": "watakusifu"
+    },
+    {
+      "surface": "סֶּֽלָה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:38.461070481Z",
+  "model": "glm-5.2"
+}

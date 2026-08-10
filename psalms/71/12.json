@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 71,
+  "translation": "Elohim, usiwe mbali nami; Elohai, fanya haraka kwa msaada wangu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "we mbali"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nami"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "kwa msaada wangu"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "Fanya haraka"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:45.871166841Z",
+  "model": "glm-5.2"
+}

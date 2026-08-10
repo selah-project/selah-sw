@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Nawe uombe amri ⟨kwa⟩ ⟨את⟩ wana wa Yisra'eli, walete kwako mafuta ya zeituni safi ya kupondwa, kwa ajili ya mwanga, ili kuwashwa taa daima.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "uombe amri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana wa Yisra'eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'eli"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "walete"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ya zeituni"
+    },
+    {
+      "surface": "זך",
+      "gloss": "safi"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "ya kupondwa"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "kwa ajili ya mwanga"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "ili kuwashwa"
+    },
+    {
+      "surface": "נר",
+      "gloss": "taa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    }
+  ],
+  "timestamp": "2026-08-10T14:31:29.908177548Z",
+  "model": "glm-5.2"
+}

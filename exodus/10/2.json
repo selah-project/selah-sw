@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "ili usimulie masikioni mwa mwanao na mwa mwana wa mwanao ⟨את⟩ yale niliyoyafanyia Mitsrayim, na ⟨את⟩ alama zangu nilizoweka katikati yao; ili ninyi mjue ya kwamba mimi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "ili"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "usimulie"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "masikioni mwa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwanao"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na mwa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yale"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "niliyoyafanyia"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "alama zangu"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "alama zangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nilizoweka"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "nilizoweka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "katikati yao"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ili ninyi mjue"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:24.977954071Z",
+  "model": "glm-5.2"
+}

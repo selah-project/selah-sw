@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Cha kwanza cha unga wenu, mkate, mtatoa teruma; kama teruma ya ghuba, vivyo hivyo mtaitoa ⟨את⟩ hiyo.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Cha kwanza"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "cha unga wenu"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "mtatoa"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "kama teruma"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "ya ghuba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "mtaitoa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hiyo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:45:55.427515650Z",
+  "model": "glm-5.2"
+}

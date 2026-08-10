@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Miaka mitatu alitawala huko Yerushalayim. Na jina la mama yake ni Ma'akha binti Avishalom.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "mitatu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Miaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "alitawala"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "huko Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "Na jina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "la mama yake"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ni Ma'akha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avishalom"
+    }
+  ],
+  "timestamp": "2026-08-10T11:43:22.696062543Z",
+  "model": "glm-5.2"
+}

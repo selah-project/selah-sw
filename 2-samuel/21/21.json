@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na akamtukana ⟨את⟩ Yisraeli, na Yehonathan mwana wa Shim'i nduguye David akampiga.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "Na akamtukana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "na akampiga"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "wa Shim'i"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nduguye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-10T11:33:59.437567404Z",
+  "model": "glm-5.2"
+}

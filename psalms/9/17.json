@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Yahweh amejulikana, hukumu ⟨aliyo⟩ifanya; kwa tenda la mikono yake mwovu amefungwa. Higayoni. Sela.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "amejulikana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alifanya"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "kwa tenda"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "la mikono yake"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "amefungwa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mwovu"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higayoni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:48.772156338Z",
+  "model": "glm-5.2"
+}

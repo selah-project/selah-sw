@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 41:15",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Tazama, nimekuweka kuwa ⟨kama⟩ morag mpya wenye meno makali; utawapiga milima na kuyafanya unga, na vilima utawafanya kama matakwa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "שמתיך",
+      "gloss": "nimekuweka"
+    },
+    {
+      "surface": "למורג",
+      "gloss": "kuwa morag"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "wenye meno makali"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mpya"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "⟨mwenye⟩"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "meno"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "utawapiga"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "milima"
+    },
+    {
+      "surface": "ותדק",
+      "gloss": "na kuyafanya unga"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "na vilima"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "kama matakwa"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "utawafanya"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:12.562122988Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Njia uwekee kuja ⟨na⟩ upanga ⟨את⟩ Rabbah ya wana wa Ammoni, na ⟨את⟩ Yehudah Yerushalayim ⟨ki⟩ ngume.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "njia"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "uwekee"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kuja"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "upanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbah"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "ngume"
+    }
+  ],
+  "timestamp": "2026-08-10T12:32:11.886504076Z",
+  "model": "glm-5.2"
+}

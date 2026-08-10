@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Tazama, kwa Yahweh Elohim yako ⟨ni⟩ mbingu na mbingu za mbingu, ⟨na⟩ nchi na vyote vilivyomo ndani yake.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim yako"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "na mbingu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "za mbingu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na vyote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilivyomo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ndani yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:41:55.146436767Z",
+  "model": "glm-5.2"
+}

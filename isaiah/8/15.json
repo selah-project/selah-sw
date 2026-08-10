@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na wengi watajikwangua juu yake, na wataanguka, na watakokotoka, na watategeka, na watakamatwa.",
+  "tokens": [
+    {
+      "surface": "וְכָ֥שְׁלוּ",
+      "gloss": "na watajikwangua"
+    },
+    {
+      "surface": "בָ֖ם",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "רַבִּ֑ים",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "וְנָפְל֣וּ",
+      "gloss": "na wataanguka"
+    },
+    {
+      "surface": "וְנִשְׁבָּ֔רוּ",
+      "gloss": "na watakokotoka"
+    },
+    {
+      "surface": "וְנוֹקְשׁ֖וּ",
+      "gloss": "na watategeka"
+    },
+    {
+      "surface": "וְנִלְכָּֽדוּ",
+      "gloss": "na watakamatwa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:03:18.869798581Z",
+  "model": "glm-5.2"
+}

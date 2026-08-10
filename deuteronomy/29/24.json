@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Na watasema: Kwa sababu waliacha ⟨את⟩ agano la Yahweh, Elohim wa baba zao, ambalo alikata nao katika kuwatoa ⟨את⟩ ⟨wao⟩ kutoka nchi ya Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Na watasema"
+    },
+    {
+      "surface": "על",
+      "gloss": "Kwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sababu"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "waliacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agano"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "agano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "wa baba zao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "alikata"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "katika kuwatoa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨wao⟩"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kutoka nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T14:43:56.078394396Z",
+  "model": "glm-5.2"
+}

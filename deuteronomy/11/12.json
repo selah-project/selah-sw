@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "nchi ambayo Yahweh Elohim wako anaitunza daima; macho ya Yahweh Elohim wako ni juu yake, tangu mwanzo wa ⟨the⟩ mwaka hata mwisho wa ⟨the⟩ mwaka.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "anaitunza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nchi (iyo)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "macho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ni juu yake"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "tangu mwanzo"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "wa mwaka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hata mwisho"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "mwisho"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wa mwaka"
+    }
+  ],
+  "timestamp": "2026-08-10T10:56:31.856696133Z",
+  "model": "glm-5.2"
+}

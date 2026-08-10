@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 51,
+  "translation": "Na vifuko vimekamatwa, na ⟨את⟩ mafundi waliwachoma moto, na watu wa vita wamefadhaika.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "na vifuko"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "vimekamatwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafundi"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "mafundi"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "waliwachoma"
+    },
+    {
+      "surface": "באש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "na watu wa"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "vita"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "wamefadhaika"
+    }
+  ],
+  "timestamp": "2026-08-10T16:11:29.930444460Z",
+  "model": "glm-5.2"
+}

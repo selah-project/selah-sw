@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na ijapo watasema, \"Yahweh ⟨anaishi⟩\" basi kwa uongo wanaapa.",
+  "tokens": [
+    {
+      "surface": "וְאִ֥ם",
+      "gloss": "Na ijapo"
+    },
+    {
+      "surface": "חַי",
+      "gloss": "anaishi"
+    },
+    {
+      "surface": "יְהֹוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יֹאמֵ֑רוּ",
+      "gloss": "watasema"
+    },
+    {
+      "surface": "לָכֵ֥ן",
+      "gloss": "basi"
+    },
+    {
+      "surface": "לַשֶּׁ֖קֶר",
+      "gloss": "kwa uongo"
+    },
+    {
+      "surface": "יִשָּׁבֵֽעוּ",
+      "gloss": "wanaapa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:11:52.811469577Z",
+  "model": "glm-5.2"
+}

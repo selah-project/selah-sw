@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na miba na mbugu itakutolea, na utakula ⟨את⟩ manyasi ya shambani.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "na miba"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "na mbugu"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "itakutolea"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "na utakula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manyasi"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "manyasi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "shambani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:41.106601879Z",
+  "model": "glm-5.2"
+}

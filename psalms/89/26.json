@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Nami nitaweka ⟨kwenye⟩ bahari mkono wake, na ⟨kwenye⟩ mito ya mkono wake wa kulia.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Nami nitaweka"
+    },
+    {
+      "surface": "בים",
+      "gloss": "⟨kwenye⟩ bahari"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "na ⟨kwenye⟩ mito"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ya mkono wake wa kulia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:42.625445632Z",
+  "model": "glm-5.2"
+}

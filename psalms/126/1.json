@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 126,
+  "translation": "Wimbo wa kupanda. Katika kumrejesha Yahweh ⟨את⟩ wafungwa wa Tsiyoni, tulikuwa kama wanaoota ndoto.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wa kupanda"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Katika kumrejesha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wafungwa wa Tsiyoni"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "wafungwa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "wa Tsiyoni"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "tulikuwa"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "kama wanaoota ndoto"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:23.420681416Z",
+  "model": "glm-5.2"
+}

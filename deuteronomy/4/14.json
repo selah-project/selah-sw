@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 4:14",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "⟨את⟩ Na ⟨אותי⟩ Yahweh aliamuru wakati huo, kukuwafundisheni ⟨אתכם⟩ hukumu na sheria, ili myazinge ⟨אתם⟩ katika nchi ambayo ninyi mnavuka huko, ili kuimiliki.",
+  "tokens": [
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ Na ⟨אותי⟩",
+      "marks": "aliamuru"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aliamuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "huo"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "kukuwafundisheni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "hukumu"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "na sheria"
+    },
+    {
+      "surface": "לעשתכם",
+      "gloss": "ili myazinge"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "katika nchi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ninyi"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "mnavuka"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "huko"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ili kuimiliki"
+    }
+  ],
+  "timestamp": "2026-08-10T14:42:49.544654787Z",
+  "model": "glm-5.2"
+}

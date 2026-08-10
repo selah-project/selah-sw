@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 2:4",
+  "book": "ruth",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na tazama, Bo'azi alikuja kutoka Beti-lechemi, akawaambia wavunao: «Yahweh ⟨awe⟩ pamoja nanyi.» Nao wakamwambia: «Yahweh akubariki.»",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Bo'azi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ali kuja"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beti-lechemi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akawaambia"
+    },
+    {
+      "surface": "לקוצרים",
+      "gloss": "wavunao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "pamoja nanyi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wakamwambia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "akubariki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T13:44:08.389696043Z",
+  "model": "glm-5.2"
+}

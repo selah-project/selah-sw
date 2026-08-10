@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Neno hili likawa dhambi, na watu wakaenda mbele ya ⟨huo mmoja⟩ hata Dani.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "likawa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "dhambi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wakaenda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "huo mmoja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dani"
+    }
+  ],
+  "timestamp": "2026-08-10T11:42:15.725156942Z",
+  "model": "glm-5.2"
+}

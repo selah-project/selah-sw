@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Kwa maana kwa midomo ya kejeli na kwa lugha nyingine ⟨ye⟩ atasema ⟨kwa⟩ watu hawa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "ya kejeli"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "midomo"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "na kwa lugha"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "yingine"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "⟨ye⟩ atasema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hawa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:59:59.603733910Z",
+  "model": "glm-5.2"
+}

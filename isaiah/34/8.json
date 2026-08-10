@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 34:8",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Kwa kuwa siku ya kulipiza kisasi ni ya Yahweh, mwaka wa malipo kwa mzozo wa Tsiyoni.",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "י֥וֹם",
+      "gloss": "siku"
+    },
+    {
+      "surface": "נָקָ֖ם",
+      "gloss": "ya kulipiza kisasi"
+    },
+    {
+      "surface": "לַֽיהוָ֑ה",
+      "gloss": "ni ya Yahweh"
+    },
+    {
+      "surface": "שְׁנַ֥ת",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "שִׁלּוּמִ֖ים",
+      "gloss": "wa malipo"
+    },
+    {
+      "surface": "לְרִ֥יב",
+      "gloss": "kwa mzozo"
+    },
+    {
+      "surface": "צִיּֽוֹן",
+      "gloss": "wa Tsiyoni"
+    }
+  ],
+  "timestamp": "2026-08-10T12:03:09.225025376Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Akasema Yahweh kwa Moshe: Hata neno hili pia ⟨ambalo⟩ ulolinena nitafanya, kwa maana umepata chen mbele ya macho yangu, nami nakujua kwa jina.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neno"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ulolinena"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nitafanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "umepata"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mbele ya macho yangu"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "nami nakujua"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "kwa jina"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:39.543215200Z",
+  "model": "glm-5.2"
+}

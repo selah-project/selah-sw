@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Roho ya Yahweh iliachana na Shauli, roho mbaya ikamtisha kutoka kwa Yahweh.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "na roho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "iliachana na"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kutoka kwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "ikamtisha"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roho"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mbaya"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "kutoka kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:52:26.887944294Z",
+  "model": "glm-5.2"
+}

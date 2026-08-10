@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Hapo macho ya ⟨wale⟩ vipofu yatafunguliwa, na masikio ya viziwi yatafunguliwa.",
+  "tokens": [
+    {
+      "surface": "אָ֥ז",
+      "gloss": "Hapo"
+    },
+    {
+      "surface": "תִּפָּקַ֖חְנָה",
+      "gloss": "yatafunguliwa"
+    },
+    {
+      "surface": "עֵינֵ֣י",
+      "gloss": "macho ya"
+    },
+    {
+      "surface": "עִוְרִ֑ים",
+      "gloss": "vipofu"
+    },
+    {
+      "surface": "וְאָזְנֵ֥י",
+      "gloss": "na masikio ya"
+    },
+    {
+      "surface": "חֵרְשִׁ֖ים",
+      "gloss": "viziwi"
+    },
+    {
+      "surface": "תִּפָּתַֽחְנָה",
+      "gloss": "yatafunguliwa"
+    }
+  ],
+  "timestamp": "2026-08-10T16:07:11.728943826Z",
+  "model": "glm-5.2"
+}

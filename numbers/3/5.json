@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 3:5",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na Yahweh akamwambia Moshe, akisema:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Na akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:22.320315583Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Kwa kuwa kama ndama mwindu, Yisraeli amepinduka; sasa Yahweh atawachunga kama kondoo ⟨katika⟩ nchi wazi.",
+  "tokens": [
+    {
+      "surface": "כִּ֚י",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "כְּפָרָ֣ה",
+      "gloss": "kama ndama"
+    },
+    {
+      "surface": "סֹֽרֵרָ֔ה",
+      "gloss": "mwindu"
+    },
+    {
+      "surface": "סָרַ֖ר",
+      "gloss": "amepinduka"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עַתָּה֙",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "יִרְעֵ֣ם",
+      "gloss": "atawachunga"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כְּכֶ֖בֶשׂ",
+      "gloss": "kama kondoo"
+    },
+    {
+      "surface": "בַּמֶּרְחָֽב",
+      "gloss": "nchi wazi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:41:30.314043806Z",
+  "model": "glm-5.2"
+}

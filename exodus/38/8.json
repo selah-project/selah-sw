@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Akaunda ⟨את⟩ beseni ya shaba, ⟨na⟩ ⟨את⟩ kibao chake cha shaba, kwa vioo vya wanaofanya kazi waliofanya kazi mlangoni pa hema ya mkutano.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Akaunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beseni"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "beseni"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ya shaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨na⟩ ⟨את⟩",
+      "marks": "kibao chake"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "kibao chake"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "cha shaba"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "kwa vioo vya"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "wanaofanya kazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "walio"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "fanya kazi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mlangoni pa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mkutano"
+    }
+  ],
+  "timestamp": "2026-08-10T10:29:23.659158203Z",
+  "model": "glm-5.2"
+}

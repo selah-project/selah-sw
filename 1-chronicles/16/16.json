@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "ambayo aliikata ⟨את⟩ pamoja na Avraham, na kiapo chake kwa Yitzchak.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "כָּרַת֙",
+      "gloss": "alikata"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אַבְרָהָ֔ם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וּשְׁבוּעָת֖וֹ",
+      "gloss": "na kiapo chake"
+    },
+    {
+      "surface": "לְיִצְחָֽק",
+      "gloss": "kwa Yitzchak"
+    }
+  ],
+  "timestamp": "2026-08-10T14:07:58.875218204Z",
+  "model": "glm-5.2"
+}

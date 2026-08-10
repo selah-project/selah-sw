@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 6:23",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na Aharon akamchukua ⟨את⟩ Elisheva binti Amminadav dada ya Nachshon kuwa mke wake, naye akamzaa ⟨את⟩ Nadabu na ⟨את⟩ Avihu ⟨את⟩ Elazara na ⟨את⟩ Itamari.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "na akamchukua"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elisheva"
+    },
+    {
+      "surface": "אלישבע",
+      "gloss": "Elisheva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadav"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "dada"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ya Nachshon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kuwa mke"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "naye akamzaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadabu"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Avihu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Avihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazara"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Itamari"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamari"
+    }
+  ],
+  "timestamp": "2026-08-10T15:52:13.686332757Z",
+  "model": "glm-5.2"
+}

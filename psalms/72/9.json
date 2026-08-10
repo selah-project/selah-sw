@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 72,
+  "translation": "Mbele yake watainama wakaaji wa jangwa, na maadui zake watalemba mavumbi.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "mbele yake"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "watainama"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "wakaaji wa jangwa"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "na maadui zake"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mavumbi"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "watalemba"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:59.482427865Z",
+  "model": "glm-5.2"
+}

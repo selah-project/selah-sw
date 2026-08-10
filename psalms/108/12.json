@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 108,
+  "translation": "Je si kweli, Elohim, umetutupa? Na wewe, Elohim, hutoki ⟨pamoja⟩ na majeshi yetu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Je si kweli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "umetutupa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na hu-"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "-toki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "na majeshi yetu"
+    }
+  ],
+  "timestamp": "2026-08-10T17:54:32.431621044Z",
+  "model": "glm-5.2"
+}

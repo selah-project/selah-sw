@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Tamani la moyo wake umemwipa, na ombi la midomo yako humkatalia. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Tamani"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "la moyo wake"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "umemwipa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kwake⟩"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "na ombi"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "la midomo yako"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨huna⟩"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "humkatalia"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:17.376408116Z",
+  "model": "glm-5.2"
+}

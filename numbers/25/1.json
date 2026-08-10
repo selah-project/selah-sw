@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Naye Yisraeli akakaa huko Shitimi, na taifa likaanza kuzini ⟨na⟩ binti za Moabu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akakaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "huko Shitimi"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "na likaanza"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "kuzini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "binti"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "za Moabu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:49:24.802466990Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na mali ile inapotea katika shari ya shida; naye amezaa mwana, wala hakuna chochote mkononi mwake.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "na inapotea"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "mali"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ile"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "katika shida"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ya shari"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "naye amezaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wala hakuna"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mkononi mwake"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "chochote"
+    }
+  ],
+  "timestamp": "2026-08-10T13:47:07.370644088Z",
+  "model": "glm-5.2"
+}

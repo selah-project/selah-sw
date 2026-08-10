@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Pata hekima, pata uelewa; usisahau, wala usiepuke kutoka kwenye maneno ya kinywa changu.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Pata"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hekima"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "pata"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "uelewa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "sahau"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wala usi"
+    },
+    {
+      "surface": "תט",
+      "gloss": "epuke"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "kutoka kwenye maneno"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ya kinywa changu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:22:21.032267353Z",
+  "model": "glm-5.2"
+}

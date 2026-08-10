@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na anayemiba mtu na kumuuza, na akapatikana mkononi mwake, kufa atafiwa.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Na anayemiba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "na kumuuza"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "na akapatikana"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mkononi mwake"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "atafiwa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:29:44.621153918Z",
+  "model": "glm-5.2"
+}

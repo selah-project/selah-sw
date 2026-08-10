@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Jumuiya yote ya Yisra'el itafanya ⟨את⟩ huo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jumuiya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisra'el"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "itafanya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uo (Pasaka)"
+    }
+  ],
+  "timestamp": "2026-08-10T10:21:01.388200305Z",
+  "model": "glm-5.2"
+}

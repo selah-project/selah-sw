@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Aharon akasema ⟨את⟩ maneno yote ambayo Yahweh alikuwa amemnong'elea Moshe, ⟨na⟩ akafanya ⟨את⟩ ishara mbele za macho ya ⟨watu wote⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alikuwa amemnong'elea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akafanya"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "⟨את⟩ ishara",
+      "marks": "ishara"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "mbele za macho ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:51:36.153164942Z",
+  "model": "glm-5.2"
+}

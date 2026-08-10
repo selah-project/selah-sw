@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "⟨את⟩ Utzu mzaliwa wa kwanza wake, na ⟨את⟩ Buzu nduguye, na ⟨את⟩ Kemueli baba wa Aramu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Utzu"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Utzu"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mzaliwa wa kwanza wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Buzu"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buzu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nduguye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kemueli"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemueli"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba wa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:06:09.766890840Z",
+  "model": "glm-5.2"
+}

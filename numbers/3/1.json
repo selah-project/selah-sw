@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na hizi ndizo vizazi vya Aharoni na Moshe, siku Yahweh alipomwongelea ⟨את⟩ Moshe katika mlima wa Sinai.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na hizi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "vizazi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "vya Aharoni"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "na Moshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alipomwongelea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "katika mlima wa"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:29.103696025Z",
+  "model": "glm-5.2"
+}

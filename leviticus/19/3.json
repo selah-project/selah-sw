@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Kila mmoja mama yake na baba yake amwogope, na ⟨את⟩ Sabato zangu mlishike; mimi Yahweh Elohim wenu.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "kila mmoja"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama yake"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "na baba yake"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mnaogopa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sabato zangu"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Sabato zangu"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "mlishike"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:17.518120928Z",
+  "model": "glm-5.2"
+}

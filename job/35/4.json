@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Mimi nitakujibu kwa maneno, na ⟨את⟩ marafiki wako pamoja nawe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "nitakujibu"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "kwa maneno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "marafiki wako"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "marafiki wako"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pamoja nawe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:39:05.520928130Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Naye akajivika laana kama vazi lake, nayo ikaingia kama maji ndani yake, na kama mafuta mifupani mwake.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "akajivika"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "laana"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "kama vazi lake"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ikaingia"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kama maji"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ndani yake"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "na kama mafuta"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "mifupani mwake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:31.221219291Z",
+  "model": "glm-5.2"
+}

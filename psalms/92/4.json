@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 92,
+  "translation": "Kwa ajili ya nyuzi kumi na kwa ajili ya nevel; kwa ajili ya higayon kwa kinora.",
+  "tokens": [
+    {
+      "surface": "עֲֽלֵי",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "עָ֭שׂוֹר",
+      "gloss": "nyuzi kumi"
+    },
+    {
+      "surface": "וַעֲלֵי",
+      "gloss": "na kwa ajili ya"
+    },
+    {
+      "surface": "נָ֑בֶל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עֲלֵ֖י",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "הִגָּי֣וֹן",
+      "gloss": "higayon"
+    },
+    {
+      "surface": "בְּכִנּֽוֹר",
+      "gloss": "kwa kinora"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:31.132218628Z",
+  "model": "glm-5.2"
+}

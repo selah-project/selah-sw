@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "lakini katika matunda ya mti ulioko katikati ya bustani, Elohim amesema: Msile ⟨mimake⟩ wala msiguse, msije kufa.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "lakini katika matunda ya"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ulioko"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "katikati ya"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "bustani"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "amesema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "msi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨mimake⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala msi"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "guse"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨uache⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "msije"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "kufa"
+    }
+  ],
+  "timestamp": "2026-08-10T17:59:11.552936450Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Naye Yitschak alimtuma ⟨את⟩ Yaakob, akaenda Paddan-Aram, kwa Labani mwana wa Betueli Mwaramu, ndugu wa Ribka, mama wa Yaakob na Esav.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Naye akamwonyesha"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "wa Betueli"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Mwaramu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ndugu"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "wa Ribka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "wa Yaakob"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "na Esav"
+    }
+  ],
+  "timestamp": "2026-08-10T10:08:46.794560675Z",
+  "model": "glm-5.2"
+}

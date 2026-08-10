@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na kuhani na amrishewe, naye achinje ⟨את⟩ ndege mmoja, ndani ya chombo cha udongo, juu ya maji yaliyo hai.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "na amrishewe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "naye achinje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndege mmoja"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ndege"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndani ya"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "chombo"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "cha udongo"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yaliyo hai"
+    }
+  ],
+  "timestamp": "2026-08-10T10:34:04.433947296Z",
+  "model": "glm-5.2"
+}

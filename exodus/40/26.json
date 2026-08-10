@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Akaweka ⟨את⟩ madhabahu ya dhahabu katika hema ya mkutano, mbele ya pazia;",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "akaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madhabahu ya dhahabu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ya dhahabu"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "katika hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "pazia"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:50.394634199Z",
+  "model": "glm-5.2"
+}

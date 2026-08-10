@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Kwa kuwa nini kinazidi kwa mwenye hekima kuliko mpumbavu? Nini kina maskini anayejua ⟨kutembea⟩ mbele ya ⟨wengine⟩?",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יּוֹתֵ֥ר",
+      "gloss": "kinazidi"
+    },
+    {
+      "surface": "לֶחָכָ֖ם",
+      "gloss": "kwa mwenye hekima"
+    },
+    {
+      "surface": "מִֽן",
+      "gloss": "kuliko"
+    },
+    {
+      "surface": "הַכְּסִ֑יל",
+      "gloss": "mpumbavu"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "לֶּעָנִ֣י",
+      "gloss": "kina maskini"
+    },
+    {
+      "surface": "יֹדֵ֔עַ",
+      "gloss": "anayejua"
+    },
+    {
+      "surface": "לַהֲלֹ֖ךְ",
+      "gloss": "kutembea"
+    },
+    {
+      "surface": "נֶ֥גֶד",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "הַחַיִּֽים",
+      "gloss": "wengine"
+    }
+  ],
+  "timestamp": "2026-08-10T13:48:04.158619239Z",
+  "model": "glm-5.2"
+}

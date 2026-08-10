@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na pia juu ya watumwa na juu ya wajakazi siku zile nitamimina ⟨את⟩ roho yangu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Na pia"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "watumwa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "wajakazi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "zile"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "nitamimina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roho yangu"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "roho yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:43:55.058528656Z",
+  "model": "glm-5.2"
+}

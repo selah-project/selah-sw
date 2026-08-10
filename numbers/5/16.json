@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "naye kuhani amkaribishe ⟨את⟩ yeye, naye amkimamisha mbele za Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "naye amkaribishe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "naye amkimamishe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:41:47.351424604Z",
+  "model": "glm-5.2"
+}

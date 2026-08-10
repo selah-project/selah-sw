@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na akawakusanya ⟨kwake⟩ watu, na akawa mkuu wa kundi la majambazi wakati David alipowaua; nao wakaenda Dameshki, wakakaa humo, wakatawala Dameshki.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "na akawakusanya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na akawa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkuu wa"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "kundi la majambazi"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "wakati wa kuua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "na wakaenda"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dameshki"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "wakakaa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "humo"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "wakatawala"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "Dameshki"
+    }
+  ],
+  "timestamp": "2026-08-10T16:03:00.379024687Z",
+  "model": "glm-5.2"
+}

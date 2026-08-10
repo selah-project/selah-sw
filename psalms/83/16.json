@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 83,
+  "translation": "Vivyo hivo uwafuatilie kwa dhoruba yako, na kwa tufani yako uwaangamize.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Vivyo hivo"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "uwafuatilie"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "kwa dhoruba yako"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "na kwa tufani yako"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "uwaangamize"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:46.729795596Z",
+  "model": "glm-5.2"
+}

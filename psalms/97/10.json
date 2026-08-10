@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 97,
+  "translation": "Enyi wanaopenda Yahweh, chueni baya; ⟨yeye⟩ ahifadhi nafsi za wachesed wake, atawaokoa katika mkono wa waovu.",
+  "tokens": [
+    {
+      "surface": "אֹהֲבֵ֥י",
+      "gloss": "Enyi wanaopenda"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שִׂנְא֫וּ",
+      "gloss": "chueni"
+    },
+    {
+      "surface": "רָ֥ע",
+      "gloss": "baya"
+    },
+    {
+      "surface": "שֹׁ֭מֵר",
+      "gloss": "⟨yeye⟩ ahifadhi"
+    },
+    {
+      "surface": "נַפְשׁ֣וֹת",
+      "gloss": "nafsi za"
+    },
+    {
+      "surface": "חֲסִידָ֑יו",
+      "gloss": "wachesed wake"
+    },
+    {
+      "surface": "מִיַּ֥ד",
+      "gloss": "katika mkono wa"
+    },
+    {
+      "surface": "רְ֝שָׁעִ֗ים",
+      "gloss": "waovu"
+    },
+    {
+      "surface": "יַצִּילֵֽם",
+      "gloss": "atawaokoa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:41.985269984Z",
+  "model": "glm-5.2"
+}

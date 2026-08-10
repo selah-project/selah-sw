@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na watu wakawabariki wanaume wote waliojitoa kwa hiari kukaa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "na wakawabariki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "wanaume"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "waliojitoa kwa hiari"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kukaa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T15:41:29.761229633Z",
+  "model": "glm-5.2"
+}

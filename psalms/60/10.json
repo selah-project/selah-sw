@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 60,
+  "translation": "Moabu ⟨ni⟩ sufuria ya kuoshia; juu ya Edomu nitatupa ⟨את⟩ kiatu changu; juu yangu Pelesheti, piga kelele!",
+  "tokens": [
+    {
+      "surface": "מוֹאָ֤ב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "סִ֬יר",
+      "gloss": "sufuria"
+    },
+    {
+      "surface": "רַחְצִ֗י",
+      "gloss": "ya kuoshia"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "אֱ֭דוֹם",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "אַשְׁלִ֣יךְ",
+      "gloss": "nitatupa"
+    },
+    {
+      "surface": "נַעֲלִ֑י",
+      "gloss": "kiatu changu"
+    },
+    {
+      "surface": "עָ֝לַ֗י",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "פְּלֶ֣שֶׁת",
+      "gloss": "Pelesheti"
+    },
+    {
+      "surface": "הִתְרֹעָֽעִֽי",
+      "gloss": "piga kelele"
+    }
+  ],
+  "timestamp": "2026-08-10T18:00:46.661309814Z",
+  "model": "glm-5.2"
+}

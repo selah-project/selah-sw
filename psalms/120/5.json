@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 120,
+  "translation": "Ole wangu, maana nimelwaama Meshek, nimekaa pamoja na hema za Kedar.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "ole"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "nimelwaama"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Meshek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "nimekaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "hema"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "za Kedar"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:10.517699066Z",
+  "model": "glm-5.2"
+}

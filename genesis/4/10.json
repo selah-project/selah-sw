@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Naye akasema: Umefanya nini? Sauti ya damu za ndugu yako inanilia kwangu kutoka ⟨kwenye⟩ ardhi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "umefanya"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "damu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ndugu yako"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "inanilia"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ardhi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:31.836584453Z",
+  "model": "glm-5.2"
+}

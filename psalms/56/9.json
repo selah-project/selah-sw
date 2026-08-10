@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 56,
+  "translation": "Ustahamu wangu umeliwaza; wewe uweke machozi yangu katika chupa yako; ⟨je,⟩ hayamo katika kitabu chako?",
+  "tokens": [
+    {
+      "surface": "נֹדִי֮",
+      "gloss": "ustahamu wangu"
+    },
+    {
+      "surface": "סָפַ֪רְתָּ֫ה",
+      "gloss": "umeliwaza"
+    },
+    {
+      "surface": "אָ֥תָּה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "שִׂ֣ימָה",
+      "gloss": "uweke"
+    },
+    {
+      "surface": "דִמְעָתִ֣י",
+      "gloss": "machozi yangu"
+    },
+    {
+      "surface": "בְנֹאדֶ֑ךָ",
+      "gloss": "katika chupa yako"
+    },
+    {
+      "surface": "הֲ֝לֹ֗א",
+      "gloss": "⟨je,⟩ hayamo"
+    },
+    {
+      "surface": "בְּסִפְרָתֶֽךָ",
+      "gloss": "katika kitabu chako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:25.819638049Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Akish akasema: ⟨Kwenye⟩ nchi gani mlifeushleo leo? David akasema: Kusini mwa Yehudah, na kusini mwa haYerachmeeli, na kusini mwa haQeni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwenda⟩ kwenye"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "mlitekeo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "kusini mwa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "⟨nchi ya⟩ kusini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na kusini mwa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "⟨nchi ya⟩ kusini"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "haYerachmeeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kusini mwa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "⟨nchi ya⟩ kusini"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "haQeni"
+    }
+  ],
+  "timestamp": "2026-08-10T17:46:32.031791741Z",
+  "model": "glm-5.2"
+}

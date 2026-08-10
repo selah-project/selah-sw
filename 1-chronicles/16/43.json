@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Nikaenda watu wote, kila mtu kwenda nyumbani kwake. Naye David akageuka kubariki ⟨את⟩ nyumba yake.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "nikaenda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "kwenda nyumbani kwake"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "akageuka"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "kubariki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:43:06.046738232Z",
+  "model": "glm-5.2"
+}

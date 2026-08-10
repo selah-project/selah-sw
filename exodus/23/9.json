@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Na ⟨huyu mwingine⟩ mwenyeji wa kigeni, usmwe kasirikishe; nanyi mmefahamu ⟨את⟩ nafsi ya mwenyeji wa kigeni, kwa kuwa mlikuwa wageni katika nchi ya Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Na mwenyeji wa kigeni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usimwe"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "kasirikishe"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "nanyi"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "mmefahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafsi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafsi"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ya mwenyeji wa kigeni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "wageni"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "mlikuwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T15:52:29.197985298Z",
+  "model": "glm-5.2"
+}

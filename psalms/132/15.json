@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 132,
+  "translation": "Mawindo yake nitabariki kwa wingi; maskini wake nitawashibisha mkate.",
+  "tokens": [
+    {
+      "surface": "צֵ֭ידָהּ",
+      "gloss": "Mawindo yake"
+    },
+    {
+      "surface": "בָּרֵ֣ךְ",
+      "gloss": "kwa wingi"
+    },
+    {
+      "surface": "אֲבָרֵ֑ךְ",
+      "gloss": "nitabariki"
+    },
+    {
+      "surface": "אֶ֝בְיוֹנֶ֗יהָ",
+      "gloss": "maskini wake"
+    },
+    {
+      "surface": "אַשְׂבִּ֥יעַֽ",
+      "gloss": "nitawashibisha"
+    },
+    {
+      "surface": "לָֽחֶם",
+      "gloss": "mkate"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:55.194336347Z",
+  "model": "glm-5.2"
+}

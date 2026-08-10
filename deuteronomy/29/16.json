@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Na mmeona ⟨את⟩ machukizo yao na ⟨את⟩ masanamu yao — miti na mawe, fedha na dhahabu — ambazo zilikuwa pamoja nao.",
+  "tokens": [
+    {
+      "surface": "וַתִּרְאוּ֙",
+      "gloss": "Na mmeona"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "machukizo yao"
+    },
+    {
+      "surface": "שִׁקּ֣וּצֵיהֶ֔ם",
+      "gloss": "machukizo yao"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "na ⟨את⟩",
+      "marks": "masanamu yao"
+    },
+    {
+      "surface": "גִּלֻּלֵיהֶ֑ם",
+      "gloss": "masanamu yao"
+    },
+    {
+      "surface": "עֵ֣ץ",
+      "gloss": "miti"
+    },
+    {
+      "surface": "וָאֶ֔בֶן",
+      "gloss": "na mawe"
+    },
+    {
+      "surface": "כֶּ֥סֶף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "וְזָהָ֖ב",
+      "gloss": "na dhahabu"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "עִמָּהֶֽם",
+      "gloss": "pamoja nao"
+    }
+  ],
+  "timestamp": "2026-08-10T18:35:19.469475547Z",
+  "model": "glm-5.2"
+}

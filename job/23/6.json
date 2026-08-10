@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 23:6",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Je, kwa wingi wa nguvu atashindana nami? La, ⟨bali⟩ yeye peke yake ataweka ⟨kitu⟩ ndani yangu.",
+  "tokens": [
+    {
+      "surface": "הברב",
+      "gloss": "kwa wingi wa"
+    },
+    {
+      "surface": "כח",
+      "gloss": "nguvu"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "atashindana"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "la"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bali"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye peke yake"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "ataweka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ndani yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:36:27.901603350Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 8:7",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Gidhoni akasema: Kwa hiyo, Yahweh atakapowatia ⟨את⟩ Zebachi na ⟨את⟩ Tsalimuna katika mkono wangu, nitawapapasa nyama yenu kwa miiba ya jangwa na mibarebare.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akasema"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidhoni"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Kwa hiyo"
+    },
+    {
+      "surface": "בתת",
+      "gloss": "atakapotia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebachi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "Zebachi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tsalimuna"
+    },
+    {
+      "surface": "צלמנע",
+      "gloss": "Tsalimuna"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "katika mkono wangu"
+    },
+    {
+      "surface": "ודשתי",
+      "gloss": "nitawapapasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama yenu"
+    },
+    {
+      "surface": "בשרכם",
+      "gloss": "nyama yenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miiba"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "miiba ya"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "jangwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mibarebare"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "mibarebare"
+    }
+  ],
+  "timestamp": "2026-08-10T14:50:15.574181102Z",
+  "model": "glm-5.2"
+}

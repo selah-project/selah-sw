@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Elohim akaumba ⟨את⟩ wanyama wa nchi kwa jinsi zao, na ⟨את⟩ mifugo kwa jinsi zao, na ⟨את⟩ kila kiumbe kitelezaji cha ardhi kwa jinsi yake; na Elohim akaona ya kuwa ni vyema.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na akafanya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanyama wa nchi"
+    },
+    {
+      "surface": "חית",
+      "gloss": "wanyama"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "kwa jinsi zao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mifugo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mifugo"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "kwa jinsi zao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kila kiumbe kitelezaji cha ardhi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "kiumbe kitelezaji"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "cha ardhi"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "kwa jinsi yake"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "na akaona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kuwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ni vyema"
+    }
+  ],
+  "timestamp": "2026-08-10T17:40:44.566822918Z",
+  "model": "glm-5.2"
+}

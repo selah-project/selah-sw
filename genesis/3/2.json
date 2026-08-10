@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na mwanamke akamwambia nyoka: «Tunaweza kula ⟨kati⟩ ya matunda ya miti ⟨iliyo⟩ bustanini.»",
+  "tokens": [
+    {
+      "surface": "וַתֹּאמֶר",
+      "gloss": "na akamwambia"
+    },
+    {
+      "surface": "הָאִשָּׁה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הַנָּחָשׁ",
+      "gloss": "nyoka"
+    },
+    {
+      "surface": "מִפְּרִי",
+      "gloss": "kati ya matunda"
+    },
+    {
+      "surface": "עֵץ",
+      "gloss": "ya miti"
+    },
+    {
+      "surface": "הַגָּן",
+      "gloss": "bustanini"
+    },
+    {
+      "surface": "נֹאכֵל",
+      "gloss": "tunaweza kula"
+    }
+  ],
+  "timestamp": "2026-08-10T17:40:31.025911505Z",
+  "model": "glm-5.2"
+}

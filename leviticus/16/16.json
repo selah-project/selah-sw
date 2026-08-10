@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 16:16",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na kufuta dhambi kwa mahali patakatifu, kwa sababu ya uchafu wa wana wa Yisra'el, na kwa maasi yao, kwa dhambi zote zao; na vivyo hivyo atafanya kwa hema ya mkutano inayokaa ⟨את⟩ ⟨pamoja⟩ nao katikati ya uchafu wao.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "Na kufuta dhambi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "mahali patakatifu"
+    },
+    {
+      "surface": "מטמאת",
+      "gloss": "kwa sababu ya uchafu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "ומפשעיהם",
+      "gloss": "na kwa maasi yao"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa zote"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dhambi zao"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "na vivyo hivyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "atafanya"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "kwa hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    },
+    {
+      "surface": "השכן",
+      "gloss": "inayokaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pamoja (nao)"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "katikati ya"
+    },
+    {
+      "surface": "טמאתם",
+      "gloss": "uchafu wao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:54:48.799223384Z",
+  "model": "glm-5.2"
+}

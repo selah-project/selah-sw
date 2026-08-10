@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 2:8",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Nilikusanya kwa ajili yangu pia fedha na dhahabu na hazina za wafalme na za majimbo; nilijifanyia waimbaji wa kiume na wa kike, na vitu vya furaha vya wanadamu, shida na shida.",
+  "tokens": [
+    {
+      "surface": "כנסתי",
+      "gloss": "nilikusanya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ajili yangu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "na dhahabu"
+    },
+    {
+      "surface": "וסגלת",
+      "gloss": "na hazina"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "za wafalme"
+    },
+    {
+      "surface": "והמדינות",
+      "gloss": "na za majimbo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nilifanya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ajili yangu"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "waimbaji wa kiume"
+    },
+    {
+      "surface": "ושרות",
+      "gloss": "na wa kike"
+    },
+    {
+      "surface": "ותענוגת",
+      "gloss": "na vitu vya furaha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vya wana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "waadamu"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "shida"
+    },
+    {
+      "surface": "ושדות",
+      "gloss": "na shida"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:27.248407808Z",
+  "model": "glm-5.2"
+}

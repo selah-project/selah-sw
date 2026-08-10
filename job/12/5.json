@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Mwenge wa dharau ⟨ni⟩ wa wanaopumua kiburi, umewekwa tayari kwa watelelezao wa miguu.",
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "mwenge"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "wa dharau"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "wa wanaopumua kiburi"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "(wanaopumua kiburi)"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "umewekwa tayari"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "kwa watelelezao"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "wa miguu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:33:36.541134963Z",
+  "model": "glm-5.2"
+}

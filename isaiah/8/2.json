@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Nami nitatoa ⟨kwa ajili yangu⟩ mashahidi waaminifu: ⟨את⟩ Uria kuhani, na ⟨את⟩ Zekaria mwana wa Yeberekiahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "nami nitatoa ushahidi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨kwa ajili yangu⟩"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "mashahidi"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "waaminifu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Zekaria"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekaria"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "wa Yeberekiahu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:55:47.564805825Z",
+  "model": "glm-5.2"
+}

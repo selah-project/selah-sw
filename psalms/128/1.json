@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 128,
+  "translation": "Wimbo wa maonileo. Heri ⟨ni ya⟩ kila mwenye kumwogopa Yahweh, ⟨ambaye⟩ anatembea njiani zake.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wa maonileo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Heri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "mwenye kumwogopa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "anatembea"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "njiani zake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:52.777135624Z",
+  "model": "glm-5.2"
+}

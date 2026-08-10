@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayaloni na ⟨את⟩ mashamba yake, ⟨את⟩ Gathi-Rimoni na ⟨את⟩ mashamba yake; miji minne.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayaloni"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayaloni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mashamba yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mashamba yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gathi-Rimoni"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gathi"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mashamba yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mashamba yake"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miji"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minne"
+    }
+  ],
+  "timestamp": "2026-08-10T11:10:27.691674103Z",
+  "model": "glm-5.2"
+}

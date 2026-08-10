@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Na ng'ombe wembamba na waovu waliyez? ⟨את⟩ saba ng'ombe wa kwanza wenye mafuta.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "Na walimeza"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "wembamba"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "na waovu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saba ng'ombe wa kwanza wenye mafuta"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "saba"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "wa kwanza"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "wenye mafuta"
+    }
+  ],
+  "timestamp": "2026-08-10T10:13:19.383486358Z",
+  "model": "glm-5.2"
+}

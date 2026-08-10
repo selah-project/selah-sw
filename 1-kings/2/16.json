@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na sasa, ombi moja mimi naomba kutoka ⟨את⟩ kwako; usirudishe ⟨⟨nyonga⟩⟩ ⟨את⟩ nyuso zangu. Akamwambia, Ona.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na sasa"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "ombi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moja"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "naomba"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ kutoka kwako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usirudishe"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "usirudishe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyuso zangu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nyuso zangu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Akasema"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ona"
+    }
+  ],
+  "timestamp": "2026-08-10T11:37:09.415092352Z",
+  "model": "glm-5.2"
+}

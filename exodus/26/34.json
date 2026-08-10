@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na utaweka ⟨את⟩ kiti cha rehemu juu ya sanduku la ushahidi, ndani ya takatifu ya vitakatifu.",
+  "tokens": [
+    {
+      "surface": "וְנָתַתָּ֙",
+      "gloss": "na utaweka"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kiti cha rehemu"
+    },
+    {
+      "surface": "הַכַּפֹּ֔רֶת",
+      "gloss": "kiti cha rehemu"
+    },
+    {
+      "surface": "עַ֖ל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "אֲר֣וֹן",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "הָעֵדֻ֑ת",
+      "gloss": "la ushahidi"
+    },
+    {
+      "surface": "בְּקֹ֖דֶשׁ",
+      "gloss": "ndani ya takatifu"
+    },
+    {
+      "surface": "הַקֳּדָשִֽׁים",
+      "gloss": "ya vitakatifu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:31:47.122623617Z",
+  "model": "glm-5.2"
+}

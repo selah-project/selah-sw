@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Kwa hiyo moyo wangu unafurahi, na utukufu wangu unashangilia; mwili wangu pia utakaa kwa matumaini.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kwa hiyo"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "unafurahi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "na unashangilia"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "utukufu wangu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pia"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mwili wangu"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "utakaa"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "kwa matumaini"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:53.833477008Z",
+  "model": "glm-5.2"
+}

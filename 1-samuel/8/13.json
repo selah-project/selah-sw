@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ binti zenu atawachukua ⟨kuwa⟩ wapishi wa manukato, na wapishi wa chakula, na waokatea mikate.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "binti zenu"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "binti zenu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "atawachukua"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "wapishi wa manukato"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "wapishi wa chakula"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "waokatea mikate"
+    }
+  ],
+  "timestamp": "2026-08-10T14:50:40.527136393Z",
+  "model": "glm-5.2"
+}

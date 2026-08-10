@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Kwa kuwa mara saba mtu wa haki huanguka na kusimama tena, lakini waovu huangukiwa katika maovu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mara saba"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "huanguka"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mtu wa haki"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "na kusimama tena"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "lakini waovu"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "huangukiwa"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "katika maovu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:28:35.155392104Z",
+  "model": "glm-5.2"
+}

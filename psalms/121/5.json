@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 121,
+  "translation": "Yahweh ndiye mlinzi wako; Yahweh ni kivuli chako ⟨kwenye⟩ mkono wa kuume wako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "mlinzi wako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "kivuli chako"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "wa kuume wako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:47.747051248Z",
+  "model": "glm-5.2"
+}

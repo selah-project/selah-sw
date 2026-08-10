@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na utavu wake na miguu yake ⟨atayafuta⟩ kwa maji, na kuhani atapasha ⟨את⟩ yote moshi juu ya madhabahu, ⟨ni⟩ sadaka ya kuchomwa, sadaka ya moto, harufu yenye kupendeza kwa Yahweh.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "na utavu wake"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "na miguu yake"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "⟨atayafuta⟩"
+    },
+    {
+      "surface": "במים",
+      "gloss": "kwa maji"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "na atapasha moshi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yote"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "madhabahani"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sadaka ya kuchomwa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sadaka ya moto"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "harufu"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "yenye kupendeza"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:44.420241549Z",
+  "model": "glm-5.2"
+}

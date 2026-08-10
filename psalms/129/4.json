@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 129,
+  "translation": "Yahweh ⟨ni⟩ mwenye haki; amekata kamba za waovu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mwenye haki"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "amekata"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "kamba"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "za waovu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:44.209331034Z",
+  "model": "glm-5.2"
+}

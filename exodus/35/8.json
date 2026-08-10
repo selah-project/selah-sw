@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Na mafuta kwa taa, na manukato kwa mafuta ya kupakia, na kwa uvumba wa manukato.",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "Na mafuta"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "kwa taa"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "na manukato"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "kwa mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ya kupakia"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "na kwa uvumba"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "wa manukato"
+    }
+  ],
+  "timestamp": "2026-08-10T14:31:40.720355793Z",
+  "model": "glm-5.2"
+}

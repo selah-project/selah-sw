@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na kwa Avram akamtenda vizuri kwa ajili yake; akawa na kondoo, na ng'ombe, na punda, na watumwa, na wajakazi, na punda-jike, na ngamia.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "na kwa Avram"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "akamtenda vizuri"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "kwa ajili yake"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akawa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kondoo"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "na ng'ombe"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "na punda"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "na watumwa"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "na wajakazi"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "na punda-jike"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "na ngamia"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:51.322431463Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Nitamsifu jina la Elohim kwa wimbo, na kumkubisha kwa shukrani.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Nitamsifu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "la Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "kwa wimbo"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "na kumkubisha"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "kwa shukrani"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:35.814983898Z",
+  "model": "glm-5.2"
+}

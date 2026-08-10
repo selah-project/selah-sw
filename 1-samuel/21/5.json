@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na kuhani akajibu ⟨את⟩ Davidi akasema: Hakuna mkate wa kawaida chini ya mkono wangu, bali mkate wa qodesh upo; ikiwa vijana wamejizuia tu kutoka kwa mwanamke.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Na akajibu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Hakuna"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "חל",
+      "gloss": "wa kawaida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mkono wangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bali"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bali"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "wa qodesh"
+    },
+    {
+      "surface": "יש",
+      "gloss": "upo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "wamejizuia"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "vijana"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "kutoka kwa mwanamke"
+    }
+  ],
+  "timestamp": "2026-08-10T14:54:09.426212069Z",
+  "model": "glm-5.2"
+}

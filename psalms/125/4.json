@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 125,
+  "translation": "Tenda mema, ee Yahweh, kwa wazuri, na kwa wanyofu katika mioyo yao.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "tenda mema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "kwa wazuri"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "na kwa wanyofu"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "katika mioyo yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:33.043327641Z",
+  "model": "glm-5.2"
+}

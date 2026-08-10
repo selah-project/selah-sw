@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 8:2",
+  "book": "nehemiah",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Ezra kuhani akaleta ⟨את⟩ torah mbele ya mkusanyiko, kutoka mtu hadi mwanamke, na kila mwenye kuelewa kusikia, siku ya kwanza ya mwezi wa saba.",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "akaleta"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torah"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "torah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "mkusanyiko"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kutoka mtu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na kila"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "mwenye kuelewa"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kusikia"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ya kwanza"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya mwezi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wa saba"
+    }
+  ],
+  "timestamp": "2026-08-10T14:01:27.606264365Z",
+  "model": "glm-5.2"
+}

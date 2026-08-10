@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Yehoshua akamwacha ⟨na⟩ ⟨את⟩ ile jamaa, na wana wa Yisrael akaenda kila mtu kwenda urithi wake, ili kurithi ⟨את⟩ ⟨ile⟩ nchi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akamwacha"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ile jamaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨na⟩ ile jamaa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "kwenda urithi wake"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ili kurithi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ile⟩ nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ile⟩ nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:11:46.467559862Z",
+  "model": "glm-5.2"
+}

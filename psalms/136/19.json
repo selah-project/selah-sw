@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 136:19",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 136,
+  "translation": "⟨Sihoni⟩ mfalme wa Waemori, kwani milele ni chesed yake.",
+  "tokens": [
+    {
+      "surface": "לְ֭סִיחוֹן",
+      "gloss": "⟨kwa⟩ Sihoni"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "הָאֱמֹרִ֑י",
+      "gloss": "wa Waemori"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "חַסְדּֽוֹ",
+      "gloss": "chesed yake"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:53.138617647Z",
+  "model": "glm-5.2"
+}

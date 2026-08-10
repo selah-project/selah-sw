@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na walizaliwa kwa Aharon ⟨את⟩ Nadabu na ⟨את⟩ Abihu, ⟨את⟩ Elazari na ⟨את⟩ Itamari.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Na walizaliwa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kwa Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadabu"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abihu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Abihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazari"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Itamari"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamari"
+    }
+  ],
+  "timestamp": "2026-08-10T10:50:19.505148546Z",
+  "model": "glm-5.2"
+}

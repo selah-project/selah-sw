@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 28:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Kwa miguu ⟨nitawanyanyasa⟩, taji la kiburi la wale walio lewa wa Efrayimu.",
+  "tokens": [
+    {
+      "surface": "ברגלים",
+      "gloss": "kwa miguu"
+    },
+    {
+      "surface": "תרמסנה",
+      "gloss": "watanyanyasa"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "taji"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "la kiburi"
+    },
+    {
+      "surface": "שכורי",
+      "gloss": "la wale walio lewa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "wa Efrayimu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:00:31.020872888Z",
+  "model": "glm-5.2"
+}

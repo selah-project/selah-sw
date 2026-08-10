@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na hawa ni majina ya ⟨the⟩ wanaume ambao watasimama ⟨אתם⟩ pamoja nanyi: kwa Re'uveni, Elitsuri mwana wa Shedeiuri.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na hawa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ni majina"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ya wanaume"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "watasimama"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "kwa Re'uveni"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsuri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "wa Shedeiuri"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:52.915421127Z",
+  "model": "glm-5.2"
+}

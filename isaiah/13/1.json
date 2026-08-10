@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Bebi ya Baveli ambayo Yesha'yahu mwana wa Amots aliyoiona.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Bebi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Baveli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "aliyoiona"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yesha'yahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "wa Amots"
+    }
+  ],
+  "timestamp": "2026-08-10T11:57:37.213835323Z",
+  "model": "glm-5.2"
+}

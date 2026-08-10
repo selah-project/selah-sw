@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Yahweh ⟨ni⟩ mtu wa vita; Yahweh ⟨ni⟩ jina lake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wa vita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:21:59.447479226Z",
+  "model": "glm-5.2"
+}

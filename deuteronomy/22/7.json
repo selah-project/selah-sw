@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Shikam tuachilie ⟨את⟩ mama, na ⟨את⟩ watoto uwatake kwako; ili iwende vizuri kwako, na uongeze siku.",
+  "tokens": [
+    {
+      "surface": "שַׁלֵּחַ",
+      "gloss": "shikam"
+    },
+    {
+      "surface": "תְּשַׁלַּח֙",
+      "gloss": "tuachilie"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mama"
+    },
+    {
+      "surface": "הָאֵ֔ם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "הַבָּנִ֖ים",
+      "gloss": "watoto"
+    },
+    {
+      "surface": "תִּֽקַּֽח",
+      "gloss": "uwatake"
+    },
+    {
+      "surface": "לָ֑ךְ",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "לְמַ֨עַן֙",
+      "gloss": "ili"
+    },
+    {
+      "surface": "יִ֣יטַב",
+      "gloss": "iwende vizuri"
+    },
+    {
+      "surface": "לָ֔ךְ",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "וְהַאֲרַכְתָּ֖",
+      "gloss": "na uongeze"
+    },
+    {
+      "surface": "יָמִֽים",
+      "gloss": "siku"
+    }
+  ],
+  "timestamp": "2026-08-10T15:57:54.907886351Z",
+  "model": "glm-5.2"
+}

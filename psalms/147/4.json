@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 147,
+  "translation": "⟨Yeye⟩ anahesabu idadi ya nyota; kwa wote ⟨↩⟩ majina ⟨↩⟩ anaita.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "anahesabu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "idadi"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "ya nyota"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "kwa wote"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "majina"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "anaita"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:07.946862313Z",
+  "model": "glm-5.2"
+}

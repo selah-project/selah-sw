@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Yahweh atatuma ⟨kwenye wewe⟩ ⟨את⟩ laana, ⟨את⟩ machafuko, na ⟨את⟩ kiarudio, katika kila unachotenda kwa mkono wako, hadi uharibiwe na upotee upesi, kwa sababu ya ubaya wa matendo yako ambayo umeniacha.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "atatuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kwenye wewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laana"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "laana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "machafuko"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "machafuko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kiarudio"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "kiarudio"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika kila"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "unachotenda"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kwa mkono wako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "unayotenda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "uharibiwe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na hadi"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "upotee"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "upesi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ubaya"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "wa matendo yako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "umeniacha"
+    }
+  ],
+  "timestamp": "2026-08-10T11:02:17.260433319Z",
+  "model": "glm-5.2"
+}

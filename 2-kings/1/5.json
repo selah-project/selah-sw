@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na watuma wakarudi kwake, naye akawaambia, Kwanini mmerejea?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "wakarudi"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "watuma"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akawaambia"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kwanini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "mmerejea"
+    }
+  ],
+  "timestamp": "2026-08-10T11:45:27.783839157Z",
+  "model": "glm-5.2"
+}

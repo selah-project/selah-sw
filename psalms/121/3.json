@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 121,
+  "translation": "Asione ruhusa mguu wako kuteleza, asilale mlinzi wako.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "one ruhusa"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "kuteleza"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "mguu wako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asi"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "silale"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "mlinzi wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:00.989016178Z",
+  "model": "glm-5.2"
+}

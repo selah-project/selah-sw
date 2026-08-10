@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 98,
+  "translation": "Pigeni kelele mbele ya Yahweh, nchi yote; pasueni na furahini, na mumbeeni!",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "pigeni kelele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mbele ya Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "pasueni"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "na furahini"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "na mumbeeni"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:52.712567262Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 112,
+  "translation": "Mwovu ataona ⟨kizazi hiki⟩ na kukasirika; jinsi zake atakwaruza na kuyeyuka; tamaa ya waovu itaangamia.",
+  "tokens": [
+    {
+      "surface": "רָשָׁע",
+      "gloss": "Mwovu"
+    },
+    {
+      "surface": "יִרְאֶה",
+      "gloss": "ataona"
+    },
+    {
+      "surface": "וְכָעֵס",
+      "gloss": "na kukasirika"
+    },
+    {
+      "surface": "שִׁנָּיו",
+      "gloss": "jinsi zake"
+    },
+    {
+      "surface": "יַחֲרֹק",
+      "gloss": "atakwaruza"
+    },
+    {
+      "surface": "וְנָמֵס",
+      "gloss": "na kuyeyuka"
+    },
+    {
+      "surface": "תַּאֲוַת",
+      "gloss": "tamaa"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "ya waovu"
+    },
+    {
+      "surface": "תֹּאבֵד",
+      "gloss": "itaangamia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:07.881255214Z",
+  "model": "glm-5.2"
+}

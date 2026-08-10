@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Hata, hawafanyi ovu; katika njia zake wametembea.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "hawafanyi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ovu"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "katika njia zake"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "wametembea"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:03.223754223Z",
+  "model": "glm-5.2"
+}

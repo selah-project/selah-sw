@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Kwa maana kama anavyohesabu katika nafsi yake, ndivyo alivyo; ⟨kula na kunywa⟩ atakuambia, na moyo wake hauwi pamoja nawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kama"
+    },
+    {
+      "surface": "שער",
+      "gloss": "anavyohesabu"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "katika nafsi yake"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "alivyo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "⟨kula⟩"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "na kunywa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "atakuambia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kwako⟩"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "na moyo wake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hauwi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pamoja nawe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:28:34.763902590Z",
+  "model": "glm-5.2"
+}

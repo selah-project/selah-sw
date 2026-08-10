@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Lakini wakaazi wa Givoni waliposikia ⟨את⟩ yale aliomyatenda Yehoshua kwa Yeriko na kwa Ayi,",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "wakaazi"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "wa Givoni"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "waliposikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliomyatenda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "Yeriko"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "na kwa Ayi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:07:44.350366250Z",
+  "model": "glm-5.2"
+}

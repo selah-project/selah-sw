@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Fedha ya makosa na fedha ya dhambi haikuletwa nyumbani mwa Yahweh; ⟨ilikua⟩ ya makuhani.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ya makosa"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "na fedha"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "ya dhambi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haiku"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "letwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumbani mwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ya makuhani"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨ilikua⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T15:01:57.811062105Z",
+  "model": "glm-5.2"
+}

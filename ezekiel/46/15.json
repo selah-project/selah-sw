@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 46,
+  "translation": "Nao wataandaa ⟨את⟩ kondoo na ⟨את⟩ mgao wa nafaka na ⟨את⟩ mafuta, asubuhi kwa asubuhi, sadaka ya mwasho ya kudumu.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "na wataandaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kondoo"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "kondoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mgao wa nafaka"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mgao wa nafaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kwa asubuhi"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "sadaka ya mwasho"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ya kudumu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:19:15.159995659Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 52,
+  "translation": "Uharibifu ulengua uloshonwa kwa ulimi wako, kama wembao ulochongwa, mfanyaji wa udanganyifu.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Uharibifu"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "uloshonwa"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "kwa ulimi wako"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "kama wembao"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "ulochongwa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mfanyaji"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "wa udanganyifu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:54.189590297Z",
+  "model": "glm-5.2"
+}

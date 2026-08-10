@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Miongoni mwetu kuna pia mwenye nywele za kijivu na pia mzee mwingi wa siku, mkubwa zaidi kuliko baba yako kwa siku.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "שב",
+      "gloss": "mwenye nywele za kijivu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "mzee mwingi wa siku"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "miongoni mwetu"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "mkubwa zaidi"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "kuliko baba yako"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwa siku"
+    }
+  ],
+  "timestamp": "2026-08-10T13:34:11.079037047Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Na sasa kichwa changu kitaishwa juu ya maadui zangu wa pande zote; na nitatoa dhabihu za vilio vya furaha katika hema lake; nitaimba, naam, nitazumsha kwa Yahweh.",
+  "tokens": [
+    {
+      "surface": "וְעַתָּ֨ה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "יָר֪וּם",
+      "gloss": "kitaishwa"
+    },
+    {
+      "surface": "רֹאשִׁ֡י",
+      "gloss": "kichwa changu"
+    },
+    {
+      "surface": "עַ֤ל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "אֹֽיְבַ֬י",
+      "gloss": "maadui zangu"
+    },
+    {
+      "surface": "סְֽבִיבוֹתַ֗י",
+      "gloss": "wa pande zote"
+    },
+    {
+      "surface": "וְאֶזְבְּחָ֣ה",
+      "gloss": "na nitatoa dhabihu"
+    },
+    {
+      "surface": "בְ֭אָהֳלוֹ",
+      "gloss": "katika hema lake"
+    },
+    {
+      "surface": "זִבְחֵ֣י",
+      "gloss": "za"
+    },
+    {
+      "surface": "תְרוּעָ֑ה",
+      "gloss": "vilio vya furaha"
+    },
+    {
+      "surface": "אָשִׁ֥ירָה",
+      "gloss": "nitaimba"
+    },
+    {
+      "surface": "וַ֝אֲזַמְּרָ֗ה",
+      "gloss": "naam, nitazumsha"
+    },
+    {
+      "surface": "לַיהוָֽה",
+      "gloss": "kwa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:28.182654586Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na jina la mto wa pili ni Gichon, ⟨huo⟩ ⟨ndiye⟩ uzingatazaji wa ⟨את⟩ nchi yote ya Kush.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "na jina"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "la mto"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa pili"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "ni Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨huo⟩"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "⟨ndiye⟩ uzingatazaji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya nchi"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:34.879672551Z",
+  "model": "glm-5.2"
+}

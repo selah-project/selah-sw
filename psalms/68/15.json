@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "⟨Wakati⟩ Shaddai anapowatawanya wafalme humo, ⟨huwa⟩ ⟨inayesafirishwa⟩ ⟨kama⟩ theluji ⟨inayonyesha⟩ Tsalmoni.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "(Wakati) anapowatawanya"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "בה",
+      "gloss": "humo"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "(huwa) (inayosafirishwa) (kama) theluji (inayonyesha)"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "Tsalmoni"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:54.988424786Z",
+  "model": "glm-5.2"
+}

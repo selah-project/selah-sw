@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Kutoka kwa mwangaza mbele zake, mawingu yake yalipita: ⟨kuna⟩ makuu ya barafu na makaa ya moto.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "kutoka kwa mwangaza"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "mbele zake"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "mawingu yake"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "yalipita"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "makuu ya barafu"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "na makaa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ya moto"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:23.233404101Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Wala hawakusikia, wala hawakuelekeza ⟨את⟩ sikio lao, bali wakaifanya ngumu ⟨את⟩ shingo yao, ili wasisikie, na ili wasipokee mwongozo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "walisikia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "wakaelekeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sikio lao"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "sikio lao"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "wakaifanya ngumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shingo yao"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "shingo yao"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ili wasi-"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "sikie"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "na ili wasi-"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "pokee"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mwongozo"
+    }
+  ],
+  "timestamp": "2026-08-10T17:49:34.631930331Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Bath-Sheba akaingia kwa mfalme chumbani, na mfalme ⟨alikuwa⟩ mzee sana, na Avishag hashunamitu ilimtumikia ⟨את⟩ mfalme.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bath"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "chumbani"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "na mfalme"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "mzee"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "na Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "hashunamitu"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ilimtumikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfalme"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T11:36:45.296298429Z",
+  "model": "glm-5.2"
+}

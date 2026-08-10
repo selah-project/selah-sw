@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 80,
+  "translation": "Umeifungulia nafasi mbele yake, na kuzitia mizizi, na kujaza ⟨nchi⟩.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "umeifungulia nafasi"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "mbele yake"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "na kuzitia mizizi"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "mizizi yake"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "na kujaza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:54.713223833Z",
+  "model": "glm-5.2"
+}

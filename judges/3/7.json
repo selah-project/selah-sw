@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na wana wa Yisra'eli wakafanya ⟨את⟩ ⟨yaliyo⟩ mabaya machoni pa Yahweh, wakasahau ⟨את⟩ Yahweh Elohim wao, wakatumikia ⟨את⟩ ⟨hao⟩ Baali na ⟨את⟩ ⟨hizo⟩ Ashera.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Na wakafanya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨yaliyo⟩ mabaya"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "⟨yaliyo⟩ mabaya"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "machoni pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "wakasahau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wao"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "wakatumikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨hao⟩ Baali"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "⟨hao⟩ Baali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "⟨hizo⟩ Ashera"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "⟨hizo⟩ Ashera"
+    }
+  ],
+  "timestamp": "2026-08-10T11:12:29.251139414Z",
+  "model": "glm-5.2"
+}

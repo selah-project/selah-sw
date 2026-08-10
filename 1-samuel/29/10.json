@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Na sasa amka mapema asubuhi, wewe na watumwa wa bwanao waliokuja na wewe ⟨אתך⟩; nanyi mkaamke mapema asubuhi, na ikiwa ni mwanga kwenu, mwendeni.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "amka mapema"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "na watumwa"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "wa bwanao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "walio"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kuja"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "na wewe"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "nanyi mkaamke mapema"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "na mwanga"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mwendeni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:27:46.889144642Z",
+  "model": "glm-5.2"
+}

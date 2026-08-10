@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Maana kwenye kivuli ⟨kimoja⟩ cha hekima, kwenye kivuli cha fedha; na wema wa maarifa ⟨ni⟩ kwamba hekima huihifadhi nafsi ya wamiliki wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maana"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "kwenye kivuli"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "cha hekima"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "kwenye kivuli"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "cha fedha"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "na wema wa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "maarifa"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "kwamba hekima"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "huihifadhi nafsi ya"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "wamiliki wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:47:01.883675173Z",
+  "model": "glm-5.2"
+}

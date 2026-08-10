@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Msifuni Yah! Toeni shukrani kwa Yahweh, maana ⟨yeye⟩ ni mwema, maana chesed yake ⟨hudumu⟩ milele.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Msifuni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah!"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "Toeni shukrani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨yeye⟩ ni mwema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed yake ⟨hudumu⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:18.826110607Z",
+  "model": "glm-5.2"
+}

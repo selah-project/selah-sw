@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 129,
+  "translation": "Wala wasiosema wanaopita baraka ya Yahweh ⟨iwe⟩ juu yenu, tukawabariki ⟨אתכם⟩ kwa jina la Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "wamesema"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "wanaopita"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "baraka ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "juu yenu"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "tumekubariki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "kwa jina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T18:29:23.197535401Z",
+  "model": "glm-5.2"
+}

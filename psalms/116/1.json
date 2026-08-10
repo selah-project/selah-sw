@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 116,
+  "translation": "Nimempenda, kwa sababu Yahweh anasikia ⟨את⟩ sauti yangu, ⟨את⟩ maombezi yangu.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Nimempenda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "anasikia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauti yangu"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sauti yangu"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "maombezi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:44.858210683Z",
+  "model": "glm-5.2"
+}

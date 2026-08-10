@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na mfalume Achashverosh aliweka kodi ⟨juu⟩ ya nchi na ⟨juu⟩ ya visiwa vya bahari.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "na-aliweka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalume"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "kodi"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya nchi"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "na visiwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "vya bahari"
+    }
+  ],
+  "timestamp": "2026-08-10T15:38:47.267713797Z",
+  "model": "glm-5.2"
+}

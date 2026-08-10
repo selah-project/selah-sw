@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 2:16",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na Ester akaletwa kwa mfalme Achashverosh, kwenye nyumba ya ufalme wake, mwezi wa kumi — yeye ⟨ni⟩ mwezi wa Teveti — mwaka wa saba wa ufalme wake.",
+  "tokens": [
+    {
+      "surface": "ותלקח",
+      "gloss": "na akaletwa"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ya ufalme wake"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mwezi"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "wa kumi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mwezi"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "wa Teveti"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "wa saba"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "wa ufalme wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:49:26.220898542Z",
+  "model": "glm-5.2"
+}

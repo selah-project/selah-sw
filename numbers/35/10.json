@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Ona watu wa Yisra'el, uwaambie: ⟨Kama⟩ nyinyi mnapita ⟨את⟩ Yardeni kwenda nchi ya Kenaani:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "watu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uwaambie"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨Kama⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nyinyi"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "mnapita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "kwenda nchi ya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:52:30.445319790Z",
+  "model": "glm-5.2"
+}

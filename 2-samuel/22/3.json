@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 22:3",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Elohim wangu, mwamba wangu, nitajifungia ndani yake; ngao yangu, na pembe ya wokovu wangu, mnara wangu wa juu, na mahali pa kukimbia langu, mwokozi wangu, uniokoe kutoka jeuri.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wangu"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mwamba wangu"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "nitajifungia ndani"
+    },
+    {
+      "surface": "בו",
+      "gloss": "katika yeye"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ngao yangu"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "na pembe ya"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "wokovu wangu"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mnara wangu wa juu"
+    },
+    {
+      "surface": "ומנוסי",
+      "gloss": "na mahali pa kukimbia langu"
+    },
+    {
+      "surface": "משעי",
+      "gloss": "mwokozi wangu"
+    },
+    {
+      "surface": "מחמס",
+      "gloss": "kutoka jeuri"
+    },
+    {
+      "surface": "תשעני",
+      "gloss": "uniokoe"
+    }
+  ],
+  "timestamp": "2026-08-10T11:34:50.028269888Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Naye Baraki akawaita ⟨את⟩ Zebuluni na ⟨את⟩ Naftali Kedesha; naye akapanda kwa miguu yake elfu kumi ya watu, na Devora akapanda pamoja naye.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "akawaita"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baraki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebuluni"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebuluni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Kedesha"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "naye akapanda"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "kwa miguu yake"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya watu"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "naye akapanda"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja naye"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devora"
+    }
+  ],
+  "timestamp": "2026-08-10T14:47:55.704608875Z",
+  "model": "glm-5.2"
+}

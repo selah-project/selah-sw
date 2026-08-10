@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na vilele na shayiri zilipigwa, kwa sababu shayiri ⟨ilikuwa⟩ chungwa, na vilele ⟨zilikuwa⟩ katika upeo wa ua.",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "na vilele"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "na shayiri"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "zilipigwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "shayiri"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "⟨ilikuwa⟩ chungwa"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "na vilele"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "⟨zilikuwa⟩ katika upeo wa ua"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:02.215260517Z",
+  "model": "glm-5.2"
+}

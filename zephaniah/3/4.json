@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 3:4",
+  "book": "zephaniah",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Manabii wake ni watu waovu wasio na uzito; wapadrifu wake wameharibu ⟨kile⟩ kitakatifu; wamefanya jeuri kwa torati.",
+  "tokens": [
+    {
+      "surface": "נביאיה",
+      "gloss": "Manabii wake"
+    },
+    {
+      "surface": "פחזים",
+      "gloss": "ni watu waovu wasio na uzito"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "wapadrifu"
+    },
+    {
+      "surface": "בגדות",
+      "gloss": "wake"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "wameharibu"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "⟨kile⟩ kitakatifu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "wamefanya"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "jeuri"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "kwa torati"
+    }
+  ],
+  "timestamp": "2026-08-10T12:50:12.864466159Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Akawaokoa kutoka mkononi mwa amchukiaye, akawakomboa kutoka mkononi mwa adui.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Akawaokoa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mkononi mwa"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "amchukiaye"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "akawakomboa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mkononi mwa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "adui"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:55.347148078Z",
+  "model": "glm-5.2"
+}

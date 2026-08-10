@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na hizi ni ⟨hukumu⟩ ambazo utaweka mbele yao.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na hizi"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "⟨hukumu⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "utaweka"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "mbele yao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:19.632494708Z",
+  "model": "glm-5.2"
+}

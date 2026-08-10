@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 87,
+  "translation": "Yahweh huwapenda milango ya Tsiyon zaidi kuliko makao yote ya Yaakov.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "huwapenda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "milango ya"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "zaidi kuliko yote"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "makao"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:42.125426343Z",
+  "model": "glm-5.2"
+}

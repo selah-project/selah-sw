@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Kwa maana jina la Yahweh nitaita, teeni ukubwa kwa Elohim wetu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nitaita"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "teeni"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ukubwa"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "kwa Elohim wetu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:58:00.196248642Z",
+  "model": "glm-5.2"
+}

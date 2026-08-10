@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na kuvisulu kwenu kutafikia ⟨את⟩ mavuno ya zabibu, na mavuno ya zabibu yatafikia ⟨את⟩ kupanda mbegu, na mtakula chakula chenu hata kushiba, na mtakaa kwa usalama katika nchi yenu.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "na itafikia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "kuvisulu kwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mavuno ya zabibu"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "mavuno ya zabibu"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "na mavuno ya zabibu"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "yatafikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kupanda mbegu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kupanda mbegu"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "na mtakula"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "chakula chenu"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "hata kushiba"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "na mtakaa"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "kwa usalama"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "katika nchi yenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:27.685281535Z",
+  "model": "glm-5.2"
+}

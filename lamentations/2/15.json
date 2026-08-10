@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 2:15",
+  "book": "lamentations",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Wakipiga makonde juu yako wote wanaopita njia, wakikataa na wakitikisa vichwa vyao juu ya binti wa Yerushalayim, wakisema: Huyu ndiye mji ambao walisema, 'Utimilifu wa uzuri, furaha ya nchi yote'?",
+  "tokens": [
+    {
+      "surface": "סָֽפְק֨וּ",
+      "gloss": "wakipiga"
+    },
+    {
+      "surface": "עָלַ֤יִךְ",
+      "gloss": "juu yako"
+    },
+    {
+      "surface": "כַּפַּ֨יִם֙",
+      "gloss": "makonde"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "עֹ֣בְרֵי",
+      "gloss": "wanaopita"
+    },
+    {
+      "surface": "דֶ֔רֶךְ",
+      "gloss": "njia"
+    },
+    {
+      "surface": "שָֽׁרְקוּ֙",
+      "gloss": "wakikataa"
+    },
+    {
+      "surface": "וַיָּנִ֣עוּ",
+      "gloss": "wakitikisa"
+    },
+    {
+      "surface": "רֹאשָׁ֔ם",
+      "gloss": "vichwa vyao"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "בַּ֖ת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "יְרוּשָׁלִָ֑ם",
+      "gloss": "wa Yerushalayim"
+    },
+    {
+      "surface": "הֲזֹ֣את",
+      "gloss": "huyu ndiye"
+    },
+    {
+      "surface": "הָעִ֗יר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "שֶׁיֹּֽאמְרוּ֙",
+      "gloss": "ambao walisema"
+    },
+    {
+      "surface": "כְּלִ֣ילַת",
+      "gloss": "utimilifu wa"
+    },
+    {
+      "surface": "יֹ֔פִי",
+      "gloss": "uzuri"
+    },
+    {
+      "surface": "מָשׂ֖וֹשׂ",
+      "gloss": "furaha"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "nchi yote"
+    }
+  ],
+  "timestamp": "2026-08-10T13:45:18.508655781Z",
+  "model": "glm-5.2"
+}

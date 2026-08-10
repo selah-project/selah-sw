@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 91,
+  "translation": "Elfutakuanguka kwenye ngozi yako, na kumi elfu mkononi mwako; ⟨hakuna kitu⟩ cha kukuibia.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "elfutakuanguka"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "kwenye ngozi yako"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "na kumi elfu"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "mkononi mwako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨hakuna kitu⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "kukuibia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:26.342231707Z",
+  "model": "glm-5.2"
+}

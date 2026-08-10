@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "akasema: »Mukiwasaidia ⟨את⟩ wanawake wa Ki'ivri kuzaa, na kuwaona juu ya viti vya kuzaa, ikiwa ni mwana, mpeni kufa; na ikiwa ni binti, na aishi.«",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "mkiwasaidia kuzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanawake wa Ki'ivri"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "wanawake wa Ki'ivri"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "na kuwaona"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "viti vya kuzaa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ni mwana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "mpeni kufa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na ikiwa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ni binti"
+    },
+    {
+      "surface": "היא",
+      "gloss": ""
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "na aishi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:17:50.308585970Z",
+  "model": "glm-5.2"
+}

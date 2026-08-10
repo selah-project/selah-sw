@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na mtakuwa wakfu kwangu; maana mimi ni mtakatifu, mimi Yahweh; nami nimetengueni ⟨אתכם⟩ kutoka mataifa kuwa ⟨ninyi⟩ wangu.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "na mtakuwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "wakfu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mtakatifu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "nami nimetengueni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:13.159601796Z",
+  "model": "glm-5.2"
+}

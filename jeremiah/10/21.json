@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Kwa maana walififia akili,ao machungao, na ⟨את⟩ Yahweh hawakumtafuta; kwa hiyo hawakufanikiwa, na kundi lao lote limetawanyika.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "נִבְעֲרוּ֙",
+      "gloss": "walififia akili"
+    },
+    {
+      "surface": "הָֽרֹעִ֔ים",
+      "gloss": "ao machungao"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "hawaku"
+    },
+    {
+      "surface": "דָרָ֑שׁוּ",
+      "gloss": "mtafuta"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "Kwa"
+    },
+    {
+      "surface": "כֵּן֙",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "הִשְׂכִּ֔ילוּ",
+      "gloss": "kufanikiwa"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "na lote"
+    },
+    {
+      "surface": "מַרְעִיתָ֖ם",
+      "gloss": "kundi lao"
+    },
+    {
+      "surface": "נָפֽוֹצָה",
+      "gloss": "limetawanyika"
+    }
+  ],
+  "timestamp": "2026-08-10T16:09:20.958298574Z",
+  "model": "glm-5.2"
+}

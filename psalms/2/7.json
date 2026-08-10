@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Nitaeleza amri: Yahweh ameniambia, Wewe ni mwangu ⟨ni⟩ mwanangu, leo mimi nimekuzaa.",
+  "tokens": [
+    {
+      "surface": "אֲסַפְּרָ֗ה",
+      "gloss": "Nitaeleza"
+    },
+    {
+      "surface": "אֶֽ֫ל",
+      "gloss": "⟨uhusiano⟩"
+    },
+    {
+      "surface": "חֹ֥ק",
+      "gloss": "amri"
+    },
+    {
+      "surface": "יְֽהֹוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אָמַ֘ר",
+      "gloss": "ameniambia"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "בְּנִ֥י",
+      "gloss": "mwanangu"
+    },
+    {
+      "surface": "אַ֑תָּה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "אֲנִ֗י",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "הַיּ֥וֹם",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יְלִדְתִּֽיךָ",
+      "gloss": "nimekuzaa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:11.568164114Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Akafanya ⟨את⟩ mbao za Mishkani, kuni za misonobari wimasimama.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akafanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbao"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "mbao"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "za Mishkani"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kuni za"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "misonobari"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "wimasimama"
+    }
+  ],
+  "timestamp": "2026-08-10T10:29:12.873225612Z",
+  "model": "glm-5.2"
+}

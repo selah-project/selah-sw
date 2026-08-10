@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "Na kuchukueni ⟨את⟩ baba yenu na ⟨את⟩ nyumba zenu, mgeni kwangu, nami nitawapa ⟨את⟩ vitu vizuri vya nchi ya Mitsrayim, na kule ⟨את⟩ mafuta ya nchi.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "Na kuchukueni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba yenu"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "baba yenu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyumba zenu"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "nyumba zenu"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "mgeni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "nami nitawapa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vitu vizuri"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "vitu vizuri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "na kule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:28:05.518108511Z",
+  "model": "glm-5.2"
+}

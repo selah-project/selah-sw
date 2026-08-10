@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 116,
+  "translation": "Mimi nilisema katika msisimko wangu: Kila binadamu ni mwongo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nilisema"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "katika msisimko wangu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Kila"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "binadamu"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "mwongo"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:25.732086023Z",
+  "model": "glm-5.2"
+}

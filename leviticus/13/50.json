@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na koheni atamuliki ⟨את⟩ upele, na kufungwa ⟨את⟩ upele siku saba.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "na koheni atamuliki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "koheni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upele"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "upele"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "na kufungwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upele"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "upele"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siku saba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    }
+  ],
+  "timestamp": "2026-08-10T10:34:37.170966828Z",
+  "model": "glm-5.2"
+}

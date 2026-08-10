@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 148,
+  "translation": "Moto na barafu theluji na mzunguko wa moshi, upepo wa dhoruba, unao tenda neno lake.",
+  "tokens": [
+    {
+      "surface": "אֵ֣שׁ",
+      "gloss": "moto"
+    },
+    {
+      "surface": "וּ֭בָרָד",
+      "gloss": "na barafu theluji"
+    },
+    {
+      "surface": "שֶׁ֣לֶג",
+      "gloss": "theluji"
+    },
+    {
+      "surface": "וְקִיט֑וֹר",
+      "gloss": "na mzunguko wa moshi"
+    },
+    {
+      "surface": "ר֥וּחַ",
+      "gloss": "upepo"
+    },
+    {
+      "surface": "סְעָרָ֗ה",
+      "gloss": "wa dhoruba"
+    },
+    {
+      "surface": "עֹשָׂ֥ה",
+      "gloss": "unao tenda"
+    },
+    {
+      "surface": "דְבָרֽוֹ",
+      "gloss": "neno lake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:21.418474174Z",
+  "model": "glm-5.2"
+}

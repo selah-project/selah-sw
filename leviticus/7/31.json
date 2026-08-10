@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na kuhani atateketeza ⟨את⟩ mafuta juu ya madhabahu, na kifua kitakuwa cha Aharoni na wa wana wake.",
+  "tokens": [
+    {
+      "surface": "וְהִקְטִ֧יר",
+      "gloss": "Na atateketeza"
+    },
+    {
+      "surface": "הַכֹּהֵ֛ן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "הַחֵ֖לֶב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֑חָה",
+      "gloss": "juu ya madhabahu"
+    },
+    {
+      "surface": "וְהָיָה֙",
+      "gloss": "na kitakuwa"
+    },
+    {
+      "surface": "הֶֽחָזֶ֔ה",
+      "gloss": "kifua"
+    },
+    {
+      "surface": "לְאַהֲרֹ֖ן",
+      "gloss": "cha Aharoni"
+    },
+    {
+      "surface": "וּלְבָנָֽיו",
+      "gloss": "na wa wana wake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:32:14.012790605Z",
+  "model": "glm-5.2"
+}

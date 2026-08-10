@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 17:18",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Na ⟨את⟩ vipande kumi hivi vya jibini hivi utapeleka kwa kamanda wa elfu, na ⟨את⟩ ndugu zao uwaangalie kwa amani, na ⟨את⟩ dhamana yao uchukue.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vipande kumi hivi vya jibini hivi"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "חרצי",
+      "gloss": "vipande vya"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "utapeleka"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "kwa kamanda wa"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndugu zao"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ndugu zao"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "uwaangalie"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "kwa amani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dhamana yao"
+    },
+    {
+      "surface": "ערבתם",
+      "gloss": "dhamana yao"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uchukue"
+    }
+  ],
+  "timestamp": "2026-08-10T14:52:26.453059160Z",
+  "model": "glm-5.2"
+}

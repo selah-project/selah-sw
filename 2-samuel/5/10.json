@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na Davidi akaendelea, akienda na kukua, na Yahweh, Elohim wa majeshi, ⟨alikuwa⟩ pamoja naye.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "na akaendelea"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "akienda"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "na kukua"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "majeshi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja naye"
+    }
+  ],
+  "timestamp": "2026-08-10T14:55:44.168894021Z",
+  "model": "glm-5.2"
+}

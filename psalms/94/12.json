@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 94,
+  "translation": "Heri ⟨yele⟩ mtu umwelimishaye, Ee Yah, na kutora yako humfundza.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "heri"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨yele⟩ mtu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umwelimishaye"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "na"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ee Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "na kutora yako"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "humfundza"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:49.549804330Z",
+  "model": "glm-5.2"
+}

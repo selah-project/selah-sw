@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 65:25",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 65,
+  "translation": "Mbwa-mwitu na mwana-kondoo watafuga pamoja, na simba kama ng'ombe atakula manyasi, na nyoka mavumbi ⟨ni⟩ chakula chake; hawatatenda ubaya wala hataharibu katika mlima wote mtakatifu wangu, amesema Yahweh.",
+  "tokens": [
+    {
+      "surface": "זְאֵ֨ב",
+      "gloss": "mbwa-mwitu"
+    },
+    {
+      "surface": "וְטָלֶ֜ה",
+      "gloss": "na mwana-kondoo"
+    },
+    {
+      "surface": "יִרְע֣וּ",
+      "gloss": "watafuga"
+    },
+    {
+      "surface": "כְאֶחָ֗ד",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "וְאַרְיֵה֙",
+      "gloss": "na simba"
+    },
+    {
+      "surface": "כַּבָּקָ֣ר",
+      "gloss": "kama ng'ombe"
+    },
+    {
+      "surface": "יֹֽאכַל",
+      "gloss": "atakula"
+    },
+    {
+      "surface": "תֶּ֔בֶן",
+      "gloss": "manyasi"
+    },
+    {
+      "surface": "וְנָחָ֖שׁ",
+      "gloss": "na nyoka"
+    },
+    {
+      "surface": "עָפָ֣ר",
+      "gloss": "mavumbi"
+    },
+    {
+      "surface": "לַחְמ֑וֹ",
+      "gloss": "chakula chake"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "hawata"
+    },
+    {
+      "surface": "יָרֵ֧עוּ",
+      "gloss": "tatenda ubaya"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "wala hawata"
+    },
+    {
+      "surface": "יַשְׁחִ֛יתוּ",
+      "gloss": "haribu"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "katika wote"
+    },
+    {
+      "surface": "הַ֥ר",
+      "gloss": "mlima"
+    },
+    {
+      "surface": "קָדְשִׁ֖י",
+      "gloss": "mtakatifu wangu"
+    },
+    {
+      "surface": "אָמַ֥ר",
+      "gloss": "amesema"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T12:09:29.073535183Z",
+  "model": "glm-5.2"
+}

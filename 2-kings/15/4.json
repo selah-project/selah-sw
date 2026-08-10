@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Ila mahali pa juu pa ibada hayakutolewa; bado taku zilikuwa zikitoa dhabihu na kuvunja uvumba katika mahali pa juu pa ibada.",
+  "tokens": [
+    {
+      "surface": "רַ֥ק",
+      "gloss": "Ila"
+    },
+    {
+      "surface": "הַבָּמ֖וֹת",
+      "gloss": "mahali pa juu pa ibada"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "hayaku"
+    },
+    {
+      "surface": "סָ֑רוּ",
+      "gloss": "tokolewa"
+    },
+    {
+      "surface": "ע֥וֹד",
+      "gloss": "bado"
+    },
+    {
+      "surface": "הָעָ֛ם",
+      "gloss": "taku"
+    },
+    {
+      "surface": "מְזַבְּחִ֥ים",
+      "gloss": "zikitoa dhabihu"
+    },
+    {
+      "surface": "וּֽמְקַטְּרִ֖ים",
+      "gloss": "na kuvunja uvumba"
+    },
+    {
+      "surface": "בַּבָּמֽוֹת",
+      "gloss": "katika mahali pa juu pa ibada"
+    }
+  ],
+  "timestamp": "2026-08-10T11:50:16.294019195Z",
+  "model": "glm-5.2"
+}

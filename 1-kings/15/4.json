@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Kwa kuwa kwa ajili ya David, Yahweh Elohim wake alimpa taa huko Yerushalayim, ili kumwinua mwana wake baada yake, na kuisimamisha ⟨את⟩ Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "alimpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim wake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨alimpa⟩"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "taa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "huko Yerushalayim"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "ili kumwinua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "baada yake"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "na kuisimamisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T11:43:22.696412859Z",
+  "model": "glm-5.2"
+}

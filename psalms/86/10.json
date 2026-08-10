@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 86,
+  "translation": "Kwa kuwa wewe ⟨ndiwe⟩ mkuu na mfanya miujiza, wewe pekee ⟨ndiwe⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na mfanya"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "miujiza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "pekee"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:51.647459420Z",
+  "model": "glm-5.2"
+}

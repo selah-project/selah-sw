@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na wana wa Yisra'el waliwapa ⟨⟩ wa-Levi ⟨את⟩ miji na ⟨את⟩ mifugo yao.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "na waliwapa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "wa-Levi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miji"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "miji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mifugo yao"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "mifugo yao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:06:00.423603291Z",
+  "model": "glm-5.2"
+}

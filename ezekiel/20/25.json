@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 20:25",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Hata mimi niliwapa ⟨⟨ם⟩⟩ torati ambazo hazikuwa nzuri, na hukumu ambazo hawangeishi kwa ⟨⟨ן⟩⟩.",
+  "tokens": [
+    {
+      "surface": "וְגַם",
+      "gloss": "na hata"
+    },
+    {
+      "surface": "אֲנִי֙",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "נָתַ֣תִּי",
+      "gloss": "mepa"
+    },
+    {
+      "surface": "לָהֶ֔ם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "חֻקִּ֖ים",
+      "gloss": "masharti"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ambazo hazikuwa"
+    },
+    {
+      "surface": "טוֹבִ֑ים",
+      "gloss": "nzuri"
+    },
+    {
+      "surface": "וּמִ֨שְׁפָּטִ֔ים",
+      "gloss": "na hukumu"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ambazo hawange"
+    },
+    {
+      "surface": "יִֽחְי֖וּ",
+      "gloss": "ishi"
+    },
+    {
+      "surface": "בָּהֶֽם",
+      "gloss": "kwa hizo"
+    }
+  ],
+  "timestamp": "2026-08-10T12:32:10.633744237Z",
+  "model": "glm-5.2"
+}

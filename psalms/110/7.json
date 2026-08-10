@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 110,
+  "translation": "Atakunywa tokea mtoni njiani; kwa sababu hiyo atainua kichwa.",
+  "tokens": [
+    {
+      "surface": "מִ֭נַּחַל",
+      "gloss": "tokea mtoni"
+    },
+    {
+      "surface": "בַּדֶּ֣רֶךְ",
+      "gloss": "njiani"
+    },
+    {
+      "surface": "יִשְׁתֶּ֑ה",
+      "gloss": "Atakunywa"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כֵּ֝֗ן",
+      "gloss": "sababu hiyo"
+    },
+    {
+      "surface": "יָרִ֥ים",
+      "gloss": "atainua"
+    },
+    {
+      "surface": "רֹֽאשׁ",
+      "gloss": "kichwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:13.068519854Z",
+  "model": "glm-5.2"
+}

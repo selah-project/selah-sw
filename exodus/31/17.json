@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Kati yangu na kati ya wana wa Yisra'el ⟨ni⟩ ishara milele; maana siku sita Yahweh alifanya ⟨את⟩ mbingu na ⟨את⟩ nchi, na siku ya saba akastahu, akapumza.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "kati yangu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ishara"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "siku sita"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "⟨siku⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alifanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbingu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "na siku"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ya saba"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "akastahu"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "akapumza"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:34.752069173Z",
+  "model": "glm-5.2"
+}

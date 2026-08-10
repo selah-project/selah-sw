@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 76,
+  "translation": "Umeangaza, wewe u mwenye nguvu, kuliko milima ya nyama ya uwindo.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Umeangaza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "u mwenye nguvu"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "kuliko milima ya"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "nyama ya uwindo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:39.274783468Z",
+  "model": "glm-5.2"
+}

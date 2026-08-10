@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na taifa likasema kwa Yehoshua: Hapana, bali ⟨tutamtumikia⟩ ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na likasema"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Hapana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "tutamtumikia"
+    }
+  ],
+  "timestamp": "2026-08-10T14:47:56.980039296Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Kwa kuwa neno la mfalme ni mamlaka, naye ni nani atakayemwambia, ⟨wewe⟩ unatenda nini?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "la mfalme"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "ni mamlaka"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "naye ni nani"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "atakayemwambia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(mwambia)"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "unatenda"
+    }
+  ],
+  "timestamp": "2026-08-10T15:38:09.948370733Z",
+  "model": "glm-5.2"
+}

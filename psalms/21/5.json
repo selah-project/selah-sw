@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Uzima uliuomba kutoka kwako, umempa; urefu wa siku, milele na daima.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "uzima"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "uliuomba"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kutoka kwako"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "umempa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "urefu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wa siku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na daima"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:27.562459351Z",
+  "model": "glm-5.2"
+}

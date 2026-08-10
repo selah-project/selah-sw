@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Wakati huo wanawake wawili kahaba wakaja kwa mfalme, wakasimama mbele yake.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "wakati huo"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "wakaja"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "wanawake"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "kahaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "wakasimama"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbele yake"
+    }
+  ],
+  "timestamp": "2026-08-10T16:03:28.545725111Z",
+  "model": "glm-5.2"
+}

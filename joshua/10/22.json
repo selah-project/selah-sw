@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na Yehoshua akasema: «Fungueni ⟨את⟩ mdomo wa pango, na mtoe kwangu ⟨את⟩ hao wafalme wanne na mmoja kutoka pangoni.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "fungueni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mdomo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mdomo"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "wa pango"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "na mtoe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hao wafalme wanne na mmoja"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "wafalme wanne na mmoja"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "hao"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "pangoni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:07:17.437541929Z",
+  "model": "glm-5.2"
+}

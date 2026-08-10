@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 86,
+  "translation": "Furahisha nafsi ya mtumishi wako, kwa kuwa kwako, Adonai, nafsi yangu nainyanyua.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Furahisha"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafsi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ya mtumishi wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nainyanyua"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:01.167126818Z",
+  "model": "glm-5.2"
+}

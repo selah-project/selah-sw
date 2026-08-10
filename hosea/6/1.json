@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Njoni, turudi kwa Yahweh; kwa maana yeye ameyakata na atatuponya; amepiga na atatibiza.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "njoni"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "na turudi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "amekata"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "naye atatuponya"
+    },
+    {
+      "surface": "יך",
+      "gloss": "amepiga"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "naye atatibiza"
+    }
+  ],
+  "timestamp": "2026-08-10T12:41:15.017297126Z",
+  "model": "glm-5.2"
+}

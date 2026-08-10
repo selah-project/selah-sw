@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na akasema: Mwiteni. Na akamwita, naye akasimama mlangoni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Mwiteni"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Na akamwita"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "naye akasimama"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "mlangoni"
+    }
+  ],
+  "timestamp": "2026-08-10T11:46:43.553819995Z",
+  "model": "glm-5.2"
+}

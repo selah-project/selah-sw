@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Na kwamba Yaakob alimsikiliza baba yake na mama yake, akaenda Paddan-Aram.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Na kwamba alimsikiliza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama yake"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    }
+  ],
+  "timestamp": "2026-08-10T10:08:46.795553219Z",
+  "model": "glm-5.2"
+}

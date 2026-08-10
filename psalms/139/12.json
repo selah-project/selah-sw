@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 139,
+  "translation": "Hata giza halimfichi ⟨kutokea⟩ kwako, na usiku unang'aa kama mchana; kama giza, ndivyo ⟨ivyo⟩ mwangaza.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "חֹשֶׁךְ",
+      "gloss": "giza"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "hai-"
+    },
+    {
+      "surface": "יַחְשִׁיךְ",
+      "gloss": "-lifichi"
+    },
+    {
+      "surface": "מִמֶּךָ",
+      "gloss": "⟨kutokea⟩ kwako"
+    },
+    {
+      "surface": "וְלַיְלָה",
+      "gloss": "na usiku"
+    },
+    {
+      "surface": "כַּיּוֹם",
+      "gloss": "kama mchana"
+    },
+    {
+      "surface": "יָאִיר",
+      "gloss": "unang'aa"
+    },
+    {
+      "surface": "כַּחֲשֵׁיכָה",
+      "gloss": "kama giza"
+    },
+    {
+      "surface": "כָּאוֹרָה",
+      "gloss": "ndivyo ⟨ivyo⟩ mwangaza"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:04.244941684Z",
+  "model": "glm-5.2"
+}

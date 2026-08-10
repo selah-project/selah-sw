@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Anayefanya ⟨את⟩ 'Ash, ⟨את⟩ Kesil, na ⟨את⟩ Kimah, na vyumba ⟨cha⟩ teman",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "anayefanya"
+    },
+    {
+      "surface": "עש",
+      "gloss": "⟨את⟩",
+      "marks": "'Ash"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "⟨את⟩",
+      "marks": "Kesil"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "na ⟨את⟩ Kimah"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "na vyumba"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "⟨cha⟩ teman"
+    }
+  ],
+  "timestamp": "2026-08-10T15:33:31.297177279Z",
+  "model": "glm-5.2"
+}

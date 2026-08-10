@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Kwa ♪kiongozi cha muziki, kwa nyanga za kuzikia, kwa ♪sauti ya nane. Wimbo wa David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa kiongozi cha muziki"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "kwa nyanga za kuzikia"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "sauti ya nane"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:45.143426449Z",
+  "model": "glm-5.2"
+}

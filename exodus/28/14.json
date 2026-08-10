@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 28:14",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "na minyororo miwili ya dhahabu safi; kwa kazi ya kusokota utaifanya ⟨את⟩ hiyo, kama kazi ya mshipi; na utaweka ⟨את⟩ minyororo ya mishopi juu ya mifumo.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "na miwili"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "minyororo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya dhahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "safi"
+    },
+    {
+      "surface": "מגבלת",
+      "gloss": "kwa kazi ya kusokota"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "utafanya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hiyo (minyororo)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "ya mshipi"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "na utaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyororo"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "minyororo"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "ya mishopi"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "mifumo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:25:40.109773281Z",
+  "model": "glm-5.2"
+}

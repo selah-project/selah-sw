@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 103,
+  "translation": "Kwa kuwa kwa kimo cha mbingu juu ya nchi, ulikuwa imara chesed wake juu ya wamchao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "kwa kimo cha"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ulikuwa imara"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wamchao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:53.453965530Z",
+  "model": "glm-5.2"
+}

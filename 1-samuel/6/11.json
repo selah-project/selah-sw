@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Wakaweka ⟨את⟩ sanduku la Yahweh juu ya gari, na ⟨את⟩ kisanduku, na ⟨את⟩ panya za dhahabu, na ⟨את⟩ sanamu za uvimbe wao.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "wakaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "gari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kisanduku"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "kisanduku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "panya za dhahabu"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "panya za"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sanamu za uvimbe wao"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "sanamu za"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "uvimbe wao"
+    }
+  ],
+  "timestamp": "2026-08-10T11:20:56.451100114Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na wake wawili wa David walitekwanywa — Achinoam mYizreeli na Avigayili mke wa Nabal mKarmeli.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "na wawili"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "wake"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "walitekwanywa"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Achinoam"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "mYizreeli"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "na Avigayilu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mke"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "wa Nabal"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "mKarmeli"
+    }
+  ],
+  "timestamp": "2026-08-10T11:28:44.770743897Z",
+  "model": "glm-5.2"
+}

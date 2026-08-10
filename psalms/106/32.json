@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Wakamkasirisha pia kwa maji ya Meriva, na ikawa vibaya kwa Moshe kwa ajili yao.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "Wakamkasirisha"
+    },
+    {
+      "surface": "על",
+      "gloss": "pia"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kwa maji"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "ya Meriva"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "na ikawa vibaya"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kwa Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "kwa ajili yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:22.261577373Z",
+  "model": "glm-5.2"
+}

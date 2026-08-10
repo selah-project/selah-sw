@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Je, si kama Karkemish ⟨ndivyo⟩ Kalno? Je, si kama Arpad Hamath? Je, si kama Damashek Shomeron?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Je, si"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "kama Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "au"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "kama Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamath"
+    },
+    {
+      "surface": "אם",
+      "gloss": "au"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "kama Damashek"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-10T16:05:55.309470498Z",
+  "model": "glm-5.2"
+}

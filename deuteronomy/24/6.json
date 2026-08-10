@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Hatutawi jiwe la kusaga chini na jiwe la juu, maana ni ⟨nefesh⟩ anayotawa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hatutawi"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "jiwe la kusaga chini"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "na jiwe la juu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "anayotawa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:44:10.238306668Z",
+  "model": "glm-5.2"
+}

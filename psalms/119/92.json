@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 92,
+  "ref": "psalms 119:92",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Kama singe kuwa na torati yako ⟨kama⟩ furaha yangu, basi ningaliangamia katika dhiki yangu.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Kama singe kuwa na"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "torati yako"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "furaha yangu"
+    },
+    {
+      "surface": "אז",
+      "gloss": "basi"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "ningaliangamia"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "katika dhiki yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:55.910498734Z",
+  "model": "glm-5.2"
+}

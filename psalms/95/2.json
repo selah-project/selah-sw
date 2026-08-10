@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 95,
+  "translation": "Tukutane na uso wake kwa shukrani, kwa nyimbo tupige kelele kwake.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "Tukutane na"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uso wake"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "kwa shukrani"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "kwa nyimbo"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "tupige kelele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:51.121258101Z",
+  "model": "glm-5.2"
+}

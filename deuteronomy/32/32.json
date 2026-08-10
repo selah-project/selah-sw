@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 32:32",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Maana mzabibu wao ⟨unatoka⟩ kwa mzabibu wa Sedomu, na kwa mashamba ya Amorah; zabibu zao ⟨ni⟩ zabibu za sumu, matundu yao ni machungu kwa ajili yao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maana"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "kwa mzabibu wa"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomu"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "mzabibu wao"
+    },
+    {
+      "surface": "ומשדמת",
+      "gloss": "na kwa mashamba ya"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    },
+    {
+      "surface": "ענבמו",
+      "gloss": "zabibu zao"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "zabibu za"
+    },
+    {
+      "surface": "רוש",
+      "gloss": "sumu"
+    },
+    {
+      "surface": "אשכלת",
+      "gloss": "matundu yao"
+    },
+    {
+      "surface": "מררת",
+      "gloss": "ni machungu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwa ajili yao"
+    }
+  ],
+  "timestamp": "2026-08-10T11:03:17.878148450Z",
+  "model": "glm-5.2"
+}

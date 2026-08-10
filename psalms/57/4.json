@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 57,
+  "translation": "Atatuma kutoka mbinguni na aniokoe; ⟨Yeye⟩ atawashutumu wanaopumua kwa shauku ⟨kunimeza⟩. Selah. Elohumu atapeleka chesed ⟨na⟩ kweli ⟨kupitia⟩ ⟨winyo⟩ wake.",
+  "tokens": [
+    {
+      "surface": "יִשְׁלַח",
+      "gloss": "Atatuma"
+    },
+    {
+      "surface": "מִשָּׁמַיִם",
+      "gloss": "kutoka mbinguni"
+    },
+    {
+      "surface": "וְיוֹשִׁיעֵנִי",
+      "gloss": "na aniokoe"
+    },
+    {
+      "surface": "חֵרֵף",
+      "gloss": "⟨Yeye⟩ atawashutumu"
+    },
+    {
+      "surface": "שֹׁאֲפִי",
+      "gloss": "wanaopumua kwa shauku ⟨kunimeza⟩"
+    },
+    {
+      "surface": "סֶלָה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "יִשְׁלַח",
+      "gloss": "Atapeleka"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חַסְדּוֹ",
+      "gloss": "chesed ⟨wake⟩"
+    },
+    {
+      "surface": "וַאֲמִתּוֹ",
+      "gloss": "⟨na⟩ kweli ⟨wake⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:27.289561417Z",
+  "model": "glm-5.2"
+}

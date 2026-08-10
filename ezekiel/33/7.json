@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 33:7",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Na wewe, mwana wa adamu, mlinzi nimewekuwea kwa nyumba ya Yisra'el; basi utasikia neno toka kinywani mwangu, na utawaonya kutoka kwangu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wewe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa adamu"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "mlinzi"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "nimewekuwea"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kwa nyumba ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "na utasikia"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "toka kinywani"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "והזהרת",
+      "gloss": "na utawaonya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ao"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "toka kwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:35:37.777491980Z",
+  "model": "glm-5.2"
+}

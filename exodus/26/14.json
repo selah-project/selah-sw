@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 26:14",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na utafunika kwa hema ngozi za mapaazi zilizotiwa rangi nyekundu, na funiko la ngozi za takhashi juu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "na utafunika"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "funiko"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "kwa hema"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "ngozi za"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "mapaazi"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "zilizotiwa rangi nyekundu"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "na funiko"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "la ngozi za"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takhashi"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "juu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:25:47.168272371Z",
+  "model": "glm-5.2"
+}

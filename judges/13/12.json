@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 13:12",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Manoah akasema: Sasa maneno yako na yaje. Itakuwa nini desturi ya yule kijana, na kazi yake?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Manoah"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "na yaje"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "maneno yako"
+    },
+    {
+      "surface": "מה",
+      "gloss": "itakuwa nini"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "itakuwa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "desturi ya"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yule kijana"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "na kazi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:49:14.812216616Z",
+  "model": "glm-5.2"
+}

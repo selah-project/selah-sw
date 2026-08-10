@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Kwa mwenguza, kwa njia ya ⟨nyumbani wa⟩ Ayyeleth hashahar. Wimbo wa David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwenguza"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa njia ya"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Ayyeleth"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "hashahar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:34.449143075Z",
+  "model": "glm-5.2"
+}

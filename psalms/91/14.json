@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 91,
+  "translation": "Kwa kuwa ⟨amenipenda⟩, basi nitamwokoa; nitamwinua kwa kuwa amejua jina langu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨amenipenda⟩"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "⟨amenipenda⟩"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "nitamwokoa"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "nitamwinua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "amejua"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "jina langu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:16.485326499Z",
+  "model": "glm-5.2"
+}

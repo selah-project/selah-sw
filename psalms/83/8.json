@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 83,
+  "translation": "Gebali na Amoni na Amaleki, Pelesheti pamoja na wakaaji wa Tzori.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebali"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "na Amoni"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "na Amaleki"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesheti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wakaaji wa"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tzori"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:02.744788568Z",
+  "model": "glm-5.2"
+}

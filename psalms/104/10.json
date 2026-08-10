@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "⟨Yeye⟩ anayetuma visima vichangani; kati ya milima vinatembea.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "anayetuma"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "visima"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "muchangani"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ya milima"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "vinatembea"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:42.472396109Z",
+  "model": "glm-5.2"
+}

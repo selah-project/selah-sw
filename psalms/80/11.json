@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 80,
+  "translation": "Milima ilifunikwa na kivuli chake, na matawi yake ⟨ni⟩ misere ya El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "ilifunikwa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "milima"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "kivuli chake"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "na matawi yake"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "misere ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:54.713368897Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Tazameni! Mimi nawasukuma kutoka mahali palipowauza ⟨את⟩ wao, huko; na nitawarudishia malipo yenu juu ya vichwa vyenu.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Tazameni!"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "Mimi nawasukuma"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "palipo"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "wauza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "huko"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "na nitawarudishia"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "malipo yenu"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "juu ya vichwa vyenu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:44:00.273840091Z",
+  "model": "glm-5.2"
+}

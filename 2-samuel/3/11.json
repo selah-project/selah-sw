@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na ⟨yeye⟩ hashawezi tena kumrudishia ⟨את⟩ Avner neno, kwa sababu ya kumwogopa.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "hashawezi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "kumrudishia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "⟨את⟩ Avner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "kwa sababu ya kumwogopa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T14:56:21.008323900Z",
+  "model": "glm-5.2"
+}

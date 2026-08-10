@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Akamwambia ⟨ye⟩ mfalme: «Neno ambalo nililisikia katika nchi yangu kuhusu maneno yako na kuhusu hekima yako, ⟨ni⟩ kweli.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kweli"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nililisikia"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "katika nchi yangu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuhusu"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "maneno yako"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na kuhusu"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "hekima yako"
+    }
+  ],
+  "timestamp": "2026-08-10T14:14:53.619678794Z",
+  "model": "glm-5.2"
+}

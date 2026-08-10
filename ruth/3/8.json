@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 3:8",
+  "book": "ruth",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Ikawa katikati ya usiku, mtu akatetema, akajigeuza; na tazama, mwanamke analala miguuni pake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "katikati"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ya usiku"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "akatetema"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "וילפת",
+      "gloss": "akajigeuza"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "analala"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "miguuni pake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:43:20.168379324Z",
+  "model": "glm-5.2"
+}

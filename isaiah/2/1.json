@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Neno ambalo Yeshayahu mwana wa Amots aliuona kuhusu Yehudah na Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Neno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "aliuona"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "wa Amots"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuhusu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:20.880788753Z",
+  "model": "glm-5.2"
+}

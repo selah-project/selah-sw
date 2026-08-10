@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Kwa kuwa wameelekeza baya dhidi yako, walipanga shari, ⟨ila⟩ hawakuweza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "wameelekeza"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dhidi yako"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "baya"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "walipanga"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "shari"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨ila⟩"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "hawakuweza"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:07.983124903Z",
+  "model": "glm-5.2"
+}

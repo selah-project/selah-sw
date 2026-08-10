@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 144,
+  "translation": "Heri ⟨ya⟩ ⟨watu⟩ walio hivyo; heri ⟨ya⟩ ⟨watu⟩ ambao Yahweh ni Elohim wao!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨watu⟩"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "walio hivyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ya⟩"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "heri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨watu⟩"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "ambao Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ni Elohim wao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:13.497180346Z",
+  "model": "glm-5.2"
+}

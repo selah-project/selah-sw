@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 11:1",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na Nachash Mwamoni akaupanda, akajeshi dhidi ya Yavesh Gileadi; na watu wote wa Yavesh wakamwambia Nachash: Tia ⟨nasi⟩ agano, nasi tutakutumikia.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "na akapanda"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachash"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "Mwamoni"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "akajeshi"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhidi ya"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileadi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wakasema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "watu"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "wa Yavesh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachash"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "tia"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nasi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "agano"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "nasi tutakutumikia"
+    }
+  ],
+  "timestamp": "2026-08-10T14:51:59.221720438Z",
+  "model": "glm-5.2"
+}

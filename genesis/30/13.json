@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 30:13",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na Leah akasema: «Katika bahati yangu, kwa maana binti wananiita mwenye bahati!» Akaita ⟨את⟩ jina lake Asheri.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    },
+    {
+      "surface": "באשרי",
+      "gloss": "katika bahati yangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "אשרוני",
+      "gloss": "wananiita mwenye bahati"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "binti"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina lake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asheri"
+    }
+  ],
+  "timestamp": "2026-08-10T14:25:58.367350669Z",
+  "model": "glm-5.2"
+}

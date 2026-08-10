@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na Shaul akachukua watu elfu tatu waliochaguliwa kutoka kwa wote wa Yisraeli, akaenda kumtafuta ⟨את⟩ David na watu wake, juu ya nyuso za miamba ya paa-mwitu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "na akachukua"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "elfu tatu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "⟨elfu⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "watu"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "waliochaguliwa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kutoka kwa wote wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kumtafuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "na watu wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nyuso za"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "miamba ya"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "paa-mwitu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:26:27.760330953Z",
+  "model": "glm-5.2"
+}

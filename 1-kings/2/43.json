@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Basi kwa nini hukuzishika ⟨את⟩ kiapo cha Yahweh, na ⟨את⟩ amri niliyokuagiza?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "basi kwa nini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "-zishika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiapo cha Yahweh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "kiapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "cha Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amri"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "amri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "niliyoagiza"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuwewe"
+    }
+  ],
+  "timestamp": "2026-08-10T11:37:47.412877462Z",
+  "model": "glm-5.2"
+}

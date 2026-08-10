@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 71,
+  "translation": "Utaongeza ukubwa wangu, na kuregeza na kunifariji.",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "Utaongeza"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "ukubwa wangu"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "na kuregeza"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "na kunifariji"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:19.704649033Z",
+  "model": "glm-5.2"
+}

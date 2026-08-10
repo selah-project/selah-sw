@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 142,
+  "translation": "Mimimisha mbele zake mwongoko wangu; dhiki yangu mbele zake naitangaza.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "Mimimasha"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbele zake"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "mwongoko wangu"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "dhiki yangu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbele zake"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "naitangaza"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:33.057709185Z",
+  "model": "glm-5.2"
+}

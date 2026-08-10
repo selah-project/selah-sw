@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na kama watu wa nchi wataficha jicho la macho yao ⟨kutoka⟩ ⟨kwa⟩ mtu yule, anampapa mkono wake Molek, ili wasimfishwe ⟨אתו⟩ —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na kama"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "kuficha"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "wataficha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macho yao"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "macho yao"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨kutoka⟩"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yule"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "anampapa"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molek"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ili wasi"
+    },
+    {
+      "surface": "המית",
+      "gloss": "mfishwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:12.963259913Z",
+  "model": "glm-5.2"
+}

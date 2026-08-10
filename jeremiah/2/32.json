@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 2:32",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Je, bikira atakosa pambo lake, au bibi arusi vifungo vyake? Na watu wangu wamenisahau siku bila hesabu.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "Je, atakosa"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "bikira"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "pambo lake"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bibi arusi"
+    },
+    {
+      "surface": "קשריה",
+      "gloss": "vifungo vyake"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "Na watu wangu"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "wamenisahau"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bila"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "hesabu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:09:41.830378441Z",
+  "model": "glm-5.2"
+}

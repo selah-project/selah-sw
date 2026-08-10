@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 79,
+  "translation": "Na sisi, ⟨ni⟩ taifa lako na kundi la kondoo za malisho yako, tutakushukuru daima, kizazi hadi kizazi tutasimulia sifa zako.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Na sisi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "taifa lako"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "na kundi la kondoo"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "za malisho yako"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "tutakushukuru"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daima"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kizazi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "hadi kizazi"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "tutasimulia"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "sifa zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:30.162645182Z",
+  "model": "glm-5.2"
+}

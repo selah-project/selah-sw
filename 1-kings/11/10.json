@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na alikuwa amemwagiza juu ya jambo hili, asifuate miungu mingine; wala hakuweka ⟨את⟩ yale aliyoyaagiza Yahweh.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "Na alikuwa amemwagiza"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ake"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "fuate"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "miungu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "mingine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "hakuweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yale aliyoyaagiza Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yale"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aliyoagiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T11:41:41.318027455Z",
+  "model": "glm-5.2"
+}

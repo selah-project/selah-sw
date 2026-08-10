@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 127,
+  "translation": "Wimbo wa ngazi za kuelea, wa Shelomoh. Kama Yahweh hatapenga nyumba, bure walioteseka kuijenga; kama Yahweh hatatunza mji, bure anaamkesha mlinzi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "za kuelea"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "wa Shelomoh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatapenga"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "kujenga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "bure"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "walioteseka"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "wajengaji"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuijenga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatatunza"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "kutunza"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "bure"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "anaamkesha"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "mlinzi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:29.786779119Z",
+  "model": "glm-5.2"
+}

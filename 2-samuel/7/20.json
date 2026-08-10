@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na David awezaje kuongeza nini tena kwa kunena nawe? Na wewe, umefahamu ⟨את⟩ mtumishi wako, Adonai Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "Na nini"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "aweza kuongeza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kwa kunena"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Na wewe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "umefahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtumishi wako"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mtumishi wako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T11:30:57.457965187Z",
+  "model": "glm-5.2"
+}

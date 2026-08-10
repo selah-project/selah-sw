@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na Avram akaenda safari, akiendelea na kusafiri, kuelekea kusini.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "akasafiri"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "akiendelea"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "na kusafiri"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "kuelekea kusini"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:51.202933481Z",
+  "model": "glm-5.2"
+}

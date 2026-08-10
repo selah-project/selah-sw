@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Na maneno ya chuki wamenizunguka, na wakanipigiana bila sababu.",
+  "tokens": [
+    {
+      "surface": "וְדִבְרֵ֣י",
+      "gloss": "Na maneno ya"
+    },
+    {
+      "surface": "שִׂנְאָ֣ה",
+      "gloss": "chuki"
+    },
+    {
+      "surface": "סְבָב֑וּנִי",
+      "gloss": "wamenizunguka"
+    },
+    {
+      "surface": "וַיִּֽלָּחֲמ֥וּנִי",
+      "gloss": "na wakanipigiana"
+    },
+    {
+      "surface": "חִנָּֽם",
+      "gloss": "bila sababu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:01.325356153Z",
+  "model": "glm-5.2"
+}

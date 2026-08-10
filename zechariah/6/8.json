@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 6:8",
+  "book": "zechariah",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Naye akaniita ⟨את⟩, akaniongea nami, akisema: Tazama, hao wanaotoka kwenda nchi ya kaskazini wametuliza ⟨את⟩ roho yangu katika nchi ya kaskazini.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "naye akaniita"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mimi"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "na akaniongea"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "היוצאים",
+      "gloss": "hao wanaotoka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kaskazini"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "wametuliza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roho yangu"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "roho yangu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kaskazini"
+    }
+  ],
+  "timestamp": "2026-08-10T12:52:06.725533708Z",
+  "model": "glm-5.2"
+}

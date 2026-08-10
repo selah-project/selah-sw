@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 58,
+  "translation": "Kweli-kweli, ⟨kwa⟩ ukimya haki mnasema? ⟨Kwa⟩ uyo, nyinyi mnahukumu, enyi wana wa adamu?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Kweli-kweli"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ukimya"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "haki"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "mnasema"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "mnahukumu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "enyi wana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa adamu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:03.944069410Z",
+  "model": "glm-5.2"
+}

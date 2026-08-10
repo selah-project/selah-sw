@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Na ng'ombe au kondoo, ⟨את⟩ yeye na ⟨את⟩ mtoto wake, hamtakiwi kuchinje siku moja.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Na ng'ombe"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kondoo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yeye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mtoto wake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mtoto wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "mtakiwi kuchinje"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moja"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:45.749828505Z",
+  "model": "glm-5.2"
+}

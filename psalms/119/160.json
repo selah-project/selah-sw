@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Kichwa cha neno lako ni kweli, na hata milele kila hukumu ya haki yako.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Kichwa"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "cha neno lako"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ni kweli"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "na hata milele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ya haki yako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:44.086460573Z",
+  "model": "glm-5.2"
+}

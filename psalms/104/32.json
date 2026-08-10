@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "⟨Yeye⟩ amtachulia nchi, nayo inatetemeka; anagusa milima, nayo hutoa moshi.",
+  "tokens": [
+    {
+      "surface": "הַמַּבִּ֣יט",
+      "gloss": "amtachulia"
+    },
+    {
+      "surface": "לָ֭אָרֶץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "וַתִּרְעָ֑ד",
+      "gloss": "nayo inatetemeka"
+    },
+    {
+      "surface": "יִגַּ֖ע",
+      "gloss": "anagusa"
+    },
+    {
+      "surface": "בֶּהָרִ֣ים",
+      "gloss": "milima"
+    },
+    {
+      "surface": "וְֽיֶעֱשָֽׁנוּ",
+      "gloss": "nayo hutoa moshi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:13.709103414Z",
+  "model": "glm-5.2"
+}

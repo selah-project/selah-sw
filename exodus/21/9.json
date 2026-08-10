@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 21:9",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na ikiwa ⟨ni⟩ kwa mwana wake ⟨amtembelea⟩, kama hukumu ya binti atamfanyia.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na ikiwa"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "kwa mwana wake"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "⟨amtembelea⟩"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kama hukumu"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "ya binti"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "atamfanyia"
+    },
+    {
+      "surface": "לה",
+      "gloss": "atamfanyia"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:02.430761745Z",
+  "model": "glm-5.2"
+}

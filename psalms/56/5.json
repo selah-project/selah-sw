@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 56,
+  "translation": "Kwa Elohim nitamsifu neno lake, kwa Elohim nimeweka tumaini langu, sitaogopa — mwili unaweza kufanya nini kwangu?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Kwa Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "nitamsifu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "neno lake"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nimeweka tumaini langu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sitaogopa"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "sitaogopa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "unaweza kufanya"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mwili"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:57.808966689Z",
+  "model": "glm-5.2"
+}

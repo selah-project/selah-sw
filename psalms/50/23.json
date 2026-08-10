@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Mtoaji sadaka ya shukrani hutukuzeni, na aliyeyanyua njia nitamonyesha ⟨pa⟩ yeshuʿah ya Elohim.",
+  "tokens": [
+    {
+      "surface": "זֹבֵחַ",
+      "gloss": "mtoaji sadaka"
+    },
+    {
+      "surface": "תּוֹדָה",
+      "gloss": "ya shukrani"
+    },
+    {
+      "surface": "יְכַבְּדָנְנִי",
+      "gloss": "hutukuzeni"
+    },
+    {
+      "surface": "וְשָׂם",
+      "gloss": "na aliyeyanyua"
+    },
+    {
+      "surface": "דֶּרֶךְ",
+      "gloss": "njia"
+    },
+    {
+      "surface": "אַרְאֶנּוּ",
+      "gloss": "nitamonyesha"
+    },
+    {
+      "surface": "בְּיֵשַׁע",
+      "gloss": "yeshuʿah"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:11.472132500Z",
+  "model": "glm-5.2"
+}

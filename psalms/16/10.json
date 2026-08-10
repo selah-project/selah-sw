@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Kwa maana hutawiacha nafsi yangu kwa Sheol; hutamwachia mchako wako ⟨wa⟩ kuona shimo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "utaiacha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kwa Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "utamwachia"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "mchako wako"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "shimo"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:53.833784730Z",
+  "model": "glm-5.2"
+}

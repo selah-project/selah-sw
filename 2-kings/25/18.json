@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na mkuu wa wauaji akachukua ⟨את⟩ Seraiahah kuhani mkuu, na ⟨את⟩ Tsefanyahu kuhani wa pili, na ⟨את⟩ watatu walinzi wa lango;",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "na akachukua"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mkuu wa"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wauaji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraiahah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraiahah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tsefanyahu"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanyahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "wa pili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "watatu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "watatu"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "walinzi wa"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "lango"
+    }
+  ],
+  "timestamp": "2026-08-10T11:53:39.017419477Z",
+  "model": "glm-5.2"
+}

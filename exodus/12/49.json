@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Torah moja ⟨itakuwa⟩ kwa mzaliwa wa nchi, na kwa mgeni anayeishi kati yenu.",
+  "tokens": [
+    {
+      "surface": "תּוֹרָ֣ה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אַחַ֔ת",
+      "gloss": "moja"
+    },
+    {
+      "surface": "יִהְיֶ֖ה",
+      "gloss": "itakuwa"
+    },
+    {
+      "surface": "לָֽאֶזְרָ֑ח",
+      "gloss": "kwa mzaliwa wa nchi"
+    },
+    {
+      "surface": "וְלַגֵּ֖ר",
+      "gloss": "na kwa mgeni"
+    },
+    {
+      "surface": "הַגָּ֥ר",
+      "gloss": "anayeishi"
+    },
+    {
+      "surface": "בְּתוֹכְכֶֽם",
+      "gloss": "kati yenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:42.776891771Z",
+  "model": "glm-5.2"
+}

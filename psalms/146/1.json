@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 146,
+  "translation": "Msifuni Yah, nafsi yangu, msifu ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "הַֽלְלוּ",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "יָ֡הּ",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הַלְלִ֥י",
+      "gloss": "msifu"
+    },
+    {
+      "surface": "נַ֝פְשִׁ֗י",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:46.464210381Z",
+  "model": "glm-5.2"
+}

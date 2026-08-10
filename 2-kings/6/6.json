@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Mtu wa Elohim akasema: Aliangukea wapi? Naye akamwonyesha ⟨את⟩ mahali. Akakata ubao, akautupa huko, na chuma ikielea.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Mtu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "wapi"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "alianguka"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "akamwonyesha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahali"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "akakata"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ubao"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "akautupa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "huko"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ikielea"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "chuma"
+    }
+  ],
+  "timestamp": "2026-08-10T18:28:22.919029509Z",
+  "model": "glm-5.2"
+}

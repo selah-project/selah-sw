@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "«Lakini kwa kuwa umewanyanyapa ⟨את⟩ maadui wa Yahweh kwa neno hili, pia mtoto aliyezaliwa kwako atakufa kufa.»",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "Lakini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "kinyanyapo"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "umewanyanyapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maadui"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "maadui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "kwa neno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "mtoto"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "aliyezaliwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "atakufa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:55:21.304684541Z",
+  "model": "glm-5.2"
+}

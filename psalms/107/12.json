@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Akawanyenyekeza kwa taabu moyo wao; walikwama, wala hakuwa na mwenye kusaidia.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "Akawanyenyekeza"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "kwa taabu"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "moyo wao"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "walikwama"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wala hakuwa na"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mwenye kusaidia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:57.207323876Z",
+  "model": "glm-5.2"
+}

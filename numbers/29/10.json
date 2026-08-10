@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "sehemu moja ya kumi ⟨kwa⟩ kondoo ⟨mmoja⟩, kwa kondoo saba.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "sehemu moja ya kumi"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "sehemu moja ya kumi"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "kwa kondoo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "kondoo saba"
+    }
+  ],
+  "timestamp": "2026-08-10T15:56:14.514749662Z",
+  "model": "glm-5.2"
+}

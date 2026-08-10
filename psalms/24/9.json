@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Inueni, enyi milango, vichwa vyenu, na inueni, enyi milango ya milele, na ⟨yeye⟩ mfalme wa utukufu naingie.",
+  "tokens": [
+    {
+      "surface": "שְׂאוּ",
+      "gloss": "inueni"
+    },
+    {
+      "surface": "שְׁעָרִים",
+      "gloss": "enyi milango"
+    },
+    {
+      "surface": "רָאשֵׁיכֶם",
+      "gloss": "vichwa vyenu"
+    },
+    {
+      "surface": "וּשְׂאוּ",
+      "gloss": "na inueni"
+    },
+    {
+      "surface": "פִּתְחֵי",
+      "gloss": "milango ya"
+    },
+    {
+      "surface": "עוֹלָם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "וְיָבֹא",
+      "gloss": "na ⟨yeye⟩ ... naingie"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "mfalme wa"
+    },
+    {
+      "surface": "הַכָּבוֹד",
+      "gloss": "utukufu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:56.243306960Z",
+  "model": "glm-5.2"
+}

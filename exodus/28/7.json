@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Itakuwa na mabega mawili yaliyounganishwa, yakiwa yameunganishwa kwenye nchi zake mbili; na hivyo yataunganishwa pamoja.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "mawili"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "mabega"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "yaliyounganishwa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "Itakuwa na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "nchi zake"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "na hivyo yataunganishwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:26:13.022199582Z",
+  "model": "glm-5.2"
+}

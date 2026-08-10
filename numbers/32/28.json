@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Basi Moshe aliwaamrisha ⟨את⟩ Elazar kuhani, na ⟨את⟩ Yehoshua mwana wa Nuni, na ⟨את⟩ wakuu wa baba wa kabila la wana wa Israeli.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Basi aliwaamrisha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨kuhusu⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נון",
+      "gloss": "wa Nuni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wakuu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "wakuu"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "wa baba"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "wa kabila"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "la wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Israeli"
+    }
+  ],
+  "timestamp": "2026-08-10T10:51:11.928731590Z",
+  "model": "glm-5.2"
+}

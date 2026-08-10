@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Si juu ya dhabahu zako nikupingi, na holokausto zako ⟨ni⟩ mbele yangu daima.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "dhabahu zako"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "nikupingi"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "na holokausto zako"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "mbele yangu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:30.894792321Z",
+  "model": "glm-5.2"
+}

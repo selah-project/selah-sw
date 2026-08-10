@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 145,
+  "translation": "Kuonyesha kwa wanadamu majipo yake, na utukufu wa enzi ya ufalme wake.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "Kuonyesha"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa wanadamu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wanadamu"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "majipo yake"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "na utukufu"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "wa enzi"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ya ufalme wake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:01.847623557Z",
+  "model": "glm-5.2"
+}

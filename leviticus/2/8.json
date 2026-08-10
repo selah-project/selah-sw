@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Ulete ⟨את⟩ minchah iliyoze kufanywa kutoka hizo kwa Yahweh; umkaribishe kwa kuhani, na uomkaribishe kwa madhabahu.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Ulete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minchah"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iliyoze"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kufanywa"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "kutoka hizo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "umkaribishe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "na uomkaribishe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:39.979107400Z",
+  "model": "glm-5.2"
+}

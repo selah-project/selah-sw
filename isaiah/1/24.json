@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 1:24",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kwa hiyo maoni ya Adonai, Yahweh Sebaoti, Nguvu ya Yisrael: Ole wangu! Nitajifariji kwa washukiwa wangu, na kulipiza kisasi dhidi ya maadui zangu.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kwa hiyo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "maoni"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "ya Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaoti"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "Nguvu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisrael"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Ole wangu!"
+    },
+    {
+      "surface": "אנחם",
+      "gloss": "Nitajifariji"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "kwa washukiwa wangu"
+    },
+    {
+      "surface": "ואנקמה",
+      "gloss": "na kulipiza kisasi"
+    },
+    {
+      "surface": "מאויבי",
+      "gloss": "dhidi ya maadui zangu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:11.364085890Z",
+  "model": "glm-5.2"
+}

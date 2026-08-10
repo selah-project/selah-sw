@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "«Umpigo Uliyempiga Edom na moyo wako umekuinulia; jivunia na kukaa nyumbani kwako. Na kwa nini unajihusisha na maovu na ukaanguka wewe na Yehudah pamoja nawe?»",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Umpigo"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "Uliyempiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "na umekuinulia"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jivunia"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "na kukaa"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nyumbani kwako"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "Na kwa nini"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "unajihusisha"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "na maovu"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "na ukaanguka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehudah"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pamoja nawe"
+    }
+  ],
+  "timestamp": "2026-08-10T15:03:20.117875897Z",
+  "model": "glm-5.2"
+}

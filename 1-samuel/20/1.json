@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na David akakimbia kutoka Nawothi huko Ramah, akaja, akasema mbele za Yehonathan: Nimefanya nini, je? Je, dhambi yangu ni ipi, na je, kosa langu ni lipi mbele za baba yako, kwamba anatafuta ⟨את⟩ nafsi yangu?",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "Na akakimbia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "kutoka Nawothi"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "huko Ramah"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nimefanya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "je"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "dhambi yangu"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na je"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "kosa langu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba yako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "anatafuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafsi yangu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:25:24.053527558Z",
+  "model": "glm-5.2"
+}

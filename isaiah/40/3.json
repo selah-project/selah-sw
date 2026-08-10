@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Sauti ⟨ya⟩ mwenye kuita: Jangwani tenga njia ⟨ya⟩ Yahweh; tanu kame katika nyika barabara ⟨ya⟩ Elohim wetu.",
+  "tokens": [
+    {
+      "surface": "ק֣וֹל",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "קוֹרֵ֔א",
+      "gloss": "mwenye kuita"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֕ר",
+      "gloss": "jangwani"
+    },
+    {
+      "surface": "פַּנּ֖וּ",
+      "gloss": "tenganizeni"
+    },
+    {
+      "surface": "דֶּ֣רֶךְ",
+      "gloss": "njia"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יַשְּׁרוּ֙",
+      "gloss": "tanueni kame"
+    },
+    {
+      "surface": "בָּעֲרָבָ֔ה",
+      "gloss": "katika nyika"
+    },
+    {
+      "surface": "מְסִלָּ֖ה",
+      "gloss": "barabara"
+    },
+    {
+      "surface": "לֵאלֹהֵֽינוּ",
+      "gloss": "ya Elohim wetu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:35.290166448Z",
+  "model": "glm-5.2"
+}

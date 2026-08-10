@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Sikiliza kwa sauti ya maombi yangu, mfalme wangu na Elohim wangu, kwa kuwa kweli mimi huomba ⟨kwa⟩ wewe.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Sikiliza"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "kwa sauti"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "ya maombi yangu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mfalme wangu"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "na Elohim wangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kweli"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "mimi huomba"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:47.242974810Z",
+  "model": "glm-5.2"
+}

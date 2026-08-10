@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 6:3",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na ufago mbele ya hekalu la nyumba — dhiraa ishirini urefu wake, kulingana na upana wa nyumba; na dhiraa kumi ⟨ni⟩ upana wake mbele ya nyumba.",
+  "tokens": [
+    {
+      "surface": "והאולם",
+      "gloss": "na ufago"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "-usemaji"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "hekalu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la nyumba"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ishirini"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dhiraa"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "urefu wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "kulingana na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "-usemaji"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "upana"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wa nyumba"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kwa dhiraa"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "upana wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "-usemaji"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    }
+  ],
+  "timestamp": "2026-08-10T11:39:01.730400804Z",
+  "model": "glm-5.2"
+}

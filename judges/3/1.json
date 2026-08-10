@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 3:1",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na hawa ni mataifa ambayo Yahweh aliyaacha, kuwajaribu kwa ⟨את⟩ Yisra'el — ⟨את⟩ wote waliokuwa hawajui, ⟨את⟩ vita vyote vya Kenaani.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na hawa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "aliyaacha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "kuwajaribu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sio"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "walikuwa wakiyajua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vita vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "vita"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ya Kenaani"
+    }
+  ],
+  "timestamp": "2026-08-10T11:12:58.458018452Z",
+  "model": "glm-5.2"
+}

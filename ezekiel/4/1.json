@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na wewe, mwana wa adamu, chukua ⟨kwa ajili yako⟩ tofali na uiweke mbele yako, na uichore juu yake ⟨ukiwa⟩ mji, ⟨את⟩ Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wewe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa adamu"
+    },
+    {
+      "surface": "קח",
+      "gloss": "chukua"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kwa ajili yako⟩"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "tofali"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "na uiweke"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "tofali"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbele yako"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "na uichore"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T12:27:34.209807092Z",
+  "model": "glm-5.2"
+}

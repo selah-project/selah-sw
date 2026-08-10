@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Akamzalia yeye ⟨momo⟩ wana: ⟨את⟩ Yeushi na ⟨את⟩ Shemariah na ⟨את⟩ Zahamu.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "akamzalia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeushi"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeushi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shemariah"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Shemariah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Zahamu"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zahamu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:45:22.648751075Z",
+  "model": "glm-5.2"
+}

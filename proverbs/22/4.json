@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Ghumu la unyenyekevu ni kumcheka Yahweh: mali na utukufu na uzima.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ghumu"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "la unyenyekevu"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ni kumcheka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mali"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "na utukufu"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "na uzima"
+    }
+  ],
+  "timestamp": "2026-08-10T13:27:32.310377015Z",
+  "model": "glm-5.2"
+}

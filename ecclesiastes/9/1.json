@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 9:1",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Kwa maana ⟨את⟩ yote hili niliweka moyoni mwangu, na kuyachunguza ⟨את⟩ yote hili, ya kwamba wenye haki na wenye hekima, na matendo yao, yamo mkononi mwa Elohim; mapenzi na chuki, mwanadamu hajui; vyote viko mbele yao.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "yote hili"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "זֶ֞ה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "נָתַ֤תִּי",
+      "gloss": "niliweka"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "moyoni"
+    },
+    {
+      "surface": "לִבִּי֙",
+      "gloss": "mwangu"
+    },
+    {
+      "surface": "וְלָב֣וּר",
+      "gloss": "na kuyachunguza"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "yote hili"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "זֶ֔ה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "הַצַּדִּיקִ֧ים",
+      "gloss": "wenye haki"
+    },
+    {
+      "surface": "וְהַחֲכָמִ֛ים",
+      "gloss": "na wenye hekima"
+    },
+    {
+      "surface": "וַעֲבָדֵיהֶ֖ם",
+      "gloss": "na matendo yao"
+    },
+    {
+      "surface": "בְּיַ֣ד",
+      "gloss": "mkononi"
+    },
+    {
+      "surface": "הָאֱלֹהִ֑ים",
+      "gloss": "mwa Elohim"
+    },
+    {
+      "surface": "גַּֽם",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "אַהֲבָ֣ה",
+      "gloss": "upendo"
+    },
+    {
+      "surface": "גַם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "שִׂנְאָ֗ה",
+      "gloss": "chuki"
+    },
+    {
+      "surface": "אֵ֤ין",
+      "gloss": "hajui"
+    },
+    {
+      "surface": "יוֹדֵ֨עַ֙",
+      "gloss": "anayejua"
+    },
+    {
+      "surface": "הָֽאָדָ֔ם",
+      "gloss": "mwanadamu"
+    },
+    {
+      "surface": "הַכֹּ֖ל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "לִפְנֵיהֶֽם",
+      "gloss": "viko mbele yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:48:15.238445098Z",
+  "model": "glm-5.2"
+}

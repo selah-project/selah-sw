@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Naye Avraham akaondoka kutoka huo mwelekeo wa nchi ya Negev, akakaa kati ya Qadesh na kati ya Shur, akapumzika kama mgeni nchini Gerar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "akaondoka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kutoka huko"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "mwelekeo wa nchi"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akakaa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qadesh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "akapumzika kama mgeni"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "nchini Gerar"
+    }
+  ],
+  "timestamp": "2026-08-10T10:06:17.438410170Z",
+  "model": "glm-5.2"
+}

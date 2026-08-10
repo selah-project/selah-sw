@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Ondoka, nenda Nineve, ⟨hiyo⟩ mji ule mkubwa, na uite kwa sauti; maana ubaya wao umepanda mbele zangu.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ondoka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ule mkubwa"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "na uite"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kwa sauti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "umepanda"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "ubaya wao"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele zangu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:15:18.533463812Z",
+  "model": "glm-5.2"
+}

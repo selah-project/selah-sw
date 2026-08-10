@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Maana hakudharau wala kuchukia dhiki ya mnyenyekevu, wala hakuficha uso wake kutoka kwake; na pindi alipomwita, ⟨alimsikia⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haku"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "dharau"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala haku"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "chukia"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "dhiki"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ya mnyenyekevu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala haku"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "ficha"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uso wake"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kutoka kwake"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "na pindi alipomwita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "alimsikia"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:35.134313771Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 57,
+  "translation": "Mtandao wameiandaa kwa nyayo zangu, nefesh yangu imepinda, shimo wamelichimba mbele yangu, wameanguka katikati yake. Selah.",
+  "tokens": [
+    {
+      "surface": "רֶ֤שֶׁת",
+      "gloss": "mtandao"
+    },
+    {
+      "surface": "הֵכִ֣ינוּ",
+      "gloss": "wameiandaa"
+    },
+    {
+      "surface": "לִפְעָמַי֮",
+      "gloss": "kwa nyayo zangu"
+    },
+    {
+      "surface": "כָּפַ֪ף",
+      "gloss": "imepinda"
+    },
+    {
+      "surface": "נַ֫פְשִׁ֥י",
+      "gloss": "nefesh yangu"
+    },
+    {
+      "surface": "כָּר֣וּ",
+      "gloss": "wamelichimba"
+    },
+    {
+      "surface": "לְפָנַ֣י",
+      "gloss": "mbele yangu"
+    },
+    {
+      "surface": "שִׁיחָ֑ה",
+      "gloss": "shimo"
+    },
+    {
+      "surface": "נָפְל֖וּ",
+      "gloss": "wameanguka"
+    },
+    {
+      "surface": "בְתוֹכָ֣הּ",
+      "gloss": "katikati yake"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T17:54:57.690822299Z",
+  "model": "glm-5.2"
+}

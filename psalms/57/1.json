@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 57,
+  "translation": "Kwa mwongoza wa kwaya. Usiharibu. Kwa David. Miktamu. ⟨Wakati⟩ akimkimbia kutokana na uso wa Shaul, ⟨ndani ya⟩ pango.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּחַ",
+      "gloss": "Kwa mwongoza wa kwaya"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תַּשְׁחֵת",
+      "gloss": "haribu"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "Kwa David"
+    },
+    {
+      "surface": "מִכְתָּם",
+      "gloss": "Miktamu"
+    },
+    {
+      "surface": "בְּבָרְחוֹ",
+      "gloss": "akimkimbia"
+    },
+    {
+      "surface": "מִפְּנֵי",
+      "gloss": "kutokana na uso wa"
+    },
+    {
+      "surface": "שָׁאוּל",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "בַּמְּעָרָה",
+      "gloss": "⟨ndani ya⟩ pango"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:27.289093101Z",
+  "model": "glm-5.2"
+}

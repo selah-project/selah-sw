@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Paroh akaona kwamba ⟨kulikuwa na⟩ nafuu, akaifanya mzigo ⟨את⟩ moyo wake, wala hakusikiliza kwao, kama alivyonena Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kulikuwa na"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "nafuu"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "akaifanya mzigo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wake"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hakusikiliza"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama alivyonena"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alivyonena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:59.001190734Z",
+  "model": "glm-5.2"
+}

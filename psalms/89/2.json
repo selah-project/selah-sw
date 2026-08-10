@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Chesed za Yahweh nitaimba milele; kizazi hadi kizazi nitafahamisha ⟨את⟩ uaminifu wako kwa kinywa changu.",
+  "tokens": [
+    {
+      "surface": "חַֽסְדֵ֣י",
+      "gloss": "Chesed za"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עוֹלָ֣ם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "אָשִׁ֑ירָה",
+      "gloss": "nitaimba"
+    },
+    {
+      "surface": "לְדֹ֥ר",
+      "gloss": "kizazi"
+    },
+    {
+      "surface": "וָדֹ֓ר",
+      "gloss": "hadi kizazi"
+    },
+    {
+      "surface": "אוֹדִ֖יעַ",
+      "gloss": "nitafahamisha"
+    },
+    {
+      "surface": "אֱמוּנָתְךָ֣",
+      "gloss": "uaminifu wako",
+      "marks": "uaminifu wako"
+    },
+    {
+      "surface": "בְּפִֽי",
+      "gloss": "kwa kinywa changu"
+    }
+  ],
+  "timestamp": "2026-08-10T17:54:29.137422242Z",
+  "model": "glm-5.2"
+}

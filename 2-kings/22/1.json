@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 22:1",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Mwana wa miaka minane Yoshia alipokuwa akifanywa mfalme, na miaka thelathini na moja alitawala huko Yerushalayim, na jina la mama yake ⟨nilikuwa⟩ Yedida binti Adaya kutoka Botskath.",
+  "tokens": [
+    {
+      "surface": "בֶּן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שְׁמֹנֶ֤ה",
+      "gloss": "minane"
+    },
+    {
+      "surface": "שָׁנָה֙",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "יֹאשִׁיָּ֣הוּ",
+      "gloss": "Yoshia"
+    },
+    {
+      "surface": "בְמָלְכ֔וֹ",
+      "gloss": "alipokuwa akifanywa mfalme"
+    },
+    {
+      "surface": "וּשְׁלֹשִׁ֤ים",
+      "gloss": "na thelathini"
+    },
+    {
+      "surface": "וְאַחַת֙",
+      "gloss": "na moja"
+    },
+    {
+      "surface": "שָׁנָ֔ה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "מָלַ֖ךְ",
+      "gloss": "alitawala"
+    },
+    {
+      "surface": "בִּירוּשָׁלִָ֑ם",
+      "gloss": "huko Yerushalayim"
+    },
+    {
+      "surface": "וְשֵׁ֣ם",
+      "gloss": "na jina"
+    },
+    {
+      "surface": "אִמּ֔וֹ",
+      "gloss": "la mama yake"
+    },
+    {
+      "surface": "יְדִידָ֥ה",
+      "gloss": "Yedida"
+    },
+    {
+      "surface": "בַת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "עֲדָ֖יָה",
+      "gloss": "Adaya"
+    },
+    {
+      "surface": "מִבָּצְקַֽת",
+      "gloss": "kutoka Botskath"
+    }
+  ],
+  "timestamp": "2026-08-10T11:52:51.729050399Z",
+  "model": "glm-5.2"
+}

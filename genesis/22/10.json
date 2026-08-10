@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Avraham akanyosha mkono wake, akashika ⟨את⟩ kisu, ili achinje ⟨את⟩ mwanae.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akanyosha"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akashika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kisu"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "kisu"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "ili achinje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanae"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanae"
+    }
+  ],
+  "timestamp": "2026-08-10T10:06:25.890448633Z",
+  "model": "glm-5.2"
+}

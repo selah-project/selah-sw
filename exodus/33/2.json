@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Nami nitamtuma mbele yako mjumbe, nami nitawafukuza ⟨את⟩ mkanaani, ⟨את⟩ emori, na ⟨את⟩ heti, na ⟨את⟩ perizi, ⟨את⟩ hivi, na ⟨את⟩ yebusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "nami nitamtuma"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbele yako"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mjumbe"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "nami nitawafukuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkanaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "mkanaani"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "na heti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "na perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "na yebusi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:51.745701049Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na Yahweh atatofautisha kati ya mifugo ya Yisrael na mifugo ya Mitsrayim; wala hata mmoja hatatakufa kati ya wana wote wa Yiserali.",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "Na...atatofautisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mifugo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisrael"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mifugo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala...hana"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "atakufa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kati ya wote"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hata mmoja"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:58.791811915Z",
+  "model": "glm-5.2"
+}

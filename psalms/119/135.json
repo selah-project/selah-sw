@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Uso wako ung'arie juu ya mtumishi wako, unifundishe ⟨את⟩ amri zako.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "uso wako"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ung'arie"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "juu ya mtumishi wako"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "unifundishe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amri zako"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "amri zako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:25.707940328Z",
+  "model": "glm-5.2"
+}

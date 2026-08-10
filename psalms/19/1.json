@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Kwa ⟨ye⟩ anayeongoza, wimbo wa David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa ⟨ye⟩ anayeongoza"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    }
+  ],
+  "timestamp": "2026-08-10T16:16:58.823824925Z",
+  "model": "glm-5.2"
+}

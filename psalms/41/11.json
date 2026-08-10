@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Wewe kwa haki, Ee Yahweh, unihurumie na kuifufua ili niwawe malipo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na wewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "unihurumie"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "na uniinue"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "ili niwalipe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:38.794099928Z",
+  "model": "glm-5.2"
+}

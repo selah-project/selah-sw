@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Mjeledi kwa farasi, haribu kwa punda, na fimbo kwa mgongo wa mapumbavu.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "Mjeledi"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "kwa farasi"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "haribu"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "kwa punda"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "na fimbo"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "kwa mgongo"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "wa mapumbavu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:28:53.618087504Z",
+  "model": "glm-5.2"
+}

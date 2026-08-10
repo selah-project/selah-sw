@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Elohim akaziweka ⟨אתם⟩ katika nafasi ya mbingu, kung'aza juu ya nchi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Na akaziweka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "mianga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "katika nafasi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ya mbingu"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "kung'aza"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:14.151685433Z",
+  "model": "glm-5.2"
+}

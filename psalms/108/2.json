@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 108,
+  "translation": "Imesimama imara moyo wangu, Elohim; nitaimba, naam, nitazimu, hata utukufu wangu.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "imesimama imara"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "nitaimba"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "naam, nitazimu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hata"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "utukufu wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:47.234022825Z",
+  "model": "glm-5.2"
+}

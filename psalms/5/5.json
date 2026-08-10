@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Kwa maana wewe huendi kwa furaha pamoja na uovu;⟨huna⟩ furaha, Elohim hutaki uovu, uovu hautakaa pamoja nawe.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "si"
+    },
+    {
+      "surface": "אֵֽל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חָפֵ֘ץ",
+      "gloss": "anayefurahia"
+    },
+    {
+      "surface": "רֶ֥שַׁע",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "אָ֑תָּה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "לֹ֖א",
+      "gloss": "hata"
+    },
+    {
+      "surface": "יְגֻרְךָ֣",
+      "gloss": "atakayeishi pamoja nawe"
+    },
+    {
+      "surface": "רָֽע",
+      "gloss": "uovu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:06.284013123Z",
+  "model": "glm-5.2"
+}

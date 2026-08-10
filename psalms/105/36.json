@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "⟨Akaua⟩ kifunguamwanga wote katika nchi yao, mkuu wa nguvu zao wote.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "na akaua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "kifunguamwanga"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "katika nchi yao"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wa wote"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "nguvu zao"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:11.724492536Z",
+  "model": "glm-5.2"
+}

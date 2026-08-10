@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 3:16",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na mume wake akaenda ⟨אתה⟩, akienda na kulia nyuma yake hata Bachurim. Na Avner akamwambia: Nenda, rudi. Na akarudi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Na akaenda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "naye"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "mume wake"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "akienda"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "na kulia"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "nyuma yake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "בחרים",
+      "gloss": "Bachurim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Nenda"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "rudi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Na akarudi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:55:59.749292669Z",
+  "model": "glm-5.2"
+}

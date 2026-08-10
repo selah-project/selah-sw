@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Mitsrayim ilifurahi wakati wa kuondoka kwao, maana woga wao ulianguka juu yao.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "ilifurahi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "wakati wa kuondoka kwao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ulianguka"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "woga wao"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "juu yao"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:14.528596854Z",
+  "model": "glm-5.2"
+}

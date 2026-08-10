@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na baada yake akachukua ⟨את⟩ Maakha binti Avshalomu, naye ikamzalia yeye ⟨את⟩ Aviyah na ⟨את⟩ Attayi na ⟨את⟩ Ziza na ⟨את⟩ Shelomiti.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "Na baada yake"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "akachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalomu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "naye ikamzalia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviyah"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Attayi"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Attayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ziza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Ziza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shelomiti"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shelomiti"
+    }
+  ],
+  "timestamp": "2026-08-10T15:45:22.648892151Z",
+  "model": "glm-5.2"
+}

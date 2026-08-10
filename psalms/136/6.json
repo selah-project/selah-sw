@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 136,
+  "translation": "Kwa anayetandaza nchi juu ya maji, kwani milele chesed wake.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "kwa anayetandaza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:17.072941331Z",
+  "model": "glm-5.2"
+}

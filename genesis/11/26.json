@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na Terachi akaishi miaka sabini, na akazaa ⟨את⟩ Avramu, ⟨את⟩ Nachori, na ⟨את⟩ Harani.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Na akaishi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terachi"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sabini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na akazaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:04:01.771998396Z",
+  "model": "glm-5.2"
+}

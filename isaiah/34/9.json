@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 34:9",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Na mifereji yake itageuzwa kuwa lami, na mavumbi yake kuwa kibiriti, na nchi yake itakuwa lani inayowaka",
+  "tokens": [
+    {
+      "surface": "ונהפכו",
+      "gloss": "na watageuzwa"
+    },
+    {
+      "surface": "נחליה",
+      "gloss": "mifereji yake"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "kuwa lami"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "na mavumbi yake"
+    },
+    {
+      "surface": "לגפרית",
+      "gloss": "kuwa kibiriti"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "na ⟨hi⟩ itakuwa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nchi yake"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "kuwa lani"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "inayowaka"
+    }
+  ],
+  "timestamp": "2026-08-10T15:06:56.733738705Z",
+  "model": "glm-5.2"
+}

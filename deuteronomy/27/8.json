@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Na utaandika juu ya mawe ⟨את⟩ maneno yote ya torah hii, ukiichonga vizuri sana.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "na utaandika"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ya torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hii"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ekiichonga"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "vizuri sana"
+    }
+  ],
+  "timestamp": "2026-08-10T14:43:59.668996939Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Chesed yako, Yahweh, imejaza dunia; amri zako nifundishe.",
+  "tokens": [
+    {
+      "surface": "חַסְדְּךָ֣",
+      "gloss": "Chesed yako"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מָלְאָ֥ה",
+      "gloss": "imejaza"
+    },
+    {
+      "surface": "הָאָ֗רֶץ",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "חֻקֶּ֥יךָ",
+      "gloss": "amri zako"
+    },
+    {
+      "surface": "לַמְּדֵֽנִי",
+      "gloss": "nifundishe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:27.120033668Z",
+  "model": "glm-5.2"
+}

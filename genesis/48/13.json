@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 48,
+  "translation": "Na Yosefu akawachukua wote wawili, ⟨את⟩ Efrayimu kwa mkono wake wa kulia kutoka upande wa kushoto wa Yisraeli, na ⟨את⟩ Menashe kwa mkono wake wa kushoto kutoka upande wa kulia wa Yisraeli, na akamkaribia.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Na akachukua"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wote wawili"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wote wawili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayimu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "kwa mkono wake wa kulia"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "kutoka upande wa kushoto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "kwa mkono wake wa kushoto"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "kutoka upande wa kulia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "na akamkaribia"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:16:40.198252096Z",
+  "model": "glm-5.2"
+}

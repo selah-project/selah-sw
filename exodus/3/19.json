@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Lakini mimi najua ya kwamba mfalme wa Mitsrayim hakutowaacheni mwaende, isipokuwa kwa mkono wa nguvu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Lakini mimi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "najua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatokuwa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kuwaacheni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayim"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "mwaende"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "isipokuwa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwa mkono"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "wa nguvu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:00.229631747Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Usimkabidhi mtumwa kwa bwana wake ambaye ameokolewa ⟨kwako⟩ kutoka miongoni mwa bwana wake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "mkabidhi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mtumwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bwana wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "ameokolewa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kutoka miongoni mwa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bwana wake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:00:43.950826589Z",
+  "model": "glm-5.2"
+}

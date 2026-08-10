@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Kwa hiyo tena nitawasiliana na ⟨את⟩ ninyi, neno la Yahweh, na ⟨את⟩ wana wa wana wenu nitawasiliana.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kwa hiyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "nitawasiliana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neno la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wana wa wana wenu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "wana wenu"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "nitawasiliana"
+    }
+  ],
+  "timestamp": "2026-08-10T15:10:05.662526318Z",
+  "model": "glm-5.2"
+}

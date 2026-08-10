@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Kwa sababu ⟨hiyo⟩ haikufunga milango ya tumbo langu, wala haikuficha taabu machoni pangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "-ikufunga"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "milango"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "ya tumbo langu"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "wala haikuficha"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "taabu"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "machoni pangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:30:56.995356314Z",
+  "model": "glm-5.2"
+}

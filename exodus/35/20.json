@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Basi mkutano wote wa wana wa Yisraeli watoka mbele za Moshe;",
+  "tokens": [
+    {
+      "surface": "וַיֵּצְאוּ",
+      "gloss": "watoka"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "עֲדַת",
+      "gloss": "mkutano"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "wa wana"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "מִלִּפְנֵי",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:28:15.978090094Z",
+  "model": "glm-5.2"
+}

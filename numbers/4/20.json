@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Wasingiingie kuangalia ⟨wakati⟩ wa kufunika ⟨את⟩ kitakatifu, wasife.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Wasi"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ingie"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuangalia"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "wakati wa kufunika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kitakatifu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kitakatifu"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "wasife"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:21.624736183Z",
+  "model": "glm-5.2"
+}

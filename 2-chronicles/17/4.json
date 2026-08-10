@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "kwa sababu kwa Elohim wa baba yake alienda kumtafuta, na katika amri zake aliitembea, wala si kama matendo ya Yisra'el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kwa Elohim wa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "alienda kumtafuta"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "na katika amri zake"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "aliitembea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "kama matendo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-10T15:45:14.306124226Z",
+  "model": "glm-5.2"
+}

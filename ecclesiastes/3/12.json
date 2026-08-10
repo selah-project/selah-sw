@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Nimejua kwamba hakina jema ⟨ndani⟩ yao, ila kushangilia na kufanya jema maishani mwao.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Nimejua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakina"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jema"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ndani yao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ila"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "kushangilia"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "na kufanya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jema"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "maishani mwao"
+    }
+  ],
+  "timestamp": "2026-08-10T16:24:20.403549075Z",
+  "model": "glm-5.2"
+}

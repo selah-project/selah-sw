@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "na ⟨את⟩ msingi aliufanya, na ⟨את⟩ vyombo vya kuoshia navyo alivifanya juu ya msingi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "msingi"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "msingi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aliufanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vyombo vya kuoshia"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "vyombo vya kuoshia navyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alivifanya"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "msingi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:44:08.831288144Z",
+  "model": "glm-5.2"
+}

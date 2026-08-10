@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "'Sisi ni ndugu kumi na wawili, watoto wa baba yetu; mmoja hayumo, na mdogo wa leo ⟨את⟩ yumo na baba yetu katika nchi ya Kenaan.'\"",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kumi na"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ndugu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "watoto wa"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "baba yetu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "hayumo"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "na mdogo wa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba yetu"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "baba yetu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi ya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-10T10:14:14.737593754Z",
+  "model": "glm-5.2"
+}

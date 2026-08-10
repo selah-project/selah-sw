@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Mjumbe wa Yahweh hupiga kambi pande zote kwa wamchao, na kuwaokoa.",
+  "tokens": [
+    {
+      "surface": "חֹנֶ֤ה",
+      "gloss": "hupiga kambi"
+    },
+    {
+      "surface": "מַלְאַךְ־",
+      "gloss": "Mjumbe"
+    },
+    {
+      "surface": "יְהוָ֓ה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "סָ֘בִ֤יב",
+      "gloss": "pande zote"
+    },
+    {
+      "surface": "לִֽירֵאָ֗יו",
+      "gloss": "kwa wamchao"
+    },
+    {
+      "surface": "וַֽיְחַלְּצֵֽם",
+      "gloss": "na kuwaokoa"
+    }
+  ],
+  "timestamp": "2026-08-10T16:16:45.141079261Z",
+  "model": "glm-5.2"
+}

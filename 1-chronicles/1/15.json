@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na ⟨את⟩ Hahewi, na ⟨את⟩ Haaraki, na ⟨את⟩ Hasini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hahewi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hahewi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Haaraki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Haaraki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hasini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Hasini"
+    }
+  ],
+  "timestamp": "2026-08-10T14:02:52.538803151Z",
+  "model": "glm-5.2"
+}

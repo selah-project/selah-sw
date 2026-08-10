@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Wimbo wa David: Yahweh ⟨ni⟩ mchunga wangu, sitapungukiwa na kitu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "mchunga wangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "tapungukiwa na kitu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:34.479566694Z",
+  "model": "glm-5.2"
+}

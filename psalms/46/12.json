@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 46,
+  "translation": "Yahweh wa majeshi ⟨yu⟩ pamoja nasi; ngome kwa sisi Elohim ya Ya'akov. ⟨Selah⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wa majeshi"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "⟨yu⟩ pamoja nasi"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ngome"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa sisi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Ya'akov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "⟨Selah⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:25.853166114Z",
+  "model": "glm-5.2"
+}

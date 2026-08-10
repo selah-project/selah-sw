@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 118,
+  "translation": "El wewe ⟨ndiwe⟩, nami nitakushukuru; Elohim wangu, nami nitakuinuli.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El wangu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "nami nitakushukuru"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wangu"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "nami nitakuinuli"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:08.350263169Z",
+  "model": "glm-5.2"
+}

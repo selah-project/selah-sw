@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Ni nani amefanya na kutenda ⟨את⟩ hili? Mwitao vizazi tangu mwanzo. Mimi, Yahweh, wa kwanza, na ⟨pamoja na⟩ ⟨את⟩ wa mwisho, mimi ndiye yule.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "amefanya"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na kutenda"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "mwitao"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "vizazi"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "tangu mwanzo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "wa kwanza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wa mwisho"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "wa mwisho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye yule"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:36.542028259Z",
+  "model": "glm-5.2"
+}

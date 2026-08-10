@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Pamba na kiburi na kimo, na utukufu na mwambaao uvae.",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "pamba"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kiburi"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "na kimo"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "na utukufu"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "na mwambaao"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "uvae"
+    }
+  ],
+  "timestamp": "2026-08-10T13:41:27.864274277Z",
+  "model": "glm-5.2"
+}

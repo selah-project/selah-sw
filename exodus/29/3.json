@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Nauweke ⟨vizitengeneze⟩ juu ya kikapu kimoja, nao ulete katika kikapu, pamoja na ⟨את⟩ fahali na ⟨את⟩ mapundawili wawili.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "nauweke"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨ao⟩",
+      "marks": "mikate"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "סל",
+      "gloss": "kikapu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kimoja"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "nao ulete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨ao⟩",
+      "marks": "katika kikapu"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "katika kikapu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fahali"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "fahali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mapundawili wawili"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "mapundawili"
+    }
+  ],
+  "timestamp": "2026-08-10T10:26:58.841181773Z",
+  "model": "glm-5.2"
+}

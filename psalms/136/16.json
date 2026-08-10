@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 136,
+  "translation": "Kwa yule aliyemwongoza taifa lake jangwani, kwa χesed wake daima.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "kwa yule aliyemwongoza"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "taifa lake"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "jangwani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "daima"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "χesed wake"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:16.148671659Z",
+  "model": "glm-5.2"
+}

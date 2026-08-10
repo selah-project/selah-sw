@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na baada yake Ibitsani wa Beth-Lahemu alihukumu ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Na alihukumu"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "baada yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibitsani"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beth-Lahemu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:16:40.055934191Z",
+  "model": "glm-5.2"
+}

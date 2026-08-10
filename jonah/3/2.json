@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "«Ondoka, nenda Ninwe, ⟨i⟩ mji mkubwa, na uhubiri ndani yake ⟨את⟩ hotuba ninayokuambia.»",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Ondoka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "mkubwa"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "na uhubiri"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ndani yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hotuba"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "hotuba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ninasema"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kukuambia"
+    }
+  ],
+  "timestamp": "2026-08-10T12:46:49.122994980Z",
+  "model": "glm-5.2"
+}

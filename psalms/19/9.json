@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Maagizo ya Yahweh ni ya kweli, yanayofurahisha moyo; amri ya Yahweh ni safi, yenye kuangaza macho.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "Maagizo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ni ya kweli"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "yanayofurahisha"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amri ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "ni safi"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "yenye kuangaza"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "macho"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:32.972646756Z",
+  "model": "glm-5.2"
+}

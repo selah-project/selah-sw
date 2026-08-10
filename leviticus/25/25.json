@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Ikiwa ndugu yako anaweza kupungukiwa na ⟨huwa⟩ ameuza kitu cha milki yake, na mwombaji-oa wake wa karibu anakuja kwake, na ⟨ye⟩ akiondoa ⟨את⟩ mauzo ya ndugu yake.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Ikiwa"
+    },
+    {
+      "surface": "יָמ֣וּךְ",
+      "gloss": "anaweza kupungukiwa"
+    },
+    {
+      "surface": "אָחִ֔יךָ",
+      "gloss": "ndugu yako"
+    },
+    {
+      "surface": "וּמָכַ֖ר",
+      "gloss": "na ameuza"
+    },
+    {
+      "surface": "מֵאֲחֻזָּת֑וֹ",
+      "gloss": "kitu cha milki yake"
+    },
+    {
+      "surface": "וּבָ֤א",
+      "gloss": "na anakuja"
+    },
+    {
+      "surface": "גֹֽאֲלוֹ֙",
+      "gloss": "mwombaji-oa wake"
+    },
+    {
+      "surface": "הַקָּרֹ֣ב",
+      "gloss": "wa karibu"
+    },
+    {
+      "surface": "אֵלָ֔יו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "וְגָאַ֕ל",
+      "gloss": "na akiondoa"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "mauzo"
+    },
+    {
+      "surface": "מִמְכַּ֥ר",
+      "gloss": "mauzo"
+    },
+    {
+      "surface": "אָחִֽיו",
+      "gloss": "ya ndugu yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:43.722092549Z",
+  "model": "glm-5.2"
+}

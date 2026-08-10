@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Moyo wake uliinuliwa katika njia za Yahweh; tena aliyaondoa ⟨את⟩ mahali pa juu pa ibada na ⟨את⟩ miinikro ya Ashera katika Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "uliinuliwa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "katika njia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "za Yahweh"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "aliyaondoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahali pa juu pa ibada"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "mahali pa juu pa ibada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "miinikro ya Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "miinikro ya Ashera"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "katika Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-10T14:15:41.543698376Z",
+  "model": "glm-5.2"
+}

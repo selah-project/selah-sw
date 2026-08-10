@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na msiapa kwa jina langu kwa uongo, na utatahadharisha ⟨את⟩ jina la Elohim wako; mimi Yahweh.",
+  "tokens": [
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "Na si"
+    },
+    {
+      "surface": "תִשָּׁבְע֥וּ",
+      "gloss": "ape"
+    },
+    {
+      "surface": "בִשְׁמִ֖י",
+      "gloss": "kwa jina langu"
+    },
+    {
+      "surface": "לַשָּׁ֑קֶר",
+      "gloss": "kwa uongo"
+    },
+    {
+      "surface": "וְחִלַּלְתָּ֛",
+      "gloss": "na utatahadharisha"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "jina"
+    },
+    {
+      "surface": "שֵׁ֥ם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "אֱלֹהֶ֖יךָ",
+      "gloss": "la Elohim wako"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:21.672327663Z",
+  "model": "glm-5.2"
+}

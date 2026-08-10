@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 73,
+  "translation": "Kwa kuwa hakuna minyororo kwa kufa kwao, na mwili wao ⟨ni⟩ wenye nguvu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "minyororo"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "kwa kufa kwao"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "na wenye nguvu"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "mwili wao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:18.521003968Z",
+  "model": "glm-5.2"
+}

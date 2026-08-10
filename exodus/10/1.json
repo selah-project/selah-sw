@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Yahweh akamwambia Moshe: Nenda kwa Paroh, kwa kuwa mimi nimemzitoisha ⟨את⟩ moyo wake na ⟨את⟩ moyo wa watumishi wake, ili niweke alama zangu hizi katikati yake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "nimemzitoisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wake"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "moyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "wa watumishi wake"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ili"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "niweke"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "alama zangu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hizi"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "katikati yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:24.977646859Z",
+  "model": "glm-5.2"
+}

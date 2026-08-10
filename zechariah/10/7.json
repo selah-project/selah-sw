@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 10:7",
+  "book": "zechariah",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na watakuwa kama shujaa Efrayimu, nayo moyo wao utafurahi kama mvinyo, na watoto wao wataona na kufurahi, nayo moyo wao utajivuna katika Yahweh.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "na watakuwa"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "kama shujaa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "nayo itafurahi"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "moyo wao"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kama"
+    },
+    {
+      "surface": "יין",
+      "gloss": "mvinyo"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "na watoto wao"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "wataona"
+    },
+    {
+      "surface": "ושמחו",
+      "gloss": "na kufurahi"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "utajivuna"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "moyo wao"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "katika Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T12:53:19.221238546Z",
+  "model": "glm-5.2"
+}

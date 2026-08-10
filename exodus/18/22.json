@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 18:22",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Nao watahukumu ⟨את⟩ watu wakati wote; na itakuwa kila jambo kubwa wataleta kwako, na kila jambo dogo watalihukumu wenyewe; nao watakupunguzia mizigo, nao watabebeshana nawe.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "Nao watahukumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wakati wote"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na itakuwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "wataleta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na kila"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "dogo"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "watalihukumu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wenzewe"
+    },
+    {
+      "surface": "והקל",
+      "gloss": "nawe watakapunguzia"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "mzigo"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "nao watabebeshana"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "nawe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:22:44.821223846Z",
+  "model": "glm-5.2"
+}

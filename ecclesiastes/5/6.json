@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Kwa maana katika wingi wa ndoto na ubatilifu na maneno mengi — lakini ⟨wewe⟩ ⟨את⟩ Elohim uogope!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "katika wingi wa"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "ndoto"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "na ubatilifu"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "na maneno"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mengi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lakini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "uogope"
+    }
+  ],
+  "timestamp": "2026-08-10T15:37:46.853333833Z",
+  "model": "glm-5.2"
+}

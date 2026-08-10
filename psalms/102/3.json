@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Usifiche uso wako kutokuambatina nami siku ya dhiki yangu; tee sikio lako kwangu; siku nitakapoitisha, fanya haraka, unitikie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "fiche"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uso wako"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dutuokuambatina nami"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dhiki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yangu"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "sikio lako"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nita kapoitisha"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "fanya haraka"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "unitikie"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:40.994526031Z",
+  "model": "glm-5.2"
+}

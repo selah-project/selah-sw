@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 38:30",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Na baadaye ndugu yake alitoka nje, yule ⟨aliye⟩ na ⟨uci⟩ juu ya mkono wake; nao wakamwita jina lake Zerach.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "na baadaye"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "alitoka nje"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yule"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "השני",
+      "gloss": "uci"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wakamwita"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    }
+  ],
+  "timestamp": "2026-08-10T10:12:49.268377332Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Maneno ya wenye hekima ni kama midundo, na kama misumari iliyopandwa — bwana wa makusanyo yametolewa kutoka kwa mchunga mmoja.",
+  "tokens": [
+    {
+      "surface": "דִּבְרֵ֤י",
+      "gloss": "Maneno ya"
+    },
+    {
+      "surface": "חֲכָמִים֙",
+      "gloss": "wenye hekima"
+    },
+    {
+      "surface": "כַּדָּ֣רְבֹנ֔וֹת",
+      "gloss": "ni kama midundo"
+    },
+    {
+      "surface": "וּֽכְמַשְׂמְר֥וֹת",
+      "gloss": "na kama misumari"
+    },
+    {
+      "surface": "נְטוּעִ֖ים",
+      "gloss": "iliyopandwa"
+    },
+    {
+      "surface": "בַּעֲלֵ֣י",
+      "gloss": "bwana wa"
+    },
+    {
+      "surface": "אֲסֻפּ֑וֹת",
+      "gloss": "makusanyo"
+    },
+    {
+      "surface": "נִתְּנ֖וּ",
+      "gloss": "yametolewa"
+    },
+    {
+      "surface": "מֵרֹעֶ֥ה",
+      "gloss": "kutoka kwa mchunga"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "mmoja"
+    }
+  ],
+  "timestamp": "2026-08-10T17:56:21.738775020Z",
+  "model": "glm-5.2"
+}

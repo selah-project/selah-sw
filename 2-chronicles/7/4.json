@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na mfalme na watu wote walikuwa wakichinja zabaha mbele za Yahweh.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Na mfalme"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "walikuwa wakichinja"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zabaha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:13:45.487776600Z",
+  "model": "glm-5.2"
+}

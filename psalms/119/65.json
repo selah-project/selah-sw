@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Wema umefanya ⟨pamoja na⟩ mtumishi wako, Yahweh, kulingana na neno lako.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "wema"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "umefanya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨pamoja na⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mtumishi wako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "kulingana na neno lako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:26.294545979Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na atakata ⟨את⟩ vipandani kwake, na ⟨את⟩ kichwa chake, na ⟨את⟩ mafuta yake, na kuhani ataviweka juu ya kuni ambazo ziko juu ya moto ambao uko juu ya madhabahu.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "na atakata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "vipandani kwake"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "vipandani kwake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kichwa chake"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kichwa chake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafuta yake"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "mafuta yake"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "na ataviweka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahani"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hivyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ziko juu ya"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "על",
+      "gloss": "uko juu ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:44.420911705Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 130,
+  "translation": "Kama ⟨wewe⟩ ungeshika mema, Yah; Adonai, nani angekawa ⟨amesimama⟩?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kama"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "mema"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ungeshika"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "angekawa ⟨amesimama⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:24.887501949Z",
+  "model": "glm-5.2"
+}

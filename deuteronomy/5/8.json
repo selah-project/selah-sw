@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Usifanyie mwenyewe sanamu, mfano wowote, ule ulioko mbinguni juu, au ule ulioko duniani chini, au ule ulioko majini chini ya nchi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "fanyie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mwenyewe"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "sanamu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mfano wowote"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "⟨mfano⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ule ulioko"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mbinguni"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "juu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "au ule ulioko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "duniani"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "chini"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "au ule ulioko"
+    },
+    {
+      "surface": "במים",
+      "gloss": "majini"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "chini"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ya nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:55:21.244480540Z",
+  "model": "glm-5.2"
+}

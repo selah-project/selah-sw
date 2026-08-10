@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Siku ya Shabbat, siku ya Shabbat, ataziipanga mbele za Yahweh daima ⟨את⟩ kutoka kwa wana wa Yisra'el — agano la milele.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "ataziipanga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "kutoka kwa wana wa Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "agano"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "la milele"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:36.853655847Z",
+  "model": "glm-5.2"
+}

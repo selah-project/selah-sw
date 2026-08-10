@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Elohim, kwa masikio yetu tumesikia, baba zetu wameetuambia, kazi uliyofanya katika siku zao, katika siku za zamani.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "kwa masikio yetu"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "tumesikia"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "baba zetu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "wameetuambia"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "etu"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "uliyofanya"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "katika siku zao"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "katika siku za"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "zamani"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:04.552596081Z",
+  "model": "glm-5.2"
+}

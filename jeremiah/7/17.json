@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 7:17",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Jewe, huoni wanayofanya katika miji ya Yehudha na katika mitaani ya Yerushalayim?",
+  "tokens": [
+    {
+      "surface": "הֽאֵינְךָ֣",
+      "gloss": "jewe"
+    },
+    {
+      "surface": "רֹאֶ֔ה",
+      "gloss": "huoni"
+    },
+    {
+      "surface": "מָ֛ה",
+      "gloss": "wanayofanya"
+    },
+    {
+      "surface": "הֵ֥מָּה",
+      "gloss": "wao"
+    },
+    {
+      "surface": "עֹשִׂ֖ים",
+      "gloss": "wanafanya"
+    },
+    {
+      "surface": "בְּעָרֵ֣י",
+      "gloss": "katika miji ya"
+    },
+    {
+      "surface": "יְהוּדָ֑ה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "וּבְחֻצ֖וֹת",
+      "gloss": "na katika mitaani ya"
+    },
+    {
+      "surface": "יְרוּשָׁלִָֽם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T12:12:31.694502073Z",
+  "model": "glm-5.2"
+}

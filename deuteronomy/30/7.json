@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na Yahweh Elohim wako atawatia ⟨את⟩ laana zote hizi juu ya adui zako na juu ya wanaokuchukia, ambao walikufukuza.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "na-atapitia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laana zote hizi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "laana"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hizi"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "adui zako"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "wanaokuchukia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "walikufukuza"
+    }
+  ],
+  "timestamp": "2026-08-10T11:02:55.246673098Z",
+  "model": "glm-5.2"
+}

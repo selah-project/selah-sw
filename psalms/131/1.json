@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 131,
+  "translation": "Wimbo wa hatua za kupanda. Wa David. Yahweh, moyo wangu haujajivuna, wala macho yangu hayajainuka; wala sikutembea katika mambo maku, wala katika mambo ya ajabu ⟨ambayo⟩ ni juu yangu mno.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hatua za kupanda"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haija"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "haujajivuna"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "hayajainuka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "macho yangu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "sikutembea"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "katika mambo maku"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "wala katika mambo ya ajabu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "⟨ambayo⟩ ni juu yangu mno"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:49.986167154Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Paroh akamwita Moshe na Aharoni, akasema: Nendeni, toeni dhabihu kwa Elohim wenu katika nchi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akamwita"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "na Aharoni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "nendeni"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "toeni dhabihu"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "kwa Elohim wenu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:27:48.060248905Z",
+  "model": "glm-5.2"
+}

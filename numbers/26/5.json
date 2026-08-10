@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 26:5",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Re'uveni, mwanzilindi wa Yisra'el; wana wa Re'uveni: ⟨cha⟩ Chanokh, ukoo wa Wachanokhi; ⟨cha⟩ Palu, ukoo wa Wapalui:",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Re'uveni"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "mwanzilindi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "wa Re'uveni"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanokh"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ukoo"
+    },
+    {
+      "surface": "החנכי",
+      "gloss": "wa Wachanokhi"
+    },
+    {
+      "surface": "לפלוא",
+      "gloss": "⟨cha⟩ Palu"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ukoo"
+    },
+    {
+      "surface": "הפלאי",
+      "gloss": "wa Wapalui"
+    }
+  ],
+  "timestamp": "2026-08-10T14:39:22.113341893Z",
+  "model": "glm-5.2"
+}

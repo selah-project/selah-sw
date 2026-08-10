@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 84,
+  "translation": "Ni kupenyeza kiasi gani maskani yako, Yahweh wa majeshi!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kiasi gani"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "kupenyeza kiasi"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "maskani yako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wa majeshi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:14.743976587Z",
+  "model": "glm-5.2"
+}

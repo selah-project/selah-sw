@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na wanaume wa Yisra'eli wakatoka kutoka Mitspah, wakawafuatilia ⟨את⟩ Wafilisti, wakawapiga hadi chini ya Beyth Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Na wakatoka"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "wanaume wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspah"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "wakawafuatilia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Wafilisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Wafilisti"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "wakawapiga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "chini"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ya Beyth"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-08-10T11:20:23.579159540Z",
+  "model": "glm-5.2"
+}

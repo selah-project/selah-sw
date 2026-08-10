@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Wapi ziko chesed zako za kwanza, Adonai, ulizokuapia Davidi katika uaminifu wako?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "wapi ziko"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "chesed zako"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "za kwanza"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "ulizokuapia"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "katika uaminifu wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:14.528717891Z",
+  "model": "glm-5.2"
+}

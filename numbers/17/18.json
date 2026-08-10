@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 17:18",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Na ⟨את⟩ jina la Aharon uandike juu ya fimbo ya Levi, kwa sababu fimbo moja ⟨i⟩ kwa kichwa cha nyumba za baba zao.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "jina la Aharon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "la Aharon"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "uandike"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "fimbo ya"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "fimbo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "kwa kichwa cha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba za"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "baba zao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:46:37.710724686Z",
+  "model": "glm-5.2"
+}

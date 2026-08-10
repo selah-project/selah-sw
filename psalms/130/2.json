@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 130,
+  "translation": "Adonai, sikiliza sauti yangu; masikio yako nayawe ⟨kuwa⟩ makini kwa sauti ya maombani.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "sikiliza"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "sauti yangu"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "nayawe ⟨kuwa⟩"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "masikio yako"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "makini"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "kwa sauti"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ya maombani"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:24.887367105Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Wala hakutaka kusikiliza kwa sauti yake; akawa mkali kushinda yeye, akamnyima (heshima), akalala ⟨את⟩ (yeye).",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Wala hakutaka"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "kusikiliza"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kusikiliza"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "kwa sauti yake"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "akawa mkali"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kushinda yeye"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "akamnyima (heshima)"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "akalala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T16:01:57.189509051Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "Kwa mwongozaji, juu ya Shoshannim, kwa wana wa Korach; mafundisho, wimbo wa mapenzi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwongozaji"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa wana wa"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mafundisho"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wimbo wa"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "mapenzi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:31.527784088Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Yahweh akajuta ya kwamba ⟨alimfanyiza⟩ ⟨את⟩ adamu juu ya nchi, akasikitika moyoni mwake.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "akajuta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alimfanyiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adamu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adamu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "juu ya nchi"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "akasikitika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moyoni mwake kwa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:02:26.171362157Z",
+  "model": "glm-5.2"
+}

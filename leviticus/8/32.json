@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na kilichobaki katika nyama na katika mkate kwa moto mtateketeza.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "Na kilichobaki"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "katika nyama"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "na katika mkate"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kwa moto"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "mtateketeza"
+    }
+  ],
+  "timestamp": "2026-08-10T14:34:58.559964710Z",
+  "model": "glm-5.2"
+}

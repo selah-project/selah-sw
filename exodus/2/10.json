@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na mtoto akakuwa mkubwa, akampeleka kwa binti Paroh, akawa ⟨ni⟩ mwanae. Akaita jina lake Moshe, akasema: «Kwa sababu katika maji ndipo nilivumtoa.»",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Na akakuwa mkubwa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mtoto"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "akampeleka"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "kwa binti"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akawa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "Akaita"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "katika"
+    },
+    {
+      "surface": "המים",
+      "gloss": "majika"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "nilivumtoa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:28:07.732145155Z",
+  "model": "glm-5.2"
+}

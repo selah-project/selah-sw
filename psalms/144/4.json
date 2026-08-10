@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 144,
+  "translation": "Mwanadamu ni kama uvu; siku zake ni kama kivuli kinachopita.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Mwanadamu"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "ni kama uvu"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "⟨ni kama⟩"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "siku zake"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "ni kama kivuli"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "kinachopita"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:48.029133688Z",
+  "model": "glm-5.2"
+}

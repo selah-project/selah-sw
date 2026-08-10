@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kwa kuwa Yahweh anajua ⟨njia⟩ ya wakulipwa haki, lakini ⟨njia⟩ ya wasio haki itapotea.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "יוֹדֵעַ",
+      "gloss": "anajua"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דֶּ֣רֶךְ",
+      "gloss": "njia"
+    },
+    {
+      "surface": "צַדִּיקִ֑ים",
+      "gloss": "wa wakulipwa haki"
+    },
+    {
+      "surface": "וְדֶ֖רֶךְ",
+      "gloss": "lakini njia"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "ya wasio haki"
+    },
+    {
+      "surface": "תֹּאבֵֽד",
+      "gloss": "itapotea"
+    }
+  ],
+  "timestamp": "2026-08-10T16:16:54.512313013Z",
+  "model": "glm-5.2"
+}

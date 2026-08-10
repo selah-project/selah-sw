@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Wanichukia kwa dharau, wamejitenga mbali nami, na nyuma yangu hawakuzuia mate yao.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "wanichukia kwa dharau"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "wamejitenga mbali"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nami"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "na nyuma yangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawaku"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "kuzuia"
+    },
+    {
+      "surface": "רק",
+      "gloss": "mate yao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:34:38.166384253Z",
+  "model": "glm-5.2"
+}

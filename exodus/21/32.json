@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Ikiwa ng'ombe atazongoa mtumwa au mijakazi, fedha shekeli thelathini atawapa bwana wake, na ng'ombe atatuwiwa mawe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mtumwa"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "atazongoa"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "mijakazi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thelathini"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "shekeli"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "atatoa"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "kwa bwanake"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "na ng'ombe"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "atatuwiwa mawe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:32.963766262Z",
+  "model": "glm-5.2"
+}

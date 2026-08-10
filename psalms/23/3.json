@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Uhai wangu ⟨anau↺isha⟩; ⟨aniniongoza⟩ katika nyufa za haki kwa ajili ya jina lake.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Uhai wangu"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "anau↺isha"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "aniniongoza"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "katika nyufa za"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "haki"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:34.480051202Z",
+  "model": "glm-5.2"
+}

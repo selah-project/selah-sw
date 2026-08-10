@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Nawe Yahweh ⟨utakuwa⟩ boma kwa waliodhoofishwa, boma kwa nyakati katika dhiki.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨utakuwa⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "boma"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "kwa waliodhoofishwa"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "boma"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "kwa nyakati"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "katika dhiki"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:16.265861067Z",
+  "model": "glm-5.2"
+}

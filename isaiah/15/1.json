@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Taabu ya Moab. Kwa kuwa usiku ulipang'atwa Ar wa Moab, umetoweka; kwa kuwa usiku ulipang'atwa Kir wa Moab, umetoweka.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "taabu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ulipang'atwa"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "umetoweka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ulipang'atwa"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "umetoweka"
+    }
+  ],
+  "timestamp": "2026-08-10T15:05:34.131424894Z",
+  "model": "glm-5.2"
+}

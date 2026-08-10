@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Paroh akafanya haraka kumwita Moshe na Aharoni, akasema: Nimekosa dhidi la Yahweh, Elohim wenu, na dhidi yenu.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "akafanya haraka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "kumwita"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "na Aharoni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Nimekosa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dhidi la Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wenu"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "na dhidi yenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:37.476762119Z",
+  "model": "glm-5.2"
+}

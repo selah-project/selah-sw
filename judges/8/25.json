@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 8:25",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Nao wakasema: «Tutapa kabisa, tutapa!» Wakatandaza ⟨את⟩ hii vazi, na wakatupa huko kila mtu pete ya nyara yake.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nao wakasema"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "tutapa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "tutapa"
+    },
+    {
+      "surface": "ויפרשו",
+      "gloss": "wakatandaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hii vazi"
+    },
+    {
+      "surface": "השמלה",
+      "gloss": "hii vazi"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "wakatupa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "huko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "pete"
+    },
+    {
+      "surface": "שללו",
+      "gloss": "ya nyara yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:15:09.291265214Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "na ⟨את⟩ kinara cha mwanga na ⟨את⟩ vyombo vyake na ⟨את⟩ taa zake na ⟨את⟩ mafuta ya mwanga",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kinara cha mwanga"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "kinara"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "cha mwanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vyombo vyake"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "vyombo vyake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "taa zake"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "taa zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafuta ya mwanga"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ya mwanga"
+    }
+  ],
+  "timestamp": "2026-08-10T10:28:28.840219304Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 124,
+  "translation": "A basi maji yangeliTUme zama, mtiririko wangeliupitishia juu ya nafsi yetu.",
+  "tokens": [
+    {
+      "surface": "אֲ֭זַי",
+      "gloss": "A basi"
+    },
+    {
+      "surface": "הַמַּ֣יִם",
+      "gloss": "maji"
+    },
+    {
+      "surface": "שְׁטָפ֑וּנוּ",
+      "gloss": "yangeliTUme zama"
+    },
+    {
+      "surface": "נַ֗֜חְלָה",
+      "gloss": "mtiririko"
+    },
+    {
+      "surface": "עָבַ֥ר",
+      "gloss": "wangeliupitishia"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "נַפְשֵֽׁנוּ",
+      "gloss": "nafsi yetu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:48.316214731Z",
+  "model": "glm-5.2"
+}

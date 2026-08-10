@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 22:28",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Na ⟨את⟩ taifa lenye dhiki utawaokoa; na macho yako juu ya wapandao wa kiburi, utawadhoofisha.",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "taifa lenye dhiki"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "עָנִי",
+      "gloss": "lenye dhiki"
+    },
+    {
+      "surface": "תוֹשִׁיעַ",
+      "gloss": "utawaokoa"
+    },
+    {
+      "surface": "וְעֵינֶיךָ",
+      "gloss": "na macho yako"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "רָמִים",
+      "gloss": "wapandao wa kiburi"
+    },
+    {
+      "surface": "תַּשְׁפִּיל",
+      "gloss": "utawadhoofisha"
+    }
+  ],
+  "timestamp": "2026-08-10T11:36:07.249307484Z",
+  "model": "glm-5.2"
+}

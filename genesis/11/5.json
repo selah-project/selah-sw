@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Naye Yahweh akashuka kuona ⟨את⟩ jiji na ⟨את⟩ mnara ambao waliujenga wana waadamu.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "akashuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiji"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "jiji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mnara"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "mnara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "waliujenga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adamu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:35.056569021Z",
+  "model": "glm-5.2"
+}

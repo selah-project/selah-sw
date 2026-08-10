@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Nanyi mtazingatia ⟨את⟩ dhamana yangu, ili msifanye katika desturi za machukizo zilizofanywa mbele yenu, wala msitie unajisi kwa hizo; mimi ni Yahweh Elohim wenu.",
+  "tokens": [
+    {
+      "surface": "וּשְׁמַרְתֶּ֣ם",
+      "gloss": "Nanyi mtazingatia"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "dhamana yangu"
+    },
+    {
+      "surface": "מִשְׁמַרְתִּ֗י",
+      "gloss": "dhamana yangu"
+    },
+    {
+      "surface": "לְבִלְתִּ֨י",
+      "gloss": "ili"
+    },
+    {
+      "surface": "עֲשׂ֜וֹת",
+      "gloss": "msifanye"
+    },
+    {
+      "surface": "מֵחֻקּ֤וֹת",
+      "gloss": "katika desturi za"
+    },
+    {
+      "surface": "הַתּֽוֹעֵבֹת֙",
+      "gloss": "machukizo"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "נַעֲשׂ֣וּ",
+      "gloss": "zilizofanywa"
+    },
+    {
+      "surface": "לִפְנֵיכֶ֔ם",
+      "gloss": "mbele yenu"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "wala"
+    },
+    {
+      "surface": "תִֽטַּמְּא֖וּ",
+      "gloss": "msitie unajisi"
+    },
+    {
+      "surface": "בָּהֶ֑ם",
+      "gloss": "kwa hizo"
+    },
+    {
+      "surface": "אֲנִ֖י",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶֽם",
+      "gloss": "Elohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:35:48.633683013Z",
+  "model": "glm-5.2"
+}

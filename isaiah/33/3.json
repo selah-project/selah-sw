@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Kwa sauti ya kelele, mataifa yamekimbia; kwa koin kwako, mataifa yametawanyika.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "kwa sauti ya"
+    },
+    {
+      "surface": "המון",
+      "gloss": "kelele"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "yamekimbia"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "kwa kuinuka kwako"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "yametawanyika"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mataifa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:02:34.320883956Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 72,
+  "translation": "Wafalme wa Tarshishi na ⟨ya⟩ visiwa watakichangia zawadi; wafalme wa Sheba na Seba watakileta thawabu.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme wa"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshishi"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "na visiwa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "zawadi"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "watakichangia"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme wa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "na Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "thawabu"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "watakileta"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:59.482711920Z",
+  "model": "glm-5.2"
+}

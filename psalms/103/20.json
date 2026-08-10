@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 103,
+  "translation": "Mbarikini Yahweh, enyi watumishi wake, enyi mashujaa wa nguvu, watendaji neno lake, kusikia kwa sauti ya neno lake.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Mbarikini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "enyi watumishi wake"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "enyi mashujaa wa"
+    },
+    {
+      "surface": "כח",
+      "gloss": "nguvu"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "watendaji"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "neno lake"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kusikia"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kwa sauti ya"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "neno lake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:02.438775636Z",
+  "model": "glm-5.2"
+}

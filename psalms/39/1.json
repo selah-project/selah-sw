@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "Kwa mwonjezi, kwa Yedutuni. Wimbo wa David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwonjezi"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "kwa Yedutuni"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:42.504578197Z",
+  "model": "glm-5.2"
+}

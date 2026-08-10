@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "na ⟨את⟩ Tsorah, na ⟨את⟩ Ayalon, na ⟨את⟩ Chevron, ambazo zilikuwa katika Yehudah na katika Binyamin, miji ya ngome.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "katika Yehudah"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "na katika Binyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miji"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "ya ngome"
+    }
+  ],
+  "timestamp": "2026-08-10T14:13:47.120998218Z",
+  "model": "glm-5.2"
+}

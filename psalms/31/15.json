@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Lakini mimi nilikutegemea wewe, Yahweh; nilisema, Elohim wewe ⟨⟨ni⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Lakini mimi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nilikutegemea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nilisema"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wangu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:46.999460594Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "na ⟨את⟩ Ashani na ⟨את⟩ malisho yake, na ⟨את⟩ Bethi-shemeshi na ⟨את⟩ malisho yake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ashani"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "malisho yake"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "malisho yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Bethi-shemeshi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "shemeshi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "malisho yake"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "malisho yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:05:32.984716233Z",
+  "model": "glm-5.2"
+}

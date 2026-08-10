@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Pingeni ⟨את⟩ kichwa cha jumla ya mkutano wa wana wa Yisra'el, kufuatana na familia zao, kufuatana nyumba za baba zao, kwa hesabu ya majina, kila mwanaume, kufuatana na wao kwa mtu.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Pingeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kichwa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cha jumla ya"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "mkutano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kufuatana na familia zao"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kufuatana nyumba"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "za baba zao"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "kwa hesabu"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ya majina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mwanaume"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "kufuatana na wao kwa mtu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:02.720340441Z",
+  "model": "glm-5.2"
+}

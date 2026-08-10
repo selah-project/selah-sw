@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Tamu kuona macho kuliko kutangatanga kwa nefesh; hata hii ni hebel na uchungu wa roho.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Tamu"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "macho"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "kuliko kutangatanga"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kwa nefesh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ni hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "na uchungu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wa roho"
+    }
+  ],
+  "timestamp": "2026-08-10T13:47:27.227944994Z",
+  "model": "glm-5.2"
+}

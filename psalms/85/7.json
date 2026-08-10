@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 85,
+  "translation": "Je, si Wewe utakayeurudisha? Utaihuisha ⟨sisi⟩, na watu Wako watafurahi ndani Yako.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Je, si"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wewe"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "utakayeurudisha"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "Utaihuisha"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "na watu Wako"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "watafurahi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ndani Yako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:33.901933749Z",
+  "model": "glm-5.2"
+}

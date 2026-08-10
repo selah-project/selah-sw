@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Watu wa Nineve wakaamini Elohim, wakaita ⟨kufunga⟩, wakavaa nguo magumu, kutoka wakubwa wao hata wadogo wao.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "wakaamini"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "watu"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "wa Nineve"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "wakaita"
+    },
+    {
+      "surface": "צום",
+      "gloss": "kufunga"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "wakavaa"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "nguo magumu"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "kutoka wakubwa wao"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "wadogo wao"
+    }
+  ],
+  "timestamp": "2026-08-10T16:15:24.351645293Z",
+  "model": "glm-5.2"
+}

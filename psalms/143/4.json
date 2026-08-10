@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 143,
+  "translation": "Na roho yangu inakuchwa juu yangu, ndani yangu moyo wangu unastaa.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "inakuchwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "roho yangu"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "ndani yangu"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "unastaa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:25.160074200Z",
+  "model": "glm-5.2"
+}

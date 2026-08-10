@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Ataita mbingu kutoka juu, na ⟨ardia⟩ nchi, ahukumu ⟨את⟩ watu wake.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Ataita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ardia⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kutoka juu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ⟨ardia⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "ahukumu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨את⟩ watu wake",
+      "marks": "watu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:56.444238019Z",
+  "model": "glm-5.2"
+}

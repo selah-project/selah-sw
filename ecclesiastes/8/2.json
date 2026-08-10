@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Mimi ⟨ninakushauri⟩: kiu cha mkuu, lindile, na kwa ajili ya kiapo cha Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kiu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "cha mkuu"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "lindile"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na kwa ajili ya"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "(kiapo)"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "cha kiapo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "cha Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T15:38:09.948117348Z",
+  "model": "glm-5.2"
+}

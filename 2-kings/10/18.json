@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Yehu akakusanya ⟨את⟩ watu wote, akawaambia, Ahabu alimtumikia ⟨את⟩ Baali kidogo; Yehu atamtumikia sana.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "akakusanya"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "alimtumikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baali"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baali"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kidogo"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "atamtumikia"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-10T17:47:30.549968667Z",
+  "model": "glm-5.2"
+}

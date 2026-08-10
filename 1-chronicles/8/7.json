@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na Naaman, na Achiya, na Gera — yeye ndiye aliyeuhamisha, akamzaa ⟨את⟩ Uzza na ⟨את⟩ Achiyud.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "Na Naaman"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "na Achiya"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "na Gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "ndiye aliyeuhamisha"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "akamzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzza"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Achiyud"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Achiyud"
+    }
+  ],
+  "timestamp": "2026-08-10T15:42:55.333571607Z",
+  "model": "glm-5.2"
+}

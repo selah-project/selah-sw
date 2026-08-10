@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na Yitschak akampenda Esav, kwa sababu mawindo ⟨ylikuwa⟩ kinywani mwake; na Rivka akampenda Yaakov.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "Na akampenda"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "mawindo"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "kinywani mwake"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "na Rivka"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "akampenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-10T15:49:55.127615885Z",
+  "model": "glm-5.2"
+}

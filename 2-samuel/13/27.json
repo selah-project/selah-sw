@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na Avshalom akamsisitiza, naye akatuma ⟨⟨את⟩ pamoja naye⟩ ⟨את⟩ Amoni na ⟨את⟩ wana wote wa mfalme.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "akamsisitiza"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pamoja naye",
+      "marks": "Amoni na wana wote wa mfalme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amoni"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wana wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T11:31:46.383243556Z",
+  "model": "glm-5.2"
+}

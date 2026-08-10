@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "⟨Tena⟩ ikawa dhiki kwa Yonah — dhiki kubwa — naye akawaka hasira.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ikawa dhiki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "dhiki"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "naye akawaka hasira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kwake⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T12:46:49.472421305Z",
+  "model": "glm-5.2"
+}

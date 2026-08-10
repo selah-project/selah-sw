@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na mfalme wa Ashur akamsikiliza, na mfalme wa Ashur akapanda hadi Damasheki, akaiwakamata, akaihamisha Kirah, na ⟨את⟩ Retsin akamwua.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akamsikiliza"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "akapanda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasheki"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "akaiwakamata"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "akaihamisha"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Kirah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Retsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "akamwua"
+    }
+  ],
+  "timestamp": "2026-08-10T15:03:09.720858566Z",
+  "model": "glm-5.2"
+}

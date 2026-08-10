@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Maneno yote ni machofo; hamwezi mtu kuyatamka; jicho hakashibi kwa kuona, na sikio halijai kwa kusikia.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "ni machofo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamwezi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuyatamka"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kuyatamka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakashibi"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "hakashibi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "jicho"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kwa kuona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "halijai"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "sikio"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "kusikia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:16.630359387Z",
+  "model": "glm-5.2"
+}

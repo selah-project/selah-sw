@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Kwa mwongoza wa muziki. Wa David. Wimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa mwongoza wa muziki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "wimbo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:51.437494552Z",
+  "model": "glm-5.2"
+}

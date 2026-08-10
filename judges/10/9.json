@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 10:9",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na wana wa Amoni wakavuka ⟨את⟩ Yardeni kupigana, pia dhidi ya Yehuda na dhidi ya Binyamin na dhidi ya nyumba ya Efrayimu; nayo Israeli ikabana sana.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "wakavuka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "kupigana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "dhidi ya Yehuda"
+    },
+    {
+      "surface": "ובבנימין",
+      "gloss": "na dhidi ya Binyamin"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "na dhidi ya nyumba ya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "ותצר",
+      "gloss": "ikabana"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "nayo Israeli"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-10T11:14:28.612520442Z",
+  "model": "glm-5.2"
+}

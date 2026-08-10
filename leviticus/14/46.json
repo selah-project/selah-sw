@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na yeye aingiaye ndani ya nyumba siku zote za kufungwa ⟨את⟩ wake, atachuka hadi jioni.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "Na yeye aingiaye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndani ya"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "siku"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "za kufungwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wake"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "atachuka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "jioni"
+    }
+  ],
+  "timestamp": "2026-08-10T10:34:44.663435445Z",
+  "model": "glm-5.2"
+}

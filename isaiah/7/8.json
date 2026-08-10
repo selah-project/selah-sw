@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 7:8",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Kwa kuwa kichwa cha Aramu ni Damesheki, na kichwa cha Damesheki ni Retzin; na ndani ya miaka sitini na tano Efrayimu atavunjwa mpaka asiwe tena taifa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "cha Aramu"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ni Damesheki"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "na kichwa"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "cha Damesheki"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ni Retzin"
+    },
+    {
+      "surface": "ובעוד",
+      "gloss": "na ndani ya"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sitini"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na tano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "atavunjwa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "mpaka asiwe tena taifa"
+    }
+  ],
+  "timestamp": "2026-08-10T16:06:03.829335946Z",
+  "model": "glm-5.2"
+}

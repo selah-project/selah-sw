@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 91,
+  "translation": "Hutakuwa na khofu ya tisho la usiku, wala ya mshale unaoruka mchana;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hutakuwa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "na khofu"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ya tisho"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "la usiku"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "wala ya mshale"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "unaoruka"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mchana"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:26.341899397Z",
+  "model": "glm-5.2"
+}

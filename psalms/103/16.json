@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 103,
+  "translation": "Maana upepo unapita juu yake, naye hayupo tena, nafasi yake haijatambua tena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maana"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "upepo"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "unapita"
+    },
+    {
+      "surface": "בו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "naye hayapo tena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na hafai tena"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "kumtambua"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "nafasi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:51.500569857Z",
+  "model": "glm-5.2"
+}

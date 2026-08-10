@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 144,
+  "translation": "Yahweh, mwanadamu ni nini hata umjue, mwana wa adamu hata umhesabu?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni nini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mwanadamu"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "hata umjue"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "wa adamu"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "hata umhesabu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:48.029025706Z",
+  "model": "glm-5.2"
+}

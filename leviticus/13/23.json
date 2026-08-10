@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 13:23",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na ikiwa mahali pake inasimama njeu bila kuenaea, chungu la jerkasi ndilo, na kohen ⟨atamtangaza⟩ msafi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "mahali pake inasimama njeu bila kuenaea chungu la jerkasi ndilo na kohen atamtangaza msafi"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "inasimama"
+    },
+    {
+      "surface": "הבהרת",
+      "gloss": "njeu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bila"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "kuenaea"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "chungu la"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "jerkasi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndilo"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "⟨atamtangaza⟩ msafi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-08-10T14:34:38.541370505Z",
+  "model": "glm-5.2"
+}

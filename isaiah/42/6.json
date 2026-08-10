@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Mimi Yahweh niliitisha kwa haki, na nitakushika mkono, nami nitakulinda, nami nitakupa kuwa agano la watu, kuwa nuru kwa mataifa:",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "niliitisha"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "kwa haki"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "na nitakushika mkono"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "⟨kwa mkono wako⟩"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "nami nitakulinda"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "nami nitakupa"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "kuwa agano"
+    },
+    {
+      "surface": "עם",
+      "gloss": "la watu"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "kuwa nuru"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kwa mataifa"
+    }
+  ],
+  "timestamp": "2026-08-10T16:07:48.186892682Z",
+  "model": "glm-5.2"
+}

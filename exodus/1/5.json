@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Ikawa ⟨kila⟩ nafsi ya watokao paja la Yaakov ⟨ni⟩ roho sabini, na Yosef alikuwa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafsi"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "ya watokao"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "paja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sabini"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "roho"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "na Yosef"
+    },
+    {
+      "surface": "היה",
+      "gloss": "alikuwa"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:16:57.815225567Z",
+  "model": "glm-5.2"
+}

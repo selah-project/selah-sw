@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na Churi alimzalia ⟨את⟩ Uri, na Uri alimzalia ⟨את⟩ Betsaleli.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Na Churi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzalia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "na Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzalia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsaleli"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsaleli"
+    }
+  ],
+  "timestamp": "2026-08-10T14:03:24.919538587Z",
+  "model": "glm-5.2"
+}

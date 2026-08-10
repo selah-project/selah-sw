@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Kwa hiyo sema: Tazama, mimi ninampa ⟨את⟩ agano langu la amani.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kwa hiyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sema"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Tazama, mimi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ninampa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agano langu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "agano langu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "la amani"
+    }
+  ],
+  "timestamp": "2026-08-10T14:39:00.573361632Z",
+  "model": "glm-5.2"
+}

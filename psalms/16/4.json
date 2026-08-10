@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Magonjwa yao yatazidishwa; wameharakisha ⟨nyuma⟩ — sitamimina mafuta yao ya damu, wala sitazichukua ⟨את⟩ majina yao juu ya midomo yangu.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "yatazidishwa"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "Magonjwa yao"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "⟨nyuma⟩"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "wameharakisha"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sita"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "mamimina"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "mafuta yao"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ya damu"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "wala sitazi"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "chukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "majina yao"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "majina yao"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "midomo yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:11.603239354Z",
+  "model": "glm-5.2"
+}

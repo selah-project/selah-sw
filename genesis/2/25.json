@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na walikuwa wote wawili uchi, ha-adam na mke wake, wala hawakucheka.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Na walikuwa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wote wawili"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "uchi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ha-adam"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "na mke wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "walicheka"
+    }
+  ],
+  "timestamp": "2026-08-10T15:48:35.442181531Z",
+  "model": "glm-5.2"
+}

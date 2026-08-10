@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 132,
+  "translation": "Hii ⟨ni⟩ mahali pa kupumzika kwangu daima; hapa nitakaa, kwa maana nimeitamani.",
+  "tokens": [
+    {
+      "surface": "זֹאת",
+      "gloss": "Hii"
+    },
+    {
+      "surface": "מְנוּחָתִ֥י",
+      "gloss": "mahali pa kupumzika kwangu"
+    },
+    {
+      "surface": "עֲדֵי",
+      "gloss": "daima"
+    },
+    {
+      "surface": "עַ֑ד",
+      "gloss": "⟨daima⟩"
+    },
+    {
+      "surface": "פֹּֽה",
+      "gloss": "hapa"
+    },
+    {
+      "surface": "אֵ֝שֵׁב֗",
+      "gloss": "nitakaa"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "אִוִּתִֽיהָ",
+      "gloss": "nimeitamani"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:55.194217043Z",
+  "model": "glm-5.2"
+}

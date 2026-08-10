@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 107:43",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Ni nye mwenye hekima? Na aweke sana haya; na wazingatie chesed za Yahweh.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mwenye hekima"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "na aweke"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "ויתבוננו",
+      "gloss": "na wazingatie"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:10.701555057Z",
+  "model": "glm-5.2"
+}

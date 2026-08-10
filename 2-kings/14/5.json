@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Ikawa ilipokuwa imethibitishwa ufalme mkononi mwake, akawapiga ⟨את⟩ watumishi wake, walioimpiga ⟨את⟩ mfalme baba yake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ilipokuwa"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "imethibitishwa"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ufalme"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mkononi mwake"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akawapiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watumishi wake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumishi wake"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "walioimpiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfalme"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:49:34.555125148Z",
+  "model": "glm-5.2"
+}

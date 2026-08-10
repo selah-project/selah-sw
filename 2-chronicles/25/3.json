@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Ikawa alipokuwa imara ufalme juu yake, akaua ⟨את⟩ watumishi wake waliompiga mfalme baba yake.",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֕י",
+      "gloss": "Ikawa"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֛ר",
+      "gloss": "alipokuwa"
+    },
+    {
+      "surface": "חָזְקָ֥ה",
+      "gloss": "imara"
+    },
+    {
+      "surface": "הַמַּמְלָכָ֖ה",
+      "gloss": "ufalme"
+    },
+    {
+      "surface": "עָלָ֑יו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "וַֽיַּהֲרֹג֙",
+      "gloss": "akaua"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "watumishi wake"
+    },
+    {
+      "surface": "עֲבָדָ֔יו",
+      "gloss": "watumishi wake"
+    },
+    {
+      "surface": "הַמַּכִּ֖ים",
+      "gloss": "waliompiga"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mfalme baba yake"
+    },
+    {
+      "surface": "הַמֶּ֥לֶךְ",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "אָבִֽיו",
+      "gloss": "baba yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:18:33.217766315Z",
+  "model": "glm-5.2"
+}

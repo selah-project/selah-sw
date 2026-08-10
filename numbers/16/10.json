@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "naye akakukaribisha ⟨את⟩ wewe pamoja na ⟨את⟩ ndugu zako wote, wana wa Levi, ⟨את⟩ ⟨pamoja⟩ nawe, na mnatafuta pia ukuhani?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "naye akakukaribisha"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wewe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "pamoja na ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ndugu zako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨pamoja⟩ nawe"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "na mnatafuta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "ukuhani"
+    }
+  ],
+  "timestamp": "2026-08-10T15:56:17.151055066Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Lakini akaacha ⟨את⟩ ushauri wa wazee waliomshauru, akashauriana na ⟨את⟩ vijana waliokua pamoja naye, waliosimama mbele yake.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Lakini akaacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ushauri"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ushauri"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "wa wazee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "walio"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "mshauru"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "akashauriana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vijana"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "vijana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "walio"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "kua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨pamoja naye⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "walio"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "simama"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbele yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:41:23.662019032Z",
+  "model": "glm-5.2"
+}

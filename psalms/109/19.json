@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Iwe kwake kama nguo amejifungia, na kama ukanda daima amejifunga.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "kama nguo"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "amejifungia"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "na kama ukanda"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "amejifunga"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:31.221334266Z",
+  "model": "glm-5.2"
+}

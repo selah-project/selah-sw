@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "wakati alipokuwa akitangaza ⟨את⟩ utajiri wa utukufu wa ufalme wake na ⟨את⟩ chemsafi ya mapambo ya ukubwa wake, siku nyingi — themanini na siku mia.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "wakati alipokuwa akitangaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utajiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "utajiri"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "utukufu"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ufalme wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chemsafi"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "chemsafi"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "mapambo"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "ukubwa wake"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nyingi"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "themanini"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "mia"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    }
+  ],
+  "timestamp": "2026-08-10T13:49:08.006226847Z",
+  "model": "glm-5.2"
+}

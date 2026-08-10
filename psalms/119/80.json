@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Na iwe moyo wangu kamili katika amri zako, ili nisiprokishwe aibu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Na iwe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kamili"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "katika amri zako"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "prokishwe aibu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:54.330993493Z",
+  "model": "glm-5.2"
+}

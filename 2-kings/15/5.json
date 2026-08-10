@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 15:5",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Na Yahweh alimpiga ⟨את⟩ mfalme, akawa mwenye ukoma hadi siku ya kufa kwake, akakaa katika nyumba ya kutengwa; na Yotham mwana wa mfalme ⟨alikuwa⟩ juu ya nyumba, akihukumu ⟨את⟩ taifa la nchi.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "Na alimpiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfalme"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akawa"
+    },
+    {
+      "surface": "מצרע",
+      "gloss": "mwenye ukoma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ya kufa kwake"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akakaa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "katika nyumba"
+    },
+    {
+      "surface": "החפשית",
+      "gloss": "ya kutengwa"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "na Yotham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mfalme"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "akihukumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taifa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:49:13.409769663Z",
+  "model": "glm-5.2"
+}

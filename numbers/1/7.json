@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "kwa Yehuda, Nachshoni mwana wa Aminadabi.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "kwa Yehuda"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "wa Aminadabi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:52.915930903Z",
+  "model": "glm-5.2"
+}

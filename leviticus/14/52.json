@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na atakatakasa ⟨את⟩ nyumba kwa damu ya ndege, na kwa ⟨arodha⟩ maji yenye uhai, na kwa ndege yule aliye hai, na kwa ubao wa mwerere, na kwa isobu, na kwa uzi wekundu wa kienye.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "na atakatakasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "kwa damu"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ya ndege"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "na kwa maji"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yenye uhai"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "na kwa ndege"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "yule aliye hai"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "na kwa ubao"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "wa mwerere"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "na kwa isoibu"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "na kwa uzi wekundu"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "wa kienye"
+    }
+  ],
+  "timestamp": "2026-08-10T18:35:06.591196469Z",
+  "model": "glm-5.2"
+}

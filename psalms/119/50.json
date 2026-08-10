@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Hii ⟨ni⟩ faraja yangu katika dhiki yangu; maana neno lako lanihuisha.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Hii"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "faraja yangu"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "katika dhiki yangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "neno lako"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "lanihuisha"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:15.972603197Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na umefanya amepunguka kidogo kuliko Elohim, na utukufu na heshima umemvika.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "na umefanya amepunguka"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kidogo"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "kuliko Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "na utukufu"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "na heshima"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "umemvika"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:42.845204927Z",
+  "model": "glm-5.2"
+}

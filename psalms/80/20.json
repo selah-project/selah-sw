@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 80,
+  "translation": "Yahweh, Elohim wa majeshi, uturudishe; utang'azae uso wako, nasi tutaokolewa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wa majeshi"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "uturudishe"
+    },
+    {
+      "surface": "האר",
+      "gloss": "utang'azae"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uso wako"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "nasi tutaokolewa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:32.839304799Z",
+  "model": "glm-5.2"
+}

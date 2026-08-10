@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Wala wasiwe kama baba zao, kizazi chaasi na cha uasi, kizazi ambacho kutoa moyo hakukutayarisha, wala roho yake haikuwa imara ⟨na⟩ ⟨את⟩ El.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wala wasiwe"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "kama baba zao"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kizazi"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "chaasi"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "na cha uasi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kizazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ambacho"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hakukutayarisha"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "haikuwa imara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "roho yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:11.529133302Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 3:1",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Baada ya mambo haya mfalume Achashverosh alimkuza ⟨את⟩ Haman mwana wa Hamdata Mwagagi, akamwinua, akaweka kiti chake juu ya wakuu wote walio pamoja naye.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Baada ya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "alimkuza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalume"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Mwagagi"
+    },
+    {
+      "surface": "וינשאהו",
+      "gloss": "akamwinua"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiti chake"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kiti chake"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "wakuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "walio"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ pamoja naye"
+    }
+  ],
+  "timestamp": "2026-08-10T16:25:03.609366504Z",
+  "model": "glm-5.2"
+}

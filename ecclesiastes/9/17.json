@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Maneno ya wenye hekima kwa utulivu huweza kusikika zaidi kuliko mlalamiko wa mwenye kufunga mamlaka kati ya wapumbavu.",
+  "tokens": [
+    {
+      "surface": "דִּבְרֵ֣י",
+      "gloss": "Maneno"
+    },
+    {
+      "surface": "חֲכָמִ֔ים",
+      "gloss": "ya wenye hekima"
+    },
+    {
+      "surface": "בְּנַ֖חַת",
+      "gloss": "kwa utulivu"
+    },
+    {
+      "surface": "נִשְׁמָעִ֑ים",
+      "gloss": "huweza kusikika zaidi"
+    },
+    {
+      "surface": "מִזַּעֲקַ֥ת",
+      "gloss": "kuliko mlalamiko wa"
+    },
+    {
+      "surface": "מוֹשֵׁ֖ל",
+      "gloss": "mwenye kufunga mamlaka"
+    },
+    {
+      "surface": "בַּכְּסִילִֽים",
+      "gloss": "kati ya wapumbavu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:50.724756718Z",
+  "model": "glm-5.2"
+}

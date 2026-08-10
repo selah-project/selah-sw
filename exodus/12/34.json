@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na watu walichukua ⟨את⟩ unga wao kabla haujachacha; vyombo vyao vya kukanda vimefungwa nguo zao juu ya mabega yao.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Na walichukua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unga wao"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "unga wao"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "kabla"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "haujachacha"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "vyombo vyao vya kukanda"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "vimefungwa"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "nguo zao"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "mabega yao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:27.842207259Z",
+  "model": "glm-5.2"
+}

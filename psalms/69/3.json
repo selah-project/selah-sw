@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Nimezama katika matope ya kina, na hapana pa kusimama; nimeingia katika vilindi vya maji, na mafuriko yananielemea.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Nimezama"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "katika matope ya kina"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "⟨kina⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na hapana"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "pa kusimama"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "nimeingia"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "katika vilindi vya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "na mafuriki"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "yananielemea"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:44.873251954Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 56:11",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 56,
+  "translation": "Na hao mbwa ni wa shida kubwa ya nafsi, hawajui kushiba; nao ni wachungaji, hawajui kufahamu; wote wamegeuka kwa njia yao, kila mmoja kwa faida yake, kutoka ⟨pale⟩ mwisho wake.",
+  "tokens": [
+    {
+      "surface": "והכלבים",
+      "gloss": "na hao mbwa"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "wa shida kubwa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ya nafsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "jui"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "kushiba"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "nao"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ni wachungaji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "jui"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "kufahamu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "wote"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "kwa njia yao"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "wamegeuka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mmoja"
+    },
+    {
+      "surface": "לבצעו",
+      "gloss": "kwa faida yake"
+    },
+    {
+      "surface": "מקצהו",
+      "gloss": "kutoka mwisho wake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:09:18.155689936Z",
+  "model": "glm-5.2"
+}

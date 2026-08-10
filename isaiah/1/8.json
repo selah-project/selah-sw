@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na binti Tsiyoni imeachwa kama hema shambani mwa mizabibu, kama kibanda shambani mwa matango, kama mji uliozingirwa.",
+  "tokens": [
+    {
+      "surface": "וְנוֹתְרָ֥ה",
+      "gloss": "Na imeachwa"
+    },
+    {
+      "surface": "בַת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "צִיּ֖וֹן",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "כְּסֻכָּ֣ה",
+      "gloss": "kama hema"
+    },
+    {
+      "surface": "בְכָ֑רֶם",
+      "gloss": "shambani mwa mizabibu"
+    },
+    {
+      "surface": "כִּמְלוּנָ֥ה",
+      "gloss": "kama kibanda"
+    },
+    {
+      "surface": "בְמִקְשָׁ֖ה",
+      "gloss": "shambani mwa matango"
+    },
+    {
+      "surface": "כְּעִ֥יר",
+      "gloss": "kama mji"
+    },
+    {
+      "surface": "נְצוּרָֽה",
+      "gloss": "uliozingirwa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:00.953407294Z",
+  "model": "glm-5.2"
+}

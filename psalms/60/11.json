@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 60,
+  "translation": "Ni nani atakayeniingiza ⟨katika⟩ mji ulioimara? Ni nani ataniongoza hata Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "atakayeniingiza"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ulioimara"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ataniongoza"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:36.306257271Z",
+  "model": "glm-5.2"
+}

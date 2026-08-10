@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Kwa kila kitu ⟨kuna⟩ wakati, na kipindi kwa kila khitaji chini ya mbingu.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "kwa kila kitu"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na kipindi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa kila"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "khitazi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:37:51.082628455Z",
+  "model": "glm-5.2"
+}

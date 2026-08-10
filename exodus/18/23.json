@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Ukifanya ⟨את⟩ jambo hili, na Elohim akikubarikia, nawe utaweza kusimama, na watu huu wote pia atakuja ⟨kwenye⟩ mahali pake kwa amani.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ukifanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jambo hili"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ukifanya"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "na akikubarikia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "nawe utaweza"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "kusimama"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "huu"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kwenye⟩"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "mahali pake"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "atakuja"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "kwa amani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:22:44.821384280Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Hapo mwanzo Elohim aliumba ⟨את⟩ mbingu na ⟨את⟩ nchi.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Hapo mwanzo"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "aliumba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbingu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:00:33.652283848Z",
+  "model": "glm-5.2"
+}

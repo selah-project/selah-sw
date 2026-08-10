@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "na ⟨את⟩ madhabahu ya uvumba na ⟨את⟩ fimbo zake na ⟨את⟩ mafuta ya mpako na ⟨את⟩ uvumba wa manukato na ⟨את⟩ pazia la mlango kwa ufingilio wa hema",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "madhabahu ya uvumba"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ya uvumba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "fimbo zake"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "fimbo zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafuta ya mpako"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ya mpako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uvumba wa manukato"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "uvumba"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "wa manukato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "pazia la mlango"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "pazia"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "la mlango"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "kwa ufingilio"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "wa hema"
+    }
+  ],
+  "timestamp": "2026-08-10T10:28:28.840417781Z",
+  "model": "glm-5.2"
+}

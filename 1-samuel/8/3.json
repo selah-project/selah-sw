@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na wanawe hawakuatembea njiani zake, wakaenda nyuma ya tamaa ya faida, wakachukua rushwa, wakaipotosha haki.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na hawakutembea"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "hawakuatembea"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "njiani zake"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "wakaenda nyuma"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "tamaa ya faida"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "wakachukua"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "rushwa"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "wakaipotosha"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "haki"
+    }
+  ],
+  "timestamp": "2026-08-10T14:51:00.346668872Z",
+  "model": "glm-5.2"
+}

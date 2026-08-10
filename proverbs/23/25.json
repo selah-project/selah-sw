@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Afurahi baba yako na mama yako, na afurahi ⟨hiyo⟩ aliyekuzaa.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "afurahi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba yako"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "na mama yako"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "na afurahi"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "aliyekuzaa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:32:16.409121367Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Na ⟨את⟩ wanawe umkaribishe, na uvikishe ⟨את⟩ nguo za ndani.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "wanawe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "umkaribishe"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "na uvikishe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hao"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "nguo za ndani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:41.360342827Z",
+  "model": "glm-5.2"
+}

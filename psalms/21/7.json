@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Kwa maana unamweka ⟨kuwa⟩ baraka milele; unamfurahisha kwa shangwe ⟨na⟩ furaha mbele za uso wako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "unamweka"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "baraka"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "milele"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "unamfurahisha"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "kwa shangwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbele za uso wako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mbele za uso wako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:27.562834745Z",
+  "model": "glm-5.2"
+}

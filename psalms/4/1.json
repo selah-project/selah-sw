@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Kwa mchongoaji, kwa nyengo za mizizi, zaburi ya David.",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֥חַ",
+      "gloss": "kwa mchongoaji"
+    },
+    {
+      "surface": "בִּנְגִינ֗וֹת",
+      "gloss": "kwa nyengo za mizizi"
+    },
+    {
+      "surface": "מִזְמ֥וֹר",
+      "gloss": "zaburi"
+    },
+    {
+      "surface": "לְדָוִֽד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:52.323250112Z",
+  "model": "glm-5.2"
+}

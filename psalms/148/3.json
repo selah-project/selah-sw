@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 148,
+  "translation": "Msifuni ⟨yeye⟩, enyi jua na mwezi, msifuni ⟨yeye⟩, enyi nyota zote za mwanga.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "jua"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "na mwezi"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "nyota za"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mwanga"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:08.104725009Z",
+  "model": "glm-5.2"
+}

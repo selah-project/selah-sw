@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Kwa maana mfalme anamtegemea Yahweh, na katika chesed cha Elyon, hatatatetereka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "anamtegemea"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "na katika chesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "cha Elyon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hata"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "tatetereka"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:27.562980420Z",
+  "model": "glm-5.2"
+}

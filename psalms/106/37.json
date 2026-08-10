@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Wakachinja ⟨את⟩ wanawao na ⟨את⟩ mabinti zao kwa mashetani",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "wakachinja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanawao"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "wanawao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mabinti zao"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "mabinti zao"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "kwa mashetani"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:02.972743685Z",
+  "model": "glm-5.2"
+}

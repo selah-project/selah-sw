@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 7:4",
+  "book": "micah",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Wema wao kama mtaa; aliye mwema kuliko mtaa wa ua; siku ya wangalio wako, ziara yako inakuja; sasa ⟨itakuwa⟩ mchanganyiko wao.",
+  "tokens": [
+    {
+      "surface": "טוֹבָם",
+      "gloss": "Wema wao"
+    },
+    {
+      "surface": "כְּחֵדֶק",
+      "gloss": "kama mtaa"
+    },
+    {
+      "surface": "יָשָׁר",
+      "gloss": "aliye mwema"
+    },
+    {
+      "surface": "מִמְּסוּכָה",
+      "gloss": "kuliko mtaa wa ua"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "siku"
+    },
+    {
+      "surface": "מְצַפֶּיךָ",
+      "gloss": "ya wangalio wako"
+    },
+    {
+      "surface": "פְּקֻדָּתְךָ",
+      "gloss": "ziara yako"
+    },
+    {
+      "surface": "בָּאָה",
+      "gloss": "inakuja"
+    },
+    {
+      "surface": "עַתָּה",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "תִהְיֶה",
+      "gloss": "⟨itakuwa⟩"
+    },
+    {
+      "surface": "מְבוּכָתָם",
+      "gloss": "mchanganyiko wao"
+    }
+  ],
+  "timestamp": "2026-08-10T12:48:39.828524059Z",
+  "model": "glm-5.2"
+}

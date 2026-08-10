@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 132,
+  "translation": "Kwa maana Yahweh amechagua Tsiyoni, ameitamani kwa makao yake.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "בָחַ֣ר",
+      "gloss": "amechagua"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בְּצִיּ֑וֹן",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "אִ֝וָּ֗הּ",
+      "gloss": "ameitamani"
+    },
+    {
+      "surface": "לְמוֹשָׁ֥ב",
+      "gloss": "kwa makao"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:55.193975620Z",
+  "model": "glm-5.2"
+}

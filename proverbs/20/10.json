@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Jiwe na jiwe, efa na efa, vitu vichukizwavyo ni vya Yahweh, hata vyote viwili.",
+  "tokens": [
+    {
+      "surface": "אֶ֣בֶן",
+      "gloss": "jiwe"
+    },
+    {
+      "surface": "וָ֭אֶבֶן",
+      "gloss": "na jiwe"
+    },
+    {
+      "surface": "אֵיפָ֣ה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "וְאֵיפָ֑ה",
+      "gloss": "na efa"
+    },
+    {
+      "surface": "תּוֹעֲבַ֥ת",
+      "gloss": "kitu vichukizwavyo"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "ni vya Yahweh"
+    },
+    {
+      "surface": "גַּ֣ם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "שְׁנֵיהֶֽם",
+      "gloss": "vyote viwili"
+    }
+  ],
+  "timestamp": "2026-08-10T13:26:57.256497570Z",
+  "model": "glm-5.2"
+}

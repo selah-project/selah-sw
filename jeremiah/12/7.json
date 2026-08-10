@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Niliiacha ⟨את⟩ nyumba yangu, niliacha ⟨את⟩ urithi wangu, niliwapa ⟨את⟩ mpenzi wa nefesh yangu katika mkono wa maadui zake.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Niliiacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba yangu"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "nyumba yangu"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "niliacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urithi wangu"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "urithi wangu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "niliwapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpenzi wa nefesh yangu"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "mpenzi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh yangu"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "katika mkono wa"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "maadui zake"
+    }
+  ],
+  "timestamp": "2026-08-10T16:09:26.999215336Z",
+  "model": "glm-5.2"
+}

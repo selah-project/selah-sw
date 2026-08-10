@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Mwovu husimamia mwenye haki, namna ileile humtafuta ili kumwua.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "husimamia"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Mwovu"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "mwenye haki"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "humtafuta"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ili kumwua"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:38.200647776Z",
+  "model": "glm-5.2"
+}

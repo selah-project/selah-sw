@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Watakuja ilitangaza haki yake kwa watu waliotuzaliwa, kwani ⟨yeye⟩ amefanya.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "watakuja"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ilitangaza"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "haki yake"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kwa watu"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "waliotuzaliwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "amefanya"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:10.585511870Z",
+  "model": "glm-5.2"
+}

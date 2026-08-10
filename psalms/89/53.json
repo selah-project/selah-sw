@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Akibarikiwa Yahweh hadi milele. Amini, na amini.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Akibarikiwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hadi milele"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amini"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "na amini"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:54.750638336Z",
+  "model": "glm-5.2"
+}

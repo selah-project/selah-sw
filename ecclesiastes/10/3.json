@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na pia njiani, wakati mpumbavu anatembea, moyo wake unakosa ⟨ufahamu⟩, naye huwaambia wote ⟨kwamba yeye⟩ ni mpumbavu.",
+  "tokens": [
+    {
+      "surface": "וְגַם",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "בַּדֶּ֛רֶךְ",
+      "gloss": "njiani"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "wakati mpumbavu"
+    },
+    {
+      "surface": "הֹלֵ֖ךְ",
+      "gloss": "anatembea"
+    },
+    {
+      "surface": "לִבּ֣וֹ",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "חָסֵ֑ר",
+      "gloss": "unakosa"
+    },
+    {
+      "surface": "וְאָמַ֥ר",
+      "gloss": "naye huwaambia"
+    },
+    {
+      "surface": "לַכֹּ֖ל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "סָכָ֥ל",
+      "gloss": "ni mpumbavu"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "kwamba yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T15:37:25.328148977Z",
+  "model": "glm-5.2"
+}

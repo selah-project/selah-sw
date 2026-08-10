@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 94,
+  "translation": "Wanatoka kinywa cha ujeuri, wanaongea kiburi; wote wafanyao ubaya wanajisifu.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Wanatoka kinywa"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "wanaongea"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "cha ujeuri"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "wanajisifu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "wafanyao"
+    },
+    {
+      "surface": "און",
+      "gloss": "ubaya"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:14.164278001Z",
+  "model": "glm-5.2"
+}

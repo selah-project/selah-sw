@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Kutoka makao ya kuketi kwake ameitazama kwa makini ⟨⟩nchi yote, wakaazi wake wote.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "kutoka makao"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "ya kuketi kwake"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "ameitazama kwa makini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wakaazi wake"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:41.768498361Z",
+  "model": "glm-5.2"
+}

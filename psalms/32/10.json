@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Mateso mengi ⟨kuwa⟩ kwa mwovu, lakini anayemtumainia Yahweh, chesed (fadhili za upendo) watamzunguka.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "mengi"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "mateso"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "kwa mwovu"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "lakini anayemtumainia"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "watamzunguka"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:26.389754375Z",
+  "model": "glm-5.2"
+}

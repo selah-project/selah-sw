@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "⟨ Israeli ⟩ ni kitu takatifu kwa Yahweh, mazao ya kwanza ya mavuno yake; wote wanaokula ⟨כי⟩ watapatwa hatia, baya litawajia, tamko la Yahweh.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "kitu takatifu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "mazao ya kwanza"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ya mavuno yake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "wanaokula"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "watapatwa hatia"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "baya"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "litawajia"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "tamko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T12:10:18.403453574Z",
+  "model": "glm-5.2"
+}

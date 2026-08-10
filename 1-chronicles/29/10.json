@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Na David akambariki ⟨את⟩ Yahweh machoni pa kile jumuiya yote, na David akasema: Umebarikiwa wewe Yahweh, Elohim wa Yisrael, baba yetu, tangu milele na hata milele.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "na akambariki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "machoni pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kile"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jumuiya yote"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "umebarikiwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "baba yetu"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "tangu milele"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na hata"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T14:11:39.667985841Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Na wewe, mwana wa adamu, je, utahukumu? Je, utahukumu ⟨את⟩ mji wa damu? Utaifahamisha ⟨את⟩ machukizo yote yake?",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wewe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa adamu"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "je, utahukumu"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "je, utahukumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mji"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "wa damu"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "Utaifahamisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "machukizo yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "machukizo yake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:31:48.332147938Z",
+  "model": "glm-5.2"
+}

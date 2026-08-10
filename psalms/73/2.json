@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 73,
+  "translation": "Lakini mimi, karibu miguu yangu iligeuka, karibu kama kitu halicho matanga yangu yalimwagika.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Lakini mimi"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "karibu"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "iligeuka"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "miguu yangu"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "karibu kama kitu halicho"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "yalimwagika"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "matanga yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:18.520699332Z",
+  "model": "glm-5.2"
+}

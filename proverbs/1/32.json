@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kwa kuwa kugeuka nyuma kwa mapumbavu huyauwaua, na ustarehe wa wajinga huwaangamiza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "kugeuka nyuma kwa"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "mapumbavu"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "huyauwaua"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "na ustarehe wa"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "wajinga"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "huwaangamiza"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:35.696388500Z",
+  "model": "glm-5.2"
+}

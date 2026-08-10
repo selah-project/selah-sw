@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 46,
+  "translation": "Mto, mifereji yake, hufurahisha mji wa Elohim, maskani takatifu za Elyon.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "Mto"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "mifereji yake"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "hufurahisha"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "takatifu"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "maskani"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "za Elyon"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:05.272181280Z",
+  "model": "glm-5.2"
+}

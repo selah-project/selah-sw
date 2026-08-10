@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 91,
+  "translation": "Katika mikono yao watikubea, usije ukagongana kwa mguu wako ⟨na⟩ jiwe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Katika"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "mikono yao"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "watikubea"
+    },
+    {
+      "surface": "פן",
+      "gloss": "usije"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "ukagongana"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "kwa jiwe"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "mguu wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:23.696301999Z",
+  "model": "glm-5.2"
+}

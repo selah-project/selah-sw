@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 96,
+  "translation": "Msimbulie Yahweh wimbo mpya, msimbulie Yahweh, enyi nchi yote.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "msimbulie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mpya"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "msimbulie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi yote"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:39.391590358Z",
+  "model": "glm-5.2"
+}

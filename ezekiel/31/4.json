@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 31:4",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Maji yalimkuza, tehomu ilimwinua; ⟨את⟩ mito yake ilizunguka kupandiwa kwake, na ⟨את⟩ vituo vyake ilivituma kwa miti yote ya shamba.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "Maji"
+    },
+    {
+      "surface": "גדלוהו",
+      "gloss": "yalimkuza"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehomu"
+    },
+    {
+      "surface": "רממתהו",
+      "gloss": "ilimwinua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mito yake"
+    },
+    {
+      "surface": "נהרתיה",
+      "gloss": "mito yake"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ilizunguka"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "kupandiwa"
+    },
+    {
+      "surface": "מטעה",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vituo vyake"
+    },
+    {
+      "surface": "תעלתיה",
+      "gloss": "vituo vyake"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "ilivituma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "miti"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya shamba"
+    }
+  ],
+  "timestamp": "2026-08-10T12:34:45.832089788Z",
+  "model": "glm-5.2"
+}

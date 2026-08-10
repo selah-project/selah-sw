@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na Shaul akawatuma ⟨את⟩ wajumbe kuona ⟨את⟩ David, akisema: Mleteni ⟨את⟩ yeye katika kitanda kwangu kumuua.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Na akawatuma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajumbe"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "wajumbe"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Mleteni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yeye"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "katika kitanda"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "kumuua"
+    }
+  ],
+  "timestamp": "2026-08-10T11:25:09.394845634Z",
+  "model": "glm-5.2"
+}

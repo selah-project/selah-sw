@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "\"Mtu huyo, bwana wa nchi, alisema nasi ⟨את⟩ kwa ukali, akatufanya sisi ⟨את⟩ kamapelelezi wa ⟨את⟩ nchi.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "alisema"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mtu huyo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bwana wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nasi"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "kwa ukali"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akatufanya"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ sisi"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "kamapelelezi wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:14:14.736587765Z",
+  "model": "glm-5.2"
+}

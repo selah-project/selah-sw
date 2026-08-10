@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "«Nenda, sema kwa Paroh mfalme wa Mitsrayim, na atoe ⟨את⟩ wana wa Yisra'eli kutoka nchi yake.»",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "na atoe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana wa Yisra'eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "kutoka nchi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:28:09.533268704Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Hawa ⟨ndio⟩ wana wa Shem, kwa makundi yao, kwa lugha zao, katika nchi zao, kwa mataifa yao.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kwa makundi yao"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "kwa lugha zao"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "katika nchi zao"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "kwa mataifa yao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:24.519190646Z",
+  "model": "glm-5.2"
+}

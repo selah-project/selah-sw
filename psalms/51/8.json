@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 51,
+  "translation": "Tazama, ukweli umependa ndani ya ⟨sehemu za⟩ ndani, na katika kile kilichofungwa heshima utanifunza.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ukweli"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "umependa"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "ndani ya ⟨sehemu za⟩ ndani"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "na katika kile kilichofungwa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "heshima"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "utanifunza"
+    }
+  ],
+  "timestamp": "2026-08-10T17:53:27.179590261Z",
+  "model": "glm-5.2"
+}

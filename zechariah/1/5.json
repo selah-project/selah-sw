@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Baba zenu, wako wapi? Na manabii, je, wataishi ⟨hata⟩ milele?",
+  "tokens": [
+    {
+      "surface": "אֲבֽוֹתֵיכֶ֖ם",
+      "gloss": "Baba zenu"
+    },
+    {
+      "surface": "אַיֵּה",
+      "gloss": "wako wapi"
+    },
+    {
+      "surface": "הֵ֑ם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "וְהַ֨נְּבִאִ֔ים",
+      "gloss": "na manabii"
+    },
+    {
+      "surface": "הַלְעוֹלָ֖ם",
+      "gloss": "⟨hata⟩ milele"
+    },
+    {
+      "surface": "יִֽחְיֽוּ",
+      "gloss": "wataishi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:50:48.978864057Z",
+  "model": "glm-5.2"
+}

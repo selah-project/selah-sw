@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Kinywa changu kitazungumza hekima, na mawazo ya moyo wangu ni ⟨maelekezo⟩.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Kinywa changu"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "kitazungumza"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "hekima"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "na mawazo ya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "⟨maelekezo⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:49.852592944Z",
+  "model": "glm-5.2"
+}

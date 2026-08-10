@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 130,
+  "translation": "Wimbo wa kupanda. Kutoka kwenye vilima vya kina nimeliitia wewe, Yahweh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wa kupanda"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Kutoka kwenye vilima vya kina"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "nimeliitia wewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:24.887074913Z",
+  "model": "glm-5.2"
+}

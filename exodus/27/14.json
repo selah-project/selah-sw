@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 27:14",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Na dhiraa shemini na tano mapazia kwa ⟨upande mmoja wa⟩ lango; nguzo zao tatu, na misingi yao tatu.",
+  "tokens": [
+    {
+      "surface": "וחמש",
+      "gloss": "Na tano"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dhiraa"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "mapazia"
+    },
+    {
+      "surface": "לכתף",
+      "gloss": "kwa bega"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "nguzo zao"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "na misingi yao"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:25:17.401599350Z",
+  "model": "glm-5.2"
+}

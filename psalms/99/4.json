@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 99,
+  "translation": "Nguvu za mfalme — hupenda hukumu; wewe ⟨ndiwe⟩ uliyethibitisha uadilifu; hukumu na haki katika Yaakov wewe ⟨ndiwe⟩ ulifanya.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Nguvu za"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hupenda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "uliyethibitisha"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "uadilifu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na haki"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "katika Yaakov"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ulifanya"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:16.982958965Z",
+  "model": "glm-5.2"
+}

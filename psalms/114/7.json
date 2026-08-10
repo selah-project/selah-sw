@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 114,
+  "translation": "Mbele za Adonai, tetemeka, ee nchi; mbele za Eloah wa Yaakov.",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "tetemeka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:46.250979548Z",
+  "model": "glm-5.2"
+}

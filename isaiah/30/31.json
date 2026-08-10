@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Kwa maana kwa sauti ya Yahweh Asshuru atavunjika; kwa fimbo ⟨atampiga⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "kwa sauti ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "atavunjika"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asshuru"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "kwa fimbo"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "⟨ataumpiga⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T12:01:55.369162832Z",
+  "model": "glm-5.2"
+}

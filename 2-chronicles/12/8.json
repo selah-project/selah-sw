@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Kwa kuwa watakuwa wake katika utumwa, ili wajue utumishi wangu, na tofauti na utumishi wa falme za nchi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "watakuwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "katika utumwa"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ili wajue"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "utumishi wangu"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "na"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "utumishi wa falme"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "za nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:14:45.565669696Z",
+  "model": "glm-5.2"
+}

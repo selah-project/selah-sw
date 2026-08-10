@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 15:5",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Na katika nyakati zile hakuna ⟨kulikuwa na⟩ shalom kwa ⟨yule⟩ anayetoka wala kwa ⟨yule⟩ anayeingia, kani machafuko makubwa ⟨ylikuwa⟩ juu ya wakaaji wote wa nchi.",
+  "tokens": [
+    {
+      "surface": "ובעתים",
+      "gloss": "Na katika nyakati"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "zile"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "ליוצא",
+      "gloss": "kwa anayetoka"
+    },
+    {
+      "surface": "ולבא",
+      "gloss": "wala kwa anayeingia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kani"
+    },
+    {
+      "surface": "מהומת",
+      "gloss": "machafuko"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "makubwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "wakaaji"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "wa nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:15:58.834217040Z",
+  "model": "glm-5.2"
+}

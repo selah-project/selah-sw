@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 53,
+  "translation": "Wote wamerudi nyuma, pamoja wameharibika; hakuna afanyaye jema, hakuna, hata mmoja.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "wote"
+    },
+    {
+      "surface": "סג",
+      "gloss": "wamerudi nyuma"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "wameharibika"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "afanyaye"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jema"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmoja"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:29.551385846Z",
+  "model": "glm-5.2"
+}

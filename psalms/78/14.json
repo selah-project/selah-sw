@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Akaongoza kwa wingu mchana, na usiku kwa nuru ya moto.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Akaongoza"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "kwa wingu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mchana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na usiku nzima"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "⟨ukiwa umekusanywa na 'usiku nzima'⟩"
+    },
+    {
+      "surface": "באור",
+      "gloss": "kwa nuru"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ya moto"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:16.934112337Z",
+  "model": "glm-5.2"
+}

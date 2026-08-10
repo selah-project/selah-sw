@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Kwa maana ⟨huteguka⟩ kusimama upande wa kuume wa mpunguni, ili kumwokoa kutokana na wanaomhukumu nafsi yake.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "יַעֲמֹד",
+      "gloss": "⟨huteguka⟩ kusimama"
+    },
+    {
+      "surface": "לִימִין",
+      "gloss": "upande wa kuume"
+    },
+    {
+      "surface": "אֶבְיוֹן",
+      "gloss": "wa mpunguni"
+    },
+    {
+      "surface": "לְהוֹשִׁיעַ",
+      "gloss": "ili kumwokoa"
+    },
+    {
+      "surface": "מִשֹּׁפְטֵי",
+      "gloss": "kutokana na wanaomhukumu"
+    },
+    {
+      "surface": "נַפְשׁוֹ",
+      "gloss": "nafsi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:31.140345453Z",
+  "model": "glm-5.2"
+}

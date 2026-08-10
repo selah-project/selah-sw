@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Yehoahaz akamwomba uso wa Yahweh, naye Yahweh akamsikia, maana ⟨aliyaona ⟨את⟩ dhiki ya Yisra'el, kwani mfalme wa Aram aliwadhibiti ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "akamwomba"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "akamsikia"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "aliyaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiki"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "dhiki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisra'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "aliwadhibiti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "aliwadhibiti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "wa Aram"
+    }
+  ],
+  "timestamp": "2026-08-10T11:49:38.546513145Z",
+  "model": "glm-5.2"
+}

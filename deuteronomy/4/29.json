@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na mtamtafuta kutoka hapo ⟨את⟩ Yahweh Elohim wenu, nanyi mtampata, kwa kuwa mtamtafuta kwa moyo wako wote na kwa nefesh yako yote.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "Na mtamtafuta"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kutoka hapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wenu"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "nanyi mtampata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "mtamtafuta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa … wote"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na kwa … yote"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefesh yako"
+    }
+  ],
+  "timestamp": "2026-08-10T10:55:51.173612437Z",
+  "model": "glm-5.2"
+}

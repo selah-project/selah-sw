@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Nayo mtumwa akamhadithia Yitschak ⟨את⟩ mambo yote aliyo(ya)fanya.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "akamhadithia"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "mtumwa"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mambo yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliyo(ya)fanya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fanya"
+    }
+  ],
+  "timestamp": "2026-08-10T14:25:11.458608675Z",
+  "model": "glm-5.2"
+}

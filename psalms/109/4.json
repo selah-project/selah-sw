@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Badala ya upendo wangu wanashutumu, bali mimi ⟨ni⟩ sala.",
+  "tokens": [
+    {
+      "surface": "תַּֽחַת",
+      "gloss": "Badala ya"
+    },
+    {
+      "surface": "אַהֲבָתִ֥י",
+      "gloss": "upendo wangu"
+    },
+    {
+      "surface": "יִשְׂטְנ֗וּנִי",
+      "gloss": "wanashutumu"
+    },
+    {
+      "surface": "וַאֲנִ֥י",
+      "gloss": "bali mimi"
+    },
+    {
+      "surface": "תְפִלָּֽה",
+      "gloss": "sala"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:01.325488282Z",
+  "model": "glm-5.2"
+}

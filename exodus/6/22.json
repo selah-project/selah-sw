@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na wana wa Uzieli ⟨ni⟩ Mishaeli, na Eltsafani, na Sitri.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na wana wa"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Uzieli"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Mishaeli"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "na Eltsafani"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "na Sitri"
+    }
+  ],
+  "timestamp": "2026-08-10T15:51:30.492848313Z",
+  "model": "glm-5.2"
+}

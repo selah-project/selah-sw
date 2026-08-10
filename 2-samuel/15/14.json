@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 15:14",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Davidi akawaambia watumishi wake wote walio kuwanguma naye Yerushalayim: Amkeni, tuwatoroke, maana hatutapata pa kujikinga dhidi ya uso wa Avshalom; fanyeni haraka kwenda, asije akafanya haraka akatufikia, akatupatia ⟨את⟩ maovu, akaipiga ⟨את⟩ jiji kwa kidevu cha upanga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akawaambia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumishi wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "walio"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "watumishi wake wote walio naye",
+      "rationale": "Hii ni את ya kand御, si kialamishi cha kiima; inamaanisha 'pamoja naye' kwa msingi wa kand."
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "amkeni"
+    },
+    {
+      "surface": "ונברחה",
+      "gloss": "tuwatoroke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatutapata"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "itakuwapo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwetu"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "pa kujikinga"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dhidi ya uso wa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "fanyeni haraka"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kwenda"
+    },
+    {
+      "surface": "פן",
+      "gloss": "asije"
+    },
+    {
+      "surface": "ימהר",
+      "gloss": "akafanya haraka"
+    },
+    {
+      "surface": "והשגנו",
+      "gloss": "akatufikia"
+    },
+    {
+      "surface": "והדיח",
+      "gloss": "akatupatia"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "juu yetu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maovu"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "maovu"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "akaipiga"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "jiji"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "kwa kidevu cha"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "upanga"
+    }
+  ],
+  "timestamp": "2026-08-10T11:33:18.415670241Z",
+  "model": "glm-5.2"
+}

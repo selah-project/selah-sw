@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Basi akaenda, akamwambia mtu wa Elohim; naye akasema: «Nenda, uuze ⟨את⟩ mafuta, kulipa ⟨את⟩ deno lako; nawe pamoja na wanawe mtaishi kwa lililobaki.»",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kwa mtu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akasema"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "uuze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "kulipa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deno lako"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "deno lako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "mtaishi"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "kwa lililobaki"
+    }
+  ],
+  "timestamp": "2026-08-10T11:46:45.538282224Z",
+  "model": "glm-5.2"
+}

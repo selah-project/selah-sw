@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 56,
+  "translation": "Katika Elohim nilijitolea; sitaogopa; binadamu atafanya nini kwangu?",
+  "tokens": [
+    {
+      "surface": "בֵּֽאלֹהִ֣ים",
+      "gloss": "katika Elohim"
+    },
+    {
+      "surface": "בָּ֭טַחְתִּי",
+      "gloss": "nilijitolea"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "sitaogopa"
+    },
+    {
+      "surface": "אִירָ֑א",
+      "gloss": ""
+    },
+    {
+      "surface": "מַה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יַּעֲשֶׂ֖ה",
+      "gloss": "atafanya"
+    },
+    {
+      "surface": "אָדָ֣ם",
+      "gloss": "binadamu"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "kwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:25.820261829Z",
+  "model": "glm-5.2"
+}

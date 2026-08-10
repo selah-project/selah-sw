@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Kwa maana mwana anamtukana baba yake, binti anainuka dhidi ya mama yake, mkwe dhidi ya mkwengewe; maadui wa mtu ni watu wa nyumba yake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "anamtukana"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "anainuka"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "dhidi ya mama yake"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mkwe"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "dhidi ya mkwengewe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "maadui"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:49:03.748375940Z",
+  "model": "glm-5.2"
+}

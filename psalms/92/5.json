@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 92,
+  "translation": "Kwa kuwa umenifurahisha, Yahweh, katika kazi yako; katika matendo ya mikono yako ⟨nami⟩ nitaimba kwa shangwe.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "שִׂמַּחְתַּ֣נִי",
+      "gloss": "umenifurahisha"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בְּפָעֳלֶ֑ךָ",
+      "gloss": "katika kazi yako"
+    },
+    {
+      "surface": "בְּֽמַעֲשֵׂ֖י",
+      "gloss": "katika matendo ya"
+    },
+    {
+      "surface": "יָדֶ֣יךָ",
+      "gloss": "mikono yako"
+    },
+    {
+      "surface": "אֲרַנֵּֽן",
+      "gloss": "nitaimba kwa shangwe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:41.728304254Z",
+  "model": "glm-5.2"
+}

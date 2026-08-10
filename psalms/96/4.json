@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 96,
+  "translation": "Kwa maana Yahweh ni mkuu na anastahili sifa kubwa, ⟨yeye⟩ ni wa kutishiwa juu ya miungu yote.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "na anastahili sifu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "wa kutishiwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨yeye⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "miungu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:39.392074686Z",
+  "model": "glm-5.2"
+}

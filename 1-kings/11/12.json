@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Hata hivyo, siku zako sitafanya hivyo, kwa ajili ya David baba yako; kutoka mkononi mwa mwanao ⟨nitaliuata⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Hata hivyo"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "siku zako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sita"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "fanya hivyo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba yako"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kutoka mkononi mwa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwanao"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "⟨nitaliuata⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T11:41:41.318370647Z",
+  "model": "glm-5.2"
+}

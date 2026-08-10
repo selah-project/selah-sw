@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 37:1",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Hata kwa hili moyo wangu hutetemeka, na ⟨huteremka⟩ kutoka mahali pake.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "kwa hili"
+    },
+    {
+      "surface": "יחרד",
+      "gloss": "hutetemeka"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "na ⟨huteremka⟩"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "kutoka mahali pake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:40:17.469382489Z",
+  "model": "glm-5.2"
+}

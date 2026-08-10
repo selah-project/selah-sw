@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 1:6",
+  "book": "malachi",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Mwana humheshimu baba, na mtumwa bwana wake. Na kama mimi ⟨ni⟩ baba, wapi utukufu wangu? Na kama mimi ⟨ni⟩ mabwana, wapi hofu yangu? Amesema Yahweh wa majeshi kwenu, enye makuhani, mnaodharau jina langu. Nanyi mmesema: Kwa nini tulidharau ⟨את⟩ jina lako?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "humheshimu"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "na mtumwa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bwana wake"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na kama"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "wapi"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "utukufu wangu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na kama"
+    },
+    {
+      "surface": "אדונים",
+      "gloss": "mabwana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "wapi"
+    },
+    {
+      "surface": "מוראי",
+      "gloss": "hofu yangu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "amesema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wa majeshi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "enye makuhani"
+    },
+    {
+      "surface": "בוזי",
+      "gloss": "mnaodharau"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "jina langu"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "nanyi mmesema"
+    },
+    {
+      "surface": "במה",
+      "gloss": "kwa nini"
+    },
+    {
+      "surface": "בזינו",
+      "gloss": "tulidharau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina lako"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jina lako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:26.768982657Z",
+  "model": "glm-5.2"
+}

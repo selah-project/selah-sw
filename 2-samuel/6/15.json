@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na David na nyumba yote ya Yisrael wanapandisha ⟨את⟩ sanduku la Yahweh kwa mpango wa yang'ombolo na kwa sauti ya baragumu.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Na David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yote"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisrael"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "wanapandisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "kwa yang'ombolo"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "na kwa sauti"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ya baragumu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:30:21.510276736Z",
+  "model": "glm-5.2"
+}

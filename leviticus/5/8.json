@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na awalete ⟨את⟩ ⟨wao⟩ kwa kuhani, na ilete ⟨את⟩ yale ambayo ni kwa ajili ya dhabihu ya dhambi kwanza; na mkwarue ⟨את⟩ kichwa chake mbele ya nyuma yake, wala asitenganishe.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "na awalete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "na ilete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yale ambayo ni kwa ajili ya dhabihu ya dhambi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yale ambayo"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ni kwa ajili ya dhabihu ya dhambi"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "kwanza"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "na mkwarue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kichwa chake"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kichwa chake"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "nyuma yake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala lakin"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "asitenganishe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:31:41.483171840Z",
+  "model": "glm-5.2"
+}

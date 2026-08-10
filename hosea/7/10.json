@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Kiburi cha Yisrael kinamshuhudia usoni mwake, wala hawakurudi kwa Yahweh, Elohim wao, wala hawakumtafuta kwa mambo yote haya.",
+  "tokens": [
+    {
+      "surface": "וְעָנָה",
+      "gloss": "kinamshuhudia"
+    },
+    {
+      "surface": "גְאוֹן",
+      "gloss": "kiburi"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בְּפָנָיו",
+      "gloss": "usoni mwake"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שָׁבוּ",
+      "gloss": "hawakurudi"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶם",
+      "gloss": "Elohim wao"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בִקְשֻׁהוּ",
+      "gloss": "hawakumtafuta"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "kwa mambo yote"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "haya"
+    }
+  ],
+  "timestamp": "2026-08-10T16:14:30.803739615Z",
+  "model": "glm-5.2"
+}

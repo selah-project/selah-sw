@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Sikiliza, Yahweh, unihurumie; Yahweh, kuwa msaada wangu.",
+  "tokens": [
+    {
+      "surface": "שְׁמַע",
+      "gloss": "Sikiliza"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְחָנֵּ֑נִי",
+      "gloss": "unihurumie"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הֱיֵה",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "עֹזֵ֥ר",
+      "gloss": "msaada"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:16:33.092370357Z",
+  "model": "glm-5.2"
+}

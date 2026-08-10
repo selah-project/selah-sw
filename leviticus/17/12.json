@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 17:12",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "kwa sababu hiyo niliwaambia wana wa Yisra'eli: kila nefesh kati yenu asile damu; na mgeni yule anayekaa kati yenu asile damu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sababu hiyo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "niliiwaambia"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kati yenu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asile"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "asile"
+    },
+    {
+      "surface": "דם",
+      "gloss": "damu"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "na mgeni"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "yule anayekaa"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "kati yenu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asile"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "asile"
+    },
+    {
+      "surface": "דם",
+      "gloss": "damu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:17.601902411Z",
+  "model": "glm-5.2"
+}

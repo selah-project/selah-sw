@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Wamejifunga kwa mafuta yao, kinywa chao kimeongea kwa kiburi.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "mafuta yao"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "wamejifunga"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "kinywa chao"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kimeongea"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "kwa kiburi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:13.265556830Z",
+  "model": "glm-5.2"
+}

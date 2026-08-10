@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na kijana Shemuël alihudumu ⟨את⟩ Yahweh mbele za Eli, neno la Yahweh lilikuwa adimu katika siku zile, maono hayakupasuka.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Na kijana"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "alihudumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "neno la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lilikuwa"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "adiimu"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "katika siku"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "zile"
+    },
+    {
+      "surface": "אין",
+      "gloss": "maono hayakuwa"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "maono"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "yakupasuka"
+    }
+  ],
+  "timestamp": "2026-08-10T11:20:27.515661308Z",
+  "model": "glm-5.2"
+}

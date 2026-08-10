@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na ⟨את⟩ magari manne na ⟨את⟩ ng'ombe wanane aliwapa wana wa Merari, kufuatana na kazi yao, mkononi mwa Itamar mwana wa Aharon kuhani.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "magari manne"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "manne"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "magari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ng'ombe wanane"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "wanane"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aliwapa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa wana wa"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "kufuatana na"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "kazi yao"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mkononi mwa"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:41:16.480107818Z",
+  "model": "glm-5.2"
+}

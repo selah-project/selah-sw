@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Yahweh, Elohim wetu, alikatina nasi ⟨את⟩ agano katika Horev.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "alikatina"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nasi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "agano"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "katika Horev"
+    }
+  ],
+  "timestamp": "2026-08-10T14:41:48.101159997Z",
+  "model": "glm-5.2"
+}

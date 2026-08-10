@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "Mabinti wa wafalme ⟨wamo⟩ katika wapendwa wako; amesimama malkia mkono wako wa kulia, katika dhahabu safi ya Ophir.",
+  "tokens": [
+    {
+      "surface": "בְּנ֣וֹת",
+      "gloss": "mabinti"
+    },
+    {
+      "surface": "מְ֭לָכִים",
+      "gloss": "wa wafalme"
+    },
+    {
+      "surface": "בְּיִקְּרוֹתֶ֑יךָ",
+      "gloss": "katika wapendwa wako"
+    },
+    {
+      "surface": "נִצְּבָ֥ה",
+      "gloss": "amesimama"
+    },
+    {
+      "surface": "שֵׁגַ֥ל",
+      "gloss": "malkia"
+    },
+    {
+      "surface": "לִֽ֝ימִינְךָ֗",
+      "gloss": "mkono wako wa kulia"
+    },
+    {
+      "surface": "בְּכֶ֣תֶם",
+      "gloss": "katika dhahabu safi"
+    },
+    {
+      "surface": "אוֹפִֽיר",
+      "gloss": "ya Ophir"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:16.652435827Z",
+  "model": "glm-5.2"
+}

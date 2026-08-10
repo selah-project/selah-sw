@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na walifika wachungaji wakawafukuza, na Moshe akasimama akawaokoa, akanywesha ⟨את⟩ kundi lao.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "na walifika"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "wachungaji"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "wakawafukuza"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "na akasimama"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "akawaokoa"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "akanywesha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kundi lao"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "kundi lao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:17:20.733527836Z",
+  "model": "glm-5.2"
+}

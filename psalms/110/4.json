@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 110,
+  "translation": "Yahweh ameapa, wala hatatubu: wewe ⟨ni⟩ kuhani milele kwa taratibu za Malki-Tsedek.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ameapa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hapana"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "atatubu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "taratibu za"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:49.344053749Z",
+  "model": "glm-5.2"
+}

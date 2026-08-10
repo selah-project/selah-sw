@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Basi wa silaha waliyaacha ⟨את⟩ wafungwa na ⟨את⟩ nyepesi mbele ya wakuu na mkutano wote.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "waliyaacha"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "wa silaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wafungwa"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "wafungwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyepesi"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "nyepesi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "wakuu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "mkutano"
+    }
+  ],
+  "timestamp": "2026-08-10T14:19:08.758328050Z",
+  "model": "glm-5.2"
+}

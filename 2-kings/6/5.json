@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na ikawa mmoja ⟨alikuwa akigwa⟩ jizi, na ⟨את⟩ chuma ⟨(ya shoka)⟩ lilianguka ndani ya maji, naye akapiga kelele na kusema: Ah! bwana wangu, nao huo ulikuwa umeazimwa!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ikawa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "akigwa"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "jizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chuma (ya shoka)"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "chuma"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "lilianguka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndani ya"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "naye akapiga kelele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na kusema"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bwana wangu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "nao huo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "umeazimwa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:01:49.353549764Z",
+  "model": "glm-5.2"
+}

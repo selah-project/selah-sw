@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Usiende uovu sana wala usiwe mpumbavu; kwa nini.ufe bila ⟨wakati⟩ wako?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "ende uovu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wala usi"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "we"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "mpumbavu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kwa nini"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ufe"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "bila"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "⟨wakati⟩ wako"
+    }
+  ],
+  "timestamp": "2026-08-10T17:56:23.207585993Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Bali katika Tora ya Yahweh ⟨ndiyo⟩ kupenda kwake, na katika Tora yake ⟨⟨nayo⟩⟩ huyafufuaya mchana na usiku.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "bali"
+    },
+    {
+      "surface": "אִ֥ם",
+      "gloss": "bali"
+    },
+    {
+      "surface": "בְּתוֹרַ֥ת",
+      "gloss": "katika Tora ya"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חֶ֫פְצ֥וֹ",
+      "gloss": "kupenda kwake"
+    },
+    {
+      "surface": "וּֽבְתוֹרָת֥וֹ",
+      "gloss": "na katika Tora yake"
+    },
+    {
+      "surface": "יֶהְגֶּ֗ה",
+      "gloss": "huyafufuaya"
+    },
+    {
+      "surface": "יוֹמָ֥ם",
+      "gloss": "mchana"
+    },
+    {
+      "surface": "וָלָֽיְלָה",
+      "gloss": "na usiku"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:26.362443313Z",
+  "model": "glm-5.2"
+}

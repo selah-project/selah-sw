@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "na kutawala mchana na usiku, na kutenganisha kati ya nuru na kati ya giza; na Elohim akaona ya kuwa ni nzuri.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "na kutawala"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mchana"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "na usiku"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "na kutenganisha"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "האור",
+      "gloss": "nuru"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "giza"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "na akaona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kuwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nzuri"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:21.690343069Z",
+  "model": "glm-5.2"
+}

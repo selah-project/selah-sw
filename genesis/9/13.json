@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "⟨את⟩ upinde wangu nimeuweka katika wingu, nao utakuwa kwa ishara ya agano kati yangu na kati ya ⟨nchi⟩.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upinde wangu"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "upinde wangu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nimeuweka"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "katika wingu"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "na utakuwa"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "kwa ishara"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ya agano"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "kati yangu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:02:43.142265237Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Akafanya yaliyo mabaya, maana hakuiweka tayari moyo wake kumtafuta ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akafanya"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yaliyo mabaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haku-"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "uiweka tayari"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "kumtafuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:15:28.620358728Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Nami nimekuongozeneni miaka arubaini jangwani: nguo zenu hazijachakaa juu yenu, na kiatu chako hakijachakaa juu ya mguu wako",
+  "tokens": [
+    {
+      "surface": "וָאוֹלֵךְ",
+      "gloss": "Nami nimekuongozeneni"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ ⟨ninyi⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "אַרְבָּעִים",
+      "gloss": "arubaini"
+    },
+    {
+      "surface": "שָׁנָה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "בַּמִּדְבָּר",
+      "gloss": "jangwani"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "havi"
+    },
+    {
+      "surface": "בָלוּ",
+      "gloss": "jachakaa"
+    },
+    {
+      "surface": "שַׂלְמֹתֵיכֶם",
+      "gloss": "nguo zenu"
+    },
+    {
+      "surface": "מֵעֲלֵיכֶם",
+      "gloss": "juu yenu"
+    },
+    {
+      "surface": "וְנַעַלְךָ",
+      "gloss": "na kiatu chako"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "haki"
+    },
+    {
+      "surface": "בָלְתָה",
+      "gloss": "jachakaa"
+    },
+    {
+      "surface": "מֵעַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "רַגְלֶךָ",
+      "gloss": "mguu wako"
+    }
+  ],
+  "timestamp": "2026-08-10T11:02:45.150643776Z",
+  "model": "glm-5.2"
+}

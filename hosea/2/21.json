@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "hosea 2:21",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Nami nitakuwaarusu ⟨kwa⟩ mimi milele, na nitakuwaarusu ⟨kwa⟩ mimi katika haki na katika hukumu na katika chesed (fadhili) na katika huruma.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "na nitakuwaarusu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨kwa⟩ mimi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "וארשתיך",
+      "gloss": "na nitakuwaarusu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨kwa⟩ mimi"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "katika haki"
+    },
+    {
+      "surface": "ובמשפט",
+      "gloss": "na katika hukumu"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "na katika chesed"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "na katika huruma"
+    }
+  ],
+  "timestamp": "2026-08-10T12:40:54.616911217Z",
+  "model": "glm-5.2"
+}

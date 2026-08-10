@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Na Elihu alisubiri ⟨את⟩ Iyov kwa maneno, kwa kuwa hao walikuwa ⟨wazee⟩ kuliko yeye kwa siku.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Na Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "alisubiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "kwa maneno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "wazee"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hao"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuliko yeye"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "kwa siku"
+    }
+  ],
+  "timestamp": "2026-08-10T16:23:36.183845470Z",
+  "model": "glm-5.2"
+}

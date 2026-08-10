@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na utayafundisha kwa bidii watoto wako, na useme hayo utakapokuwa umekaa ⟨ndani⟩ ya nyumba yako, na utakapotembea njiani, na utakapolala, na utakapoamka.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "Na utayafundisha kwa bidii"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "watoto wako"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "na useme"
+    },
+    {
+      "surface": "בם",
+      "gloss": "hayo"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "utakapokuwa umekaa"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "⟨ndani⟩ ya nyumba yako"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "na utakapotembea"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njiani"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "na utakapolala"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "na utakapoamka"
+    }
+  ],
+  "timestamp": "2026-08-10T10:54:41.648005008Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Tuvunue ⟨את⟩ minyororo yao na tuwatupie mbali kamba zao kutoka kwetu.",
+  "tokens": [
+    {
+      "surface": "נְֽ֭נַתְּקָה",
+      "gloss": "Tuvunue"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "minyororo yao"
+    },
+    {
+      "surface": "מֽוֹסְרוֹתֵ֑ימוֹ",
+      "gloss": "minyororo yao"
+    },
+    {
+      "surface": "וְנַשְׁלִ֖יכָה",
+      "gloss": "na tuwatupie mbali"
+    },
+    {
+      "surface": "מִמֶּ֣נּוּ",
+      "gloss": "kutoka kwetu"
+    },
+    {
+      "surface": "עֲבֹתֵֽימוֹ",
+      "gloss": "kamba zao"
+    }
+  ],
+  "timestamp": "2026-08-10T18:29:56.698541766Z",
+  "model": "glm-5.2"
+}

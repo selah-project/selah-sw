@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na tena niliyaona chini ya jua: mahali pa hukumu, pale ulikuwa uovu; na mahali pa haki, pale ulikuwa uovu.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Na tena"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "niliyaona"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "jua"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "pa hukumu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "pale"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ulikuwa uovu"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "na mahali"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "pa haki"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "pale"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ulikuwa uovu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:44.661368839Z",
+  "model": "glm-5.2"
+}

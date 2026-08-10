@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Manyasi hukauka, ua hukunyauka, kwani upepo wa Yahweh umevuma juu yake; hakika manyasi ni ⟨nyama ya⟩ watu.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "hukauka"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "Manyasi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "hukunyauka"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "upepo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "umevuma"
+    },
+    {
+      "surface": "בו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "manyasi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wa watu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:10.389174477Z",
+  "model": "glm-5.2"
+}

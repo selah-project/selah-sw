@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 80,
+  "translation": "Mbele ya Efrayimu na Binyamin na Menashe, amsha ⟨את⟩ nguvu zako, na kuja ⟨kwa⟩ wokovu kwetu!",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Mbele ya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "na Binyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "na Menashe"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "amsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguvu zako"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "nguvu zako"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "na kuja"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "⟨kwa⟩ wokovu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwetu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:35.874681017Z",
+  "model": "glm-5.2"
+}

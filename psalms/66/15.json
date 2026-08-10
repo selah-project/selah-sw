@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 66,
+  "translation": "Mafuta mazito nitakutoa kwa kuku, pamoja na uvumba wa wapundu; nitatengeneza ng'ombe pamoja na beberu. Selah",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "kwa kuku"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "Mafuta mazito"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "nitakutoa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "uvumba"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "wa wapundu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nitatengeneza"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "beberu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:01.430287923Z",
+  "model": "glm-5.2"
+}

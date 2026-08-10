@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Ubatili wao husemana, kila mwanadamu na ⟨את⟩ jiraniye; mdomo wa unyonge, na moyo-pamoja-na-moyo, husemana.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Ubatili"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "waseamana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mwanadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiraniye"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "jiraniye"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "mdomo wa"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "unyonge"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "na moyo-pamoja-na"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "husemana"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:48.836324454Z",
+  "model": "glm-5.2"
+}

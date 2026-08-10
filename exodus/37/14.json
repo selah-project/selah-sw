@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Kinyume na mkingio zilikuwa ⟨zilipo⟩ pete hizi, nyumba ⟨za⟩ fito za kubeba ⟨את⟩ meza.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "kinyume na"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "mkingio"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zilikuwa"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "pete hizi"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "za fito"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "za kubeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza"
+    }
+  ],
+  "timestamp": "2026-08-10T10:29:53.504871562Z",
+  "model": "glm-5.2"
+}

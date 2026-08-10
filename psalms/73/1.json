@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 73,
+  "translation": "Wimbo wa Asaf. Hakika Elohim ni mwema kwa Yisra'el, kwa waliotka moyo.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "wa Asaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Hakika"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ni mwema"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kwa Yisra'el"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "kwa waliotka"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "moyo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:18.520295051Z",
+  "model": "glm-5.2"
+}

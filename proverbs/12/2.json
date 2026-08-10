@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Mtu mwema ⟨hupata⟩ radhi kutoka kwa Yahweh, lakini mtu wa mipango mibaya ⟨Yahweh⟩ atamtangaza mhaini.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mwema"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "anatoa"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "radhi"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "kutoka Yahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mtu"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "wa mipango mibaya"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "atamtangaza mhaini"
+    }
+  ],
+  "timestamp": "2026-08-10T13:24:53.493896511Z",
+  "model": "glm-5.2"
+}

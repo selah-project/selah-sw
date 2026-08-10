@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 7:10",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na kila mincha iliyochanganywa mafuta, na kavu, kwa wana wote wa Aharon iwe, kila mmoja sawa na nduguye.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na kila"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "iliyochanganywa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "וחרבה",
+      "gloss": "na kavu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa wote"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "wa Aharon"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mmoja"
+    },
+    {
+      "surface": "כאחיו",
+      "gloss": "sawa na nduguye"
+    }
+  ],
+  "timestamp": "2026-08-10T10:32:10.224153172Z",
+  "model": "glm-5.2"
+}

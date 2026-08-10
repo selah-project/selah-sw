@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na utwike kutoka hapo chache kwa hesabu, na uzifunge ⟨את⟩ katika viungo vyako.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Na utwike"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kutoka hapo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "chache"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "kwa hesabu"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "na uzifunge"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "nywele"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "katika viungo vyako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:27:45.115450308Z",
+  "model": "glm-5.2"
+}

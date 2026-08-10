@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "miaka kumi na mbili walimtumikia ⟨את⟩ Kedolaomeri, na mwaka wa kumi na tatu waliasi.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kumi na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "walimtumikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedolaomeri"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedolaomeri"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na ... tatu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kumi na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mwaka wa"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "waliasi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:04:02.003743782Z",
+  "model": "glm-5.2"
+}

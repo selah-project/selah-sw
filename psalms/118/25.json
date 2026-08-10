@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 118,
+  "translation": "Tafadhali sasa, Yahweh, okoa sasa! Tafadhali sasa, Yahweh, fanikisha samsible!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "Tafadhali sasa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "okoa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "Tafadhali sasa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "fanikisha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "samsible"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:08.349788981Z",
+  "model": "glm-5.2"
+}

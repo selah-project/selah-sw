@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 146,
+  "translation": "Yahweh humlinda ⟨את⟩ mgeni, yatima na mjane ⟨⟨huwaiunga⟩⟩; na njia ya waovu humgeuza.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "humlinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mgeni"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "mgeni"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yatima"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "na mjane"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "huwaiunga"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "na njia"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya waovu"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "humgeuza"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:39.341809037Z",
+  "model": "glm-5.2"
+}

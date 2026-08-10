@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 51,
+  "translation": "Moyo safi umbe ndani yangu, ee Elohim, na roho thabiti uifanye upya ndani yangu.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Moyo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "safi"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "umbe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndani yangu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ee Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "na roho"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "thabiti"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uifanye upya"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ndani yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:46.021478528Z",
+  "model": "glm-5.2"
+}

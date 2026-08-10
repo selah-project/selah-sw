@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na hizi ndizo majina ya wana wa Aharoni: mzaliwa wa kwanza Nadabu, na Abihu, Elazari na Itamari.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na hizi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "majina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya wana wa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "mzaliwa wa kwanza"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabu"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "na Abihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazari"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "na Itamari"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:29.103936855Z",
+  "model": "glm-5.2"
+}

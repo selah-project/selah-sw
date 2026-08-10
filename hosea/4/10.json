@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na watakula wala washibe; watafanya ujahazi wala waongezwe; kwa maana ⟨wamemwacha⟩ Yahweh, kwa kutozingatia.",
+  "tokens": [
+    {
+      "surface": "וְאָֽכְלוּ֙",
+      "gloss": "na watakula"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יִשְׂבָּ֔עוּ",
+      "gloss": "washibe"
+    },
+    {
+      "surface": "הִזְנ֖וּ",
+      "gloss": "watafanya ujahazi"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יִפְרֹ֑צוּ",
+      "gloss": "waongezwe"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עָזְב֖וּ",
+      "gloss": "⟨wamemwacha⟩"
+    },
+    {
+      "surface": "לִשְׁמֹֽר",
+      "gloss": "kwa kutozingatia"
+    }
+  ],
+  "timestamp": "2026-08-10T12:40:52.278938791Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Yahweh akamwambia Moshe: Nenda kwa watu, na utawatayarisha leo na kesho, na waoshe nguo zao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "na utawatayarisha"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "na kesho"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "na waoshe"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "nguo zao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:29:53.300958632Z",
+  "model": "glm-5.2"
+}

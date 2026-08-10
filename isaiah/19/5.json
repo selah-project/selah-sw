@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na maji yatapunguka kutoka baharini, na mto utakauka na kukaushwa.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "natapunguka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "kutoka baharini"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "na mto"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "utakauka"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "na kukaushwa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:05:04.261137741Z",
+  "model": "glm-5.2"
+}

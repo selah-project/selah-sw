@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 27:2",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Itakuwa siku mtakapovuka ⟨את⟩ Yardeni, ukaingia katika nchi ambayo Yahweh Elohim wako anakupa, utajiwekea mawe makubwa, na kuyapaka ⟨את⟩ kwa coi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Itakuwa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "mtakapovuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ukaingia"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anakupa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "והקמת",
+      "gloss": "utajiwekea"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mawe"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "makubwa"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "na kuyapaka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kwa coi"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "kwa coi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:01:33.038332893Z",
+  "model": "glm-5.2"
+}

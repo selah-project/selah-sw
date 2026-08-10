@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Pembeni ya sadaka ya kuchomwa ya asubuhi, ambayo ⟨ni⟩ sadaka ya kuchomwa ya daima, mtatenda ⟨את⟩ hivi:",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "pembeni ya"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "sadaka ya kuchomwa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ya asubuhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "(ni) sadaka ya kuchomwa"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ya daima"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mtatenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hivi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hivi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:49:32.784657865Z",
+  "model": "glm-5.2"
+}

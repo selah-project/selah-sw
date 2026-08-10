@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Nilikuwa kijana, tena nimezeeka, wala sikumwona mwenye haki akaachwa, wala mzao wake akiomba chakula.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "kijana"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nilikuwa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tena"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "nimezeeka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nilimwona"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mwenye haki"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "akaachwa"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "wala mzao wake"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "akiomba"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chakula"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:21.752911358Z",
+  "model": "glm-5.2"
+}

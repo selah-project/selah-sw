@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 21:4",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Ikawa alfajiri iliyofuata, taifa likaamka mapema, likajenga huko madhabahu, likatoa ⟨את⟩ sadaka za kuteketezwa na ⟨את⟩ sadaka za amani.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ikawa"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "alfajiri iliyofuata"
+    },
+    {
+      "surface": "וישכימו",
+      "gloss": "likaamka mapema"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "likajenga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "likatoa"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "⟨את⟩ sadaka za kuteketezwa",
+      "marks": "sadaka za kuteketezwa"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "⟨את⟩ sadaka za amani",
+      "marks": "sadaka za amani"
+    }
+  ],
+  "timestamp": "2026-08-10T16:00:10.992821513Z",
+  "model": "glm-5.2"
+}

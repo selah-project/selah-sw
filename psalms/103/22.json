@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 103,
+  "translation": "Mbarikuni Yahweh, ⟨enyewe⟩ kazi zake zote, mahali pote pa utawala wake: nafsi yangu, mbariki ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Mbarikuni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "kazi zake"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mahali pote"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "utawala wake"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "mbariki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:29.208967612Z",
+  "model": "glm-5.2"
+}

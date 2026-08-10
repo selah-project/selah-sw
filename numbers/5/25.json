@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 5:25",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na kuhani atachukua kutoka mkononi mwa ⟨hiyo⟩ mwanamke ⟨את⟩ dhabihu ya wivu, na kupeperusha ⟨hiyo⟩ dhabihu mbele za Yahweh, na kuileta ⟨hiyo⟩ karibu na madhabahu.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Na atachukua"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mkononi mwa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhabihu ya wivu"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "dhabihu ya"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "wivu"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "na kupeperusha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhabihu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "dhabihu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "na kuileta karibu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hiyo (dhabihu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "karibu na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:42:36.668410995Z",
+  "model": "glm-5.2"
+}

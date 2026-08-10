@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Wakafanya haraka wakashusha kila mmoja ⟨את⟩ mfuko wake chini, na kila mmoja akafungua mfuko wake.",
+  "tokens": [
+    {
+      "surface": "וַֽיְמַהֲר֗וּ",
+      "gloss": "wakafanya haraka"
+    },
+    {
+      "surface": "וַיּוֹרִ֛דוּ",
+      "gloss": "wakashusha"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "kila mmoja"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mfuko wake"
+    },
+    {
+      "surface": "אַמְתַּחְתּ֖וֹ",
+      "gloss": "mfuko wake"
+    },
+    {
+      "surface": "אָ֑רְצָה",
+      "gloss": "chini"
+    },
+    {
+      "surface": "וַֽיִּפְתְּח֖וּ",
+      "gloss": "na wakafungua"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "kila mmoja"
+    },
+    {
+      "surface": "אַמְתַּחְתּֽוֹ",
+      "gloss": "mfuko wake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:14:28.821959036Z",
+  "model": "glm-5.2"
+}

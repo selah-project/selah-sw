@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 48:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 48,
+  "translation": "Wekeni mioyo yenu kwenye maboma yake, tazameni armonoti yake, ili mpate kuwasimulia kizazi cha mwisho.",
+  "tokens": [
+    {
+      "surface": "שִׁ֤יתוּ",
+      "gloss": "Wekeni"
+    },
+    {
+      "surface": "לִבְּכֶ֨ם",
+      "gloss": "mioyo yenu"
+    },
+    {
+      "surface": "לְחֵילָ֗ה",
+      "gloss": "kwenye maboma yake"
+    },
+    {
+      "surface": "פַּסְּג֥וּ",
+      "gloss": "tazameni"
+    },
+    {
+      "surface": "אַרְמְנוֹתֶ֑יהָ",
+      "gloss": "armonoti yake"
+    },
+    {
+      "surface": "לְמַ֥עַן",
+      "gloss": "ili"
+    },
+    {
+      "surface": "תְּסַפְּר֗וּ",
+      "gloss": "mpate kuwasimulia"
+    },
+    {
+      "surface": "לְד֣וֹר",
+      "gloss": "kizazi"
+    },
+    {
+      "surface": "אַחֲרֽוֹן",
+      "gloss": "cha mwisho"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:12.538918535Z",
+  "model": "glm-5.2"
+}

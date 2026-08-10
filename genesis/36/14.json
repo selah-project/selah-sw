@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Na hawa ⟨walikuwa⟩ wana wa Oholibamahi, binti Anahi, binti Tsivoni, mke wa Esav; naye alizaa kwa Esav ⟨את⟩ Yeishi, na ⟨את⟩ Yaelamu, na ⟨את⟩ Korachi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "na hawa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨walikuwa⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibamahi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anahi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsivoni"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mke wa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "na alizaa"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kwa Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeishi"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeishi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yaelamu"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yaelamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Korachi"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:12:05.080755310Z",
+  "model": "glm-5.2"
+}

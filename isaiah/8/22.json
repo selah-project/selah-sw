@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na ⟨kwenye⟩ nchi ataangalia tafuta, na tazama — dhiki na giza, giza la dhiki, na usiku wa giza wa kufukuza ⟨mbali⟩.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na kwenda kwenye"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ataangalia tafuta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dhiki"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "na giza"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "giza"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "la dhiki"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "na usiku wa giza"
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "wa kufukuza"
+    }
+  ],
+  "timestamp": "2026-08-10T17:48:32.862511181Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "na ⟨את⟩ kila mrungi kufuatana na aina yake",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kila mrungi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mrungi"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "kufuatana na aina yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:57:35.064022012Z",
+  "model": "glm-5.2"
+}

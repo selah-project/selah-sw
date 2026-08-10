@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Basi wana wa Yisrael wakajivua ⟨את⟩ mapambo yao, kutoka mlima Horevu.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "Basi wakajivua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapambo yao"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "mapambo yao"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kutoka mlima"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Horevu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:33:17.615007610Z",
+  "model": "glm-5.2"
+}

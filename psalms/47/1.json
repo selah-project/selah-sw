@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 47,
+  "translation": "Kwa mwonGozi, kwa wana wa Korach, wimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa mwongozi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa wana wa"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "wimbo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:57.962614679Z",
+  "model": "glm-5.2"
+}

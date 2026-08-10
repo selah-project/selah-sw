@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 140,
+  "translation": "Wajivuni wameficha mtego kwa ajili yangu, na kamba wametandaza nyavu pembeni mwa njia, mitego wameweka kwa ajili yangu. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "wameficha"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "Wajivuni"
+    },
+    {
+      "surface": "פח",
+      "gloss": "mtego"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ajili yangu"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "na kamba"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "wametandaza"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "nyavu"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "pembeni mwa"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "njia"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "mitego"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "wameweka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ajili yangu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:15.134544310Z",
+  "model": "glm-5.2"
+}

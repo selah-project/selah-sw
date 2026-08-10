@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Naye Yahweh akawatawanya ⟨אתם⟩ kutoka huko juu ya uso wa nchi yote; nao wakaacha kuijenga ⟨את⟩ jiji.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "akawatawanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kutoka huko"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "na wakaacha"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "kuijenga"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "jiji"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:35.057221258Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Nayo Yehoshua akarudi, na Yisra'el wote pamoja naye, ⟨wakaenda⟩ kwenye kambi ya h Gilgali.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akarudi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja naye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨wakaenda⟩ kwenye"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kambi"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "ya h Gilgali"
+    }
+  ],
+  "timestamp": "2026-08-10T11:07:49.868369648Z",
+  "model": "glm-5.2"
+}

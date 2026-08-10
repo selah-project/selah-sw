@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Wala usioe nao; binti yako usimpe kwa mwanawe, na binti yake wewe usimchukue kwa mwanako.",
+  "tokens": [
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "Wala usi"
+    },
+    {
+      "surface": "תִתְחַתֵּ֖ן",
+      "gloss": "oe"
+    },
+    {
+      "surface": "בָּ֑ם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "בִּתְּךָ֙",
+      "gloss": "binti yako"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תִתֵּ֣ן",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "לִבְנ֔וֹ",
+      "gloss": "kwa mwanawe"
+    },
+    {
+      "surface": "וּבִתּ֖וֹ",
+      "gloss": "na binti yake"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תִקַּ֥ח",
+      "gloss": "mchukue"
+    },
+    {
+      "surface": "לִבְנֶֽךָ",
+      "gloss": "kwa mwanako"
+    }
+  ],
+  "timestamp": "2026-08-10T10:55:56.437623170Z",
+  "model": "glm-5.2"
+}

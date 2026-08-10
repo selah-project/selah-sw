@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 86,
+  "translation": "Nione fadhili, Adonai, kwa kuwa kwako nakuilia, siku yote.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Nione fadhili"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nakuilia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "siku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yote"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:01.167012103Z",
+  "model": "glm-5.2"
+}

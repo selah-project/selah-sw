@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Wote wanaoniona wanidhihaki; wanafumbua mdomo, wanutikia kichwa, wakisema",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "Wote"
+    },
+    {
+      "surface": "רֹ֭אַי",
+      "gloss": "wanaoniona"
+    },
+    {
+      "surface": "יַלְעִ֣גוּ",
+      "gloss": "wanidhihaki"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "(wakini)dhihaki"
+    },
+    {
+      "surface": "יַפְטִ֥ירוּ",
+      "gloss": "wanafumbua"
+    },
+    {
+      "surface": "בְ֝שָׂפָ֗ה",
+      "gloss": "mdomo"
+    },
+    {
+      "surface": "יָנִ֥יעוּ",
+      "gloss": "wanutikia"
+    },
+    {
+      "surface": "רֹֽאשׁ",
+      "gloss": "kichwa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:08.809578887Z",
+  "model": "glm-5.2"
+}

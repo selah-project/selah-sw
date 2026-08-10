@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 149,
+  "translation": "Sifa za juu za El koo-ni mwao, na upanga wenye makali mawili mkononi mwao.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "sifa za juu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "koo-ni mwao"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "na upanga"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "wenye makali mawili"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "mkononi mwao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:40.016463720Z",
+  "model": "glm-5.2"
+}

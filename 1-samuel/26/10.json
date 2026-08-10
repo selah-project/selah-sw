@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na David akasema: ⟨Kama⟩ Yahweh ⟨anaishi⟩, hakika Yahweh atampiga, au siku yake itafika na kufa, au atashuka vitani na kuteketea.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חי",
+      "gloss": "⟨Kama⟩ ⟨anaishi⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "atampiga"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "siku yake"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "itafika"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "na kufa"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "vitani"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "atashuka"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "na kuteketea"
+    }
+  ],
+  "timestamp": "2026-08-10T14:53:37.752070913Z",
+  "model": "glm-5.2"
+}

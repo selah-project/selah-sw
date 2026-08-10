@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Ndiipo zikamwambia:⟨⟩ Hakika, sisi tutarudi pamoja nawe ⟨את⟩, ⟨kwenda⟩ kwa taifa lako.",
+  "tokens": [
+    {
+      "surface": "וַתֹּאמַרְנָה",
+      "gloss": "zikamwambia"
+    },
+    {
+      "surface": "לָהּ",
+      "gloss": "Noomi"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "אִתָּךְ",
+      "gloss": "⟨את⟩ pamoja nawe",
+      "marks": "pamoja nawe"
+    },
+    {
+      "surface": "נָשׁוּב",
+      "gloss": "tutarudi"
+    },
+    {
+      "surface": "לְעַמֵּךְ",
+      "gloss": "kwa taifa lako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:36:15.289368638Z",
+  "model": "glm-5.2"
+}

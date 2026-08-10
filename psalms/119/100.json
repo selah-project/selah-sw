@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Kuelewa kuliko wazee nilipata, maana amri zako nilizihifadhi.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "kuliko wazee"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "nilipata kuelewa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "amri zako"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "nilizihifadhi"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:40.505572378Z",
+  "model": "glm-5.2"
+}

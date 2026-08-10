@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "na kutofautisha kati ya kitakatifu na kati ya la kawaida, na kati ya kilichochafuka na kati ya kisafi.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "na kutofautisha"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kitakatifu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "החל",
+      "gloss": "la kawaida"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "kilichochafuka"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "kisafi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:11.170159732Z",
+  "model": "glm-5.2"
+}

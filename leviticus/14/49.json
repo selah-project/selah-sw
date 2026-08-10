@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na atachukua kwa ajili ya kutoa dhambi ⟨ya⟩ nyumba ndege wawili, na mbao ya mizede, na ⟨wool ya⟩ nyekundu, na ezovu.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "na atachukua"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "kwa ajili ya kutoa dhambi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "ndege"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "na mbao"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ya mizede"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "na nyekundu"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "wool ya"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "na ezovu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:54:02.219731634Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na Yisraeli akachukua ⟨את⟩ miji yote hii, na Yisraeli akakaa katika miji yote ya waemori, beshbon na katika binti zake zote.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "na akachukua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miji yote hii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "miji"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na akakaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miji"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ya waemori"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "beshbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na katika zote"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "binti zake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:56:30.057850166Z",
+  "model": "glm-5.2"
+}

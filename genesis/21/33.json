@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na ⟨i⟩ akapanda mti wa esheli huko Be'er-Sheva, na akaita hapa kwa jina la Yahweh, El Olam.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "na akapanda"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "esheli"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "huko Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na akaita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hapa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "kwa jina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Olam"
+    }
+  ],
+  "timestamp": "2026-08-10T10:06:02.483146605Z",
+  "model": "glm-5.2"
+}

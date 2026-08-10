@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na David akamwambia Shaul: Kwa nini unayasikia ⟨את⟩ maneno ya watu yaliyosema: Tazama, David anatafuta ubaya wako?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akamwambia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "unayasikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya watu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yaliyosema"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "anatafuta"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "ubaya wako"
+    }
+  ],
+  "timestamp": "2026-08-10T11:26:28.305826668Z",
+  "model": "glm-5.2"
+}

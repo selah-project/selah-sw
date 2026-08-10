@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Wema wa ubunifu na ujuzi nifundishe, maana katika amri zako nimeamini.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "wema"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "wa ubunifu"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "na ujuzi"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "nifundishe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "katika amri zako"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "nimeamini"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:26.294757243Z",
+  "model": "glm-5.2"
+}

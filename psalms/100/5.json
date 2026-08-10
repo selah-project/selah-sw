@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 100,
+  "translation": "Kwa maana Yahweh ⟨ni⟩ mwema; milele ni chesed chake, na hadi kizazi na kizazi ⟨ni⟩ imani yake.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "ט֣וֹב",
+      "gloss": "mwema"
+    },
+    {
+      "surface": "יְ֭הֹוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "חַסְדּ֑וֹ",
+      "gloss": "chesed chake"
+    },
+    {
+      "surface": "וְעַד",
+      "gloss": "na hadi"
+    },
+    {
+      "surface": "דֹּ֥ר",
+      "gloss": "kizazi"
+    },
+    {
+      "surface": "וָ֝דֹ֗ר",
+      "gloss": "na kizazi"
+    },
+    {
+      "surface": "אֱמוּנָתֽוֹ",
+      "gloss": "imani yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:24.135387122Z",
+  "model": "glm-5.2"
+}

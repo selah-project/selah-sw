@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 48,
+  "translation": "Kwa maana huyu Elohim ni Elohimu wetu ⟨ni⟩ wa milele na hata milele; yeye ndiye atakayetuongoza juu ya mawtu.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "זֶ֨ה",
+      "gloss": "huyu"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֱלֹהֵינוּ",
+      "gloss": "Elohimu wetu"
+    },
+    {
+      "surface": "עוֹלָ֣ם",
+      "gloss": "wa milele"
+    },
+    {
+      "surface": "וָעֶ֑ד",
+      "gloss": "na hata milele"
+    },
+    {
+      "surface": "ה֖וּא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "יְנַהֲגֵ֣נוּ",
+      "gloss": "ndiye atakayetuongoza"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "מֽוּת",
+      "gloss": "mawtu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:12.539104168Z",
+  "model": "glm-5.2"
+}

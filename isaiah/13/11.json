@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 13:11",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Nami nitakagua ulimwengu kwa ubaya, na waovu kwa uovu wao; nitasitisha kiburi ya wajivuni, na kishindo wa watwasi nitawashusha.",
+  "tokens": [
+    {
+      "surface": "וּפָקַדְתִּ֤י",
+      "gloss": "Nami nitakagua"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "תֵּבֵל֙",
+      "gloss": "ulimwengu"
+    },
+    {
+      "surface": "רָעָ֔ה",
+      "gloss": "ubaya"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "na"
+    },
+    {
+      "surface": "רְשָׁעִ֖ים",
+      "gloss": "waovu"
+    },
+    {
+      "surface": "עֲוֺנָ֑ם",
+      "gloss": "kwa uovu wao"
+    },
+    {
+      "surface": "וְהִשְׁבַּתִּי֙",
+      "gloss": "nitasitisha"
+    },
+    {
+      "surface": "גְּא֣וֹן",
+      "gloss": "kiburi"
+    },
+    {
+      "surface": "זֵדִ֔ים",
+      "gloss": "ya wajivuni"
+    },
+    {
+      "surface": "וְגַאֲוַ֥ת",
+      "gloss": "na kishindo"
+    },
+    {
+      "surface": "עָרִיצִ֖ים",
+      "gloss": "wa watwasi"
+    },
+    {
+      "surface": "אַשְׁפִּֽיל",
+      "gloss": "nitawashusha"
+    }
+  ],
+  "timestamp": "2026-08-10T11:56:38.106302027Z",
+  "model": "glm-5.2"
+}

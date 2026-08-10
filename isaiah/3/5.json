@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na watu wataoneana kibao, mtu dhidi ya mtu, na mtu dhidi ya jirani yake; kijana atamkera mzee, na mwenye duni dhidi ya mwenye heshima.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "na wataoneana kibao"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "dhidi ya mtu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mtu"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "dhidi ya jirani yake"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "watamkera"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "kijana"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "mzee"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "na mwenye duni"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "mwenye heshima"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:18.908051434Z",
+  "model": "glm-5.2"
+}

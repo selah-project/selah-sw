@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 149,
+  "translation": "Wachamguu watafurahi katika utukufu, watimbie nyimbo juu ya vitanda vyao.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "watafurahi"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "wachamguu"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "katika utukufu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "watimbie nyimbo"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "vitanda vyao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:40.016234933Z",
+  "model": "glm-5.2"
+}

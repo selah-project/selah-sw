@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Kwa sababu ya dhambi za Yaraviamu ambazo alizitenda na ambazo alihdhuruisha ⟨את⟩ Yisraeli, kwa hasira yake ambayo alikusuhudisha ⟨את⟩ Yahweh, Elohim wa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dhambi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaraviamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "alizitenda"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na ambazo"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "alihdhuruisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "kwa hasira yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "alkusuhudisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-08-10T11:42:35.455987426Z",
+  "model": "glm-5.2"
+}

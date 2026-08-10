@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Yahweh akatenda ⟨את⟩ neno hili siku ya kesho yake, akafa mali yote ya Mitsrayim; na katika mali ya wana wa Yisrael hakufa hata mmoja.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akatenda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neno"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "siku ya kesho yake"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mali"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "na katika mali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakufa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hata mmoja"
+    }
+  ],
+  "timestamp": "2026-08-10T14:28:27.663777072Z",
+  "model": "glm-5.2"
+}

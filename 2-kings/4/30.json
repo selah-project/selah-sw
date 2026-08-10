@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Mama wa ⟨הנער⟩ kijana akasema: Kama alivyo hai Yahweh, na kama ilivyo hai nafsi yako, sitakuacha. Basi akaondoka akaenda pamoja naye.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wa kijana"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "na hai"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nafsi yako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "nitakuacha"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "akaondoka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "pamoja naye"
+    }
+  ],
+  "timestamp": "2026-08-10T17:48:10.656583317Z",
+  "model": "glm-5.2"
+}

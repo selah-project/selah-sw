@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Ikawa baada ya hayo, David akapiga ⟨את⟩ Wapelishti na kuwanyenyekeza; akachukua ⟨את⟩ Gathi na vijiwi vyake kutoka mkononi mwa Wapelishti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hayo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akapiga"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Wapelishti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Wapelishti"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "na kuwanyenyekeza"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gathi"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gathi"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "na vijiwi vyake"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mkononi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Wapelishti"
+    }
+  ],
+  "timestamp": "2026-08-10T14:09:05.126244759Z",
+  "model": "glm-5.2"
+}

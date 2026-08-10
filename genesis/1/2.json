@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na nchi ilikuwa ukiwa na bure, na giza juu ya uso wa tehom, na roho ya Elohim ikirukea juu ya uso ⟨wa⟩ maji.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "na nchi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ilikuwa"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ukiwa"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "na bure"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "na giza"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso wa"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehom"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "na roho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "ikirukea"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wa maji"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:04.769058018Z",
+  "model": "glm-5.2"
+}

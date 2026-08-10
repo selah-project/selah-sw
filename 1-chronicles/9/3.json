@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na katika Yerushalayim walikaa baadhi ya wana wa Yehudah, na baadhi ya wana wa Binyamin, na baadhi ya wana wa Efrayimu na Manase.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "Na katika Yerushalayim"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "walikaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "baadhi ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na baadhi ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na baadhi ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "na Manase"
+    }
+  ],
+  "timestamp": "2026-08-10T15:43:11.177673833Z",
+  "model": "glm-5.2"
+}

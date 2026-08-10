@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Akafika Yerushalayim mwezi wa tano; hiyo ilikuwa mwaka wa saba wa mfalme.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akafika"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mwezi wa"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "tano"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "mwaka wa"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "saba"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wa mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T15:40:44.043808451Z",
+  "model": "glm-5.2"
+}

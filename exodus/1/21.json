@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Ikawa kwa sababu waongozaji wa uzazi waliogopa ⟨את⟩ Elohim, ⟨⟨ Yeye ⟩⟩ aliwafanyia nyumba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "waliogopa"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "waongozaji wa uzazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "aliwafanyia"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "nyumba"
+    }
+  ],
+  "timestamp": "2026-08-10T10:17:03.830661172Z",
+  "model": "glm-5.2"
+}

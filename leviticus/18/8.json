@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Uchi wa mke wa baba yako, usifunue; ni uchi wa baba yako.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "uchi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wa mke"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wa baba yako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "funue"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "uchi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wa baba yako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-10T10:35:46.521853297Z",
+  "model": "glm-5.2"
+}

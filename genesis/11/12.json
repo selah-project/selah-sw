@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na Arpakshad akaishi miaka thelathini na tano, na akazaa ⟨את⟩ Shelach.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Na Arpakshad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "akaishi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tano"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "thelathini na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "na akazaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:49.218975542Z",
+  "model": "glm-5.2"
+}

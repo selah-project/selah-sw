@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na utapaka kwayo ⟨את⟩ hema ya mkutano, na ⟨את⟩ sanduku la ushahidi;",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "Na utapaka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kwayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "la ushahidi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:01.764096206Z",
+  "model": "glm-5.2"
+}

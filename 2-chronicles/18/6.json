@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Lakini Yehoshafati akasema, Je, hakuna nabii wa Yahweh hapa tena, ili tumwombe ⟨את⟩ ⟨yeye⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "האין",
+      "gloss": "Je, hakuna"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hapa"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabii"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "ili tumwombe"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ ⟨yeye⟩",
+      "marks": "nabii wa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:16:12.853903381Z",
+  "model": "glm-5.2"
+}

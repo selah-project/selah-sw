@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Na Yosefi akapanda kumzika ⟨את⟩ baba yake, na pamoja naye wakapanda watumishi wote wa Paroh, wazee wa nyumba yake, na wazee wote wa nchi ya Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "na akapanda"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefi"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "kumzika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba yake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "wakapanda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pamoja naye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "watumishi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paroh"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "wazee"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wa nyumba yake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wazee wote"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-10T14:28:17.851441959Z",
+  "model": "glm-5.2"
+}

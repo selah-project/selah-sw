@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Kwa maana mtu akiwachoma shamba au mizabibu, na akawapeleka ⟨את⟩ mifugoake, na akalisha katika shamba la mwingine, kile bora cha shamba lake na kile bora cha mizabibu yake atalipa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "akiwachoma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "shamba"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "mizabibu"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "na akawapeleka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mifugoake"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "mifugoake"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "na akalisha"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "katika shamba"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "la mwingine"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "kile bora cha"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "shamba lake"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "na kile bora cha"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "mizabibu yake"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "atalipa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:24.541856048Z",
+  "model": "glm-5.2"
+}

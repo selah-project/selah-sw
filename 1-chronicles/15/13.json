@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 15:13",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Kwa maana mwanzo halikuwa nyinyi, ndipo Yahweh Elohim wetu alipovunjika ndani yetu, kwa maana hatukumtafuta kama ilivyo kawaida.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "למ",
+      "gloss": "⟨kwa sababu⟩"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "mwanzo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "halikuwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nyinyi"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "alipovunjika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ndani yetu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatuku"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "mtafuta"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kama ilivyo kawaida"
+    }
+  ],
+  "timestamp": "2026-08-10T14:08:21.096268283Z",
+  "model": "glm-5.2"
+}

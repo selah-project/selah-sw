@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na ikiwa utatangaza ⟨את⟩ jambo letu hili, basi sisi tutaachwa macho kuhapa yako kiapo ambacho umetuapia.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "utatangaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jambo letu hili"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "jambo letu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "basi tutaachwa"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "macho"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "kuhapa yako kiapo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "umetuapia"
+    }
+  ],
+  "timestamp": "2026-08-10T11:05:52.755159233Z",
+  "model": "glm-5.2"
+}

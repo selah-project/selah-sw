@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na Yahweh, Elohim wa majeshi, Yahweh ndiye ukumbusho wake.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "majeshi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ukumbusho wake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:20:54.015534112Z",
+  "model": "glm-5.2"
+}

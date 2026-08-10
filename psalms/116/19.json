@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 116,
+  "translation": "Katika viwanja vya nyumba ya Yahweh, katikati yako, ee Yerushalayim. Haleluya!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "Katika viwanja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "vya nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "katikati yako"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Msifuni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:18.663957839Z",
+  "model": "glm-5.2"
+}

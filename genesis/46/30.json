@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 46,
+  "translation": "Nayo Yisrael akamwambia Yosefu: \"Nikufe basi saa hii, baada ya kuona ⟨את⟩ uso wako, maana wewe bado u hai.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "nikufe"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "saa hii"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uso wako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uso wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "wewe bado"
+    },
+    {
+      "surface": "חי",
+      "gloss": "u hai"
+    }
+  ],
+  "timestamp": "2026-08-10T10:16:24.091616772Z",
+  "model": "glm-5.2"
+}

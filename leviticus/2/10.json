@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na kinachobaki kutoka ⟨kwa⟩ mincha ni cha Aharoni na wa wanawe; ni kitu takatifu sana katika dhabihu za moto za Yahweh.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "Na kinachobaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ni cha Aharoni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "na wa wanawe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ni kitu takatifu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sana"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "katika dhabihu za moto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "za Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:35.376249594Z",
+  "model": "glm-5.2"
+}

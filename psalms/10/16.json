@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Yahweh ni mfalme daima na milele; mataifa yameangamia kutoka nchi yake.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מֶ֭לֶךְ",
+      "gloss": "ni mfalme"
+    },
+    {
+      "surface": "עוֹלָ֣ם",
+      "gloss": "daima"
+    },
+    {
+      "surface": "וָעֶ֑ד",
+      "gloss": "na milele"
+    },
+    {
+      "surface": "אָבְד֥וּ",
+      "gloss": "yameangamia"
+    },
+    {
+      "surface": "ג֝וֹיִ֗ם",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "מֵֽאַרְצֽוֹ",
+      "gloss": "kutoka nchi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T16:16:33.799014487Z",
+  "model": "glm-5.2"
+}

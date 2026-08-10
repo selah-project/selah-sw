@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na watajua wa-Mitsrayim kwamba mimi ni Yahweh ninipoanza kunyoosha ⟨את⟩ mkono wangu juu ya Mitsrayim, nami nitawatoa ⟨את⟩ wana wa Yisraeli kutoka kati yao.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Na watajua"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa-Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "ninipoanza kunyoosha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wangu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mkono wangu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "nami nitawatoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana wa Yisraeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "kutoka kati yao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:28:29.959553618Z",
+  "model": "glm-5.2"
+}

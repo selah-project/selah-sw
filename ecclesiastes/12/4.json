@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "na milango itafungwa kwenye soko, kwa kufifia kwa sauti ya kusaga, naye ataamka kwa sauti ya ndege, na binti zote wa wimbo watanama —",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "na itafungwa"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "milango"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "kwenye soko"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "kwa kufifia"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "ya kusaga"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "naye ataamka"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "kwa sauti"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ya ndege"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "na watanama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "binti wa"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "wimbo"
+    }
+  ],
+  "timestamp": "2026-08-10T16:24:58.758053511Z",
+  "model": "glm-5.2"
+}

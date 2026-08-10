@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na Davidu akasikia jangwani ya kwamba Nabali ananyoa ⟨את⟩ uongo wake.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁמַ֥ע",
+      "gloss": "na akasikia"
+    },
+    {
+      "surface": "דָּוִ֖ד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֑ר",
+      "gloss": "jangwani"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "גֹזֵ֥ז",
+      "gloss": "ananyoa"
+    },
+    {
+      "surface": "נָבָ֖ל",
+      "gloss": "Nabali"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "uongo wake"
+    },
+    {
+      "surface": "צֹאנֽוֹ",
+      "gloss": "uongo wake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:27:18.145345771Z",
+  "model": "glm-5.2"
+}

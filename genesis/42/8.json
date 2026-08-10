@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Yosefu akatambua ⟨את⟩ ndugu zake, lakini hawakutambua yeye.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "akatambua"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndugu zake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "והם",
+      "gloss": "lakini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawaku"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "tambua yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T10:14:25.152459833Z",
+  "model": "glm-5.2"
+}

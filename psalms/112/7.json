@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 112,
+  "translation": "Khabari mbaya asioogopa; moyo wake ⟨⟩ umethibitishwa, ⟨⟩ akitegemea Yahweh.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "khabari"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mbaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asio"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ogopa"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "umethibitishwa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "akitegemea"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:26.509069696Z",
+  "model": "glm-5.2"
+}

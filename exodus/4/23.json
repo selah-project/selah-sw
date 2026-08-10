@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "nami nilikuambiya: tuma ⟨את⟩ mwanangu atumikie; umekataa kumtuma; tazama, mimi ninaua ⟨את⟩ mwanao, mzalizaji wako.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nami nilikuambiya"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nilikuambiya"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanangu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanangu"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "atumikie"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "umekataa"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "kumtuma"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ninaua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanao"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwanao"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "mzalizaji wako"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:33.388305533Z",
+  "model": "glm-5.2"
+}

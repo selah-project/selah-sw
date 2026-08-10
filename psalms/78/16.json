@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Akatoa vijito kutoka mwangoni, akateremsha maji kama mito.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Akatoa"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "vijito"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "kutoka mwangoni"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "akateremsha"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "kama mito"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:16.934394358Z",
+  "model": "glm-5.2"
+}

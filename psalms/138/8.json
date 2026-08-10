@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 138,
+  "translation": "Yahweh atakamilisha kwa ajili yangu. Yahweh, chesed yako ⟨huendelea⟩ milele; matendo ya mikono yako, usiyaachie!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "atakamilisha"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "kwa ajili yangu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed yako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "matendo ya"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "mikono yako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "yaachie"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:15.822383223Z",
+  "model": "glm-5.2"
+}

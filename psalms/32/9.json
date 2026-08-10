@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Msifanane na farasi, wala kama punda ambao hawana ⟨hauna⟩ ufahamu; kwa kofia na harabu, pambo lake, ili kuzuia — wasikuribie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "msi"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "kama farasi"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "kama punda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ambao hawana"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ufahamu"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "kwa kofia"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "na harabu"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "pambo lake"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "ili kuzuia"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wasije"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "wakaribia"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa wewe"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:26.389524305Z",
+  "model": "glm-5.2"
+}

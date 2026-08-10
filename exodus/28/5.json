@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Nao watayachukua ⟨את⟩ dhahabu na ⟨את⟩ buluu na ⟨את⟩ zambarau na ⟨את⟩ nyuzi za skrleti na ⟨את⟩ kitani chepesi.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Nao"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "watayachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhahabu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "buluu"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "buluu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "zambarau"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "zambarau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyuzi za skrleti"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "nyuzi za"
+    },
+    {
+      "surface": "השני",
+      "gloss": "skrleti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kitani chepesi"
+    },
+    {
+      "surface": "השש",
+      "gloss": "kitani chepesi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:26:13.021412321Z",
+  "model": "glm-5.2"
+}

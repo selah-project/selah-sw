@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Ambao hula nyama ya taifa langu, na ngozi zao hunaziambua kutoka juu yao, na ⟨את⟩ mifupa yao huivunja, na huwatengeneza kama vile ⟨ni⟩ ndani ya sufuria, na kama nyama ndani ya dega.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "hula"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "taifa langu"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "na ngozi zao"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "kutoka juu yao"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "hunaziambua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mifupa yao"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "mifupa yao"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "huivunja"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "na huwatengeneza"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama vile"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "⟨ni⟩ ndani ya sufuria"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "na kama nyama"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ndani ya"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "dega"
+    }
+  ],
+  "timestamp": "2026-08-10T12:47:19.906574782Z",
+  "model": "glm-5.2"
+}

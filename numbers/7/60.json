@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 7:60",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Siku ya tisa, mkuu ⟨wa⟩ wana wa Binjamini, Aviidani mwana wa Gidoni.",
+  "tokens": [
+    {
+      "surface": "בַּיּוֹם֙",
+      "gloss": "Siku"
+    },
+    {
+      "surface": "הַתְּשִׁיעִ֔י",
+      "gloss": "ya tisa"
+    },
+    {
+      "surface": "נָשִׂ֖יא",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "לִבְנֵ֣י",
+      "gloss": "⟨wa⟩ wana wa"
+    },
+    {
+      "surface": "בִּנְיָמִ֑ן",
+      "gloss": "Binjamini"
+    },
+    {
+      "surface": "אֲבִידָ֖ן",
+      "gloss": "Aviidani"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "גִּדְעֹנִֽי",
+      "gloss": "wa Gidoni"
+    }
+  ],
+  "timestamp": "2026-08-10T10:41:55.780933042Z",
+  "model": "glm-5.2"
+}

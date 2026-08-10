@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "Milima ilipanda, mabonde ilishuka, kwenda zene mahali ulipowapa kwa ajili yao.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "ilipanda"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Milima"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ilishuka"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "mabonde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenda zene"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "זה",
+      "gloss": ""
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "ulipowapa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa ajili yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:02.196022106Z",
+  "model": "glm-5.2"
+}

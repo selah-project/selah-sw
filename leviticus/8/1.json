@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 8:1",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Yahweh akamwambia Moshe, ⟨akisema⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨akisema⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T10:31:57.245501979Z",
+  "model": "glm-5.2"
+}

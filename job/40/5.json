@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Mara moja nimekuwa nimeongea, wala sitajibu; na mara mbili, wala sitaongeza.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "mara moja"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nimeongea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "nitajibu"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "na mara mbili"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "nitaongeza"
+    }
+  ],
+  "timestamp": "2026-08-10T15:36:08.639795491Z",
+  "model": "glm-5.2"
+}

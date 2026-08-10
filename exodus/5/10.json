@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 5:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Wakawatoka nje wakandarasi wa watu pamoja na waangalizi wake, wakaambia watu, wakisema: Ndivo anavyosema Paroh: Mimi sikupeni mnyasi.",
+  "tokens": [
+    {
+      "surface": "וַיֵּ֨צְא֜וּ",
+      "gloss": "Wakawatoka nje"
+    },
+    {
+      "surface": "נֹגְשֵׂ֤י",
+      "gloss": "wakandarasi wa"
+    },
+    {
+      "surface": "הָעָם֙",
+      "gloss": "watu"
+    },
+    {
+      "surface": "וְשֹׁ֣טְרָ֔יו",
+      "gloss": "pamoja na waangalizi wake"
+    },
+    {
+      "surface": "וַיֹּאמְר֥וּ",
+      "gloss": "wakaambia"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "הָעָ֖ם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "לֵאמֹ֑ר",
+      "gloss": "wakisema"
+    },
+    {
+      "surface": "כֹּ֚ה",
+      "gloss": "Ndivo"
+    },
+    {
+      "surface": "אָמַ֣ר",
+      "gloss": "anavyosema"
+    },
+    {
+      "surface": "פַּרְעֹ֔ה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אֵינֶ֛נִּי",
+      "gloss": "Mimi si-"
+    },
+    {
+      "surface": "נֹתֵ֥ן",
+      "gloss": "kupeni"
+    },
+    {
+      "surface": "לָכֶ֖ם",
+      "gloss": "ninyi"
+    },
+    {
+      "surface": "תֶּֽבֶן",
+      "gloss": "mnyasi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:08.028880437Z",
+  "model": "glm-5.2"
+}

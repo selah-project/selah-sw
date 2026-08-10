@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 94,
+  "translation": "Je, kiti cha uovu kina ushirika nawe, mtengenezaji wa taabu kwa amri?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "Je, kina ushirika nawe"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kiti"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "cha uovu"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "mtengenezaji"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "wa taabu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "חק",
+      "gloss": "amri"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:07.169841762Z",
+  "model": "glm-5.2"
+}

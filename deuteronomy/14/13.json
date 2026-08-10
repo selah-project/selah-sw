@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "na ⟨הראה⟩, na ⟨את⟩ ha-ayah, na ha-dayah kufuatana na aina yake",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "na ⟨ha-ra'ah⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ha-ayah"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ha-ayah"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "na ha-dayah"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "kufuatana na aina yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:57:35.063835758Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 64,
+  "translation": "Nifiche siri kutoka kwa mkutano wa watenda mabaya, kutokana na ghasia ya watenda uovu.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Nifiche"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "siri kutoka kwa mkutano wa"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "watenda mabaya"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "kutokana na ghasia ya"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "watenda"
+    },
+    {
+      "surface": "און",
+      "gloss": "uovu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:56.972052163Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 58,
+  "translation": "Wamekuwa ghali masharifu tumboni mwa mama; wamepotoka tumboni, wakinena uongo.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "Wamekuwa ghali"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "masharifu"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "tumboni mwa mama"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "wamepotoka"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "tumboni"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "wakinena"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "uongo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:03.944387662Z",
+  "model": "glm-5.2"
+}

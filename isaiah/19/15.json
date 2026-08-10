@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na hatampatia Mitsrayim kazi yoyote, ambayo kichwa au mkia, ─ kijani cha mnazi ─ au mswaki, ⟨weye⟩ aweze kufanya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Na hatampatia"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨kazi yoyote⟩"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kazi yoyote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "⟨weye⟩ aweze kufanya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "au mkia"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "kijani cha mnazi"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "au mswaki"
+    }
+  ],
+  "timestamp": "2026-08-10T11:58:38.340404503Z",
+  "model": "glm-5.2"
+}

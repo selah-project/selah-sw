@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na ufanya kwa hekima yako, wala usimshushe kipara chake cha wazee ⟨kwa⟩ amani Sheoli.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "na ufanye"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "kwa hekima yako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala usi"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "mshushe"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "kipara chake cha wazee"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "katika amani"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Sheoli"
+    }
+  ],
+  "timestamp": "2026-08-10T11:37:53.667699763Z",
+  "model": "glm-5.2"
+}

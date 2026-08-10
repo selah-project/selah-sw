@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "na sasa, ugawe ⟨את⟩ nchi hii kuwa urithi kwa kabila tisa na nusu ya kabila la Menashe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ugawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hii"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "kuwa urithi"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "kwa kabila tisa"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "na kabila"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na nusu ya"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "kabila la"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menashe"
+    }
+  ],
+  "timestamp": "2026-08-10T14:46:58.352672367Z",
+  "model": "glm-5.2"
+}

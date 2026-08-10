@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "na mwana wa Yehonatan ⟨alikuwa⟩ Meriv-Baal, na Meriv-Baal alimzaa ⟨את⟩ Mikha.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "na mwana wa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "na Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikha"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mikha"
+    }
+  ],
+  "timestamp": "2026-08-10T14:06:58.671830660Z",
+  "model": "glm-5.2"
+}

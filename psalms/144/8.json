@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 144,
+  "translation": "Ambao midomo yao huongea ubatilifu, na mkono wao wa kulia ⟨ni⟩ mkono wa udanganyifu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "midomo yao"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "huongea"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ubatilifu"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "na mkono wao wa kulia"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "wa udanganyifu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:06.591231493Z",
+  "model": "glm-5.2"
+}

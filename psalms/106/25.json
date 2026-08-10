@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Wakagong'ana hema zao, hawakusikia kwa sauti ya Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "wakagong'ana"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "hema zao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawaku-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "-sikia"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kwa sauti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:51.152716741Z",
+  "model": "glm-5.2"
+}

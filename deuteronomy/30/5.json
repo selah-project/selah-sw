@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na Yahweh Elohim wako atakuingiza ⟨kwenye⟩ nchi ambayo baba zaka walimiliki, nawe utaimiliki; naye atakutendea mema, naatakuzidisha kuliko baba zako.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "na-atakuingiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwenye⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "walimiliki"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "baba zako"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "nawe utaimiliki"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "naye atakutendea mema"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "na-atakuzidisha"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "kuliko baba zako"
+    }
+  ],
+  "timestamp": "2026-08-10T11:02:55.246215992Z",
+  "model": "glm-5.2"
+}

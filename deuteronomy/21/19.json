@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "naye baba yake na mama yake watamshika, na watamtoleza ⟨את⟩ kwa wazee wa mji wake na kwa lango la mahali pake.",
+  "tokens": [
+    {
+      "surface": "וְתָפְשׂוּ",
+      "gloss": "nao wata"
+    },
+    {
+      "surface": "בוֹ",
+      "gloss": "na watamshika"
+    },
+    {
+      "surface": "אָבִיו",
+      "gloss": "naye baba yake"
+    },
+    {
+      "surface": "וְאִמּוֹ",
+      "gloss": "na mama yake"
+    },
+    {
+      "surface": "וְהוֹצִיאוּ",
+      "gloss": "na watamtoleza"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "huyu"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "זִקְנֵי",
+      "gloss": "wazee"
+    },
+    {
+      "surface": "עִירוֹ",
+      "gloss": "wa mji wake"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "שַׁעַר",
+      "gloss": "lango"
+    },
+    {
+      "surface": "מְקֹמוֹ",
+      "gloss": "la mahali pake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:00:05.027095734Z",
+  "model": "glm-5.2"
+}

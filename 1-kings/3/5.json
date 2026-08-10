@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Huko Givon Yahweh alimtokea Shelomo katika ndoto ya usiku, na Elohim akasema: Omba, nitakupa nini?",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "Huko Givon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "alimtokea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "katika ndoto"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ya usiku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Omba"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nitakupa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "?...kwa wewe"
+    }
+  ],
+  "timestamp": "2026-08-10T11:37:51.450730136Z",
+  "model": "glm-5.2"
+}

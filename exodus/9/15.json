@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Kwa maana sasa ningalirefusha ⟨את⟩ mkono wangu, ngingalikupiga wewe na ⟨את⟩ taifa lako kwa tauni; ngingalifutika kutoka katika nchi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ningalirefusha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wangu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mkono wangu"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "bila shaka"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ngalikupiga wewe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "taifa lako"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "taifa lako"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "kwa tauni"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "ningalifutika"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka katika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:09.371598968Z",
+  "model": "glm-5.2"
+}

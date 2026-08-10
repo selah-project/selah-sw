@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 62,
+  "translation": "Tu yeye ⟨ndiye⟩ mwamba wangu na uokoaji wangu, ngema yangu, sitatikisika sana.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mwamba wangu"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "na uokoaji wangu"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ngema yangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "tatikisika"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:12.756843596Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 48,
+  "translation": "Mkuu ⟨ni⟩ Yahweh na kusifiwa sana katika mji wa Elohim wetu, mlima wa utakatifu wake.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "na kusifiwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "katika mji wa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mlima wa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "utakatifu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:12.718317464Z",
+  "model": "glm-5.2"
+}

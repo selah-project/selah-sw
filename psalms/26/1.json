@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Kwa David. Nituhukumu, ninayo haki, Yahweh, kwa maana mimi katika utimimi wangu nimeatembea, na kwa Yahweh nimetegemea, sitatetereka.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kwa David"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Nituhukumu, ninayo haki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "katika utimimi wangu"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "nimeatembea"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "na kwa Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nimetegemea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "tatetereka"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:26.529574257Z",
+  "model": "glm-5.2"
+}

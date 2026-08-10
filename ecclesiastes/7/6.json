@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Kwa kuwa kama sauti ya miiba chini ya sufuria, vivyo hivyo ni kicheko cha mpumbavu; na hata hii ni hebel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "kama sauti"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "ya miiba"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ya sufuria"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "kicheko"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "cha mpumbavu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-08-10T15:37:43.207605607Z",
+  "model": "glm-5.2"
+}

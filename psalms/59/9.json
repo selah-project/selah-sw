@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 59,
+  "translation": "Na wewe, Yahweh, utacheka kwao; utadhihaki mataifa yote.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "utacheka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "utadhihaki"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mataifa"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:39.939265244Z",
+  "model": "glm-5.2"
+}

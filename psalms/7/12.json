@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Elohim ⟨ni⟩ hakimu wa haki, na El ⟨mwenye⟩ hasira kila siku.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "hakimu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wa haki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "⟨mwenye⟩ hasira"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:37.892660813Z",
+  "model": "glm-5.2"
+}

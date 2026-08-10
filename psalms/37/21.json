@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Mwovu anaazima hatolipa, lakini mtu mwema huruma huomba na kutoa.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "anaazima"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mwovu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hatolipa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": ""
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "lakini mtu mwema"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "huruma huomba"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "na kutoa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:00.052109137Z",
+  "model": "glm-5.2"
+}

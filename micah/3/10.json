@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "⟨Ambao⟩ wanaijenga Tsiyoni kwa damu, na Yerushalaim kwa uovu.",
+  "tokens": [
+    {
+      "surface": "בֹּנֶ֥ה",
+      "gloss": "wanaijenga"
+    },
+    {
+      "surface": "צִיּ֖וֹן",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "בְּדָמִ֑ים",
+      "gloss": "kwa damu"
+    },
+    {
+      "surface": "וִירוּשָׁלִַ֖ם",
+      "gloss": "na Yerushalaim"
+    },
+    {
+      "surface": "בְּעַוְלָֽה",
+      "gloss": "kwa uovu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:46:50.844483533Z",
+  "model": "glm-5.2"
+}

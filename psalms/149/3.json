@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 149,
+  "translation": "Wamsifuni jina lake katika ngoma ya kucheza; kwa taruba na kinora wampigie muziki.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Wamsifuni"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "katika ngoma ya kucheza"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "kwa taruba"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "na kinora"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "wampigie muziki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:32.851206999Z",
+  "model": "glm-5.2"
+}

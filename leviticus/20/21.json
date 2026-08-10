@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na ⟨kuna⟩ mtu ambaye atamchukua ⟨את⟩ mke wa nduguye; ⟨hiyo ni⟩ uchafu; uchi wa nduguye ameufunua; watakuwa bila watoto.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na mtu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "atamchukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mke wa nduguye"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mke wa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nduguye"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "uchafu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hiyo ni"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "uchi wa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nduguye"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ameufunua"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "bila watoto"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "watakuwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:15.833912055Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Lakini Haman akajizuia, akaingia nyumbani kwake, akatuma akawaleta ⟨את⟩ marafiki zake na ⟨את⟩ Zeresh mke wake.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "akajizuia"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumbani"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akawaleta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marafiki zake"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "marafiki zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mke wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:49:00.554587336Z",
+  "model": "glm-5.2"
+}

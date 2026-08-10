@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Ikawa, walipokuja, akaona ⟨את⟩ Eliyavu, akasema: Hakika mbele ya Yahweh ⟨ni⟩ mashiah wake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "walipokuja"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyavu"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliyavu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "mashiah wake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:23:06.558381882Z",
+  "model": "glm-5.2"
+}

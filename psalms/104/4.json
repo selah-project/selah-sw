@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "Anayefanya upepo kuwa watumishi wake, moto unawaka kuwa wahudumu wake.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "anayefanya"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "watumishi wake"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "upepo"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "wahudumu wake"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "להט",
+      "gloss": "unawaka"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:07.457998516Z",
+  "model": "glm-5.2"
+}

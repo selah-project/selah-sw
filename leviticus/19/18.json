@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Usilipe kisasi, wala usihifadhi hasira dhidi ya ⟨את⟩ wana wa watu wako; huyae mapenzi yamtanaye kama nafsi yako; mimi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "lipie kisasi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala usi"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "hifadhi hasira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wa watu wako"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "huyae mapenzi"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "yamtanaye"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kama nafsi yako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:57.246005582Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 66,
+  "translation": "Njoni, mkatazame matendo ya Elohim, ana tisha kwa shughuli zake juu ya wana wa adamu.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "njoni"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "mkatazame"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "matendo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "anatisha"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "kwa shughuli zake"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:26.825242112Z",
+  "model": "glm-5.2"
+}

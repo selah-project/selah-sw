@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Yahweh akasema: Kwa yakini nimeuona ⟨את⟩ dhiki ya watu wangu walioko Mitsrayim, na ⟨את⟩ kilio chao nimekisikia kwa sababu ya wanaodhibiti wao; maana najua ⟨את⟩ maumivu yao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kwa yakini uona"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nimeuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiki"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dhiki"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ya watu wangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "walioko"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kilio chao"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "kilio chao"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nimekisikia"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "wanaodhibiti wao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "najua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maumivu yao"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "maumivu yao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:51:21.088946128Z",
+  "model": "glm-5.2"
+}

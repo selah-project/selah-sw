@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 94,
+  "translation": "Na wanasema, \"Yah hayataona, na Elohim ya Ya'akov hatapata kuelewa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "na wanasema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatasema"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "kupata kuelewa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:49.837659194Z",
+  "model": "glm-5.2"
+}

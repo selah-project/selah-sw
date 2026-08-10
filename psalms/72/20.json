@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 72,
+  "translation": "Zimekwisha ⟨kuwa⟩ maombi ya David mwana wa Yishai.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Zimekwisha"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "maombi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "wa Yishai"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:19.708464198Z",
+  "model": "glm-5.2"
+}

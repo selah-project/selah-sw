@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 4:3",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Kwa maana vivyo hivi amesema Yahweh kwa wana wa Yehudah na kwa Yerushalayim: Limeni shamba lenu jipya, wala msipande kati ya miiba.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "כֹ֣ה",
+      "gloss": "vivyo hivi"
+    },
+    {
+      "surface": "אָמַ֣ר",
+      "gloss": "amesema"
+    },
+    {
+      "surface": "יְהֹוָ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לְאִ֤ישׁ",
+      "gloss": "kwa wana wa"
+    },
+    {
+      "surface": "יְהוּדָה֙",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וְלִיר֣וּשָׁלִַ֔ם",
+      "gloss": "na kwa Yerushalayim"
+    },
+    {
+      "surface": "נִ֥ירוּ",
+      "gloss": "Limeni"
+    },
+    {
+      "surface": "לָכֶ֖ם",
+      "gloss": "lenu"
+    },
+    {
+      "surface": "נִ֑יר",
+      "gloss": "shamba jipya"
+    },
+    {
+      "surface": "וְאַֽל",
+      "gloss": "wala msipande"
+    },
+    {
+      "surface": "תִּזְרְע֖וּ",
+      "gloss": "⟨×msipande⟩"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "קוֹצִֽים",
+      "gloss": "miiba"
+    }
+  ],
+  "timestamp": "2026-08-10T12:11:26.162945110Z",
+  "model": "glm-5.2"
+}

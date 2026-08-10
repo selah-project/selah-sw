@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na katika mwaka wa saba shabbat ya mapumziko kamili itakuwa kwa nchi, shabbat kwa Yahweh; shamba lako usipande, na shamba la mizabibu lako usikate.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Na katika mwaka"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "wa saba"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ya mapumziko kamili"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "itakuwa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "kwa nchi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "shamba lako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "pande"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "na shamba la mizabibu lako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "kate"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:47.818902769Z",
+  "model": "glm-5.2"
+}

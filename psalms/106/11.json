@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Maji yakafunika watesi wao, hatukuwa hata mmoja wao aliyebaki.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "yakafunika"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Maji"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "watesi wao"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatukuwa"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "aliyebaki"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:55.347310876Z",
+  "model": "glm-5.2"
+}

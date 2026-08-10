@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 142,
+  "translation": "Nimekuelea wewe, Yahweh; nimesema: Wewe ndio mahali pangu pa kimbilio, sehemu yangu katika nchi ya wahanai.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Nimekuelea"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nimesema"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wewe ndio"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mahali pangu pa kimbilio"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "sehemu yangu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ya wahanai"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:18.497336716Z",
+  "model": "glm-5.2"
+}

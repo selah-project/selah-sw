@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Akasema: Amani; nimekuja kutoa dhabihu kwa Yahweh; jitakaseni, na kuja nami ⟨את⟩ kwenye dhabihu. Akamtakasa ⟨את⟩ Yishai na ⟨את⟩ wanawe, akawaita kwa dhabihu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "amani"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kutoa dhabihu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "nimekuja"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "jitakaseni"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "na kuja"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nami"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "kwenye dhabihu"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "akamtakasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wanawe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akawaita"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kwa dhabihu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:23:06.558065684Z",
+  "model": "glm-5.2"
+}

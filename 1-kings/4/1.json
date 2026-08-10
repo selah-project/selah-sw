@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na mfalume Shelomah alikuwa mfalume juu ya kila ⟨wote⟩ Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na alikuwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalume"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalume"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-10T11:37:56.839023866Z",
+  "model": "glm-5.2"
+}

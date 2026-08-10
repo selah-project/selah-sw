@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Elohim akasema: \"Maji yakusanywe chini ya mbingu mahali pamoja, nchi kavu idhihirike\"; ikawa hivyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "yakusanywe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "Maji"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "idhihirike"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "nchi kavu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hivyo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:05.600667241Z",
+  "model": "glm-5.2"
+}

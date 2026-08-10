@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Wakati waovu wanikaribia kula ⟨את⟩ nyama yangu, washitaki wangu na adui zangu kwangu mimi — hao wamekwisha kutetereka na kuanguka.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "Wakati waovu wanikaribia"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "wanikaribia"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "waovu"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama yangu"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "nyama yangu"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "washitaki wangu"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "na adui zangu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu mimi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hao"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "wamekwisha kutetereka"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "na kuanguka"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:59.693136137Z",
+  "model": "glm-5.2"
+}

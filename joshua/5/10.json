@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Wana wa Yisraelali wakahema huko Gilgali, wakafanya ⟨את⟩ Pesakh siku ya kumi na nne ya mwezi, jioni, katika mabonde ya Yeriko.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "wakahema"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraelali"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "huko Gilgali"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "wakafanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesakh"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesakh"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "nne"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ya kumi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya mwezi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "jioni"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "katika mabonde"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "ya Yeriko"
+    }
+  ],
+  "timestamp": "2026-08-10T15:58:24.418606108Z",
+  "model": "glm-5.2"
+}

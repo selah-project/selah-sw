@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na uitze ⟨את⟩ dhahabu safi, na ufanyize taji ya dhahabu pande zote.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "na uitze"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dhahabu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "safi"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "na ufanyize"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "זר",
+      "gloss": "taji"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "pande zote"
+    }
+  ],
+  "timestamp": "2026-08-10T17:42:14.691777350Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 13:8",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na Davidi na wote wa Yisraeli walicheza mbele za Elohim kwa nguvu zote, na katika nyimbo, na katika vinanda, na katika nabalim, na katika tupim, na katika metselim, na katika tarumbeta.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Na Davidi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "walicheza"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa zote"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguvu"
+    },
+    {
+      "surface": "ובשירים",
+      "gloss": "na katika nyimbo"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "na katika vinanda"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "na katika nabalim"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "na katika tupim"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "na katika metselim"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "na katika tarumbeta"
+    }
+  ],
+  "timestamp": "2026-08-10T14:08:12.673678365Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Yule mwenye kumcha ⟨את⟩ ⟨ambaye alikuwa⟩ miongoni mwa watumwa wa Paroh aliyeogopa neno la Yahweh aliwakimbia watumwa wake na ⟨את⟩ mifugo yake ⟨akiwaleta⟩ ⟨wakaingia⟩ ndani ⟨ya⟩ nyumba.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "Yule mwenye kumcha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨ambaye alikuwa⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "miongoni mwa watumwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paroh"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "aliwakimbia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watumwa wake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "watumwa wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mifugo yake"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "mifugo yake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨akiwaleta⟩ ⟨wakaingia⟩ ndani"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "⟨ya⟩ nyumba"
+    }
+  ],
+  "timestamp": "2026-08-10T14:28:28.113472086Z",
+  "model": "glm-5.2"
+}

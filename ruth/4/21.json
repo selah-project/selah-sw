@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na Salmoni alizaa ⟨את⟩ Boazi, na Boazi alizaa ⟨את⟩ Obedi.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "na Salmoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boazi"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazi"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "na Boazi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obedi"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obedi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:42:50.117858527Z",
+  "model": "glm-5.2"
+}

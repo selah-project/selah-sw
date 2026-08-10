@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Na Yahweh akamwambia Ya'akov: \"Rudi katika nchi ya baba zako na kwa jamaa zako, nami nitakuwa pamoja nawe.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "rudi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "katika"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "ya baba zako"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "na kwa jamaa zako"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "nami nitakuwa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pamoja nawe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:10:06.999516415Z",
+  "model": "glm-5.2"
+}

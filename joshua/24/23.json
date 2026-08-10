@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 24:23",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na sasa, ondoeni ⟨את⟩ miungu ya kigeni iliyo kati yenu, na geuzeni ⟨את⟩ mioyo yenu kwa Yahweh, Elohim wa Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na sasa"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "ondoeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miungu ya kigeni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "miungu"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ya kigeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iliyo"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "kati yenu"
+    },
+    {
+      "surface": "והטו",
+      "gloss": "na geuzeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mioyo yenu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "mioyo yenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-10T14:47:56.980398149Z",
+  "model": "glm-5.2"
+}

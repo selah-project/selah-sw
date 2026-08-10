@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 71,
+  "translation": "Kwa haki yako niokoe ukanitoe ⟨⟨hatarinĩ⟩⟩; tegema sikio lako kwangu ukanikombole.",
+  "tokens": [
+    {
+      "surface": "בְּצִדְקָתְךָ֗",
+      "gloss": "Kwa haki yako"
+    },
+    {
+      "surface": "תַּצִּילֵ֥נִי",
+      "gloss": "niokoe"
+    },
+    {
+      "surface": "וּֽתְפַלְּטֵ֑נִי",
+      "gloss": "ukanitoe"
+    },
+    {
+      "surface": "הַטֵּֽה",
+      "gloss": "tegema"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "אָ֝זְנְךָ֗",
+      "gloss": "sikio lako"
+    },
+    {
+      "surface": "וְהוֹשִׁיעֵֽנִי",
+      "gloss": "ukanikombole"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:21.459233233Z",
+  "model": "glm-5.2"
+}

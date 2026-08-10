@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 33:1",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Yahweh akamwambia Moshe: \"Nenda, panda kutoka hapa, wewe na ⟨wakina⟩ ⟨את⟩ ile watu uliowatoa katika nchi ya Mitsrayim, kwenda katika ile nchi ambayo niliapa kwa Avraham, kwa Yitzchak, na kwa Yaakov, nikiwaambia: Kwa mzao wako nitatoa ⟨את⟩ hiyo.\"",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "panda"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kutoka hapa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "na ile watu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "uliowatoa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenda katika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ile nchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "niliapa"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kwa Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kwa Yitzchak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "na kwa Yaakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nikiwaambia"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "kwa mzao wako"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "nitatoa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:51.745420934Z",
+  "model": "glm-5.2"
+}

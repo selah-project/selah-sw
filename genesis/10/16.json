@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na ⟨את⟩ Hayebusi na ⟨את⟩ Haemori na ⟨את⟩ Hagirgashi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "Hayebusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Hayebusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Haemori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Haemori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hagirgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Hagirgashi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:31.042221334Z",
+  "model": "glm-5.2"
+}

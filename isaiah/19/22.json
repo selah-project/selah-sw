@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na Yahweh atapiga ⟨את⟩ Mitsrayim, mpigo na kuponya; na watarudi kwa Yahweh, naye ataelezewa kwa ajili yao, naye atawaponya.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "na atapiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "mpigo"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "na kuponya"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "na watarudi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "naye ataelezewa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa ajili yao"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "naye atawaponya"
+    }
+  ],
+  "timestamp": "2026-08-10T15:05:04.643654448Z",
+  "model": "glm-5.2"
+}

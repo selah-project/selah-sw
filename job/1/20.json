@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Ayubu akaondoka, akapasua ⟨את⟩ joho lake, akanyoa kichwa chake, akaanguka chini, akasujudu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akaondoka"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayubu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "akapasua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "joho lake"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "joho lake"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "akanyoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kichwa chake"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kichwa chake"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "akaanguka"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "chini"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akasujudu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:31:39.267554638Z",
+  "model": "glm-5.2"
+}

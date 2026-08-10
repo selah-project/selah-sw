@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 139,
+  "translation": "Nakushukuru kwa maana nimetendwa kwa vitisho, nimekuwa ajabu; ni ajabu kazi zako, nafsi yangu inajua sana.",
+  "tokens": [
+    {
+      "surface": "אֽוֹדְךָ֗",
+      "gloss": "Nakushukuru"
+    },
+    {
+      "surface": "עַ֤ל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "maana"
+    },
+    {
+      "surface": "נוֹרָא֗וֹת",
+      "gloss": "kwa vitisho"
+    },
+    {
+      "surface": "נִ֫פְלֵ֥יתִי",
+      "gloss": "nimekuwa ajabu"
+    },
+    {
+      "surface": "נִפְלָאִ֥ים",
+      "gloss": "ni ajabu"
+    },
+    {
+      "surface": "מַעֲשֶׂ֑יךָ",
+      "gloss": "kazi zako"
+    },
+    {
+      "surface": "וְ֝נַפְשִׁ֗י",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "יֹדַ֥עַת",
+      "gloss": "inajua"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:12.926192790Z",
+  "model": "glm-5.2"
+}

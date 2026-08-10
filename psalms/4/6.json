@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Toa dhabihu za haki, mkamini Elohim.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "toeni"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "dhabihu za"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "haki"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "mkaminini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:23.014478899Z",
+  "model": "glm-5.2"
+}

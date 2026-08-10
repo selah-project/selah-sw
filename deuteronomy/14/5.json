@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "⟨Ng'ombe wa porini⟩, na ⟨⟨swala⟩⟩, na ⟨⟨paa⟩⟩, na ⟨⟨mbuzi wa porini⟩⟩, na ⟨⟨dison⟩⟩, na ⟨⟨ng'ombe wa porini⟩⟩, na ⟨⟨zamer⟩⟩.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "⟨ng'ombe wa porini⟩"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "na swala"
+    },
+    {
+      "surface": "ושחמור",
+      "gloss": "na paa"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "na mbuzi wa porini"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "na dison"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "na ng'ombe wa porini"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "na zamer"
+    }
+  ],
+  "timestamp": "2026-08-10T10:58:04.067992635Z",
+  "model": "glm-5.2"
+}

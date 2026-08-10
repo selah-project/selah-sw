@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Hata hivyo, ikiwa ⟨⟩e asimama siku moja au siku mbili, hatatozwa adhabu, kwa kuwa fedha zake ni yeye.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hata hivyo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku moja"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "siku mbili"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "asimama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hata"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "tozwe adhabu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "fedha zake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T14:29:33.945235407Z",
+  "model": "glm-5.2"
+}

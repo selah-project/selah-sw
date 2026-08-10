@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Ikawa pale David alipokuwa ⟨את⟩ ⟨pamoja na⟩ ⟨את⟩ Edomu, Yoabu mkuu wa jeshi alipopanda kuzika ⟨את⟩ waliouawa, akapiga kila mwanaume katika Edomu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "pale alipokuwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨pamoja na⟩",
+      "marks": "Edomu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "alipopanda"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "wa jeshi"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "kuzika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waliouawa"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "waliouawa"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akapiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mwanaume"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "katika Edomu"
+    }
+  ],
+  "timestamp": "2026-08-10T18:28:15.996581897Z",
+  "model": "glm-5.2"
+}

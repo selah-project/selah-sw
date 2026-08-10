@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Hata lini, Yahweh, utanisahaa daima? Hata lini utaficha ⟨את⟩ uso wako umepo?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "lini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "utanisahaa"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "daima"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "lini"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "utaficha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uso wako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uso wako"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "umepo"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:13.083789053Z",
+  "model": "glm-5.2"
+}

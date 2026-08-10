@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "kwa maana ⟨את⟩ madhabahu zao mtavunja, na ⟨את⟩ mawe ya makumbusho yao mtavunja vipande, na ⟨את⟩ Asheri zake mtakata:",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "madhabahu zao"
+    },
+    {
+      "surface": "מִזְבְּחֹתָם֙",
+      "gloss": "madhabahu zao"
+    },
+    {
+      "surface": "תִּתֹּצ֔וּן",
+      "gloss": "mtavunja"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mawe ya makumbusho yao"
+    },
+    {
+      "surface": "מַצֵּבֹתָ֖ם",
+      "gloss": "mawe ya makumbusho yao"
+    },
+    {
+      "surface": "תְּשַׁבֵּר֑וּן",
+      "gloss": "mtavunja vipande"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Asheri zake"
+    },
+    {
+      "surface": "אֲשֵׁרָ֖יו",
+      "gloss": "Asheri zake"
+    },
+    {
+      "surface": "תִּכְרֹתֽוּן",
+      "gloss": "mtakata"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:50.605680065Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Akapasua miamba jangwani, akanywesha kama vilindi vikuu.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "Akapasua"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "miamba"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "jangwani"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "akanywesha"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "kama vilindi"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "vikuu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:16.934258923Z",
+  "model": "glm-5.2"
+}

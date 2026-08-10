@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 112,
+  "translation": "Msifuni Yah! Heri ⟨ni ya⟩ mtu anayemwogopa Yahweh, ambaye katika amri zake anafurahi sana.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Msifuni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Heri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "anayemwogopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "katika amri zake"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "anafurahi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:20.525388111Z",
+  "model": "glm-5.2"
+}

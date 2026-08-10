@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na sasa, barua hii ikiwa imefika kwenu, na ⟨את⟩ pamo nanyi, wana wa bwana zenu; na ⟨את⟩ pamo nanyi, magari na farasi, na mji uliokingwa, na silaha;",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na sasa"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "ikiwa imefika"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "barua"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "pamo nanyi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "bwana zenu"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "pamo nanyi"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "magari"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "na farasi"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "na mji"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "uliokingwa"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "na silaha"
+    }
+  ],
+  "timestamp": "2026-08-10T11:48:15.878887897Z",
+  "model": "glm-5.2"
+}

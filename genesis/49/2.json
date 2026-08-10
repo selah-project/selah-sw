@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Kusanyikeni, nanyi sikilizeni, wana wa Yaakov; nanyi sikilizeni kwa Yisrael, baba yenu.",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "kusanyikeni"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "nanyi sikilizeni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "wa Yaakov"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "nanyi sikilizeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "baba yenu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:51:15.661198043Z",
+  "model": "glm-5.2"
+}

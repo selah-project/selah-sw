@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Yahweh akawaambia wana wa Israeli: Je, si kutoka Mitsrayim na kutoka wa Emori na kutoka wana wa Amoni na kutoka wa Pelishti?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akawaambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Je, si"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kutoka Mitsrayim"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na kutoka"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wa Emori"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na kutoka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na kutoka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wa Pelishti"
+    }
+  ],
+  "timestamp": "2026-08-10T11:14:28.613185834Z",
+  "model": "glm-5.2"
+}

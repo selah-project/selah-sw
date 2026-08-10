@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na kutoka kabila la Binjamin: ⟨את⟩ Gibon na ⟨את⟩ mifereji yake, ⟨את⟩ Geba na ⟨את⟩ mifereji yake.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "na kutoka kabila"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mifereji yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mifereji yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mifereji yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mifereji yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:10:42.779840233Z",
+  "model": "glm-5.2"
+}

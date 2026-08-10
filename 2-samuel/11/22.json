@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Mjumbe akaenda, akaja, akamwambia David ⟨את⟩ yote ambazo Yoab alikuwa amemtuma.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mjumbe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaja"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "amemtuma"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    }
+  ],
+  "timestamp": "2026-08-10T14:55:20.287064172Z",
+  "model": "glm-5.2"
+}

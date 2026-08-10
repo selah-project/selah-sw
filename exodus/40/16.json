@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Na Moshe akafanya; kulingana na yote aliyoamuru Yahweh ⟨את⟩ yeye, ndivyo alivyofanya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Na Moshe akafanya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kulingana na yote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliyo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alivyofanya"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:41.360679192Z",
+  "model": "glm-5.2"
+}

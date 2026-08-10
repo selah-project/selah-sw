@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Akayavisha upepo wa mashariki katika mbingu, na kwa nguvu zake akaongoza upepo wa kusini.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "Akayavisha"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "upepo wa mashariki"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "katika mbingu"
+    },
+    {
+      "surface": "ונהג",
+      "gloss": "na ... akaongoza"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "kwa nguvu zake"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "upepo wa kusini"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:13.262807628Z",
+  "model": "glm-5.2"
+}

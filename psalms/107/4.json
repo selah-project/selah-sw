@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Walipotea jangwani, njia ya ukiwani; mji wa makao hawakuupata.",
+  "tokens": [
+    {
+      "surface": "תָּע֣וּ",
+      "gloss": "Walipotea"
+    },
+    {
+      "surface": "בַ֭מִּדְבָּר",
+      "gloss": "jangwani"
+    },
+    {
+      "surface": "בִּישִׁימ֣וֹן",
+      "gloss": "ukiwani"
+    },
+    {
+      "surface": "דָּ֑רֶךְ",
+      "gloss": "njia"
+    },
+    {
+      "surface": "עִ֥יר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "מוֹשָׁ֗ב",
+      "gloss": "wa makao"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "hawaku-"
+    },
+    {
+      "surface": "מָצָֽאוּ",
+      "gloss": "-pata"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:47.112406150Z",
+  "model": "glm-5.2"
+}

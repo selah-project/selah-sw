@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Akawaambia Yosef siku ya tatu: \"Fanyeni hivi nanyi mtaishi, maana mimi namcha ⟨את⟩ Elohim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akawaambia"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku ya"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Fanyeni"
+    },
+    {
+      "surface": "ויחיו",
+      "gloss": "nanyi mtaishi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "namcha"
+    }
+  ],
+  "timestamp": "2026-08-10T10:14:16.351256177Z",
+  "model": "glm-5.2"
+}

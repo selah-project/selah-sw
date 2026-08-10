@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na wazee wote wa mji huo wa karibu na ⟨aliouawa⟩ wataosha mikono yao juu ya ndama yule ⟨aliyenyanguliwa⟩ kichwa katika mto.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "wazee wa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "huyo"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "wa karibu na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "aliouawa"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "wataosha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikono yao"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mikono yao"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ndama yule"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "aliyenyanguliwa kichwa"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "katika mto"
+    }
+  ],
+  "timestamp": "2026-08-10T14:43:23.526878110Z",
+  "model": "glm-5.2"
+}

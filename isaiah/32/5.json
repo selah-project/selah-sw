@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Tena ⟨hata tena⟩ mchuza huitwi mwema, na mchuza huitwi mkuu.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "si"
+    },
+    {
+      "surface": "יִקָּרֵ֥א",
+      "gloss": "huitwi"
+    },
+    {
+      "surface": "ע֛וֹד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "לְנָבָ֖ל",
+      "gloss": "mchuza"
+    },
+    {
+      "surface": "נָדִ֑יב",
+      "gloss": "mwema"
+    },
+    {
+      "surface": "וּלְכִילַ֕י",
+      "gloss": "na mchuza"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "si"
+    },
+    {
+      "surface": "יֵֽאָמֵ֖ר",
+      "gloss": "huitwi"
+    },
+    {
+      "surface": "שֽׁוֹעַ",
+      "gloss": "mkuu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:02:35.757746251Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Nikamtuma ⟨את⟩ Moshe na ⟨את⟩ Aharoni, nikaupiga Mitsrayim kama nilivyofanya kati yake, na baada ya hayo nikawatoa ⟨את⟩ ninyi.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "nikamtuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "nikaupiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nilivyofanya"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "kati yake"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "na baada ya hayo"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "nikawatoa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninyi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:11:47.418349187Z",
+  "model": "glm-5.2"
+}

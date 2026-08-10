@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Akapumua pumushi la mwisho, akafa Avraham katika uzee mwema, mzee na aliyeshiba siku, naye akaikusanywa kwa watu wake.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "akapumua pumushi la mwisho"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "katika uzee"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "mwema"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "mzee"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "na aliye shiba"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "akawaikusanywa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "watu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:07:36.333870731Z",
+  "model": "glm-5.2"
+}

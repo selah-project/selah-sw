@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "habakkuk 2:8",
+  "book": "habakkuk",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Kwa sababu wewe umenyang'anya mataifa mengi, yote mabaki ya watu watakunyang'anya — kwa sababu ya damu za binadamu na chuki ya nchi, mji, na wote wanaoishi humo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa sababu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "שלות",
+      "gloss": "umenyang'anya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mengi"
+    },
+    {
+      "surface": "ישלוך",
+      "gloss": "watakunyang'anya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "mabaki"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ya watu"
+    },
+    {
+      "surface": "מדמי",
+      "gloss": "kwa sababu ya damu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "za binadamu"
+    },
+    {
+      "surface": "וחמס",
+      "gloss": "na chuki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya nchi"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "mji"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wanaoishi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "humo"
+    }
+  ],
+  "timestamp": "2026-08-10T12:49:46.258261235Z",
+  "model": "glm-5.2"
+}

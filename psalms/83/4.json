@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 83,
+  "translation": "Dhidi ya taifa lako wanafanya siri, na kushauriana dhidi ya walioko chini ya ulinzi wako.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Dhidi ya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "taifa lako"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "wanafanya"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "siri"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "na kushauriana"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhidi ya"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "walioko chini ya ulinzi wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:04.119894832Z",
+  "model": "glm-5.2"
+}

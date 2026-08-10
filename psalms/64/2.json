@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 64,
+  "translation": "Sikia, Elohim, sauti yangu katika maneno yangu; uilinde ⟨nafsi⟩ yangu kutoka kwa woga wa adui.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Sikia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "sauti yangu"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "katika maneno yangu"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "kutoka kwa woga wa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "adui"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "uilinde"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "⟨nafsi⟩ yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:56.971899304Z",
+  "model": "glm-5.2"
+}

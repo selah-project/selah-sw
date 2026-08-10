@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na akamwambia mjumbe wa Yahweh: Rudi kwa bwiyako mke, na kujinyenyekea chini ya mikono yake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akamwambia"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mjumbe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "Rudi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "bwiyako mke"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "na kujinyenyekea"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "mikono yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:04:35.685594876Z",
+  "model": "glm-5.2"
+}

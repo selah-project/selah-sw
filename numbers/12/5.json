@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na Yahweh akashuka katika nguzo ya wingu, akasimama mlangoni pa ⟨hema⟩, na akamwita Aharon na Miryam, nao wawili wakatoka.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "akashuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "katika nguzo ya"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "wingu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "akasimama"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mlangoni pa"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "⟨hema⟩"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na akamwita"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "na Miryam"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "wakatoka"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wawili"
+    }
+  ],
+  "timestamp": "2026-08-10T15:55:28.758144228Z",
+  "model": "glm-5.2"
+}

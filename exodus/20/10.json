@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "na siku ya saba ⟨hiyo⟩ ni shaba ya Yahweh Elohim wako; ⟨wewe⟩ usifanye kazi yoyote — wewe na mwana wako na binti yako, mtumishi wako na mjakazi wako na mnyama wako na mgeni wako aliye ndani ya milango yako.",
+  "tokens": [
+    {
+      "surface": "וְי֨וֹם֙",
+      "gloss": "na siku"
+    },
+    {
+      "surface": "הַשְּׁבִיעִ֔י",
+      "gloss": "ya saba"
+    },
+    {
+      "surface": "שַׁבָּ֖ת",
+      "gloss": "shaba"
+    },
+    {
+      "surface": "לַיהוָ֣ה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶ֑יךָ",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "לֹֽ֣א",
+      "gloss": "si"
+    },
+    {
+      "surface": "תַעֲשֶׂ֨ה",
+      "gloss": "ufanye"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "yoyote"
+    },
+    {
+      "surface": "מְלָאכָ֜ה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "וּבִנְךָֽ֣",
+      "gloss": "na mwana wako"
+    },
+    {
+      "surface": "וּבִתֶּ֗ךָ",
+      "gloss": "na binti yako"
+    },
+    {
+      "surface": "עַבְדְּךָ֤",
+      "gloss": "mtumishi wako"
+    },
+    {
+      "surface": "וַאֲמָֽתְךָ֙",
+      "gloss": "na mjakazi wako"
+    },
+    {
+      "surface": "וּבְהֶמְתֶּ֔ךָ",
+      "gloss": "na mnyama wako"
+    },
+    {
+      "surface": "וְגֵרְךָ֖",
+      "gloss": "na mgeni wako"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "aliye"
+    },
+    {
+      "surface": "בִּשְׁעָרֶֽיךָ",
+      "gloss": "ndani ya milango yako"
+    }
+  ],
+  "timestamp": "2026-08-10T10:23:01.995039921Z",
+  "model": "glm-5.2"
+}

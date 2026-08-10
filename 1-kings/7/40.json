@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 7:40",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Hiram akafanya ⟨את⟩ vyombo, na ⟨את⟩ mapazia, na ⟨את⟩ bakuli; Hiram akamaliza kufanya ⟨את⟩ kazi yote ile aliyoifanya kwa mfalme Shelomoh ⟨kwa⟩ nyumba ya Yahweh.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֣עַשׂ",
+      "gloss": "akafanya"
+    },
+    {
+      "surface": "חִיר֔וֹם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "vyombo"
+    },
+    {
+      "surface": "הַכִּיֹּר֔וֹת",
+      "gloss": "vyombo"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mapazia"
+    },
+    {
+      "surface": "הַיָּעִ֖ים",
+      "gloss": "mapazia"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bakuli"
+    },
+    {
+      "surface": "הַמִּזְרָק֑וֹת",
+      "gloss": "bakuli"
+    },
+    {
+      "surface": "וַיְכַ֣ל",
+      "gloss": "akamaliza"
+    },
+    {
+      "surface": "חִירָ֗ם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "לַֽעֲשׂוֹת֙",
+      "gloss": "kufanya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kazi yote"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הַמְּלָאכָ֔ה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "ile"
+    },
+    {
+      "surface": "עָשָׂ֛ה",
+      "gloss": "aliyoifanya"
+    },
+    {
+      "surface": "לַמֶּ֥לֶךְ",
+      "gloss": "kwa mfalme"
+    },
+    {
+      "surface": "שְׁלֹמֹ֖ה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "ya Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:59:09.303196065Z",
+  "model": "glm-5.2"
+}

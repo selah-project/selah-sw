@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Nguvu zenu zitatumika bure, nchi yenu haitatoa ⟨את⟩ mavuno yake, na miti ya nchi haitatoi matunda yake.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "zitatumika"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "bure"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "nguvu zenu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "haitatoa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "haitatoa"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "nchi yenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mavuno yake"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "mavuno yake"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "na miti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya nchi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haitatoi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "haitatoi"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "matunda yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:36:24.950217651Z",
+  "model": "glm-5.2"
+}

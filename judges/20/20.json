@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Watu wa Yisra'eli wakatoka kwenda kupigana vita na Binyamin, na watu wa Yisra'eli wakapanga ⟨את⟩ vita mbele ya Gibeah.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "wakatoka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Watu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kwenda kupigana vita"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "wakapanga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "vita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "watu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "vita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibeah"
+    }
+  ],
+  "timestamp": "2026-08-10T11:18:57.756948793Z",
+  "model": "glm-5.2"
+}

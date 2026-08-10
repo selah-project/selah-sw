@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Wakaidhi nchi ya kupendwa, hawakuamini neno lake.",
+  "tokens": [
+    {
+      "surface": "וַֽ֭יִּמְאֲסוּ",
+      "gloss": "Wakaidhi"
+    },
+    {
+      "surface": "בְּאֶ֣רֶץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "חֶמְדָּ֑ה",
+      "gloss": "ya kupendwa"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "hawaku"
+    },
+    {
+      "surface": "הֶ֝אֱמִ֗ינוּ",
+      "gloss": "amini"
+    },
+    {
+      "surface": "לִדְבָרֽוֹ",
+      "gloss": "neno lake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:00.093761298Z",
+  "model": "glm-5.2"
+}

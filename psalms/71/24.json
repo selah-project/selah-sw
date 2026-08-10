@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 71,
+  "translation": "Na ulimi wangu pia, siku nzima, utautamka haki yako; maana wameaibu, maana wamehuzunika, wanaotafuta shari yangu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "na ulimi wangu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nzima"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "utautamka"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "haki yako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "wameaibu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "wamehuzunika"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "wanaotafuta"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "shari yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:19.705190562Z",
+  "model": "glm-5.2"
+}

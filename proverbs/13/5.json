@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Neno la uongo mwenye haki huichukia, na mwenye uovu hutoa harufu mbaya na huleta aibu.",
+  "tokens": [
+    {
+      "surface": "דְּבַר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "שֶׁ֭קֶר",
+      "gloss": "uongo"
+    },
+    {
+      "surface": "יִשְׂנָ֣א",
+      "gloss": "huichukia"
+    },
+    {
+      "surface": "צַדִּ֑יק",
+      "gloss": "mwenye haki"
+    },
+    {
+      "surface": "וְ֝רָשָׁ֗ע",
+      "gloss": "na mwenye uovu"
+    },
+    {
+      "surface": "יַבְאִ֥ישׁ",
+      "gloss": "hutoa harufu mbaya"
+    },
+    {
+      "surface": "וְיַחְפִּֽיר",
+      "gloss": "na huleta aibu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:31:04.462175326Z",
+  "model": "glm-5.2"
+}

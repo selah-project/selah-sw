@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Nikamwambia mjumbe ⟨aliye⟩ anenaye nami: Hawa wanaendaje na ⟨את⟩ efa?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nikamwambia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mjumbe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "anenaye"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "wanaendaje"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efa"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:18.940420547Z",
+  "model": "glm-5.2"
+}

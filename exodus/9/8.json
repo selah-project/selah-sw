@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 9:8",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Yahweh akamwambia Moshe na Aharon: Chukueni mkono wenu uliojaa majivu ya tanuru, na Moshe ayatupie mbinguni mbele za macho ya Paroh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Chukueni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ujao"
+    },
+    {
+      "surface": "חפניכם",
+      "gloss": "mkono wenu"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "majivu"
+    },
+    {
+      "surface": "כבשן",
+      "gloss": "ya tanuru"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ayatupie"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "mbinguni"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "mbele za macho"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Paroh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:28:27.664130172Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Atasumbuka vibaya kwa kuwa dhamini ya mgeni, lakini anayechukia kushika mikano ⟨hufanya⟩ kwa kujiamini.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "vibaya"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "Atasumbuka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "dhamini ya"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mgeni"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "lakini anayechukia"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "kushika mikano"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "kwa kujiamini"
+    }
+  ],
+  "timestamp": "2026-08-10T13:25:17.149898728Z",
+  "model": "glm-5.2"
+}

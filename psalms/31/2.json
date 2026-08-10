@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Ndani yako, Yahweh, nimejificha; asinishangilie kamwe; kwa haki yako niokoe.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Ndani yako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nimejificha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asi"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "nishangilie"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kamwe"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "kwa haki yako"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "niokoe"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:18.544498600Z",
+  "model": "glm-5.2"
+}

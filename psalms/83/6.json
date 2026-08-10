@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 83,
+  "translation": "Kwa kuwa wamefanya shauri kwa moyo pamoja, dhidi yako ⟨amekata⟩ agano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "wamefanya shauri"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kwa moyo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dhidi yako"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "agano"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "⟨amekata⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:02.744564830Z",
+  "model": "glm-5.2"
+}

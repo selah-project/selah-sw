@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na David akaendelea kwenda na kukuwa mkubwa, na Yahweh wa majeshi ⟨alikuwa⟩ pamoja naye.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "na akaendelea kwenda"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "kwenda"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "na kukuwa mkubwa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wa majeshi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja naye"
+    }
+  ],
+  "timestamp": "2026-08-10T14:06:55.883091155Z",
+  "model": "glm-5.2"
+}

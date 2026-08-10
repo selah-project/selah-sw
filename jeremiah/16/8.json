@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na nyumbani mwa karamu usiingie kukaa ⟨na⟨⟩ wao, kula na kunywa.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "na nyumbani mwa"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "karamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ingie"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kukaa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kula"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "na kunywa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:13:59.940961675Z",
+  "model": "glm-5.2"
+}

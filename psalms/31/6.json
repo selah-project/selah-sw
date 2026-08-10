@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Mkono wako ninaikabidhi roho yangu; umenikomboa, Yahweh, El wa ⟨siri⟩.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Mkono wako"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "ninaikabidhi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "roho yangu"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "umenikomboa"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ni",
+      "marks": "ni (kiendeshi cha 'umenikomboa')"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "wa siri"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:27.264286502Z",
+  "model": "glm-5.2"
+}

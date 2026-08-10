@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Kile ambacho kilikuwa, tayari ⟨kipo⟩; na kile ambacho kuja, tayari kilikuwa; na Elohim anatafuta ⟨את⟩ yule anayekimbiliwa.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kile"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ambacho kilikuwa"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "tayari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kipo⟩"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na kile ambacho"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuja"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "tayari"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kilikuwa"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "anatafuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yule anayekimbiliwa"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "yule anayekimbiliwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:44.661235248Z",
+  "model": "glm-5.2"
+}

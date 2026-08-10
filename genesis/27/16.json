@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Na ⟨⟨את⟩ ngozi za wana-mbuzi akamzongia mikono yake, na sehemu tambarare ya shingo yake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "ngozi"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "ngozi za"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "wana-mbuzi"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "za mbuzi"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "akamzongia"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "mikono yake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "sehemu tambarare ya"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "shingo yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:08:20.436637886Z",
+  "model": "glm-5.2"
+}

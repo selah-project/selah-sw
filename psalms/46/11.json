@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 46,
+  "translation": "Acheni, na jueni ya kwamba mimi ni Elohim; nitainuliwa juu katika mataifa, nitainuliwa juu katika ⟨nchi⟩.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Acheni"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "na jueni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "nitainuliwa juu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "katika mataifa"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "nitainuliwa juu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika ⟨nchi⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:25.853032793Z",
+  "model": "glm-5.2"
+}

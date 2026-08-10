@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Usitwae kutoka kwake ⟨את⟩ riba wala faida, na uombee kutokea kwa Elohim wako, na ndugu yango akae nawe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "itwae"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "kutoka kwake ⟨את⟩",
+      "marks": "riba wala faida"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "riba"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "wala faida"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "na uombee kutokea kwa"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "na akae"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ndugu yako"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nawe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:54.449228569Z",
+  "model": "glm-5.2"
+}

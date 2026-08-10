@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Sema tafadhali, ⟨wewe ni⟩ dada yangu, ili niwe vizuri kwa ajili yako, na nafsi yango ihai kwa ajili yako.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "sema"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "dada yangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨wewe ni⟩",
+      "marks": "dada yangu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ili"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "niwe vizuri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "kwa ajili yako"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "na ihai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yango"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "kwa ajili yako"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:51.321448387Z",
+  "model": "glm-5.2"
+}

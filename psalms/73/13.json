@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 73,
+  "translation": "Kwa hakika kwa ubatilifu nimetakasa moyo wangu, nami kwa usafi nimeosha mikono yangu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kwa hakika"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "kwa ubatilifu"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "nimetakasa"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "nami nimeosha"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "kwa usafi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mikono yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:49.154660640Z",
+  "model": "glm-5.2"
+}

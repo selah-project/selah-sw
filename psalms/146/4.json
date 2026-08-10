@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 146,
+  "translation": "Roho yake inatoka, ⟨yeye⟩ harudi kwenye udongo wake; siku hiyo huondoka mawazo yake yote.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "inatoka"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "Roho yake"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "harudi"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "kwenye udongo wake"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "Siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "huondoka"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "mawazo yake yote"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:17.649805987Z",
+  "model": "glm-5.2"
+}

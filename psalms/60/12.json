@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 60,
+  "translation": "Je, si wewe, Elohim, uliyetukatalia? Na wewe, Elohim, hutoki ⟨pamoja na⟩ majeshi yetu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "je, si"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "uliyetukatalia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na (hu)to"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "oki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "majeshi yetu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:36.306467654Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 144,
+  "translation": "Niokoe na uniokoe kutoka mkono wa wana wa geni, ambao midomo yao husema ubatilifu, na mkono wao wa kulia ni mkono wa uongo.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Niokoe"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "na uniokoe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kutoka mkono"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa wana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wa geni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "midomo yao"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "husema"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ubatilifu"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "na mkono wao wa kulia"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ni mkono"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "wa uongo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:50.530872648Z",
+  "model": "glm-5.2"
+}

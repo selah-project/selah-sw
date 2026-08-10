@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 94,
+  "translation": "Na Yahweh amekuwa kwangu ⟨ni⟩ ngome yangu, na Elohim wangu ⟨ni⟩ mwamba wa kimbilio changu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na amekuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "⟨ni⟩ ngome yangu"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "na Elohim wangu"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "⟨ni⟩ mwamba wa"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "kimbilio changu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:06.623040955Z",
+  "model": "glm-5.2"
+}

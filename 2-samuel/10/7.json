@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "David akasikia, naye akamtuma ⟨את⟩ Yoabu pamoja na ⟨את⟩ jeshi lote la mashujaa.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akasikia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "naye akamtuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoabu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "pamoja na ⟨את⟩",
+      "marks": "jeshi lote la mashujaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lote"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "la jeshi"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "la mashujaa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:30:49.006183285Z",
+  "model": "glm-5.2"
+}

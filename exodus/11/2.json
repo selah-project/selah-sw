@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Sema tafadhali masikioni mwa ⟨ha⟩-taifa, na waulize kila mwanamume ⟨את⟩ rafiki yake, na kila mwanamke ⟨את⟩ rafiki yake, vyombo vya fedha na vyombo vya dhahabu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "sema"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "masikioni mwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "na waulize"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mwanamume"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "rafiki yake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "rafiki yake"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "na kila mwanamke"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "rafiki yake"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "rafiki yake"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vyombo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "na vyombo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahabu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:48.936814325Z",
+  "model": "glm-5.2"
+}

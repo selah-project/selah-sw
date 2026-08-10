@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Mifupa yangu yote itasema, Yahweh, ni nani kama wewe, anayemwokoa mnyenyekevu kutoka kwa yeye aliye na nguvu kuliko yeye, na mnyenyekevu na maskini kutoka kwa mnyang'anyi wake?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "Mifupa yangu"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "itasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kama wewe"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "anayemwokoa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mnyenyekevu"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "kutoka kwa yeye aliye na nguvu kuliko"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "na mnyenyekevu"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na maskini"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "kutoka kwa mnyang'anyi wake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:50.357332749Z",
+  "model": "glm-5.2"
+}

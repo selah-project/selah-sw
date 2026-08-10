@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Mitsrayim alimzaa ⟨את⟩ Ludim na ⟨את⟩ Anamim na ⟨את⟩ Lehabim na ⟨את⟩ Naftukim.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Na Mitsrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludim"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Ludim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Anamim"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Lehabim"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehabim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Naftukim"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftukim"
+    }
+  ],
+  "timestamp": "2026-08-10T14:02:56.223174706Z",
+  "model": "glm-5.2"
+}

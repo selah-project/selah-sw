@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na Yehoshua akasema kwa wana wa Yisra'el: Nideni huku, na kusikiliza ⟨את⟩ maneno ya Yahweh, Elohim wenu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "nideni"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "huku"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "na kusikiliza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Ya Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:05:11.831388024Z",
+  "model": "glm-5.2"
+}

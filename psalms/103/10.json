@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 103,
+  "translation": "Hafanyi kufuatana na makosa yetu ⟨⟨kwetu⟩⟩, wala hafanyi kufuatana na uovu wetu kulipwa ⟨⟨juu yetu⟩⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hafanyi"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "kufuatana na makosa yetu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Hafanyi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨kwetu⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hafanyi"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "kufuatana na uovu wetu"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "kulipwa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "⟨juu yetu⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:53.453790378Z",
+  "model": "glm-5.2"
+}

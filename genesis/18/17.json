@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na Yahweh akasema: Je, nifiche mimi kutoka kwa Avraham yale ambayo mimi ninatenda?",
+  "tokens": [
+    {
+      "surface": "וַֽיהֹוָ֖ה",
+      "gloss": "Na Yahweh"
+    },
+    {
+      "surface": "אָמָ֑ר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "הַֽמְכַסֶּ֤ה",
+      "gloss": "Je, nifiche"
+    },
+    {
+      "surface": "אֲנִי֙",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "מֵֽאַבְרָהָ֔ם",
+      "gloss": "kutoka kwa Avraham"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "yale ambayo"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "עֹשֶֽׂה",
+      "gloss": "ninatenda"
+    }
+  ],
+  "timestamp": "2026-08-10T10:04:42.619960951Z",
+  "model": "glm-5.2"
+}

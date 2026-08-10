@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Mpendaesa áliye mwenye kumpenda mafunzo ⟨huwa⟩ mpendaesa wa maarifa, na mwenye kuchukia reproof ⟨yeye⟩ ⟨ni⟩ mpumbavu.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ampenda"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mafundo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "anampenda"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "maarifa"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "na anaye chukia"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "reproof"
+    },
+    {
+      "surface": "בער",
+      "gloss": "mpumbavu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:24:53.493652413Z",
+  "model": "glm-5.2"
+}

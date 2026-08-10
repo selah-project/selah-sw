@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Akasema kwa watu wake: Angalieni, watu wa wana wa Yisraeli ⟨ni⟩ wengi na wenye nguvu kuliko sisi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "watu wake"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "angalieni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "na wenye nguvu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuliko sisi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:05.332654800Z",
+  "model": "glm-5.2"
+}

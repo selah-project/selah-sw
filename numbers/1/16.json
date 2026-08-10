@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Hawa ndio walioitwa wa kusanyiko, wakuu wa kabila za baba zao; hao ndio machifu wa maelfu ⟨ya⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Hawa"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "walioitwa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "wa kusanyiko"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "wakuu"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "wa kabila"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "za baba zao"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "machifu"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "wa maelfu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hao ndio"
+    }
+  ],
+  "timestamp": "2026-08-10T10:39:45.239890430Z",
+  "model": "glm-5.2"
+}

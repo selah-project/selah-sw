@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Hivyo mfalume Shelomoh akawa mkubwa kuliko wafalme wote wa nchi, katika utajiri na katika hekima.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "akawa mkubwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalume"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuliko wote"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "katika utajiri"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "na katika hekima"
+    }
+  ],
+  "timestamp": "2026-08-10T11:40:49.378441207Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Na kuhani atavipeperusha ⟨את⟩ pamoja na mkate wa matunda ya kwanza kuwa ofa ya kupeperushwa mbele za Yahweh, pamoja na kondoo wawili; ni kitu kitakatifu kwa Yahweh, ni cha kuhani.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "Na kuhani atavipeperusha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": ""
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kondoo wawili na mkate"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "wa matunda ya kwanza"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "kuwa ofa ya kupeperushwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "kondoo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ni kitu kitakatifu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": ""
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ni cha kuhani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:48.730961549Z",
+  "model": "glm-5.2"
+}

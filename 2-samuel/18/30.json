@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na mfalme akasema: Jitenge, simama hapa. Naye akajitenga na akasimama.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "סב",
+      "gloss": "jitenge"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "simama"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hapa"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "na akajitenga"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "na akasimama"
+    }
+  ],
+  "timestamp": "2026-08-10T16:01:54.160979711Z",
+  "model": "glm-5.2"
+}

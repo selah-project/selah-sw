@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 120,
+  "translation": "Siku nyingi sana nefesh yangu imekaa pamoja na mchuki wa shalom.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "siku nyingi sana"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "imekaa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨wake⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh yangu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "mchuki"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "wa shalom"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:10.518009243Z",
+  "model": "glm-5.2"
+}

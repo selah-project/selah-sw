@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 99,
+  "translation": "Mwinueni Yahweh Elohim wetu, na kusujudu ⟨kwenye⟩ mlima wa utakatifu wake, kwa kuwa mtakatifu ⟨ni⟩ Yahweh Elohim wetu.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Mwinueni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "na kusujudu"
+    },
+    {
+      "surface": "להר",
+      "gloss": "⟨kwenye⟩ mlima"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "wa utakatifu wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mtakatifu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:26.960712283Z",
+  "model": "glm-5.2"
+}

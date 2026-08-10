@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Nayo Eliyahu akawaambia watu wote, «Nisogeeni karibu nami.» Basi watu wote wakamsogelea karibu, naye akatengeneza ⟨את⟩ madhabahu ya Yahweh iliyoanguka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akawaambia"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa watu wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": ""
+    },
+    {
+      "surface": "גשו",
+      "gloss": "nisogeeni karibu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "wakamsogelea karibu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "watu wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": ""
+    },
+    {
+      "surface": "אליו",
+      "gloss": "karibu naye"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "naye akatengeneza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madhabahu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "iliyoanguka"
+    }
+  ],
+  "timestamp": "2026-08-10T18:00:11.766765Z",
+  "model": "glm-5.2"
+}

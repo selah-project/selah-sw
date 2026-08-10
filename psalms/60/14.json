@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 60,
+  "translation": "Kwa Elohim tutatenda matendo ya ushujaa, naye ⟨ndiye⟩ atakayetuanga adui zetu.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Kwa Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tutatenda"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "matendo ya ushujaa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "naye"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "atakayetuanga"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "adui zetu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:25.778087121Z",
+  "model": "glm-5.2"
+}

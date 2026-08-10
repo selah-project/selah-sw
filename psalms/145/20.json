@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 145,
+  "translation": "Yahweh huhifadhi ⟨את⟩ wote wanaompenda, na ⟨את⟩ waovu wote atawaharibu.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "huhifadhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wote wanaompenda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "wanaompenda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "waovu wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "waovu"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "atawaharibu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:52.681330718Z",
+  "model": "glm-5.2"
+}

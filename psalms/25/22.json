@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Elohim, mwokoe ⟨את⟩ Yisraeli kutoka shida zake zote.",
+  "tokens": [
+    {
+      "surface": "פְּדֵה",
+      "gloss": "mwokoe"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "מִכֹּל",
+      "gloss": "kutoka zote"
+    },
+    {
+      "surface": "צָרֹתָיו",
+      "gloss": "shida zake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:03.339328323Z",
+  "model": "glm-5.2"
+}

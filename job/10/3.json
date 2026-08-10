@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 10:3",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Je, ni vizuri kwako kudhulumu, kwa kuwa unadharau kazi ya mikono yako, na juu ya mpango wa waovu kuangaza?",
+  "tokens": [
+    {
+      "surface": "הֲט֤וֹב",
+      "gloss": "Je, ni vizuri"
+    },
+    {
+      "surface": "לְךָ֨",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "תַעֲשֹׁ֗ק",
+      "gloss": "kudhulumu"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "תִ֭מְאַס",
+      "gloss": "unadharau"
+    },
+    {
+      "surface": "יְגִ֣יעַ",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "כַּפֶּ֑יךָ",
+      "gloss": "ya mikono yako"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "na juu ya"
+    },
+    {
+      "surface": "עֲצַ֖ת",
+      "gloss": "mpango"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "wa waovu"
+    },
+    {
+      "surface": "הוֹפָֽעְתָּ",
+      "gloss": "kuangaza"
+    }
+  ],
+  "timestamp": "2026-08-10T13:33:32.680102596Z",
+  "model": "glm-5.2"
+}

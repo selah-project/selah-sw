@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Akavileta ⟨את⟩ vitu vitakatifu vya baba yake na vitu vyake vitakatifu nyumbani kwa Elohim: fedha, dhahabu, na vyombo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Akavileta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vitu vitakatifu vya baba yake"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "vitu vitakatifu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "vya baba yake"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "na vitu vyake vitakatifu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumbani"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "na vyombo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:45:09.511999794Z",
+  "model": "glm-5.2"
+}

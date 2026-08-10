@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 95,
+  "translation": "Msifanye migumu moyo wenu kama Meriba, kama siku ya Massa jangwani.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "msi"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "fanye migumu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "moyo wenu"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "kama Meriba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kama siku"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "ya Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "jangwani"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:06.052436118Z",
+  "model": "glm-5.2"
+}

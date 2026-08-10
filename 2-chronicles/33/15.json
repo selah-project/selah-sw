@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Akaondoa ⟨את⟩ miungu ya kigeni na ⟨את⟩ sanamu hiyo kutoka nyumbani mwa Yahweh, na madhabahu yote aliyojenga katika mlima wa nyumba ya Yahweh na Yerushalayim, akavitupa nje ya mji.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "akaondoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miungu ya kigeni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "miungu"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ya kigeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "sanamu hiyo"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "sanamu hiyo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kutoka nyumbani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "mwa Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yote"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliyojenga"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "aliyojenga"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "katika mlima"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wa nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "akavitupa"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "nje"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ya mji"
+    }
+  ],
+  "timestamp": "2026-08-10T14:20:17.677689285Z",
+  "model": "glm-5.2"
+}

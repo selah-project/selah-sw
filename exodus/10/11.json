@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Si vivyo hivyo! Ninyi waume ndio nenda, mtumikie ⟨את⟩ Yahweh, kwa kuwa hicho ndicho mnachokitafuta. Naye akawafukuza ⟨את⟩ wao kutoka mbele za uso wa Paroh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ninyi waume"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "mtumikie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hicho"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hicho"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "mnachokitafuta"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "naye akawafukuza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ kutoka ⟨mbele za⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso wa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:10.197747307Z",
+  "model": "glm-5.2"
+}

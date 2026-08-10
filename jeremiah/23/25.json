@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Nimesikia ⟨את⟩ yale ambayo wamenena manabii, unabii katika jina langu uongo, wakisema: Niliota ndoto, niliota ndoto!",
+  "tokens": [
+    {
+      "surface": "שָׁמַ֗עְתִּי",
+      "gloss": "Nimesikia"
+    },
+    {
+      "surface": "אֵ֤ת",
+      "gloss": "⟨את⟩",
+      "marks": "yale ambayo"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "אָֽמְרוּ֙",
+      "gloss": "wamenena"
+    },
+    {
+      "surface": "הַנְּבִאִ֔ים",
+      "gloss": "manabii"
+    },
+    {
+      "surface": "הַֽנִּבְּאִ֥ים",
+      "gloss": "wana nabii"
+    },
+    {
+      "surface": "בִּשְׁמִ֛י",
+      "gloss": "katika jina langu"
+    },
+    {
+      "surface": "שֶׁ֖קֶר",
+      "gloss": "uongo"
+    },
+    {
+      "surface": "לֵאמֹ֑ר",
+      "gloss": "wakisema"
+    },
+    {
+      "surface": "חָלַ֖מְתִּי",
+      "gloss": "Niliota ndoto"
+    },
+    {
+      "surface": "חָלָֽמְתִּי",
+      "gloss": "Niliota ndoto"
+    }
+  ],
+  "timestamp": "2026-08-10T12:16:47.032912916Z",
+  "model": "glm-5.2"
+}

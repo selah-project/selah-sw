@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Hatuwezi kufanya ivi sitaona aibu ninapotazama ⟨kwa⟩ amri zako zote.",
+  "tokens": [
+    {
+      "surface": "אָז",
+      "gloss": "Hatuwezi kufanya ivi"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אֵבוֹשׁ",
+      "gloss": "taona aibu"
+    },
+    {
+      "surface": "בְּהַבִּיטִי",
+      "gloss": "ninapotazama"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "מִצְוֺתֶיךָ",
+      "gloss": "amri zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:38.955033891Z",
+  "model": "glm-5.2"
+}

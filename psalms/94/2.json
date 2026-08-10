@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 94,
+  "translation": "Inua ⟨enyewe⟩, ee Mwendesha-haki wa ⟨nchi⟩; rudisha malipo juu ya wajivuna.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Inua ⟨enyewe⟩"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Mwendesha-haki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa ⟨nchi⟩"
+    },
+    {
+      "surface": "השב",
+      "gloss": "rudisha"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "malipo"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "wajivuna"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:14.164046117Z",
+  "model": "glm-5.2"
+}

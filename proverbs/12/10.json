@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Mwenye haki anajua nefesh ya mnyama wake, na huruma za waovu ni ukatili.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "anajua"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Mwenye haki"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "ya mnyama wake"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "na huruma za"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "waovu"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "ni ukatili"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:52.235031250Z",
+  "model": "glm-5.2"
+}

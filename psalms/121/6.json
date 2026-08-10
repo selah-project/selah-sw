@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 121,
+  "translation": "Mchana jua hatakupiga, wala mwezi usiku.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Mchana"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "jua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hata"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "kupiga"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "wala mwezi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "usiku"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:47.747276258Z",
+  "model": "glm-5.2"
+}

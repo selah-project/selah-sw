@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 77,
+  "translation": "Ukomboza kwa ⟨kiuko⟩ jeshi umekuokoa, Wana wa Yaakov na Yosef. ⟨Selah⟩",
+  "tokens": [
+    {
+      "surface": "גָּאַ֣לְתָּ",
+      "gloss": "Ukomboza kwa umekuokoa"
+    },
+    {
+      "surface": "בִּזְרוֹעַ",
+      "gloss": "⟨kiuko⟩ jeshi"
+    },
+    {
+      "surface": "עַמֶּ֑ךָ",
+      "gloss": "(wewe uliyeokoa)"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "Wana wa"
+    },
+    {
+      "surface": "יַעֲקֹ֖ב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וְיוֹסֵ֣ף",
+      "gloss": "na Yosef"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "⟨Selah⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:18.645771158Z",
+  "model": "glm-5.2"
+}

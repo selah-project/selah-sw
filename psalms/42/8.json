@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Tehomi inaitia Tehomi, kwa sauti ya maporomoko yako ya maji; wote huwako mawimbi yako na maweko yako juu yangu yamepita.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Tehomi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inaitia"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "Tehomi"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "inaitia"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "kwa sauti"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "ya maporomoko yako ya maji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "mawimbi yako"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "na maweko yako"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "yamepita"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:47.446276179Z",
+  "model": "glm-5.2"
+}

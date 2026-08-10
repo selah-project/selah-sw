@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na mtoto akakuwa, akawachishwa nyonya; na Avrahamah alifanya karamu kubwa siku ile ya kumwachisha nyonya ⟨את⟩ Yitschak.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Na mtoto akakuwa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mtoto"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "akawachishwa nyonya"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "na akafanya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamah"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "karamu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku ile ya"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "kumwachisha nyonya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-10T15:49:44.200897860Z",
+  "model": "glm-5.2"
+}

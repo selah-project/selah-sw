@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Mwanzo wa ufalme wake ulikuwa Baveli na Ereki na Akadi na Kalnehi, katika nchi ya Shinari.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Na ulikuwa"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "mwanzo"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "wa ufalme wake"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baveli"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "na Ereki"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "na Akadi"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "na Kalnehi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "ya Shinari"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:33.801641836Z",
+  "model": "glm-5.2"
+}

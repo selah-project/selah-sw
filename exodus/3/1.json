@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na Moshe alikuwa akichunga ⟨את⟩ kundi la Yitro, mkwe wake, kuhani wa Midyani, akaiongesha ⟨את⟩ kundi nyuma ya jangwa, akaenda hadi mlima wa Elohim, Horeba.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Na Moshe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "alikuwa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "akichunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kundi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "la Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mkwe wake"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "wa Midyani"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "akaiongesha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kundi"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "jangwa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaenda hadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mlima"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "Horeba"
+    }
+  ],
+  "timestamp": "2026-08-10T10:17:34.534513866Z",
+  "model": "glm-5.2"
+}

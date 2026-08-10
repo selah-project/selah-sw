@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Tegemea Yahweh kwa moyo wako wote, na kwa ufahamu wako mwenyewe usiunge mkono.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Tegemea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa wote"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "ufahamu wako mwenyewe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "ungi mkono"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:59.081028489Z",
+  "model": "glm-5.2"
+}

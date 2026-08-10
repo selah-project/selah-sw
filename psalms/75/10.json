@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 75,
+  "translation": "Na mimi nitatangaza milele, nitaimba nyimbo kwa Mungu wa Yaakov.",
+  "tokens": [
+    {
+      "surface": "וַ֭אֲנִי",
+      "gloss": "na mimi"
+    },
+    {
+      "surface": "אַגִּ֣יד",
+      "gloss": "nitatangaza"
+    },
+    {
+      "surface": "לְעֹלָ֑ם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "אֲ֝זַמְּרָ֗ה",
+      "gloss": "nitaimba nyimbo"
+    },
+    {
+      "surface": "לֵאלֹהֵ֥י",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "יַעֲקֹֽב",
+      "gloss": "wa Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:21.206727019Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 8:8",
+  "book": "amos",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Kwa sababu ya jambo hili, je, nchi haitetemeka, nao wakaaji wote wake wataomboleza? Na ⟨nchi⟩ itainuka yote kama mto, na itafurika na kushuka kama Mto wa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "הַ֤עַל",
+      "gloss": "Kwa sababu ya"
+    },
+    {
+      "surface": "זֹאת֙",
+      "gloss": "jambo hiti"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "je, ⟨hata⟩"
+    },
+    {
+      "surface": "תִרְגַּ֣ז",
+      "gloss": "tetemeka"
+    },
+    {
+      "surface": "הָאָ֔רֶץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "וְאָבַ֖ל",
+      "gloss": "na wataomboleza"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "יוֹשֵׁ֣ב",
+      "gloss": "wakaaji"
+    },
+    {
+      "surface": "בָּ֑הּ",
+      "gloss": "wake"
+    },
+    {
+      "surface": "וְעָלְתָ֤ה",
+      "gloss": "na itainuka"
+    },
+    {
+      "surface": "כָאֹר֙",
+      "gloss": "kama mto"
+    },
+    {
+      "surface": "כֻּלָּ֔הּ",
+      "gloss": "yote"
+    },
+    {
+      "surface": "וְנִגְרְשָׁ֥ה",
+      "gloss": "na itafurika"
+    },
+    {
+      "surface": "ונשקה",
+      "gloss": "na kushuka"
+    },
+    {
+      "surface": "כִּיא֥וֹר",
+      "gloss": "kama Mto"
+    },
+    {
+      "surface": "מִצְרָֽיִם",
+      "gloss": "wa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T16:15:24.022208342Z",
+  "model": "glm-5.2"
+}

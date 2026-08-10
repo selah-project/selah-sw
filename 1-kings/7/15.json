@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Ndiyo akayapiga ⟨את⟩ nguzo mbili za shaba; dhiraa kumi na nane kimo cha nguzo moja, na kamba ya dhiraa kumi na mbili ilizunguka ⟨את⟩ nguzo ya pili.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "na akayapiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguzo mbili"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "nguzo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "za shaba"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "kumi na nane"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "↔"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dhiraa"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "kimo cha"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "nguzo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "na kamba"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kumi na mbili"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "↔"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dhiraa"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "ilizunguka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguzo"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "nguzo"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya pili"
+    }
+  ],
+  "timestamp": "2026-08-10T11:38:36.977065958Z",
+  "model": "glm-5.2"
+}

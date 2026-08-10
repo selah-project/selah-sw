@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 143,
+  "translation": "Na usiingie katika hukumu ⟨na⟩ mtumishi wako, kwa kuwa hakuna ⟨aliye⟩ hai atakayehesabiwa haki mbele zako.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Na usiingie"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": ""
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "katika hukumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtumishi wako"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mtumishi wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "atakayehesabiwa haki"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbele zako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "חי",
+      "gloss": "⟨aliye⟩ hai"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:25.159779683Z",
+  "model": "glm-5.2"
+}

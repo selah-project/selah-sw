@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na ⟨את⟩ vibeto, na ⟨את⟩ bakuli, ambavyo vilikuwa dhahabu, dhahabu, na ambavyo vilikuwa fedha, fedha, mkuu wa wachinjaji alivichukua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "viketo"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "viketo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bakuli"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "bakuli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambavyo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vilikuwa dhahabu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na ambavyo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "vilikuwa fedha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "alivichukua"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mkuu wa"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wachinjaji"
+    }
+  ],
+  "timestamp": "2026-08-10T11:53:23.805853533Z",
+  "model": "glm-5.2"
+}

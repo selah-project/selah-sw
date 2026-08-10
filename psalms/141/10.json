@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 141,
+  "translation": "Na waanguke wahalifu katika mitego yao ⟨wenyewe⟩; ⟨lakini⟩ mimi pamoja ⟨nayo⟩ ni salama mpaka nitakapopita.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Na waanguke"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "katika mitego yao"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wahalifu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "nitakapopita"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:41.721438842Z",
+  "model": "glm-5.2"
+}

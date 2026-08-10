@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na Reayah mwana wa Shobal alizaa ⟨את⟩ Yachath, na Yachath alizaa ⟨את⟩ Achumay na ⟨את⟩ Lahad. Hizi ndilo jamaa za Watsorathi.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Na Reayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shobal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yachath"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachath"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "na Yachath"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achumay"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Achumay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Hizi"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "jamaa"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "Watsorathi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:04:48.926166653Z",
+  "model": "glm-5.2"
+}

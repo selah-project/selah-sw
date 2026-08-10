@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Wana wa Shimon kwa koo zao: wa Nemueli, koo ya Wanemueli; wa Yamini, koo ya Wayamini; wa Yakini, koo ya Wayakini.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Wana wa"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kwa koo zao"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "wa Nemueli"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "koo ya"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "Wanemueli"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "wa Yamini"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "koo ya"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "Wayamini"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "wa Yakini"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "koo ya"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "Wayakini"
+    }
+  ],
+  "timestamp": "2026-08-10T10:49:05.233051648Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 20:20",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Kwa sababu hakujua raha tumboni mwake; kwa tamaa yake, hataokoa ⟨kitu⟩.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Kwa sababu"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "haku"
+    },
+    {
+      "surface": "יָדַ֣ע",
+      "gloss": "jua"
+    },
+    {
+      "surface": "שָׁלֵ֣ו",
+      "gloss": "raha"
+    },
+    {
+      "surface": "בְּבִטְנ֑וֹ",
+      "gloss": "tumboni mwake"
+    },
+    {
+      "surface": "בַּ֝חֲמוּד֗וֹ",
+      "gloss": "kwa tamaa yake"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "hata"
+    },
+    {
+      "surface": "יְמַלֵּֽט",
+      "gloss": "okoa ⟨kitu⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T13:35:43.620333611Z",
+  "model": "glm-5.2"
+}

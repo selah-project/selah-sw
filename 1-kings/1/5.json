@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 1:5",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Adonijah mwana wa Chaggith akajiinua, akisema: Mimi nitatawala. Naye akajiandikia magari na wapanda farasi, na watu hamsini walio kimbia mbele yake.",
+  "tokens": [
+    {
+      "surface": "ואדניה",
+      "gloss": "Na Adonijah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "wa Chaggith"
+    },
+    {
+      "surface": "מתנשא",
+      "gloss": "akajiinua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "אמלך",
+      "gloss": "nitatawala"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Naye akajiandikia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "magari"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "na wapanda farasi"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na hamsini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "watu"
+    },
+    {
+      "surface": "רצים",
+      "gloss": "walio kimbia"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbele yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:36:31.859299548Z",
+  "model": "glm-5.2"
+}

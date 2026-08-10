@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "na kuhani aliyepakwa ⟨at⟩ ataingiza damu ya fahali hadi hema ya mkutano",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "na ataingiza"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "aliyepakwa"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "damu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ya fahali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    }
+  ],
+  "timestamp": "2026-08-10T10:31:27.421006237Z",
+  "model": "glm-5.2"
+}

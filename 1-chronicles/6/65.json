@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na kutoka kabila la Gad ⟨את⟩ Ramoth bakiGileadi na ⟨את⟩ mirija yake, na ⟨את⟩ Machanayim na ⟨את⟩ mirija yake.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "na kutoka kabila la"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramoth"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Ramoth"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "bakiGileadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mirija yake"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mirija yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Machanayim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Machanayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mirija yake"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mirija yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:05:10.543419313Z",
+  "model": "glm-5.2"
+}

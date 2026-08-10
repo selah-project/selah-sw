@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "na sehemu mbili miongoni mwenu, wote wanaotoka ⟨kwenye⟩ Sabato, watalinda ⟨את⟩ ulinzi wa nyumba ya Yahweh pamoja na ⟨kuhusu⟩ mfalme.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "na sehemu mbili"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "miongoni"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mwenu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "wanaotoka"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabato"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "watalinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulinzi"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ulinzi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T11:48:54.422816866Z",
+  "model": "glm-5.2"
+}

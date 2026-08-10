@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 90,
+  "translation": "Maana elfu miaka machoni pako ni kama jana wakati unapopita, na kama dorio la usiku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maana"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "machoni pako"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ni kama"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "jana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "unapopita"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "na kama dorio"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "la usiku"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:31.460819576Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Tazama, nimetamani amri zako; kwa haki yako unihuirishe ⟨kuwa⟩ hai.",
+  "tokens": [
+    {
+      "surface": "הִ֭נֵּה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "תָּאַ֣בְתִּי",
+      "gloss": "nimetamani"
+    },
+    {
+      "surface": "לְפִקֻּדֶ֑יךָ",
+      "gloss": "amri zako"
+    },
+    {
+      "surface": "בְּצִדְקָתְךָ֥",
+      "gloss": "kwa haki yako"
+    },
+    {
+      "surface": "חַיֵּֽנִי",
+      "gloss": "unihuirishe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:36.516413879Z",
+  "model": "glm-5.2"
+}

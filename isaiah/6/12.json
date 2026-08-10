@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Naye Yahweh atawafukuza wanadamu mbali, na ukiwa utakuwa mwingi katikati ya nchi.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "na atawafukuza mbali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanadamu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wanadamu"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "na itakuwa mwingi"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "ukiwa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "katikati ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:04:16.451955001Z",
+  "model": "glm-5.2"
+}

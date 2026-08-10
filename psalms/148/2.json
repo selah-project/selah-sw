@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 148,
+  "translation": "Msifuni ⟨yeye⟩, enyi manabui wake wote, msifuni ⟨yeye⟩, majeshi yake yote.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "manabui wake"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "majeshi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:08.104582920Z",
+  "model": "glm-5.2"
+}

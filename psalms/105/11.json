@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "akisema, \"Kwako mimi ⟨ninakupa⟩ ⟨את⟩ nchi ya Kenaan, kanda la urithi wenu.\"",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "⟨ninakupa⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi ya Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ya Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "kanda"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "la urithi wenu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:02.537198678Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 71,
+  "translation": "Nitaingia nguvu za Adonai Yahweh, nitaikumbuka haki yako, wewe pekee.",
+  "tokens": [
+    {
+      "surface": "אָב֗וֹא",
+      "gloss": "Nitaingia"
+    },
+    {
+      "surface": "בִּ֭גְבֻרוֹת",
+      "gloss": "nguvu za"
+    },
+    {
+      "surface": "אֲדֹנָ֣י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יְהוִ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אַזְכִּ֖יר",
+      "gloss": "nitaikumbuka"
+    },
+    {
+      "surface": "צִדְקָתְךָ֣",
+      "gloss": "haki yako"
+    },
+    {
+      "surface": "לְבַדֶּֽךָ",
+      "gloss": "wewe pekee"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:14.401135987Z",
+  "model": "glm-5.2"
+}

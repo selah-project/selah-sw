@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Mala ya kulaani kinywa chake chenye ⟨jaa⟩, na udanganyifu na dhuluma; chini ya ulimi wake ⟨kuna⟩ mashaka na uovu.",
+  "tokens": [
+    {
+      "surface": "אָלָ֤ה",
+      "gloss": "Mala ya kulaani"
+    },
+    {
+      "surface": "פִּ֣יהוּ",
+      "gloss": "kinywa chake"
+    },
+    {
+      "surface": "מָלֵ֭א",
+      "gloss": "⟨jaa⟩"
+    },
+    {
+      "surface": "וּמִרְמ֣וֹת",
+      "gloss": "na udanganyifu"
+    },
+    {
+      "surface": "וָתֹ֑ךְ",
+      "gloss": "na dhuluma"
+    },
+    {
+      "surface": "תַּ֥חַת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "לְ֝שׁוֹנ֗וֹ",
+      "gloss": "ulimi wake"
+    },
+    {
+      "surface": "עָמָ֥ל",
+      "gloss": "mashaka"
+    },
+    {
+      "surface": "וָאָֽוֶן",
+      "gloss": "na uovu"
+    }
+  ],
+  "timestamp": "2026-08-10T17:53:29.191632122Z",
+  "model": "glm-5.2"
+}

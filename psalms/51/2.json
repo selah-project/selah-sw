@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 51,
+  "translation": "Katika kuja kwake mbele yake Natan nabii, alipokuja kwa Bat-Sheva.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Katika kuja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake mbele yake"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabii"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "alipokuwa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ameja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:27.207535971Z",
+  "model": "glm-5.2"
+}

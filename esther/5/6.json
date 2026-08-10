@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 5:6",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na mfalme akamwambia Ester, katika karamu ya mvinyo: Ni nini ombi lako? Nami litatolewa kwako. Na ni nini huaji lako? Hata nusu ya ufalme, nalo litatimia.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akamwambia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "במשתה",
+      "gloss": "katika karamu"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ya mvinyo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ni nini"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "ombi lako"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "Nami litatolewa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Na ni nini"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "huaji lako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "nusu"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "ya ufalme"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "nalo litatimia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:48:49.524970989Z",
+  "model": "glm-5.2"
+}

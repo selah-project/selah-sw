@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Aliposema Efrayimu ⟨kulikuwa na⟩ tetemesho, yeye alijinyanyua katika Yisraeli; lakini akajiletea hatia kwa Baali, akafa.",
+  "tokens": [
+    {
+      "surface": "כְּדַבֵּ֤ר",
+      "gloss": "aliposema"
+    },
+    {
+      "surface": "אֶפְרַ֨יִם֙",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "רְתֵ֔ת",
+      "gloss": "tetemesho"
+    },
+    {
+      "surface": "נָשָׂ֥א",
+      "gloss": "alijinyanyua"
+    },
+    {
+      "surface": "ה֖וּא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵ֑ל",
+      "gloss": "katika Yisraeli"
+    },
+    {
+      "surface": "וַיֶּאְשַׁ֥ם",
+      "gloss": "akajiletea hatia"
+    },
+    {
+      "surface": "בַּבַּ֖עַל",
+      "gloss": "kwa Baali"
+    },
+    {
+      "surface": "וַיָּמֹֽת",
+      "gloss": "akafa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:43:17.139890125Z",
+  "model": "glm-5.2"
+}

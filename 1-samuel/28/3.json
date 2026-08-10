@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Na Shemu'eli alikuwa amekufa, na Yisra'el wote wakamfia maombolezo, wakamzika ⟨naye⟩ Ramah, katika mji wake. Na Shaul alikuwa amewaondoa waomba-mizimu na ⟨את⟩ waomba-pepe kutoka nchini.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "na Shemu'eli"
+    },
+    {
+      "surface": "מת",
+      "gloss": "amekufa"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "wakamfia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maombolezo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "wakamzika"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Ramah"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "katika mji wake"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Shaul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "alikuwa amewaondoa"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "waomba-mizimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "waomba-pepe"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "waomba-pepe"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "kutoka nchini"
+    }
+  ],
+  "timestamp": "2026-08-10T11:28:27.009423829Z",
+  "model": "glm-5.2"
+}

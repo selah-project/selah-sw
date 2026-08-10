@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Bali kuuua utamuuwa; mkono wako utakuwa juu yake kwa kwanza kwa kumtolea mbali, na mkono wa ⟨watu⟩ wote kwa mwisho.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "bali"
+    },
+    {
+      "surface": "הָרֹג֙",
+      "gloss": "kuuua"
+    },
+    {
+      "surface": "תַּֽהַרְגֶ֔נּוּ",
+      "gloss": "utamuuua"
+    },
+    {
+      "surface": "יָֽדְךָ֛",
+      "gloss": "mkono wako"
+    },
+    {
+      "surface": "תִּֽהְיֶה",
+      "gloss": "itakuwa"
+    },
+    {
+      "surface": "בּ֥וֹ",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "בָרִֽאשׁוֹנָ֖ה",
+      "gloss": "kwa kwanza"
+    },
+    {
+      "surface": "לַהֲמִית֑וֹ",
+      "gloss": "kwa kumtolea mbali"
+    },
+    {
+      "surface": "וְיַ֥ד",
+      "gloss": "na mkono wa"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "הָעָ֖ם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "בָּאַחֲרֹנָֽה",
+      "gloss": "kwa mwisho"
+    }
+  ],
+  "timestamp": "2026-08-10T10:58:31.853433004Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Mimi niliitisha wewe, kwa sababu wewe utanijibia, El; tegeza sikio lako ⟨kwangu⟩, sikia neno langu.",
+  "tokens": [
+    {
+      "surface": "אֲנִֽי",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "קְרָאתִ֣יךָ",
+      "gloss": "niliitisha wewe"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "תַעֲנֵ֣נִי",
+      "gloss": "wewe utanijibia"
+    },
+    {
+      "surface": "אֵ֑ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הַֽט",
+      "gloss": "tegeza"
+    },
+    {
+      "surface": "אָזְנְךָ֥",
+      "gloss": "sikio lako"
+    },
+    {
+      "surface": "לִ֝֗י",
+      "gloss": "⟨kwangu⟩"
+    },
+    {
+      "surface": "שְׁמַ֣ע",
+      "gloss": "sikia"
+    },
+    {
+      "surface": "אִמְרָתִֽי",
+      "gloss": "neno langu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:16.614906511Z",
+  "model": "glm-5.2"
+}

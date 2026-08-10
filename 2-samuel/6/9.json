@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "David akaogopa ⟨את⟩ Yahweh siku hiyo, akasema, «Je, sanduku la Yahweh litakuwaje ⟨linakuja⟩ kwangu?»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaogopa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "איך",
+      "gloss": "je"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "linakuja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:55:29.365529160Z",
+  "model": "glm-5.2"
+}

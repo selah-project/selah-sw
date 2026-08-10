@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Yahweh, Elohim wa majeshi, ni nani kama wewe,⟨na⟩ chenye nguvu, Yah? Na emunah yako iko ∈sababu⟨\/sababu⟩",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "majeshi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kama wewe"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "cheye nguvu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "na emunah yako"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "inazunguka"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:10.567188331Z",
+  "model": "glm-5.2"
+}

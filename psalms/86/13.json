@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 86,
+  "translation": "Kwa maana chesed chako kikubwa ⟨ni⟩ juu yangu, na umeniokoa nafsi yangu kutoka Sheol ya chini.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "חַ֭סְדְּךָ",
+      "gloss": "chesed chako"
+    },
+    {
+      "surface": "גָּד֣וֹל",
+      "gloss": "kikubwa"
+    },
+    {
+      "surface": "עָלָ֑י",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "וְהִצַּ֥לְתָּ",
+      "gloss": "na umeniokoa"
+    },
+    {
+      "surface": "נַ֝פְשִׁ֗י",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "מִשְּׁא֥וֹל",
+      "gloss": "kutoka Sheol"
+    },
+    {
+      "surface": "תַּחְתִּיָּֽה",
+      "gloss": "ya chini"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:53.625568Z",
+  "model": "glm-5.2"
+}

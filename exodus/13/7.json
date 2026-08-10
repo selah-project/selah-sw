@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Mikate yasiyo na chachu itakuliwa ⟨את⟩ siku saba, na chachu isionekane kwako, na chachu ya uchachu isionekane kwako katika mipaka yako yote.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Mikate yasiyo na chachu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "itakuliwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siku saba"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siku saba"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... isionekane"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "isionekane"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "chachu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... isionekane"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "isionekane"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "chachu ya uchachu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika ... yote"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "mipaka yako"
+    }
+  ],
+  "timestamp": "2026-08-10T10:21:11.313061425Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 116,
+  "translation": "Nitatembea mbele za Yahweh katika nchi za ⟨za⟩ walio hai.",
+  "tokens": [
+    {
+      "surface": "אֶ֭תְהַלֵּךְ",
+      "gloss": "Nitatembea"
+    },
+    {
+      "surface": "לִפְנֵ֣י",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בְּ֝אַרְצ֗וֹת",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "הַֽחַיִּֽים",
+      "gloss": "za walio hai"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:50.944719672Z",
+  "model": "glm-5.2"
+}

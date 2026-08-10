@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Ikiwa wanawe watakiacha torati yangu, na katika mishpatai yangu wasitembee,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ikiwa"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "watakiacha"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "torati yangu"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "na katika mishpatai yangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "wastembee"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:31.755311429Z",
+  "model": "glm-5.2"
+}

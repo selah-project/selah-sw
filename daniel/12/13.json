@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na wewe, nenda ⟨kufikia⟩ mwisho, nawe utapumzika, nawe utasimama kwa gurudumu lako mwishoni mwa siku.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wewe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "kufikia mwisho"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "nawe utapumzika"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "nawe utasimama"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "kwa gurudumu lako"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "mwishoni mwa"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "siku"
+    }
+  ],
+  "timestamp": "2026-08-10T13:55:01.907462687Z",
+  "model": "glm-5.2"
+}

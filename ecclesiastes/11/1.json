@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Tuma chakula chako juu ya uso wa maji, maana kwa wingi wa siku utakiupata.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Tuma"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "chakula chako"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso wa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "kwa wingi wa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "utakiupata"
+    }
+  ],
+  "timestamp": "2026-08-10T13:48:01.585725046Z",
+  "model": "glm-5.2"
+}

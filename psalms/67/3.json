@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 67,
+  "translation": "Ili njia yako ijulikane katika nchi, wokovu wako kati ya mataifa yote.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Ili ijulikane"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "njia yako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kati ya yote"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "wokovu wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:23.101802064Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 147,
+  "translation": "⟨Yeye⟩ anawapa wanyama chakula chao, na kwa watoto wa kunguru waitao.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "anawapa"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "kwa wanyama"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "chakula chao"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "na kwa watoto"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "wa kunguru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waitao"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "wanaoitwa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:04.907532474Z",
+  "model": "glm-5.2"
+}

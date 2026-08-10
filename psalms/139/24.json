@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 139,
+  "translation": "Na uone kama njia ya maumivu ⟨ipo⟩ ndani yangu, uniongoze katika njia ya milele.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "na uone"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njia"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ya maumivu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ndani yangu"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "uniongoze"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "katika njia"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya milele"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:55.938873122Z",
+  "model": "glm-5.2"
+}

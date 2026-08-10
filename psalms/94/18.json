@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 94,
+  "translation": "Niliposema: Mguu wangu unateleza, chesed yako, ee Yahweh, hunitegemeza.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Niliposema"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "niliposema"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "unateleza"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "Mguu wangu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed yako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "hunitegemeza"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:07.169572876Z",
+  "model": "glm-5.2"
+}

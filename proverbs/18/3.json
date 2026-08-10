@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Pindi mwovu anapokuja, dharau pia huja; na pamoja na aibu, matukanio.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Pindi anapokuja"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mwovu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "huja"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "dharau"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na pamoja na"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "aibu"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "matukanio"
+    }
+  ],
+  "timestamp": "2026-08-10T15:32:19.698753615Z",
+  "model": "glm-5.2"
+}

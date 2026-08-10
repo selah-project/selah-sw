@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na ⟨את⟩ shamba la ⟨the⟩ mji na ⟨את⟩ viwanja vyake walimpa Kalev mwana wa Yefune.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "shamba"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "shamba"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la mji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "viwanja vyake"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "viwanja vyake"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "walimpa"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "wa Yefune"
+    }
+  ],
+  "timestamp": "2026-08-10T14:05:32.984101066Z",
+  "model": "glm-5.2"
+}

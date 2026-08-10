@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Nami nitawafungia Mitsrayim ⟨את⟩ kwenye mkono wa mabwana wakali, na mfalme mwenye nguvu atatawala juu yao, maongezi ya Bwana, Yahweh wa majeshi.",
+  "tokens": [
+    {
+      "surface": "וְסִכַּרְתִּי֙",
+      "gloss": "Nami nitawafungia"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מִצְרַ֔יִם",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בְּיַ֖ד",
+      "gloss": "kwenye mkono wa"
+    },
+    {
+      "surface": "אֲדֹנִ֣ים",
+      "gloss": "mabwana"
+    },
+    {
+      "surface": "קָשֶׁ֑ה",
+      "gloss": "wakali"
+    },
+    {
+      "surface": "וּמֶ֤לֶךְ",
+      "gloss": "na mfalme"
+    },
+    {
+      "surface": "עַז֙",
+      "gloss": "mwenye nguvu"
+    },
+    {
+      "surface": "יִמְשָׁל",
+      "gloss": "atatawala"
+    },
+    {
+      "surface": "בָּ֔ם",
+      "gloss": "juu yao"
+    },
+    {
+      "surface": "נְאֻ֥ם",
+      "gloss": "maongezi ya"
+    },
+    {
+      "surface": "הָאָד֖וֹן",
+      "gloss": "Bwana"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צְבָאֽוֹת",
+      "gloss": "wa majeshi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:59:08.635537941Z",
+  "model": "glm-5.2"
+}

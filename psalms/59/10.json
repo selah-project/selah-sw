@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 59,
+  "translation": "Nguvu yangu, kwako nitazingatia; kwa kuwa Elohim ⟨ni⟩ boma la juu langu.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Nguvu yangu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "nitazingatia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "boma la juu langu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:39.939477572Z",
+  "model": "glm-5.2"
+}

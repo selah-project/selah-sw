@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kwa maana kama miiba iliyoshikiliana, na kama wale walewa kwa ulevi wao, watamezwa kama majani makavu kabisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "miiba"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "iliyoshikiliana"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "na kama ulevi wao"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "walewa"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "watamezwa"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "kama majani"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "makavu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kabisa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:48:46.557247702Z",
+  "model": "glm-5.2"
+}

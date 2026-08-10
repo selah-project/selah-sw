@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na sasa nini kipo chini ya mkono wako? mikate mitano ⟨pe⟩; ⟨i⟩pe mikononi mwangu, au chochote kilichopo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kipo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mkono wako"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mikate"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "pe"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "mikononi mwangu"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "kilichopo"
+    }
+  ],
+  "timestamp": "2026-08-10T18:04:26.500792309Z",
+  "model": "glm-5.2"
+}

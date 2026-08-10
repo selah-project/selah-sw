@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "na ⟨את⟩ Baalat na ⟨את⟩ Tamar ⟨kule⟩ jangwani, katika nchi.",
+  "tokens": [
+    {
+      "surface": "וְאֽוֹת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Baalat"
+    },
+    {
+      "surface": "בַּעֲלָ֛ת",
+      "gloss": "Baalat"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֖ר",
+      "gloss": "jangwani"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "katika nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:40:53.880835486Z",
+  "model": "glm-5.2"
+}

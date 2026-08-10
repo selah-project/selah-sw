@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 54,
+  "translation": "Tazama! ⟨Mtu atakusanya jeshi⟩ bila ya ⟨את⟩ mimi; yeyote atakayekusanya ⟨את⟩ pamoja nawe, juu yako ataanguka.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "גור",
+      "gloss": "atakusanya jeshi"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "bila ya"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩ mimi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yeyote"
+    },
+    {
+      "surface": "גר",
+      "gloss": "atakayekusanya"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "pamoja nawe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "juu yako"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ataanguka"
+    }
+  ],
+  "timestamp": "2026-08-10T12:06:41.091829403Z",
+  "model": "glm-5.2"
+}

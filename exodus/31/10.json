@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "na ⟨את⟩ nguo za utumishi, na ⟨את⟩ nguo za utakatifu za Aharoni kuhani, na ⟨את⟩ nguo za wanawe, ili wahudumu",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nguo za utumishi"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "nguo za"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "utumishi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nguo za utakatifu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "nguo za"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "utakatifu"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "za Aharoni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nguo za wanawe"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "nguo za"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ili wahudumu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:52:40.975358320Z",
+  "model": "glm-5.2"
+}

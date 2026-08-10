@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na taifa liliisimama mbali, na Moshe akamkaribia ⟨kwenye⟩ giza jembamba ambalo Elohim alikuwapo.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "na akasimama"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "mbali"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "na Moshe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "akakaribia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "giza jembamba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pale"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:23:35.250511520Z",
+  "model": "glm-5.2"
+}

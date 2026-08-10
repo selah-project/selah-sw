@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na mfalme akanyosha kwa Esteri ⟨את⟩ fimbo ya dhahabu, na Esteri akaomba, akasimama mbele za mfalme.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "Na akanyosha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kwa Esteri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fimbo ya dhahabu"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "fimbo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ya dhahabu"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "na akasimama"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "akasimama"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T15:38:56.847887242Z",
+  "model": "glm-5.2"
+}

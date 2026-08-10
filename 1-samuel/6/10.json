@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na watu walifanya hivyo, wakachukua ng'ombe wawili wa kukamia, wakawafunga kwenye gari, na ⟨את⟩ watoto wao wakawafungia ndani ya nyumba.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "na wakafanya"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hivyo"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "wakachukua"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "wa kukamia"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "wakawafunga"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "kwenye gari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "watoto wao"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "watoto wao"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "wakawafungia"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ndani ya nyumba"
+    }
+  ],
+  "timestamp": "2026-08-10T11:20:56.450948908Z",
+  "model": "glm-5.2"
+}

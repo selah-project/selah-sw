@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na mfalme wa Aram alikuwa akifanya vita dhidi ya Yisrael, akashauriana na watumishi wake, akisema: Katika mahali fulani na fulani ndiyo kituo changu.",
+  "tokens": [
+    {
+      "surface": "וּמֶ֣לֶךְ",
+      "gloss": "Na mfalme"
+    },
+    {
+      "surface": "אֲרָ֔ם",
+      "gloss": "wa Aram"
+    },
+    {
+      "surface": "הָיָ֥ה",
+      "gloss": "alkuwa"
+    },
+    {
+      "surface": "נִלְחָ֖ם",
+      "gloss": "akifanya vita"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵ֑ל",
+      "gloss": "dhidi ya Yisrael"
+    },
+    {
+      "surface": "וַיִּוָּעַץ֙",
+      "gloss": "akashauriana"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עֲבָדָ֣יו",
+      "gloss": "watumishi wake"
+    },
+    {
+      "surface": "לֵאמֹ֗ר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "Katika"
+    },
+    {
+      "surface": "מְק֛וֹם",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "פְּלֹנִ֥י",
+      "gloss": "fulani"
+    },
+    {
+      "surface": "אַלְמֹנִ֖י",
+      "gloss": "na fulani"
+    },
+    {
+      "surface": "תַּחֲנֹתִֽי",
+      "gloss": "kituo changu"
+    }
+  ],
+  "timestamp": "2026-08-10T18:28:18.278197734Z",
+  "model": "glm-5.2"
+}

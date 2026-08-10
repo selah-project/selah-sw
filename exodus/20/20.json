@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Moshe akawaambia watu: «Msiogope, maana kwa ajili ya kuajaribu ninyi amekuja ⟨את⟩ Elohim, na kwa ajili ya kwamba uchaji wake uwe juu ya nyuso zenu, ili msitende dhambi.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akawaambia"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(kwa)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Msifanye"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ogope"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "kuajaribu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "amekuja"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "na kwa ajili ya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kwamba iwe"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "uchaji wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "nyuso zenu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ili"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "msitende dhambi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:22:59.828879449Z",
+  "model": "glm-5.2"
+}

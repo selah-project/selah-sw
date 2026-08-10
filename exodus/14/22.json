@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 14:22",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na wana wa Yisraeleli wakaingia katikati ya bahari kwenye nchi kavu, na maji yakiwa ⟨ni⟩ ukuta kwa hao, kutoka upao wa kulia wao na kutoka upao wa kushoto wao.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "wakaingia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "katikati ya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "kwenye nchi kavu"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "na maji"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa hao"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ukuta"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "kutoka upao wa kulia wao"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "na kutoka upao wa kushoto wao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:52:09.803831494Z",
+  "model": "glm-5.2"
+}

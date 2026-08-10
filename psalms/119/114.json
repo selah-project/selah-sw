@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Mahali pazangu pa kuficha na ngao yako ⟨umwe⟩; kwa neno lako nimetegemea.",
+  "tokens": [
+    {
+      "surface": "סִתְרִ֣י",
+      "gloss": "mahali pazangu pa kuficha"
+    },
+    {
+      "surface": "וּמָגִנִּ֣י",
+      "gloss": "na ngao yangu"
+    },
+    {
+      "surface": "אָ֑תָּה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "לִדְבָרְךָ֥",
+      "gloss": "kwa neno lako"
+    },
+    {
+      "surface": "יִחָֽלְתִּי",
+      "gloss": "nimetegemea"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:14.319027524Z",
+  "model": "glm-5.2"
+}

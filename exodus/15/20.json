@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Miryamu nabii, dada ya Aharon, akaichukua ⟨את⟩ tari mkononi mwake, na wanawake wote wakatoka nyuma yake kwa tari na kwa kucheza ngoma.",
+  "tokens": [
+    {
+      "surface": "וַתִּקַּח֩",
+      "gloss": "akaichukua"
+    },
+    {
+      "surface": "מִרְיָ֨ם",
+      "gloss": "Miryamu"
+    },
+    {
+      "surface": "הַנְּבִיאָ֜ה",
+      "gloss": "nabii"
+    },
+    {
+      "surface": "אֲח֧וֹת",
+      "gloss": "dada"
+    },
+    {
+      "surface": "אַהֲרֹ֛ן",
+      "gloss": "ya Aharon"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tari"
+    },
+    {
+      "surface": "הַתֹּ֖ף",
+      "gloss": "tari"
+    },
+    {
+      "surface": "בְּיָדָ֑הּ",
+      "gloss": "mkononi mwake"
+    },
+    {
+      "surface": "וַתֵּצֶ֤אןָ",
+      "gloss": "na wakatoka"
+    },
+    {
+      "surface": "כָֽל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "הַנָּשִׁים֙",
+      "gloss": "wanawake"
+    },
+    {
+      "surface": "אַחֲרֶ֔יהָ",
+      "gloss": "nyuma yake"
+    },
+    {
+      "surface": "בְּתֻפִּ֖ים",
+      "gloss": "kwa tari"
+    },
+    {
+      "surface": "וּבִמְחֹלֹֽת",
+      "gloss": "na kwa kucheza ngoma"
+    }
+  ],
+  "timestamp": "2026-08-10T10:21:56.532050436Z",
+  "model": "glm-5.2"
+}

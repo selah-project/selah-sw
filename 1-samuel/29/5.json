@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Je, si huyu David, ambao waliomwania kwa kucheza ngoma, wakisema: Shaul aliwapiga elfu zake, na David wake wa makumi elfu?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "je, si"
+    },
+    {
+      "surface": "זה",
+      "gloss": "huyu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "waliomwania"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "kwa kucheza ngoma"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wakisema"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "aliwapiga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "elfu zake"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "na David"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "wa makumi elfu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:54:35.201876385Z",
+  "model": "glm-5.2"
+}

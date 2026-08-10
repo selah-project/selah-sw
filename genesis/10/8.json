@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na Kush alimzaa ⟨את⟩ Nimrodi; yeye ndiye aliyeanza kuwa jabari duniani.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Na Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrodi"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrodi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "החל",
+      "gloss": "aliyeanza"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "jabari"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "duniani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:02:57.423985898Z",
+  "model": "glm-5.2"
+}

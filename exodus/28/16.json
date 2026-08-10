@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Mrujuo ⟨utakuwa⟩ umekunja; shauri urefu wake na shauri upana wake.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "Mrujuo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨utakuwa⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "umekunja"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "shauri"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "urefu wake"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "na shauri"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "upana wake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:25:40.111517455Z",
+  "model": "glm-5.2"
+}

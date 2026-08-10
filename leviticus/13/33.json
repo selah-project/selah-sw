@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Naye ⟨at⟩anyoole, lakini ⟨את⟩ neteki hatanyoi, na kuhani atamfunga ⟨את⟩ neteki siku saba kwa mara ya pili.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "naye anyoele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neteki"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neteki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatanyoi"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "lakini"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "na atamfunga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neteki"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neteki"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "siku saba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kwa mara ya pili"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:57.369690523Z",
+  "model": "glm-5.2"
+}

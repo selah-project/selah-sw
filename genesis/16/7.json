@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Mjumbe wa Yahweh akamkuta karibu na chemchemi ya maji nyikani, karibu na ⟨hiyo⟩ chemchemi njiani kuelekea Shur.",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "akamkuta"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mjumbe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "karibu na"
+    },
+    {
+      "surface": "עין",
+      "gloss": "chemchemi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ya maji"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nyikani"
+    },
+    {
+      "surface": "על",
+      "gloss": "karibu na"
+    },
+    {
+      "surface": "העין",
+      "gloss": "⟨hiyo⟩ chemchemi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njiani"
+    },
+    {
+      "surface": "שור",
+      "gloss": "kuelekea Shur"
+    }
+  ],
+  "timestamp": "2026-08-10T10:05:09.318295960Z",
+  "model": "glm-5.2"
+}

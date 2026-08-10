@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Kama kupita kwa dhoruba, naye mtu mbaya hayupo tena; lakini mwenye haki ⟨ni⟩ msingi wa milele.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "kama kupita"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "kwa dhoruba"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "naye … hayupo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mtu mbaya"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "lakini mwenye haki"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "msingi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa milele"
+    }
+  ],
+  "timestamp": "2026-08-10T13:24:28.137409082Z",
+  "model": "glm-5.2"
+}

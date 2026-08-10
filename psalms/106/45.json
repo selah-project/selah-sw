@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 106:45",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Akakumbuka kwa ajili yao ⟨agano⟩ lake, akajuta kulingana na wingi wa chesed yake.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "akakumbuka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa ajili yao"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "agano lake"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "akajuta"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "kulingana na wingi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:02.882232779Z",
+  "model": "glm-5.2"
+}

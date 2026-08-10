@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Nikamjaza ⟨את⟩ roho ya Elohim, kwa hekima na kwa ufahamu na kwa maarifa na kwa kazi yote.",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "Nikamjaza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "roho"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "kwa hekima"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "na kwa ufahamu"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "na kwa maarifa"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na kwa yote"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "kazi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:17.644479063Z",
+  "model": "glm-5.2"
+}

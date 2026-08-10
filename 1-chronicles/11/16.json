@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na David alikuwa ⟨hapo⟩ katika ngome, na kituo cha Walishti ⟨kilikuwa⟩ hapo katika Beth-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Na David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wakati huo"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "katika ngome"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "na kituo cha"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Walishti"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wakati huo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "katika"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beth-Lechem"
+    }
+  ],
+  "timestamp": "2026-08-10T14:06:59.724637352Z",
+  "model": "glm-5.2"
+}

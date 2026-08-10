@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na Yahweh akamwambia Moshe: «Moyo wa Paroh umefifia, anakataa kuwacha ⟨kwenda⟩ watu.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "umefifia"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "anakataa"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kuwacha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:37.370022930Z",
+  "model": "glm-5.2"
+}

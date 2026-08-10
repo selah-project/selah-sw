@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Moshe akawaambia wana wa Yisra'el wafanye Pasaka.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akawaambia"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "wafanye"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pasaka"
+    }
+  ],
+  "timestamp": "2026-08-10T10:43:27.195075016Z",
+  "model": "glm-5.2"
+}

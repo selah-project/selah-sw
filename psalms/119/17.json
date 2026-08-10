@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Tenda mema kwa mtumishi wako, niishi, nami nitashika neno lako.",
+  "tokens": [
+    {
+      "surface": "גְּמֹ֖ל",
+      "gloss": "Tenda mema"
+    },
+    {
+      "surface": "עַֽל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עַבְדְּךָ֥",
+      "gloss": "mtumishi wako"
+    },
+    {
+      "surface": "אֶֽחְיֶ֗ה",
+      "gloss": "niishi"
+    },
+    {
+      "surface": "וְאֶשְׁמְרָ֥ה",
+      "gloss": "nami nitashika"
+    },
+    {
+      "surface": "דְבָרֶֽךָ",
+      "gloss": "neno lako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:28.832544987Z",
+  "model": "glm-5.2"
+}

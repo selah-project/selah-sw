@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na kuhani atakayetiwa mafuta na ambaye ⟨atatiwa⟩ ⟨את⟩ mkono wake awe kuhani mahali pa baba yake, ↑atakafua, na kuvaa ⟨את⟩ nguo za kitani — nguo za utakatifu.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "Na atakafua"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "atakayetiwa mafuta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ambaye"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na ambaye"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "atatiwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "awe kuhani"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mahali pa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "na kuvaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguo za kitani"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "nguo za"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "kitani"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "nguo za"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "utakatifu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:35:56.575007001Z",
+  "model": "glm-5.2"
+}

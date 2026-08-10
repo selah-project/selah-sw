@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Mwimbeni, mpendezeni kwa muziki, meditheni katika ajabu zake zote.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Mwimbeni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨yeye⟩"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mpendezeni kwa muziki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨yeye⟩"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "meditheni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika zote"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ajabu zake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:20.004886159Z",
+  "model": "glm-5.2"
+}

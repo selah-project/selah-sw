@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na Akimaatsi alizaa ⟨את⟩ Azarayah, na Azarayah alizaa ⟨את⟩ Yochanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "Na Akimaatsi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarayah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarayah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "na Azarayah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yochanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yochanan"
+    }
+  ],
+  "timestamp": "2026-08-10T14:04:40.583316273Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 88,
+  "translation": "Lakini mimi kwako, naye Yahweh, nalilia; na asubuhi ⟨⟨niambapo⟩⟩ sala yaku tangulia.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "lakini mimi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "naye Yahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "nalilia"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "na asubuhi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "sala yangu"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "inakutangulia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:19.988766045Z",
+  "model": "glm-5.2"
+}

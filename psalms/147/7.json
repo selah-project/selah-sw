@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 147,
+  "translation": "Mwimbieni Yahweh kwa shukrani; muzikenie Elohim wetu kwa kinanda.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Mwimbieni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "kwa shukrani"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "muzikenie"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohim wetu"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kwa kinanda"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:19.241901751Z",
+  "model": "glm-5.2"
+}

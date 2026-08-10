@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Inakulaza, imechoka nchi; Lebanon imeaibuka, imenyauka; haSharon imekuwa kama nyika, na Bashan na Karmeli zimefyatua ⟨maungo yao⟩.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "inakulaza"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "imechoka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "imeaibuka"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "imenyauka"
+    },
+    {
+      "surface": "היה",
+      "gloss": "imekuwa"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "haSharon"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "kama nyika"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "na zimefyatua"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "na Karmeli"
+    }
+  ],
+  "timestamp": "2026-08-10T15:06:55.637377670Z",
+  "model": "glm-5.2"
+}

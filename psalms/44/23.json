@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Kwa maana kwa ajili yako tunauawa siku nzima; tunahesabiwa kama kondoo wa kuchinjwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kwa ajili yako"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "tunauawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nzima"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "tunahesabiwa"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kama kondoo"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "wa kuchinjwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:12.828952366Z",
+  "model": "glm-5.2"
+}

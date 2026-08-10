@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 96,
+  "translation": "Hod na hadar ⟨umo⟩ mbele zake, ozi na tif'eret katika mikdasho.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "hod"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "na hadar"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbele zake"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ozi"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "na tif'eret"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "katika mikdasho"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:04.357005271Z",
+  "model": "glm-5.2"
+}

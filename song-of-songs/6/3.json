@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Mimi ni wa mpenzi wangu, na mpenzi wangu ni wangu, ⟨yule⟩ anayelisha kati ya maanu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "ni wa mpenzi wangu"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "na mpenzi wangu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni wangu"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "anayelisha"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "kati ya maanu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:41:59.918009197Z",
+  "model": "glm-5.2"
+}

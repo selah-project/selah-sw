@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "na [nguo za] rangi samawi na rangi ya zambarau na rangi ya husari, na kitani cheupe, na nywele za mbuzi;",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "na rangi samawi"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "na rangi ya zambarau"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "na [mdudu wa]"
+    },
+    {
+      "surface": "שני",
+      "gloss": "rangi ya husari"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na kitani cheupe"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "na nywele za mbuzi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:31:01.089325028Z",
+  "model": "glm-5.2"
+}

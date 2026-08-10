@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 144,
+  "translation": "Ghala zetu ⟨ni⟩ kamili, zikitoza ⟨chakula⟩ cha aina kwa aina; kundi letu la wanyama ⟨ni⟩ la maelfu, la makumi elfu, katika miraba yetu.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "ghala zetu"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "kamili"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "zikitoza"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "⟨chakula⟩ cha aina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "זן",
+      "gloss": "aina"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "kundi letu la wanyama"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "la maelfu"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "la makumi elfu"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "katika miraba yetu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:13.496768039Z",
+  "model": "glm-5.2"
+}

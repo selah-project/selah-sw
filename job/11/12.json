@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na mtu aliye mtupu atapata akili, na mwana wa punda mwitu atazaliwa mtu.",
+  "tokens": [
+    {
+      "surface": "וְאִישׁ",
+      "gloss": "na mtu"
+    },
+    {
+      "surface": "נָבוּב",
+      "gloss": "aliye mtupu"
+    },
+    {
+      "surface": "יִלָּבֵב",
+      "gloss": "atapata akili"
+    },
+    {
+      "surface": "וְעַיִר",
+      "gloss": "na mwana"
+    },
+    {
+      "surface": "פֶּרֶא",
+      "gloss": "wa punda mwitu"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "יִוָּלֵד",
+      "gloss": "atazaliwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:33:15.979857176Z",
+  "model": "glm-5.2"
+}

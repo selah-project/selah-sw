@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 72,
+  "translation": "Kwa maana ⟨ye⟩ atamwokoa mhitaji anayepiga mayowe, na maskini, naye hakuna mwenye kumsaidia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "atamwokoa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "mhitaji"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "anayepiga mayowe"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "na maskini"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "naye hakuna"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mwenye kumsaidia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:59.482989975Z",
+  "model": "glm-5.2"
+}

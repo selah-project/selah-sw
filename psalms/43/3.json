@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "Tuma nuru yako na kuaminika kwako; hao waniongoze, waniingize hadi mlima wa utakaso wako na hadi maskani zako.",
+  "tokens": [
+    {
+      "surface": "שְׁלַח",
+      "gloss": "tuma"
+    },
+    {
+      "surface": "אוֹרְךָ֣",
+      "gloss": "nuru yako"
+    },
+    {
+      "surface": "וַ֭אֲמִתְּךָ",
+      "gloss": "na kuaminika kwako"
+    },
+    {
+      "surface": "הֵ֣מָּה",
+      "gloss": "hao"
+    },
+    {
+      "surface": "יַנְח֑וּנִי",
+      "gloss": "waniongoze"
+    },
+    {
+      "surface": "יְבִיא֥וּנִי",
+      "gloss": "waniingize"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "הַֽר",
+      "gloss": "mlima"
+    },
+    {
+      "surface": "קָ֝דְשְׁךָ֗",
+      "gloss": "wa utakaso wako"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "na hadi"
+    },
+    {
+      "surface": "מִשְׁכְּנוֹתֶֽיךָ",
+      "gloss": "maskani zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:36.193313723Z",
+  "model": "glm-5.2"
+}

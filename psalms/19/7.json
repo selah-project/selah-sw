@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Kutoka ncha ya mbingu kutoka kwake, na mzunguko wake ⟨unafika⟩ ncha zao, na hakuna ⟨kilicho⟩ fichwa kutokana na joto lake.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "kutoka ncha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ya mbingu"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "kutoka kwake"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "na mzunguko wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨unafika⟩"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "ncha zao"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na hakuna"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "⟨kilicho⟩ fichwa"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "kutokana na joto lake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:35.090691825Z",
+  "model": "glm-5.2"
+}

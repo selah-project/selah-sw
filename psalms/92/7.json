@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 92,
+  "translation": "Mtu mwendawazimu hajui; na mjinga haifahamu ⟨את⟩ hii.",
+  "tokens": [
+    {
+      "surface": "אִֽישׁ",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "בַּ֭עַר",
+      "gloss": "mwendawazimu"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "hajui"
+    },
+    {
+      "surface": "יֵדָ֑ע",
+      "gloss": ""
+    },
+    {
+      "surface": "וּ֝כְסִ֗יל",
+      "gloss": "na mjinga"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "haifahamu"
+    },
+    {
+      "surface": "יָבִ֥ין",
+      "gloss": ""
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "hii"
+    },
+    {
+      "surface": "זֹֽאת",
+      "gloss": "hii"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:41.728690460Z",
+  "model": "glm-5.2"
+}

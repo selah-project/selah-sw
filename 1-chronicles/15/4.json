@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "David akakusanya ⟨את⟩ wana wa Aharon na ⟨את⟩ Walawi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "akakusanya"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "wa Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Walawi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Walawi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:42:55.225663306Z",
+  "model": "glm-5.2"
+}

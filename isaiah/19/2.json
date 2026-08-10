@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Nami nitawafanya Wakemiti wagombane na Wakemiti, na watafanya vita kila mtu dhidi ya nduguye, na kila mtu dhidi ya jirani yake, mji dhidi ya mji, ufalme dhidi ya ufalme.",
+  "tokens": [
+    {
+      "surface": "וְסִכְסַכְתִּ֤י",
+      "gloss": "Nami nitawafanya wagombane"
+    },
+    {
+      "surface": "מִצְרַ֨יִם֙",
+      "gloss": "Wakemiti"
+    },
+    {
+      "surface": "בְּמִצְרַ֔יִם",
+      "gloss": "na Wakemiti"
+    },
+    {
+      "surface": "וְנִלְחֲמ֥וּ",
+      "gloss": "na watafanya vita"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "בְּאָחִ֖יו",
+      "gloss": "dhidi ya nduguye"
+    },
+    {
+      "surface": "וְאִ֣ישׁ",
+      "gloss": "na kila mtu"
+    },
+    {
+      "surface": "בְּרֵעֵ֑הוּ",
+      "gloss": "dhidi ya jirani yake"
+    },
+    {
+      "surface": "עִ֣יר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "בְּעִ֔יר",
+      "gloss": "dhidi ya mji"
+    },
+    {
+      "surface": "מַמְלָכָ֖ה",
+      "gloss": "ufalme"
+    },
+    {
+      "surface": "בְּמַמְלָכָֽה",
+      "gloss": "dhidi ya ufalme"
+    }
+  ],
+  "timestamp": "2026-08-10T11:59:08.635243415Z",
+  "model": "glm-5.2"
+}

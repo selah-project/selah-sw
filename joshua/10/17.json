@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 10:17",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Ikawa imepigwa taarifa kwa Yehoshua, ikisema: Wamepatikana wafalme wataka kuwakilisha—hamsa hao wamejificha katika pangoni, huko Makkedah.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ikawa imepigwa taarifa"
+    },
+    {
+      "surface": "ליהושע",
+      "gloss": "kwa Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ikisema"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "wamepatikana"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "hamsa"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "נחבאים",
+      "gloss": "wamejificha"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "katika pangoni"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "huko Makkedah"
+    }
+  ],
+  "timestamp": "2026-08-10T11:07:09.836653142Z",
+  "model": "glm-5.2"
+}

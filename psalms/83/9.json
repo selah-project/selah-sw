@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 83,
+  "translation": "Hata Ashur amenjiunga nao; wamekuwa mkono ⟨wa⟩ wanawe Lot. Selah.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "אַשּׁוּר",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נִלְוָה",
+      "gloss": "amenjiunga"
+    },
+    {
+      "surface": "עִמָּם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "הָיוּ",
+      "gloss": "wamekuwa"
+    },
+    {
+      "surface": "זְרוֹעַ",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "לִבְנֵי",
+      "gloss": "⟨wa⟩ wanawe"
+    },
+    {
+      "surface": "לוֹט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "סֶלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:40.146785734Z",
+  "model": "glm-5.2"
+}

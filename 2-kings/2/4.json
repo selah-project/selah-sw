@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 2:4",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Naye Eliyahu akamwambia, ‹Elisha, kaa tafadhali hapa, maana Yahweh ameniendea Yericho.› Naye akasema, ‹Aishivyo Yahweh na uhai wa nafsi yako uishivyo, sitakuacha.› Nao wakaingia Yericho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Naye akamwambia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ake"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Kaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hapa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ameniendea"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yericho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Naye akasema"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Aishivyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "na uhai"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "wa nafsi yako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "nitakuacha"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "Nao wakaingia"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yericho"
+    }
+  ],
+  "timestamp": "2026-08-10T11:46:03.073242031Z",
+  "model": "glm-5.2"
+}

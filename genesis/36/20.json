@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Hawa ndio wana wa Seiri Mhori, wakaazi wa nchi: Lotani, na Shobali, na Tsiboni, na Anahi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Hawa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seiri"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Mhori"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wakaazi wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotani"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "na Shobali"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "na Tsiboni"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "na Anahi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:27:13.415265946Z",
+  "model": "glm-5.2"
+}

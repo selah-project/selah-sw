@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Umetia furaha moyoni mwangu, zaidi kuliko wakati nafaka yao na divai yao mpya ilipoongezeka.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "umetia"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "furaha"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "moyoni mwangu"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "zaidi kuliko wakati"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "nafaka yao"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "na divai yao mpya"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ilipoongezeka"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:23.014725521Z",
+  "model": "glm-5.2"
+}

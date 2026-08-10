@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 81,
+  "translation": "Mimi Yahweh, Elohim wako, aliyekuinua kutoka nchi ya Mitsrayim: tanua mdomo wako, nami nitaujaza.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "aliyekuinua"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kutoka nchi ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "tanua"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mdomo wako"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "nami nitaujaza"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:21.754149153Z",
+  "model": "glm-5.2"
+}

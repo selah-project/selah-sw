@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 93,
+  "translation": "Kiti chako cha enzi ⟨kimewekwa⟩ tangu zamani; Wewe ⟨upo⟩ tangu milele.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "kimewekwa"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "Kiti chako cha enzi"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "tangu zamani"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "tangu milele"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wewe"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:38.367377147Z",
+  "model": "glm-5.2"
+}

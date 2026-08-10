@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Kuhani akawapa wakuu wa mamia ⟨את⟩ mkuki na ⟨את⟩ ngao zilizokuwa za mfalme David, ambazo zilikuwa ndani ya nyumba ya Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akawapa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kuhani"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "wakuu wa"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "mamia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkuki"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "mkuki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ngao"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "ngao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "zilizokuwa za mfalme"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ndani ya nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T15:02:09.976398093Z",
+  "model": "glm-5.2"
+}

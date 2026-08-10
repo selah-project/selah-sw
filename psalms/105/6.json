@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "⟨Enyi⟩ mzao wa Avraham mtumwa wake, wanawake wa Yaakov, wateule wake.",
+  "tokens": [
+    {
+      "surface": "زרע",
+      "gloss": "mzao"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "wa Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mtumwa wake"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wanawake wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "wateule wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:55.781647301Z",
+  "model": "glm-5.2"
+}

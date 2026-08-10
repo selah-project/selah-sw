@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "akamwuliza kwa Yahweh, naye akampa chakula; na ⟨את⟩ upanga wa Goliati Mfilistini akampa.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "akamwuliza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "na chakula"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akampa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "upanga wa Goliati Mfilistini"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "upanga wa"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliati"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Mfilistini"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akampa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T14:53:31.017076987Z",
+  "model": "glm-5.2"
+}

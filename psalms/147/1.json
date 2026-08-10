@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 147,
+  "translation": "Msifuni Yah, maana ⟨ni⟩ jema kumimina nyimbo kwa Elohim wetu; maana ⟨ni⟩ tamu, ⟨na⟩ sifa inapendeza.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Msifuni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jema"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "kumimina nyimbo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "tamu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "inapendeza"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "sifa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:07.946390880Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Chukua ⟨את⟩ Aharon na ⟨את⟩ Elazari mwanake, umwaliko juu ya mlima wa Hor.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "chukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Elazari"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazari"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanake"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "umwaliko juu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Hor"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mlima wa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Hor"
+    }
+  ],
+  "timestamp": "2026-08-10T10:46:59.259009286Z",
+  "model": "glm-5.2"
+}

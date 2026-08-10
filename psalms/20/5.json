@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na akutoe kulingana na moyo wako, na mpango wako wote aitimie",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "na akutoe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "kulingana na moyo wako"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "mpango wako"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "aitimie"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:36.595875175Z",
+  "model": "glm-5.2"
+}

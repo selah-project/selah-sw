@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Achimaatsi katika Naftali; yeye pia alikuwa ⟨ameoa⟩ ⟨את⟩ Bashemathi binti Shelomah kuwa mke.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaatsi"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "katika Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "alikuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bashemathi"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bashemathi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "wa Shelomah"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kuwa mke"
+    }
+  ],
+  "timestamp": "2026-08-10T11:37:26.835894260Z",
+  "model": "glm-5.2"
+}

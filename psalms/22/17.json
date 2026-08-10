@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Kwa maana mbwa wamenizunguka; mkutano wa watenda-mabaya umenizunguka; ⟨wamenipiga⟩ mikono yangu na miguu yangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "wamenizunguka"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "mbwa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "mkutano"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "wa watenda-mabaya"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "umenizunguka"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "kama simba"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mikono yangu"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "na miguu yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:12.144413176Z",
+  "model": "glm-5.2"
+}

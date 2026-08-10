@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Akasema: Kwa nini wewe unaenda kwake leo? Si mwezi mpya wala Sabato. Akasema: Salama.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kwa nini"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "unaenda"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mwezi mpya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabato"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Salama"
+    }
+  ],
+  "timestamp": "2026-08-10T11:46:36.137456006Z",
+  "model": "glm-5.2"
+}

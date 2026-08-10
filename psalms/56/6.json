@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 56,
+  "translation": "Siku nzima maneno yangu wameyapotosha; dhidi yangu mawazo yao yote ni ya uovu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nzima"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Siku"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno yangu"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "wameyapotosha"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dhidi yangu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "mawazo yao"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ni ya uovu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:57.809280453Z",
+  "model": "glm-5.2"
+}

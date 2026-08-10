@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 41:14",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Na watu wote ambao Yishmaeli alikuwa amewateka kutoka Mitspa wakageuka, wakarejea, wakaenda kwa Yochanan mwana wa Kareach.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "wakageuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "amewateka"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmaeli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "wakarejea"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wakaenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yochanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "wa Kareach"
+    }
+  ],
+  "timestamp": "2026-08-10T12:21:19.311056018Z",
+  "model": "glm-5.2"
+}

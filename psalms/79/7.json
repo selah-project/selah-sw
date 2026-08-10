@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 79,
+  "translation": "kwa maana ⟨wame⟩meza ⟨את⟩ Yaakov, na ⟨את⟩ makazi yake wameyafanya ukiwa.",
+  "tokens": [
+    {
+      "surface": "כִּ֭י",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "אָכַ֣ל",
+      "gloss": "meza"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וְֽאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "makazi yake"
+    },
+    {
+      "surface": "נָוֵ֥הוּ",
+      "gloss": "makazi yake"
+    },
+    {
+      "surface": "הֵשַֽׁמּוּ",
+      "gloss": "wameyafanya ukiwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:16.085298479Z",
+  "model": "glm-5.2"
+}

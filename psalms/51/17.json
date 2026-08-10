@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 51,
+  "translation": "Adonai, ⟨⟨את⟩⟩ midomo yangu ufungue, na kinywa chaki ⟨ki⟩litangaza sifa yako.",
+  "tokens": [
+    {
+      "surface": "אֲ֭דֹנָי",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שְׂפָתַ֣י",
+      "gloss": "midomo yangu"
+    },
+    {
+      "surface": "תִּפְתָּ֑ח",
+      "gloss": "ufungue"
+    },
+    {
+      "surface": "וּ֝פִ֗י",
+      "gloss": "na kinywa chaki"
+    },
+    {
+      "surface": "יַגִּ֥יד",
+      "gloss": "litangaza"
+    },
+    {
+      "surface": "תְּהִלָּתֶֽךָ",
+      "gloss": "sifa yako"
+    }
+  ],
+  "timestamp": "2026-08-10T17:53:47.230230142Z",
+  "model": "glm-5.2"
+}

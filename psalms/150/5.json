@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 150,
+  "translation": "Msifuni kwa ngoma za kupigwa zinazosikika, msifuni kwa ngoma za kupigwa za kelele za shangwe!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Msifuni"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "kwa ngoma za kupigwa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "zinazosikika"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "kwa ngoma za kupigwa"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "za kelele za shangwe"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:19.014385101Z",
+  "model": "glm-5.2"
+}

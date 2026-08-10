@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Nayo ⟨the⟩ nchi ilifungua ⟨את⟩ kinywa chake nao wamelezwa, na ⟨את⟩ nyumba zao, na ⟨את⟩ ⟨the⟩ watu wote ambao ni wa Korahi, na ⟨את⟩ ⟨the⟩ mali yote.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "nayo ilifungua"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinywa chake"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "kinywa chake"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "nao wamelezwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wamelezwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyumba zao"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "nyumba zao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "the watu wote ambao ni wa Korahi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "ni wa Korahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "the mali yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "mali"
+    }
+  ],
+  "timestamp": "2026-08-10T10:46:46.106985797Z",
+  "model": "glm-5.2"
+}

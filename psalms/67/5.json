@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 67,
+  "translation": "Wafurahi na waimbe kwa shangwe, taifa; kwa maana utawahukumu ⟨ה⟩ watu kwa uadilifu, na taifa ⟨kumi⟩ katika nchi utawaongoza. Selah.",
+  "tokens": [
+    {
+      "surface": "יִֽשְׂמְח֥וּ",
+      "gloss": "Wafurahi"
+    },
+    {
+      "surface": "וִֽירַנְּנ֗וּ",
+      "gloss": "na waimbe kwa shangwe"
+    },
+    {
+      "surface": "לְאֻ֫מִּ֥ים",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "תִשְׁפֹּ֣ט",
+      "gloss": "utawahukumu"
+    },
+    {
+      "surface": "עַמִּ֣ים",
+      "gloss": "⟨ה⟩ watu"
+    },
+    {
+      "surface": "מִישׁ֑וֹר",
+      "gloss": "kwa uadilifu"
+    },
+    {
+      "surface": "וּלְאֻמִּ֓ים",
+      "gloss": "na taifa"
+    },
+    {
+      "surface": "בָּאָ֖רֶץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "תַּנְחֵ֣ם",
+      "gloss": "utawaongoza"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:24.078537887Z",
+  "model": "glm-5.2"
+}

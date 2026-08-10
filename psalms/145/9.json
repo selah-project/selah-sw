@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 145,
+  "translation": "Mwema ni Yahweh kwa wote, na huruma zake ⟨ziko⟩ juu ya kazi zake zote.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mwema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa wote"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "na huruma zake"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "kazi zake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:01.847158798Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na ⟨את⟩ warudi nyuma kutoka nyuma ya Yahweh, ambao hawakutafuta ⟨את⟩ Yahweh wala hawakumtafuta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "warudi nyuma"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "warudi nyuma"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "kutoka nyuma ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawaku"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "tafuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hawaku"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "mtafuta"
+    }
+  ],
+  "timestamp": "2026-08-10T12:49:40.258083982Z",
+  "model": "glm-5.2"
+}

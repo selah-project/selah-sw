@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Kuhusu matendo ya binadamu, kwa neno la midomo yako mimi nilijilinda ⟨dhidi ya⟩ njia za mnyanyasaji.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Kuhusu matendo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya binadamu"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "kwa neno"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "la midomo yako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "nilijilinda"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "⟨dhidi ya⟩ njia"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "za mnyanyasaji"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:20.391653207Z",
+  "model": "glm-5.2"
+}

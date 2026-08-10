@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Nami nitawaadhibu ⟨את⟩ mzao wa David kwa ajili ya hii; lakini siyo siku zote.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "nami nitawaadhibu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzao wa David"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mzao"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hii"
+    },
+    {
+      "surface": "אך",
+      "gloss": "lakini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "siyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "siku"
+    }
+  ],
+  "timestamp": "2026-08-10T15:00:10.250599665Z",
+  "model": "glm-5.2"
+}

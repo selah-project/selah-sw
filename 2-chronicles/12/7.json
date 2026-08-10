@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 12:7",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na Yahweh alipoona ya kwamba wamejinyenyekea, neno la Yahweh likamjia SheMayah, akisema: Wamejinyenyekea; sitawaharibu, lakini nitawapa ⟨wokovu⟩ kidogo, na ghadhabu yangu haitamwagwa Yerushalayim kwa mkono wa Shishak.",
+  "tokens": [
+    {
+      "surface": "ובראות",
+      "gloss": "Na alipoona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "נכנעו",
+      "gloss": "wamejinyenyekea"
+    },
+    {
+      "surface": "היה",
+      "gloss": "likawa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "SheMayah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "נכנעו",
+      "gloss": "Wamejinyenyekea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sitawaharibu"
+    },
+    {
+      "surface": "אשחיתם",
+      "gloss": "⟨hata kidogo⟩"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "lakini nitawapa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨kwamba⟩"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "kidogo"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "⟨wokovu⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na haitamwagwa"
+    },
+    {
+      "surface": "תתך",
+      "gloss": "ghadhabu"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "yangu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwa mkono wa"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Shishak"
+    }
+  ],
+  "timestamp": "2026-08-10T14:14:45.565540613Z",
+  "model": "glm-5.2"
+}

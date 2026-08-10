@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na ⟨את⟩ Bahari akaiweka upande wa kushoto wa mashariki, kinyume na kusini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bahari"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Bahari"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akaiweka"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "upande"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "wa kushoto"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "wa mashariki"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "kinyume na"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "kusini"
+    }
+  ],
+  "timestamp": "2026-08-10T16:28:30.537520905Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Kwa maana Ezra aliandaa moyo wake kutafuta ⟨את⟩ Tora ya Yahweh na kufanya, na kufundisha nchini Yisrael amri na hukumu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "aliandaa"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "kutafuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "na kufanya"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "na kufundisha"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nchini Yisrael"
+    },
+    {
+      "surface": "חק",
+      "gloss": "amri"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na hukumu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:56:40.476882349Z",
+  "model": "glm-5.2"
+}

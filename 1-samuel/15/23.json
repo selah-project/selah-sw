@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 15:23",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Kwa maana makosa ya ususi ni uasi, na uovu na masanamu ni tenge. Kwa sababu umekataa ⟨את⟩ neno la Yahweh, naye pia amekukataa kutoka kuwa mfalme.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "makosa"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "ya ususi"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "ni uasi"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "na uovu"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "na masanamu"
+    },
+    {
+      "surface": "הפצר",
+      "gloss": "ni tenge"
+    },
+    {
+      "surface": "יען",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "umekataa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neno"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "naye amekukataa"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": " kutoka kuwa mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T14:52:14.641561579Z",
+  "model": "glm-5.2"
+}

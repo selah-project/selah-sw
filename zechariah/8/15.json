@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "vivyo hivyo nimerudi, nimepanga mipango katika siku hizi kufanya mema ⟨⟨את⟩ Yerushalayim⟩ na ⟨⟨את⟩ nyumba ya Yehudah⟩; msiogope.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "nimerudi"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "nimepanga mipango"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "katika siku"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hizi"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "kufanya mema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyumba ya Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mtaogopa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:52:06.474893579Z",
+  "model": "glm-5.2"
+}

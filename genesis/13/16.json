@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Nami nitaweka ⟨את⟩ mzazio wako kama mavumbi ya ardhi; hivi kwamba mtu awezaye kuhesabu ⟨את⟩ mavumbi ya ardhi, basi mzazio wako pia utahesabika.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Nami nitaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mzazio wako"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mzazio wako"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "kama mavumbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya ardhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hivi kwamba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "aweza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "kuhesabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mavumbi ya ardhi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mavumbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya ardhi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mzazio wako"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "utahesabika"
+    }
+  ],
+  "timestamp": "2026-08-10T14:24:18.405064521Z",
+  "model": "glm-5.2"
+}

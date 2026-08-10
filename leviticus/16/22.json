@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na mbuzi atabeba juu yake ⟨את⟩ dhambi zote zao hadi nchi iliyotengwa; naye atamwacha ⟨את⟩ mbuzi jangwani.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "na atabeba"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "mbuzi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhambi zote zao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "dhambi zao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "iliyotengwa"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "naye atamwacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuzi"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "mbuzi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "jangwani"
+    }
+  ],
+  "timestamp": "2026-08-10T14:34:55.794354951Z",
+  "model": "glm-5.2"
+}

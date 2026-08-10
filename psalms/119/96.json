@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Kwa kila ukamilifu nimeuona mwisho, lakini amri yako ni pana mno.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "Kwa kila"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "ukamilifu"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nimeuona"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "mwisho"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ni pana"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "amri yako"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mno"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:23.482571713Z",
+  "model": "glm-5.2"
+}

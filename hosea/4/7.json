@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Kadiri walivyoongezeka, vivyo hivyo walinitenda dhambi; utukufu wao nitaugeuza kuwa aibu.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "kadiri walivyoongezeka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "walitenda dhambi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni-"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "utukufu wao"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "kuwa aibu"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "nitaugeuza"
+    }
+  ],
+  "timestamp": "2026-08-10T15:20:37.161179634Z",
+  "model": "glm-5.2"
+}

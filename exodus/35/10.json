@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Na kila mwenye hekima wa moyo kati yenu naaje, nao afanye ⟨את⟩ vyote ambavyo Yahweh ameamuru.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na kila"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mwenye hekima"
+    },
+    {
+      "surface": "לב",
+      "gloss": "wa moyo"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kati yenu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "naaje"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "nao afanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambavyo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ameamuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:31:49.417065858Z",
+  "model": "glm-5.2"
+}

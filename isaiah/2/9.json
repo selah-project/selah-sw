@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na binadamu ameinamishwa chini, na mtu ameshushwa, nawe usiwapepee msamaha.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "na ameinamishwa chini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "binadamu"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "na ameshushwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na usi"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "pee msamaha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    }
+  ],
+  "timestamp": "2026-08-10T11:53:18.554798289Z",
+  "model": "glm-5.2"
+}

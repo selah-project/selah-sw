@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Kwa maana ⟨את⟩ nira ya mzigo wake, na ⟨את⟩ fimbo ya bega lake, fimbo ya anayemshinikiza, umeyavunja kama siku ya Midian.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "nira"
+    },
+    {
+      "surface": "עֹל",
+      "gloss": "nira"
+    },
+    {
+      "surface": "סֻבְּלוֹ",
+      "gloss": "ya mzigo wake"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "na ⟨את⟩",
+      "marks": "fimbo"
+    },
+    {
+      "surface": "מַטֵּה",
+      "gloss": "fimbo"
+    },
+    {
+      "surface": "שִׁכְמוֹ",
+      "gloss": "ya bega lake"
+    },
+    {
+      "surface": "שֵׁבֶט",
+      "gloss": "fimbo"
+    },
+    {
+      "surface": "הַנֹּגֵשׂ",
+      "gloss": "ya anayemshinikiza"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "(yake)"
+    },
+    {
+      "surface": "הֶחֱתַתָּ",
+      "gloss": "umeyavunja"
+    },
+    {
+      "surface": "כְּיוֹם",
+      "gloss": "kama siku"
+    },
+    {
+      "surface": "מִדְיָן",
+      "gloss": "ya Midian"
+    }
+  ],
+  "timestamp": "2026-08-10T16:06:18.106301273Z",
+  "model": "glm-5.2"
+}

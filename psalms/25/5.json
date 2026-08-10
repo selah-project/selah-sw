@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Niongoze katika kuaminika kwako, u nilifundishe, kwa sababu wewe ndiye Elohim wa wokovu wangu; ⟨את⟩ wewe nimengoja siku nzima.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Niongoze"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "katika kuaminika kwako"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "u nilifundishe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ndiye Elohim wa"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "wokovu wangu"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "wewe"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "nimengoja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "siku nzima"
+    },
+    {
+      "surface": "היום",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:07.653959523Z",
+  "model": "glm-5.2"
+}

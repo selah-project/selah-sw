@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 97,
+  "translation": "Wingu na giza la jela ⟨ni⟩ mzungukuo mwake; haki na hukumu ⟨ni⟩ msingi wa kiti chake cha enzi.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "wingu"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "na giza la jela"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "mzungukuo mwake"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "haki"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na hukumu"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "msingi"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "wa kiti chake cha enzi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:43.473779313Z",
+  "model": "glm-5.2"
+}

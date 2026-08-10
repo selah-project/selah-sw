@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na mfalme akafika kutoka Damasheki, na mfalme akaona ⟨את⟩ madhabahu, na mfalme akakaribia kwenye madhabahu, akatoa sadaka juu yake.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akafika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "kutoka Damasheki"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madhabahu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "akakaribia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "akatoa sadaka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:03:09.721439810Z",
+  "model": "glm-5.2"
+}

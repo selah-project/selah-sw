@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Nanyi mtaniita ⟨את⟩ nami mtaenda na kuomba mimi, nami nitawasikiliza.",
+  "tokens": [
+    {
+      "surface": "וּקְרָאתֶ֤ם",
+      "gloss": "Nanyi mtaniita"
+    },
+    {
+      "surface": "אֹתִי֙",
+      "gloss": "⟨את⟩",
+      "marks": "mimi"
+    },
+    {
+      "surface": "וַֽהֲלַכְתֶּ֔ם",
+      "gloss": "nami mtaenda"
+    },
+    {
+      "surface": "וְהִתְפַּלַּלְתֶּ֖ם",
+      "gloss": "na kuomba"
+    },
+    {
+      "surface": "אֵלָ֑י",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "וְשָׁמַעְתִּ֖י",
+      "gloss": "nami nitawasikiliza"
+    },
+    {
+      "surface": "אֲלֵיכֶֽם",
+      "gloss": "nyinyi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:13:10.153830165Z",
+  "model": "glm-5.2"
+}

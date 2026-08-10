@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Sawa na idadi mtakavyofanya, hivyo ndivyo mtakavyofanya kwa kila mmoja, kulingana na idadi yao.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "swa na idadi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mtakavyofanya"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "hivyo ndivyo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mtakavyofanya"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "kwa kila mmoja"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "kulingana na idadi yao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:46:13.441527123Z",
+  "model": "glm-5.2"
+}

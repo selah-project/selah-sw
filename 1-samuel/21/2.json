@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na David akaenda Nobi kwa Achimeleki kuhani, naye Achimeleki akatetemeka kumkutana David, naye akamwambia, Kwa nini wewe u peke yako, na hakuna mtu ⟨את⟩ pamoja nawe?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "na akaenda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "Nobi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimeleki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "naye akatetemeka"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimeleki"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kumkutana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akamwambia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mw"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "u peke yako"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na hakuna mtu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "pamoja nawe"
+    }
+  ],
+  "timestamp": "2026-08-10T18:04:02.048723407Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 97,
+  "translation": "Nuru ⟨ime⟩pandwa kwa mtenda-haki, na furaha kwa wenye moyo wa kweli.",
+  "tokens": [
+    {
+      "surface": "א֭וֹר",
+      "gloss": "Nuru"
+    },
+    {
+      "surface": "זָרֻ֣עַ",
+      "gloss": "⟨ime⟩pandwa"
+    },
+    {
+      "surface": "לַצַּדִּ֑יק",
+      "gloss": "kwa mtenda-haki"
+    },
+    {
+      "surface": "וּֽלְיִשְׁרֵי",
+      "gloss": "na kwa wenye"
+    },
+    {
+      "surface": "לֵ֥ב",
+      "gloss": "moyo wa kweli"
+    },
+    {
+      "surface": "שִׂמְחָֽה",
+      "gloss": "furaha"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:41.985424226Z",
+  "model": "glm-5.2"
+}

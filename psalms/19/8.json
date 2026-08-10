@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Torah ya Yahweh ⟨ni⟩ kamili,⟨inayo⟩rudisha nefesh; ushahidi wa Yahweh ⟨ni⟩ wa kuaminika,⟨unayo⟩fanya mwenye akili mpumbavu.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "kamili"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "⟨inayo⟩rudisha"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ushahidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "wa kuaminika"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "⟨unayo⟩fanya mwenye akili"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "mpumbavu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:35.090858481Z",
+  "model": "glm-5.2"
+}

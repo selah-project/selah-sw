@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 139,
+  "translation": "⟨Ni⟩ ya ajabu maarifa haya ⟨kinichos⟩, imeinuka juu; siwezi kuiifikia.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "ya ajabu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "maarifa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kinichos"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "imeinuka juu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "siwezi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "siwezi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuiifikia"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:16.471791799Z",
+  "model": "glm-5.2"
+}

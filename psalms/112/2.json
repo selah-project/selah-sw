@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 112,
+  "translation": "Mwenye nguvu katika nchi atakuwa mzao wake; kizazi cha wanyofu kitabarikiwa.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Mwenye nguvu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "atakuwa"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "mzao wake"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kizazi"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "cha wanyofu"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "kitabarikiwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:20.525588253Z",
+  "model": "glm-5.2"
+}

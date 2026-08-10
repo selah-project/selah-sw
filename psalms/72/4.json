@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 72,
+  "translation": "⟨Ata⟩ wahukumu maskini wa watu, awaokoe wana wa mtu maskini, na ampsague mmdhuru.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "wahukumu"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "maskini wa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "watU"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "awaokoe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "mtu maskini"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "na ampsague"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "mmdhuru"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:45.321798134Z",
+  "model": "glm-5.2"
+}

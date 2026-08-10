@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na Elohim akaona ⟨את⟩ matendo yao, ya kwamba waligeuka kutokana na njia yao mbaya; na Elohim akajuta kuhusu uovu aliouzungumzia kufanya kwao, naye hakufanya.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֤רְא",
+      "gloss": "na akaona"
+    },
+    {
+      "surface": "הָֽאֱלֹהִים֙",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "matendo yao"
+    },
+    {
+      "surface": "מַ֣עֲשֵׂיהֶ֔ם",
+      "gloss": "matendo yao"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "שָׁ֣בוּ",
+      "gloss": "waligeuka"
+    },
+    {
+      "surface": "מִדַּרְכָּ֑ם",
+      "gloss": "kutokana na njia yao"
+    },
+    {
+      "surface": "הָרָעָֽה׃",
+      "gloss": "mbaya"
+    },
+    {
+      "surface": "וַיִּּנָ֣חֶם",
+      "gloss": "na akajuta"
+    },
+    {
+      "surface": "הָאֱלֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "kuhusu"
+    },
+    {
+      "surface": "הָרָעָ֛ה",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "אֲשֶׁר־",
+      "gloss": "aliouzungumzia"
+    },
+    {
+      "surface": "דִּבֶּר֥",
+      "gloss": ""
+    },
+    {
+      "surface": "לַעֲשׂ֖וֹת",
+      "gloss": "kufanya"
+    },
+    {
+      "surface": "לָהֶֽם׃",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "naye haku"
+    },
+    {
+      "surface": "עָשָֽׂה׃",
+      "gloss": "fanya"
+    }
+  ],
+  "timestamp": "2026-08-10T12:46:33.622735907Z",
+  "model": "glm-5.2"
+}

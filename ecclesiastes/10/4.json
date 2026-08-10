@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Kama roho ya mtawala inapanda juu yako, usiache mahali pako, kwa kuwa upole huweka chini dhambi kubwa.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "ר֤וּחַ",
+      "gloss": "roho"
+    },
+    {
+      "surface": "הַמּוֹשֵׁל֙",
+      "gloss": "ya mtawala"
+    },
+    {
+      "surface": "תַּעֲלֶ֣ה",
+      "gloss": "inapanda"
+    },
+    {
+      "surface": "עָלֶ֔יךָ",
+      "gloss": "juu yako"
+    },
+    {
+      "surface": "מְקוֹמְךָ֖",
+      "gloss": "mahali pako"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תַּנַּ֑ח",
+      "gloss": "ache"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "מַרְפֵּ֔א",
+      "gloss": "upole"
+    },
+    {
+      "surface": "יַנִּ֖יחַ",
+      "gloss": "huweka chini"
+    },
+    {
+      "surface": "חֲטָאִ֥ים",
+      "gloss": "dhambi"
+    },
+    {
+      "surface": "גְּדוֹלִֽים",
+      "gloss": "kubwa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:37:25.328281306Z",
+  "model": "glm-5.2"
+}

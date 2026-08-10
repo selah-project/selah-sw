@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 58,
+  "translation": "ambaye hasikii sauti ya walioloweka, ⟨hata⟩ mwenye uwezo wa uchawi mkuu sana.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "sikii"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sauti ya"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "walioloweka"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "⟨hata⟩ mwenye uwezo wa uchawi"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "uchawi"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "mkuu sana"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:24.659292671Z",
+  "model": "glm-5.2"
+}

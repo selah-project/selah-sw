@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Kwa maana wakuu wake walikuwa Tsoani, na wajumbe wake Hanes wamefika.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "היו",
+      "gloss": "walikuwa"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "Tsoani"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "wakuu wake"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "na wajumbe wake"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "Hanes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "wamefika"
+    }
+  ],
+  "timestamp": "2026-08-10T12:01:40.088498964Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 23:3",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Na Walowi wakahesabiwa, mtoto wa miaka thelathini na kuendelea, nao wakawa idadi yao, kwa kichwa chao, kwa wanaume thelathini na nane elfu.",
+  "tokens": [
+    {
+      "surface": "ויספרו",
+      "gloss": "wakahesabiwa"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Walowi"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "mtoto wa"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thelathini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "na kuendelea"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na wakawa"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "idadi yao"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "kwa kichwa chao"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "kwa wanaume"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thelathini"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "na nane"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elfu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:28:04.574351333Z",
+  "model": "glm-5.2"
+}

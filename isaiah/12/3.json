@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na mtavuta maji kwa shangwe, kutoka chemchem za ⟨הַ⟩ ukombozi.",
+  "tokens": [
+    {
+      "surface": "וּשְׁאַבְתֶּם",
+      "gloss": "Na mtavuta"
+    },
+    {
+      "surface": "מַ֖יִם",
+      "gloss": "maji"
+    },
+    {
+      "surface": "בְּשָׂשׂ֑וֹן",
+      "gloss": "kwa shangwe"
+    },
+    {
+      "surface": "מִמַּעַיְנֵ֖י",
+      "gloss": "kutoka chemchem za"
+    },
+    {
+      "surface": "הַיְשׁוּעָֽה",
+      "gloss": "⟨הַ⟩ ukombozi"
+    }
+  ],
+  "timestamp": "2026-08-10T16:06:41.243863086Z",
+  "model": "glm-5.2"
+}

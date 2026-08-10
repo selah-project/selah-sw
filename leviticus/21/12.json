@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na kutoka katika patakatifu hatatoka, wala hatatamba ⟨את⟩ patakatifu pa Elohim wake; kwa kuwa nazo ya mafaka ya kupaka ya Elohim wake yam juu yake; mimi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Na kutoka katika"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "patakatifu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatatoka"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "hatatamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patakatifu"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "patakatifu"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "pa Elohim wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nazo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ya mafaka"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ya kupaka"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ya Elohim wake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yam juu yake"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:05.012765592Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 94:19",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 94,
+  "translation": "Katika wingi wa mawazo yangu ndani yangu, faraja zako huzipendeza nafsi yangu.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "Katika wingi wa"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "mawazo yangu"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ndani yangu"
+    },
+    {
+      "surface": "תנחומיך",
+      "gloss": "faraja zako"
+    },
+    {
+      "surface": "ישעשעו",
+      "gloss": "huzipendeza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:07.169708481Z",
+  "model": "glm-5.2"
+}

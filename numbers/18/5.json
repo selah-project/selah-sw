@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Nanyi mtalinda ⟨את⟩ ulinzi wa mahali patakatifu na ⟨את⟩ ulinzi wa madhabahu, wala isiwepo tena ghadhabu juu ya wana wa Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "nanyi mtalinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulinzi wa mahali patakatifu"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ulinzi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "wa mahali patakatifu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ulinzi wa madhabahu"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ulinzi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "wa madhabahu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala isi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wepo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ghadhabu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-10T14:39:42.606746980Z",
+  "model": "glm-5.2"
+}

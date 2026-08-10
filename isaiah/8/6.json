@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Kwa sababu watu hawa wameidharau ⟨את⟩ maji ya Shiloah yanayotiririka taratibu, na kufurahi kwa Retzin na mwana wa Remalyahu;",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Kwa sababu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "wameidharau"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maji"
+    },
+    {
+      "surface": "מי",
+      "gloss": "maji"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "ya Shiloah"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "yanayotiririka"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "taratibu"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "na kufurahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Retzin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "kwa Retzin"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na mwana"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "wa Remalyahu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:50.020588864Z",
+  "model": "glm-5.2"
+}

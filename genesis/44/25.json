@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Na baba yetu akasema: Rudi, nununueni chakula kidogo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "baba yetu"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "rudi"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "nununueni"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kidogo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chakula"
+    }
+  ],
+  "timestamp": "2026-08-10T10:15:51.232615251Z",
+  "model": "glm-5.2"
+}

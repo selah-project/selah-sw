@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 62,
+  "translation": "Tu kwa Elohim nefesh yangu ⟨i⟩nyamaze; kutoka kwake ⟨i⟩soko uokoaji wangu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "nyamaze"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh yangu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kutoka kwake"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "uokoaji wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:12.756704384Z",
+  "model": "glm-5.2"
+}

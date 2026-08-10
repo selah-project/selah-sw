@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na kuzaliwa kwakuwa siku ya kuzaliwa kwako, kitovu chako hakikatwa, na kwa maji hukuoshwa ⟨ili kukupumzisha⟩, wala hukufunikwa chumvi, wala hukufungishwa nguo.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "Na kuzaliwa kwakuwa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "ya kuzaliwa kwako"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wewe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakikatwa"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "⟨kilichokatwa⟩"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "kitovu chako"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "na kwa maji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hukuoshwa"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "⟨kuoshwa⟩"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "⟨ili kukupumzisha⟩"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "wala ⟨na⟩ chumvi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hukufunikwa"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "⟨kufunikwa⟩"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "wala hukufungishwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨si⟩"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "nguo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:16:07.070139596Z",
+  "model": "glm-5.2"
+}

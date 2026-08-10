@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 88,
+  "translation": "Kwanini, ee Yahweh, unakataa nafsi yangu, unaficha uso wako ⟨uniepuka⟩?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "kwanini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ee Yahweh"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "unakataa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "unaficha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uso wako"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "uniepuka"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:19.988908513Z",
+  "model": "glm-5.2"
+}

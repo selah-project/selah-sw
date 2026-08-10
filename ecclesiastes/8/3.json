@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Usifanye haraka kuondoka mbele yake; usisimame katika jambo baya, maana yote amtakayo atatenda.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "fanye haraka"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kuondoka mbele yake"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "(ondoka)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "sisimame"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "katika jambo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "baya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amtakayo"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "(amtakayo)"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "atatenda"
+    }
+  ],
+  "timestamp": "2026-08-10T15:38:09.948253304Z",
+  "model": "glm-5.2"
+}

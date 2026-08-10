@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 25:2",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "«Sema na wana wa Yisrael, uwaambie: 'Mnapoingia katika nchi ninayowapa, nchi itashika shabbat, shabbat kwa Yahweh.'»",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Sema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uwaambie"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Mnapo"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "ingia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "katika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ninayowapa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "nchi itashika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:47.818512817Z",
+  "model": "glm-5.2"
+}

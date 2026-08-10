@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Lakini ⟨aliyaona⟩ dhiki yao, aliposikia ⟨את⟩ kilio chao.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "⟨aliyaona⟩"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dhiki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yao"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "aliposikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kilio chao"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "kilio chao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:42.450178694Z",
+  "model": "glm-5.2"
+}

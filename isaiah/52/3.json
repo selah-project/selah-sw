@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 52,
+  "translation": "Kwa maana hivi alisema Yahweh: Bila malipo mliuzwa, na si kwa fedha mtakukomolewa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alisema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bila malipo"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "mliuzwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na si"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "kwa fedha"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "mtakukomolewa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:07:20.003247394Z",
+  "model": "glm-5.2"
+}

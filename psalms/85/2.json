@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 85,
+  "translation": "Umeridhika, ee Yahweh, na nchi yako; umeirejesha ⟨את⟩ mateka ya Yaakob.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "Umeridhika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "na nchi yako"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "umeirejesha"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "⟨את⟩ mateka",
+      "marks": "mateka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakob"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:50.049234642Z",
+  "model": "glm-5.2"
+}

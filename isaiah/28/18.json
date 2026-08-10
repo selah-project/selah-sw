@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 28:18",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Na mapatano yenu na ⟨את⟩ kifo yatavunjwa, na maono yenu na ⟨את⟩ Sheol hayatatekeleza; wakati mjeledi wa mafuriko unapopita, nyinyi mtakuwa kwa huo kwa kutiwa chini.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "yatavunjwa"
+    },
+    {
+      "surface": "בריתכם",
+      "gloss": "mapatano yenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kifo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "na kifo"
+    },
+    {
+      "surface": "וחזותכם",
+      "gloss": "na maono yenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheol"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "na Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayatatekeleza"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "⟨hayatatekeleza⟩"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "mjeledi"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "wa mafuriko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "unapopita"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "nyinyi mtakuwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa huo"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "kwa kutiwa chini"
+    }
+  ],
+  "timestamp": "2026-08-10T12:00:39.783505966Z",
+  "model": "glm-5.2"
+}

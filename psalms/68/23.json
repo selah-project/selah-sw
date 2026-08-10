@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Adonai alisema: Kutoka Bashan nitarudisha, nitarudisha kutoka kina cha bahari.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "alisema"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Kutoka Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nitarudisha"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nitarudisha"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "kutoka kina"
+    },
+    {
+      "surface": "ים",
+      "gloss": "cha bahari"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:10.197833937Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "«Tokatoka katika safina, wewe na mkeo na wanao na wake wa wanao ⟨pamoja na⟩ ⟨את⟩ wewe.»",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "tokatoka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "katika"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "safina"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "na mkeo"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "na wanao"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "na wake"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wa wanao"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wewe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:02:25.389645931Z",
+  "model": "glm-5.2"
+}

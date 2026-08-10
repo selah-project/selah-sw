@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Basi Yehu akatekeleza ⟨את⟩ Baali katika Yisraeli.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "akatekeleza"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baali"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baali"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "katika Yisraeli"
+    }
+  ],
+  "timestamp": "2026-08-10T11:47:38.555069891Z",
+  "model": "glm-5.2"
+}

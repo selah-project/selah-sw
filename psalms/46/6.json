@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 46,
+  "translation": "Elohim ⟨u⟩ katikati yake; ⟨haitatetereka⟩; Elohim atamsaidia alfajiri.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "katikati yake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨haitatetereka⟩"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "⟨haitatetereka⟩"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "atamsaidia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "alfajiri"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "alfajiri"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:05.272444695Z",
+  "model": "glm-5.2"
+}

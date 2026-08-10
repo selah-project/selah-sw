@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 73,
+  "translation": "Kwa hiyo watu wake ⟨hurudi⟩ huku, na maji ya ukamilifu hukamwa kwao.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kwa hiyo"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "⟨hurudi⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "watu wake"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "huku"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na maji"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ya ukamilifu"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "hukamwa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:12.396118924Z",
+  "model": "glm-5.2"
+}

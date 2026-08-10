@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 60,
+  "translation": "Wangu ⟨ni⟩ Giladi, na wangu ⟨ni⟩ Menashheh, na Efrayimu ⟨ni⟩ ngao ya kichwa changu, Yehudah ⟨ni⟩ mtunga sheria wangu.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "wangu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "na wangu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "na Efrayimu"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ngao"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kichwa changu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "mtunga sheria wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T17:54:32.232769830Z",
+  "model": "glm-5.2"
+}

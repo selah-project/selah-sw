@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 132,
+  "translation": "Yahweh aliapa kwa David ⟨kwa⟩ ukweli, hatatoka kwake: «Kwa tunda ya tumbo lako nitaweka kiti cha enzi kwa ajili yako.»",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "aliapa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwa David"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "⟨kwa⟩ ukweli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "tatoka"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "kwa tunda ya"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "tumbo lako"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "nitaweka"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "kiti cha enzi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa ajili yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:49.116677360Z",
+  "model": "glm-5.2"
+}

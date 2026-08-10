@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 72,
+  "translation": "⟨Ataweza⟩ ahukumu watu wako kwa haki, na maskini wako kwa hukumu.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "ahukumu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "watu wako"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "kwa haki"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "na maskini wako"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kwa hukumu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:45.321577893Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na akatamka mashale elfu tatu, na nyimbo zake kuwa elfu na tano.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Na akatamka"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "elfu tatu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": " elfu"
+    },
+    {
+      "surface": "משל",
+      "gloss": "mashale"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na kuwa"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "nyimbo zake"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "tano"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "na elfu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:38:28.447764988Z",
+  "model": "glm-5.2"
+}

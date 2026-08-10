@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Moshe na Aharon walichukua ⟨את⟩ watu hawa waliotajwa kwa majina.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akachukua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu hawa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waliotajwa"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": " walitajwa"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "kwa majina"
+    }
+  ],
+  "timestamp": "2026-08-10T18:27:32.356438093Z",
+  "model": "glm-5.2"
+}

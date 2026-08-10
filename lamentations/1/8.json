@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 1:8",
+  "book": "lamentations",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Jinsi Yerusalemu alivyo dhambi sana, kwa hiyo akawa mchafu; wote wamheshimu walimdharau, kwa kuwa waliuona uchi wake; hata yeye mwenyewe alihema na kurudi nyuma.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "dhambi"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "alidhuru"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalemu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kwa hiyo"
+    },
+    {
+      "surface": "לנידה",
+      "gloss": "kwa mchafu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "akawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "מכבדיה",
+      "gloss": "wamheshimu"
+    },
+    {
+      "surface": "הזילוה",
+      "gloss": "walimdharau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "waliuona"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "uchi wake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yeye mwenyewe"
+    },
+    {
+      "surface": "נאנחה",
+      "gloss": "alihema"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "na kurudi"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "nyuma"
+    }
+  ],
+  "timestamp": "2026-08-10T15:36:46.490331176Z",
+  "model": "glm-5.2"
+}

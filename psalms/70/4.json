@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 70,
+  "translation": "Warudi nyuma kwa sababu ya aibu yao, ⟨sawa na⟩ wanaosema: He! He!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Warudi nyuma"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sawa na⟩"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨kwa sababu ya⟩"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "aibu yao"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "wanaosema"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He!"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:36.661189695Z",
+  "model": "glm-5.2"
+}

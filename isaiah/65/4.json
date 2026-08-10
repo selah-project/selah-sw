@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 65,
+  "translation": "<Wanaokaa> ⟨⟩ kwenye makaburi, na kwenye ⟨⟩ mahali pa kufichwa walilala; <wanaokula> nyama ya nguruwe, na ⟨⟩ mchuzi wa vitu vyenye harufu mbaya ⟨⟩ katika vyombo vyao.",
+  "tokens": [
+    {
+      "surface": "הַיֹּֽשְׁבִים֙",
+      "gloss": "wanaokaa"
+    },
+    {
+      "surface": "בַּקְּבָרִ֔ים",
+      "gloss": "kwenye makaburi"
+    },
+    {
+      "surface": "וּבַנְּצוּרִ֖ים",
+      "gloss": "na kwenye mahali pa kufichwa"
+    },
+    {
+      "surface": "יָלִ֑ינוּ",
+      "gloss": "walilala"
+    },
+    {
+      "surface": "הָאֹֽכְלִים֙",
+      "gloss": "wanaokula"
+    },
+    {
+      "surface": "בְּשַׂ֣ר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "הַחֲזִ֔יר",
+      "gloss": "ya nguruwe"
+    },
+    {
+      "surface": "וְפַרַק",
+      "gloss": "na mchuzi"
+    },
+    {
+      "surface": "פִּגֻּלִ֖ים",
+      "gloss": "wa vitu vyenye harufu mbaya"
+    },
+    {
+      "surface": "כְּלֵיהֶֽם",
+      "gloss": "katika vyombo vyao"
+    }
+  ],
+  "timestamp": "2026-08-10T17:49:25.491534058Z",
+  "model": "glm-5.2"
+}

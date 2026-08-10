@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 116,
+  "translation": "Nadhiri zangu kwa Yahweh nitazitimiza, ⟨nihudhurie⟩ sasa mbele ya taifa lake lote.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "nadhiri zangu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "nitazitimiza"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "⟨nihudhurie⟩ mbele"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ya ⟨taifa lake⟩ lote"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "taifa lake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:40.012906701Z",
+  "model": "glm-5.2"
+}

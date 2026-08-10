@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Moshe akawaagiza ⟨את⟩ ⟨akisema⟩: Baada ya miaka saba, wakati uliowekwa, mwaka wa kuachana, katika sikukuu ya maskani —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "akawaagiza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨akisema⟩",
+      "marks": "kuwaagiza"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "Baada ya"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "saba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "wakati uliowekwa"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "wa kuachana"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "katika sikukuu"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "ya maskani"
+    }
+  ],
+  "timestamp": "2026-08-10T15:57:51.202024222Z",
+  "model": "glm-5.2"
+}

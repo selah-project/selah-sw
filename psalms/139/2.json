@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 139,
+  "translation": "Wewe unajua kukaa kwangu na kusimama kwangu; unafahamu mawazo yangu kutoka mbali.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wewe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "unajua"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "kukaa kwangu"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "na kusimama kwangu"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "unafahamu"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "mawazo yangu"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kutoka mbali"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:55.021437882Z",
+  "model": "glm-5.2"
+}

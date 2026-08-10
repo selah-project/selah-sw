@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 5:11",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na Chiramu mfalme wa Tzori akatuma wajumbe kwa Davidi, na miti ya mikedari, na watengenezaji wa mbao, na watengenezaji wa mawe wa ukuta; nao wakamjengea nyumba Davidi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "na akatuma"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiramu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "צר",
+      "gloss": "wa Tzori"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "wajumbe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "na miti"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ya mikedari"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "na watengenezaji"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "wa mbao"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "na watengenezaji"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "wa mawe"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "wa ukuta"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "na wakamjengea"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:55:44.169064184Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Wafalme wote wa mataifa, wote wao, wamelala kwa utukufu, kila mmoja nyumbani mwake",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "wa mataifa"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "wote wao"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "wamelala"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "kwa utukufu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mmoja"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "nyumbani mwake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:57:14.452858547Z",
+  "model": "glm-5.2"
+}

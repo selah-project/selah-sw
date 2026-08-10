@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 28:26",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Na kitu cha maiti yako kitakuwa chakula kwa ndege wote wa mbingu na kwa wanyama wa nchi, wala hapana atakayechekesha.",
+  "tokens": [
+    {
+      "surface": "וְהָיְתָ֤ה",
+      "gloss": "Na itakuwa"
+    },
+    {
+      "surface": "נִבְלָֽתְךָ֙",
+      "gloss": "kitu cha maiti yako"
+    },
+    {
+      "surface": "לְמַאֲכָ֔ל",
+      "gloss": "chakula"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "kwa wote"
+    },
+    {
+      "surface": "ע֥וֹף",
+      "gloss": "ndege"
+    },
+    {
+      "surface": "הַשָּׁמַ֖יִם",
+      "gloss": "wa mbingu"
+    },
+    {
+      "surface": "וּלְבֶהֱמַ֣ת",
+      "gloss": "na kwa wanyama"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "וְאֵ֖ין",
+      "gloss": "wala hapana"
+    },
+    {
+      "surface": "מַחֲרִֽיד",
+      "gloss": "atakayechekesha"
+    }
+  ],
+  "timestamp": "2026-08-10T11:02:24.999876538Z",
+  "model": "glm-5.2"
+}

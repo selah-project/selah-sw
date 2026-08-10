@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 80,
+  "translation": "Elohim wa majeshi, tafadhali rudi, tazama kutoka mbinguni, na uione, na kutembelea mzabibu huu;",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wa majeshi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "rudi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kutoka mbinguni"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "na uione"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "na kutembelea"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "mzabibu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "huu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:12.175278698Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 143,
+  "translation": "Na katika chesed yako ukaangamize adui zangu, na uhangamize wote wanaonifinya nefesh yangu, kwa sababu mimi mtumishi wako.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "Na katika chesed yako"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "ukaangamize"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "adui zangu"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "na uhangamize"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "wanaonifinya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh yangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mtumishi wako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:26.355875916Z",
+  "model": "glm-5.2"
+}

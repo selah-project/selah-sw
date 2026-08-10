@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Naye akaniambia: Hata jioni asubuhi, elfu mbili na mia tatu; na hapo mahali patakatifu pataheshimika.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akaniambia"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "jioni"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "elfu mbili"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na tatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "na hapo pataheshimika"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mahali patakatifu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:53:25.210225390Z",
+  "model": "glm-5.2"
+}

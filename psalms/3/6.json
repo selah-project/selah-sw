@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Mimi nililala na kulala, nikaamka, maana Yahweh ananiunga mkono.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "nililala"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "na kulala"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "nikaamka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "ananiunga mkono"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:26.659344412Z",
+  "model": "glm-5.2"
+}

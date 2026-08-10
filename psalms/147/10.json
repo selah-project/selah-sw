@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 147,
+  "translation": "Hapendi katika nguvu za farasi, wala hapendezwi na miguu ya ⟨mwanamume⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "katika nguvu"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "za farasi"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "anapenda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "katika miguu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ya mwanamume"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "anapendezwa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:04.907741803Z",
+  "model": "glm-5.2"
+}

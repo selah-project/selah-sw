@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Kwa kuwa nitayamimina maji juu ya mwenye kiu, na mito juu ya nchi kavu; nitamimina roho yangu juu ya mzao wako, na baraka yangu juu ya wazao wako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "nitayamimina"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "mwenye kiu"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "na mito"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "nchi kavu"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "nitamimina"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "roho yangu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mzao wako"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "na baraka yangu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "wazao wako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:05:07.034264983Z",
+  "model": "glm-5.2"
+}

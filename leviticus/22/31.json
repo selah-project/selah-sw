@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Mtalinda amri zangu na kuzitenda ⟨את⟩; mimi ⟨ni⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Mtalinda"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amri zangu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "na kuzitenda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "amri zangu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:04.341598181Z",
+  "model": "glm-5.2"
+}

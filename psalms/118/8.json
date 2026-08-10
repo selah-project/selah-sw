@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 118,
+  "translation": "Ni vizuri kujificha katika Yahweh kuliko kutegemea binadamu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Ni vizuri"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "kujificha"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "katika Yahweh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "kuliko kutegemea"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "binadamu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:03.497113453Z",
+  "model": "glm-5.2"
+}

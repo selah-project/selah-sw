@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na mtumwa wako uko katikati ya taifa lako ulilochagua, taifa kubwa ambalo haliwezi kuhesabiwa wala kuhesabwa kwa wingi.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "Na mtumwa wako"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uko katikati"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ya taifa lako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "ulilochagua"
+    },
+    {
+      "surface": "עם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haliwezi"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "kuhesabiwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "kuhesabwa"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "kwa wingi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:37:51.451374298Z",
+  "model": "glm-5.2"
+}

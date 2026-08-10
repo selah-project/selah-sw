@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 91,
+  "translation": "Atanipiga kelele nami nitamjibu; mimi nitakuwa pamoja naye katika dhiki, nitamwokoa nimkirimu.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "atanipiga kelele"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "nami nitamjibu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja naye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "katika dhiki"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "nitamwokoa"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "nimkirimu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:16.485443178Z",
+  "model": "glm-5.2"
+}

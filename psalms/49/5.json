@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Nitainamisha sikio langu kwa mithali; nitafungua kwa kinara mafumbo yangu.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "nitainamisha"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "kwa mithali"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "sikio langu"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "nitafungua"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kwa kinara"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "mafumbo yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:10.212714430Z",
+  "model": "glm-5.2"
+}

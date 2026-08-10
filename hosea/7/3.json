@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Kwa uovu wao wanamfurahisha mfalme, na kwa uongo wao, machifu.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "kwa uovu wao"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "wanamfurahisha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "na kwa uongo wao"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "machifu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:41:45.151515509Z",
+  "model": "glm-5.2"
+}

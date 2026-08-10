@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Ni nani atakayesema matendo ya nguvu ya Yahweh, ni nani atakayotangaza ⟨kusikia⟩ sifa zake zote?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ni nani"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "atakayesema"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "matendo ya nguvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "atakayotangaza ⟨kusikia⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sifa zake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:18.826309647Z",
+  "model": "glm-5.2"
+}

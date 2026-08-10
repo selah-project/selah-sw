@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Akasema Paroh: Tazama, umati wa nchi ya ardhini sasa ⟨ni⟩ mwingi, nanyi mewafanya waache mizigo yao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akasema"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mwingi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umati"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa nchi ya ardhini"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "nanyi mewafanya waache"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mizigo yao"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "mizigo yao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:52.831842973Z",
+  "model": "glm-5.2"
+}

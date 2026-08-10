@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na wakafanya wana wote wa Yisra'el kama alivyoamuru Yahweh ⟨את⟩ Moshe na ⟨את⟩ Aharon; vivyo hivyo walifanya.",
+  "tokens": [
+    {
+      "surface": "וַיַּֽעֲשׂ֖וּ",
+      "gloss": "Na wakafanya"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "wana"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֨ר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "צִוָּ֧ה",
+      "gloss": "alivyoamuru"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וְאֶֽת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אַהֲרֹ֖ן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כֵּ֥ן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "עָשֽׂוּ",
+      "gloss": "walifanya"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:42.777181818Z",
+  "model": "glm-5.2"
+}

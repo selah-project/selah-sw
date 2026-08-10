@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na usikie kutoka mbingu ⟨את⟩ sala yao na ⟨את⟩ maombi yao, na utende hukumu yao.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Na usikie"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sala yao"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "sala yao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maombi yao"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "maombi yao"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "na utende"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "hukumu yao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:44:27.180035785Z",
+  "model": "glm-5.2"
+}

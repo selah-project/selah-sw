@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 36:21",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "na Dishon, na Etser, na Dishan; hawa ndio machifu wa Mhoriri, wana wa Seir, katika nchi ya Edom.",
+  "tokens": [
+    {
+      "surface": "ודשון",
+      "gloss": "na Dishon"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "na Etser"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "na Dishan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ndio machifu wa"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Mhoriri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi ya"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-10T10:11:55.564841601Z",
+  "model": "glm-5.2"
+}

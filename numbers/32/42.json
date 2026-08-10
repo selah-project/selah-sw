@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Na Novakh akaenda akateka ⟨את⟩ Kenath na ⟨את⟩ binti zake, akaiita kwa jina lake Novakh.",
+  "tokens": [
+    {
+      "surface": "וְנֹ֣בַח",
+      "gloss": "Na Novakh"
+    },
+    {
+      "surface": "הָלַ֔ךְ",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "וַיִּלְכֹּ֥ד",
+      "gloss": "akateka"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Kenath"
+    },
+    {
+      "surface": "קְנָ֖ת",
+      "gloss": "Kenath"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "binti zake"
+    },
+    {
+      "surface": "בְּנֹתֶ֑יהָ",
+      "gloss": "binti zake"
+    },
+    {
+      "surface": "וַיִּקְרָ֧א",
+      "gloss": "akaiita"
+    },
+    {
+      "surface": "לָ֦ה",
+      "gloss": "hi"
+    },
+    {
+      "surface": "נֹ֖בַח",
+      "gloss": "Novakh"
+    },
+    {
+      "surface": "בִּשְׁמֽוֹ",
+      "gloss": "kwa jina lake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:40:23.543113341Z",
+  "model": "glm-5.2"
+}

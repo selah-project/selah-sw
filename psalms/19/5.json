@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Katika nchi yote ⟨umeenda⟩ kamba yake, na katika ncha ya dunia maneno yao. Kwa jua ⟨amepanga⟩ hema ⟨ndani yao⟩.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "⟨umeenda⟩"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kamba yake"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "na katika ncha"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ya dunia"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "maneno yao"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "kwa jua"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨amepanga⟩"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨ndani yao⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:35.090265912Z",
+  "model": "glm-5.2"
+}

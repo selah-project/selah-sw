@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 132,
+  "translation": "Tazama, tulisikia habari yake ⟨hiyo⟩ bEfratah, tukaipata ⟨hiyo⟩ katika mashamba ya msitu.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "tulisikia habari yake"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "bEfratah"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "tukaipata"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "katika mashamba ya"
+    },
+    {
+      "surface": "יער",
+      "gloss": "msitu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:46.373676536Z",
+  "model": "glm-5.2"
+}

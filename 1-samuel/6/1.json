@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na ilikuwa ARON ya Yahweh katika shamba la Wapelishti siku saba za mwezi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ikawa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ARON"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "katika shamba"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "la Wapelishti"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "siku saba"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "za mwezi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:21:31.925934973Z",
+  "model": "glm-5.2"
+}

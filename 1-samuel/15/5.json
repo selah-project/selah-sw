@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Na Shaul akafika mpaka mji wa Amaleki, akajificha kwenye bonde.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "na akafika"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "wa Amaleki"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "akajificha"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "kwenye bonde"
+    }
+  ],
+  "timestamp": "2026-08-10T11:22:58.339205291Z",
+  "model": "glm-5.2"
+}

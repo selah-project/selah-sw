@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Kwa sababu hakukumbuka kufanya chesed, na akamtafuta mtu maskini na mhitaji, na mwenye moyo wa kupondwa, ili kumwua.",
+  "tokens": [
+    {
+      "surface": "יַ֗עַן",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "⟨ambaye⟩"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "haku"
+    },
+    {
+      "surface": "זָכַר֮",
+      "gloss": "kumbuka"
+    },
+    {
+      "surface": "עֲשׂ֪וֹת",
+      "gloss": "kufanya"
+    },
+    {
+      "surface": "חֶ֥סֶד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "וַיִּרְדֹּ֡ף",
+      "gloss": "na akamtafuta"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "עָנִ֣י",
+      "gloss": "maskini"
+    },
+    {
+      "surface": "וְאֶבְיוֹן",
+      "gloss": "na mhitaji"
+    },
+    {
+      "surface": "וְנִכְאֵ֨ה",
+      "gloss": "na mwenye"
+    },
+    {
+      "surface": "לֵבָ֬ב",
+      "gloss": "moyo wa kupondwa"
+    },
+    {
+      "surface": "לְמוֹתֵֽת",
+      "gloss": "ili kumwua"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:50.844091500Z",
+  "model": "glm-5.2"
+}

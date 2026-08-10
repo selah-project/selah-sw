@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Akasema Shemuel ⟨את⟩ maneno yote ya Yahweh kwa watu wanaomuomba mfalme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akasema"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "wanaomuomba"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨מאתו⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T14:50:57.602801300Z",
+  "model": "glm-5.2"
+}

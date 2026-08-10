@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Kwa kiongozi ⟨wa⟩ muziki. Kwa mtumwa wa Yahweh, kwa David, ambaye alinena kwa Yahweh ⟨את⟩ maneno ya wimbo huu siku ile Yahweh alimwokoa kutoka mikononi mwa adui zake wote na kutoka mikononi mwa Shaul.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa kiongozi"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kwa mtumwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwa David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alinena"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ya wimbo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "huu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku ile"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "alimwokoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ mwe"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "kutoka mikononi mwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "adui zake"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "na kutoka mikononi mwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:36.777452767Z",
+  "model": "glm-5.2"
+}

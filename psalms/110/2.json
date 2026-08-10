@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 110,
+  "translation": "Fimbo ya nguvu zako — Yahweh atatuma kutoka Tsiyoni; «» shinda katikati ya adui zako.",
+  "tokens": [
+    {
+      "surface": "מַטֵּֽה",
+      "gloss": "fimbo"
+    },
+    {
+      "surface": "עֻזְּךָ֗",
+      "gloss": "ya nguvu zako"
+    },
+    {
+      "surface": "יִשְׁלַ֣ח",
+      "gloss": "atatuma"
+    },
+    {
+      "surface": "יְהוָה֭",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מִצִּיּ֑וֹן",
+      "gloss": "kutoka Tsiyoni"
+    },
+    {
+      "surface": "רְ֝דֵ֗ה",
+      "gloss": "shinda"
+    },
+    {
+      "surface": "בְּקֶ֣רֶב",
+      "gloss": "katikati"
+    },
+    {
+      "surface": "אֹיְבֶֽיךָ",
+      "gloss": "ya adui zako"
+    }
+  ],
+  "timestamp": "2026-08-10T17:54:18.312326101Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Na Wewe, kadisha, ukiwa Mkazi wa sifa za Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na Wewe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kadisha"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ukiwa Mkazi"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "wa sifa za"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:34.449647833Z",
+  "model": "glm-5.2"
+}

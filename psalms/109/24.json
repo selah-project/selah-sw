@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Magoti yangu yamelemeswa kwa kufunga, na nyama yangu imeshauwa mafuta.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Magoti yangu"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "yamelemeswa"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "kwa kufunga"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "na nyama yangu"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "imeshauwa"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "mafuta"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:45.099201331Z",
+  "model": "glm-5.2"
+}

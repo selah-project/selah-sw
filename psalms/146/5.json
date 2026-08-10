@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 146,
+  "translation": "Heri ⟨ya⟩ yule ambaye ana Elohim ⟨wa⟩ Yaakov kama msaada wake, tumaini lake ni juu ya Yahweh Elohim wake.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heri"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ambaye ana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "kama msaada wake"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "tumaini lake"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:13.823719990Z",
+  "model": "glm-5.2"
+}

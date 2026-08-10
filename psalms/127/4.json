@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 127,
+  "translation": "Kama mishale katika mkono wa shujaa, vivyo hivyo ni watoto wa ujana.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "kama mishale"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "katika mkono"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "wa shujaa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ni watoto"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "wa ujana"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:29.787382681Z",
+  "model": "glm-5.2"
+}

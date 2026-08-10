@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 145,
+  "translation": "Karibu ⟨ni⟩ Yahweh kwa wote wanaomwita, kwa wote wanaomwita kwa kweli.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Karibu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa wote"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "wanaomwita"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa wote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanao"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "mwita"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "kwa kweli"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:52.681078995Z",
+  "model": "glm-5.2"
+}

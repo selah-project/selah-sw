@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 38:12",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Na upande wa magharibi, mapazia ⟨yakiwa⟩ hamsini kwa dira; nguzo zao kumi, na misingi yao kumi; viteleza vya nguzo na matairi yao ⟨vilikuwa⟩ fedha.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "na upande wa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "magharibi"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "mapazia"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "hamsini"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kwa dira"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "nguzo zao"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "na misingi yao"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "na viteleza vya"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "nguzo"
+    },
+    {
+      "surface": "וחשוקיהם",
+      "gloss": "na matairi yao"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fedha"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:10.150193770Z",
+  "model": "glm-5.2"
+}

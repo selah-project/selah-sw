@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 113,
+  "translation": "Sifuni Yah, sifuni, enyi watumwa wa Yahweh, sifuni ⟨את⟩ jina la Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "sifuni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "sifuni"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "enyi watumwa wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "sifuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:29.275213968Z",
+  "model": "glm-5.2"
+}

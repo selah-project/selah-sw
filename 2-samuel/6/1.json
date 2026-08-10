@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "David akakusanya tena ⟨את⟩ wote waliochaguliwa nchini Israeli, thelathini elfu.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "akakusanya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wote waliochaguliwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "waliochaguliwa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nchini Israeli"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thelathini"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elfu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:55:50.066573276Z",
+  "model": "glm-5.2"
+}

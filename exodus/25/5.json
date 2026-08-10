@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "na ngozi za ramasi zilizofanywa nyekundu na ngozi za techashim na miti ya shitim",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "na ngozi za"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ramasi"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "zilizofanywa nyekundu"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "na ngozi za"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "techashim"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "na miti ya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:53.243564033Z",
+  "model": "glm-5.2"
+}

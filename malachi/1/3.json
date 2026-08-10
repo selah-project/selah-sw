@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "na ⟨את⟩ Esavu nilimchukia; nikaweka ⟨את⟩ milima yake ukiwa jangwa, na ⟨את⟩ urithi wake kuwa nyumba-kwa-paka za jangwa.",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "עֵשָׂ֖ו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "שָׂנֵ֑אתִי",
+      "gloss": "nilimchukia"
+    },
+    {
+      "surface": "וָאָשִׂ֤ים",
+      "gloss": "nikaweka"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "milima yake"
+    },
+    {
+      "surface": "הָרָיו֙",
+      "gloss": "milima yake"
+    },
+    {
+      "surface": "שְׁמָמָ֔ה",
+      "gloss": "ukiwa jangwa"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "נַחֲלָת֖וֹ",
+      "gloss": "urithi wake"
+    },
+    {
+      "surface": "לְתַנּ֥וֹת",
+      "gloss": "kuwa nyumba-kwa-paka"
+    },
+    {
+      "surface": "מִדְבָּֽר",
+      "gloss": "za jangwa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:08.481316432Z",
+  "model": "glm-5.2"
+}

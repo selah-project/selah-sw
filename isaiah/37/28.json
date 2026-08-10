@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Na kukaa kwako, na kuondoka kwako, na kuingia kwako, nimeyajua; na ⟨את⟩ chukizo chako juu yangu.",
+  "tokens": [
+    {
+      "surface": "וְשִׁבְתְּךָ֛",
+      "gloss": "Na kukaa kwako"
+    },
+    {
+      "surface": "וְצֵאתְךָ֥",
+      "gloss": "na kuondoka kwako"
+    },
+    {
+      "surface": "וּבוֹאֲךָ֖",
+      "gloss": "na kuingia kwako"
+    },
+    {
+      "surface": "יָדָ֑עְתִּי",
+      "gloss": "nimeyajua"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "chukizo chako"
+    },
+    {
+      "surface": "הִֽתְרַגֶּזְךָ֥",
+      "gloss": "chukizo chako"
+    },
+    {
+      "surface": "אֵלָֽי",
+      "gloss": "juu yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:07:50.042411903Z",
+  "model": "glm-5.2"
+}

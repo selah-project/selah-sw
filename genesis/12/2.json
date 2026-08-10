@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Nami nitakufanya kuwa taifa kubwa, nami nitakubariki, nami nitakuza jina lako; nawe kuwa baraka.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "nami nitakufanya"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "kuwa taifa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "nami nitakubariki"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "nami nitakuza"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "nawe kuwa"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "baraka"
+    }
+  ],
+  "timestamp": "2026-08-10T10:04:05.821470074Z",
+  "model": "glm-5.2"
+}

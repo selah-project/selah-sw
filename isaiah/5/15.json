@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na binadamu atashushwa chini, na mtu atadhalilishwa, na macho ya wajivu yatadhalilishwa.",
+  "tokens": [
+    {
+      "surface": "וַיִּשַּׁ֥ח",
+      "gloss": "na atashushwa chini"
+    },
+    {
+      "surface": "אָדָ֖ם",
+      "gloss": "binadamu"
+    },
+    {
+      "surface": "וַיִּשְׁפַּל",
+      "gloss": "na atadhalilishwa"
+    },
+    {
+      "surface": "אִ֑ישׁ",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "וְעֵינֵ֥י",
+      "gloss": "na macho"
+    },
+    {
+      "surface": "גְבֹהִ֖ים",
+      "gloss": "ya wajivu"
+    },
+    {
+      "surface": "תִּשְׁפַּֽלְנָה",
+      "gloss": "yatadhalilishwa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:55:19.976800096Z",
+  "model": "glm-5.2"
+}

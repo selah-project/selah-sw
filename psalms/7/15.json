@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Tazama, ⟨anepata⟩ uovu kwa uchungu, naye ameibua taabu, na kuzaa uongo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "⟨anepata⟩ kwa uchungu"
+    },
+    {
+      "surface": "און",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "naye ameibua"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "taabu"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "na kuzaa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "uongo"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:40.963072224Z",
+  "model": "glm-5.2"
+}

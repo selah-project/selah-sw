@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na Chizkiyah akampa ⟨yeye⟩ ⟨את⟩ fedha yote iliyopatikana nyumbani mwa Yahweh, na katika vyumba vya hazina vya nyumba ya mfalme.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Na akampa"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fedha yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "iliyopatikana"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumbani mwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "na katika vyumba vya hazina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "vya nyumba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T15:03:06.422623780Z",
+  "model": "glm-5.2"
+}

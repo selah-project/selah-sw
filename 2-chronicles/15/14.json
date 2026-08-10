@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 15:14",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Wakaapa kwa Yahweh kwa sauti kuu na kwa mwongezeko wa sauti, na kwa tarumbeta na kwa nyumba za pembe.",
+  "tokens": [
+    {
+      "surface": "וישבעו",
+      "gloss": "wakaapa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kwa sauti"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "ובתרועה",
+      "gloss": "na kwa mwongezeko wa sauti"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "na kwa tarumbeta"
+    },
+    {
+      "surface": "ובשופרות",
+      "gloss": "na kwa nyumba za pembe"
+    }
+  ],
+  "timestamp": "2026-08-10T17:57:47.525700664Z",
+  "model": "glm-5.2"
+}

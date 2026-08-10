@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Je, jinsi gani haikuachwa ⟨hiyo⟩ mji wa sifa, mji wa furaha yangu!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "je, jinsi gani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "kuachwa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "wa sifa"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "mji"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "wa furaha yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:14:48.890562098Z",
+  "model": "glm-5.2"
+}

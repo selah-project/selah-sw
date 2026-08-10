@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 92,
+  "translation": "Ni jema kushukuru kwa Yahweh, na kumimina nyimbo kwa ajili ya jina lako, Elyon.",
+  "tokens": [
+    {
+      "surface": "ט֗וֹב",
+      "gloss": "ni jema"
+    },
+    {
+      "surface": "לְהֹד֥וֹת",
+      "gloss": "kushukuru"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "וּלְזַמֵּ֖ר",
+      "gloss": "na kumimina nyimbo"
+    },
+    {
+      "surface": "לְשִׁמְךָ֣",
+      "gloss": "kwa ajili ya jina lako"
+    },
+    {
+      "surface": "עֶלְיֽוֹן",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:31.131943199Z",
+  "model": "glm-5.2"
+}

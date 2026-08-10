@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Akina nini thamani ya chesed chako, Elohim! Kwa hivyo wanadamu, katika kivuli cha mabawa yako, hujifungia.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Akina nini"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "thamani"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed chako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "Kwa hivyo wanadamu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "—"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "katika kivuli"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "cha mabawa yako"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "hujifungia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:13.996236537Z",
+  "model": "glm-5.2"
+}

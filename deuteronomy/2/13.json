@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Sasa simameni, mkavuke ⟨kwa ajili yenu⟩ ⟨את⟩ bonde la Zered. Na tukavuka ⟨את⟩ bonde la Zered.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Sasa"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "simameni"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "mkavuke"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨kwa ajili yenu⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonde"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "bonde"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "la Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "Na tukavuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonde"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "bonde"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "la Zered"
+    }
+  ],
+  "timestamp": "2026-08-10T10:53:13.572319717Z",
+  "model": "glm-5.2"
+}

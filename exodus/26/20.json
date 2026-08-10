@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na kwa ubavu wa pili wa hema, kwa upande wa kaskazini, matabao ishirini.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "na kwa ubavu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "wa hema"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "wa pili"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "kwa upande wa"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "kaskazini"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ishirini"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "matabao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:25:49.904839016Z",
+  "model": "glm-5.2"
+}

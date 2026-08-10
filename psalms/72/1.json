@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 72,
+  "translation": "Kwa Shelomoh. Elohim, hukumu zako mpe mfalme, na haki yako mpe mwana wa mfalme.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Kwa Shelomoh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukumu zako"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mpe mfalme"
+    },
+    {
+      "surface": "תן",
+      "gloss": "(ungalipo) mpa"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "na haki yako"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "mpe mwana wa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:45.321322574Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na baada yake akasimama Yair Mgileadi, naye akahukumu ⟨את⟩ Yisraeli miaka ishirini na miwili.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "na akasimama"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "baada yake"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Mgileadi"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "naye akahukumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ishirini"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "na miwili"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    }
+  ],
+  "timestamp": "2026-08-10T15:59:56.594114501Z",
+  "model": "glm-5.2"
+}

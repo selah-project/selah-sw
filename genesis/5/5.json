@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Basi yote siku za Adam ambazo aliishi zilikuwa mia tisa ⟨na⟩ thelathini miaka, naye akafa.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "zikawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "siku za"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "aliishi"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "tisa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na thelathini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "naye akafa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:14.586526515Z",
+  "model": "glm-5.2"
+}

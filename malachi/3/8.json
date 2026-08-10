@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Je, mtu ⟨anaweza⟩ kumdhuru Elohim? Lakini ninyi mnadhuru ⟨את⟩ nami. Nanyi msesema: Tunakudhuruje vipi? Katika zaka na dhabihu za kuinua.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "je, ⟨anaweza⟩ kumdhuru"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lakini"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ninyi"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "mnadhuru"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nami"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "nanyi msesema"
+    },
+    {
+      "surface": "במה",
+      "gloss": "tunakudhuruje"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "vipi"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "katika zaka"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "na dhabihu za kuinua"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:49.415701761Z",
+  "model": "glm-5.2"
+}

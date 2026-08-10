@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Naye Yaakov akamkaribia Yitschak baba yake, naye akamgusa, akasema: ⟨Sauti ni⟩ sauti ya Yaakov, bali mikono ⟨ni⟩ mikono ya Esav.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "akamkaribia"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "akamgusa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "⟨sauti⟩"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakov"
+    },
+    {
+      "surface": "והידים",
+      "gloss": "bali mikono"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mikono"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ya Esav"
+    }
+  ],
+  "timestamp": "2026-08-10T10:08:03.853976281Z",
+  "model": "glm-5.2"
+}

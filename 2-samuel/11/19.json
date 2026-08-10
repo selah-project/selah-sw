@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "naye akamruruza ⟨na⟩ mjumbe, akisema: Ukikamilisha kumsimulia ⟨habari⟩ yote ya vita kwa ⟨kuongea na⟩ mfalme,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "akamruruza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mjumbe"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mjumbe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "ukikamilisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "habari yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "habari"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ya vita"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kwa kusimulia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T11:31:54.170027581Z",
+  "model": "glm-5.2"
+}

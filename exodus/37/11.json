@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Akatifunika ⟨אתו⟩ kwa dhahabu safi, na akafanya kwa ⟨hiyo⟩ taji ya dhahabu pande zote.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "akatifunika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "(hiyo)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "safi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "na akafanya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa ⟨hiyo⟩"
+    },
+    {
+      "surface": "זר",
+      "gloss": "taji"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya dhahabu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "pande zote"
+    }
+  ],
+  "timestamp": "2026-08-10T10:29:26.763878350Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na Avraham akampa Yitschaq ⟨את⟩ vyote vilivyokuwa ⟨ni⟩ vyake.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "na akampa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilivyokuwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vyake"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kwa Yitschaq"
+    }
+  ],
+  "timestamp": "2026-08-10T10:07:36.333053180Z",
+  "model": "glm-5.2"
+}

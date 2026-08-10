@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "⟨את⟩ hili mtakula, kati ya yote yaliyo katika maji: yote yaliyo na mapezi na magamba katika maji, katika bahari na katika mito, ⟨hao⟩ mtakula.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hili"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mtakula"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kati ya yote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaliyo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "katika maji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaliyo na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kwake⟩"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "mapezi"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "na magamba"
+    },
+    {
+      "surface": "במים",
+      "gloss": "katika maji"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "katika bahari"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "na katika mito"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hao"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mtakula"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:24.227205641Z",
+  "model": "glm-5.2"
+}

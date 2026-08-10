@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Na kujilinda sana kwa nafsi zenu, kumpenda ⟨את⟩ Yahweh Elohim wenu.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "Na kujilinda"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "kwa nafsi zenu"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "kumpenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:58:55.356192754Z",
+  "model": "glm-5.2"
+}

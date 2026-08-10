@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 147,
+  "translation": "⟨Yeye⟩ anaweka mpaka wako amani, kwa mafuta ya ngano anakushibisha.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "⟨Yeye⟩ anaweka"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "mpaka wako"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "amani"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "kwa mafuta"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "ya ngano"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "anakushibisha"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:36.973462406Z",
+  "model": "glm-5.2"
+}

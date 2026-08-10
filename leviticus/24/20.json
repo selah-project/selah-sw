@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Mwanya kwa ajili ya mwanya, jicho kwa ajili ya jicho, jino kwa ajili ya jino; kama atakavyotoa kasoro kwa mtu, vivyo hivyo vitatolewa kwake.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "mwanya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "mwanya"
+    },
+    {
+      "surface": "עין",
+      "gloss": "jicho"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "עין",
+      "gloss": "jicho"
+    },
+    {
+      "surface": "שן",
+      "gloss": "jino"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "שן",
+      "gloss": "jino"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "atakavyotoa"
+    },
+    {
+      "surface": "מום",
+      "gloss": "kasoro"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "kwa mtu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "vitatolewa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kwake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:54:28.326044397Z",
+  "model": "glm-5.2"
+}

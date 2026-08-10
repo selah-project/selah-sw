@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 111,
+  "translation": "Mwanzo wa hekima ni kumcha Yahweh; ufahamu mzuri ni wa wote watendao; sifa yake inasimama milele.",
+  "tokens": [
+    {
+      "surface": "רֵאשִׁית",
+      "gloss": "mwanzo"
+    },
+    {
+      "surface": "חָכְמָה",
+      "gloss": "wa hekima"
+    },
+    {
+      "surface": "יִרְאַת",
+      "gloss": "ni kumcha"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שֵׂכֶל",
+      "gloss": "ufahamu"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "mzuri"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "ni wa wote"
+    },
+    {
+      "surface": "עֹשֵׂיהֶם",
+      "gloss": "watendao"
+    },
+    {
+      "surface": "תְּהִלָּתוֹ",
+      "gloss": "sifa yake"
+    },
+    {
+      "surface": "עֹמֶדֶת",
+      "gloss": "inasimama"
+    },
+    {
+      "surface": "לָעַד",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:48.264522408Z",
+  "model": "glm-5.2"
+}

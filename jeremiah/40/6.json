@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 40:6",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Basi Yirmeyahu akaja kwa Gedalyah ben Akikam huko Mitzpah, akakaa pamoja na ⟨את⟩ yeye kati ya watu waliobaki katika nchi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akaja"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "גדליה",
+      "gloss": "Gedalyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Akikam"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "huko Mitzpah"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akakaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "waliobaki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:21:44.990720808Z",
+  "model": "glm-5.2"
+}

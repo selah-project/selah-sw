@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 148,
+  "translation": "Milima na vosote vilima, miti ya matunda na vosote mizesa:",
+  "tokens": [
+    {
+      "surface": "הֶהָרִ֥ים",
+      "gloss": "milima"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "na vosote"
+    },
+    {
+      "surface": "גְּבָע֑וֹת",
+      "gloss": "vilima"
+    },
+    {
+      "surface": "עֵ֥ץ",
+      "gloss": "miti"
+    },
+    {
+      "surface": "פְּרִ֗י",
+      "gloss": "ya matunda"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "na vosote"
+    },
+    {
+      "surface": "אֲרָזִֽים",
+      "gloss": "mizesa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:46.227889588Z",
+  "model": "glm-5.2"
+}

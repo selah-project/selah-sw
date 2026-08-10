@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 10:10",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Wakaenda huko Giv'a, na tazama, kikundi cha manabii kilimkutania, na roho ya Elohim ikamjia kwa nguvu, akatabiri unabii kati yao.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "wakaenda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "Giv'a"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "kikundi"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "cha manabii"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "kilimkutania"
+    },
+    {
+      "surface": "ותצלח",
+      "gloss": "ikamjia kwa nguvu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "ויתנבא",
+      "gloss": "akatabiri unabii"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "kati yao"
+    }
+  ],
+  "timestamp": "2026-08-10T16:00:19.828412887Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 79:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 79,
+  "translation": "Kwa nini mataifa yaseme, 'Wako wapi Elohim wao?' Na ijulikane kati ya mataifa, mbele ya macho yetu, kulipiza kisasi cha damu ya watumishi wako iliyomwagwa.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "yaseme"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Wako wapi"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wao"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "Na ijulikane"
+    },
+    {
+      "surface": "בגיים",
+      "gloss": "kati ya mataifa"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "mbele ya macho yetu"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "kulipiza kisasi cha"
+    },
+    {
+      "surface": "דם",
+      "gloss": "damu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ya watumishi wako"
+    },
+    {
+      "surface": "השפוך",
+      "gloss": "iliyomwagwa"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:58.731535446Z",
+  "model": "glm-5.2"
+}

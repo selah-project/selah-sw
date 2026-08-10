@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 51,
+  "translation": "Sikilizeni kwangu, taifa langu, na umma wangu, nisikilizeni; kwa maana tora ⟨את⟩ itatoka kwangu, na hukumu yangu kwa nuru ya mataifa nitaiweka.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "sikilizeni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "taifa langu"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "na umma wangu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "nisikilizeni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "tora"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩",
+      "marks": "tora"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "itatoka"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "na hukumu yangu"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "kwa nuru"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ya mataifa"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "nitaiweka"
+    }
+  ],
+  "timestamp": "2026-08-10T12:07:33.772109106Z",
+  "model": "glm-5.2"
+}

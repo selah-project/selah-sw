@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 28:16",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Na Shemueli akasema, Na kwa nini uniuliza mimi, na Yahweh ameondoka mbali nawe, na akawa adui yako?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "Na kwa nini"
+    },
+    {
+      "surface": "תשאלני",
+      "gloss": "uniuliza"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ameondoka"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "mbali nawe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na akawa"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "adui yako"
+    }
+  ],
+  "timestamp": "2026-08-10T11:28:03.511155508Z",
+  "model": "glm-5.2"
+}

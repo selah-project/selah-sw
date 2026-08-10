@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na Yehonatan akajivua ⟨את⟩ manteli aliokuwa nayo, akampa David, pamoja na mavazi yake, na hata upanga wake, na hata uta wake, na hata hirizi yake.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "Na akajivua"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manteli"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "manteli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliokuwa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "akampa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "pamoja na mavazi yake"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na hata"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "upanga wake"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na hata"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "uta wake"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na hata"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "hirizi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:24:46.545373369Z",
+  "model": "glm-5.2"
+}

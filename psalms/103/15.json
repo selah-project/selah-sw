@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 103,
+  "translation": "Mwanadamu, siku zake ni kama manyasi; kama ua la shamba, ndivyo anavyostaa.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "Mwanadamu"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "kama manyasi"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "siku zake"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "kama ua"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "la shamba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "anavyostaa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:51.500422939Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na ⟨את⟩ Aharon na ⟨את⟩ wanawe utawapaka mafuta, na utawatenga watakatifu wawe makuhani kwangu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wanawe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "utawapaka mafuta"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "na utawatenga watakatifu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "wawe makuhani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:26:44.370022511Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Naye akaosha ⟨את⟩umbo lake na ⟨את⟩ miguu yake, naye akavichoma juu ya ⟨את⟩dhabihu ya kuchomwa ⟨kwenye⟩ madhabahu.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "Naye akaosha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umbo lake"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "umbo lake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "miguu yake"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "miguu yake"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "naye akavichoma"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dhabihu ya kuchomwa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "⟨kwenye⟩ madhabahu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:02.414488168Z",
+  "model": "glm-5.2"
+}

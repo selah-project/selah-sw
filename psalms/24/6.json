@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Huu ⟨ndio⟩ kizazi cha wanaomtafuta, wanaotafuta uso wako, ⟨ee⟩ Ya'akov. Selah.",
+  "tokens": [
+    {
+      "surface": "זֶ֭ה",
+      "gloss": "Huu"
+    },
+    {
+      "surface": "דּ֣וֹר",
+      "gloss": "kizazi"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "cha wanaomtafuta"
+    },
+    {
+      "surface": "מְבַקְשֵׁ֨י",
+      "gloss": "wanaotafuta"
+    },
+    {
+      "surface": "פָנֶ֖יךָ",
+      "gloss": "uso wako"
+    },
+    {
+      "surface": "יַעֲקֹ֣ב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "סֶֽלָה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T17:54:03.662713029Z",
+  "model": "glm-5.2"
+}

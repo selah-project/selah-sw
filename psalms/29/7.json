@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Sauti ya Yahwehkachonga nyayo za moto, ⟨mioto⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Sauti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "kachonga"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "nyayo za moto"
+    },
+    {
+      "surface": "אש",
+      "gloss": "⟨moto⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:22.459597261Z",
+  "model": "glm-5.2"
+}

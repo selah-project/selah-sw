@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 118,
+  "translation": "Walinizunguka, naam, walinizunguka; kwa jina la Yahweh ⟨niwakate⟩",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "walinizunguka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naam"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "walinizunguka"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "kwa jina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "⟨niwakate⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:57.853732689Z",
+  "model": "glm-5.2"
+}

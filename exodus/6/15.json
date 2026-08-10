@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 6:15",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na wana wa Shim'on: Yemu'eli, na Yemini, na Ohadi, na Yakini, na Zohari, na Shauli mwana wa mwanamke Mkanahani; hizi ndio familia za Shim'on.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na wana"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "wa Shim'on"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemu'eli"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "na Yemini"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "na Ohadi"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "na Yakini"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "na Zohari"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Shauli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "wa mwanamke Mkanahani"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hizi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "familia"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "za Shim'on"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:29.827012822Z",
+  "model": "glm-5.2"
+}

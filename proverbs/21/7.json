@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Uvunjaji wa nguvu wa waovu utawavuta mbali, kwa kuwa wamekataa kufanya hukumu.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "Uvunjaji wa nguvu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wa waovu"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "utawavuta mbali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "wamekataa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kufanya"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukumu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:27:06.266442618Z",
+  "model": "glm-5.2"
+}

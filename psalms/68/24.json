@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Ili mguo wako upasue katika damu, ulimi wa mbwa wako ⟨naupate sehemu yake⟩ kutoka maadui.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ili"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "upasue"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "mguo wako"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "katika damu"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ulimi"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "wa mbwa wako"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "kutoka maadui"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "⟨naupate sehemu yake⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:10.197956096Z",
+  "model": "glm-5.2"
+}

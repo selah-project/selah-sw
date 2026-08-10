@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Usiweze mwenye hekima machoni pako mwenyewe; mche ⟨את⟩ Yahweh, na ujiepushe na ovu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "si"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "weze"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mwenye hekima"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "machoni pako mwenyewe"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "mche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "na ujiepushe"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "na ovu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:59.081421769Z",
+  "model": "glm-5.2"
+}

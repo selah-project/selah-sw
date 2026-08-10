@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 139,
+  "translation": "Je, si, wanichukiapo, Yahweh, siwachukii? Na wanaoinuka dhidi yako, je, siwachukii?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "je, si"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "wanichukiapo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "siwachukii"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "na wanaoinuka dhidi yako"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "je, siwachukii"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:55.938423281Z",
+  "model": "glm-5.2"
+}

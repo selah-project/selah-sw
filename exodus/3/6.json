@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 3:6",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na akasema: Mimi ⟨ni⟩ Elohim wa baba yako, Elohim wa Avraham, Elohim wa Yitschaq, na Elohim wa Ya'aqov. Na Moshe akaficha uso wake, maana aliogopa kutazama kwa ⟨Elohim⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba yako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaq"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "na Elohim wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqov"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "Na akaficha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uso wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "aliogopa"
+    },
+    {
+      "surface": "מהביט",
+      "gloss": "kutazama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T15:51:01.415904808Z",
+  "model": "glm-5.2"
+}

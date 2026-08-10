@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "mkawafundisha ⟨אתם⟩ ⟨את⟩ watoto wenu, kuzungumza juu yao, udipo kimetiani nyumbani mwako, na uendapo njiani, na ugalipo usingizini, na uamkapo.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "mkawafundisha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "watoto wenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watoto wenu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "watoto wenu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kuzungumza"
+    },
+    {
+      "surface": "בם",
+      "gloss": "juu yao"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "udipo kimetiani"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nyumbani mwako"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "na uendapo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njiani"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "na ugalipo usingizini"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "na uamkapo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:56:42.040456110Z",
+  "model": "glm-5.2"
+}

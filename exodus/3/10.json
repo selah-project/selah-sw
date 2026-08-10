@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na sasa, njoo, nami nitakutuma kwa Paroh, ili utoe ⟨את⟩ taifa langu, wana wa Yisra'el, kutoka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "njoo"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "nami nitakutuma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "ili utoe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taifa langu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "taifa langu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kutoka Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:09.152252609Z",
+  "model": "glm-5.2"
+}

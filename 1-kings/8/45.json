@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "naye usikie mbinguni ⟨את⟩ maombi yao na ⟨את⟩ dua yao, nao ufanye hukumu yao.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "naye usikie"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbinguni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maombi yao"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "maombi yao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "dua yao"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "dua yao"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "nao ufanye"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "hukumu yao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:58:48.553322083Z",
+  "model": "glm-5.2"
+}

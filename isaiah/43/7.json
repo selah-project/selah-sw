@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "Kila ⟨aliye⟩itwa kwa jina langu, ninayembaada kwa utukufu wangu — ⟨nime⟩umba, ⟨nime⟩unda, naam, ⟨nime⟩fanya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kila"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "⟨aliye⟩itwa"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "kwa jina langu"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "ninayembaada kwa utukufu wangu"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "⟨nime⟩umba"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "⟨nime⟩unda"
+    },
+    {
+      "surface": "אף",
+      "gloss": "naam"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "⟨nime⟩fanya"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:42.175947063Z",
+  "model": "glm-5.2"
+}

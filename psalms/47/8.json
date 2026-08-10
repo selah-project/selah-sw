@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 47,
+  "translation": "Kwa kuwa Elohim ⟨ni⟩ mfalme wa ⟨taifa⟩ yote ⟨ya⟩ nchi, imbeni kwa ufahamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ya⟩ nchi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "imbeni"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "kwa ufahamu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:13.110027188Z",
+  "model": "glm-5.2"
+}

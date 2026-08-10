@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Linda ulimi wako katika uovu, na miyoyo yako ⟨isemayo⟩ udanganyifu.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "linda"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ulimi wako"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "katika uovu"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "na miyoyo yako"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "⟨isemayo⟩"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "udanganyifu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:05.321023505Z",
+  "model": "glm-5.2"
+}

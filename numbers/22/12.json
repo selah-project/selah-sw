@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Elohim akamwambia Bilam: Usiende nao; usilaani ⟨את⟩ ta hilo, maana ⟨hilo⟩ limebarikiwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ende"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "laani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta hilo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "limebarikiwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hilo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:48:00.417001233Z",
+  "model": "glm-5.2"
+}

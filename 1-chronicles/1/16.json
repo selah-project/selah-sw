@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na ⟨את⟩ Haarvadi, na ⟨את⟩ Hazemari, na ⟨את⟩ Hahamati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Haarvadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Haarvadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hazemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Hazemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hahamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Hahamati"
+    }
+  ],
+  "timestamp": "2026-08-10T14:02:52.538952423Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na mfalme Shelomoh akamtuma, akamchukua ⟨את⟩ Chiram kutoka Tsori.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "na akamtuma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "na akachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chiram"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "kutoka Tsori"
+    }
+  ],
+  "timestamp": "2026-08-10T11:38:36.976549386Z",
+  "model": "glm-5.2"
+}

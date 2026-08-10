@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na watu wakaogopa kumwogopa kwa siku kubwa ⟨את⟩ Yahweh, wakachinja dhabihu kwa Yahweh, wakatoa nadhiri.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "na wakaogopa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "kumwogopa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "kwa siku kubwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "wakachinja"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "dhabihu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "wakatoa"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "nadhiri"
+    }
+  ],
+  "timestamp": "2026-08-10T15:22:04.513946721Z",
+  "model": "glm-5.2"
+}

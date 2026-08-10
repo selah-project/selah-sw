@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na kerubi ya pili ⟨ilikuwa⟩ dhiraa kumi; kipimo kimoja na umbo moja kwa kerubi mbili.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "dhiraa"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerubi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya pili"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "kipimo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kimoja"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "na umbo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "kwa mbili"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:39:43.582021352Z",
+  "model": "glm-5.2"
+}

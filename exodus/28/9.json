@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Na utachukua ⟨את⟩ jiwe mbili la shoham, na utachonga juu yake majina ya wana wa Yisrael:",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Na utachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiwe mbili"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "jiwe"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "la shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "na utachonga"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "majina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T10:25:47.313032061Z",
+  "model": "glm-5.2"
+}

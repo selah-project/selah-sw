@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Lakini Yahweh hakukupeni moyo wa kujua, wala macho ya kuona, wala masikio ya kusikia, hadi siku hii",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Lakini ... haku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kupeni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨ninyi⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "wa kujua"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "wala macho"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ya kuona"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "wala masikio"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ya kusikia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hii"
+    }
+  ],
+  "timestamp": "2026-08-10T11:02:45.150457080Z",
+  "model": "glm-5.2"
+}

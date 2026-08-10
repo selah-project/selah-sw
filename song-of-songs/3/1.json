@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Kitandani kwangu usiku nimtafuta ⟨את⟩ yule anayependwa na nafsi yangu; nimtafuta lakini sikumpata.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kitandani"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "nimtafuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yule anayependwa"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "anayependwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "nimtafuta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lakini si"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "nikumpata"
+    }
+  ],
+  "timestamp": "2026-08-10T13:42:00.059593882Z",
+  "model": "glm-5.2"
+}

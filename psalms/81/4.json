@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 81,
+  "translation": "Pigeni baragumu mwezini, tarumbeta ⟨kwenye⟩ siku iliyofunikwa, kwa sikukuu yetu.",
+  "tokens": [
+    {
+      "surface": "תִּקְע֣וּ",
+      "gloss": "pigeni"
+    },
+    {
+      "surface": "בַחֹ֣דֶשׁ",
+      "gloss": "mwezini"
+    },
+    {
+      "surface": "שׁוֹפָ֑ר",
+      "gloss": "tarumbeta"
+    },
+    {
+      "surface": "בַּכֵּ֗סֶה",
+      "gloss": "⟨kwenye⟩ iliyofunikwa"
+    },
+    {
+      "surface": "לְי֣וֹם",
+      "gloss": "kwa siku"
+    },
+    {
+      "surface": "חַגֵּֽנוּ",
+      "gloss": "sikukuu yetu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:07.786614642Z",
+  "model": "glm-5.2"
+}

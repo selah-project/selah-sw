@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 115,
+  "translation": "Sanamu zao ni fedha na dhahabu, kazi ya mikono ya ⟨binadamu⟩.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Sanamu zao"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "na dhahabu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ya mikono"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya ⟨binadamu⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:20.141081428Z",
+  "model": "glm-5.2"
+}

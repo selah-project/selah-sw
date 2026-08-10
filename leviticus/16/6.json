@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na Aharoni atamkarinisha ⟨את⟩ fusi wa sadaka ya dhambi ambaye ni wake, na kufuta kwa niaba yake na kwa niaba ya nyumba yake.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Na atamkarinisha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fusi"
+    },
+    {
+      "surface": "פר",
+      "gloss": "fusi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "wa sadaka ya dhambi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ni wake"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "na kufuta"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "kwa niaba yake"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "na kwa niaba"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ya nyumba yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:04.584744800Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Hawajui, wala hawatambui, maana ⟨ame⟩paka macho yao wasione, na mioyo yao wasitambue.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "jui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hawa"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "tambui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "טח",
+      "gloss": "⟨ame⟩paka"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "wasione"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "macho yao"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "wasitambue"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "na mioyo yao"
+    }
+  ],
+  "timestamp": "2026-08-10T12:06:06.954818220Z",
+  "model": "glm-5.2"
+}

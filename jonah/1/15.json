@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Wakauchukua ⟨את⟩ Yonah, wakamtupa baharini; na bahari ilitulia ghadhabu yake.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "wakauchukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "wakamtupa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "baharini"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ilitulia"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "ghadhabu yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:22:04.513815314Z",
+  "model": "glm-5.2"
+}

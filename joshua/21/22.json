@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na ⟨את⟩ Kibtsayimu na ⟨את⟩ mashamba yake, na ⟨את⟩ Bethi-Horoni na ⟨את⟩ mashamba yake; miji minne.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "Kibtsayimu"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kibtsayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mashamba yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mashamba yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Bethi-Horoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Horoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mashamba yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mashamba yake"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miji"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minne"
+    }
+  ],
+  "timestamp": "2026-08-10T11:10:27.691406890Z",
+  "model": "glm-5.2"
+}

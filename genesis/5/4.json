@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na siku za Adam baada ya kumzaa ⟨את⟩ Shet zilikuwa miaka mia nane; naye akazaa wana na binti.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Na zilikuwa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "siku"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "za Adam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kumzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shet"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "nane"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "naye akazaa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na binti"
+    }
+  ],
+  "timestamp": "2026-08-10T15:49:16.762132966Z",
+  "model": "glm-5.2"
+}

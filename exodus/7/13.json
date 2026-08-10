@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na moyo wa Paroh ukawa imara, wala hakusikia ⟨kwao⟩, kama alivyosema Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "na akawa imara"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hakuna"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kusikia"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alivyosema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:37.369710098Z",
+  "model": "glm-5.2"
+}

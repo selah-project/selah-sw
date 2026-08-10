@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na mfalme wa Mitsrayim akawaambia: \"Kwa nini, enyi Moshe na Aharon, mwachisheni ⟨את⟩ watu kutoka kwa kazi zao? Nendeni kwa mizigo yenu!\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "akawaambia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "mwachisheni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "kutoka kwa kazi zake"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Nendeni"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "kwa mizigo yenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:11.286000132Z",
+  "model": "glm-5.2"
+}

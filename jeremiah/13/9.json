@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Hivi amesema Yahweh: Kama hivi nitaharibu ⟨את⟩ kiburi cha Yehudah na ⟨את⟩ kiburi kikuu cha Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Hivi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "amesema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Kama hivi"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "nitaharibu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiburi"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kiburi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "cha Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kiburi"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kiburi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "cha Yerushalayim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "kikuu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:13:58.312579601Z",
+  "model": "glm-5.2"
+}

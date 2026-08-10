@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Wakamwambia: Hapana, bwana wangu; bali watumishi wako wamekuja kununua chakula.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wakamwambia"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bwana wangu"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "bali watumishi wako"
+    },
+    {
+      "surface": "באו",
+      "gloss": "wamekuja"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kununua"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chakula"
+    }
+  ],
+  "timestamp": "2026-08-10T10:14:23.908887998Z",
+  "model": "glm-5.2"
+}

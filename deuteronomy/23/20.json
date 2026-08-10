@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Hutamnyonya ndugu yako: riba ya fedha, riba ya chakula, riba ya kila kitu kinachonyonywa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hutamnyonya"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ndugu yako"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "riba"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya fedha"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "riba"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ya chakula"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "riba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya kila"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kinachonyonywa"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "⟨⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T11:00:49.441488012Z",
+  "model": "glm-5.2"
+}

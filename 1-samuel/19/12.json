@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na Mikal akamshusha ⟨את⟩ David kupitia dirisha, naye akaenda, akakimbia, akaokoka.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "na akamshusha"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "kupitia"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "dirisha"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "naye akaenda"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "akakimbia"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "akaokoka"
+    }
+  ],
+  "timestamp": "2026-08-10T11:25:05.524755547Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Elohim anaelekea njia yake, na yeye anajua ⟨את⟩ mahali pake.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "anaelekea"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "njia yake"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na yeye"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anajua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahali pake"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "mahali pake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:37:08.192745803Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 1:19",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Wakasema wa kuzaaji kwa Paroh, Kwa sababu wanawake wa Habiru si kama wanawake wa Kimitsrayim; kwa maana wao ni wenye nguvu, kabla ya kuja kwao mkunga, wameshaanza kuzaa.",
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "wakasema"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "wa kuzaaji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "כנשים",
+      "gloss": "kama wanawake"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "wa Kimitsrayim"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "wa Habiru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "ni wenye nguvu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wao"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "kabla ya"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kuja kwao"
+    },
+    {
+      "surface": "אלהן",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "mkunga"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "wameshaanza kuzaa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:17:58.653485385Z",
+  "model": "glm-5.2"
+}

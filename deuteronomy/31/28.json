@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 31:28",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "«Kusanyeni kwangu ⟨את⟩ wazee wote wa makabila yenu na maofisa wenu, nami nitayasema masikoni mwao ⟨את⟩ maneno haya, nami nitaitusha dhidi yao ⟨את⟩ mbingu na ⟨את⟩ nchi.",
+  "tokens": [
+    {
+      "surface": "הקהילו",
+      "gloss": "kusanyeni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wazee wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "wazee"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "wa makabila yenu"
+    },
+    {
+      "surface": "ושטריכם",
+      "gloss": "na maofisa wenu"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "na-ni-nitayasema"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "masikoni mwao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno haya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "na-ni-nitaitusha"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dhidi yao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbingu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:44:33.412282705Z",
+  "model": "glm-5.2"
+}

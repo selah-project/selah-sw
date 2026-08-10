@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Heri ni ⟨ya⟩ ⟨⟨the⟩⟩ watu wanaojua mlio wa shangwe; Yahweh, katika nuru ya uso wako ⟨wao⟩ huenda.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya watu"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "wanaojua"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "mlio wa shangwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באור",
+      "gloss": "katika nuru"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ya uso wako"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "huenda"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:31.778743906Z",
+  "model": "glm-5.2"
+}

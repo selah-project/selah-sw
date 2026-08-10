@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Akuigeuza mioyo yao kuchukia watu wake, ⟨na⟩ kufanya vitimani dhidi ya watumishi wake.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Akuigeuza"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "mioyo yao"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "kuchukia"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "watu wake"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "kufanya vitimani"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "dhidi ya watumishi wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:35.943898591Z",
+  "model": "glm-5.2"
+}

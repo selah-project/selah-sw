@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Basi makuhani na Walowi wakajitakasa, ili wapandishe ⟨את⟩ safina ya Yahweh, Elohim wa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "wakajitakasa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "makuhani"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "na Walowi"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "ili wapandishe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "safina"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "safina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T14:08:21.096509656Z",
+  "model": "glm-5.2"
+}

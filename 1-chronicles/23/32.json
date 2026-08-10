@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "na walichunge ⟨את⟩ udhibiti wa hema ya mkutano, na ⟨את⟩ udhibiti wa ⟨patakatifu⟩, na udhibiti wa wana wa Aharon, ndugu zao, kwa ajili ya utumishi wa nyumba ya Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "na walichunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udhibiti"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "udhibiti"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wa hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "udhibiti"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "udhibiti"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "wa ⟨patakatifu⟩"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "na udhibiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa wana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "wa Aharon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ndugu zao"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "kwa ajili ya utumishi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wa nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:10:44.337282066Z",
+  "model": "glm-5.2"
+}

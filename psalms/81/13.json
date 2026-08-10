@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 81,
+  "translation": "Nikawamwagia kwa ujeuri wa mioyo yao, wakaendelea kutembea katika mashauri yao.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "nikawamwagia"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "kwa ujeuri"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "wa mioyo yao"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "wakaendelea kutembea"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "katika mashauri yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:10.490306712Z",
+  "model": "glm-5.2"
+}

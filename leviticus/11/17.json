@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "na ⟨את⟩ buibui-bahasha na ⟨את⟩ shashi na ⟨את⟩ yanshufu",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "buibui-bahasha"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "buibui-bahasha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shashi"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "shashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yanshufu"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "yanshufu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:23.666404530Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Naye akasujudu, akasema: Mtumishi wako ni nini, kwamba umemgeukia mbwa aliye kufa kama mimi?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "akasujudu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni nini"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mtumishi wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "umemgeukia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "mbwa"
+    },
+    {
+      "surface": "המת",
+      "gloss": "aliye kufa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "mimi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:30:23.661139955Z",
+  "model": "glm-5.2"
+}

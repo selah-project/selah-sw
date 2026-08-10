@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Na Avraham akainama mbele ya watu wa nchi.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "akainama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:23:47.787603539Z",
+  "model": "glm-5.2"
+}

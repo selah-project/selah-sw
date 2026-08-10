@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Akapiga Yahweh ⟨את⟩ taifa, kwa sababu walifanya ⟨את⟩ ndama, ambayo Aharon alifanya.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Akapiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taifa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambacho"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "walifanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndama"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "ndama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alifanya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-10T15:52:54.830796608Z",
+  "model": "glm-5.2"
+}

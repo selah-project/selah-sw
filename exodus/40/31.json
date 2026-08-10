@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Na wakaosha kutoka humo Moshe na Aharoni na wanawe, ⟨את⟩ mikono yao na ⟨את⟩ miguu yao.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "na wakaosha"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kutoka humo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na wanawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikono yao"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mikono yao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "miguu yao"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "miguu yao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:23.854413321Z",
+  "model": "glm-5.2"
+}

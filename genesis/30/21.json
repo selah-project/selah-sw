@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na baadaye ⟨⟨yeye⟩⟩ alizaa binti, akaita ⟨את⟩ jina lake Dina.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Na baadaye"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina lake"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "jina lake"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    }
+  ],
+  "timestamp": "2026-08-10T14:25:21.224598312Z",
+  "model": "glm-5.2"
+}

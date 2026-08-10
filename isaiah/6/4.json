@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na vigogo vya mizinga vikatikiswa kwa sauti ya aliyekuwa akiita; na nyumba ikajazwa ♪ smoke ♪.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "vikatikiswa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "Na vigogo"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "vya mizinga"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "kwa sauti ya"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "aliyekuwa akiita"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "na nyumba"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ikajazwa"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "♪ smoke ♪"
+    }
+  ],
+  "timestamp": "2026-08-10T11:55:19.208564537Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Akateka ⟨את⟩ miji ya ngome ambayo ilikuwa ya Yehudah, akafika hadi Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Akateka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miji ya ngome"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miji"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "ya ngome"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ilikuwa ya Yehudah"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akafika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T14:15:15.339748319Z",
+  "model": "glm-5.2"
+}

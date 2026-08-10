@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Sabbath ya mapumziko kamili ⟨hiyo⟩ ni kwenu, na mtedhoofisha ⟨את⟩ nafsi zenu — amri ya daima.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Sabbath"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ya mapumziko kamili"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ni kwenu"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "na mtedhoofisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafsi zenu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "nafsi zenu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "amri"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya daima"
+    }
+  ],
+  "timestamp": "2026-08-10T10:35:56.574823473Z",
+  "model": "glm-5.2"
+}

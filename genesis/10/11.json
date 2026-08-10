@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Katika nchi hiyo Ashuri ⟨alitoka⟩, akajenga ⟨את⟩ Ninawe na ⟨את⟩ Rehoboth-mji na ⟨את⟩ Kalahi.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Katika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "alitoka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuri"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "akajenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninawe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Rehoboth-mji"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehoboth"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kalahi"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalahi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:33.801812551Z",
+  "model": "glm-5.2"
+}

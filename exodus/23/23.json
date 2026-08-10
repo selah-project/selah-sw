@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 23:23",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Kwa kuwa mjumbe wangu atatangulia mbele yako, na akupeleke ⟨kwa⟩ wa-Amori, na wa-Hiti, na wa-Perizi, na wa-Kenaani, wa-Hivi, na wa-Yebusi, nami nitawafuta.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "יֵלֵ֣ךְ",
+      "gloss": "atatangulia"
+    },
+    {
+      "surface": "מַלְאָכִי֮",
+      "gloss": "mjumbe wangu"
+    },
+    {
+      "surface": "לְפָנֶיךָ֒",
+      "gloss": "mbele yako"
+    },
+    {
+      "surface": "וֶהֱבִֽיאֲךָ֗",
+      "gloss": "na akupeleke"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "הָֽאֱמֹרִי֙",
+      "gloss": "wa-Amori"
+    },
+    {
+      "surface": "וְהַ֣חִתִּ֔י",
+      "gloss": "na wa-Hiti"
+    },
+    {
+      "surface": "וְהַפְּרִזִּי֙",
+      "gloss": "na wa-Perizi"
+    },
+    {
+      "surface": "וְהַֽכְּנַעֲנִ֔י",
+      "gloss": "na wa-Kenaani"
+    },
+    {
+      "surface": "הַחִוִּ֖י",
+      "gloss": "wa-Hivi"
+    },
+    {
+      "surface": "וְהַיְבוּסִ֑י",
+      "gloss": "na wa-Yebusi"
+    },
+    {
+      "surface": "וְהִכְחַדְתִּֽיו",
+      "gloss": "nami nitawafuta"
+    }
+  ],
+  "timestamp": "2026-08-10T17:42:22.195175238Z",
+  "model": "glm-5.2"
+}

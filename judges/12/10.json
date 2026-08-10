@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Naye Iktsani akafa, akazikwa huko Beth-Lehem.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Iktsani"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "akazikwa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "huko Beth-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lehem"
+    }
+  ],
+  "timestamp": "2026-08-10T11:16:10.125784922Z",
+  "model": "glm-5.2"
+}

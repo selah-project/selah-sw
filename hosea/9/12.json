@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Hata wakilea ⟨את⟩ watoto wao, nitawafanya wasiwe na watoto miongoni mwa binadamu; maana ohoo, dhiki yao wakati nitapoondoka miongoni mwao!",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "wakilea"
+    },
+    {
+      "surface": "יְגַדְּלוּ֙",
+      "gloss": "watalea"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "watoto wao"
+    },
+    {
+      "surface": "בְּנֵיהֶ֔ם",
+      "gloss": "watoto wao"
+    },
+    {
+      "surface": "וְשִׁכַּלְתִּ֖ים",
+      "gloss": "nitawafanya wasiwe na watoto"
+    },
+    {
+      "surface": "מֵֽאָדָ֑ם",
+      "gloss": "miongoni mwa binadamu"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "גַם",
+      "gloss": "pia"
+    },
+    {
+      "surface": "א֥וֹי",
+      "gloss": "ohoo"
+    },
+    {
+      "surface": "לָהֶ֖ם",
+      "gloss": "dhiki yao"
+    },
+    {
+      "surface": "בְּשׂוּרִ֥י",
+      "gloss": "wakati nitapoondoka"
+    },
+    {
+      "surface": "מֵהֶֽם",
+      "gloss": "miongoni mwao"
+    }
+  ],
+  "timestamp": "2026-08-10T16:14:42.199398996Z",
+  "model": "glm-5.2"
+}

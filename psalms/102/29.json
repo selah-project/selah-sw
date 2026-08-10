@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Wana wa watumishi wako watakaa kudumu, na mzao wao mbele zako utaathibitishwa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Wana"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "wa watumishi wako"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "watakaa kudumu"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "na mzao wao"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbele zako"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "utaathibitishwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:24.067616933Z",
+  "model": "glm-5.2"
+}

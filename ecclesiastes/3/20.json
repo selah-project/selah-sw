@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Vyote vinaenda mahali pamoja; vyote vilikuwa kutoka mavumbi, na vyote vinarudi ⟨kwenye⟩ mavumbi.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Vyote"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "vinaenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vilikuwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "mavumbi"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "na vyote"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vinarudi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwenye⟩"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "mavumbi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:38.729250780Z",
+  "model": "glm-5.2"
+}

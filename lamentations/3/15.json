@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Ameniborea kwa uchungu, amenywesha kwa gogo la uchungu.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "ameniborea"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "kwa uchungu"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "amenywesha"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "gogo la uchungu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:35:43.279423653Z",
+  "model": "glm-5.2"
+}

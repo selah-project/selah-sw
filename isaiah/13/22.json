@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 13:22",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na viumbe wa kustua watakubaliana kwa sauti katika majumba yake yaliyoachwa, na ding'anyi katika mahekalu ya anasa; na karibu kuja ni wakati wake, na siku zake hazitakwishwa.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "Na watakubaliana kwa sauti"
+    },
+    {
+      "surface": "איים",
+      "gloss": "viumbe wa kustua"
+    },
+    {
+      "surface": "באלמנותיו",
+      "gloss": "katika majumba yake yaliyoachwa"
+    },
+    {
+      "surface": "ותנים",
+      "gloss": "na ding'anyi"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "katika mahekalu"
+    },
+    {
+      "surface": "ענג",
+      "gloss": "ya anasa"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "na karibu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kuja"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ni wakati wake"
+    },
+    {
+      "surface": "וימיה",
+      "gloss": "na siku zake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hazitatakiwi"
+    },
+    {
+      "surface": "ימשכו",
+      "gloss": "zitakwishwa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:56:26.307616956Z",
+  "model": "glm-5.2"
+}

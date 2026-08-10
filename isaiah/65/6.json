@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 65:6",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 65,
+  "translation": "Tazama, imeandikwa mbele zangu: sitanyamaza, bali nitalipiza, na kwa hakika nitalipiza ndani ya kifua chao.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֥ה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "כְתוּבָ֖ה",
+      "gloss": "imeandikwa"
+    },
+    {
+      "surface": "לְפָנָ֑י",
+      "gloss": "mbele zangu"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "si"
+    },
+    {
+      "surface": "אֶחֱשֶׂה֙",
+      "gloss": "tanyamazi"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "bali"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "kwa hakika"
+    },
+    {
+      "surface": "שִׁלַּ֔מְתִּי",
+      "gloss": "nitalipiza"
+    },
+    {
+      "surface": "וְשִׁלַּמְתִּ֖י",
+      "gloss": "na kwa hakika nitalipiza"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "ndani ya"
+    },
+    {
+      "surface": "חֵיקָֽם",
+      "gloss": "kifua chao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:10:54.282408188Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Sikilizeni, mbingu, na {-sikilizeni} nchi, kwa maana Yahweh amesema: Wana nilikuwalisha na {-kuwapandisha}, na wao wameasi dhidi yangu.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Sikilizeni"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "na {-sikilizeni}"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "amesema"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Wana"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "nilikuwalisha"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "na {-kuwapandisha}"
+    },
+    {
+      "surface": "והם",
+      "gloss": "na wao"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "wameasi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "dhidi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:30.860980380Z",
+  "model": "glm-5.2"
+}

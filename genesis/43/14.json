@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 43:14",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "Na El Shaddai na awape ⟨siri ya⟩ huruma mbele ya yule mtu, na awatume ⟨kwenu⟩ ⟨את⟩ kaka yenu ⟨ya⟩ mwengine pamoja na ⟨את⟩ Benyamin; na mimi, kama nilivyo fiwa, nimefiwa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Na El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "na awape"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "⟨siri ya⟩ huruma"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "yule mtu"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "na awatume"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨kwenu⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaka yenu mwengine"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "kaka yenu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mwengine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "pamoja na ⟨את⟩",
+      "marks": "Benyamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Benyamin"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na mimi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "שכלתי",
+      "gloss": "nilivyo fiwa"
+    },
+    {
+      "surface": "שכלתי",
+      "gloss": "nimefiwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:15:32.495353165Z",
+  "model": "glm-5.2"
+}

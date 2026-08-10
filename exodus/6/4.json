@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "«Na pia nilisimamisha ⟨את⟩ agano langu ⟨את⟩ ⟨na⟩ wao, ili kuwapatia ⟨את⟩ nchi ya Kenaani — ⟨את⟩ nchi ya mahali pao pa kukaa, ambapo walikaa humo.»",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Na pia"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "nilisimamisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agano langu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "agano langu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨na⟩ wao"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ili kuwapatia"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ya Kenaani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "ya mahali pao pa kukaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "walikaa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "humo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:07.798586352Z",
+  "model": "glm-5.2"
+}

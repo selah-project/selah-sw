@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Tazama, mimi nitauteketeza uzao wa Baasha na uzao wa nyumba yake, nikipa ⟨את⟩ nyumba yako kama ilivyo nyumba ya Yarobeamu mwana wa Nebati:",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "tazama, mimi"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "nitauteketeza"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "uzao wa"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "na uzao wa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "nikipa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba yako"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nyumba yako"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "kama ilivyo nyumba"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ya Yarobeamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "wa Nebati"
+    }
+  ],
+  "timestamp": "2026-08-10T11:43:14.614101553Z",
+  "model": "glm-5.2"
+}

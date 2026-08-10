@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Kwa ufupi walianimaliza duniani, nami sikuiacha amri zako.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "kwa ufupi"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "walianimaliza"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "duniani"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sikuiacha"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "(sikuiacha)"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "amri zako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:23.390452494Z",
+  "model": "glm-5.2"
+}

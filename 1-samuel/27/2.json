@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "David akaondoka, naye akavuka, yeye na watu mia sita walikuwa pamoja naye, kwenda kwa Akish mwana wa Maokh, mfalme wa Gath.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akaondoka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "akavuka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia sita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "watu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "walikuwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja naye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenda kwa"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "wa Maokh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "גת",
+      "gloss": "wa Gath"
+    }
+  ],
+  "timestamp": "2026-08-10T14:54:08.416901045Z",
+  "model": "glm-5.2"
+}

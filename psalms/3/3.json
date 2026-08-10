@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Wengi wanasema kwa nafsi yangu: Hakuna wokovu kwake katika Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Wengi"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "wanasema"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kwa nafsi yangu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Hakuna"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "wokovu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "katika Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:12.080853440Z",
+  "model": "glm-5.2"
+}

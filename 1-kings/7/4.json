@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na dirisha lilipangwa kwa safu tatu, na mtazamo dhidi ya mtazamo, mara tatu.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "dirisha lilipangwa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "safu"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "mtazamo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhidi ya"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "mtazamo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mara"
+    }
+  ],
+  "timestamp": "2026-08-10T11:39:05.060065900Z",
+  "model": "glm-5.2"
+}

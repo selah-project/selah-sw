@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 67,
+  "translation": "Elohumu atutende neema na atubariki, afunue uso wake ⟨את⟩ pamoja ⟨na⟩ sisi. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "atutende neema"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "na atubariki"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "afunue"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uso wake"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ pamoja ⟨na⟩ sisi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:23.101671308Z",
+  "model": "glm-5.2"
+}

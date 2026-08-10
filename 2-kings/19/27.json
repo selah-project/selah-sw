@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na kukukaa kwako na kuondoka kwako na kuingia kwako, mimi nayajua; na ⟨את⟩ chuki yako ⟨iliyokuwa⟩ dhidi yangu.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "na kukukaa kwako"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "na kuondoka kwako"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "na kuingia kwako"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mimi nayajua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chuki yako"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "chuki yako"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "dhidi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:52:32.957330213Z",
+  "model": "glm-5.2"
+}

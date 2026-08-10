@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "akagusa kinywa changu, naye akasema: Tazama, hili limeguswa juu ya midomo yako; na uovu wako umesogezwa, na dhambi yako itafutwa.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "akagusa"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kinywa changu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akasema"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "limeguswa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "midomo yako"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "umesogezwa"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "na uovu wako"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "na dhambi yako"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "itafutwa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:55:57.032288441Z",
+  "model": "glm-5.2"
+}

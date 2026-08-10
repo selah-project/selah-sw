@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "wakaufanya ⟨את⟩ uhai wao uwe wa uchungu kwa kazi ngumu, katika udongo na katika matofali, na katika kazi yote ⟨ya⟩ shambani; ⟨את⟩ kazi yao yote ambayo waliwafanyia wakawa kwa jeuri.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "wakaufanya uwe wa uchungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uhai wao"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "uhai wao"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "kwa kazi"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ngumu"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "katika udongo"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "na katika matofali"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na katika kazi yote"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": ""
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "shambani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kazi yao yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "kazi yao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "waliwafanyia"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wakawa"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "kwa jeuri"
+    }
+  ],
+  "timestamp": "2026-08-10T10:17:50.307833897Z",
+  "model": "glm-5.2"
+}

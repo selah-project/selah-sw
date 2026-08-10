@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Moyo wa wenye hekima ⟨umo⟩ nyumbani kwa maombolezo, na moyo wa wapumbavu ⟨umo⟩ nyumbani kwa furaha.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "wa wenye hekima"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nyumbani kwa"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "maombolezo"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "na moyo"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "wa wapumbavu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nyumbani kwa"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "furaha"
+    }
+  ],
+  "timestamp": "2026-08-10T13:47:11.983134716Z",
+  "model": "glm-5.2"
+}

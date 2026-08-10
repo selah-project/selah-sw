@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Nefesh yangu ina kiu kwa Elohim, kwa El hai; ⟨ni⟩ lini nitakapokuja na kuona uso wa Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "ina kiu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh yangu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kwa El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "⟨ni⟩ lini"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "nitakapokuja"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "na kuona"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:11.893205967Z",
+  "model": "glm-5.2"
+}

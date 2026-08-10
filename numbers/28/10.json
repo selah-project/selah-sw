@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "⟨Hii ni⟩ dhabihu ya kuchomwa ya Shabbat katika Shabbat yake, pamoja na dhabihu ya kuchomwa ya daima na nondo yake.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "dhabihu ya kuchomwa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ya Shabbat"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "katika Shabbat yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "dhabihu ya kuchomwa"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ya daima"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "na nondo yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:40:32.903855551Z",
+  "model": "glm-5.2"
+}

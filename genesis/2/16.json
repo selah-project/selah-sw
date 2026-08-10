@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Akamrudia Yahweh Elohim ⟨kwa⟩ adamu, akisema: «Kwa kila mti wa bustani, kula utakula.»",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "akamrudia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adamu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kwa kila"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mti"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "wa bustani"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kula"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "utakula"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:34.880263699Z",
+  "model": "glm-5.2"
+}

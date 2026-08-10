@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Wakasahau matendo yake, na ajabu zake alizo waonyesha.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Wakasahau"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "matendo yake"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "na ajabu zake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliz"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "waonyesha"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:40.514463641Z",
+  "model": "glm-5.2"
+}

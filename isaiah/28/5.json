@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 28:5",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Siku hiyo Yahweh wa seva atakuwa ⟨ni⟩ taji ya umbile, na ⟨ni⟩ ushindi wa utukufu, kwa mabaki ya watu wake.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "atakuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wa seva"
+    },
+    {
+      "surface": "לעטרת",
+      "gloss": "taji"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "ya umbile"
+    },
+    {
+      "surface": "ולצפירת",
+      "gloss": "na ushindi"
+    },
+    {
+      "surface": "תפארה",
+      "gloss": "wa utukufu"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "kwa mabaki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya watu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:00:44.722176699Z",
+  "model": "glm-5.2"
+}

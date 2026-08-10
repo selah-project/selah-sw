@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Katika upana wa ukuta wa ua, ⟨kwenye⟩ njia ya mashariki, mbele ya eneo lililotengwa na mbele ya jengo, ⟨palikuwa na⟩ vyumba.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "katika upana"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "wa ukuta"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ua"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njia"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ya mashariki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso wa"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "eneo lililotengwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na mbele ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso wa"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "jengo"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "vyumba"
+    }
+  ],
+  "timestamp": "2026-08-10T15:19:14.806252035Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na Yahweh akakata kutoka Yisraelem kichwa na mkia, ⟨kama⟩ tawi la mnazi na mwanzi, siku moja.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "na akakata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kutoka Yisrael"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "na mkia"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "tawi la mnazi"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "na mwanzi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moja"
+    }
+  ],
+  "timestamp": "2026-08-10T11:56:34.848945876Z",
+  "model": "glm-5.2"
+}

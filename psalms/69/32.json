@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Na litamwonekana zuri kwa Yahweh kuliko ng'ombe, fahali mwenye pembe na kwato.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "Na litamwonekana zuri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "משור",
+      "gloss": "kuliko ng'ombe"
+    },
+    {
+      "surface": "פר",
+      "gloss": "fahali"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "mwenye pembe"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "na kwato"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:35.815110656Z",
+  "model": "glm-5.2"
+}

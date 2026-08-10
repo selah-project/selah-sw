@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Kwa kuwa mimi ⟨ni⟩ tayari ⟨kwa⟩ kuanguka, na uchungu wangu ⟨uko⟩ mbele yangu daima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "tayari kwa kuanguka"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "⟨ni tayari⟩"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "na uchungu wangu"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "mbele yangu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:00.093457352Z",
+  "model": "glm-5.2"
+}

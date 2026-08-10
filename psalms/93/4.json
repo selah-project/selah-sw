@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 93,
+  "translation": "Kupita sauti za maji mengi, wenye nguvu mawimbi ya bahari — Yahweh ni mwenye nguvu katika kimo.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "Kupita sauti za"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mengi"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "wenye nguvu"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "mawimbi ya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ni mwenye nguvu"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "katika kimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:48.791176009Z",
+  "model": "glm-5.2"
+}

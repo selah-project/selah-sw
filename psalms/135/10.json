@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 135,
+  "translation": "Ambaye aliwapiga mataifa mengi, na kuuwa wafalme wenye nguvu;",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Ambaye aliwapiga"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mengi"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "na kuuwa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "wenye nguvu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:08.760317572Z",
+  "model": "glm-5.2"
+}

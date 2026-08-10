@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Naye akaleta ⟨את⟩dhabihu ya kuchomwa, akafanya kama ilivyo agizwa.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Naye akaleta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhabihu ya kuchomwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dhabihu ya kuchomwa"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "akafanya"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kama ilivyo agizwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:02.414972814Z",
+  "model": "glm-5.2"
+}

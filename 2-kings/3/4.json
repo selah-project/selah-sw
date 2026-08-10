@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na Mesha mfalme wa Moabu alikuwa mchungaji wa kondoo, akimrejesha mfalme wa Yisrael elfu mia moja za kondoo na elfu mia moja za mapunga pamoja na sufu.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Na Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "wa Moabu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "alikuwa"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "mchungaji wa kondoo"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "akimrejesha"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "mia moja"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "za kondoo"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "na mia moja"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "za mapunga"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "pamoja na sufu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:45:36.435401319Z",
+  "model": "glm-5.2"
+}

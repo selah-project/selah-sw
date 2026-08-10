@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Akaweka mfalme ⟨את⟩ fedha na ⟨את⟩ dhahabu Yerushalayim kama mawe, na ⟨את⟩ miaraduli akaitoa kama mikomamanga ⟨iliyoko⟩ katika tambarare kwa wingi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akaweka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fedha"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fedha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "dhahabu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "kama mawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "miaraduli"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "miaraduli"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akaitoa"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "kama mikomamanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨iliyoko⟩"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "katika tambarare"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "kwa wingi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:12:32.884348398Z",
+  "model": "glm-5.2"
+}

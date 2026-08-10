@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "nikasema: Nitawapandisha ⟨⟨אתכם⟩⟩ kutoka taabuni ya Mitsrayim, nchi ya Kenaani na ya Mhiti na ya Mwamori na ya Mperizi na ya Mhivi na ya Myebusi, nchi inayomtima maziwa na asali.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nikasema"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "nitawapandisha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "kutoka taabuni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nchi ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "—"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "na ya Mhiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "na ya Mwamori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "na ya Mperizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "na ya Mhivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "na ya Myebusi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "—"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "inayomtima"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "maziwa"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "na asali"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:00.229160214Z",
+  "model": "glm-5.2"
+}

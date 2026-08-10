@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Hizi ndizo vizazi vya Shem: Shem ⟨alikuwa⟩ mwana wa miaka mia moja, na akazaa ⟨את⟩ Arpakshad, miaka miwili baada ya maafuriko.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Hizi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "vizazi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vya Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "miaka miwili"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "maafuriko"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:49.218388963Z",
+  "model": "glm-5.2"
+}

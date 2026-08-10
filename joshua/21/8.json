@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na wana wa Yisraeli waliwapa Walawi ⟨את⟩ miji hii na ⟨את⟩ malisho yake, kama Yahweh alivyoagiza kwa mkono wa Mosheh, kwa kura.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Na waliwapa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Walawi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miji hii"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "miji"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "malisho yake"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alivyoagiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwa mkono wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "kwa kura"
+    }
+  ],
+  "timestamp": "2026-08-10T11:10:41.605990259Z",
+  "model": "glm-5.2"
+}

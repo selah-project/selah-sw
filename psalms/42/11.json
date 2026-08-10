@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Kama kuuwawa kwa mifupa yangu, wakanipenda wapinzani wangu, wakisema kwangu siku nzima: Aliko Elohim wako?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "Kama kuuwawa"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "kwa mifupa yangu"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "wakanionea"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "wapinzani wangu"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "wakisema"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "siku nzima"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yote"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aliko"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:12.254397568Z",
+  "model": "glm-5.2"
+}

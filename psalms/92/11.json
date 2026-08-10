@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 92,
+  "translation": "Na pembe yako uliinua kama ⟨ile⟩ ya re'em; nimetiwa mafuta yaliyo mazito.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "Na uliinua"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "kama re'em"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "pembe yako"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "nimetiwa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "yaliyo mazito"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:23.410445485Z",
+  "model": "glm-5.2"
+}

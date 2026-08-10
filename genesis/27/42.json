@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 27:42",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Naye maneno ya Esavu mwanae mkubwa yakanakiliwa kwa Rivka; naye akatuma, akamwita Yaakob mwanae mdogo, akamwambia, Tazama, Esavu ndugu yako anafariji kuhusu wewe kwa kukuua.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "yakanakiliwa"
+    },
+    {
+      "surface": "לרבקה",
+      "gloss": "kwa Rivka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ya Esavu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwanae"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "mkubwa"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "naye akatuma"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "akamwita"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwanae"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mdogo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ndugu yako"
+    },
+    {
+      "surface": "מתנחם",
+      "gloss": "anafariji"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuhusu wewe"
+    },
+    {
+      "surface": "להרגך",
+      "gloss": "kwa kukuua"
+    }
+  ],
+  "timestamp": "2026-08-10T10:08:28.510215156Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Wakati wenye haki wengi, tauma hufurahi; na wakati mtu mbaya anatawala, tauma huugua.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "Wakati ... wengi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wenye haki"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "hufurahi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauma"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "na wakati ... anatawala"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mtu mbaya"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "huugua"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauma"
+    }
+  ],
+  "timestamp": "2026-08-10T13:29:33.271889332Z",
+  "model": "glm-5.2"
+}

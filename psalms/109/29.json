@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 109:29",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Washotani wangu wavae kilimha, na wajifunike kama vazi la aibu yao.",
+  "tokens": [
+    {
+      "surface": "יִלְבְּשׁוּ",
+      "gloss": "wavae"
+    },
+    {
+      "surface": "שׂוֹטְנַי",
+      "gloss": "washotani wangu"
+    },
+    {
+      "surface": "כְּלִמָּה",
+      "gloss": "kilimha"
+    },
+    {
+      "surface": "וְיַעֲטוּ",
+      "gloss": "na wajifunike"
+    },
+    {
+      "surface": "כְּמְעִיל",
+      "gloss": "kama vazi"
+    },
+    {
+      "surface": "בָּשְׁתָּם",
+      "gloss": "la aibu yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:31.139993093Z",
+  "model": "glm-5.2"
+}

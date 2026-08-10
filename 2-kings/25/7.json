@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na ⟨את⟩ wana wa Tsidkiyahu wakawachinja mbele ya macho yake, na ⟨את⟩ macho ya Tsidkiyahu wakayapofusha, wakamfunga kwa minyororo ya shaba, wakamleta Bavela.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "wakachinja"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "mbele ya macho yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "macho"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "macho"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "wakapofusha"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "wakamfunga"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "kwa minyororo ya shaba"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "wakamleta"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavela"
+    }
+  ],
+  "timestamp": "2026-08-10T15:04:25.004383714Z",
+  "model": "glm-5.2"
+}

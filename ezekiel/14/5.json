@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "ili ⟨nikamate⟩ ⟨את⟩ nyumba ya Yisra'eli katika mioyo yao, ambao wamejitenga na mimi katika giluli zao, wote.",
+  "tokens": [
+    {
+      "surface": "לְמַ֛עַן",
+      "gloss": "ili"
+    },
+    {
+      "surface": "תְּפֹ֥שׂ",
+      "gloss": "⟨nikamate⟩"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba ya Yisra'eli"
+    },
+    {
+      "surface": "בֵּֽית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "ya Yisra'eli"
+    },
+    {
+      "surface": "בְּלִבָּ֑ם",
+      "gloss": "katika mioyo yao"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "נָזֹ֨רוּ֙",
+      "gloss": "wamejitenga"
+    },
+    {
+      "surface": "מֵֽעָלַ֔י",
+      "gloss": "na mimi"
+    },
+    {
+      "surface": "בְּגִלּֽוּלֵיהֶ֖ם",
+      "gloss": "katika giluli zao"
+    },
+    {
+      "surface": "כֻּלָּֽם",
+      "gloss": "wote"
+    }
+  ],
+  "timestamp": "2026-08-10T16:12:31.989172304Z",
+  "model": "glm-5.2"
+}

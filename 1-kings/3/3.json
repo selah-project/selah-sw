@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na Shelomoh akampenda ⟨את⟩ Yahweh, kutembea katika amri za David baba yake; tu katika mahali pa juu ⟨yeye⟩ alikuwa akitoa dhabihu na kufukiza uvumba.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "akampenda"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kutembea"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "katika amri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "za David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "katika mahali pa juu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨yeye⟩"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alikuwa akitoa dhabihu"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "na kufukiza uvumba"
+    }
+  ],
+  "timestamp": "2026-08-10T11:38:13.724214381Z",
+  "model": "glm-5.2"
+}

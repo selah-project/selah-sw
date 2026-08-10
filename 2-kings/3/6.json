@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Akatokea mfalme Yehoramu siku hiyo kutoka Shomroni, akakusanya ⟨את⟩ Israeli wote.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akatokea"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoramu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "kutoka Shomroni"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "akakusanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeli wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    }
+  ],
+  "timestamp": "2026-08-10T11:45:59.807128178Z",
+  "model": "glm-5.2"
+}

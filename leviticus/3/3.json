@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na atakaribisha kutoka dhabihu ya shelamim ⟨ni⟩ toleo la moto kwa Yahweh: ⟨את⟩ mafuta yanayofunika ⟨את⟩ matumbo, na ⟨את⟩ mafuta yote yaliyo juu ya matumbo.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Na atakaribisha"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kutoka dhabihu"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ya shelamim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "toleo la moto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "yanayofunika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matumbo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "matumbo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafuta yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaliyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "matumbo"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:39.625055809Z",
+  "model": "glm-5.2"
+}

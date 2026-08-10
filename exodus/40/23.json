@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Akampangia juu yake mpangilio wa mikate mbele za Yahweh, kama alivyoamuru Yahweh ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "akapangia"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "mpangilio"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "wa mikate"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alivyoamuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-10T14:31:49.405098141Z",
+  "model": "glm-5.2"
+}

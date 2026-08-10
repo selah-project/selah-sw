@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "kufungua macho ya vipofu, kutoa mfungwa kutoka gerezani, kutoka nyumba ya kufungia wakaao gizani",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "kufungua"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "macho"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "ya vipofu"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "kutoa"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "kutoka gerezani"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "mfungwa"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kutoka nyumba"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "ya kufungia"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wakaao"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "gizani"
+    }
+  ],
+  "timestamp": "2026-08-10T16:07:27.614245371Z",
+  "model": "glm-5.2"
+}

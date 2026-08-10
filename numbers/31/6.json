@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 31:6",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Na Moshe akawatuma ⟨אתם⟩, elfu kwa kila kabila, kwa jeshi: ⟨אתם⟩ na ⟨את⟩ Pinchas mwana wa Elazar kuhani, kwa jeshi; na vyombo vya kitakatifu na tarumbeta za mbiu, mkononi mwake.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "na akawatuma"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "kwa kila kabila"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "kwa jeshi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "na ⟨את⟩ Pinchas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Pinchas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "kwa jeshi"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "na vyombo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "vya kitakatifu"
+    },
+    {
+      "surface": "וחצצרות",
+      "gloss": "na tarumbeta"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "za mbiu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mkononi mwake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:51:47.944007672Z",
+  "model": "glm-5.2"
+}

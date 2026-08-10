@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Yahweh akasema, Yehudah atapanda; tazama, mimi nimekupa ⟨את⟩ ⟨nchi⟩ hiyo mkononi mwake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "atapanda"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nimekupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi hiyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi hiyo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mkononi mwake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:12:39.569968895Z",
+  "model": "glm-5.2"
+}

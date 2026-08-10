@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na atatoa kutoka mlo wake, dhabihu ya moto kwa Yahweh: ⟨את⟩ mafuta yanayofunika ⟨את⟩ utumbo, na ⟨את⟩ mafuta yote yaliyo juu ya utumbo.",
+  "tokens": [
+    {
+      "surface": "וְהִקְרִ֤יב",
+      "gloss": "Na atatoa"
+    },
+    {
+      "surface": "מִמֶּ֨נּוּ֙",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "קָרְבָּנ֔וֹ",
+      "gloss": "mlo wake"
+    },
+    {
+      "surface": "אִשֶּׁ֖ה",
+      "gloss": "dhabihu ya moto"
+    },
+    {
+      "surface": "לַֽיהוָ֑ה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta yanayofunika"
+    },
+    {
+      "surface": "הַחֵ֨לֶב֙",
+      "gloss": "mafu"
+    },
+    {
+      "surface": "הַֽמְכַסֶּ֣ה",
+      "gloss": "yanayofunika"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "utumbo"
+    },
+    {
+      "surface": "הַקֶּ֔רֶב",
+      "gloss": "utumbo"
+    },
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafu yote"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הַחֵ֔לֶב",
+      "gloss": "mafu"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "yaliyo"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הַקֶּֽרֶב",
+      "gloss": "utumbo"
+    }
+  ],
+  "timestamp": "2026-08-10T14:34:08.933645509Z",
+  "model": "glm-5.2"
+}

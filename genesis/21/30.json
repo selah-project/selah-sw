@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na akasema: «Kwa sababu wewe unatakiwa kuchukua ⟨את⟩ huu kondoo-saba mikononi mwangu, ili ⟨hao⟩ wawe kwangu kwa ushahidi ya kwamba mimi ndimi niliechimba ⟨את⟩ kisima hiki.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Kwa sababu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huu kondoo-saba"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "saba"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ndama wa kondoo"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "wewe unatakiwa kuchukua"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mikononi mwangu"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ili"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "kwa ushahidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "mimi niliechimba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kisima"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "kisima"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hiki"
+    }
+  ],
+  "timestamp": "2026-08-10T10:06:32.386145150Z",
+  "model": "glm-5.2"
+}

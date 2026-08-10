@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 65,
+  "translation": "⟨Ni⟩ watu wanaonikasirisha mbele zangu daima, wakinuhuru ⟨את⟩ sikuhizi katika bustani, na kufukiza juu ya matofali.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "wanaonikasirisha"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso wangu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "wakinuhuru"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "katika bustani"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "na kufukiza"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "matofali"
+    }
+  ],
+  "timestamp": "2026-08-10T17:49:50.271178033Z",
+  "model": "glm-5.2"
+}

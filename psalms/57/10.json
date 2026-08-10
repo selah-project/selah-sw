@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 57,
+  "translation": "Nitakushukuru kati ya watu, ee Adonai; nitakwimbia kati ya mataifa.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "nitakushukuru"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "kati ya watu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "nitakwimbia"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "mataifa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:49.269392357Z",
+  "model": "glm-5.2"
+}

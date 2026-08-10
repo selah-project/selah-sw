@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "⟨את⟩ HaKeni, na ⟨את⟩ HaKanizi, na ⟨את⟩ HaKadmoni",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "HaKeni"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "HaKeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "HaKanizi"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "HaKanizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "HaKadmoni"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "HaKadmoni"
+    }
+  ],
+  "timestamp": "2026-08-10T10:04:56.718907106Z",
+  "model": "glm-5.2"
+}

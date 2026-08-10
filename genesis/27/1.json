@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 27:1",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Ikawa Yitschak akiwa amezeeka, na macho yake yakatiwa giza asiweze kuona, akamwita ⟨את⟩ Esav mwanewe mkubwa, akamwambia: Mwanangu. Naye akamwambia: Tazama, mimi hapa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akiwa"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "amezeeka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ותכהין",
+      "gloss": "yakatiwa giza"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "macho yake"
+    },
+    {
+      "surface": "מראת",
+      "gloss": "asiweze kuona"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akamwita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanewe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "mkubwa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mwende"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Mwanangu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mwende"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Tazama, mimi hapa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:08:14.072354405Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 81,
+  "translation": "Ushahidi aliouweka kwa Yosefu, katika kwenda kwake juu ya nchi ya Mitsrayim: ulimi nisioujua nasikia.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "Ushahidi"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "kwa Yosefu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aliouweka"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "katika kwenda kwake"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ulimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "-oujua"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "nasikia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:40.582070477Z",
+  "model": "glm-5.2"
+}

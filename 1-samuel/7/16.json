@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na aliendelea kutembea mwaka kwa mwaka, akizunguka Beyith-eli na Hagilgali na Hamitspa, na kuhukumu ⟨את⟩ Yisra'el ⟨את⟩ mahali pote hapa.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "Na aliendelea kutembea"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "akizunguka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyith-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eli"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "na Hagilgali"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "na Hamitspa"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "na kuhukumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahali pote hapa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pote"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hapa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:20:48.736229823Z",
+  "model": "glm-5.2"
+}

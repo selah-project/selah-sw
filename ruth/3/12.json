@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na sasa, kweli kweli, kwamba mimi ni mkombozi, lakini pia yapo ⟨ki⟩ mkombozi wa karibu zaidi kuliko mimi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "kweli kweli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "mkombozi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "lakini pia"
+    },
+    {
+      "surface": "יש",
+      "gloss": "yapo"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "mkombozi"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "wa karibu zaidi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuliko mimi"
+    }
+  ],
+  "timestamp": "2026-08-10T16:23:48.311666734Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Haṭakh akatoka kwenda kwa Mordekayi, hadi uwanja wa mji ulioko mbele ya lango la mfalme.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akatoka"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Haṭakh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenda kwa"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "uwanja"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa mji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ulioko"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "שער",
+      "gloss": "lango"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "la mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T13:49:28.430526115Z",
+  "model": "glm-5.2"
+}

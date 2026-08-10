@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Yahweh Elohim wenu amekuongoizeni mno, na tazama, ninyi leo ⟨ni⟩ kama nyota za mbingu kwa wingi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wenu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "amekuongoizeni mno"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "na tazama ninyi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "kama nyota"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "za mbingu"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "kwa wingi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:40:36.780859331Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 11:2",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na Nachash Mwamoni akawaambia: Kwa hii nitawatia ⟨nanyi⟩ agano: kwa kutochofa kwa ninyi jicho lake la kulia, nami nitaiweza hiyo kuwa fedheha juu ya Waisraeli wote.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kuwambia"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachash"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "Mwamoni"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "kwa hii"
+    },
+    {
+      "surface": "אכרת",
+      "gloss": "nitatia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nanyi"
+    },
+    {
+      "surface": "בנקור",
+      "gloss": "kwa kutochofa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lote"
+    },
+    {
+      "surface": "עין",
+      "gloss": "jicho"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "la kulia"
+    },
+    {
+      "surface": "ושמתיה",
+      "gloss": "nami nitaiweza"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "kuwa fedheha"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Waisraeli"
+    }
+  ],
+  "timestamp": "2026-08-10T14:51:59.221944757Z",
+  "model": "glm-5.2"
+}

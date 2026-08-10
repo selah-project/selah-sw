@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na mtu akipiga ⟨את⟩ jicho la mtumwa wake au ⟨את⟩ jicho la mjakazi wake na kukiharibu, kwa uhuru atamwacha ⟨amtupe⟩ badala ya jicho lake.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "akipiga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jicho"
+    },
+    {
+      "surface": "עין",
+      "gloss": "jicho"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "la mtumwa wake"
+    },
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jicho"
+    },
+    {
+      "surface": "עין",
+      "gloss": "jicho"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "la mjakazi wake"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "na kukiharibu"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "kwa uhuru"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "atamwacha"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "badala ya"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "jicho lake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:07.963677317Z",
+  "model": "glm-5.2"
+}

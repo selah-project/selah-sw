@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Lakini Elohim aliniambia: Wewe hutajenga nyumba kwa jina langu, kwa sababu wewe ⟨ni⟩ mwana wa vita, na damu umemwaga.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "lakini Elohim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aliniambia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wewe si"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "kujenga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "kwa jina langu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "vita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "na damu"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "umemwaga"
+    }
+  ],
+  "timestamp": "2026-08-10T14:12:19.755213042Z",
+  "model": "glm-5.2"
+}

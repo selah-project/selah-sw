@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 19:6",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Nanyi mtakuwa kwangu ufalme wa makuhani, na taifa takatifu. Haya ndiyo maneno ambayo utayasema kwa wana wa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "nanyi"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "mtakuwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "ufalme"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "makuhani"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "na taifa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "takatifu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "utayasema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T10:22:34.811558886Z",
+  "model": "glm-5.2"
+}

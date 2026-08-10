@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Naye akasema: Nenda, Danieli, maana maneno yamefungwa na kutiwa muhuri hata wakati wa mwisho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Naye akasema"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Danieli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "yamefungwa"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "na kutiwa muhuri"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "wa mwisho"
+    }
+  ],
+  "timestamp": "2026-08-10T13:55:21.256754305Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Kwa sauti ya kuugua kwangu, mifupa yangu imelimbandia nyama yangu.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Kwa sauti"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "ya kuugua kwangu"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "imelimbandia"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mifupa yangu"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "nyama yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:36.577421822Z",
+  "model": "glm-5.2"
+}

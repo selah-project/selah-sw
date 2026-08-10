@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na ng'ombe na dubu ⟨ watafuga⟩ pamoja, watoto wao ⟨ watalala⟩ pamoja; na simba kama ng'ombe ⟨ atakula⟩ manyasi.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "Na ng'ombe"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "na dubu"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "⟨watafuga⟩"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "⟨watalala⟩"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "watoto wao"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "na simba"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "kama ng'ombe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "⟨atakula⟩"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "manyasi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:56:33.665527969Z",
+  "model": "glm-5.2"
+}

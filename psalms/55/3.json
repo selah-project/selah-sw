@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 55,
+  "translation": "Ekebuka masikio kwangu na nijibu, nitatangatanga katika maneno yangu na kunguruma.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Ekebuka masikio"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "na nijibu"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "nitatangatanga"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "katika maneno yangu"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "na kunguruma"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:49.744730261Z",
+  "model": "glm-5.2"
+}

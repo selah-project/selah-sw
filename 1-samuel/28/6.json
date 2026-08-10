@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Na Shaul akauliza kwa Yahweh, lakini Yahweh hakimjibu, wala kwa ndoto, wala kwa Urimu, wala kwa manabii.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Na akauliza"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lakini (hakimjibu)"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "akamjibu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "kwa ndoto"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wala"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "kwa Urimu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "kwa manabii"
+    }
+  ],
+  "timestamp": "2026-08-10T11:28:48.591067238Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 58,
+  "translation": "Hata ndani ⟨ya⟩ moyo maovu mnayatenda; katika nchi vurugu za mikono yenu mnazipangia.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ndani moyo"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "maovu"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "mnayatenda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vurugu"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "za mikono yenu"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "mnazipangia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:03.944275323Z",
+  "model": "glm-5.2"
+}

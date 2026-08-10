@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Wakauchukua watu wote wa Yehudah ⟨את⟩ Azaryah, na yeye ⟨aliye⟩ mwana wa miaka kumi na sita, wakamfanya kuwa mfalme badala ya baba yake Amatsyahu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "wakauchukua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "עם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaryah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na yeye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sitaka"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "wakamfanya kuwa mfalme"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "badala ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyahu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:49:17.530887019Z",
+  "model": "glm-5.2"
+}

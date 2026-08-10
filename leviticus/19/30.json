@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "⟨את⟩ sabati zangu mtazihifadhi, na heshima yenu mtaiogopa; mimi Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabati zangu"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "sabati zangu"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "mtazihifadhi"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "na heshima yenu"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mtaiogopa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:45.262217211Z",
+  "model": "glm-5.2"
+}

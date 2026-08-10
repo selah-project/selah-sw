@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 16:2",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na ⟨ita⟩ kuwa kama ndege anayetangatanga, ⟨na⟩ tagulo lililotolewa, hivyo ⟨ni⟩ binti za Moabu katika maovani ya Arnoni.",
+  "tokens": [
+    {
+      "surface": "וְהָיָ֥ה",
+      "gloss": "Na ⟨ita⟩ kuwa"
+    },
+    {
+      "surface": "כְעוֹף",
+      "gloss": "kama ndege"
+    },
+    {
+      "surface": "נוֹדֵ֖ד",
+      "gloss": "anayetangatanga"
+    },
+    {
+      "surface": "קֵ֣ן",
+      "gloss": "tagulo"
+    },
+    {
+      "surface": "מְשֻׁלָּ֑ח",
+      "gloss": "lililotolewa"
+    },
+    {
+      "surface": "תִּֽהְיֶ֨נָה֙",
+      "gloss": "hivyo ⟨ni⟩"
+    },
+    {
+      "surface": "בְּנ֣וֹת",
+      "gloss": "binti za"
+    },
+    {
+      "surface": "מוֹאָ֔ב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "מַעְבָּרֹ֖ת",
+      "gloss": "katika maovani"
+    },
+    {
+      "surface": "לְאַרְנֽוֹן",
+      "gloss": "ya Arnoni"
+    }
+  ],
+  "timestamp": "2026-08-10T15:05:42.413360625Z",
+  "model": "glm-5.2"
+}

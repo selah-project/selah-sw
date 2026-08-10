@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Ya David. Yahweh ⟨ni⟩ nuru yangu na wokovu wangu — nitamwogopa nani? Yahweh ⟨ni⟩ nguvu ya uhai wangu — nitatetemeka kwa nani?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "nuru yangu"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "na wokovu wangu"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "nitamwogopa nani"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "nitamwogopa nani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "nguvu"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ya uhai wangu"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "nitatetemeka kwa nani"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "nitatetemeka"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:59.692836661Z",
+  "model": "glm-5.2"
+}

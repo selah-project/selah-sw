@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Mfalme akatoka, na nyumba yake yote kuifuata, na mfalme akaacha ⟨את⟩ wake kumi suria, kulinda ⟨את⟩ nyumba.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akatoka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yote"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "kuifuata"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "akaacha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wake kumi suria"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "wake"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "suria"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kulinda"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    }
+  ],
+  "timestamp": "2026-08-10T11:33:18.415969778Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na Chazaeli mfalme wa Aramu aliwadhoofisha ⟨את⟩ Yisrael siku zote za Yehoahazi.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "na Chazaeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "wa Aramu"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "aliwadhoofisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "siku"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "ya Yehoahazi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:02:35.609525062Z",
+  "model": "glm-5.2"
+}

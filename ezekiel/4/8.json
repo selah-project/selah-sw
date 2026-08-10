@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 4:8",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na tazama, mimi nimeweka juu yako kamba, wala hutageuka kutoka upande wako ⟨hadi⟩ upande wako mwingine, hadi utakapokamilisha siku za kuwasili kwako.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nimeweka"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "juu yako"
+    },
+    {
+      "surface": "עבותים",
+      "gloss": "kamba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala husi"
+    },
+    {
+      "surface": "תהפך",
+      "gloss": "utageuka"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "kutoka upande wako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨hadi⟩"
+    },
+    {
+      "surface": "צדך",
+      "gloss": "upande wako mwingine"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "כלותך",
+      "gloss": "utakapokamilisha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "siku za"
+    },
+    {
+      "surface": "מצורך",
+      "gloss": "kuwasili kwako"
+    }
+  ],
+  "timestamp": "2026-08-10T17:51:00.798275199Z",
+  "model": "glm-5.2"
+}

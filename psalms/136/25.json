@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 136,
+  "translation": "⟨Mwenye⟩ kutoa chakula cha kila mwili wa nyama, kwa maana mpaka milele ni chesed yake.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "kutoa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chakula"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cha kila"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mwili wa nyama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mpaka milele"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed yake"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:48.396288516Z",
+  "model": "glm-5.2"
+}

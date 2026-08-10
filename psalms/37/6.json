@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Naye atatokea kama nuru haki yako, na hukumu yako kama mchana.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "Naye atatokea"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "kama nuru"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "haki yako"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "na hukumu yako"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "kama mchana"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:20.707845485Z",
+  "model": "glm-5.2"
+}

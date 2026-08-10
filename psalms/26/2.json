@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Nijaribu, Yahweh, na kunitia mtihani; chuja figo zangu na moyo wangu.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Nijaribu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "na kunitia mtihani"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "chuja"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "figo zangu"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "na moyo wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:26.529825379Z",
+  "model": "glm-5.2"
+}

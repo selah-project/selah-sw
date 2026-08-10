@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na ⟨itakuwa⟩ anapokuwa na hatia kwa moja ya ⟨hizi⟩, na kukiri yale ambayo amekosa dhambi kwa ⟨hiyo⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ⟨itakuwa⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "anapokuwa"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "ana hatia"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "kwa moja"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ya ⟨hizi⟩"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "na kukiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yale ambayo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "amekosa dhambi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kwa ⟨hiyo⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T10:31:41.482475964Z",
+  "model": "glm-5.2"
+}

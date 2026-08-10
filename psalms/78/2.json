@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Nitafungua kwa mithali kinywa changu; nitatoboa fumbo kutoka zamani.",
+  "tokens": [
+    {
+      "surface": "אֶפְתְּחָ֣ה",
+      "gloss": "Nitafungua"
+    },
+    {
+      "surface": "בְמָשָׁ֣ל",
+      "gloss": "kwa mithali"
+    },
+    {
+      "surface": "פִּ֑י",
+      "gloss": "kinywa changu"
+    },
+    {
+      "surface": "אַבִּ֥יעָה",
+      "gloss": "nitatoboa"
+    },
+    {
+      "surface": "חִ֝יד֗וֹת",
+      "gloss": "fumbo"
+    },
+    {
+      "surface": "מִנִּי",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "קֶֽדֶם",
+      "gloss": "zamani"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:22.663039970Z",
+  "model": "glm-5.2"
+}

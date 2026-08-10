@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Na baada ya hayo, wanane wote wa Yisraeli wakakaribia; naye akawapa amri ⟨את⟩ kila waliyoambiwa na Yahweh pamoja naye ⟨אתו⟩ katika mlima Sinai.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Na baada ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hayo"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "wakakaribia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa wanane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "naye akawapa amri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waliyoambiwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "pamoja naye"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "katika mlima"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-10T10:28:52.311137126Z",
+  "model": "glm-5.2"
+}

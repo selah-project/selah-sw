@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 5:10",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Kwa hiyo baba watala watoto ndani yako, na watoto watala baba zao; na mimi nitatenda hukumu ndani yako, na nitawatawanya ⟨את⟩ wote waliobaki kwako kwa upepo wote.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kwa hiyo"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "baba"
+    },
+    {
+      "surface": "יֹאכְלוּ",
+      "gloss": "watala"
+    },
+    {
+      "surface": "בָנִים",
+      "gloss": "watoto"
+    },
+    {
+      "surface": "בְּתוֹכֵךְ",
+      "gloss": "ndani yako"
+    },
+    {
+      "surface": "וּבָנִים",
+      "gloss": "na watoto"
+    },
+    {
+      "surface": "יֹאכְלוּ",
+      "gloss": "watala"
+    },
+    {
+      "surface": "אֲבֹתֵיהֶם",
+      "gloss": "baba zao"
+    },
+    {
+      "surface": "וְעָשִׂיתִי",
+      "gloss": "na nitatenda"
+    },
+    {
+      "surface": "בָּךְ",
+      "gloss": "ndani yako"
+    },
+    {
+      "surface": "שְׁפָטִים",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "וְזֵרִיתִי",
+      "gloss": "na nitawatawanya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "wote waliobaki"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "שְׁאֵרִיתֵךְ",
+      "gloss": "waliobaki kwako"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "upepo wote"
+    }
+  ],
+  "timestamp": "2026-08-10T17:51:28.032022599Z",
+  "model": "glm-5.2"
+}

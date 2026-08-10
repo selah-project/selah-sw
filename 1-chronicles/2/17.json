@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na Abigail alizaa ⟨את⟩ Amasa, na baba ya Amasa ⟨alikuwa⟩ Yether Yishmaeli.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Na Abigail"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "na baba ya"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yether"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "Yishmaeli"
+    }
+  ],
+  "timestamp": "2026-08-10T14:03:24.918912900Z",
+  "model": "glm-5.2"
+}

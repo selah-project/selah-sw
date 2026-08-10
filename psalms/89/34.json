@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Na chesed (fadhili) yangu sitaivunja ⟨kumwondolea⟩, wala sitamdanganya katika uaminifu wangu.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "na chesed yangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sita"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "ivunja"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "kumwondolea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala sita"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "mdanganya"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "katika uaminifu wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:13.039410650Z",
+  "model": "glm-5.2"
+}

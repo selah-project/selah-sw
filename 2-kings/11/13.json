@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na 'Athalyah alisikia ⟨את⟩ sauti ya ⟨wakimbiaji⟩, ⟨wa⟩ watu, akaingia kwa watu ⟨katika⟩ nyumba ya Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "Na akasikia"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Athalyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauti"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "wakimbiaji"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wa watu"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨katika⟩ nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T16:04:49.545945594Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Wakazi wa giza na uvuli wa mauti, wafungwa wa dhiki na chuma.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "Wakazi wa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "giza"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "na uvuli wa mauti"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "wafungwa wa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dhiki"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "na chuma"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:57.207086953Z",
+  "model": "glm-5.2"
+}

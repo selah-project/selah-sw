@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Wakakaa miaka mitatu hakuna vita kati ya Aram na kati ya Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "wakakaa"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mitatu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "vita"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-10T11:46:05.572521940Z",
+  "model": "glm-5.2"
+}

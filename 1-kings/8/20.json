@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 8:20",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Yahweh amesimamisha ⟨את⟩ neno lake alilolinena; nami nimesimama badala ya David baba yangu, nimeketi kwenye kiti cha enzi cha Yisra'el, kama alivyosema Yahweh, nami nimejenga ⟨hiyo⟩ nyumba kwa jina la Yahweh, Elohim wa Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "amesimamisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neno lake"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "neno lake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alilolinena"
+    },
+    {
+      "surface": "ואקם",
+      "gloss": "nami nimesimama"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "badala ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba yangu"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "nimeketi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kiti cha enzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alivyosema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "nami nimejenga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "kwa jina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-10T14:58:32.614524606Z",
+  "model": "glm-5.2"
+}

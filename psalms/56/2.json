@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 56,
+  "translation": "Nionee neema, Elohim, kani mtu ananimeza; siku yote akipigana anibana.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Nionee neema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "aninimeza"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "siku yote"
+    },
+    {
+      "surface": "היום",
+      "gloss": ""
+    },
+    {
+      "surface": "לחם",
+      "gloss": "akipigana"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "anibana"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:16.374299433Z",
+  "model": "glm-5.2"
+}

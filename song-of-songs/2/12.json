@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 2:12",
+  "book": "song-of-songs",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Maua yameonekana nchini, wakati wa kuimba umefika, na sauti ya hodi inasikika katika nchi yetu.",
+  "tokens": [
+    {
+      "surface": "הנצנים",
+      "gloss": "maua"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "yameonekana"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nchini"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "הזמיר",
+      "gloss": "wa kuimba"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "umefika"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "na sauti"
+    },
+    {
+      "surface": "התור",
+      "gloss": "ya hodi"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "inasikika"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "katika nchi yetu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:36:03.190836035Z",
+  "model": "glm-5.2"
+}

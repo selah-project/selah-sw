@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Macho yako yaone mbele kwa usahihi, na kope zako zilande nyofu mbele zako.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "macho yako"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "mbele"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "yaone kwa usahihi"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "na kope zako"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "zilande nyofu"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "mbele zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:49.001326231Z",
+  "model": "glm-5.2"
+}

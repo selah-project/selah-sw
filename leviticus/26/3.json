@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Ikiwa katika sheria zenu mtatembea, na ⟨את⟩ amri zenu mtazihifadhi, na kuzitenda",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "בְּחֻקֹּתַ֖י",
+      "gloss": "katika sheria zenu"
+    },
+    {
+      "surface": "תֵּלֵ֑כוּ",
+      "gloss": "mtatembea"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "amri zenu"
+    },
+    {
+      "surface": "מִצְוֺתַ֣י",
+      "gloss": "amri zenu"
+    },
+    {
+      "surface": "תִּשְׁמְר֔וּ",
+      "gloss": "mtazihifadhi"
+    },
+    {
+      "surface": "וַעֲשִׂיתֶ֖ם",
+      "gloss": "na kuzitenda"
+    },
+    {
+      "surface": "אֹתָֽם",
+      "gloss": "⟨את⟩",
+      "marks": "amri zenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:40.726260494Z",
+  "model": "glm-5.2"
+}

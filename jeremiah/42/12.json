@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Nami nitawapa ninyi ⟨את⟩ rehema, naye atawahurumia ninyi ⟨את⟩, na atakurudisheni ninyi ⟨את⟩ kwenda nchi yenu.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "nami nitawapa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ninyi"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "rehema"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "naye atawahurumia"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "na atakurudisheni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenda"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "nchi yenu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:23:13.586413199Z",
+  "model": "glm-5.2"
+}

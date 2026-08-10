@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na faida ya nchi ni kwa wote: mfalme ⟨ni⟩ kwa shamba linalolimwa.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "na faida"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya nchi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ni kwa wote"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "kwa shamba"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "linalolimwa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:37:46.853606967Z",
+  "model": "glm-5.2"
+}

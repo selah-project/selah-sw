@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na David akamwambia, Damu yako ⟨iko⟩ juu ya kichwa chako; kwa kuwa kinywa chako kilishuhudia dhidi yako kusema, Mimi niliuwa ⟨את⟩ Mashíaj wa Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kumwambia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "Damu yako"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "kichwa chako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "kinywa chako"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "kilishuhudia"
+    },
+    {
+      "surface": "בך",
+      "gloss": "dhidi yako"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kusema"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "niliuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashíaj"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashíaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T11:28:54.794306233Z",
+  "model": "glm-5.2"
+}

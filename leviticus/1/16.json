@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na huondoa ⟨את⟩ kindi chake pamoja na manyoya yake, na huuitupa ⟨את⟩ ⟨hiyo⟩ pembeni mwa madhabahu upande wa mashariki, kwenye mahali pa majivu.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "na huondoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kindi chake"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "kindi chake"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "pamoja na manyoya yake"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "na huuitupa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨hiyo⟩",
+      "marks": "kindi chake pamoja na manyoya yake"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "pembeni mwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "upande wa mashariki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "mahali pa"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "majivu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:33:12.768758649Z",
+  "model": "glm-5.2"
+}

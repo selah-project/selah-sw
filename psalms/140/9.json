@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 140,
+  "translation": "Usimpe, Yahweh, ⟨matakwa⟩ ya mwovu; mpango wake usitoe, wasijitukuze. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usimpe"
+    },
+    {
+      "surface": "תתן",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "matakwa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mwovu"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "mpango wake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "toe"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "wasijitukuze"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:15.709380822Z",
+  "model": "glm-5.2"
+}

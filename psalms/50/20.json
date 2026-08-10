@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Huketi ⟨na⟩kumsema ndugu yako; kwa mwana wa mama yako ⟨hu⟩panga lawama.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "huketi"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "ndugu yako"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "kumsema"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mama yako"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "⟨hu⟩panga"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "lawama"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:32.685414309Z",
+  "model": "glm-5.2"
+}

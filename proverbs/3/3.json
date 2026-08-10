@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Chesed na uaminisi wasikuache; zifunge kooni mwako, uziandike kwenye mbao ya moyo wako.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na uaminisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "sikuache"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "zifunge"
+    },
+    {
+      "surface": "על",
+      "gloss": "kooni"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "mwako"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "uziandike"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "mbao"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ya moyo wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:22:07.838024527Z",
+  "model": "glm-5.2"
+}

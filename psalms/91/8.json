@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 91,
+  "translation": "Tu kwa macho yako utatazama, na malipo ya waovu utaona.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "kwa macho yako"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "utatazama"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "na malipo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya waovu"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "utaona"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:26.342336382Z",
+  "model": "glm-5.2"
+}

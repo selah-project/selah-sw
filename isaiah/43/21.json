@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "⟨⟨Hu⟩⟩ ni ⟨⟩umba⟩ watu huu kwa ajili yangu; watahadithia sifa zangu.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "זו",
+      "gloss": "huyu"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "niliumba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ajili yangu"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "sifa zangu"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "watahadithia"
+    }
+  ],
+  "timestamp": "2026-08-10T15:07:19.565277294Z",
+  "model": "glm-5.2"
+}

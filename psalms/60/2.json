@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 60,
+  "translation": "Pale alipopigana ⟨na⟩ ⟨את⟩ Aram-Naharayim na ⟨את⟩ Aram-Tsovah, akarudi Yoab, akapiga ⟨את⟩ Edom katika bonde la chumvi — elfu kumi na mbili.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "Pale alipopigana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram-Naharayim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram-"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aram-Tsovah"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram-"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsovah"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akarudi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akapiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "katika bonde"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "la chumvi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kumi na"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elfu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:44.979065893Z",
+  "model": "glm-5.2"
+}

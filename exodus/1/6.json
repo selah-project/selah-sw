@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Akafa Yosef na ndugu zake wote na kizazi hicho chote.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na … wote"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na … chote"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "kizazi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hicho"
+    }
+  ],
+  "timestamp": "2026-08-10T10:16:57.815695437Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Na akashwa tena na kuzaa mwana, na akamwita jina lake ⟨את⟩ Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "akashwa tena"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "na kuzaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "na akamwita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina lake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-08-10T17:40:51.098575729Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Na Davidi akasema kukusanya ⟨את⟩ wageni walio katika nchi ya Yisraeli, akaweka wachimbuji kuchimba mawe iliyochongwa kujenga nyumba ya Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "kukusanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wageni"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "wageni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "walio"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraeli"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "akaweka"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "wachimbuji"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "kuchimba"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mawe"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "iliyochongwa"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kujenga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T14:09:53.960337810Z",
+  "model": "glm-5.2"
+}

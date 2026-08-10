@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kile kilichopotoshwa hakiwezi kurekebishwa, na kile kilichopungua hakiwezi kuhesabiwa.",
+  "tokens": [
+    {
+      "surface": "מְעֻוָּ֖ת",
+      "gloss": "kile kilichopotoshwa"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "hakiwezi"
+    },
+    {
+      "surface": "יוּכַ֣ל",
+      "gloss": "kurekebishwa"
+    },
+    {
+      "surface": "לִתְקֹ֑ן",
+      "gloss": ""
+    },
+    {
+      "surface": "וְחֶסְר֖וֹן",
+      "gloss": "na kile kilichopungua"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "hakiwezi"
+    },
+    {
+      "surface": "יוּכַ֥ל",
+      "gloss": "kuhesabiwa"
+    },
+    {
+      "surface": "לְהִמָּנֽוֹת",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-10T16:24:27.348523814Z",
+  "model": "glm-5.2"
+}

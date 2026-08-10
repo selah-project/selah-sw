@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "Kutoka kwenye waraka wako watakimbia; kutoka kwa sauti ya ngurumo yako wataibwa.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Kutoka kwenye"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "waraka wako"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "watakimbia"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka kwa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "ya ngurumo yako"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "wataibwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:02.195866932Z",
+  "model": "glm-5.2"
+}

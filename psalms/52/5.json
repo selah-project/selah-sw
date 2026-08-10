@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 52,
+  "translation": "Umeupenda maovu zaidi kuliko mema, uongo kuliko kunena haki. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "umeupenda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "maovu"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "zaidi kuliko mema"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "uongo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kuliko kunena"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "haki"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:12.485596629Z",
+  "model": "glm-5.2"
+}

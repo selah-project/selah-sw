@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Taabu ya Tsor. Pigeni mayowe, enyi jahazi za Tarshish; kwa maana imeharibiwa, hata pasi kuwa na nyumba, pasi kuwa na kuingia; kutoka nchi ya Kitim ⟨imefunuliwa⟩ kwao.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "taabu"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "pigeni mayowe"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "jahazi"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "imeharibiwa"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kutoka nyumba"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "kuingia"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kutoka nchi"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kitim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "imefunuliwa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwao"
+    }
+  ],
+  "timestamp": "2026-08-10T12:00:21.860705236Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 7:11",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na Efrayimu akawa kama njiwa iliyodanganywa, isiyo na akili; wakamwaita Mitsrayim, wakaenda Asshuru.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na akawa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "kama njiwa"
+    },
+    {
+      "surface": "פותה",
+      "gloss": "iliyodanganywa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "isiyo na"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akili"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "wakamwaita"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asshuru"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "wakaenda"
+    }
+  ],
+  "timestamp": "2026-08-10T18:00:45.068421209Z",
+  "model": "glm-5.2"
+}

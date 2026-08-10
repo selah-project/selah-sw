@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Nimevua ⟨את⟩ nguo yangu, niweke nini kui-vaa tena? Nimeosha ⟨את⟩ miguu yangu, niweke nini kui-chafulia tena?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "nimevua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguo yangu"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "nguo yangu"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "niweke nini"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "kui-vaa tena"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "nimeosha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miguu yangu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "miguu yangu"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "niweke nini"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "kui-chafulia tena"
+    }
+  ],
+  "timestamp": "2026-08-10T13:42:29.701753246Z",
+  "model": "glm-5.2"
+}

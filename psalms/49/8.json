@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "⟨Kuna⟩ ndugu ambaye hatoweza kumkomboa; mtu hatoweza kutoa kwa Elohim fidia yake.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "ndugu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatoweza"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "kumkomboa"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "hatoweza kumkomboa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatoweza"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kutoa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "fidia yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:10.213250960Z",
+  "model": "glm-5.2"
+}

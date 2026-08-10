@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Na Yahweh atawapa mbele yenu, nanyi mtawatenda kwa kufuata amri yote ⟨ambayo⟩ nimekuamuru ninyi.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "Na atawapa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mbele yenu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "nanyi mtawatenda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kwa kufuata yote"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "amri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nimekuamuru"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:03:24.949762613Z",
+  "model": "glm-5.2"
+}

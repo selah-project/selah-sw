@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Ikawa, mtum wa Avraham aliposikia ⟨את⟩ maneno yao, akasujudu hadi nchi kwa Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "alipo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "akasikia"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mtum"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "wa Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno yao"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "maneno yao"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akasujudu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hadi nchi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:07:42.705194560Z",
+  "model": "glm-5.2"
+}

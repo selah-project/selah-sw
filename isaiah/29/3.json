@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Nami nitapiga kambi kama duara juu yako, nami nitakusanya dhiki juu yako kwa ngome, nami nitaliinua mzunguko wa kuziba juu yako.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "Nami nitapiga kambi"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "kama duara"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "juu yako"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "nami nitakusanya dhiki"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "juu yako"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "kwa ngome"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "nami nitaliinua"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "juu yako"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "mzunguko wa kuziba"
+    }
+  ],
+  "timestamp": "2026-08-10T15:06:21.126994269Z",
+  "model": "glm-5.2"
+}

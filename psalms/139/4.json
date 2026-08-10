@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 139,
+  "translation": "Kwa maana hakuna neno katika ulimi wangu; tazama, Yahweh, wewe unajua ⟨ki⟩ ⟨pamoja⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "neno"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "katika ulimi wangu"
+    },
+    {
+      "surface": "הן",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wewe unajua"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pamoja"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:55.021755263Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "David alipomaliza kutoa ⟨את⟩ sadaka ya kuchomwa na ⟨את⟩ za amani, akawabariki ⟨את⟩ watu kwa jina la Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "alipomaliza"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "kutoa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sadaka ya kuchomwa"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "na za amani"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akawabariki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "kwa jina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:08:35.724954376Z",
+  "model": "glm-5.2"
+}

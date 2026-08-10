@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Nanyi mtatahiri ⟨את⟩ nyama ya mahali penuu pa hatoni, nayo itakuwa ⟨ni⟩ ishara ya agano kati yangu na kati yenu.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "nanyi mtatahiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "ya mahali penuu pa hatoni"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "nayo itakuwa"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "ishara"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ya agano"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "kati yangu"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "na kati yenu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:49:11.390242282Z",
+  "model": "glm-5.2"
+}

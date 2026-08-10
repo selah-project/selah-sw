@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "Nituhukumu Elohim, na ulihaki haki yangu kutoka taifa lisilo cha chesed, kutoka mtu wa udanganyifu na dhulma uniokoe.",
+  "tokens": [
+    {
+      "surface": "שָׁפְטֵ֤נִי",
+      "gloss": "nituhukumu"
+    },
+    {
+      "surface": "אֱלֹהִ֨ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וְרִ֘יבָ֤ה",
+      "gloss": "na ulihaki"
+    },
+    {
+      "surface": "רִיבִ֗י",
+      "gloss": "haki yangu"
+    },
+    {
+      "surface": "מִגּ֥וֹי",
+      "gloss": "kutoka taifa"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "lisilo"
+    },
+    {
+      "surface": "חָסִ֑יד",
+      "gloss": "cha chesed"
+    },
+    {
+      "surface": "מֵ֤אִישׁ",
+      "gloss": "kutoka mtu"
+    },
+    {
+      "surface": "מִרְמָ֖ה",
+      "gloss": "wa udanganyifu"
+    },
+    {
+      "surface": "וְעַוְלָ֣ה",
+      "gloss": "na dhulma"
+    },
+    {
+      "surface": "תְפַלְּטֵֽנִי",
+      "gloss": "uniokoe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:36.192812373Z",
+  "model": "glm-5.2"
+}

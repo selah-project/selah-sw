@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na mkikusanya ⟨את⟩ mkusanyiko, mpigeni; na msipige mlio wa pambi.",
+  "tokens": [
+    {
+      "surface": "וּבְהַקְהִ֖יל",
+      "gloss": "na mkikusanya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mkusanyiko"
+    },
+    {
+      "surface": "הַקָּהָ֑ל",
+      "gloss": "mkusanyiko"
+    },
+    {
+      "surface": "תִּתְקְע֖וּ",
+      "gloss": "mpigeni"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "na msipige"
+    },
+    {
+      "surface": "תָרִֽיעוּ",
+      "gloss": "mlio wa pambi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:43:24.590834746Z",
+  "model": "glm-5.2"
+}

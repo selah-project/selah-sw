@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Kwa nini unazama chini, nefesh yangu, na kunung'unika juu yangu? Tegemea Elohim, kwa kuwa bado nitamtukuza; ⟨ni⟩ wokovu wa uso wake.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kwa nini"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "unazama chini"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh yangu"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "na kunung'unika"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "tegemea"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bado"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "nitamtukuza"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "wokovu"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wa uso wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:47.445991783Z",
+  "model": "glm-5.2"
+}

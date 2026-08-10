@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Kuwa nyofu ⟨ni⟩ neno la Yahweh; na kazi yake yote ⟨iimo⟩ katika uaminifu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "nyofu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na kazi yake yote"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "kazi yake"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "katika uaminifu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:48.164137920Z",
+  "model": "glm-5.2"
+}

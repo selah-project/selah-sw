@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "David akamwambia Yahweh maneno ⟨את⟩ ya wimbo huu siku ile Yahweh alipomwokoa ⟨אתו⟩ kutoka mkononi mwa adui zake wote na kutoka mkononi mwa Shaul.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno ya"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "huu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku ile"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "alipomwokoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "kutoka mkononi mwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "adui zake"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "na kutoka mkononi mwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-10T11:34:50.027816559Z",
+  "model": "glm-5.2"
+}

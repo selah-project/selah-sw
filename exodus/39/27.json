@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "Wakatengeneza ⟨את⟩ nguo za ndani za shashi, kazi ya mwili, kwa Aharoni na kwa wana wake.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Wakatengeneza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguo za ndani"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "nguo za ndani"
+    },
+    {
+      "surface": "שש",
+      "gloss": "za shashi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "ya mwili"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kwa Aharoni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "na kwa wana wake"
+    }
+  ],
+  "timestamp": "2026-08-10T17:41:44.282753182Z",
+  "model": "glm-5.2"
+}

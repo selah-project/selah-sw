@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 140,
+  "translation": "Mtu wa ulimi asithibitishwe katika nchi; mtu wa jeuri, uovu umfanyie mtego — kwa nguvu za kumdondosha.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Mtu"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "wa ulimi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "thibitishwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "wa jeuri"
+    },
+    {
+      "surface": "רע",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "umfanyie mtego"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "kwa nguvu za kumdondosha"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:15.709983100Z",
+  "model": "glm-5.2"
+}

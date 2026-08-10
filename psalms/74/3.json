@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 74,
+  "translation": "Inua hatua zako kwenye magofu ya milele! Yote maovu adui ameyatenda katika patakatifu.",
+  "tokens": [
+    {
+      "surface": "הָרִ֣ימָה",
+      "gloss": "Inua"
+    },
+    {
+      "surface": "פְ֭עָמֶיךָ",
+      "gloss": "hatua zako"
+    },
+    {
+      "surface": "לְמַשֻּׁא֣וֹת",
+      "gloss": "kwenye magofu"
+    },
+    {
+      "surface": "נֶ֑צַח",
+      "gloss": "ya milele"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "Yote"
+    },
+    {
+      "surface": "הֵרַ֖ע",
+      "gloss": "maovu"
+    },
+    {
+      "surface": "אוֹיֵ֣ב",
+      "gloss": "adui"
+    },
+    {
+      "surface": "בַּקֹּֽדֶשׁ",
+      "gloss": "katika patakatifu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:20.599063093Z",
+  "model": "glm-5.2"
+}

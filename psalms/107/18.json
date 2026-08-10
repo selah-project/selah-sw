@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Chakula chote nafsi yao huchukia, na wakafika hadi milango ya mauti.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Chakula chote"
+    },
+    {
+      "surface": "אכל",
+      "gloss": ""
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "huchukia"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nafsi yao"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "na wakafika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "milango ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mauti"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:43.860301939Z",
+  "model": "glm-5.2"
+}

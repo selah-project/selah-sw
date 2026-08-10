@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na Paroh akaamuru wanaume kuhusu yake, wakampeleka ⟨את⟩ ⟨yeye⟩ na ⟨את⟩ mkewe na ⟨את⟩ vyote vilivyoko kwake.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "na akaamuru"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuhusu yake"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "wanaume"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "wakampeleka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨yeye⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mkewe"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mkewe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vilivyoko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:04:28.263895568Z",
+  "model": "glm-5.2"
+}

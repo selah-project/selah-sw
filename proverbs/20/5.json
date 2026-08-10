@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Maji ya kina — chumo ndani ya moyo wa mtu; na mtu wa ufahamu ataichota.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "ya kina"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "chumo"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ndani ya moyo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wa mtu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mtu"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "wa ufahamu"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "ataichota"
+    }
+  ],
+  "timestamp": "2026-08-10T13:27:19.170019392Z",
+  "model": "glm-5.2"
+}

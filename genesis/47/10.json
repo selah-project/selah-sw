@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 47,
+  "translation": "Yaaqov akambariki ⟨את⟩ Paroh, naye akatoka mbele za Paroh.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "akambariki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "akatoka"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:16:19.650421744Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 2:9",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Akawaambia ⟨⟩watu⟨⟩ hao: Najua ya kwamba Yahweh amekupeni ⟨את⟩ nchi, na ya kwamba uhofu wenu umetuangukia, na ya kwamba wakaazi wote wa nchi wanayeyuka mbele zenu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akawaambia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "watu hao"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "najua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "amekupeni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "na ya kwamba"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "umetuangukia"
+    },
+    {
+      "surface": "אימתכם",
+      "gloss": "uhofu wenu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "juu yetu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "na ya kwamba"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "wanayeyuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wakaazi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "mbele zenu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:06:11.628744825Z",
+  "model": "glm-5.2"
+}

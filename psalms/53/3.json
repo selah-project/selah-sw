@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 53,
+  "translation": "Elohim kutoka mbingu aliangalia chini juu ya wana waadamu kuona kama ⟨kuna⟩ mwenye kufahamu, amtafutaye ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kutoka mbingu"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "aliangalia chini"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "היש",
+      "gloss": "kama ⟨kuna⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mwenye kufahamu"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "amtafutaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:29.551163629Z",
+  "model": "glm-5.2"
+}

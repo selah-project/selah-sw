@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Sasa nitaamka, anasema Yahweh; sasa nitaliwa, sasanijiwe juu.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "nitaamka"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "anasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "nitaliwa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "nijiwe juu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:06:55.637615435Z",
+  "model": "glm-5.2"
+}

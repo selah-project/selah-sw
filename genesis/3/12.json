@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na haadam akasema, \"Mwanamke ambaye umpa ⟨kuwa⟩ pamoja nami, yeye ndiye aliyepa ⟨kutoka⟩ mti, nikala.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "haadam"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "umpa"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "pamoja nami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye ndiye"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "aliyepa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨kutoka⟩"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mti"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "nikala"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:03.750725926Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 63,
+  "translation": "Na mfalme atafurahi katika Elohim; atajisifu kila anayeapa kwa ⟨yeye⟩, kwa kuwa mdomo wa waonao waongo utafungwa.",
+  "tokens": [
+    {
+      "surface": "וְהַמֶּלֶךְ֮",
+      "gloss": "Na mfalme"
+    },
+    {
+      "surface": "יִשְׂמַ֪ח",
+      "gloss": "atafurahi"
+    },
+    {
+      "surface": "בֵּאלֹ֫הִ֥ים",
+      "gloss": "katika Elohim"
+    },
+    {
+      "surface": "יִ֭תְהַלֵּל",
+      "gloss": "atajisifu"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "הַנִּשְׁבָּ֣ע",
+      "gloss": "anayeapa"
+    },
+    {
+      "surface": "בּ֑וֹ",
+      "gloss": "kwa yeye"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "יִ֝סָּכֵ֗ר",
+      "gloss": "utafungwa"
+    },
+    {
+      "surface": "פִּ֣י",
+      "gloss": "mdomo wa"
+    },
+    {
+      "surface": "דֽוֹבְרֵי",
+      "gloss": "waonao"
+    },
+    {
+      "surface": "שָֽׁקֶר",
+      "gloss": "waongo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:56.147083614Z",
+  "model": "glm-5.2"
+}

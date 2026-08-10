@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Watumishi wa Amon walipanga njama dhidi yake, wakamwua ⟨את⟩ mfalme nyumbani mwake.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "walipanga njama"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Watumishi wa"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dhidi yake"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "wakamwua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfalme"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "nyumbani mwake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:51:57.441774383Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Lakini mimi nikasema: Kwa ubatili nimewachoka, kwa tohu na uwongo nguvu zangu nimemaliza; hakika haki yangu ⟨ni⟩ pamoja na ⟨את⟩ Yahweh, na ujira wangu ⟨ni⟩ pamoja na ⟨את⟩ Elohai.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Lakini mimi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nikasema"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "kwa ubatili"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "nimewachoka"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "kwa tohu"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "na uwongo"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "nguvu zangu"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "nimemaliza"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "hakika"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "haki yangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "na ujira wangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai"
+    }
+  ],
+  "timestamp": "2026-08-10T18:00:48.397032562Z",
+  "model": "glm-5.2"
+}

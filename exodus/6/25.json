@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 6:25",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na Elazar mwana wa Aharon akachukua ⟨kwa⟩ewe mmoja ya binti za Putieli ⟨kwa⟩ewe kuwa mke, naye akamzalia ⟨את⟩ Pinehasi. Hawa ni makuu wa baba za Walawi kufuatana na familia zao.",
+  "tokens": [
+    {
+      "surface": "ואלעזר",
+      "gloss": "Na Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "wa Aharon"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "akachukua"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kwa⟩ewe"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "mmoja ya binti za"
+    },
+    {
+      "surface": "פוטיאל",
+      "gloss": "Putieli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kwa⟩ewe"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kuwa mke"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "naye akamzalia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kwa⟩ewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinehasi"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehasi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Hawa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ni makuu"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "wa baba za"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Walawi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kufuatana na familia zao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:12.129056141Z",
+  "model": "glm-5.2"
+}

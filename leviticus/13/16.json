@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Au nyama hai irudipo na kugeuka kuwa nyeupe, na yeye aje kwa kuhani.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "au"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(kwamba)"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "irudipo"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "החי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "na kugeuka"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "kuwa nyeupe"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "na yeye aje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:57.555896695Z",
+  "model": "glm-5.2"
+}

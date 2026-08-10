@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Akawaambia: Je, mnammfahamu ⟨את⟩ Lavan mwana wa Nachor? Wakasema: Tunamfahamu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akawaambia"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "je, mnafahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "wa Nachor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wakasema"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "tunamfahamu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:09:02.819031253Z",
+  "model": "glm-5.2"
+}

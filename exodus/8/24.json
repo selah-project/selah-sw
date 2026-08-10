@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Paroh akasema: Mimi nitawatumieni nanyi mtamchinja Yahweh Elohim wenu jangwani; tu nje mbali, msiende mbali sana; niombee dini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "nitawatumieni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nyinyi",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "nanyi mtamchinja"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wenu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "jangwani"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "nje mbali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "msiende"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "mbali sana"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "niombee dini"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "kwa ajili yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:27:48.060832835Z",
+  "model": "glm-5.2"
+}

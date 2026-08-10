@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ mashamba yenu na ⟨את⟩ mizabibu yenu na mizeituni wenu walio bora atayaichukua, na akawapa watumishi wake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mashamba yenu"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "mashamba yenu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mizabibu yenu"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "mizabibu yenu"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "na mizeituni wenu"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "walio bora"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "atayaichukua"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na akawapa"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "watumishi wake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:50:40.527373868Z",
+  "model": "glm-5.2"
+}

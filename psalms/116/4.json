@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 116,
+  "translation": "Na kwa jina la Yahweh nitaliwa: tafadhali, ee Yahweh, okoa nafsi yangu!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Na kwa jina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nitaliwa"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "okoa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:44.858753786Z",
+  "model": "glm-5.2"
+}

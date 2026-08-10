@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 10:1",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Yahweh akamwambia Moshe, akisema:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֥ר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "akisema"
+    }
+  ],
+  "timestamp": "2026-08-10T10:44:02.587890331Z",
+  "model": "glm-5.2"
+}

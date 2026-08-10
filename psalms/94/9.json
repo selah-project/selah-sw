@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 94,
+  "translation": "Yeye aliye pandiza sikio, je, ⟨hanyesikii⟩? Au yeye aliyeunda jicho, je, ⟨haoni⟩?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "aliye pandiza"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "sikio"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "je"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "⟨ha⟩-nyesikii"
+    },
+    {
+      "surface": "אם",
+      "gloss": "au"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "aliyeunda"
+    },
+    {
+      "surface": "עין",
+      "gloss": "jicho"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "je"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "⟨ha⟩-oni"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:49.549293280Z",
+  "model": "glm-5.2"
+}

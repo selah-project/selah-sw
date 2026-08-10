@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Unapoenda, ⟨hii⟩ itakuongoza; unapolala, itakulinda; na unapoamka, ⟨hii⟩ itazungumza nawe.",
+  "tokens": [
+    {
+      "surface": "בְּהִתְהַלֶּכְךָ֨",
+      "gloss": "Unapoenda"
+    },
+    {
+      "surface": "תַּנְחֶ֬ה",
+      "gloss": "itakuongoza"
+    },
+    {
+      "surface": "אֹתָ֗ךְ",
+      "gloss": "⟨את⟩",
+      "marks": "hii"
+    },
+    {
+      "surface": "בְּֽ֭שָׁכְבְּךָ",
+      "gloss": "unapolala"
+    },
+    {
+      "surface": "תִּשְׁמֹ֣ר",
+      "gloss": "itakulinda"
+    },
+    {
+      "surface": "עָלֶ֑יךָ",
+      "gloss": "juu yako"
+    },
+    {
+      "surface": "וַ֝הֲקִיצ֗וֹתָ",
+      "gloss": "na unapoamka"
+    },
+    {
+      "surface": "הִ֣יא",
+      "gloss": "⟨hii⟩"
+    },
+    {
+      "surface": "תְשִׂיחֶֽךָ",
+      "gloss": "itazungumza nawe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:23:10.395573915Z",
+  "model": "glm-5.2"
+}

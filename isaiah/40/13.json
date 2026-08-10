@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Nani aliupimia ⟨את⟩ roho ya Yahweh, na nani ⟨aliye⟩ mshauri wake ammfundisha?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "aliupimia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roho"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na nani"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "mshauri wake"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "ammfundisha"
+    }
+  ],
+  "timestamp": "2026-08-10T15:06:56.279731294Z",
+  "model": "glm-5.2"
+}

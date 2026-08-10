@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Ewe mwana wa adamu, wake wawili, binti wa mama mmoja walikuwepo.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa adamu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "wake"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "binti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wa mama"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "mmoja"
+    },
+    {
+      "surface": "היו",
+      "gloss": "walikuwepo"
+    }
+  ],
+  "timestamp": "2026-08-10T12:32:32.943862951Z",
+  "model": "glm-5.2"
+}

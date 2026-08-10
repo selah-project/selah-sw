@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 135,
+  "translation": "Kama hizo (sanamu) ndivyo waliotengenezwa zilivyo; wote wanaotegemea ⟨את⟩ hizo.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "kama hizo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zilivyo"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "waliotengenezwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanao"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "tegemea"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨את⟩ hizo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:28.061182534Z",
+  "model": "glm-5.2"
+}

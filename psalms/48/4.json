@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 48,
+  "translation": "Elohim katika ngome zake ⟨amejulikana⟩ kama boma la ulinzi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "katika ngome zake"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "⟨amejulikana⟩"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "kama boma la ulinzi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:12.718558175Z",
+  "model": "glm-5.2"
+}

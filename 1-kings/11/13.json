@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Lakini ⟨את⟩ ufalma mzima sitaukata; kabila moja nitampa mwanako, kwa ajili ya David mtumishi wangu, na kwa ajili ya Yerushalayim ambayo nimchagua.",
+  "tokens": [
+    {
+      "surface": "רַ֤ק",
+      "gloss": "Lakini"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ufalma mzima"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "mzima"
+    },
+    {
+      "surface": "הַמַּמְלָכָה֙",
+      "gloss": "ufalma"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "si"
+    },
+    {
+      "surface": "אֶקְרָ֔ע",
+      "gloss": "kata"
+    },
+    {
+      "surface": "שֵׁ֥בֶט",
+      "gloss": "kabila"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "אֶתֵּ֣ן",
+      "gloss": "nitampa"
+    },
+    {
+      "surface": "לִבְנֶ֑ךָ",
+      "gloss": "mwanako"
+    },
+    {
+      "surface": "לְמַ֨עַן֙",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "דָּוִ֣ד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עַבְדִּ֔י",
+      "gloss": "mtumishi wangu"
+    },
+    {
+      "surface": "וּלְמַ֥עַן",
+      "gloss": "na kwa ajili ya"
+    },
+    {
+      "surface": "יְרוּשָׁלִַ֖ם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "בָּחָֽרְתִּי",
+      "gloss": "nimchagua"
+    }
+  ],
+  "timestamp": "2026-08-10T11:41:24.553512993Z",
+  "model": "glm-5.2"
+}

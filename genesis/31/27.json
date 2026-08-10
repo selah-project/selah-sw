@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 31:27",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Kwa nini ulijificha ili kukimbia, na uniibe ⟨את⟩, wala hkunijulisha, ili ningeliukuza kwa shangwe na nyimbo, kwa tarubi na kinubi?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "נחבאת",
+      "gloss": "ulijificha"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "ili kukimbia"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "na uniibe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mimi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "hkunijulisha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "ili ningeliukuza"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "kwa shangwe"
+    },
+    {
+      "surface": "ובשרים",
+      "gloss": "na nyimbo"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "kwa tarubi"
+    },
+    {
+      "surface": "ובכנור",
+      "gloss": "na kinubi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:50:12.947079237Z",
+  "model": "glm-5.2"
+}

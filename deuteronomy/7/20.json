@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na pia ⟨את⟩ nzige atayatuma Yahweh Elohim wako ⟨kati⟩ yao, hata waangamie waliobaki na waliofichika kutoka uso wako.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Na pia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzige"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "nzige"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "atayatuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨kati⟩ yao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "waangamie"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "waliobaki"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "na waliofichika"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "kutoka uso wako"
+    }
+  ],
+  "timestamp": "2026-08-10T17:43:53.733416482Z",
+  "model": "glm-5.2"
+}

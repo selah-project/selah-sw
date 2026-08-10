@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Basi Elohim alimnyenyekea ⟨את⟩ Yabin mfalme wa Kanaan siku hiyo mbele ya wana wa Yisraeli.",
+  "tokens": [
+    {
+      "surface": "וַיַּכְנַ֤ע",
+      "gloss": "Basi alimnyenyekea"
+    },
+    {
+      "surface": "אֱלֹהִים֙",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בַּיּ֣וֹם",
+      "gloss": "siku"
+    },
+    {
+      "surface": "הַה֔וּא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "Yabin"
+    },
+    {
+      "surface": "יָבִ֣ין",
+      "gloss": "Yabin"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "כְּנָ֑עַן",
+      "gloss": "wa Kanaan"
+    },
+    {
+      "surface": "לִפְנֵ֖י",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-08-10T15:59:20.687634074Z",
+  "model": "glm-5.2"
+}

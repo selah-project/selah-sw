@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Na wamwadhimishe katika mkutano wa watu, na katika kiti cha wazee wamsifu.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Na wamwadhimishe"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "katika mkutano"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wa watu"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "na katika kiti"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "cha wazee"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "wamsifu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:07.474357066Z",
+  "model": "glm-5.2"
+}

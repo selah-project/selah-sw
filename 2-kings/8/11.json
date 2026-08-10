@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Akamwelekeza ⟨את⟩ uso wake, akamtazama hadi ⟨akashtuka⟩, na mtu wa Elohim akalia.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "akamwelekeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uso wake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uso wake"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akamtazama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "בש",
+      "gloss": "akashtuka"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "akailia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T16:05:19.501552462Z",
+  "model": "glm-5.2"
+}

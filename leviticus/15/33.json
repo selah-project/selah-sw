@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 15:33",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Na ⟨ya⟩ mwenye kutokwa damu katika hali ya kutokwa kwake, na ⟨ya⟩ mwenye kutokwa, ⟨את⟩ kutokwa kwake, kwa mwanaume na kwa mwanamke, na kwa mtu ambaye hulala na ⟨mwenye⟩ kutokuwa safi.",
+  "tokens": [
+    {
+      "surface": "וְהַדָּוָה֙",
+      "gloss": "Na ⟨ya⟩ mwenye kutokwa damu"
+    },
+    {
+      "surface": "בְּנִדָּתָ֔הּ",
+      "gloss": "katika hali ya kutokwa kwake"
+    },
+    {
+      "surface": "וְהַזָּב֙",
+      "gloss": "na ⟨ya⟩ mwenye kutokwa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kutokwa kwake"
+    },
+    {
+      "surface": "זוֹב֔וֹ",
+      "gloss": "kutokwa kwake"
+    },
+    {
+      "surface": "לַזָּכָ֖ר",
+      "gloss": "kwa mwanaume"
+    },
+    {
+      "surface": "וְלַנְּקֵבָ֑ה",
+      "gloss": "na kwa mwanamke"
+    },
+    {
+      "surface": "וּלְאִ֕ישׁ",
+      "gloss": "na kwa mtu"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "יִשְׁכַּ֖ב",
+      "gloss": "hulala"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "na"
+    },
+    {
+      "surface": "טְמֵאָֽה",
+      "gloss": "⟨mwenye⟩ kutokuwa safi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:35:10.555389283Z",
+  "model": "glm-5.2"
+}

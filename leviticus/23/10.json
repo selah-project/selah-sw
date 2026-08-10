@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 23:10",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Sema na wana wa Yisra'el, uwaambie: Mtakapoingia ⟨kwenye⟩ nchi ambayo mimi ninawapa, mkivuna ⟨את⟩ mavuno yake, mtalete ⟨את⟩ sheafu, mazao ya kwanza ya mavuno yenu, kwa kuhani.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Sema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uwaambie"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Mtakapo"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "ingia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ninawapa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "וקצרתם",
+      "gloss": "mkivuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mavuno yake"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "mavuno yake"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "mtalete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sheafu"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "sheafu"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "mazao ya kwanza"
+    },
+    {
+      "surface": "קצירכם",
+      "gloss": "ya mavuno yenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:36.669876811Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Na ⟨את⟩ ramu moja utaichukua, na Aharon na wanawe wataweka ⟨את⟩ mikono yao juu ya kichwa cha ramu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ramu moja"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ramu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "utaichukua"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "na wataweka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na wanawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikono yao"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mikono yao"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "cha ramu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:26:33.795935337Z",
+  "model": "glm-5.2"
+}

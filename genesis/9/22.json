@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Cham, baba wa Kenaan, akaona ⟨את⟩ uchi wa baba yake, naye akawaeleza wadogo zake wawili ⟨kwa⟩ nje.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uchi"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "uchi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akawaeleza"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "kwa wawili"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "nje"
+    }
+  ],
+  "timestamp": "2026-08-10T10:02:26.697121715Z",
+  "model": "glm-5.2"
+}

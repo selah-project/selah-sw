@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Wema wewe na ufanyao wema, nifundishe amri zako.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "wema"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "na ufanyao wema"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "nifundishe"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "amri zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:26.295021180Z",
+  "model": "glm-5.2"
+}

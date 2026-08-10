@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ shafan, kwa sababu ⟨yeye⟩ ni mleta-maji, lakiniBAT hoofu haipasui — mchafu ⟨yeye⟩ kwenu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "shafan"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "shafan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "mleta-maji"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "(majitumbu)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "lakiniBAT hoofu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "-pasui"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "mchafu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:34:06.647182128Z",
+  "model": "glm-5.2"
+}

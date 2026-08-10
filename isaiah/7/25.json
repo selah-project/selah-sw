@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 7:25",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na milima yote ambayo kwa njia ya jembe vitafuliwa — ⟨hutatemiwa⟩, kwa sababu ya hofu ya miiba mikali na miiba; na ⟨hiyo⟩ itakuwa kwa kuwacha ng'ombe ⟨wafanye malisho⟩, na kwa kukanyagwa na kondoo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Na yote"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "milima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "במעדר",
+      "gloss": "kwa jembe"
+    },
+    {
+      "surface": "יעדרון",
+      "gloss": "vitafuliwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "⟨hutatemiwa⟩"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "hofu"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "ya miiba mikali"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "na miiba"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na itakuwa"
+    },
+    {
+      "surface": "למשלח",
+      "gloss": "kwa kuwacha"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ולמרמס",
+      "gloss": "na kwa kukanyagwa"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kondoo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:03:02.398396866Z",
+  "model": "glm-5.2"
+}

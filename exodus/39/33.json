@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "Wakamletia ⟨את⟩ hema kwa Moshe: ⟨את⟩ hema na ⟨את⟩ vyombo vyake vyote, vibanio vyake, mbao zake, mihimili yake, nguzo zake, na misingi yake.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "Wakamletia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "hema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vyombo vyake vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "vyombo vyake"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "vibanio vyake"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "mbao zake"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "mihimili yake"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "nguzo zake"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "na misingi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:32.459415339Z",
+  "model": "glm-5.2"
+}

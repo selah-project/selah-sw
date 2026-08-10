@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na kwa hawa mtajisikia machafu; kila anayegusa maiti yao atajisikia machafu hata jioni.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "Na kwa hawa"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "mtajisikia machafu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "anayegusa"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "maiti yao"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "atajisikia machafu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "jioni"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:35.661473121Z",
+  "model": "glm-5.2"
+}

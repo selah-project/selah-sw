@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na ⟨את⟩ Aharoni na ⟨את⟩ wanawe utawateuza, nao watashika ⟨את⟩ ukuhani wao; na mgeni anayekaribia atauawa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wanawe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "utawateuza"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "nao watashika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuhani wao"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "ukuhani wao"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "na mgeni"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "anayekaribia"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "atauawa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:36:08.452937834Z",
+  "model": "glm-5.2"
+}

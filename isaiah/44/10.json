@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Nani ameumba ⟨אֵל⟩, na kumwaga sanamu iliyoyeyshwa, ⟨kwa⟩ lisilofaa kitu?",
+  "tokens": [
+    {
+      "surface": "מִֽי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "יָצַ֥ר",
+      "gloss": "ameumba"
+    },
+    {
+      "surface": "אֵ֖ל",
+      "gloss": "⟨אֵל⟩"
+    },
+    {
+      "surface": "וּפֶ֣סֶל",
+      "gloss": "na sanamu"
+    },
+    {
+      "surface": "נָסָ֑ךְ",
+      "gloss": "iliyoyeyshwa"
+    },
+    {
+      "surface": "לְבִלְתִּ֖י",
+      "gloss": "kwa lisilofaa"
+    },
+    {
+      "surface": "הוֹעִֽיל",
+      "gloss": "kitu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:07:48.852691231Z",
+  "model": "glm-5.2"
+}

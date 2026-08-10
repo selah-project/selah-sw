@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na Obedi alimzaa ⟨את⟩ Yehu, na Yehu alimzaa ⟨את⟩ Azaria.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Na Obedi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "na Yehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaria"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaria"
+    }
+  ],
+  "timestamp": "2026-08-10T14:03:08.676175775Z",
+  "model": "glm-5.2"
+}

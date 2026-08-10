@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Taifa lenye uso mkali, ambalo haliangalii uso wa mzee, wala kijana hataonyeza rehema.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "lenye nguvu"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "uso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hai"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "angalii"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "uso wa"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "mzee"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "na kijana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hata"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "onyesha rehema"
+    }
+  ],
+  "timestamp": "2026-08-10T11:02:48.104286563Z",
+  "model": "glm-5.2"
+}

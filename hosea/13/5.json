@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Mimi nalikujua ⟨katika⟩ jangwani, katika nchi ya ukavu mkali.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "nalikujua"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "⟨katika⟩ jangwani"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "ya ukavu mkali"
+    }
+  ],
+  "timestamp": "2026-08-10T12:43:18.095627600Z",
+  "model": "glm-5.2"
+}

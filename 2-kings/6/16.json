@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Akasema: Usiogope, maana wale walio ⟨את⟩ ⟨pamoja⟩ nasi ni wengi kuliko wale walio ⟨את⟩ ⟨pamoja⟩ nao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usiogope"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ogopa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "walio"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ⟨pamoja⟩ nasi"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kuliko wale walio"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨pamoja⟩ nao"
+    }
+  ],
+  "timestamp": "2026-08-10T11:47:07.494425022Z",
+  "model": "glm-5.2"
+}

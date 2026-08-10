@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "na Yehu akalala na baba zake, wakamzika ⟨את⟩ yeye Shomroni, Yehoahazi mwana wake akatawala badala yake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "akalala"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baba zake"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "wakamzika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yeye",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomroni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akatawala"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahazi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "badala yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:48:40.601815367Z",
+  "model": "glm-5.2"
+}

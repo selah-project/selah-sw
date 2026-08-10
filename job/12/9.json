@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Ni nani asiyefahamu katika hayo yote, kwani mkono wa Yahweh ⟨umefanya⟩ hili?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asiye-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "fahamu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwani"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "⟨umefanya⟩"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hili"
+    }
+  ],
+  "timestamp": "2026-08-10T16:22:11.567787712Z",
+  "model": "glm-5.2"
+}

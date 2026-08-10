@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Usiogope, maana ni kontigo; usitazame ⟨pembeni⟩, maana mimi ni Elohim wako; nilikutia nguvu, naam, nilikusaidia, naam, nilikushikilia kwa mkono wa kuume wa haki yangu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ogope"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kontigo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Usi"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "tazame"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ni Elohim wako"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "nilikutia nguvu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "naam"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "nilikusaidia"
+    },
+    {
+      "surface": "אף",
+      "gloss": "naam"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "nilikushikilia"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "kwa mkono wa kuume"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "wa haki yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T17:49:13.105350895Z",
+  "model": "glm-5.2"
+}

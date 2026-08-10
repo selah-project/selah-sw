@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "Mishale yako ⟨ni⟩ waliopashwa makali; watu wataanguka chini yako, ⟨hupenya⟩ moyo wa maadui wa mfalme.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "Mishale yako"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "waliopashwa makali"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "chini yako"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "wataanguka"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "⟨hupenya⟩ moyo"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "wa maadui"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:59.280914810Z",
+  "model": "glm-5.2"
+}

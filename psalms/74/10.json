@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 74,
+  "translation": "Hadi lini, Elohim, adui atadharau? Foe atatuka jina lako milele?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hadi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "lini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "atadharau"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Foe"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "atatuka"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "adui"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:51.826333242Z",
+  "model": "glm-5.2"
+}

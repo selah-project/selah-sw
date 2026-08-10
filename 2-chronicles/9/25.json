@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 9:25",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na Shelomoh alikuwa na vituo vinne elfu vya farasi na magari, na washukiwa elfu kumi na wawili; akaviweka katika miji ya magari na ⟨pamoja na⟩ mfalme huko Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na akawa"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kwa Shelomoh"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "vinne"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "vituo"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "farasi"
+    },
+    {
+      "surface": "ומרכבות",
+      "gloss": "na magari"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "na wawili"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "washukiwa"
+    },
+    {
+      "surface": "ויניחם",
+      "gloss": "akaviweka"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "katika miji"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ya magari"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "huko Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T16:28:40.976761979Z",
+  "model": "glm-5.2"
+}

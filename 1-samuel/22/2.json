@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 22:2",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Wakajikusanya kwake kila mtu aliye dhikani, na kila mtu aliye na deni, na kila mtu mwenye roho chungu; akawa kuwa shari wao, wakawa pamoja naye kama watu wana mia nne.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "Wakajikusanya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "aliye dhikani"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na kila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ana"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "deni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na kila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "מר",
+      "gloss": "mwenye chungu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "roho"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akawa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "shari wao"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "wakawa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja naye"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "kama nne"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "watu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:27:22.768118263Z",
+  "model": "glm-5.2"
+}

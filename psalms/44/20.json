@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Kwa kuwa umetusaganya mahali pa tannim, na kutufunika kwa ⟨את⟩ giza cha kifo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "umetusaganya"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "mahali pa"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "tannim"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "na kutufunika"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "giza cha kifo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:14.599506655Z",
+  "model": "glm-5.2"
+}

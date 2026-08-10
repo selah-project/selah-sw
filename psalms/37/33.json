@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Yahweh hamtachi mikononi mwake, wala hatamhukumu adhabu anapohukumiwa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamtachi"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "mikononi mwake"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mikononi mwake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hatamhukumu adhabu"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "wala hatamhukumu adhabu"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "anapohukumiwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:39.450690184Z",
+  "model": "glm-5.2"
+}

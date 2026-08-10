@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Vivyo hivi Beit-El amefanya kwenu, kwa sababu ya ubaya wa ubaya wenu; alfajiri ⟨ataangamia⟩ kufutwa kufutwa mfalme wa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "vivyo hivi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "amefanya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ubaya"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "ubaya wenu"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "alfajiri"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "kufutwa"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "kufutwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T16:14:54.790455271Z",
+  "model": "glm-5.2"
+}

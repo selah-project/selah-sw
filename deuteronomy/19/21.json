@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na jicho lako lisiruhusu ⟨kuwa na⟩ huruma: nefesh kwa ajili ya nefesh, jicho kwa ajili ya jicho, jino kwa ajili ya jino, mkono kwa ajili ya mkono, mguu kwa ajili ya mguu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Na si"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "lisiruhusu"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "jicho lako"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "kwa ajili ya nefesh"
+    },
+    {
+      "surface": "עין",
+      "gloss": "jicho"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "kwa ajili ya jicho"
+    },
+    {
+      "surface": "שן",
+      "gloss": "jino"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "kwa ajili ya jino"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwa ajili ya mkono"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "mguu"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "kwa ajili ya mguu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:59:12.374752043Z",
+  "model": "glm-5.2"
+}

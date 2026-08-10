@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Basi Shaul aliita ⟨את⟩ watu wote kwa vita, kushuka Keilah, kuzunguka David na watu wake.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Basi aliita"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kwa vita"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "kushuka"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "kuzunguka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "watu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T18:00:00.377767208Z",
+  "model": "glm-5.2"
+}

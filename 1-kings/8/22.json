@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 8:22",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Akasimama Shelomah mbele ya madhabahu ya Yahweh, japo ⟨sawa na⟩ kusimama mbele ya mkutano wote wa Yisra'el, akanyosha viganja vyake ⟨uelekeo wa⟩ mbingu.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "akasimama"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "japo ⟨sawa na⟩ kusimama mbele ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "wa mkutano"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "akanyosha"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "viganja vyake"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨uelekeo wa⟩ mbingu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:40:21.707403368Z",
+  "model": "glm-5.2"
+}

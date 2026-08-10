@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 140,
+  "translation": "Vichwa vya wanaozunguka — mateso ya midomo yao yawafunike.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Vichwa"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "wanaozunguka"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mateso"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ya midomo yao"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "yawafunike"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:15.709619910Z",
+  "model": "glm-5.2"
+}

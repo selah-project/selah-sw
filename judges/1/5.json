@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Wakaipata ⟨את⟩ Adoni-Bezek huko Bezek, wakapigana naye, wakampiga ⟨את⟩ Mkanani na ⟨את⟩ Mperizi.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "wakaipata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "huko Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "wakapigana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wakampiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mkanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mkanani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mperizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Mperizi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:47:48.167827452Z",
+  "model": "glm-5.2"
+}

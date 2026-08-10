@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Na utatengeneza ⟨את⟩ joho la efodi kikamilifu ⟨kwa rangi ya⟩ buluu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Na utatengeneza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "joho"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "joho"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "la efodi"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "kikamilifu"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "buluu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:27.180185976Z",
+  "model": "glm-5.2"
+}

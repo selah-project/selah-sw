@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "nikamnunulia kwa shilingi kumi na tano za fedha, na chomer moja cha shayiri, na nusu-chomer cha shayiri.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "nikanunua"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nikamnunulia"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "kwa kumi na tano"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨kumi na tano⟩"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "za fedha"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "na chomer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "cha shayiri"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "na nusu-chomer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "cha shayiri"
+    }
+  ],
+  "timestamp": "2026-08-10T12:41:22.353362677Z",
+  "model": "glm-5.2"
+}

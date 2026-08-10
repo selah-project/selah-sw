@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 7:26",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Wala hawakusikia kwangu, wala hawakuinama ⟨את⟩ sikio lao, bali wakaifanya nguvu ⟨את⟩ shingo yao; wakatenda ubaya zaidi kuliko baba zao.",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "Wala hawa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kusikia"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala hawa"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "kuinama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sikio lao"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "sikio lao"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "bali wakaifanya nguvu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shingo yao"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "shingo yao"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "wakatenda ubaya"
+    },
+    {
+      "surface": "מאבותם",
+      "gloss": "zaidi kuliko baba zao"
+    }
+  ],
+  "timestamp": "2026-08-10T16:09:19.636293488Z",
+  "model": "glm-5.2"
+}

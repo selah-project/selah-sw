@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "ili akuwezeshe leo kuwa ⟨את⟩ ⟨kwa⟩ jumla kuwa taifa lake, naye ⟨awe⟩ kwa wewe kuwa Elohim, kama alivyonena na wewe, na kama alivyoapa kwa baba zako, kwa Avraham, kwa Yitschak, na kwa Yaakov.",
+  "tokens": [
+    {
+      "surface": "לְמַ֣עַן",
+      "gloss": "ili"
+    },
+    {
+      "surface": "הָקִֽים",
+      "gloss": "akuwezeshe"
+    },
+    {
+      "surface": "אֹתְךָ֩",
+      "gloss": "⟨את⟩",
+      "marks": "wewe"
+    },
+    {
+      "surface": "הַיּ֨וֹם",
+      "gloss": "leo"
+    },
+    {
+      "surface": "ל֜וֹ",
+      "gloss": "⟨kwa⟩ jumla"
+    },
+    {
+      "surface": "לְעָ֗ם",
+      "gloss": "kuwa taifa lake"
+    },
+    {
+      "surface": "וְה֤וּא",
+      "gloss": "naye"
+    },
+    {
+      "surface": "יִֽהְיֶה",
+      "gloss": "⟨awe⟩"
+    },
+    {
+      "surface": "לְּךָ֙",
+      "gloss": "kwa wewe"
+    },
+    {
+      "surface": "לֵֽאלֹהִ֔ים",
+      "gloss": "kuwa Elohim"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֖ר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "דִּבֶּר",
+      "gloss": "alivyonena"
+    },
+    {
+      "surface": "לָ֑ךְ",
+      "gloss": "na wewe"
+    },
+    {
+      "surface": "וְכַאֲשֶׁ֤ר",
+      "gloss": "na kama"
+    },
+    {
+      "surface": "נִשְׁבַּע֙",
+      "gloss": "alivyoapa"
+    },
+    {
+      "surface": "לַאֲבֹתֶ֔יךָ",
+      "gloss": "kwa baba zako"
+    },
+    {
+      "surface": "לְאַבְרָהָ֥ם",
+      "gloss": "kwa Avraham"
+    },
+    {
+      "surface": "לְיִצְחָ֖ק",
+      "gloss": "kwa Yitschak"
+    },
+    {
+      "surface": "וּֽלְיַעֲקֹֽב",
+      "gloss": "na kwa Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-10T14:43:25.583562769Z",
+  "model": "glm-5.2"
+}

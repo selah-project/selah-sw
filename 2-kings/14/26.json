@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Kwa kuwa Yahweh aliiona ⟨את⟩ dhiki ya Yisra'el, kwamba ⟨ilikuwa⟩ chungu sana; na hapana aliyefungwa wala asiyeachwa, wala hapana msaada kwa Yisra'el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "aliiona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhiki"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dhiki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisra'el"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "chungu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "na hapana"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "aliyefungwa"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "wala asiyeachwa"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "aliyeachwa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wala hapana"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "msaada"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kwa Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-10T11:50:06.409480214Z",
+  "model": "glm-5.2"
+}

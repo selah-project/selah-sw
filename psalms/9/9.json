@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Naye atahukumu tebel kwa haki, atahukumu mataifa kwa uwazi.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Naye"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "atahukumu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebel"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "kwa haki"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "atahukumu"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "kwa uwazi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:16.265636968Z",
+  "model": "glm-5.2"
+}

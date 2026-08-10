@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na kuhani achukue ⟨את⟩ kondoo wa dhima ya madhuru na ⟨את⟩ logi ya mafuta, na kuhani awatenufe kuwa tenufa mbele za Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Na kuhani achukue"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kondoo"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "kondoo"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "wa dhima ya madhuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "logi"
+    },
+    {
+      "surface": "לג",
+      "gloss": "logi"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ya mafuta"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "na awatenufe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuhani"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "kuwa tenufa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:52.148448441Z",
+  "model": "glm-5.2"
+}

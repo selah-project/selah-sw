@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Pigeni kelele mwaliko, enyi wenye haki, katika Yahweh; kwa wanyofu ⟨ni⟩ kuzuri sifa.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "pigeni kelele mwaliko"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "enyi wenye haki"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "katika Yahweh"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "kwa wanyofu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kuzuri"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "sifa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:48.163664725Z",
+  "model": "glm-5.2"
+}

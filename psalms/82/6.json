@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 82,
+  "translation": "Mimi nilisema: «Ninyi Elohim, nanyi nyote ⟨ni⟩ wana wa Elyon.»",
+  "tokens": [
+    {
+      "surface": "אֲֽנִי",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "אָ֭מַרְתִּי",
+      "gloss": "nilisema"
+    },
+    {
+      "surface": "אֱלֹהִ֣ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אַתֶּ֑ם",
+      "gloss": "Ninyi"
+    },
+    {
+      "surface": "וּבְנֵ֖י",
+      "gloss": "nanyi ... wana wa"
+    },
+    {
+      "surface": "עֶלְי֣וֹן",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "כֻּלְּכֶֽם",
+      "gloss": "nyote"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:11.039683985Z",
+  "model": "glm-5.2"
+}

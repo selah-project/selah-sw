@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na watawe ⟨את⟩ nchi ya Ashur kwa upanga, na ⟨את⟩ nchi ya Nimrod milangoni mwake; na ⟨hata⟩ atawaokoa kutoka Ashur akiwa anakuja katika nchi yetu na akiwaatakia mipakani mwetu.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "na watawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi ya Ashur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ya Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kwa upanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nchi ya Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "ya Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "milangoni mwake"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "na atawaokoa"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "kutoka Ashur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akiwa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "anakuja"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "katika nchi yetu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "na akiwa"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "anatakia"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "mipakani mwetu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:47:56.495433616Z",
+  "model": "glm-5.2"
+}

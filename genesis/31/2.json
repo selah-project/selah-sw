@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Na Ya'akov akaona ⟨את⟩ uso wa Lavan, na tazama, hakuwa ⟨pamoja⟩ naye kama jana au juzi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "na akaona"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "hakuwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "kama jana"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "au juzi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:10:06.999339568Z",
+  "model": "glm-5.2"
+}

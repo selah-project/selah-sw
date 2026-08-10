@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 14:10",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na ikiwa watu watasema hivi: \"Pandeni juu kwetu,\" basi tupande juu kwao, kwa kuwa Yahweh amewatia mikononi mwetu; na hii itakuwa ⟨ni⟩ ishara kwetu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "watasema"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Pandeni"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "juu yetu"
+    },
+    {
+      "surface": "ועלינו",
+      "gloss": "nasi tupande juu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "amewatia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "mikononi mwetu"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "na hii"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwetu"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ishara"
+    }
+  ],
+  "timestamp": "2026-08-10T11:23:01.862378645Z",
+  "model": "glm-5.2"
+}

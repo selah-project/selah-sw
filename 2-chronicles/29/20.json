@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Chizkiyahu mfalme akaamka asubuhi na kuamsha, akakusanya ⟨את⟩ wakuu wa jiji, akapanda nyumba ya Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "akaamka asubuhi na kuamsha"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "akakusanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wakuu wa jiji"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "wakuu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa jiji"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "akapanda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:18:40.283043617Z",
+  "model": "glm-5.2"
+}

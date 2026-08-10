@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na jeshi la Wakashdi limemfufuatia mfalme, wakamkuta ⟨את⟩ yeye nyika ya Yericho, na jeshi lake lote likatawanyika kutoka kwake.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "na wakafuatilia"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "jeshi"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Wakashdi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "na wakamkuta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "nyika ya"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yericho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na lote"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "jeshi lake"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "likatawanyika"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "kutoka kwake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:04:25.003867787Z",
+  "model": "glm-5.2"
+}

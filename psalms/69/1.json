@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Kwa mwenye kuongoza, juu ya Shoshanim, ⟨ni⟩ ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwenye kuongoza"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshanim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨ni⟩ ya David"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:44.872775181Z",
+  "model": "glm-5.2"
+}

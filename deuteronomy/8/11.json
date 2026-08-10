@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Jilinde ⟨sikose⟩ kusahau ⟨את⟩ Yahweh Elohim wako, kwa kutoashiria kushika amri zake na hukumu zake na amri zake, ambazo mimi nakupangia leo.",
+  "tokens": [
+    {
+      "surface": "הִשָּ֣מֶר",
+      "gloss": "Jilinde"
+    },
+    {
+      "surface": "לְךָ֔",
+      "gloss": "sikose"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "kusahau"
+    },
+    {
+      "surface": "תִּשְׁכַּ֖ח",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim wako"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹהֶ֑יךָ",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "לְבִלְתִּ֨י",
+      "gloss": "kwa kutoashiria"
+    },
+    {
+      "surface": "שְׁמֹ֤ר",
+      "gloss": "kushika"
+    },
+    {
+      "surface": "מִצְוֺתָיו֙",
+      "gloss": "amri zake"
+    },
+    {
+      "surface": "וּמִשְׁפָּטָ֣יו",
+      "gloss": "na hukumu zake"
+    },
+    {
+      "surface": "וְחֻקֹּתָ֔יו",
+      "gloss": "na amri zake"
+    },
+    {
+      "surface": "אֲשֶׁ֛ר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "אָנֹכִ֥י",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "מְצַוְּךָ֖",
+      "gloss": "nakupangia"
+    },
+    {
+      "surface": "הַיּֽוֹם",
+      "gloss": "leo"
+    }
+  ],
+  "timestamp": "2026-08-10T17:43:40.438523182Z",
+  "model": "glm-5.2"
+}

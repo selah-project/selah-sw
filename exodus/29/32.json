@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Na Aharon na wanawe watamla ⟨את⟩ nyama ya ayili na ⟨את⟩ mkate ulioko kwenye kikapu, mlangoni pa hema ya mkutano.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "Na watamla"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na wanawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama ya ayili"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ya ayili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mkate ulioko kwenye kikapu"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ulioko"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "kwenye kikapu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mlangoni pa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    }
+  ],
+  "timestamp": "2026-08-10T10:26:44.754542588Z",
+  "model": "glm-5.2"
+}

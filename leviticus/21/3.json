@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "na kwa dada yake bikira aliye karibu naye, ambaye bado ⟨hakuwa⟩ na mume — kwa ⟨hiyo⟩ ajichafue.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "na kwa dada yake"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "bikira"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "aliye karibu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bado"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "hakuwa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "na mume"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwa hiyo"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ajichafue"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:44.320360591Z",
+  "model": "glm-5.2"
+}

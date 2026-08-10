@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 27:5",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Na ikiwa ⟨ni⟩ mtoto wa miaka mitano hadi mtoto wa miaka ishirini, basi tathmini yako ⟨kwa⟩ mwanaume ⟨itakuwa⟩ shekeli ishirini, na ⟨kwa⟩ mwanamke shekeli kumi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "mtoto wa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mtoto wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ishirini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "basi ⟨itakuwa⟩"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "tathmini yako"
+    },
+    {
+      "surface": "הזכר",
+      "gloss": "mwanaume"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ishirini"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "shekeli"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "na ⟨kwa⟩ mwanamke"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "shekeli"
+    }
+  ],
+  "timestamp": "2026-08-10T10:39:40.688608973Z",
+  "model": "glm-5.2"
+}

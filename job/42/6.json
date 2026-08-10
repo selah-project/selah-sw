@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Kwa hiyo nayakata (maneno yangu) ninajuta, juu ya mavumbi na jivu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "nayakata"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "ninajuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mavumbi"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "na jivu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:42:39.004106915Z",
+  "model": "glm-5.2"
+}

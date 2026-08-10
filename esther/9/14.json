@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na mfalme akasema ifanyike hivyo, na dini ikatolewa Shushani, na ⟨את⟩ wana kumi wa Haman watundike.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "ifanyike"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hivyo"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "na ikatolewa"
+    },
+    {
+      "surface": "דת",
+      "gloss": "dini"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Shushani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wana kumi"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "watundike"
+    }
+  ],
+  "timestamp": "2026-08-10T13:50:18.718356281Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Lakini wote wa Yisraeli na Yehuda walimpenda ⟨את⟩ Davidi, kwa sababu yeye alitoka na kuingia mbele zao.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Lakini wote wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "walimpenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "alitoka"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "na kuingia"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "mbele zao"
+    }
+  ],
+  "timestamp": "2026-08-10T11:24:42.913953771Z",
+  "model": "glm-5.2"
+}

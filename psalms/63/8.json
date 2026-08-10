@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 63,
+  "translation": "Kwa maana umekuwa msaidizi wangu, na katika uvuli wa mabawa yako nitaimba kwa shangwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "היית",
+      "gloss": "umekuwa"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "msaidizi wangu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨wangu⟩"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "na katika uvuli wa"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "mabawa yako"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "nitaimba kwa shangwe"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:49.522903166Z",
+  "model": "glm-5.2"
+}

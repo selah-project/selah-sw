@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Ole wako, mweza-vita, naye hukuvamiwa; na mweza-khiana, naye hawakukhini! Kama vile ulivyokamilisha, mweza-vita, utavamiwa; kama vile ulivyokoma, khini, watatakukhini.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ole"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "mweza-vita"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wewe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hu"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "vamiwa"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "na mweza-khiana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na hawa"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "khini"
+    },
+    {
+      "surface": "בו",
+      "gloss": "akukhini"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "kama vile ulivyokamilisha"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "mweza-vita"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "utavamiwa"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "kama vile ulivyokoma"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "khini"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "watataka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kukhini"
+    }
+  ],
+  "timestamp": "2026-08-10T12:02:34.320475397Z",
+  "model": "glm-5.2"
+}

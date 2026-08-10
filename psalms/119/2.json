@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Heri ya walindao ushahidi wake, kwa moyo wote ⟨wanamtafuta.⟩",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heri"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "ya walindao"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "ushahidi wake"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa moyo wote"
+    },
+    {
+      "surface": "לב",
+      "gloss": ""
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "wanamtafuta"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:03.223579290Z",
+  "model": "glm-5.2"
+}

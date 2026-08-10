@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na mfalme wa Yisra'el akamwambia Elisha, alipowaona ⟨את⟩ wao: ⟨Je,⟩ niwapige, ⟨niwapige⟩, baba yangu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "alipoyaona"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "je, niwapige"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "niwapige"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:47:03.090845247Z",
+  "model": "glm-5.2"
+}

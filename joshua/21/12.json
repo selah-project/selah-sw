@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Lakini ⟨את⟩ shamba la jiji na ⟨את⟩ viwanja vyake, waliwapa Kalebu mwana wa Yefune, kuwa milki yake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨lakini⟩ ⟨את⟩",
+      "marks": "shamba"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "shamba"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la jiji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "viwanja vyake"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "viwanja vyake"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "waliwapa"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalebu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "kuwa milki yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:10:44.221893718Z",
+  "model": "glm-5.2"
+}

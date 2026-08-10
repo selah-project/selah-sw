@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Shauriana shauri, ⟨na⟩ itatengwa; semeni neno, na hali⟨ta⟩simama; kwa maana ⟨sisi pamoja na⟩ El.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "shauriana"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "shauri"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "itatengwa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "semeni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na hali"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "itasimama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "pamoja nasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-10T11:55:23.750608695Z",
+  "model": "glm-5.2"
+}

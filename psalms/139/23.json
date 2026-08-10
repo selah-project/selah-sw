@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 139,
+  "translation": "Nichunguze, El, na ujue moyo wangu; ninjarpue na ujue mawazo yangu.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "nichunguze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "na ujue"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "ninjarpue"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "na ujue"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "mawazo yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:55.938749620Z",
+  "model": "glm-5.2"
+}

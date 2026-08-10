@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Faida gani ⟨ni⟩ katika damu yangu, niliposhuka kwa shimo? Je, mavumbi yatakusifu? Je, yatatangaza ukweli wako?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "gani"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "Faida"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "katika damu yangu"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "niliposhuka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "shimo"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "yatakusifu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mavumbi"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "yatatangaza"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ukweli wako"
+    }
+  ],
+  "timestamp": "2026-08-10T16:16:44.080002880Z",
+  "model": "glm-5.2"
+}

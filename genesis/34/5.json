@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Na Ya'akov alisikia kwamba ⟨amenajisiwa⟩ ⟨את⟩ Dinah binti yake, na wana wake walikuwa ⟨את⟩ ⟨pamoja na⟩ mifugo yake shambani, na Ya'akov akakimya hadi kuja kwao.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Na Ya'akov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "alisikia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "amenajisiwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "binti yake"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na wana wake"
+    },
+    {
+      "surface": "היו",
+      "gloss": "walikuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨pamoja na⟩"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "mifugo yake"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "shambani"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "na akakimya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "באם",
+      "gloss": "kuja kwao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:25:58.605820845Z",
+  "model": "glm-5.2"
+}

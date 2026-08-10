@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na akamjia Izevel mke wake, na akamwambia, nini hili, roho yako ⟨ime⟩jeshuka, wala hukoi chakula?",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "na akamjia"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mke wake"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "na akamwambia"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "roho yako"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "imejeshuka"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "wala wewe hu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kula"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chakula"
+    }
+  ],
+  "timestamp": "2026-08-10T11:44:50.245033774Z",
+  "model": "glm-5.2"
+}

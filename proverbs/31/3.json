@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Usiweke nguvu zako kwa wanawake, wala njia zako kwa ⟨⟨wale wanao⟩⟩ waangamiza wafalme.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "Usiweke"
+    },
+    {
+      "surface": "תִּתֵּ֣ן",
+      "gloss": "⟨usiweke⟩"
+    },
+    {
+      "surface": "לַנָּשִׁ֣ים",
+      "gloss": "kwa wanawake"
+    },
+    {
+      "surface": "חֵילֶ֑ךָ",
+      "gloss": "nguvu zako"
+    },
+    {
+      "surface": "וּ֝דְרָכֶ֗יךָ",
+      "gloss": "wala njia zako"
+    },
+    {
+      "surface": "לַֽמְח֥וֹת",
+      "gloss": "kwa ⟨wanao⟩waangamiza"
+    },
+    {
+      "surface": "מְלָכִֽין",
+      "gloss": "wafalme"
+    }
+  ],
+  "timestamp": "2026-08-10T15:32:59.041455866Z",
+  "model": "glm-5.2"
+}

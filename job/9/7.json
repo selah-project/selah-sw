@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Anayeamrisha jua, na halichomozi, na nyota ⟨yeye⟩ huzipiga muhuri.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "anayeamrisha"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "jua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na halitokuwa"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "hata kimewa"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "na"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "nyota"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "huzipiga muhuri"
+    }
+  ],
+  "timestamp": "2026-08-10T13:32:41.559718625Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Ikawa ⟨pindi⟩ watu walipoondoka mahali pawe pa mahema yao kupita ⟨את⟩ Yardeni, na makuhani, wabebao sanduku la beriti, mbele ya watu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ikawa"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "walipoondoka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "mahema yao"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "kupita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "na makuhani"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "wabebao"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sanduku la"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "beriti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:45:01.999901789Z",
+  "model": "glm-5.2"
+}

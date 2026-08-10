@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Pelishtim wakauchukua ⟨את⟩ sanduku la Elohim, wakauleta ⟨את⟩ ndani ya nyumba ya Dagon, wakauiweka ⟨את⟩ karibu na Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "wakauchukua"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "la Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "wakauleta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ndani ya nyumba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ya Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "wakauiweka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "karibu na Dagon"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "karibu na"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-08-10T11:21:23.088886370Z",
+  "model": "glm-5.2"
+}

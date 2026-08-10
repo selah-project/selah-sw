@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "Mahali pa baba zako watakuwa wanako; utawaweka ⟨kuwa⟩ masimba katika nchi yote.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "mahali pa"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "baba zako"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "watakuwa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wanako"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "utawaweka"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "kuwa masimba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:02.244284174Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Tena mkono wa Yahweh ulikuwa juu yao, kuwaangamiza kutoka katikati ya kambi, hadi kuangamia kwao kabisa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Tena"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ulikuwa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "juu yao"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "kuwaangamiza"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kutoka katikati"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ya kambi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "kuangamia kwao kabisa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:53:13.572955310Z",
+  "model": "glm-5.2"
+}

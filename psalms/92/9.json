@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 92,
+  "translation": "Na wewe ⟨ni⟩ wa juu milele, ee Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wewe"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "wa juu"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:23.410123445Z",
+  "model": "glm-5.2"
+}

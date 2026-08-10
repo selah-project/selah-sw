@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 116,
+  "translation": "Yahweh ⟨ni⟩mlinzi wa wapumbavu; nilidhoofishwa, naye mwenyewe ⟨ni⟩aliyeokoa.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "mlinzi"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "wa wapumbavu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "nilidhoofishwa"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "naye"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "aliyeokoa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:44.910974743Z",
+  "model": "glm-5.2"
+}

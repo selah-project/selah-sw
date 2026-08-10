@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Kwa sababu walikataa maneno ya El, na shauri ya Aliye Juu walidharau.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa sababu"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "walikataa"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "na shauri"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ya Aliye Juu"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "walidharau"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:57.207215324Z",
+  "model": "glm-5.2"
+}

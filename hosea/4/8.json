@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Dhambi ya taifa langu wanala, na kwa uovu wao wanamtamani nafsi yake.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "dhambi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ya taifa langu"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "wanala"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "uovu wao"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "wanamtamani"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafsi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:20:37.161301753Z",
+  "model": "glm-5.2"
+}

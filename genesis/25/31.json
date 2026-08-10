@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na Yaakov akasema, Niuzie hivi sasa ⟨את⟩ haki ya kuzaliwa kwako, niwe ⟨yangu⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Na Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "Niuzie"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "hivi sasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haki ya kuzaliwa kwako"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "haki ya kuzaliwa kwako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "niwe yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:07:50.361298554Z",
+  "model": "glm-5.2"
+}

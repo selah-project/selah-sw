@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na David akachukua ⟨את⟩ ngao za dhahabu zilizokuwa ⟨kwa⟩ watumwa wa Hadadezer, na akazileta Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "na akachukua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngao za dhahabu"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "ngao"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "za dhahabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zilizokuwa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zilizokuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "watumwa"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "na akazileta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T14:55:16.461851648Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Kwa sababu ya haya mfalme Daryavesh aliiweka alama ⟨⟩ kwenye waraka na amri.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kwa ⟨sababu⟩"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ya"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Daryavesh"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "aliiweka alama"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "kwenye waraka"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "na amri"
+    }
+  ],
+  "timestamp": "2026-08-10T13:54:22.664623176Z",
+  "model": "glm-5.2"
+}

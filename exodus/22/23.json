@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Hasira yangu itawaka, na nitakuueni kwa upanga, na wake zenu watakuwa wajane, na watoto wenu watakuwa yatima.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "itawaka"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "Hasira yangu"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "na nitakuueni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kwaupanga"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "na watakuwa"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "wake zenu"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "wajane"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "na watoto wenu"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "yatima"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:13.105876458Z",
+  "model": "glm-5.2"
+}

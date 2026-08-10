@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Na neno la Yahweh lilimjia, akisema:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ikawa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "limemjia"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    }
+  ],
+  "timestamp": "2026-08-10T15:00:40.316961183Z",
+  "model": "glm-5.2"
+}

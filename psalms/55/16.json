@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 55,
+  "translation": "Ukiwa wa upweke ufanyike juu yao; washuke Sheol akiwa hai! Kwa maana uovu uko katika makazi yao, katikati yao.",
+  "tokens": [
+    {
+      "surface": "יְשִׁימֹ֣ות",
+      "gloss": "Ukiwa wa upweke"
+    },
+    {
+      "surface": "עָלֵ֗ימוֹ",
+      "gloss": "ufanyike juu yao"
+    },
+    {
+      "surface": "יֵרְד֣וּ",
+      "gloss": "washuke"
+    },
+    {
+      "surface": "שְׁא֣וֹל",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "akiwa hai"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "רָע֖וֹת",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "בִּמְגוּרָ֣ם",
+      "gloss": "katika makazi yao"
+    },
+    {
+      "surface": "בְּקִרְבָּֽם",
+      "gloss": "katikati yao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:23.826127591Z",
+  "model": "glm-5.2"
+}

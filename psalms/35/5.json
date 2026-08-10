@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Na wawe kama makapi mbele ya upepo, na mjumbe wa Yahweh amfukuze.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "na wawe"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "kama makapi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "upepo"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "na mjumbe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "amfukuze"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:58.394090702Z",
+  "model": "glm-5.2"
+}

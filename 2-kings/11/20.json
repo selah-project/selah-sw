@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na taifa lote la nchi likafurahi, na mji ukatulia; na ⟨את⟩ Atalyahu wakimuua kwa upanga ⟨kwenye⟩ nyumba ya mfalme.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "na likafurahi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lote"
+    },
+    {
+      "surface": "עם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la nchi"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "na mji"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ukatulia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "wakimuua"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kwa upanga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T11:50:04.937386104Z",
+  "model": "glm-5.2"
+}

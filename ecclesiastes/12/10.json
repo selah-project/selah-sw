@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Qohelet alitafuta kupata maneno ya kupendezwa; na yaliyoandikwa ni ya uadilifu, maneno ya kweli.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "alitafuta"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "kupata"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ya kupendezwa"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "na yaliyoandikwa"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ya uadilifu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ya kweli"
+    }
+  ],
+  "timestamp": "2026-08-10T16:24:47.363689526Z",
+  "model": "glm-5.2"
+}

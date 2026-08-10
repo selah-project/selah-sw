@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na malka wa Sheba akaona ⟨את⟩ kila hekima ya Shelomoh, na ⟨the⟩ nyumba aliyoijenga.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Na akaona"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "malka wa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hekima"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ya Shelomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "na nyumba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliyoijenga"
+    },
+    {
+      "surface": "בנה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-10T11:40:44.726884258Z",
+  "model": "glm-5.2"
+}

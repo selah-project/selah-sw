@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 121,
+  "translation": "Msaada wangu ⟨umetoka⟩ kwa Yahweh, mfanyaji wa mbingu na nchi.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "msaada wangu"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mfanyaji"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "na nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:00.988836466Z",
+  "model": "glm-5.2"
+}

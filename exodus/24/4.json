@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Moshe akaandika ⟨את⟩ maneno yote ya Yahweh; akasimama mapema asubuhi, akajenga madhabahu chini ya mlima, na nguzo kumi na mbili kwa kabila kumi na mbili za Yisra'eli.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "akaandika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "akasimama mapema"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "akajenga"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mlima"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "na mbili"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kumi na"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "nguzo"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "kwa kumi na mbili"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mbili"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kabila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:51.341477185Z",
+  "model": "glm-5.2"
+}

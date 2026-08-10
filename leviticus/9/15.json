@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Naye akaletewa ⟨את⟩toleo la taifa, akachukua ⟨את⟩mbuzi wa dhabihu ya dhambi ambao ni wa taifa, akachinja, na kufanya dhabihu ya dhambi kama wa kwanza.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Naye akaletewa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toleo la taifa"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "toleo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "la taifa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuzi wa dhabihu ya dhambi"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "mbuzi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "wa dhabihu ya dhambi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ni wa taifa"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "akachinja"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "na kufanya dhabihu ya dhambi"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "kama wa kwanza"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:02.414759257Z",
+  "model": "glm-5.2"
+}

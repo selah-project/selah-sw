@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Akawa pamoja naye ⟨את⟩ katika nyumba ya Yahweh akipojificha miaka sita; na Atalya akawa akimiliki juu ya nchi.",
+  "tokens": [
+    {
+      "surface": "והוה",
+      "gloss": "Akawa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pamoja naye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "katika nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "akipojificha"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sita"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "na Atalya"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "akawa akimiliki"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:48:31.237230647Z",
+  "model": "glm-5.2"
+}

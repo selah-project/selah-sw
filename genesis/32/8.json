@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Ya'akov akaogopa sana, akajali, akagawa ⟨את⟩ watu waliokuwa pamoja naye, na ⟨את⟩ kundi la kondoo, na ⟨את⟩ ng'ombe, na ngamia, kuwa kambi mbili.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "akaogopa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'akov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "akajali"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "akagawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waliokuwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pamoja naye",
+      "marks": "nearness-marker: pamoja naye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kundi la kondoo"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kundi la kondoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "na ngamia"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "kuwa mbili"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "kambi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:11:04.042222686Z",
+  "model": "glm-5.2"
+}

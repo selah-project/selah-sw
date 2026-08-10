@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 135,
+  "translation": "Msifuni Yah, msifuni ⟨את⟩ jina la Yahweh, msifuni, enyi watumwa wa Yahweh,",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "msifuni"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "enyi watumwa wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:08.445201325Z",
+  "model": "glm-5.2"
+}

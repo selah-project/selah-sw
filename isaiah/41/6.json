@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Kila mtu ⟨atamsaidia⟩ jirani yake, na kwa ndugu yake atasema: Kuwa imara!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jirani yake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "jirani yake"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "atamsaidia"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "na kwa ndugu yake"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "atasema"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuwa imara"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:09.143725830Z",
+  "model": "glm-5.2"
+}

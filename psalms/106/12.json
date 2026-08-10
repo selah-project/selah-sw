@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Wakaamini maneno yake, wakaimba sifa yake.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "Wakaamini"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "maneno yake"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "wakaimba"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sifa yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:55.347444788Z",
+  "model": "glm-5.2"
+}

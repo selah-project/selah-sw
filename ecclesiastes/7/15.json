@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "⟨את⟩ Yote niliyaona katika siku za ubatili wangu: kuna mwenye haki anayepotea katika haki yake, na kuna mwovu anaayeongoka katika uovu wake.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yote"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "Yote"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "niliyaona"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "katika siku"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "za ubatili wangu"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mwenye haki"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "anayepotea"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "katika haki yake"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "na kuna"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mwovu"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "anaayeongoka"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "katika uovu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:47:15.927197980Z",
+  "model": "glm-5.2"
+}

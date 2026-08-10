@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 121,
+  "translation": "Wimbo wa kupanda. Ninainua macho yangu kwenda milima — kutoka wapi msaada wangu ⟨utatokaje⟩?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "wa kupanda"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ninainua"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "macho yangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenda"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "milima"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "kutoka wapi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "⟨utatokaje⟩"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "msaada wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:00.988552149Z",
+  "model": "glm-5.2"
+}

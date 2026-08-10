@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Kwa kuwa ⟨hufurisha⟩ nafshi yenye kiu, na nafshi njaa huijaza mema.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "hufurisha"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafsi"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "yenye kiu"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "na nafsi"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "njaa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "huijaza"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mema"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:57.206768499Z",
+  "model": "glm-5.2"
+}

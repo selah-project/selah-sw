@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 135,
+  "translation": "Sihoni mfalme wa Waemori, na Ogi mfalme wa Bashan, na ufalme wote wa Kenaani;",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wa Waemori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "na Ogi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "wa Bashan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ufalme"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "wa Kenaani"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:08.760470181Z",
+  "model": "glm-5.2"
+}

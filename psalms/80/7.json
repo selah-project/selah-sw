@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 80,
+  "translation": "Unatuweka kuwa mzozo kwa jirani zetu, na adui zetu hutucheka ⟨sana⟩.",
+  "tokens": [
+    {
+      "surface": "תְּשִׂימֵ֣נוּ",
+      "gloss": "Unatuweka"
+    },
+    {
+      "surface": "מָ֭דוֹן",
+      "gloss": "kuwa mzozo"
+    },
+    {
+      "surface": "לִשְׁכֵנֵ֑ינוּ",
+      "gloss": "kwa jirani zetu"
+    },
+    {
+      "surface": "וְ֝אֹיְבֵ֗ינוּ",
+      "gloss": "na adui zetu"
+    },
+    {
+      "surface": "יִלְעֲגוּ",
+      "gloss": "hutucheka"
+    },
+    {
+      "surface": "לָֽמוֹ",
+      "gloss": "⟨sana⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:19.131085580Z",
+  "model": "glm-5.2"
+}

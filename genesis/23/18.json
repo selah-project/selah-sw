@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 23:18",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "kwa Avraham kwa umiliki mbele za macho ya wana wa Cheti, kwa wote wanaoingia getini ya mji wake.",
+  "tokens": [
+    {
+      "surface": "לאברהם",
+      "gloss": "kwa Avraham"
+    },
+    {
+      "surface": "למקנה",
+      "gloss": "kwa umiliki"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "mbele za macho ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "wa Cheti"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa wote"
+    },
+    {
+      "surface": "באי",
+      "gloss": "wanaoingia"
+    },
+    {
+      "surface": "שער",
+      "gloss": "getini"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ya mji wake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:50:02.176395445Z",
+  "model": "glm-5.2"
+}

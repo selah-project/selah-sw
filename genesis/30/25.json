@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Ikawa baada ya Rachel kumzaa ⟨את⟩ Yosef, Yakobo akamwambia Lavan: Niachie niende mahali pangu na nchi yangu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ikawa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "kumzaa"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "niachie"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "niende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "mahali pangu"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "na nchi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:09:09.867668859Z",
+  "model": "glm-5.2"
+}

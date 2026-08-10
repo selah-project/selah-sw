@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Basi ushike ⟨את⟩ amri na ⟨את⟩ miamala na ⟨את⟩ hukumu ambazo mimi nakutolea leo, kuzitenda.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "ushike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amri"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "amri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "miamala"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "miamala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hukumu"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nakutolea"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "kuzitenda"
+    }
+  ],
+  "timestamp": "2026-08-10T10:56:16.059611282Z",
+  "model": "glm-5.2"
+}

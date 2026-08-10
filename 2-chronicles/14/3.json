@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Akawaambia Yehuda wamtafute Yahweh, Elohim wa baba zao, na kufanya torah na amri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akawaambia"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "wamtafute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "baba zao"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "na kufanya"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "torah"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "na amri"
+    }
+  ],
+  "timestamp": "2026-08-10T14:15:20.946429014Z",
+  "model": "glm-5.2"
+}

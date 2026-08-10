@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Akawasha taa mbele za Yahweh; kama Yahweh alivyo amrisha ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "akawasha"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "taa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alivyo amrisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:50.394365977Z",
+  "model": "glm-5.2"
+}

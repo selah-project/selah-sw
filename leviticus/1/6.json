@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na ⟨yeye⟩ atachuna ngozi ⟨את⟩ ya dhabihu ya kuchomwa, na ataikata ⟨את⟩ katika vipande vyake.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "na atachuna ngozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhabihu ya kuchomwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dhabihu ya kuchomwa"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "na ataikata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "vipande vyake"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "katika vipande vyake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:53:44.275544096Z",
+  "model": "glm-5.2"
+}

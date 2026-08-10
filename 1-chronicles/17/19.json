@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 17:19",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Yahweh, kwa ajili ya mtumako na kufuatana na moyo wako, umefanya ⟨את⟩ ukamilifu huu mkuu, ili kufahamisha ⟨את⟩ makaamuzi yote makuu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mtumako"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "na kufuatana na moyo wako"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "umefanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukamilifu huu mkuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ukamilifu"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "hui mkuu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hui"
+    },
+    {
+      "surface": "להדיע",
+      "gloss": "ili kufahamisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makaamuzi yote makuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "makaamuzi makuu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:09:27.471289410Z",
+  "model": "glm-5.2"
+}

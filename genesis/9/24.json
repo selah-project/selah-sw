@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Noa akaamka kutoka divai lake, naye akaona ⟨את⟩ ⟨kile⟩ ambacho mwanawe mdogo alikimfanyia.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "akaamka"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "kutoka divai lake"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "naye akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kile ambacho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambacho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alifanya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanawe"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mdogo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:02:26.697518592Z",
+  "model": "glm-5.2"
+}

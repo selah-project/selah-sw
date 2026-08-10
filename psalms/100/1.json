@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 100,
+  "translation": "Wimbo wa shukrani. Pigeni kelele kwa Yahweh, nchi yote.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "wa shukrani"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "pigeni kelele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:04.271704533Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Wala hukunifunga katika mkono wa adui; ⟨uliniweka⟩ mahali pana miguu yangu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "hukunifunga"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "katika mkono"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "wa adui"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "⟨uliniweka⟩"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "mahali pana"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "miguu yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:02.929657533Z",
+  "model": "glm-5.2"
+}

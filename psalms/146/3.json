@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 146,
+  "translation": "Msitumainie katika wakuu, wala katika mwana wa adamu, ambaye hana ⟨kwa⟩ yake uokoaji.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Msio"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "tumainie"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "katika wakuu"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "katika mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa adamu"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "ambaye hakuna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa yake"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "uokoaji"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:17.649498293Z",
+  "model": "glm-5.2"
+}

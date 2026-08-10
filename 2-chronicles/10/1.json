@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Rehavam akaenda Shekema, kwa maana Shekema walikuja kila-Israeli ili kumtia ⟨את⟩ enzi ya ufalme.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Shekema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekema"
+    },
+    {
+      "surface": "באו",
+      "gloss": "walikuja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "ili kumtia enzi ya ufalme"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T14:14:50.499653208Z",
+  "model": "glm-5.2"
+}

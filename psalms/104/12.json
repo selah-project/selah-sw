@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "Juungani ndege wa mbingu wanakaa; kati ya matawi hutoa sauti.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "juungani"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ndege"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wa mbingu"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "wanakaa"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "kati"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "ya matawi"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "hutoa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:42.472682620Z",
+  "model": "glm-5.2"
+}

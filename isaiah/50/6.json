@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Mgongo wangu niliuwakilisha kwa wanaopiga, na shavu langu kwa wanaovuna nywele; uso wangu sikuficha dhidi ya matuso na mate.",
+  "tokens": [
+    {
+      "surface": "גֵּוִי֙",
+      "gloss": "mgongo wangu"
+    },
+    {
+      "surface": "נָתַ֣תִּי",
+      "gloss": "niliuwakilisha"
+    },
+    {
+      "surface": "לְמַכִּ֔ים",
+      "gloss": "kwa wanaopiga"
+    },
+    {
+      "surface": "וּלְחָיַ֖י",
+      "gloss": "na shavu langu"
+    },
+    {
+      "surface": "לְמֹֽרְטִ֑ים",
+      "gloss": "kwa wanaovuna nywele"
+    },
+    {
+      "surface": "פָּנַי֙",
+      "gloss": "uso wangu"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "sikuficha"
+    },
+    {
+      "surface": "הִסְתַּ֔רְתִּי",
+      "gloss": "⟨sikuficha⟩"
+    },
+    {
+      "surface": "מִכְּלִמּ֖וֹת",
+      "gloss": "dhidi ya matuso"
+    },
+    {
+      "surface": "וָרֹֽק",
+      "gloss": "na mate"
+    }
+  ],
+  "timestamp": "2026-08-10T12:07:12.654182319Z",
+  "model": "glm-5.2"
+}

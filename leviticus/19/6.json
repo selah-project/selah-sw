@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Siku ya dhabihu yenu ⟨itakuliwa⟩, na kesho yake; na kilichobaki hadi siku ya tatu, kwa moto ⟨kitateketezwa⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Siku ya"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "dhabihu yenu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "⟨itakuliwa⟩"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "na kesho yake"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "na kilichobaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ya tatu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kwa moto"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "⟨kitateketezwa⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:21.238443814Z",
+  "model": "glm-5.2"
+}

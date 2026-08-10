@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 147,
+  "translation": "Yahweh anawainua wanyenyekevu; anawashusha waovu hadi nchi.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "anawainua"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "wanyenyekevu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "anawashusha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "waovu"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:19.241758340Z",
+  "model": "glm-5.2"
+}

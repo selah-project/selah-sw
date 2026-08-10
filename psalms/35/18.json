@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Nitakushukuru katika mkutano mkuu, katika taifa kubwa nitakusifu.",
+  "tokens": [
+    {
+      "surface": "א֭וֹדְךָ",
+      "gloss": "nitakushukuru"
+    },
+    {
+      "surface": "בְּקָהָ֣ל",
+      "gloss": "katika mkutano"
+    },
+    {
+      "surface": "רָ֑ב",
+      "gloss": "mkubwa"
+    },
+    {
+      "surface": "בְּעַ֖ם",
+      "gloss": "katika taifa"
+    },
+    {
+      "surface": "עָצ֣וּם",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "אֲהַֽלְלֶֽךָּ",
+      "gloss": "nitakusifu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:30.038457414Z",
+  "model": "glm-5.2"
+}

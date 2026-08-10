@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "⟨את⟩ wote wa juu ⟨huye⟩ huwaona; yeye ni mfalme juu ya wote wanaojivuna.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wote wa juu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "wa juu"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "huwaona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wanao"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "jivuna"
+    }
+  ],
+  "timestamp": "2026-08-10T13:41:23.943881793Z",
+  "model": "glm-5.2"
+}

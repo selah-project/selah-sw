@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 135,
+  "translation": "kwa maana Yah ∙amechagua Yakov kwa ajili yake, Yisraeli kwa ajili ya mali yake ya pekee;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "amechagua"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa ajili yake"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "kwa ajili ya mali yake ya pekee"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:08.445624484Z",
+  "model": "glm-5.2"
+}

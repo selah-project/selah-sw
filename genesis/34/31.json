@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Wakasema: Je, humpaswi kufanya ⟨את⟩ dada yetu kama malaya?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Wakasema"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "kama malaya"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "humpaswi kufanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dada yetu"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "dada yetu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:26:42.571934333Z",
+  "model": "glm-5.2"
+}

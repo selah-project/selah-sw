@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Siku hadi siku hububujisha neno, na usiku hadi usiku hufunua ⟨uhai⟩Elima.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "hadi siku"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "hububujisha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na usiku"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "hadi usiku"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "hufunua"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "Elima"
+    }
+  ],
+  "timestamp": "2026-08-10T16:16:30.125398179Z",
+  "model": "glm-5.2"
+}

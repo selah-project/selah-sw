@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 74,
+  "translation": "Yako ⟨ni⟩ mchana, pia yako ⟨ni⟩ usiku; wewe uliandaa mwanga na jua.",
+  "tokens": [
+    {
+      "surface": "לְךָ֣",
+      "gloss": "Yako"
+    },
+    {
+      "surface": "י֭וֹם",
+      "gloss": "mchana"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "pia"
+    },
+    {
+      "surface": "לְךָ֥",
+      "gloss": "yako"
+    },
+    {
+      "surface": "לָ֑יְלָה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "אַתָּ֥ה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "הֲ֝כִינ֗וֹתָ",
+      "gloss": "uliandaa"
+    },
+    {
+      "surface": "מָא֥וֹר",
+      "gloss": "mwanga"
+    },
+    {
+      "surface": "וָשָֽׁמֶשׁ",
+      "gloss": "na jua"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:56.684032379Z",
+  "model": "glm-5.2"
+}

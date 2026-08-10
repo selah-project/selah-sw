@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Ikawa baada ya siku, wana wa Amoni wakapigana na Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ikawa"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "baada ya siku"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "wakapigana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "wa Amoni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-08-10T11:16:38.787624156Z",
+  "model": "glm-5.2"
+}

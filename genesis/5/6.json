@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Naye Sheth akawa anaishi miaka mitano na mia ⟨moja⟩, naye akazaa ⟨את⟩ Enosh.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akawa anaishi"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sheth"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na mia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "⟨moja⟩ ya miaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "naye akazaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enosh"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:14.586725935Z",
+  "model": "glm-5.2"
+}

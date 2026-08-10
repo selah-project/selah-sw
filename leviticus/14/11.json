@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na kuhani anayetakasa atamwekesha ⟨את⟩ mtu anayetakaswa na ⟨את⟩ hizo mbele za Yahweh, ⟨mlio⟩ wa mlango wa hema ya mkutano.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "na atamwekesha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "anayetakasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtu anayetakaswa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "anayetakaswa"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "na ⟨את⟩",
+      "marks": "hizo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ufunguzi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wa hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:12.372267768Z",
+  "model": "glm-5.2"
+}

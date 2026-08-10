@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na Chever alimzaa ⟨את⟩ Yaflet na ⟨את⟩ Shomer na ⟨את⟩ Chotham, na ⟨את⟩ Shu'a dada yao.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "na Chever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Chotham"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Chotham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shu'a"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shu'a"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "dada yao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:05:59.288741051Z",
+  "model": "glm-5.2"
+}

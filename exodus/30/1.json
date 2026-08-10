@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na utatengenza madhabahu ya kupasha manukato, kwa mbao za mshita ⟨umtengenze⟩ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Na utatengenza"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "ya kupasha"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "manukato"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kwa mbao za"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "mshita"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "⟨umtengenze⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye (hiyo)"
+    }
+  ],
+  "timestamp": "2026-08-10T17:41:37.190076151Z",
+  "model": "glm-5.2"
+}

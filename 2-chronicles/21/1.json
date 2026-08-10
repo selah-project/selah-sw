@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Yehoshaphat akalala na baba zake, akazikwa na baba zake ⟨katika⟩ mji wa David, na Yehoram mwana wake akatawala badala yake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "akalala"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshaphat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baba zake"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "akazikwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baba zake"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "katika mji"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akatawala"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "badala yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:16:44.714010358Z",
+  "model": "glm-5.2"
+}

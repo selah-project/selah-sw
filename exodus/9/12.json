@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na Yahweh akaimatisha ⟨את⟩ moyo wa Paroh, naye hakusikia kwao; kama alivyosema Yahweh kwa Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "na akaimatisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na hakusikia"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kusikia"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alivyosema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:05.452915872Z",
+  "model": "glm-5.2"
+}

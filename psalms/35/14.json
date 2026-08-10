@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Kama ⟨mwenzake⟩ rafiki, kama ndugu yangu, nilizunguka-zunguka; kama mwombaji wa mama yake, nilihuzunika, nilijivuna.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "Kama rafiki"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "kama ndugu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yangu"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "nilizunguka-zunguka"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "kama mwombaji"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wa mama"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "nilihuzunika"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "nilijivuna"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:30.889734073Z",
+  "model": "glm-5.2"
+}

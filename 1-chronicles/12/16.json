@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Hao ndio waliovuka ⟨את⟩ Yardeni mwezi wa kwanza, nao ulikuwa umejaa juu ya mabonde yote, nao waliwafukuza ⟨את⟩ wote wa mabonde mashariki na magharibi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Hao"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ndio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "walio"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "vuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mwezi wa"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kwanza"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "nao"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "ulikuwa umejaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mabonde yote"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "⟨mabonde yake⟩"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "na waliwafukuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wote wa mabonde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote wa"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "mabonde"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "mashariki"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "na magharibi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:42:47.762318214Z",
+  "model": "glm-5.2"
+}

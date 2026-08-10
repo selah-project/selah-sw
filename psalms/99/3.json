@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 99,
+  "translation": "Wamsifu jina lako, ⟨lo⟩ kuu na lenye kustaajabisha; mtakatifu ⟨ni⟩ yeye.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Wamsifu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jina lako"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "na lenye kustaajabisha"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mtakatifu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:16.982831305Z",
+  "model": "glm-5.2"
+}

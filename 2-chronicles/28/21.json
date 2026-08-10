@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Kwa maana Achaazi aligawa ⟨את⟩ nyumba ya Yahweh na ⟨את⟩ nyumba ya mfalme na ⟨⟨wa⟩⟩ wakuu, akampa mfalme wa Ashuru, lakini haikumsaidia.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "חָלַ֤ק",
+      "gloss": "aligawa"
+    },
+    {
+      "surface": "אָחָז֙",
+      "gloss": "Achaazi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba ya Yahweh"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyumba ya mfalme"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "הַמֶּ֖לֶךְ",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "וְהַשָּׂרִ֑ים",
+      "gloss": "na wakuu"
+    },
+    {
+      "surface": "וַיִּתֵּן֙",
+      "gloss": "akampa"
+    },
+    {
+      "surface": "לְמֶ֣לֶךְ",
+      "gloss": "mfalme wa"
+    },
+    {
+      "surface": "אַשּׁ֔וּר",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "lakini si"
+    },
+    {
+      "surface": "לְעֶזְרָ֖ה",
+      "gloss": "kusaidia"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T14:18:41.237497669Z",
+  "model": "glm-5.2"
+}

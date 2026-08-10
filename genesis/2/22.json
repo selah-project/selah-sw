@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Basi Yahweh Elohim akajenga ⟨את⟩ mbavu ambayo ⟨al⟩ ilichukuliwa kutoka kwa ha-adam kuwa mwanamke, akamleta kwa ha-adam.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akajenga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbavu"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "mbavu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ilichukuliwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "kwa ha-adam"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kuwa mwanamke"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "akamleta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨al⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "kwa ha-adam"
+    }
+  ],
+  "timestamp": "2026-08-10T15:48:42.956792562Z",
+  "model": "glm-5.2"
+}

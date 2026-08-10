@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "⟨Yeye⟩ huwa na kitesi katika vijiji; katika mahali pa kufichaficha ⟨anamtenga⟩ ⟨anamuuza⟩ mtu asiye na hatia; macho yake kwa mnyonge huangalia kwa siri.",
+  "tokens": [
+    {
+      "surface": "יֵשֵׁ֤ב",
+      "gloss": "huwa na kitesi"
+    },
+    {
+      "surface": "בְּמַאְרַ֬ב",
+      "gloss": "katika mtego"
+    },
+    {
+      "surface": "חֲצֵרִ֗ים",
+      "gloss": "vijiji"
+    },
+    {
+      "surface": "בַּֽ֭מִּסְתָּרִים",
+      "gloss": "katika mahali pa kufichaficha"
+    },
+    {
+      "surface": "יַהֲרֹ֣ג",
+      "gloss": "⟨anamtenga⟩ ⟨anamuuza⟩"
+    },
+    {
+      "surface": "נָקִ֑י",
+      "gloss": "mtu asiye na hatia"
+    },
+    {
+      "surface": "עֵ֝ינָ֗יו",
+      "gloss": "macho yake"
+    },
+    {
+      "surface": "לְֽחֵלְכָ֥ה",
+      "gloss": "kwa mnyonge"
+    },
+    {
+      "surface": "יִצְפֹּֽנוּ",
+      "gloss": "huangalia kwa siri"
+    }
+  ],
+  "timestamp": "2026-08-10T17:53:40.864195159Z",
+  "model": "glm-5.2"
+}

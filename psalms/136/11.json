@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 136,
+  "translation": "Na akamtolea Yisrael kutoka kati yao, maana hata milele ni chesed yake.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "na akamtolea"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "kutoka kati yao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hata milele"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed yake"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:18.036419310Z",
+  "model": "glm-5.2"
+}

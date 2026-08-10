@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezekiel 16:53",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Nami nitawarudisha ⟨את⟩ mateka wao — ⟨את⟩ mateka wa Sedomi na binti zake, na ⟨את⟩ mateka wa Shomroni na binti zake — nami nitakurudusha wewe ukiwa mateka wako pamoja nao.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "nami nitawarudusha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mateka wao"
+    },
+    {
+      "surface": "שביתהן",
+      "gloss": "mateka wao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mateka wa Sedomi"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "mateka wa"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomi"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "na binti zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mateka wa Shomroni"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "mateka wa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomroni"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "na binti zake"
+    },
+    {
+      "surface": "ושבית",
+      "gloss": "nami nitakurudusha"
+    },
+    {
+      "surface": "שביתיך",
+      "gloss": "wewe ukiwa mateka wako"
+    },
+    {
+      "surface": "בתוכהנה",
+      "gloss": "pamoja nao"
+    }
+  ],
+  "timestamp": "2026-08-10T12:30:18.098370535Z",
+  "model": "glm-5.2"
+}

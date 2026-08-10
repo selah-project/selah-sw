@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Akamwambia mfalme: «Ukweli ⟨ulikuwa⟩ neno nililolisikia katika nchi yangu, kuhusu maneno yako na kuhusu hekima yako.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ukweli"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ulikuwa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nililoli"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "sikia"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "katika nchi yangu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuhusu"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "maneno yako"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na kuhusu"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "hekima yako"
+    }
+  ],
+  "timestamp": "2026-08-10T11:40:09.880317101Z",
+  "model": "glm-5.2"
+}

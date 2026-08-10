@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Nimechoka katika kuita langu, koo langu limeungua, macho yangu yameisha, nikitazamia Elohim wangu.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Nimechoka"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "katika kuita langu"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "limeungua"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "koo langu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "yameisha"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "macho yangu"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "nikitazamia"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:44.873401256Z",
+  "model": "glm-5.2"
+}

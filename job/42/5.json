@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Kwa kusikia sikio nilikusikia, lakini sasa jicho langu limekuona.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "kwa kusikia"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "sikio"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "nilikusikia"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "lakini sasa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "jicho langu"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "limekuona"
+    }
+  ],
+  "timestamp": "2026-08-10T13:42:39.003838068Z",
+  "model": "glm-5.2"
+}

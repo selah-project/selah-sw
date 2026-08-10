@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 96,
+  "translation": "Toeni Yahweh, enyi mishpacha za mataifa, toeni Yahweh kavod na ozi.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "toeni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mishpacha"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "za mataifa"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "toeni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "na ozi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:04.357117230Z",
+  "model": "glm-5.2"
+}

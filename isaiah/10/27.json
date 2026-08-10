@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 10:27",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na itakuwa siku hiu mzigo wake utaondolewa juu ya bega yako, na nira yake juu ya shingo yako, na nira itavunjwa kwa sababu ya mafuta.",
+  "tokens": [
+    {
+      "surface": "וְהָיָ֣ה",
+      "gloss": "na itakuwa"
+    },
+    {
+      "surface": "בַּיּ֣וֹם",
+      "gloss": "siku"
+    },
+    {
+      "surface": "הַה֗וּא",
+      "gloss": "hiu"
+    },
+    {
+      "surface": "יָס֤וּר",
+      "gloss": "utaondolewa"
+    },
+    {
+      "surface": "סֻבֳּלוֹ֙",
+      "gloss": "mzigo wake"
+    },
+    {
+      "surface": "מֵעַ֣ל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "שִׁכְמֶ֔ךָ",
+      "gloss": "bega yako"
+    },
+    {
+      "surface": "וְעֻלּ֖וֹ",
+      "gloss": "na nira yake"
+    },
+    {
+      "surface": "מֵעַ֣ל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "צַוָּארֶ֑ךָ",
+      "gloss": "shingo yako"
+    },
+    {
+      "surface": "וְחֻבַּ֥ל",
+      "gloss": "na itavunjwa"
+    },
+    {
+      "surface": "עֹ֖ל",
+      "gloss": "nira"
+    },
+    {
+      "surface": "מִפְּנֵי",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "שָֽׁמֶן",
+      "gloss": "mafuta"
+    }
+  ],
+  "timestamp": "2026-08-10T11:56:42.458322763Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na kila chombo cha udongo ambacho kitapikwa ndani yake kitavunjwa; na kama ⟨imepikwa⟩ katika chombo cha shaba, kitafutwa na kuoshwa kwa maji.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "na kila chombo"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "cha udongo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambacho"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "kitapikwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ndani yake"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "kitavunjwa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na kama"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "katika chombo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "cha shaba"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "⟨imepikwa⟩"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "kitafutwa"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "na kuoshwa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "kwa maji"
+    }
+  ],
+  "timestamp": "2026-08-10T14:33:37.411521129Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 9:13",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Akasema Yahweh kwa Moshe: Amka asubuhi na mapema, simama mbele za Paroh, n'ambie: Ndivyo alivyosema Yahweh, Elohim wa Waebrania: Achisha ⟨את⟩ watu wangu ili wakanisudia.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "Amka mapema"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "והתיצב",
+      "gloss": "nawe simama"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "n'ambie"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alivyosema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Waebrania"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "achisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu wangu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "watu wangu"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ili wakanisudia"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:09.371166841Z",
+  "model": "glm-5.2"
+}

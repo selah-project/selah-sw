@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 58,
+  "translation": "Elohim, vunja meno yao kinywani mwao; Yahweh, angamiza weno wa simba wachanga.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "vunja"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "meno yao"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "kinywani mwao"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "weno"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "wa simba wachanga"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "angamiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:24.659436844Z",
+  "model": "glm-5.2"
+}

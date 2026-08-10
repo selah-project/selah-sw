@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 48,
+  "translation": "Tumefananisha, Elohim, chesed yako, katika kati ya hekalu lako.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "Tumefananisha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed yako"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "katika kati ya"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "hekalu lako"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:35.297970888Z",
+  "model": "glm-5.2"
+}

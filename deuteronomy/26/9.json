@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "naye akatuleta ⟨kwenye⟩ mahali hili, akatupa ⟨את⟩ nchi hii, nchi inayotiririka maziwa na asali.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "naye akatuleta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "mahali"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akatupa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwetu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "inayotiririka"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "maziwa"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "na asali"
+    }
+  ],
+  "timestamp": "2026-08-10T11:00:54.056570445Z",
+  "model": "glm-5.2"
+}

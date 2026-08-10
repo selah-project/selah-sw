@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "⟨The⟩ simba dume wananguruma kwa mawindo, na kutafuta chakula chao kutoka kwa ⟨עֵל⟩ El.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "simba dume"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "wananguruma"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "kwa mawindo"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "na kutafuta"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "kutoka kwa El"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "chakula chao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:03.512505225Z",
+  "model": "glm-5.2"
+}

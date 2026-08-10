@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Yahweh atamuunga mkono juu ya kitanda cha ugonjwa; kulala kwake kote umekipindua katika ugonjwa wake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "atamuunga mkono"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "kitanda"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "cha ugonjwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kote"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "kulala kwake"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "umekipindua"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "katika ugonjwa wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:06.527408619Z",
+  "model": "glm-5.2"
+}

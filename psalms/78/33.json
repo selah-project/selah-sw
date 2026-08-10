@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Basi akawamaliza katika ubatili siku zao, na miaka yao katika ghafla.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "Basi akawamaliza"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "katika ubatili"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "siku zao"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "na miaka yao"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "katika ghafla"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:42.939634842Z",
+  "model": "glm-5.2"
+}

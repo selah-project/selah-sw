@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 59,
+  "translation": "Warudi jioni, watoe sauti kama mbwa, nazungukazunguke mji.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "warudi"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "jioni"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "watoe sauti"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "kama mbwa"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "nazungukazunguke"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mji"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:17.297556308Z",
+  "model": "glm-5.2"
+}

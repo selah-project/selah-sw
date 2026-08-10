@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 18:10",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Ikawa siku ya pili, na roho wa Elohim mbaya ikamjia Shaul, naye akatabiri ndani ya nyumba; na Davidi alikuwa akimpigia zeze kwa mkono wake, siku hadi siku; na mkuki ulikuwa mkononi mwa Shaul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ikawa"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "siku ya pili"
+    },
+    {
+      "surface": "ותצלח",
+      "gloss": "ika-{mwenye nguvu}\/ikamjia"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mbaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויתנבא",
+      "gloss": "naye akatabiri"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ndani ya"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "na Davidi"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "alikuwa akimpigia zeze"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kwa mkono wake"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "hadi siku"
+    },
+    {
+      "surface": "והחנית",
+      "gloss": "na mkuki"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mkononi mwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-10T11:24:41.315176991Z",
+  "model": "glm-5.2"
+}

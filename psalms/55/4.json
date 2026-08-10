@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 55,
+  "translation": "Kutokana na sauti ya adui, na kwa sababu ya dhiki ya mwovu; kwa maana wanatafuta kuangukisha uovu juu yangu, na kwa hasira wananiudhi.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Kutokana na sauti"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ya adui"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "na kwa sababu ya"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "dhiki"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ya mwovu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "wanatafuta kuangukisha"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "און",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "na kwa hasira"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "wananiudhi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:49.744855275Z",
+  "model": "glm-5.2"
+}

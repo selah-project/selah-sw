@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 73,
+  "translation": "Nami huwa napigwa pigo siku nzima, na mkosaji wangu ⟨ni⟩ kila asubuhi.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "nami huwa"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "napigwa pigo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "siku nzima"
+    },
+    {
+      "surface": "היום",
+      "gloss": ""
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "na mkosaji wangu"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "kila asubuhi"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:49.154854210Z",
+  "model": "glm-5.2"
+}

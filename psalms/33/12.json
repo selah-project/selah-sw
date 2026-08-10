@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Heri ⟨ya⟩ taifa ambalo Yahweh ni Elohim wake, ⟨ni⟩ watu aliowachagua kuwa urithi wake.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heri"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ni Elohim wake"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "aliowachagua"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "kuwa urithi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:21.389525302Z",
+  "model": "glm-5.2"
+}

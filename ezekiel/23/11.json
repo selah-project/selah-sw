@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 23:11",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Na dada yake, Aholibah, alipoona, akaziharibu tomanti zake kuliko yeye, na ⟨את│ zina zake kuliko zina za dada yake.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "na alipoona"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "dada yake"
+    },
+    {
+      "surface": "אהליבה",
+      "gloss": "Aholibah"
+    },
+    {
+      "surface": "ותשחת",
+      "gloss": "akaziharibu"
+    },
+    {
+      "surface": "עגבתה",
+      "gloss": "tomanti zake"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kuliko yeye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "zina zake"
+    },
+    {
+      "surface": "תזנותיה",
+      "gloss": "zina zake"
+    },
+    {
+      "surface": "מזנוני",
+      "gloss": "kuliko zina za"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "dada yake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:32:40.826767058Z",
+  "model": "glm-5.2"
+}

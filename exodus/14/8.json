@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Yahweh akaimarisha ⟨את⟩ moyo wa Paroh mfalme wa Mitsrayim, naye akawafuatilia nyuma wana wa Yisraeli; na wana wa Yisraeli walikuwa wakitoka kwa mkono wa juu.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "akaimarisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "naye akawafuatilia"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraeli"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "walikuwa wakitoka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwa mkono"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "wa juu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:29:31.342049772Z",
+  "model": "glm-5.2"
+}

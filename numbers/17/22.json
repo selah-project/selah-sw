@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Moshe akaziweka ⟨את⟩ fimbo mbele za Yahweh, hema ya ushahidi.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "akaziweka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fimbo"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "fimbo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya ushahidi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:46:20.297304501Z",
+  "model": "glm-5.2"
+}

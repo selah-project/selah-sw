@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na Avram ⟨alikuwa⟩ mzito sana katika mifugo, katika fedha na katika dhahabu.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "na Avram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mzito"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "katika mifugo"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "katika fedha"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "na katika dhahabu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:04:20.612751132Z",
+  "model": "glm-5.2"
+}

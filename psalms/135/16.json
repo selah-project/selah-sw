@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 135,
+  "translation": "Kinywa ⟨una⟩, lakini hawaneni; macho ⟨wana⟩, lakini hawaoni.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "kinywa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lakini si"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "wanenapo"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "macho"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lakini si"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "waonapo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:09.831404559Z",
+  "model": "glm-5.2"
+}

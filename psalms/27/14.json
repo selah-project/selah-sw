@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Tegemea Yahweh; kuwa na nguvu, na moyo wako na ujasiriwe, na ⟨hivyo⟩ tegemea Yahweh.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Tegemea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuwa na nguvu"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "na ujasiriwe"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "na ⟨hivyo⟩ tegemea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:54.391287421Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 75,
+  "translation": "Na pembe zote za wahalifu nitazikata; zitaliwa pembe za mhaki.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "na zote"
+    },
+    {
+      "surface": "קַרְנֵ֣י",
+      "gloss": "pembe"
+    },
+    {
+      "surface": "רְשָׁעִ֣ים",
+      "gloss": "za wahalifu"
+    },
+    {
+      "surface": "אֲגַדֵּ֑עַ",
+      "gloss": "nitazikata"
+    },
+    {
+      "surface": "תְּ֝רוֹמַ֗מְנָה",
+      "gloss": "zitaliwa"
+    },
+    {
+      "surface": "קַֽרְנ֥וֹת",
+      "gloss": "pembe"
+    },
+    {
+      "surface": "צַדִּֽיק",
+      "gloss": "za mhaki"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:21.206862274Z",
+  "model": "glm-5.2"
+}

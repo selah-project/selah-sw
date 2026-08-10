@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Mkaihifadhi ⟨את⟩ neno hili kuwa amri ya daima kwa ajili yenu na kwa ajili ya wana wenu hadi milele.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Mkaihifadhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neno hili"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "kuwa amri ya daima"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa ajili yenu"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "na kwa ajili ya wana wenu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:29.565465967Z",
+  "model": "glm-5.2"
+}

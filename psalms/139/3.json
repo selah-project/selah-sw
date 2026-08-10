@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 139,
+  "translation": "Nyayo zangu na kulala kwangu umetengeneza; njia zangu zote umeyazoea.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Nyayo zangu"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "na kulala kwangu"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "umetengeneza"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "njia zangu"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "umeyazoea"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:55.021615770Z",
+  "model": "glm-5.2"
+}

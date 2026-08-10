@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Na ikiwa ⟨ni⟩ ⟨את⟩ shamba lililonunuliwa, ambalo si la shamba la urithi wake, atakitoza ⟨kwa⟩ Yahweh,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shamba"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "shamba"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "lililonunuliwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "la shamba"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "la urithi wake"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "atakitoza"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨kwa⟩ Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T17:42:50.254892120Z",
+  "model": "glm-5.2"
+}

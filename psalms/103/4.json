@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 103,
+  "translation": "⟨Yeye⟩ anayekomboa uhai wako miongoni mwa shimo, anayekutia taji chesed (fadhili) na huruma.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "anayekomboa"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "miongoni mwa shimo"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "uhai wako"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "anayekutia taji"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed (fadhili)"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "na huruma"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:59.075378861Z",
+  "model": "glm-5.2"
+}

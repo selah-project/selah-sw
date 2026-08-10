@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-chronicles 6:55",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "na kutoka nusu kabila ya Menashe: ⟨את⟩ Aneri na ⟨את⟩ mashamba yake, na ⟨את⟩ Bilami na ⟨את⟩ mashamba yake, kwa familia ya wana wa Kehathi waliosalia.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "na kutoka nusu"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kabila"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aneri"
+    },
+    {
+      "surface": "ענר",
+      "gloss": "Aneri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mashamba yake"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mashamba yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mashamba yake"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mashamba yake"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "kwa familia"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya wana wa"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehathi"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "waliosalia"
+    }
+  ],
+  "timestamp": "2026-08-10T14:05:19.448875861Z",
+  "model": "glm-5.2"
+}

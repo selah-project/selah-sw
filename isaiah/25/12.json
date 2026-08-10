@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Na boma la ngome ya juu ya kuta zako — ⟨Amelishusha⟩, ⟨amelidhoofisha⟩, ⟨amelifikisha⟩ hadi nchi yabisi, hata kwenye vumbi.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "Na boma"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "la ngome ya juu"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "ya kuta zako"
+    },
+    {
+      "surface": "השח",
+      "gloss": "⟨Amelishusha⟩"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "⟨amelidhoofisha⟩"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "⟨amelifikisha⟩"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "hadi nchi yabisi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "kwenye vumbi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:05:08.845413232Z",
+  "model": "glm-5.2"
+}

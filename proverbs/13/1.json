@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Mwana mwenye hekima ⟨ni⟩ mafundisho ya baba yake, lakini mdhihaki hasikii makaripio.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mwenye hekima"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mafundisho"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ya baba yake"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "lakini mdhihaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "-sikii"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "makaripio"
+    }
+  ],
+  "timestamp": "2026-08-10T13:25:17.830225905Z",
+  "model": "glm-5.2"
+}

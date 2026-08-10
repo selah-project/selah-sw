@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Naye akaloga, akaondoka, akaenda kwa ajili ya uhai wake, akaingia Be'er-Sheva ambayo ⟨i⟩ko kwa Yehuda, na akaacha ⟨את⟩ mtumishi wake huko.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaloga"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "akaondoka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "uhai wake"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "⟨i⟩ko kwa Yehuda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "na akaacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtumishi wake"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "mtumishi wake"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    }
+  ],
+  "timestamp": "2026-08-10T16:03:41.197163949Z",
+  "model": "glm-5.2"
+}

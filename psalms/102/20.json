@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Kwa kuwa ameinama kutoka urefu wa mahali pake mtakatifu, Yahweh kutoka mbingu ⟨ameuata⟩ kwenye nchi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "ameinama kutoka"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "urefu wa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mahali pake mtakatifu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kutoka mbingu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenye"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "⟨ameuata⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:31.640275865Z",
+  "model": "glm-5.2"
+}

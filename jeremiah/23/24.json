@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 23:24",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Je, mtu anaweza kujificha katika mahali pa siri, nami simwoni? — neno la Yahweh. Je, si mimi najaza ⟨את⟩ mbingu na ⟨את⟩ nchi? — neno la Yahweh.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "je, je"
+    },
+    {
+      "surface": "יִסָּתֵ֨ר",
+      "gloss": "anaweza kujificha"
+    },
+    {
+      "surface": "אִ֧ישׁ",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "בַּמִּסְתָּרִ֛ים",
+      "gloss": "katika mahali pa siri"
+    },
+    {
+      "surface": "וַאֲנִ֥י",
+      "gloss": "nami"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אֶרְאֶ֖נּוּ",
+      "gloss": "mwoni"
+    },
+    {
+      "surface": "נְאֻ֥ם",
+      "gloss": "neno la"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הֲלֹ֨א",
+      "gloss": "je, si"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mbingu"
+    },
+    {
+      "surface": "הַשָּׁמַ֧יִם",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הָאָ֛רֶץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "מָלֵ֖א",
+      "gloss": "najaza"
+    },
+    {
+      "surface": "נְאֻ֥ם",
+      "gloss": "neno la"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T15:11:23.989232831Z",
+  "model": "glm-5.2"
+}

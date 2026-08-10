@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 9:22",
+  "book": "nehemiah",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na ukawapa falme na taifa, ndugu zao ukawagawa kwa kona; nao wakaarithi ⟨את⟩ nchi ya Sichon na ⟨את⟩ nchi ya mfalme wa Cheshbon, na ⟨את⟩ nchi ya Og mfalme wa Bashan.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "na ukawapa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "falme"
+    },
+    {
+      "surface": "ועממים",
+      "gloss": "na taifa"
+    },
+    {
+      "surface": "ותחלקם",
+      "gloss": "ndugu zao ukawagawa"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "kona"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "na wakaarithi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    }
+  ],
+  "timestamp": "2026-08-10T14:01:17.360044448Z",
+  "model": "glm-5.2"
+}

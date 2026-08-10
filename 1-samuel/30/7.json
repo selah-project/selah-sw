@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na David akamwambia Evyathari kuhani mwana wa Achimeleki: Leta kwangu tafadhali huo ephodi. Na Evyathari akaleta ⟨את⟩ huo ephodi kwa David.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akamwambia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyathari"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "wa Achimeleki"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "leta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ho Ephodi"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "na akaleta"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyathari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huo ephodi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "huo ephodi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-10T11:28:44.771145302Z",
+  "model": "glm-5.2"
+}

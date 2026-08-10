@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Watafurahi jangwa na nchi yabisi, na bonde la jangwa litafurahi, na litachanua kama mwarobaini.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "Watafurahi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jangwa"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "na nchi yabisi"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "na litafurahi"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "bonde la jangwa"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "na litachanua"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "kama mwarobaini"
+    }
+  ],
+  "timestamp": "2026-08-10T15:06:56.774331130Z",
+  "model": "glm-5.2"
+}

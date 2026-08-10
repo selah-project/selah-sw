@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na Binyamin alimzaa ⟨את⟩ Bela mfungwa wake; Ashbel wa pili, na Aharah wa tatu.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Na Binyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mfungwa wake"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa pili"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "na Aharah"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wa tatu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:05:37.929060496Z",
+  "model": "glm-5.2"
+}

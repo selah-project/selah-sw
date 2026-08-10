@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Tazama pekee, hili ndilo nililopata, ya kwamba Elohim aliumba ⟨את⟩ mtu ⟨kuwa⟩ mwema, lakini hao wametafuta mifumo mingi.",
+  "tokens": [
+    {
+      "surface": "לְבַד֙",
+      "gloss": "pekee"
+    },
+    {
+      "surface": "רְאֵה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "זֶ֣ה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "מָצָ֔אתִי",
+      "gloss": "nimelipata"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "עָשָׂ֧ה",
+      "gloss": "aliumba"
+    },
+    {
+      "surface": "הָאֱלֹהִ֛ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mtu"
+    },
+    {
+      "surface": "הָאָדָ֖ם",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "יָשָׁ֑ר",
+      "gloss": "mwema"
+    },
+    {
+      "surface": "וְהֵ֥מָּה",
+      "gloss": "lakini hao"
+    },
+    {
+      "surface": "בִקְשׁ֖וּ",
+      "gloss": "wamepata"
+    },
+    {
+      "surface": "חִשְּׁבֹנ֥וֹת",
+      "gloss": "mifumo"
+    },
+    {
+      "surface": "רַבִּֽים",
+      "gloss": "mingi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:45.215049474Z",
+  "model": "glm-5.2"
+}

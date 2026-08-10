@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 73,
+  "translation": "Kama ningali sema, Nitayasimama hivi, Tazama, Kizazi cha wanaka Niliakhiana.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kama"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ningali sema"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "Nitayasimama"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Kizazi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "cha wanaka"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "Niliakhiana"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:48.654355609Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 141,
+  "translation": "Kama mwenye kuchana na kufuatua ardhi, mifupa yetu imetawanyika kwenye kinywa cha Sheol.",
+  "tokens": [
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "Kama"
+    },
+    {
+      "surface": "פֹלֵחַ",
+      "gloss": "mwenye kuchana"
+    },
+    {
+      "surface": "וּבֹקֵעַ",
+      "gloss": "na kufuatua"
+    },
+    {
+      "surface": "בָּאָרֶץ",
+      "gloss": "ardhi"
+    },
+    {
+      "surface": "נִפְזְרוּ",
+      "gloss": "imetawanyika"
+    },
+    {
+      "surface": "עֲצָמֵינוּ",
+      "gloss": "mifupa yetu"
+    },
+    {
+      "surface": "לְפִי",
+      "gloss": "kwenye kinywa cha"
+    },
+    {
+      "surface": "שְׁאֽוֹל",
+      "gloss": "Sheol"
+    }
+  ],
+  "timestamp": "2026-08-10T17:55:07.003619216Z",
+  "model": "glm-5.2"
+}

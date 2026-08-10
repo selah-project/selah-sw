@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Aliyageuza ⟨את⟩ maji yao kuwa damu, naye akaua ⟨את⟩ samaki wao.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Aliyageuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maji yao"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "maji yao"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "kuwa damu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "naye akaua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samaki wao"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "samaki wao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:10.468388521Z",
+  "model": "glm-5.2"
+}

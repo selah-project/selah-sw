@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Ikiwa mtaendelea kukaa katika nchi hii, nitawajenga ninyi ⟨את⟩ wala sitaubomoa, na nitawapanda ninyi ⟨את⟩ wala siwatango'e; kwa maana nimejuta juu ya baya nililowatendea.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "taendelea"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "kukaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hii"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "nitawajenga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala sita"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "bomoa"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "na nitawapanda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala siwa"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "tango'e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "nimejuta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "baya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nililo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "watendea"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:23:13.586107440Z",
+  "model": "glm-5.2"
+}

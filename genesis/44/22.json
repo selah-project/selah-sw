@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Na tukamwambia bwana wangu: Huwezi kijana huu kumwacha baba yake; akimwacha baba yake, naye atakufa.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Na tukasema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bwana wangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haniwezi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "—"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "kijana huu"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "kumwacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba yake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "akimwacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba yake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "naye atakufa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:14:16.898490107Z",
+  "model": "glm-5.2"
+}

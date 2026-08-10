@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na pia kwa habari ya Izebeli, Yahweh alikuwa amesema, akisema: Mbwa watamla ⟨את⟩ Izebeli katika mteremko wa Yizreeli.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "kwa habari ya Izebeli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "amesema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "mbwa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "watamla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izebeli"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebeli"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "katika mteremko wa"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreeli"
+    }
+  ],
+  "timestamp": "2026-08-10T11:44:18.952168504Z",
+  "model": "glm-5.2"
+}

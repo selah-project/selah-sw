@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 11:17",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na Yehoyada akakata ⟨את⟩ beriti kati ya Yahweh na kati ya mfalme na kati ya taifa, ili wawe taifa kwa Yahweh, na kati ya mfalme na kati ya taifa.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "na akakata"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beriti"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "beriti"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ili wawe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:50:04.936777181Z",
+  "model": "glm-5.2"
+}

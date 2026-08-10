@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 63,
+  "translation": "Wimbo wa David, alipokuwa jangwani la Yehudah.",
+  "tokens": [
+    {
+      "surface": "מִזְמוֹר",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "בִּהְיוֹתוֹ",
+      "gloss": "alipokuwa"
+    },
+    {
+      "surface": "בְּמִדְבַּר",
+      "gloss": "jangwani"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "la Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:14.526651702Z",
+  "model": "glm-5.2"
+}

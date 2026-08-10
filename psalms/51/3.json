@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 51,
+  "translation": "Nione neema, Elohim, kwa chesed yako; kwingi kwa huruma zako futa maasi yangu.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Nione neema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "kwa chesed yako"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "kwingi kwa"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "huruma zako"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "futa"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "maasi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:27.207698229Z",
+  "model": "glm-5.2"
+}

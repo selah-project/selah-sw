@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Moshe akanyosha ⟨את⟩ mkono wake juu ya mbingu, nayo ikawa giza jembamba katika nchi yote ya Mitsrayim siku tatu.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "akanyosha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nayo ikawa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "giza"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "jembamba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:08.733198255Z",
+  "model": "glm-5.2"
+}

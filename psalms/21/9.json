@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Mkono wako utawapata adui zako wote, ⟨na⟩ mkono wako wa kuliwa utawapata wanaokuchukia.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "itapata"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mkono wako"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wa wote"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "adui zako"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "mkono wako wa kuliwa"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "itawapata"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "wanaokuchukia"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:07.982563805Z",
+  "model": "glm-5.2"
+}

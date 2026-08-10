@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Na utwae ⟨את⟩ kondoo wa pili, na Aharon na wanawe wauegemezee mikono yao juu ya kichwa cha kondoo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "na utwae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kondoo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "kondoo"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa pili"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "na uegemezee"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na wanawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikono yao"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mikono yao"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "cha kondoo"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:13.612557768Z",
+  "model": "glm-5.2"
+}

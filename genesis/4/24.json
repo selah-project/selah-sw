@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Kwa maana Kayin atalipizwa mara saba, na Lemeki mara sabini na saba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "mara saba"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "atalipizwa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "na Lemeki"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "mara sabini"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "na saba"
+    }
+  ],
+  "timestamp": "2026-08-10T10:02:13.640886228Z",
+  "model": "glm-5.2"
+}

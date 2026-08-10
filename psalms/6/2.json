@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Yahweh, usinikosoe katika hasira yako, wala usinilipe kwa ghadhabu yako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "katika hasira yako"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "usinikosoe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wala usi"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "kwa ghadhabu yako"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "nilipe"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:45.143641269Z",
+  "model": "glm-5.2"
+}

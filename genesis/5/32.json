@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Noach alikuwa na umri wa miaka mia tano, naye Noach akazaa ⟨את⟩ Shem ⟨את⟩ Cham na ⟨את⟩ Yefet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "alikuwa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "na umri wa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazaa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yefet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefet"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:50.432941729Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 37,
+  "translation": "Upanga wao \u0000taingia\u0000 ndani ya moyo wao, na uta wao utavunjika.",
+  "tokens": [
+    {
+      "surface": "חַ֭רְבָּם",
+      "gloss": "upanga wao"
+    },
+    {
+      "surface": "תָּב֣וֹא",
+      "gloss": "taingia"
+    },
+    {
+      "surface": "בְלִבָּ֑ם",
+      "gloss": "ndani ya moyo wao"
+    },
+    {
+      "surface": "וְ֝קַשְּׁתוֹתָ֗ם",
+      "gloss": "na uta wao"
+    },
+    {
+      "surface": "תִּשָּׁבַֽרְנָה",
+      "gloss": "utavunjika"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:12.774284138Z",
+  "model": "glm-5.2"
+}

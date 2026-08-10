@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Na ⟨↵litakuwepo⟩ miaka saba ya njaa baada yake, na shiba yote itasahauliwa katika nchi ya Mitsrayim, kwa kuwa njaa ⟨↵itatimiza⟩ ⟨את⟩ ⟨↵nchi⟩ hiyo.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "Na ⟨↵litakuwepo⟩"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "saba"
+    },
+    {
+      "surface": "שני",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ya njaa"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "baada yake"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "na itasahauliwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "shiba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "kwa kuwa ⟨↵itatimiza⟩"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "njaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hiyo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:14:03.788225537Z",
+  "model": "glm-5.2"
+}

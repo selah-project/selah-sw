@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 135,
+  "translation": "Anayeipandiza mawingu kutoka ncha za nchi, umeme kwa ajili ya mvua amefanya, anayetoa upepo kutoka hazina zake.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "Anayeipandiza"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "mawingu"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kutoka ncha za"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "umeme"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "kwa ajili ya mvua"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "amefanya"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "anayetoa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "upepo"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "kutoka hazina zake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:59.770782789Z",
+  "model": "glm-5.2"
+}

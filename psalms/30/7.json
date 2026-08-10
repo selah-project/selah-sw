@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na mimi nilisema katika ustahanifu wangu: «Sitatikisika milele.»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na mimi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nilisema"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "katika ustahanifu wangu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "tatikisika"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T12:58:24.454253555Z",
+  "model": "glm-5.2"
+}

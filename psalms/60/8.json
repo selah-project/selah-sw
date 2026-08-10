@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 60,
+  "translation": "Elohim ameonjesha katika utakatifu wake ⟨akisema⟩: Nitashangilia, nitagawa Shekhem, na bonde la Sukoth nitapima.",
+  "tokens": [
+    {
+      "surface": "אֱלֹהִ֤ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דִּבֶּ֥ר",
+      "gloss": "ameonjesha"
+    },
+    {
+      "surface": "בְּקָדְשׁ֗וֹ",
+      "gloss": "katika utakatifu wake"
+    },
+    {
+      "surface": "אֶ֫עְלֹ֥זָה",
+      "gloss": "nitashangilia"
+    },
+    {
+      "surface": "אֲחַלְּקָ֥ה",
+      "gloss": "nitagawa"
+    },
+    {
+      "surface": "שְׁכֶ֑ם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "וְעֵ֖מֶק",
+      "gloss": "na bonde la"
+    },
+    {
+      "surface": "סֻכּ֣וֹת",
+      "gloss": "Sukoth"
+    },
+    {
+      "surface": "אֲמַדֵּֽד",
+      "gloss": "nitapima"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:49.307507317Z",
+  "model": "glm-5.2"
+}

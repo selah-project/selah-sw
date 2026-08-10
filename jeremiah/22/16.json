@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Alihukumu hukumu ya maskini na mhitaji; ndopo ilikuwa njema. Je, si huo kujua mimi? neno la Yahweh.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "alihukumu"
+    },
+    {
+      "surface": "דין",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ya maskini"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na mhitaji"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ndipo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ilikuwa njema"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "je, si"
+    },
+    {
+      "surface": "היא",
+      "gloss": "huo"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "kujua"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mimi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neno la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T12:15:53.530016953Z",
+  "model": "glm-5.2"
+}

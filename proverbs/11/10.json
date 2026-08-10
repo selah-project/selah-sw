@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Katika wema wa watu wanyofu mji unafurahi, na katika maangamizo ya waovu ⟨kuna⟩ vilio.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "katika wema"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ya watu wanyofu"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "unafurahi"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "mji"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "na katika maangamizo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya waovu"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "vilio"
+    }
+  ],
+  "timestamp": "2026-08-10T13:24:31.357826395Z",
+  "model": "glm-5.2"
+}

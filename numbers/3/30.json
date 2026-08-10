@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na mkuu wa nyumba ya baba kwa familia za Wakehathi ⟨ni⟩ Elitsafan mwana wa Uzziel",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "na mkuu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ya baba"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "kwa familia za"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Wakehati"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Elitsafan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "wa Uzziel"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:55.904083384Z",
+  "model": "glm-5.2"
+}

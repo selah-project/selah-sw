@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Wakati huo watumwa wa Nevukadneitsari mfalme wa Babel wakapanda juu ya Yerushalayim, mji ukaja kuzingirwa.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "huo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wakapanda juu ya"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "watumwa wa"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukadneitsari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ukaja"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "kuzingirwa"
+    }
+  ],
+  "timestamp": "2026-08-10T11:53:45.018278702Z",
+  "model": "glm-5.2"
+}

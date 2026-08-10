@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 72,
+  "translation": "Naye atatawala kutoka bahari hata bahari, na kutoka mto hata mwisho wa nchi.",
+  "tokens": [
+    {
+      "surface": "וְ֭יֵרְדְּ",
+      "gloss": "naye atatawala"
+    },
+    {
+      "surface": "מִיָּ֣ם",
+      "gloss": "kutoka bahari"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "יָ֑ם",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "וּמִנָּהָ֗ר",
+      "gloss": "na kutoka mto"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "אַפְסֵי",
+      "gloss": "mwisho wa"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:24.040518696Z",
+  "model": "glm-5.2"
+}

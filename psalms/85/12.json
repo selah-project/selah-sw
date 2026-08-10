@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 85,
+  "translation": "Uaminifu Umechipuka kutoka nchi, na haki kutoka mbingu ⟨ime⟩taitazama.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Uaminifu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kutoka nchi"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "Umechipuka"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "na haki"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kutoka mbingu"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "⟨ime⟩taitazama"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:17.457807124Z",
+  "model": "glm-5.2"
+}

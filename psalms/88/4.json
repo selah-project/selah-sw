@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 88,
+  "translation": "Ma nefesh yangu imejaa maovu, na uhai wangu umefikia Sheol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "imejaa"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "maovu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh yangu"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "na uhai wangu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "umefikia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:37.592618718Z",
+  "model": "glm-5.2"
+}

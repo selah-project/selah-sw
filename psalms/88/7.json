@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 88,
+  "translation": "Umeniweka kwenye shimo la chini kabisa, katika giza, katika vilindi.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "umeniweka"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "kwenye shimo"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "la chini kabisa"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "katika giza"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "katika vilindi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:47.498176709Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Msitamanie vitafunio vyake, kwa kuwa vyenyewe ni chakula cha uongo.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "msi"
+    },
+    {
+      "surface": "תִּ֭תְאָו",
+      "gloss": "tamanie"
+    },
+    {
+      "surface": "לְמַטְעַמּוֹתָ֑יו",
+      "gloss": "vitafunio vyake"
+    },
+    {
+      "surface": "וְ֝ה֗וּא",
+      "gloss": "kwa kuwa vyenyewe"
+    },
+    {
+      "surface": "לֶ֣חֶם",
+      "gloss": "chakula"
+    },
+    {
+      "surface": "כְּזָבִֽים",
+      "gloss": "cha uongo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:28:07.216485799Z",
+  "model": "glm-5.2"
+}

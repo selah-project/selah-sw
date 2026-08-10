@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 147,
+  "translation": "Maana ⟨amefanya⟩ imara mihimili ya milango yako, amekubariki wanao ndani yako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "amefanya imara"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "mihimili"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "ya milango yako"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "amekubariki"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wana"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ndani yako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:36.973272986Z",
+  "model": "glm-5.2"
+}

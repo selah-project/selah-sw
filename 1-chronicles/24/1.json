@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na kwa wana wa Aharon — migawanyiko yao: wana wa Aharon ⟨walikuwa⟩ Nadabu na Avihu, Elazari na Itamar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Na kwa wana wa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "migawanyiko yao"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabu"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "na Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazari"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "na Itamar"
+    }
+  ],
+  "timestamp": "2026-08-10T14:10:41.092900434Z",
+  "model": "glm-5.2"
+}

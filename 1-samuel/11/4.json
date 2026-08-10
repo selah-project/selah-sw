@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na watumishi wakaja Gibea ya Shaul, wakayazungumza maneno ⟨hayo⟩ masikioni mwa watu; na watu wote wakaoina ⟨את⟩ sauti yao, wakalia.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "wakaja"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "watumishi"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ya Shaul"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "wakazungumza"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "masikioni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mwa watu"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "wakaoa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "na wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauti yao"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "wakalia"
+    }
+  ],
+  "timestamp": "2026-08-10T14:51:59.222286376Z",
+  "model": "glm-5.2"
+}

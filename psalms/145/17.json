@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 145,
+  "translation": "Mwanya-haki ⟨ni⟩ Yahweh katika njia zake zote, na mwenye chesed katika matendo yake yote.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Mwanya-haki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika zote za"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "njia zake"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "na mwenye chesed"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote ya"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "matendo yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:52.680833514Z",
+  "model": "glm-5.2"
+}

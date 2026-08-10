@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Nami nitawaelekea, nami nitawastawisha, nami nitawaongeza, nami nitaiiniza ⟨את⟩ agano langu ⟨את⟩ pamoja nanyi.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "nami nitawaelekea"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "nami nitawastawisha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nanyi",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "nami nitawaongeza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nanyi",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "nami nitaiiniza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agano langu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "agano langu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pamoja nanyi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:56.532123735Z",
+  "model": "glm-5.2"
+}

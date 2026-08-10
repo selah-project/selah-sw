@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 12:13",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na damu itakuwa ⟨ni⟩ alama kwenu juu ya nyumba ambazo ninyi mmo humo, nami nitaiona ⟨את⟩ ⟨hiyo⟩ damu, nami nitawapita juu yenu, wala haitakuwa ndani yenu maafa ya kuharibu ninapopiga katika nchi ya Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na itakuwa"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "damu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "לאת",
+      "gloss": "kwa alama"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ninyi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mmo humo"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "nami nitaiona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "damu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "damu"
+    },
+    {
+      "surface": "ופסחתי",
+      "gloss": "nami nitawapita"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "juu yenu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala isiwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "itakuwa"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ndani yenu"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "maafa"
+    },
+    {
+      "surface": "למשחית",
+      "gloss": "ya kuharibu"
+    },
+    {
+      "surface": "בהכתי",
+      "gloss": "ninapopiga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:21:48.721676454Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Naye Yahweh akamwambia Avram: Nenda, tokana na nchi yako, na uzao wako, na nyumba ya baba yako, uende nchi ile nitakayo kuonyesha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nenda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "tokana na nchi yako"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "na uzao wako"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "na kutoka nyumba ya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba yako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uende"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ile"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "nitakayo kuonyesha"
+    }
+  ],
+  "timestamp": "2026-08-10T10:04:05.821255503Z",
+  "model": "glm-5.2"
+}

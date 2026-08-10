@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Naye atazungumza kwa ajili yako kwa watu, naye atakuwa kinywa chako, nawe utakuwa kwake kwa Elohim.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "Naye atazungumza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa ajili yako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watU"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "naye atakuwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "atakuwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "kinywa"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "utakuwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:40.388047647Z",
+  "model": "glm-5.2"
+}

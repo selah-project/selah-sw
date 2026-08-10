@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Na Yakovu akaita jina la mahali ambapo Elohim alikuwa ameongea ⟨אתו⟩ naye: Beth-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Na akaita"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakovu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "la mahali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ameongea"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-10T10:12:08.956238951Z",
+  "model": "glm-5.2"
+}

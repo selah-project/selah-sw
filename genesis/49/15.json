@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Akaona ⟨kwamba⟩ mapumziko ni mzuri, na ⟨את⟩ nchi ⟨kwamba⟩ ni yenye kupendeza; akainama shavu lake kubebesha, akawa mtumwa wa kodi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mapumziko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨kwamba⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nzuri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨kwamba⟩"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "yenye kupendeza"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "akainama"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "shavu lake"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "kubebesha"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akawa"
+    },
+    {
+      "surface": "למס",
+      "gloss": "wa kodi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mtumwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:17:14.700789625Z",
+  "model": "glm-5.2"
+}

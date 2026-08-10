@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Avraham akaondoka mbele ya maiti wake, akanena na wana wa Cheth, akisema:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "na-akaondoka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "toka-juu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mbele"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ya-maiti"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "na-akanena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "wa-Cheth"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    }
+  ],
+  "timestamp": "2026-08-10T10:06:57.184672911Z",
+  "model": "glm-5.2"
+}

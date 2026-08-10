@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na Shemu'el walala hadi asubuhi, akafungua ⟨את⟩ milango ya nyumba ya Yahweh. Na Shemu'el aliogopa kuonyesha ⟨את⟩ maono kwa Eli.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "na walala"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "akafungua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milango"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "milango"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "na Shemu'el"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "aliogopa"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "kuonyesha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maono"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "maono"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-08-10T11:20:23.469381420Z",
+  "model": "glm-5.2"
+}

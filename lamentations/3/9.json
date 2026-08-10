@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Aliwekea ukuta njia zangu kwa mawe iliyokatwa, nyendo zangu alizipotosha.",
+  "tokens": [
+    {
+      "surface": "גָּדַ֤ר",
+      "gloss": "Aliwekea ukuta"
+    },
+    {
+      "surface": "דְּרָכַי֙",
+      "gloss": "njia zangu"
+    },
+    {
+      "surface": "בְּגָזִ֔ית",
+      "gloss": "kwa mawe iliyokatwa"
+    },
+    {
+      "surface": "נְתִיבֹתַ֖י",
+      "gloss": "nyendo zangu"
+    },
+    {
+      "surface": "עִוָּֽה",
+      "gloss": "alizipotosha"
+    }
+  ],
+  "timestamp": "2026-08-10T13:44:07.169470428Z",
+  "model": "glm-5.2"
+}

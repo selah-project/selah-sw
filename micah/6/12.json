@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 6:12",
+  "book": "micah",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Kwa kuwa matajiri wake wamejaa ujeuri, na wakaazi wake wamenena uongo, na ulimi wao ni wa udanganyifu katika kinywa chao.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "עֲשִׁירֶ֨יהָ֙",
+      "gloss": "matajiri wake"
+    },
+    {
+      "surface": "מָלְא֣וּ",
+      "gloss": "wamejaa"
+    },
+    {
+      "surface": "חָמָ֔ס",
+      "gloss": "ujeuri"
+    },
+    {
+      "surface": "וְיֹשְׁבֶ֖יהָ",
+      "gloss": "na wakaazi wake"
+    },
+    {
+      "surface": "דִּבְּרוּ",
+      "gloss": "wamenena"
+    },
+    {
+      "surface": "שָׁ֑קֶר",
+      "gloss": "uongo"
+    },
+    {
+      "surface": "וּלְשׁוֹנָ֖ם",
+      "gloss": "na ulimi wao"
+    },
+    {
+      "surface": "רְמִיָּ֥ה",
+      "gloss": "udanganyifu"
+    },
+    {
+      "surface": "בְּפִיהֶֽם",
+      "gloss": "katika kinywa chao"
+    }
+  ],
+  "timestamp": "2026-08-10T16:15:40.888435484Z",
+  "model": "glm-5.2"
+}

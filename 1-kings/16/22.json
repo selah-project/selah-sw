@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na taifa lililokuwa nyuma ya Omri lilizidi nguvu kuliko taifa lililokuwa nyuma ya Tibni mwana wa Ginath; kisha Tibni akafa, na Omri akatawala.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Na...lilizidi nguvu kuliko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taifa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "wa Ginath"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "na...akatawala"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-08-10T15:00:36.607624305Z",
+  "model": "glm-5.2"
+}

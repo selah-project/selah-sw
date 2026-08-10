@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 90,
+  "translation": "Umetimiza ⟨את⟩ makosa yetu mbele zako, ⟨את⟩ yaliyofichwa kwetu katika mwanga wa uso wako.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "Umetimiza"
+    },
+    {
+      "surface": "עֲוֺנֹתֵ֣ינוּ",
+      "gloss": "makosa yetu"
+    },
+    {
+      "surface": "לְנֶגְדֶּ֑ךָ",
+      "gloss": "mbele zako"
+    },
+    {
+      "surface": "עֲלֻמֵ֗נוּ",
+      "gloss": "yaliyofichwa kwetu"
+    },
+    {
+      "surface": "לִמְא֥וֹר",
+      "gloss": "katika mwanga wa"
+    },
+    {
+      "surface": "פָּנֶֽיךָ",
+      "gloss": "uso wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:11:29.817150272Z",
+  "model": "glm-5.2"
+}

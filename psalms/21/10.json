@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Utawaweka kama tanuru ya moto wakati wa uso wako, Yahweh; katika hasira yake atawameza, na moto utawala.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "utawaweka"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "kama tanuru"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "wakati wa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uso wako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "katika hasira yake"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "atawameza"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "na utawala"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:07.982821780Z",
+  "model": "glm-5.2"
+}

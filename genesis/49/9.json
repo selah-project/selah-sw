@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 49:9",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Whelp wa simba ⟨ni⟩ Yehudah; kutoka mawimuni, mwanangu, wewe umepanda; ⟨ame⟩piga magoti, amelala chini kama simba, na kama simba dume — nani atamwinua?",
+  "tokens": [
+    {
+      "surface": "גּ֤וּר",
+      "gloss": "mtoto"
+    },
+    {
+      "surface": "אַרְיֵה֙",
+      "gloss": "simba"
+    },
+    {
+      "surface": "יְהוּדָ֔ה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מִטֶּ֖רֶף",
+      "gloss": "kutoka mawimuni"
+    },
+    {
+      "surface": "בְּנִ֣י",
+      "gloss": "mwanangu"
+    },
+    {
+      "surface": "עָלִ֑יתָ",
+      "gloss": "umepanda"
+    },
+    {
+      "surface": "כָּרַ֨ע",
+      "gloss": "amepiga magoti"
+    },
+    {
+      "surface": "רָבַ֧ץ",
+      "gloss": "amelala chini"
+    },
+    {
+      "surface": "כְּאַרְיֵ֛ה",
+      "gloss": "kama simba"
+    },
+    {
+      "surface": "וּכְלָבִ֖יא",
+      "gloss": "na kama simba dume"
+    },
+    {
+      "surface": "מִ֥י",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יְקִימֶֽנּוּ",
+      "gloss": "atamwinua"
+    }
+  ],
+  "timestamp": "2026-08-10T10:17:11.239387891Z",
+  "model": "glm-5.2"
+}

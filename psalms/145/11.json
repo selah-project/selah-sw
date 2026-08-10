@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 145,
+  "translation": "Utukufu wa ufalme wako watasema, na uwezo wako wataongea.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "Utukufu"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "wa ufalme wako"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "watasema"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "na uwezo wako"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "wataongea"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:01.847516047Z",
+  "model": "glm-5.2"
+}

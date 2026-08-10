@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Wala wewe, Yahweh, usiwe mbali; nguvu zangu, kwa msaada wangu fanya haraka.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Wala wewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usiwe"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "mbali"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "nguvu zangu"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "kwa msaada wangu"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "fanya haraka"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:12.144916380Z",
+  "model": "glm-5.2"
+}

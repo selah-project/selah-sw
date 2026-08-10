@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Usiwe mbali nami, kwa maana dhiki iko karibu, kwa maana hakuna ⟨aliye⟩ msaada.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usiwe"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "mbali"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dhiki"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "iko karibu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "msaada"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:10.254733522Z",
+  "model": "glm-5.2"
+}

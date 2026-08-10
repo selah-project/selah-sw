@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na mimi nitafanya ⟨את⟩ ⟨nchi⟩ hiyo kuwa jangwa, na maadui zenu watakaokaa humo watastashangazwa kwa ajili yake.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "Na nitafanya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi hiyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨nchi⟩ hiyo"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "kuwa jangwa, na"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "watastashangazwa kwa ajili yake"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "maadui zenu"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "watakaokaa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "humbo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:55:05.514536050Z",
+  "model": "glm-5.2"
+}

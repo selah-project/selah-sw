@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 108,
+  "translation": "Moab ⟨ni⟩ sufuria ya kuoshania; juu ya Edom nitatupa ⟨את⟩ kiatu changu; juu ya Pelesheth nitapiga kelele.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "sufuria"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "ya kuoshania"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "nitatupa"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "kiatu changu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesheth"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "nitapiga kelele"
+    }
+  ],
+  "timestamp": "2026-08-10T17:54:31.028078798Z",
+  "model": "glm-5.2"
+}

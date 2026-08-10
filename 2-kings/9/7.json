@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na utapiga ⟨את⟩ nyumba ya Ahabi bwana wako, nami nitalipiza damu ya watumishi wangu manabii, na damu ya watumishi wote wa Yahweh, katika mkono wa Izebeli.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "na utapiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba ya Ahabi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ya Ahabi"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "bwana wako"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "nami nitalipiza"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "damu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ya watumishi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "wangu manabii"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "na damu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya wote"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ya watumishi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "katika mkono"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "wa Izebeli"
+    }
+  ],
+  "timestamp": "2026-08-10T16:04:41.532241355Z",
+  "model": "glm-5.2"
+}

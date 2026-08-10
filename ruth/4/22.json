@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na Obedi alizaa ⟨את⟩ Yishay, na Yishay alizaa ⟨את⟩ David.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "na Obedi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "na Yishay"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-10T13:42:50.118591542Z",
+  "model": "glm-5.2"
+}

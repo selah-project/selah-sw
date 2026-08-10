@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Lot akatoka kwenda kwao ⟨kwenye⟩ lango, na mlima ukafungwa nyuma yake.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akatoka"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "⟨kwenye⟩ lango"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "na mlima"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ukafungwa"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nyuma yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:49:17.088475214Z",
+  "model": "glm-5.2"
+}

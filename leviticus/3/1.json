@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 3:1",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na ikiwa dhabihu ya shelamim ⟨ni⟩ toleo lake, ikiwa kutoka ng'ombe ⟨ndiye⟩ anamkaribisha, ikiwa dume ikiwa jike, tasa bila kasoro atamkaribisha mbele za Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "dhabihu"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ya shelamim"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "toleo lake"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "anamkaribisha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "dume"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "jike"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tasa bila kasoro"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "atamkaribisha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:32:39.624598015Z",
+  "model": "glm-5.2"
+}

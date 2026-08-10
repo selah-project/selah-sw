@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Nafsi yango ihai, naikuwe na kukusifu, na hukumu zako zinisaidie.",
+  "tokens": [
+    {
+      "surface": "תְּֽחִי",
+      "gloss": "ihai"
+    },
+    {
+      "surface": "נַ֭פְשִׁי",
+      "gloss": "Nafsi yango"
+    },
+    {
+      "surface": "וּֽתְהַֽלְלֶ֑ךָּ",
+      "gloss": "naikuwe na kukusifu"
+    },
+    {
+      "surface": "וּֽמִשְׁפָּטֶ֥ךָ",
+      "gloss": "na hukumu zako"
+    },
+    {
+      "surface": "יַעֲזְרֻֽנִי",
+      "gloss": "zinisaidie"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:48.752251489Z",
+  "model": "glm-5.2"
+}

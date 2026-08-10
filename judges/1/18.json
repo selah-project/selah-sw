@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Yehudha akateka ⟨את⟩ Aza pamoja na ⟨את⟩ mpaka wake, na ⟨את⟩ Ashkeloni pamoja na ⟨את⟩ mpaka wake, na ⟨את⟩ Ekroni pamoja na ⟨את⟩ mpaka wake.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "akateka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mpaka wake"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "mpaka wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ashkeloni"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkeloni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mpaka wake"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "mpaka wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ekroni"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mpaka wake"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "mpaka wake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:12:02.955326809Z",
+  "model": "glm-5.2"
+}

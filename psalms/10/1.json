@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Kwa nini, Yahweh, unasimama mbali? Unajificha wakati wa shida?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "unasimama"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "mbali"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "Unajificha"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "wakati wa"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "shida"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:56.160103218Z",
+  "model": "glm-5.2"
+}

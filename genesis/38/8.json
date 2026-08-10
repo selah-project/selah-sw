@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Na Yehudha akamwambia Onan, Ingia kwa mke wa ndugu yako, na ⟨fanya yibuma⟩ ⟨את⟩ yeye, na kuinua mzazi kwa ndugu yako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akamwambia"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "kwa Onan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Ingia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mke wa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ndugu yako"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "na ⟨fanya yibuma⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "na kuinua"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mzazi"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "kwa ndugu yako"
+    }
+  ],
+  "timestamp": "2026-08-10T10:12:58.522401667Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 91,
+  "translation": "Kwa mabawa yake atakufunika, na chini ya mbawa zake utajificha; ngao na mzunguko ⟨ni⟩ uaminifu wake.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "Kwa mabawa yake"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "atakufunika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "na chini ya"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "mbawa zake"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "utajificha"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ngao"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "na mzunguko"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "uaminifu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:33.009568484Z",
+  "model": "glm-5.2"
+}

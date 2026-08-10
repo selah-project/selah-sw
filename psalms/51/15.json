@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 51,
+  "translation": "⟨Basi⟩ nitawafundisha wakosefu njia zako, na wenye dhambi watarejea kwako.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "nitawafundisha"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "wakosefu"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "njia zako"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "na wenye dhambi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "watarejea"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:07.473080018Z",
+  "model": "glm-5.2"
+}

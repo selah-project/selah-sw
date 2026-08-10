@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 77,
+  "translation": "Na nitautafakari kazi yako yote, na katika matendo yako nitaongea.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "na nitautafakari"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika yote"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "kazi yako"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "na katika matendo yako"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "nitaongea"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:40.925085966Z",
+  "model": "glm-5.2"
+}

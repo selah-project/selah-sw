@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Anayemlaani baba yake na mama yake, taa yake itazimwa katika giza jingi.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "anayemlaani"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "na mama yake"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "itazimwa"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "taa yake"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "katika giza jingi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "la giza"
+    }
+  ],
+  "timestamp": "2026-08-10T15:32:12.946850640Z",
+  "model": "glm-5.2"
+}

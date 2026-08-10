@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na baba yao akawaambia: Njia ipi ⟨ame⟩ienda? Na wanae wakaona ⟨את⟩ njia ile aliyoienda mtu wa Elohim, yule aliyekuja kutoka Yehuda.",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֤ר",
+      "gloss": "akawaambia"
+    },
+    {
+      "surface": "אֲלֵהֶם֙",
+      "gloss": "na baba yao"
+    },
+    {
+      "surface": "אֲבִיהֶ֔ם",
+      "gloss": "⟨na baba yao⟩"
+    },
+    {
+      "surface": "אֵֽי",
+      "gloss": "ipi"
+    },
+    {
+      "surface": "זֶ֥ה",
+      "gloss": "njia"
+    },
+    {
+      "surface": "הַדֶּ֖רֶךְ",
+      "gloss": "⟨njia⟩"
+    },
+    {
+      "surface": "הָלָ֑ךְ",
+      "gloss": "ameienda"
+    },
+    {
+      "surface": "וַיִּרְא֣וּ",
+      "gloss": "wakaona"
+    },
+    {
+      "surface": "בָנָ֗יו",
+      "gloss": "na wanae"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "njia"
+    },
+    {
+      "surface": "הַדֶּ֨רֶךְ֙",
+      "gloss": "njia"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "ile"
+    },
+    {
+      "surface": "הָלַךְ֙",
+      "gloss": "aliyoienda"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "הָאֱלֹהִ֔ים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "אֲשֶׁר־",
+      "gloss": "yule"
+    },
+    {
+      "surface": "בָּ֖א",
+      "gloss": "aliyekuja"
+    },
+    {
+      "surface": "מִיהוּדָֽה",
+      "gloss": "kutoka Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-10T11:41:59.493162139Z",
+  "model": "glm-5.2"
+}

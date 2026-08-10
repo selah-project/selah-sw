@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Wakaponya ⟨את⟩ kivunjiko cha watu wangu kwa udhaifu, wakisema: Salama, salama, na hapana salama.",
+  "tokens": [
+    {
+      "surface": "וַֽיְרַפְּא֞וּ",
+      "gloss": "Wakaponya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kivunjiko"
+    },
+    {
+      "surface": "שֶׁ֤בֶר",
+      "gloss": "cha"
+    },
+    {
+      "surface": "עַמִּי֙",
+      "gloss": "watuf wangu"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נְקַלָּ֔ה",
+      "gloss": "udhaifu"
+    },
+    {
+      "surface": "לֵאמֹ֖ר",
+      "gloss": "wakisema"
+    },
+    {
+      "surface": "שָׁל֣וֹם",
+      "gloss": "Salama"
+    },
+    {
+      "surface": "שָׁל֑וֹם",
+      "gloss": "salama"
+    },
+    {
+      "surface": "וְאֵ֖ין",
+      "gloss": "na hapana"
+    },
+    {
+      "surface": "שָׁלֽוֹם",
+      "gloss": "salama"
+    }
+  ],
+  "timestamp": "2026-08-10T16:09:07.282015988Z",
+  "model": "glm-5.2"
+}

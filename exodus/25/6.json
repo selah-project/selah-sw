@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "mafuta kwa taa, manukato kwa mafuta ya mpako na kwa uvugo wa manukato",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "kwa taa"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "manukato"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "kwa mafuta ya"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mpako"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "na kwa uvugo wa"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "manukato"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:53.243753143Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Acha kabisa, Elohim atapasua kichwa cha maadui zake, taji la nywele la anayetembea katika makosa yake.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Acha kabisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "atapasua"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "cha maadui zake"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "taji"
+    },
+    {
+      "surface": "שער",
+      "gloss": "la nywele"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "anayetembea"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "katika makosa yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:10.197722589Z",
+  "model": "glm-5.2"
+}

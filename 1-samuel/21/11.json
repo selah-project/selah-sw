@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na David akaondoka, na akakimbia siku hiyo kutoka mbele za Shaul; na akaja kwa Akishi mfalme wa Gathi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Na akaondoka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "na akakimbia"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kutoka mbele za"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na akaja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akishi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "גת",
+      "gloss": "wa Gathi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:26:34.701545144Z",
+  "model": "glm-5.2"
+}

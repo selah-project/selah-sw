@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Ikawa kwa sababu ya uzinzi wake alichafua ⟨את⟩ nchi, akazinza na jiwe na ⟨את⟩ mti.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "uzinzi wake"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "alichafua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "akazinza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiwe"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "jiwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mti"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mti"
+    }
+  ],
+  "timestamp": "2026-08-10T12:10:41.955015867Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Tetemeka, wala msitende dhambi; semeni moyoni mwenu juu ya kitanda chenu, mkanyamaze. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "tetemeka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wala msio"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "tendeni dhambi"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "semeni"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "moyoni mwenu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "kitanda chenu"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "mkanyamaze"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T15:24:23.014234330Z",
+  "model": "glm-5.2"
+}

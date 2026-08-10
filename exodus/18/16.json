@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Kama kuwa na neno kwao, huja kwangu, nami hukumu kati ya mtu na jirani yake, nami nawafunza ⟨את⟩ amri za Elohim na ⟨את⟩ mafundisho yake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuwepo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "בא",
+      "gloss": "huja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "nami hukumu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "jirani yake"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "nami nawafunza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amri za Elohim"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "amri"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "za Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafundisho yake"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "mafundisho yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:22:19.205240219Z",
+  "model": "glm-5.2"
+}

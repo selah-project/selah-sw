@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 115,
+  "translation": "Mikono yao, wala hawahisi; miguu yao, wala hawatembei; hawatoi sauti kooni mwao.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "mikono yao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "hawahisi"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "miguu yao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "hawatembei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawatoi"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "kooni mwao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:48.294490799Z",
+  "model": "glm-5.2"
+}

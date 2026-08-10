@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "«Heri watu wako, heri watumishi wako hawa, hao wasimamao mbele yako daima, wasikiao ⟨את⟩ hekima yako!»",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "heri"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "watu wako"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "heri"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "watumishi wako"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "hao wasimamao"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbele yako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "wasikiao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hekima yako"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "hekima yako"
+    }
+  ],
+  "timestamp": "2026-08-10T11:40:09.880676716Z",
+  "model": "glm-5.2"
+}

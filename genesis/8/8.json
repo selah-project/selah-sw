@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "akamtuma ⟨את⟩ njiwa ⟨מאתו⟩, kuona kama maji yamepungua juu ya uso wa udongo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akamtuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njiwa"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "njiwa"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨מאתו⟩"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "kama yamepungua"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "wa udongo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:02:40.403977915Z",
+  "model": "glm-5.2"
+}

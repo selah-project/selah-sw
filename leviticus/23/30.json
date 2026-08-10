@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Na nefesh yoyote ambaye atafanya kazi yoyote siku hii yenyewe, ⟨hiyo⟩ nefesh nitaiangamiza ⟨את⟩ kutoka katikati ya watu wake.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na yoyote"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "atafanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yoyote"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "siku hii yenyewe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "nitaiangamiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefesh hiyo"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kutoka katikati"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ya watu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:57.218699653Z",
+  "model": "glm-5.2"
+}

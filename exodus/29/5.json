@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Na utachukua ⟨את⟩ nguo, na umvae Aharon ⟨⟨⟩⟩ ⟨את⟩ shati, na ⟨את⟩ joho la efodi, na ⟨את⟩ efodi, na ⟨את⟩ kifuduo, na utakifunga ⟨kwa⟩ kitambaa cha ufundi cha efodi.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "na utachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguo"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "nguo"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "na umvae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shati"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "shati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "joho"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "joho"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "la efodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "efodi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kifuduo"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "kifuduo"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "na utakifunga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "kwa kitambaa cha ufundi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "cha efodi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:26:36.214177324Z",
+  "model": "glm-5.2"
+}

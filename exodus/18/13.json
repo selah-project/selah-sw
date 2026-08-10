@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Ikawa siku ya pili, na Moshe akaketi kuhukumu ⟨את⟩ watu, na watu wakisimama kwa Moshe tangu asubuhi hata jioni.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "siku ya pisi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na akaketi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "kuhukumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "na wakisimama"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tangu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "jioni"
+    }
+  ],
+  "timestamp": "2026-08-10T10:22:19.204542664Z",
+  "model": "glm-5.2"
+}

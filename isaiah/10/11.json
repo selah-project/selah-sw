@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Je, si kama nilivyofanya kwa Shomroni na kwa masanamu yake, ndivyo nitakavyofanya kwa Yerushalayim na kwa sanamu zake?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Je, si"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nilivyofanya"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "kwa Shomroni"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "na kwa masanamu yake"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nitakavyofanya"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "kwa Yerushalayim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "na kwa sanamu zake"
+    }
+  ],
+  "timestamp": "2026-08-10T16:06:00.677687742Z",
+  "model": "glm-5.2"
+}

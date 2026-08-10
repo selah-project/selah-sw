@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Ikawa baada ya mambo haya, Elohim akamjaribu ⟨את⟩ Avraham, akamwambia: Avraham. Naye akasema: Tazama, mimi hapa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "akamjaribu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tazama, mimi hapa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:06:56.221132402Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na sasa msamehe tu, kwa maana wewe ⟨ni⟩ mtu mwenye hekima, na utajua ⟨את⟩ yale uyatendavyo kwake, na umshushe ⟨את⟩ kipara chake kwa damu ⟨hadi⟩ Sheol.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ms"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "samehe tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mwenye hekima"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "na utajua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yale"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uyatendavyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "na umshushe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kipara chake"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "kipara chake"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "kwa damu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    }
+  ],
+  "timestamp": "2026-08-10T16:03:02.217803973Z",
+  "model": "glm-5.2"
+}

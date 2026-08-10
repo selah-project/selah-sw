@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 87,
+  "translation": "Na waimbaji kama wachezao muziki: machimbo yangu yote yamo ndani yako.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "Na waimbaji"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "kama wachezao muziki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "machimbo yangu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "yamo ndani yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:18.028330667Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Mche ⟨את⟩ Yahweh, mwana, na ⟨את⟩ mfalme; na pamoja na wanaobadilika usichanganywe.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "mche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "na mfalme"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na pamoja na"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "wanaobadilika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "changanywe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:28:18.438810856Z",
+  "model": "glm-5.2"
+}

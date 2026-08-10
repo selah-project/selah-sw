@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Lakini mimi, nimejaa nguvu, ⟨na⟩ ⟨את⟩ roho ya Yahweh, na haki, na wezi, ili kutangaza kwa Yaakov asiye yake, na kwa Yisrael dhambi yake.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Lakini"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "nimejaa"
+    },
+    {
+      "surface": "כח",
+      "gloss": "nguvu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roho ya Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na haki"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "na wezi"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ili kutangaza"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kwa Yaakov"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "asiye yake"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "na kwa Yisrael"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "dhambi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:47:23.563676116Z",
+  "model": "glm-5.2"
+}

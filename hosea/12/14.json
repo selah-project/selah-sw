@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Kwa nabii Yahweh alimtolea juu ⟨את⟩ Yisrael kutoka Mitsrayim, na kwa nabii akalindwa.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "Kwa nabii"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "alimtolea juu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kutoka Mitsrayim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "na kwa nabii"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "akalindwa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:20:30.780217018Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 132,
+  "translation": "«Kama ningiingia hema ya nyumbani kwangu, kama ningepanda juu ya kitanda changu cha kulalia:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kama"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ningiingia"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ya nyumbani kwangu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ningepanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "kitanda"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "chagu cha kulalia"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:46.841653008Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Waliohesabiwa kwao kwa kabila la Shimon: tisa na hamsini elfu na mia tatu.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "waliohesabiwa kwao"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "kwa kabila"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "tisa"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na hamsini"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elfu"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na tatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    }
+  ],
+  "timestamp": "2026-08-10T10:39:50.342761185Z",
+  "model": "glm-5.2"
+}

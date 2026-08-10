@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Mwangalizi wa upepo hatapanda, na mtazamaji wa mawingu hatavuna.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Mwangalizi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "upepo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatapanda"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "hatapanda"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "na mtazamaji"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "mawingu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatavuna"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "hatavuna"
+    }
+  ],
+  "timestamp": "2026-08-10T13:48:01.586266576Z",
+  "model": "glm-5.2"
+}

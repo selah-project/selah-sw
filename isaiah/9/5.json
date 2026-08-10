@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 9:5",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Kwa maana mtoto amezaliwa kwa sisi, mwana amepewa kwa sisi, na utawala ⟨umo⟩ juu ya bega lake, na jina lake litaitwa: Muujiza, Mshauri, El Gibbor, Baba wa Milele, Shar wa Shalom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "mtoto"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "amezaliwa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa sisi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "amepewa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa sisi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "na ikawa"
+    },
+    {
+      "surface": "המשרה",
+      "gloss": "utawala"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "bega lake"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na litaitwa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jina lake"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "Muujiza"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "Mshauri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Gibbor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Baba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "wa Milele"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Shar"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    }
+  ],
+  "timestamp": "2026-08-10T11:57:04.863326263Z",
+  "model": "glm-5.2"
+}

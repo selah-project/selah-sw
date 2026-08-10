@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 116,
+  "translation": "Nadhiri zangu kwa Yahweh nitazitimiza, sasa, mbele za watu wake wote.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Nadhiri zangu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "nitazitimiza"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "watu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:18.663818767Z",
+  "model": "glm-5.2"
+}

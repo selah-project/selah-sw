@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "Sawa na yote ambayo Yahweh aliagiza ⟨את⟩ Moshe, vivyo hivyo wakafanya wana wa Yisraeli ⟨את⟩ kazi yote ⟨hiyo⟩.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Sawa na yote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aliagiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wakafanya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kazi yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "kazi ⟨hiyo⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T10:30:33.085039415Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Akayepeleka Yahweh ⟨את⟩ Yerubbaali na ⟨את⟩ Bedani na ⟨את⟩ Yiftachi na ⟨את⟩ Shemuweli, akawaokoa kutoka mkononi mwa adui zenu wa pande zote, mkakaa salama.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Akayepeleka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubbaali"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Bedani"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yiftachi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftachi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shemuweli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "akawaokoa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninyi",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kutoka mkononi mwa"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "adui zenu"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "wa pande zote"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "mkakaa"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "salama"
+    }
+  ],
+  "timestamp": "2026-08-10T16:00:18.697397238Z",
+  "model": "glm-5.2"
+}

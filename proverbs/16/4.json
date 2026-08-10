@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Yote Yahweh ametenda kwa ajili yake, na hata mwovu kwa siku ya maafa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ametenda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "kwa ajili yake"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na hata"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mwovu"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kwa siku ya"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "maafa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:25:35.724941361Z",
+  "model": "glm-5.2"
+}

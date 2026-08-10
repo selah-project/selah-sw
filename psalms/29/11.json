@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Yahweh atapeleka nguvu kwa watu wake; Yahweh atawabariki ⟨את⟩ watu wake kwa amani.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguvu"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kwa watu wake"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "atapeleka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "atawabariki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu wake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "watu wake"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "kwa amani"
+    }
+  ],
+  "timestamp": "2026-08-10T12:57:57.836364763Z",
+  "model": "glm-5.2"
+}

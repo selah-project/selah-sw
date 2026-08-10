@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 82,
+  "translation": "Wimbo wa Asaf. Elohim ⟨anatesimama⟩ katika mkutano wa El; kati ya elohim ⟨anahukumu⟩.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "wa Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "⟨anatesimama⟩"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "katika mkutano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "⟨anahukumu⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:41.916700608Z",
+  "model": "glm-5.2"
+}

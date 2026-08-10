@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na ikiwa amebatilisha, atabatilisha ⟨אתם⟩ baada ya kusikia kwake, basi ⟨weye⟩ atachukua ⟨את⟩ dhambi yake.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "amebatilisha"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "atabatilisha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nadhiri zake"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kusikia kwake"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "atachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhambi yake"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "dhambi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:51:45.167236002Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 51,
+  "translation": "Mimi, mimi ndiye ⟨aliye⟩ anaye Kurudishia furaha; ni nani wewe hata uogope mwanadamu atakayekufa, na mwana wa adamu anayezingatiwa kama nyasi?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "anayewarudishia furaha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "את",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "hata uogope"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "mwanadamu"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "atakayekufa"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "na mwana wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamu"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "nyasi"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "anayezingatiwa kama"
+    }
+  ],
+  "timestamp": "2026-08-10T12:06:47.278307635Z",
+  "model": "glm-5.2"
+}

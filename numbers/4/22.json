@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Inua ⟨את⟩ kichwa cha wana wa Gershon, hata wao, kwa nyumba ya baba zao, kwa familia zao:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Inua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kichwa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kwa nyumba ya"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "baba zao"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kwa familia zao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:52.320524801Z",
+  "model": "glm-5.2"
+}

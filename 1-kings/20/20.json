@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na wakampiga kila mtu ⟨adui⟩ wake; na Aramu wakakimbia, naye Yisraeli akawafuatilia; naye Ben-Hadad mfalme wa Aramu akaokoka juu ya farasi na farasi.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "na wakampiga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kila mtu"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "⟨adui⟩ wake"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "wakakimbia"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "akawafuatilia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisaeli"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "akaokoka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme wa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "farasi"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "na farasi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:44:06.847361582Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Akapima ⟨את⟩ ua wa lango, upande wa ndani ⟨ulio⟩ kwa nyumba, kijiti kimoja.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Akapima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ua wa lango"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ua"
+    },
+    {
+      "surface": "השער",
+      "gloss": "wa lango"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "upande wa ndani ⟨ulio⟩ kwa nyumba"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kijiti"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kimoja"
+    }
+  ],
+  "timestamp": "2026-08-10T16:13:49.468625305Z",
+  "model": "glm-5.2"
+}

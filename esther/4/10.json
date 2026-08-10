@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Esteri akamwambia Hathak, naye ikamwagiza ⟨kwa⟩ Mordekai.",
+  "tokens": [
+    {
+      "surface": "וותאמר",
+      "gloss": "akamwambia"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Hathak"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "naye ikamwagiza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    }
+  ],
+  "timestamp": "2026-08-10T15:38:18.746849003Z",
+  "model": "glm-5.2"
+}

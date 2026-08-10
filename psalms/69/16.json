@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Msifurishe mafuriko ya maji, wala usimeze vilimani, wala kisifunge kinywa chake juu yangu.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "msi"
+    },
+    {
+      "surface": "תִּשְׁטְפֵ֤נִי",
+      "gloss": "furishe"
+    },
+    {
+      "surface": "שִׁבֹּ֣לֶת",
+      "gloss": "mafuriko"
+    },
+    {
+      "surface": "מַ֭יִם",
+      "gloss": "ya maji"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "wala"
+    },
+    {
+      "surface": "תִּבְלָעֵ֣נִי",
+      "gloss": "usimeze"
+    },
+    {
+      "surface": "מְצוּלָ֑ה",
+      "gloss": "vilimani"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "wala"
+    },
+    {
+      "surface": "תֶּאְטַר",
+      "gloss": "kisifunge"
+    },
+    {
+      "surface": "עָלַ֖י",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "בְּאֵ֣ר",
+      "gloss": "shimo"
+    },
+    {
+      "surface": "פִּֽיהָ",
+      "gloss": "kinywa chake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:59.587735294Z",
+  "model": "glm-5.2"
+}

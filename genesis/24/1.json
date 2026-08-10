@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na Avraham akiwa mzee, ⟨ame⟩ingia katika siku; na Yahweh akambariki ⟨את⟩ Avraham katika kila kitu.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Na Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "akiwa mzee"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨ame⟩ingia"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "katika siku"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "akambariki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika kila kitu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:06:53.854223938Z",
+  "model": "glm-5.2"
+}

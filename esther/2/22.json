@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "esther 2:22",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Habari ikaletwa kuwiana kwa Mordekai, naye akamweleza Esteri malkia, naye Esteri akamwambia mfalme kwa jina la Mordekai.",
+  "tokens": [
+    {
+      "surface": "וַיִּוָּדַ֤ע",
+      "gloss": "ikaletwa kuwiana"
+    },
+    {
+      "surface": "הַדָּבָר֙",
+      "gloss": "Habari"
+    },
+    {
+      "surface": "לְמָרְדֳּכַ֔י",
+      "gloss": "kwa Mordekai"
+    },
+    {
+      "surface": "וַיַּגֵּ֖ד",
+      "gloss": "naye akamweleza"
+    },
+    {
+      "surface": "לְאֶסְתֵּ֣ר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "הַמַּלְכָּ֑ה",
+      "gloss": "malkia"
+    },
+    {
+      "surface": "וַתֹּ֧אמֶר",
+      "gloss": "naye akamwambia"
+    },
+    {
+      "surface": "אֶסְתֵּ֛ר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "לַמֶּ֖לֶךְ",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "בְּשֵׁ֥ם",
+      "gloss": "kwa jina"
+    },
+    {
+      "surface": "מָרְדֳּכָֽי",
+      "gloss": "la Mordekai"
+    }
+  ],
+  "timestamp": "2026-08-10T15:38:18.613826145Z",
+  "model": "glm-5.2"
+}

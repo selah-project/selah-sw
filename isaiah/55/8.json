@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 55,
+  "translation": "Kwa kuwa mawazo yangu si mawazo yenu, wala njia zenu si njia zangu, ⟨anasema⟩ Yasema Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "mawazo yangu"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "mawazo yenu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "njia zenu"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "njia zangu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Yasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T12:07:13.055897023Z",
+  "model": "glm-5.2"
+}

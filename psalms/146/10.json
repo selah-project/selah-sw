@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 146,
+  "translation": "Yahweh atatawala milele, Elohim wako, ee Tsiyoni, kizazi hadi kizazi. Msifuni Yah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "atatawala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ee Tsiyoni"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kizazi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "hadi kizazi"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Msifuni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:39.342206385Z",
+  "model": "glm-5.2"
+}

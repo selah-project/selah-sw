@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 148,
+  "translation": "Akavisimamishamile mbio na milele; amepanga amri, na haitakiwi kuvuka.",
+  "tokens": [
+    {
+      "surface": "וַיַּעֲמִידֵ֣ם",
+      "gloss": "akavisimamisha"
+    },
+    {
+      "surface": "לָעַ֣ד",
+      "gloss": "mbio"
+    },
+    {
+      "surface": "לְעוֹלָ֑ם",
+      "gloss": "na milele"
+    },
+    {
+      "surface": "חָק",
+      "gloss": "amri"
+    },
+    {
+      "surface": "נָ֝תַ֗ן",
+      "gloss": "amepanga"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "na haitakiwi"
+    },
+    {
+      "surface": "יַעֲבֽוֹר",
+      "gloss": "kuvuka"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:21.418182854Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "Jua linapochomoza ⟨wao⟩ hujikusanya, na kwenye maskani zao hulala.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "linapochomoza"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "jua"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "hujikusanya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwenye"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "maskani zao"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "hulala"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:03.512751898Z",
+  "model": "glm-5.2"
+}

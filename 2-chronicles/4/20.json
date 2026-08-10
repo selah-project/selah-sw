@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "na ⟨את⟩ vinara, na taa zake za kuwasha kufuatana na amri, mbele ya kidumba, dhahabu iliyofungwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vinara"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "vinara"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "na taa zake"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "za kuwasha"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kufuatana na amri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "kidumba"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "iliyofungwa"
+    }
+  ],
+  "timestamp": "2026-08-10T14:12:43.421732429Z",
+  "model": "glm-5.2"
+}

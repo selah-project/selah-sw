@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 138,
+  "translation": "Kwa maana aliye juu ⟨ni⟩ Yahweh, lakini aliye chini huona, na aliye juu kwa kiburi kutoka mbali ⟨hu⟩jua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "רם",
+      "gloss": "aliye juu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "lakini aliye chini"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "huona"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "na aliye juu kwa kiburi"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "kutoka mbali"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "⟨hu⟩jua"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:31.127187126Z",
+  "model": "glm-5.2"
+}

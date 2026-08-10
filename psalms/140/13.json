@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 140,
+  "translation": "Najua kwamba Yahweh atafanya ⟨hukumu⟩ ya mnyenyekevu, hukumu ya wenye uhitaji.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Najua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "atafanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דין",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wa mnyenyekevu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "wa wenye uhitaji"
+    }
+  ],
+  "timestamp": "2026-08-10T13:19:36.025541514Z",
+  "model": "glm-5.2"
+}

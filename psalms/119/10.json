@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Kwa moyo wangu wote nimekutafuta; usiniondoke kupotea kutoka ⟨kati⟩ ya amri zako.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "kwa ... wote"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "nimekutafuta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "niondoke kupotea"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "kutoka ⟨kati⟩ ya amri zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:17:05.268317074Z",
+  "model": "glm-5.2"
+}

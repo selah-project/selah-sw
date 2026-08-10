@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Lakini nyinyi mliwanywesha ⟨את⟩ wanaziri divai, na kwa manabii mliagiza, mkisema: Msitoze unabii.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "Lakini nyinyi mliwanywesha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanaziri"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "wanaziri"
+    },
+    {
+      "surface": "יין",
+      "gloss": "divai"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "manabii"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "mliagiza"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mkisema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Msitoze"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "unabii"
+    }
+  ],
+  "timestamp": "2026-08-10T16:15:24.550577921Z",
+  "model": "glm-5.2"
+}

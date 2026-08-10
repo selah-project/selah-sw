@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "malachi 3:15",
+  "book": "malachi",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na sasa sisi tunawaita wenye kiburi wenye heri; naam, tumejawa wafanyao uovu; naam, walimjaribu Elohim na wakaokoka.",
+  "tokens": [
+    {
+      "surface": "וְעַתָּה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "אֲנַחְנוּ",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "מְאַשְּׁרִים",
+      "gloss": "tunawaita wenye heri"
+    },
+    {
+      "surface": "זֵדִים",
+      "gloss": "wenye kiburi"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "naam"
+    },
+    {
+      "surface": "נִבְנוּ",
+      "gloss": "tumejawa"
+    },
+    {
+      "surface": "עֹשֵׂי",
+      "gloss": "wafanyao"
+    },
+    {
+      "surface": "רִשְׁעָה",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "naam"
+    },
+    {
+      "surface": "בָּחֲנוּ",
+      "gloss": "walimjaribu"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וַיִּמָּלֵטוּ",
+      "gloss": "wakaokoka"
+    }
+  ],
+  "timestamp": "2026-08-10T12:54:50.786032178Z",
+  "model": "glm-5.2"
+}

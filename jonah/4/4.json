@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Naye Yahweh akasema: \"Je, kukasirika kwako ni jema?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "naye akasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "je, ni jema"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "kukasirika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:46:49.473023211Z",
+  "model": "glm-5.2"
+}

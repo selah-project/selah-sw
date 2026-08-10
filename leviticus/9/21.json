@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 9:21",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ matiti na ⟨את⟩ mguu wa kulia Aharoni aliutikisa kama dhabihu ya kutikisa mbele za Yahweh, kama vile alivyoamrisha Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matiti"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "matiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mguu"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "mguu"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "wa kulia"
+    },
+    {
+      "surface": "הניף",
+      "gloss": "aliutikisa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "kama dhabihu ya kutikisa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama vile"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alivyoamrisha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:32:59.994486557Z",
+  "model": "glm-5.2"
+}

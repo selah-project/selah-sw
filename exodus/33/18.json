@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Akasema: Tafadhali nionyeshe ⟨את⟩ utukufu wako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "nionyeshe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utukufu wako"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "utukufu wako"
+    }
+  ],
+  "timestamp": "2026-08-10T10:27:39.543412604Z",
+  "model": "glm-5.2"
+}

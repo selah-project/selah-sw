@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "na kufundisha ⟨את⟩ wana wa Yisra'el, ⟨את⟩ sheria zote ambazo Yahweh amezinena kwao kwa mkono wa Moshe.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "na kufundisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wana wa Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sheria zote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sheria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "amezinena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwa mkono"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moshe"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:11.170325305Z",
+  "model": "glm-5.2"
+}

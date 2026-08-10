@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Wote wamepotea, pamoja wamefifia; hakuna afanyaye jema, hakuna, hata mmoja.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Wote"
+    },
+    {
+      "surface": "סר",
+      "gloss": "wamepotea"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "wamefifia"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "afanyaye"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jema"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hata"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mmoja"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:18.254156550Z",
+  "model": "glm-5.2"
+}

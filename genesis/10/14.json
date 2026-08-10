@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na ⟨את⟩ Pathrusim na ⟨את⟩ Kasluchim, ambao kutoka kwao wakatoka Pelishtim, na ⟨את⟩ Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "Pathrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Pathrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kasluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "wakatoka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kutoka kwao"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorim"
+    }
+  ],
+  "timestamp": "2026-08-10T10:03:31.041933029Z",
+  "model": "glm-5.2"
+}

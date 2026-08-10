@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 38,
+  "translation": "Na maadui zangu ⟨ni⟩ hai, wametia nguvu; nao wanaonichukia bila sababi wamezidi.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "na maadui zangu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hai"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "wametia nguvu"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "nao wamezidi"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "wanaonichukia"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bila sababi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:00.093667664Z",
+  "model": "glm-5.2"
+}

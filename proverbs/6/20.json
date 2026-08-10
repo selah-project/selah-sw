@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Mtilize, mwanangu, amri ya baba yako, wala usiache mafundisho ya mama yako.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Mtilize"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanangu"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amri"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya baba yako"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wala usiache"
+    },
+    {
+      "surface": "תטש",
+      "gloss": ""
+    },
+    {
+      "surface": "תורת",
+      "gloss": "mafundisho"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ya mama yako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:31:23.589071562Z",
+  "model": "glm-5.2"
+}

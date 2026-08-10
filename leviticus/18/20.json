@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Na ⟨kwa⟩ mke wa jirani yako, hutaki kutoa lako kulala kwa kutoa mbegu, kwa kujichafua ⟨naye⟩.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Na ⟨kwa⟩"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mke"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "wa jirani yako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hutaki"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kutoa"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "lalo lako"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "kwa kutoa mbegu"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "kwa kujichafua"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨naye⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T10:35:28.679703871Z",
+  "model": "glm-5.2"
+}

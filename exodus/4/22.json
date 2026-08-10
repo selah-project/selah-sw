@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na utamwambia Paroh: Ndivyo asemavyo Yahweh: ⟨⟨ mwanao ⟩⟩ wangu, mzalizaji wangu, ⟨ni⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "na utamwambia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndivyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "asemavyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wangu"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "mzalizaji wangu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:33.388169667Z",
+  "model": "glm-5.2"
+}

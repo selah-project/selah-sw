@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Wabaya watarudishwa kwenye Sheol, mataifa yote, wasahao Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "watarudishwa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Wabaya"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "kwenye Sheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "wasahao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:48.772670634Z",
+  "model": "glm-5.2"
+}

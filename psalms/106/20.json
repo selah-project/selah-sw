@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Wakabadilisha ⟨את⟩ utukufu wao kwa kielelezo cha ng'ombe anakula nyasi.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "Wakabadilisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utukufu wao"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "utukufu wao"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "kwa kielelezo cha"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "anakula"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "nyasi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:19.915443723Z",
+  "model": "glm-5.2"
+}

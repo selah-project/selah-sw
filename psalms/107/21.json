@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Na wamshukuru Yahweh kwa chesed yake, na ajabu zake kwa ⟨wana⟩ waadamu.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "na wamshukuru"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed yake"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "na ajabu zake"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa ⟨wana⟩ wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:14.675732539Z",
+  "model": "glm-5.2"
+}

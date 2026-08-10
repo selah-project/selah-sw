@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 77,
+  "translation": "Kwa mwongozaji, kwa Yedutuni. Zaburi ya Asafu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwongozaji"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutuni"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asafu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Zaburi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:45.253763446Z",
+  "model": "glm-5.2"
+}

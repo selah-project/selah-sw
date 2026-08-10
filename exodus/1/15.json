@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Nayo mfalme wa Mitsrayim akawaambia wakunga wa Ki'ivri, ambao jina la moja lilikuwa Shifra, na jina la pili la kuwa Pua;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akawaambia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "wakunga"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "wa Ki'ivri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "la moja"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na jina"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "la pili"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Pua"
+    }
+  ],
+  "timestamp": "2026-08-10T10:17:50.308205855Z",
+  "model": "glm-5.2"
+}

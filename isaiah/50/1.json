@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 50:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Hivi anasema Yahweh: Wapi hati hii ya talaka ya mama yenu ambaye nimemwondoa? Au ni nani miongoni mwa wadeni wangu ambaye nimewauziniwa ⟨ninyi⟩? Tazameni, kwa dhambi zenu mmeuzwa, na kwa makosa yenu mama yenu ameondoshwa.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Hivi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Wapi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "hati"
+    },
+    {
+      "surface": "כריתות",
+      "gloss": "ya talaka"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "ya mama yenu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "שלחתיה",
+      "gloss": "nimemwondoa"
+    },
+    {
+      "surface": "או",
+      "gloss": "Au"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "מנושי",
+      "gloss": "miongoni mwa wadeni wangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "מכרתי",
+      "gloss": "nimewauza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Tazameni"
+    },
+    {
+      "surface": "בעונתיכם",
+      "gloss": "kwa dhambi zenu"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "mmeuzwa"
+    },
+    {
+      "surface": "ובפשעיכם",
+      "gloss": "na kwa makosa yenu"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "ameondoshwa"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "mama yenu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:07:40.203419064Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Na El Shaddai (Mwenyezi) akubariki, na akufanya kuwa mhzao, na akuzidisha, ili uwe mkusanyiko wa watu.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Na El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai (Mwenyezi)"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "akubariki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "baraka inayolengwa"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "na akufanye kuwa mhzao"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "na akuzidisha"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ili uwe"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "mkusanyiko wa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "watu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:09:44.602959108Z",
+  "model": "glm-5.2"
+}

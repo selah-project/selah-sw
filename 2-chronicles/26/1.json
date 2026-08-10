@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na watu wote wa Yehudah walimchukua ⟨את⟩ Uziyahu, na yeye ⟨alikuwa⟩ mwana wa miaka kumi na sita, wakimfanya ⟨את⟩ yeye kuwa mfalme badala ya baba yake Amatsyahu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "na walimchukua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "עם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uziyahu"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziyahu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na yeye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sita"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kumi na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "wakimfanya kuwa mfalme"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "badala ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyahu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:17:47.212767513Z",
+  "model": "glm-5.2"
+}

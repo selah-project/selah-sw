@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 135,
+  "translation": "Yote anayopenda, Yahweh huyatenda katika mbingu na katika nchi, katika bahari na ⟨katika⟩ vilindi vyote.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anayopenda"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "huyatenda"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "katika mbingu"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "na katika nchi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "katika bahari"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na vyote"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "vilindi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:59.770621533Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Ba-Gat msitangaze; lililopo Akko, msilie; Ba-Beth-le-Afrah, kwenye mavumbi jipindue.",
+  "tokens": [
+    {
+      "surface": "בְּגַת֙",
+      "gloss": "Ba-Gat"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "msi"
+    },
+    {
+      "surface": "תַּגִּ֔ידוּ",
+      "gloss": "tangaze"
+    },
+    {
+      "surface": "בָּכ֖וֹ",
+      "gloss": "lililopo"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "msi"
+    },
+    {
+      "surface": "תִּבְכּ֑וּ",
+      "gloss": "lie"
+    },
+    {
+      "surface": "בְּבֵ֣ית",
+      "gloss": "Ba-Beth"
+    },
+    {
+      "surface": "לְעַפְרָ֔ה",
+      "gloss": "le-Afrah"
+    },
+    {
+      "surface": "עָפָ֖ר",
+      "gloss": "kwenye mavumbi"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "jipindue"
+    }
+  ],
+  "timestamp": "2026-08-10T12:46:58.720781984Z",
+  "model": "glm-5.2"
+}

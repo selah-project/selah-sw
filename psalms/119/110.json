@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Wahalifu wameweka mtego kwangu, na amri zako sikukosea.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "wameweka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wahalifu"
+    },
+    {
+      "surface": "פח",
+      "gloss": "mtego"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "na amri zako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "kukosea"
+    }
+  ],
+  "timestamp": "2026-08-10T16:19:29.693734195Z",
+  "model": "glm-5.2"
+}

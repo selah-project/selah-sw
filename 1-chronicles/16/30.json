@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "tetemenu mbele zake, nchi yote; ndio, imara⟨⟩thibiti⟨⟩ ulimwengu, haitatikisika.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "tetemenu"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "mbele zake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ndio"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "imara thibiti"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ulimwengu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "haita"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "tikisika"
+    }
+  ],
+  "timestamp": "2026-08-10T14:08:57.699573713Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na Yahweh akamwambia Moshe: Hata lini mnakataa kushika amri zangu na torati zangu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akamwambia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "lini"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "mnakataa"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kushika"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amri zangu"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "na torati zangu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:22:15.382629310Z",
+  "model": "glm-5.2"
+}

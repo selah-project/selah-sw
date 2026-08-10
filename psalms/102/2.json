@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 102,
+  "translation": "Yahweh, sikiliza maombi yangu, na msaada wako na uje kwangu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "sikiliza"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "maombi yangu"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "na msaada wako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "na uje"
+    }
+  ],
+  "timestamp": "2026-08-10T13:12:40.994339075Z",
+  "model": "glm-5.2"
+}

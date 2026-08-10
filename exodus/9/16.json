@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Lakini kwa ajili ya hili nilikusimamisha, ili kuonyesha kwako ⟨את⟩ nguvu zangu, na ili kutangaza jina langu katika nchi yote.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Lakini"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kwa ajili ya"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hili"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "nilikusimamisha"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ili"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "kuonyesha kwako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguvu zangu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "nguvu zangu"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "na ili"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kutangaza"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "jina langu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "katika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi yote"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:09.371740074Z",
+  "model": "glm-5.2"
+}

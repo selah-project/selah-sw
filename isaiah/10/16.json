@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 10:16",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Kwa hiyo Adonai, Yahweh Tseva'ot, atatuma katika wenye mafuta wao ukuyu; na chini ya utukufu wake utawaka moto wa kuwaka kama kuwaka kwa moto.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kwa hiyo"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "atatuma"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tseva'ot"
+    },
+    {
+      "surface": "במשמניו",
+      "gloss": "katika wenye mafuta wao"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ukuyu"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "na chini ya"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "utukufu wake"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "utawaka"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "wa kuwaka"
+    },
+    {
+      "surface": "כיקוד",
+      "gloss": "kama kuwaka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kwa moto"
+    }
+  ],
+  "timestamp": "2026-08-10T15:06:28.439047658Z",
+  "model": "glm-5.2"
+}

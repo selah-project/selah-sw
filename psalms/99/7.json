@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 99,
+  "translation": "Katika nguzo ya wingu ⟨alikuwa⟩ akiwaongelea; walishika ushahidi wake, na amri aliwapa.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "Katika nguzo"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ya wingu"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "akiwaongelea"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "walishika"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "ushahidi wake"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "na amri"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aliwapa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:18.339499940Z",
+  "model": "glm-5.2"
+}

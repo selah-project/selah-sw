@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Kwa kuwa umefanya hukumu yangu na sababu yangu; umeketi kwenye kiti, mkuu wa haki.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "עָ֭שִׂיתָ",
+      "gloss": "umefanya"
+    },
+    {
+      "surface": "מִשְׁפָּטִ֣י",
+      "gloss": "hukumu yangu"
+    },
+    {
+      "surface": "וְדִינִ֑י",
+      "gloss": "na sababu yangu"
+    },
+    {
+      "surface": "יָשַׁ֥בְתָּ",
+      "gloss": "umeketi"
+    },
+    {
+      "surface": "לְ֝כִסֵּ֗א",
+      "gloss": "kwenye kiti"
+    },
+    {
+      "surface": "שׁוֹפֵ֥ט",
+      "gloss": "mkuu wa haki"
+    },
+    {
+      "surface": "צֶֽדֶק",
+      "gloss": "haki"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:48.775192697Z",
+  "model": "glm-5.2"
+}

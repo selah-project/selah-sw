@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 133,
+  "translation": "Wimbo wa ngazi. La David. Tazama, ni zamini jinsi gani mzuri na jinsi gani kupendeza, makao ya ndugu ⟨kukaa⟩ pamoja hata kwa umoja.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wa ngazi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "La David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jinsi gani"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mzuri"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na jinsi gani"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "kupendeza"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "makao"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ya ndugu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hata kwa umoja"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:45.590773674Z",
+  "model": "glm-5.2"
+}

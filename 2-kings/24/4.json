@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na damu isiyo na hatia aliyoimimina, akaijaza ⟨את⟩ Yerushalayim damu isiyo na hatia; Yahweh hakutaka kusamehe.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Na pia"
+    },
+    {
+      "surface": "דם",
+      "gloss": "damu"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "isiyo na hatia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliyoi"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "mimina"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "akaijaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "damu"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "isiyo na hatia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na haku"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "taka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "kusamehe"
+    }
+  ],
+  "timestamp": "2026-08-10T11:53:33.260936366Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Adah akamzaa Esav ⟨את⟩ Elifazi, na Bosmath akazaa ⟨את⟩ Reuel.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Na akazaa"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifazi"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifazi"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "na Bosmath"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "akazaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuel"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    }
+  ],
+  "timestamp": "2026-08-10T10:11:40.016336322Z",
+  "model": "glm-5.2"
+}

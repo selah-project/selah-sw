@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Imebarikiwa matunda ya tumbo lako, na matunda ya udongo wako, na matunda ya mifugo yako, watoto wa ng'ombe wako na vizazi vya kondoo wako.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "imebarikiwa"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "matunda"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ya tumbo lako"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "na matunda"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ya udongo wako"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "na matunda"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "ya mifugo yako"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "watoto"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "wa ng'ombe wako"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "na vizazi"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "vya kondoo wako"
+    }
+  ],
+  "timestamp": "2026-08-10T11:02:37.264293219Z",
+  "model": "glm-5.2"
+}

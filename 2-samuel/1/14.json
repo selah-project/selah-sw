@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na David akamwambia, Jinsi gani hukuogopa kutoa mkono wako kuangamiza ⟨את⟩ Mashíaj wa Yahweh?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kumwambia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איך",
+      "gloss": "jinsi gani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hukuogopa"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "kuogopa"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kutoa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mkono wako"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "kuangamiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashíaj"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashíaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T11:28:54.794000886Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na mwanamume ambaye atalala na ⟨את⟩ mwanaume kama kulala shuleni la mwanamke, machukizo wamefanya wote wawili; kwa kufa watakufa, damu yao iwe juu yao.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na mwanamume"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "atalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanaume"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mwanaume"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "kama kulala shuleni la"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "machukizo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wamefanya"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wote wawili"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kwa kufa"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "watakufa"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "damu yao"
+    },
+    {
+      "surface": "בם",
+      "gloss": "juu yao"
+    }
+  ],
+  "timestamp": "2026-08-10T10:37:12.580206523Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Akasema David: Je, watu wa Qeila watanisalisha mimi ⟨pamoja na⟩ ⟨את⟩ wanaume wangu mikononi mwa Shaul? Akasema Yahweh: Watasalisha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "je, watasalisha"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "wenyeji wa"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wanaume wangu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "wanaume wangu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mikononi mwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "watasalisha"
+    }
+  ],
+  "timestamp": "2026-08-10T11:26:10.661629371Z",
+  "model": "glm-5.2"
+}

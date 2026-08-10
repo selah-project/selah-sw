@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na watumishi wa mfalme wa kiume, wahudumu wake, walisema: Na watatafutwe kwa ajili ya mfalme mabinti, mabikira wenye mwonekano mzuri.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "na walisema"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "watumishi wa kiume"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mfalme"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "wahudumu wake"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "natatutafutwe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kwa ajili ya mfalme"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "mabinti"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "mabikira"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "mzuri"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "mwonekano"
+    }
+  ],
+  "timestamp": "2026-08-10T15:38:23.424849517Z",
+  "model": "glm-5.2"
+}

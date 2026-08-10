@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Basi kijana, naam, kijana yule nabii, akaenda Ramoth-Gilad.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "kijana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "naam, kijana yule"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabii"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramoth"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-10T15:02:45.562140425Z",
+  "model": "glm-5.2"
+}

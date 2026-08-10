@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 73,
+  "translation": "Mimi nilikuwa mpumbavu, wala sikujua; nilikuwa kama mnyama ⟨kwa⟩ mbele zako.",
+  "tokens": [
+    {
+      "surface": "וַאֲנִי",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "בַ֭עַר",
+      "gloss": "nilikuwa mpumbavu"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אֵדָ֑ע",
+      "gloss": "sikujua"
+    },
+    {
+      "surface": "בְּהֵמ֗וֹת",
+      "gloss": "kama mnyama"
+    },
+    {
+      "surface": "הָיִ֥יתִי",
+      "gloss": "nilikuwa"
+    },
+    {
+      "surface": "עִמָּֽךְ",
+      "gloss": "⟨kwa⟩ mbele zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:23.693563331Z",
+  "model": "glm-5.2"
+}

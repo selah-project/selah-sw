@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Na wakuu wakaleta ⟨את⟩ mawe ya shohamu na ⟨את⟩ mawe za kuwekwa, kwa efodi na kwa hosheni.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "na wakuu"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "wakaleta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawe ya shohamu"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mawe ya"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shohamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mawe za kuwekwa"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mawe za"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "kuwekwa"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "kwa efodi"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "na kwa hosheni"
+    }
+  ],
+  "timestamp": "2026-08-10T10:28:39.112088084Z",
+  "model": "glm-5.2"
+}

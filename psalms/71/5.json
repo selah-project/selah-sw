@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 71,
+  "translation": "Kwa maana wewe ⟨ndiwe⟩ tegemeo langu, Adonai, Yahweh, kuaminia kwangu tangu ujana wangu.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "אַתָּ֥ה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "תִקְוָתִ֑י",
+      "gloss": "tegemeo langu"
+    },
+    {
+      "surface": "אֲדֹנָ֥י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יְהוִ֗ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מִבְטַחִ֥י",
+      "gloss": "kuaminia kwangu"
+    },
+    {
+      "surface": "מִנְּעוּרָֽי",
+      "gloss": "tangu ujana wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:15.639443209Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Toa ⟨kwa⟩ Elohim dhabihu ya shukrani, na utimiza nadhiri zako kwa Elyon.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Toa dhabihu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ya shukrani"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "na utimiza"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "kwa Elyon"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "nadhiri zako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:35.324399837Z",
+  "model": "glm-5.2"
+}

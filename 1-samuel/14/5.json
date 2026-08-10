@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "⟨Ngazi⟩ moja ⟨ilikuwa⟩ imeinuka kaskazini mbele ya Mikhmash, na nyingine kusini mbele ya Geva.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "⟨ngazi⟩"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moja"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "imeinuka"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kaskazini"
+    },
+    {
+      "surface": "מול",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikhmash"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "na nyingine"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "kusini"
+    },
+    {
+      "surface": "מול",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva"
+    }
+  ],
+  "timestamp": "2026-08-10T11:22:47.780824194Z",
+  "model": "glm-5.2"
+}

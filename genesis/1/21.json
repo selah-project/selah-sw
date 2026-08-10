@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Elohim akaumba ⟨את⟩ wanyama wakubwa wa maji, na ⟨את⟩ kila nafsi yenye uhai inayotambaza ambayo maji yameizalisha kwa jinisi zake, na ⟨את⟩ kila ndege mwenye mabawa kwa jinisi yake; na Elohim akaona ya kuwa ni nzuri.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "na akaumba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanyama wakubwa wa maji"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "wanyama wakubwa wa maji"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "wakubwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kila nafsi yenye uhai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafsi"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "yenye uhai"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "inayotambaza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "yameizalisha"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "kwa jinisi zao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kila ndege mwenye mabawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ndege"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "mwenye mabawa"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "kwa jinisi yake"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "na akaona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kuwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nzuri"
+    }
+  ],
+  "timestamp": "2026-08-10T14:22:21.691113238Z",
+  "model": "glm-5.2"
+}

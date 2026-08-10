@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "⟨את⟩ meza na ⟨את⟩ fimbo zake na ⟨את⟩ vyombo vyake vyote na ⟨את⟩ mkate wa uso",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "fimbo zake"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "fimbo zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "vyombo vyake vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "vyombo vyake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mkate wa uso"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "wa uso"
+    }
+  ],
+  "timestamp": "2026-08-10T10:28:28.839850677Z",
+  "model": "glm-5.2"
+}

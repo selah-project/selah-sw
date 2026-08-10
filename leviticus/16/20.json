@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na atakapomaliza kufanya upatanisho kwa ⟨את⟩ patakatifu na ⟨את⟩ hema ya mkutano na ⟨את⟩ madhabahu, na atamkaribisha ⟨את⟩ mbuzi-mwanaume aliye hai.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "na atakapomaliza"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "kufanya upatanisho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patakatifu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "patakatifu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hema ya mkutano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "madhabahu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "na atamkaribisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuzi-mwanaume aliye hai"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "mbuzi-mwanaume"
+    },
+    {
+      "surface": "החי",
+      "gloss": "aliye hai"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:18.784961713Z",
+  "model": "glm-5.2"
+}

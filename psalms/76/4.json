@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 76,
+  "translation": "Huko ⟨ali⟩vunja mipira ya upanga ⟨na⟩ ngao, na upanga, na vita. Sela.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Huko"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "⟨ali⟩vunja"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "mipira ya"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "upanga"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "⟨na⟩ ngao"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "na upanga"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "na vita"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:45.771945238Z",
+  "model": "glm-5.2"
+}

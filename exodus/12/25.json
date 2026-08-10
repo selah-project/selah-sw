@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 12:25",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na itakuwa ⟨hapo⟩ mtakapoingia katika nchi ambayo Yahweh atawapa, kama alivyosema, mtashika ⟨את⟩ ibada hii.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na itakuwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨hapo⟩"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "mtakapoingia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "katika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "atawapa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alivyosema"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "mtashika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibada"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ibada"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hii"
+    }
+  ],
+  "timestamp": "2026-08-10T15:51:47.360669179Z",
+  "model": "glm-5.2"
+}

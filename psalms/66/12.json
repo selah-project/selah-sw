@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 66,
+  "translation": "Uliiweka ⟨את⟩ binadamu juu ya kichwa chetu, tuliingia katika moto na katika maji, lakini wewe ulitutoa hadi kwenye tele.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "Uliiweka"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "⟨את⟩ binadamu",
+      "marks": "binadamu"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "juu ya kichwa chetu"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "tuliingia"
+    },
+    {
+      "surface": "באש",
+      "gloss": "katika moto"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "na katika maji"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "lakini wewe ulitutoa"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "hadi kwenye tele"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:25.678985906Z",
+  "model": "glm-5.2"
+}

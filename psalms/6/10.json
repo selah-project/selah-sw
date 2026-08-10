@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Yahweh amesikia ⟨maombi⟩ yangu ya grace; Yahweh atapokea ⟨maombi⟩ yangu.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "amesikia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "⟨maombi⟩ yangu ya grace"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "⟨maombi⟩ yangu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "atapokea"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:23.461626607Z",
+  "model": "glm-5.2"
+}

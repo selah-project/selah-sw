@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 51,
+  "translation": "Tazama, katika ⟨uovu⟩ nilizalishwa, na katika dhambi mama yangu aliniona ⟨mimba⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "katika ⟨uovu⟩"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "nilizalishwa"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "na katika dhambi"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "alioniona ⟨mimba⟩"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mama yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T17:53:27.141780915Z",
+  "model": "glm-5.2"
+}

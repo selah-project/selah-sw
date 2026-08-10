@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "na ⟨את⟩ alama zake, na ⟨את⟩ matendo yake, aliyo yafanya katikati ya Mitsrayim, kwa Paroh mfalme wa Mitsrayim, na kwa nchi yake yote.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "alama zake"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "alama zake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "matendo yake"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "matendo yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aliyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yafanya"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "katikati ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kwa Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nchi yake yote"
+    }
+  ],
+  "timestamp": "2026-08-10T10:56:54.015202991Z",
+  "model": "glm-5.2"
+}

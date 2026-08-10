@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Basi Moshe akawahesabu ⟨את⟩ ⟨ao⟩ kwa kauli ya Yahweh, kama alivyoamriwa.",
+  "tokens": [
+    {
+      "surface": "וַיִּפְקֹ֥ד",
+      "gloss": "akawahesabu"
+    },
+    {
+      "surface": "אֹתָ֛ם",
+      "gloss": "⟨את⟩ ⟨ao⟩",
+      "marks": "wana wa Levi"
+    },
+    {
+      "surface": "מֹשֶׁ֖ה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פִּ֣י",
+      "gloss": "kauli ya"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֖ר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "צֻוָּֽה",
+      "gloss": "alivyoamriwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:40:58.485539874Z",
+  "model": "glm-5.2"
+}

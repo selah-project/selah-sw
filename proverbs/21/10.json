@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Nafsi ya mbaya hutamai baya; jirani wake hapati kibali machoni mwake.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nafsi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ya mbaya"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "hutamai"
+    },
+    {
+      "surface": "רע",
+      "gloss": "baya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "pata kibali"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "machoni mwake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "jirani wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:26:44.955883507Z",
+  "model": "glm-5.2"
+}

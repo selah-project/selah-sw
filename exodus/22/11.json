@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Na kama kwa kweli imeibiwa kutoka kwake, atatonga kwa mwenye mali.",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "na kama"
+    },
+    {
+      "surface": "גָּנֹ֥ב",
+      "gloss": "kwa kweli imeibiwa"
+    },
+    {
+      "surface": "יִגָּנֵ֖ב",
+      "gloss": "imeibiwa"
+    },
+    {
+      "surface": "מֵעִמּ֑וֹ",
+      "gloss": "kutoka kwake"
+    },
+    {
+      "surface": "יְש׷לֵּ֖ם",
+      "gloss": "atatonga"
+    },
+    {
+      "surface": "לִבְעָלָֽיו",
+      "gloss": "kwa mwenye mali"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:06.990292429Z",
+  "model": "glm-5.2"
+}

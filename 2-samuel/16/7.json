@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na hivi alisema Shimi akilaani: Toka, toka, wewe mtu wa damu na mtu wa Beliali!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "na hivi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alisema"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimi"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "akilaani"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Toka"
+    },
+    {
+      "surface": "צא",
+      "gloss": "toka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "wa damu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mtu"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "wa Beliali"
+    }
+  ],
+  "timestamp": "2026-08-10T14:57:04.375391553Z",
+  "model": "glm-5.2"
+}

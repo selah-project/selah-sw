@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 119,
+  "translation": "Ni bora kwangu mafundisho ya kinywa chako kuliko maelfu ya dhahabu na fedha.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ni bora"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "mafundisho"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ya kinywa chako"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "kuliko maelfu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya dhahabu"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "na fedha"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:18.020300104Z",
+  "model": "glm-5.2"
+}

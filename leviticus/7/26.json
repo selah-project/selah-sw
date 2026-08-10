@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na damu yoyote hamtakula katika makazi yenu yote — ⟨wala⟩ ya ndege wala ya mnyama.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "Na ... yoyote"
+    },
+    {
+      "surface": "דָּם֙",
+      "gloss": "damu"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "⟨wala⟩"
+    },
+    {
+      "surface": "תֹאכְל֔וּ",
+      "gloss": "hamtakula"
+    },
+    {
+      "surface": "בְּכֹ֖ל",
+      "gloss": "katika ... yote"
+    },
+    {
+      "surface": "מוֹשְׁבֹתֵיכֶ֑ם",
+      "gloss": "makazi yenu"
+    },
+    {
+      "surface": "לָע֖וֹף",
+      "gloss": "ya ndege"
+    },
+    {
+      "surface": "וְלַבְּהֵמָֽה",
+      "gloss": "wala ya mnyama"
+    }
+  ],
+  "timestamp": "2026-08-10T10:31:54.892173223Z",
+  "model": "glm-5.2"
+}

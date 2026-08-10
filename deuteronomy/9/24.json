@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Wakaidi mkiwa waasi pamoja na Yahweh, tangu siku nikajua nyinyi.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "wakaidi waasi"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "mkiwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "tangu siku"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "nikajua"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:57:02.432744283Z",
+  "model": "glm-5.2"
+}

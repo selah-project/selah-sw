@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 118,
+  "translation": "Abarikiwe ⟨yule anayekuja⟩ kwa jina la Yahweh; tumekubarikieni kutoka nyumbani pa Yahweh.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Abarikiwe"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "⟹anayekuja⟩"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "kwa jina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "tumekubarikieni"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kutoka nyumbani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "pa Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T15:29:08.350000636Z",
+  "model": "glm-5.2"
+}

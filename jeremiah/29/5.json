@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 29,
+  "translation": "Jenyueni nyumba mkazikae, mpandeni mabustani mkale ⟨את⟩ matunda yake.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "Jenyueni"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "mkazikae"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "mpandeni"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "mabustani"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mkale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matunda yake"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "matunda yake"
+    }
+  ],
+  "timestamp": "2026-08-10T16:10:36.187406382Z",
+  "model": "glm-5.2"
+}

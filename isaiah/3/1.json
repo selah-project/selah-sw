@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Kwa maana tazama, Adonai, Yahweh Tsva'ot, anazuia kutoka Yerushalayim na kutoka Yehudah mwegemeo na mtegemezi, kila mtegemo wa mikate na kila mtegemo wa maji.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsva'ot"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "anazuia"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "kutoka Yerushalayim"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "na kutoka Yehudah"
+    },
+    {
+      "surface": "משען",
+      "gloss": "mwegemeo"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "na mtegemezi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "משען",
+      "gloss": "mtegemo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mikate"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na kila"
+    },
+    {
+      "surface": "משען",
+      "gloss": "mtegemo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:11.087638089Z",
+  "model": "glm-5.2"
+}

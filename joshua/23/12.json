@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 23:12",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Maana mkirudi kabisa, mkashikamana na waliobaki wa mataifa haya, hawa waliobaki ⟨אתכם⟩, mkaingia ndoa nao, mkaingia kwao na wao kwenu:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kabisa"
+    },
+    {
+      "surface": "תשובו",
+      "gloss": "mkirudi"
+    },
+    {
+      "surface": "ודבקתם",
+      "gloss": "mkashikamana"
+    },
+    {
+      "surface": "ביתר",
+      "gloss": "na waliobaki"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "wa mataifa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "hawa waliobaki"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "pamoja nanyi"
+    },
+    {
+      "surface": "והתחתנתם",
+      "gloss": "mkaingia ndoa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "mkaingia"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "והם",
+      "gloss": "na wao"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kwenu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:58:55.356438465Z",
+  "model": "glm-5.2"
+}

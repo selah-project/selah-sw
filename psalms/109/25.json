@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Nami nilikuwa fedheha kwao; waliniona, wakatikisa vichwa vyao.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Nami"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nilikuwa"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "fedheha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "waliniona"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "wakatikisa"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "vichwa vyao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:58.219904766Z",
+  "model": "glm-5.2"
+}

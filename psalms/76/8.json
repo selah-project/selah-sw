@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 76,
+  "translation": "Wewe, aweye wa kustahili kuogopwa, wewe! Na nani atakayesimama mbele zako, tangu ghadhabu yako?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wewe"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "aweye wa kustahili kuogopwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Na nani"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "atakayesimama"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbele zako"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "tangu"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ghadhabu yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:39.275254991Z",
+  "model": "glm-5.2"
+}

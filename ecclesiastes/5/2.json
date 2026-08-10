@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Kwa kuwa ndoto huja kwa wingi wa shughuli, na sauti ya mpumbavu kwa wingi wa maneno.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "huja"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ndoto"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "kwa wingi wa"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "shughuli"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "na sauti ya"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "mpumbavu"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "kwa wingi wa"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "maneno"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:46.005861061Z",
+  "model": "glm-5.2"
+}

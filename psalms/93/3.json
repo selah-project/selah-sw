@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 93,
+  "translation": "Mito imeinua, ee Yahweh, mito imeinua sauti yake, mito itainua mawimbi yao.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "imeinua"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "imeinua"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mito"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sauti yake"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "itainua"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mito"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "mawimbi yao"
+    }
+  ],
+  "timestamp": "2026-08-10T16:18:48.790859627Z",
+  "model": "glm-5.2"
+}

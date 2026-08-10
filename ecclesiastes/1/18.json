@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Kwa kuwa katika wingi wa hekima kuna mno chukizo, na anayeongeza ujuzi anaongeza maudhi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "katika wingi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wa hekima"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kuna mno"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "chukizo"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "na anayeongeza"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ujuzi"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "anaongeza"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "maudhi"
+    }
+  ],
+  "timestamp": "2026-08-10T16:24:11.588720372Z",
+  "model": "glm-5.2"
+}

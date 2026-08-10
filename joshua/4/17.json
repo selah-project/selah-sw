@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Na Yehoshua aliagiza ⟨את⟩ makuhani, akisema: Pandeni kutoka Yardeni.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Na aliagiza"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makuhani"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "makuhani"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akisema"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Pandeni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    }
+  ],
+  "timestamp": "2026-08-10T14:44:44.682546821Z",
+  "model": "glm-5.2"
+}

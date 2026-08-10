@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na Yaroveamu hakurudisha nguvu tena katika siku za Aviyahu, na Yahweh akampiga, naye akafa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na hakurudisha"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "akaweka"
+    },
+    {
+      "surface": "כח",
+      "gloss": "nguvu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaroveamu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "katika siku za"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Aviyahu"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "na akampiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "naye akafa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:45:26.185290843Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na Avishua alimzaa ⟨את⟩ Bukhi; na Bukhi alimzaa ⟨את⟩ Uzi.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "Na Avishua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bukhi"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukhi"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "na Bukhi"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:04:48.619311427Z",
+  "model": "glm-5.2"
+}

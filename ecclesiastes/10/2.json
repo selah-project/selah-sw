@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Moyo wa mwerevu uko upande wake wa kulia, na moyo wa mpumbavu uko upande wake wa kushoto.",
+  "tokens": [
+    {
+      "surface": "לֵ֤ב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "חָכָם֙",
+      "gloss": "wa mwerevu"
+    },
+    {
+      "surface": "לִֽימִינ֔וֹ",
+      "gloss": "uko upande wake wa kulia"
+    },
+    {
+      "surface": "וְלֵ֥ב",
+      "gloss": "na moyo"
+    },
+    {
+      "surface": "כְּסִ֖יל",
+      "gloss": "wa mpumbavu"
+    },
+    {
+      "surface": "לִשְׂמֹאלֽוֹ",
+      "gloss": "uko upande wake wa kushoto"
+    }
+  ],
+  "timestamp": "2026-08-10T15:37:25.328021358Z",
+  "model": "glm-5.2"
+}

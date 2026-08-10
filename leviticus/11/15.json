@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "⟨את⟩ kila korvi kwa jinsi yake;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "korvi"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "kwa jinsi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:30.174429314Z",
+  "model": "glm-5.2"
+}

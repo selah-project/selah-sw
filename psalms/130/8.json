@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 130,
+  "translation": "Naye atamkomboa ⟨את⟩ Yisra'el kutoka katika dhambi zote zake.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Naye"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "atamkomboa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kutoka katika zote"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "dhambi zake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:30.693558194Z",
+  "model": "glm-5.2"
+}

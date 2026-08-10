@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 60,
+  "translation": "Mataifa yatatembea katika nuru yako, na wafalme katika mwinuko wa mwangazako.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "yatatembea"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Mataifa"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "katika nuru yako"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "na wafalme"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "katika mwinuko"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "wa mwangazako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:08:36.614202299Z",
+  "model": "glm-5.2"
+}

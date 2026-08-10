@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Hakika wote wakutegao hawataonekana aibu; wataonekana aibu wanaotenda uasi bila sababu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Hakika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "wakutegao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawataonekana"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "aibu"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "wataonekana aibu"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "wanaotenda uasi"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "bila sababu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:01.595899030Z",
+  "model": "glm-5.2"
+}

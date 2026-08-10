@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na Ish-Boshet akamtuma, akamchukua kutoka kwa mume wake, kutoka kwa Paltieli mwana wa Layish.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Na akamtuma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boshet"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "akamchukua"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kutoka kwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mume"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kutoka kwa"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Paltieli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "wa Layish"
+    }
+  ],
+  "timestamp": "2026-08-10T14:55:59.749164999Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 86,
+  "translation": "Mataifa yote uliyouumba yatakuja na kusujudu mbele zako, Adonai, na kukutukuza jina lako.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Mataifa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uliyo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "uumba"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "yatakuja"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "na kusujudu"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbele zako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "na kukuza"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "jina lako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:51.647227386Z",
+  "model": "glm-5.2"
+}

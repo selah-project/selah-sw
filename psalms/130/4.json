@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 130,
+  "translation": "Kwa kuwa pamoja nawe ⟨kuna⟩ msamaha, ili ⟨wewe⟩ uogopwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pamoja nawe"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "⟨kuna⟩ msamaha"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ili"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "⟨wewe⟩ uogopwe"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:24.887627014Z",
+  "model": "glm-5.2"
+}

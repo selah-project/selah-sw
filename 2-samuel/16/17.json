@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Na Avshalom akamwambia Khushay: Huu ni chesed yako kwa ⟨את⟩ rafiki yako? Kwa nini huendi na ⟨את⟩ rafiki yako?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Khushay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Huu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ni chesed yako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rafiki yako"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "rafiki yako"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "huendi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rafiki yako"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "na rafiki yako"
+    }
+  ],
+  "timestamp": "2026-08-10T11:34:03.505371219Z",
+  "model": "glm-5.2"
+}

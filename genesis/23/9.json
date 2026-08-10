@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 23:9",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "na anipe ⟨את⟩ pango la HaMakhpela lililo lake, ambalo katika mwisho wa shamba lake; kwa fedha kamili anipe ⟨hiyo⟩ mbele yenu kwa umiliki wa kaburi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "na anipe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pango la HaMakhpela"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "pango la"
+    },
+    {
+      "surface": "המכפלה",
+      "gloss": "HaMakhpela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambalo"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "katika mwisho"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "wa shamba lake"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "kwa fedha"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kamili"
+    },
+    {
+      "surface": "יתננה",
+      "gloss": "anipe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "mbele yenu"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "kwa umiliki"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "wa kaburi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:23:47.786874771Z",
+  "model": "glm-5.2"
+}

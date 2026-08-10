@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na Shemueli bado hajamjua ⟨את⟩ Yahweh, na bali neno la Yahweh halikujafunuliwa kwake.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Na Shemueli"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "bado"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "hajamjua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "na bado"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "halikujafunuliwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T16:00:21.222064119Z",
+  "model": "glm-5.2"
+}

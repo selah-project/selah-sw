@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Kwa mwongozaji. Wa David. Mpumbavu ⟨amesema⟩ moyoni mwake: \"Hakuna Elohim.\" Waharibika, watenda machukizo; hakuna afanyaye jema.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwongozaji"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "amesema"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Mpumbavu"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "moyoni mwake"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Hakuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "Waharibika"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "watenda machukizo"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "tendo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "afanyaye"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jema"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:18.253568530Z",
+  "model": "glm-5.2"
+}

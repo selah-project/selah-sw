@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 36,
+  "translation": "Kwa kuwa mali yao ilikuwa ⟨ni⟩ nyingi mno kwa ⟨kuishi⟩ pamoja, na nchi ya kukaa kwao haikuweza kuwabeba kwa sababu ya mifugo yao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ilikuwa"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "mali yao"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ningi mno"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "kwa ⟨kuishi⟩"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamoja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na haikuweza"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "haikuweza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "ya kukaa kwao"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kuwabeba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuwabeba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "mifugo yao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:26:52.012550433Z",
+  "model": "glm-5.2"
+}

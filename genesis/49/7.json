@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 49:7",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Anaolaani hasira yao kwa kuwa ⟨⟨ni⟩⟩ nguvu, na wivu wao kwa kuwa ⟨⟨ni⟩⟩ mkali; nitawagawa ndani ya Ya'akov na kuwatawanya ndani ya Yisrael.",
+  "tokens": [
+    {
+      "surface": "אָר֤וּר",
+      "gloss": "anaolaani"
+    },
+    {
+      "surface": "אַפָּם֙",
+      "gloss": "hasira yao"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "עָ֔ז",
+      "gloss": "⟨ni⟩ nguvu"
+    },
+    {
+      "surface": "וְעֶבְרָתָ֖ם",
+      "gloss": "na wivu wao"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "קָשָׁ֑תָה",
+      "gloss": "⟨ni⟩ mkali"
+    },
+    {
+      "surface": "אֲחַלְּקֵ֣ם",
+      "gloss": "nitawagawa"
+    },
+    {
+      "surface": "בְּיַעֲקֹ֔ב",
+      "gloss": "ndani ya Ya'akov"
+    },
+    {
+      "surface": "וַאֲפִיצֵ֖ם",
+      "gloss": "na kuwatawanya"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵֽל",
+      "gloss": "ndani ya Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T14:27:47.850985996Z",
+  "model": "glm-5.2"
+}

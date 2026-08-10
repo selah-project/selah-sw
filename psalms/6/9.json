@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Ondokeni kwangu, nyote mnayofanya ubatilifu, maana Yahweh amesikia sauti ya kilio changu.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Ondokeni"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyote"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mnayofanya"
+    },
+    {
+      "surface": "און",
+      "gloss": "ubatilifu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "amesikia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "ya kilio changu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:23:23.461402428Z",
+  "model": "glm-5.2"
+}

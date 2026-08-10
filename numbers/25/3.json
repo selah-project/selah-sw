@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 25:3",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Nayo Yisraeli ikajiunga na Baali-Peori, nayo hasira ya Yahweh ikawaka juu ya Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ויצמד",
+      "gloss": "ikajiunga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "na Baali"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "-Peori"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ikawaka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hasira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "juu ya Yisraeli"
+    }
+  ],
+  "timestamp": "2026-08-10T10:49:24.802931188Z",
+  "model": "glm-5.2"
+}

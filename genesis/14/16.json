@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Akairudisha ⟨את⟩ mali yote, na pia akamrudisha ⟨את⟩ Luti nduguye pamoja na mali yake, na pia ⟨את⟩ wanawake na ⟨את⟩ watu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akairudisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mali yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "mali"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Luti nduguye pamoja na mali yake"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Luti"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nduguye"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "pamoja na mali yake"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "akamrudisha"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanawake"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "wanawake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:48:55.731758721Z",
+  "model": "glm-5.2"
+}

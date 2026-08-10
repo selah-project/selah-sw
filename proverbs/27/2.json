@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Mgeni na akusifu, na si kinywa chako; mwengine, na si miyoyo yako.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "akusifu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "Mgeni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na si"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "kinywa chako"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "mwengine"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na si"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "miyoyo yako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:32:38.932438277Z",
+  "model": "glm-5.2"
+}

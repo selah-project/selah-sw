@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na Tamar mkwe wake alimpata ⟨את⟩ Perets na ⟨את⟩ Zerach. Wana wote wa Yehudah ⟨ni⟩ watano.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Na Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "mkwe wake"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "alimpata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Zerach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Wana wote"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehudah"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "watano"
+    }
+  ],
+  "timestamp": "2026-08-10T14:03:30.937021510Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 33,
+  "translation": "Shauri ⟨la⟩ Yahweh husimama milele, mawazo ⟨ya⟩ moyo wake kwa kizazi na kizazi.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Shauri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "husimama"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mawazo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ya moyo wake"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwa kizazi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na kizazi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:21.389411149Z",
+  "model": "glm-5.2"
+}

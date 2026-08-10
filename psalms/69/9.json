@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Mgeni nilikuwa kwa ndugu zangu, na mwatu kwa wan wa mama yangu.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "mgeni"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nilikuwa"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kwa ndugu zangu"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "na mwatu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa wan wa"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mama yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:32.810308169Z",
+  "model": "glm-5.2"
+}

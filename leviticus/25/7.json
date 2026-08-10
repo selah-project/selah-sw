@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "na kwa mifugo yako na kwa wanyama wa mwitu walio katika nchi yako — yote ya mavuno yake yatakuwa ⟨ni⟩ chakula.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "na kwa mifugo yako"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "na kwa wanyama wa mwitu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "walio"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "katika nchi yako"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yatakuwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ya mavuno yake"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "chakula"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:23.811162432Z",
+  "model": "glm-5.2"
+}

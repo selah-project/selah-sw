@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 10:15",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Ila kwa baba zenu Yahweh alishikamanisha kwa kupenda ⟨את⟩ kuwapenda, akawachagua miongoni mwa uzao wao baada yao — ninyi, kutokana na mataifa yote, kama ilivyo leo hii.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Ila"
+    },
+    {
+      "surface": "באבתיך",
+      "gloss": "kwa baba zenu"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "alishikamanisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "kwa kupenda"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ kuwapenda",
+      "marks": "baba zenu (kipengele cha kilichopendwa cha חשק)"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "akawachagua"
+    },
+    {
+      "surface": "בזרעם",
+      "gloss": "miongoni mwa uzao wao"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "baada yao"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ninyi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kutokana na"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mataifa yote"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kama ilivyo leo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hii"
+    }
+  ],
+  "timestamp": "2026-08-10T14:41:55.146616259Z",
+  "model": "glm-5.2"
+}

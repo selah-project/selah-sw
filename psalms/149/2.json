@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 149,
+  "translation": "Yisra'el afurahi kwa ∅ aliyeumba; wana wa Tsiyoni na wafurahi kwa ∅ mfalme wao.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "afurahi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "kwa aliyeumba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "wafurahi"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "kwa mfalme wao"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:32.851038248Z",
+  "model": "glm-5.2"
+}

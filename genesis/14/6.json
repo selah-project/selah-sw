@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "na ⟨את⟩ Wahori katika sevu yao ya Seiri, mpaka Eli-Parani, ambayo ⟨i⟩ karibu na jangwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Wahori"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Wahori"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "katika sevu yao"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ya Seiri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "איל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "-Parani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "karibu na"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "jangwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:04:25.883082165Z",
+  "model": "glm-5.2"
+}

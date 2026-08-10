@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Umemweka atawale kazi za mikono yako, vyote umeweka chini ya miguu yake.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "umemweka atawale"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "kazi za"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "mikono yako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "umeweka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "miguu yake"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:42.845315332Z",
+  "model": "glm-5.2"
+}

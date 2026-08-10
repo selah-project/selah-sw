@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Na ⟨את⟩ nyumba za Yerushalayim mkazihesabu, na nyumba mkazibomoa ili kufanya nguvu ⟨את⟩ ukuta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "nyumba"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "mkazihesabu"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "mkazibomoa"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "ili kufanya nguvu"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ukuta"
+    }
+  ],
+  "timestamp": "2026-08-10T11:58:38.303000223Z",
+  "model": "glm-5.2"
+}

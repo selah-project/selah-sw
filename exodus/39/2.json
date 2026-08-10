@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 39,
+  "translation": "Akafanya ⟨את⟩ ha-efodi; dhahabu, tekeleti na argamani na kute wa shani na sheshi iliyosokotwa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Akafanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha-efodi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ha-efodi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahabu"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekeleti"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "na argamani"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "na kute"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wa shani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na sheshi"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "iliyosokotwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:29:18.151472307Z",
+  "model": "glm-5.2"
+}

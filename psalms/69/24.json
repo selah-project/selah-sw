@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Macho yao naachwe giza wasipate kuona, na viuno vyao daima vitetee.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "naachwe giza"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "macho yao"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "wasipate kuona"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "na viuno vyao"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "vitetee"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:37.186152435Z",
+  "model": "glm-5.2"
+}

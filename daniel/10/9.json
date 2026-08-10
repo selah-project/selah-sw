@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Nikasikia ⟨את⟩ sauti ya maneno yake; na niliposikia ⟨את⟩ sauti ya maneno yake, mimi nilikuwa nimesinzia juu ya uso wangu, na uso wangu kufunga nchi.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "nikasikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauti"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ya maneno yake"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "na niliposikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauti"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ya maneno yake"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nilikuwa"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "nimesinzia"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso wangu"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "na uso wangu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "kufunga nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T16:25:50.295114555Z",
+  "model": "glm-5.2"
+}

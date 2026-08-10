@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Akaondoa wake watakatifu kutoka katika nchi, akaondoa ⟨את⟩ vipingu vyote ambavyo baba zake walivifanya.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Akaondoa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "wake watakatifu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka katika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "akaondoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vipingu vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "vipingu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambavyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "walivifanya"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baba zake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:42:19.178592934Z",
+  "model": "glm-5.2"
+}

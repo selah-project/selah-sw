@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 116,
+  "translation": "Fungo za mauti zilinizunguka, na dhiki za Sheol zilinipata; dhiki na huzuni nilipata.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "zilinizunguka"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "fungo za"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mauti"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "na dhiki za"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "zilinipata"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dhiki"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "na huzuni"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nilipata"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:44.858616367Z",
+  "model": "glm-5.2"
+}

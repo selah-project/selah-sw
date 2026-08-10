@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 30,
+  "translation": "Na David akachukua ⟨את⟩ kundi lote la kondoo na ng'ombe; waliyafuga mbele ya mifugo ile, wakasema: Hili ni nyara ya David.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akachukua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kundi lote la kondoo na ng'ombe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lote"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "la kondoo"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "na ng'ombe"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "waliyafunga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele ya"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "mifugo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ile"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wakasema"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Hili"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "nyara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-08-10T11:28:16.696709931Z",
+  "model": "glm-5.2"
+}

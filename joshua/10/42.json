@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na ⟨את⟩ hao wafalme wote pamoja na ⟨את⟩ nchi yao Yehoshua akawateka mara moja, maana Yahweh Elohim wa Yisrael alipigana kwa ajili ya Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hao wafalme wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "hao wafalme"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nchi yao"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nchi yao"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "akawateka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "mara"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "alipigana"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kwa ajili ya Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T11:07:54.158238560Z",
+  "model": "glm-5.2"
+}

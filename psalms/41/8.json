@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 41,
+  "translation": "Pamoja, juu yangu wanafifanua, wote wanaonichukia; juu yangu wanafikiri mabaya ⟨dhidi⟩ yangu:",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Pamoja"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "wanafifanua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "wanaonichukia"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "wanafikiri"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabaya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨dhidi⟩ yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:09.488764581Z",
+  "model": "glm-5.2"
+}

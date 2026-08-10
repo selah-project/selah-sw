@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 92,
+  "translation": "Kwa maana tazama, maadui zako, ee Yahweh — kwa maana tazama, maadui zako wataangamia; watafarikiwa wote watendao ubatili.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "maadui zako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "maadui zako"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "wataangamia"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "watafarikiwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "watendao"
+    },
+    {
+      "surface": "און",
+      "gloss": "ubatili"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:23.410323947Z",
+  "model": "glm-5.2"
+}

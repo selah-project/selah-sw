@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 57,
+  "translation": "Imethibitishwa moyo wangu, Elohim, imethibitishwa moyo wangu; nitaimba, naam, nitaimba nyimbo za sifa.",
+  "tokens": [
+    {
+      "surface": "נָ֘כ֤וֹן",
+      "gloss": "imethibitishwa"
+    },
+    {
+      "surface": "לִבִּ֣י",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "אֱ֭לֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נָכ֣וֹן",
+      "gloss": "imethibitishwa"
+    },
+    {
+      "surface": "לִבִּ֑י",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "אָ֝שִׁ֗ירָה",
+      "gloss": "nitaimba"
+    },
+    {
+      "surface": "וַאֲזַמֵּֽרָה",
+      "gloss": "naam, nitaimba nyimbo za sifa"
+    }
+  ],
+  "timestamp": "2026-08-10T17:54:27.700253104Z",
+  "model": "glm-5.2"
+}

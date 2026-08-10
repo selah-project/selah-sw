@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Sauti ⟨inasema⟩: Ita! Naye ⟨akasema⟩: Niite nini? Nyama yote ⟨ni⟩ manyasi, na chesed yake yote ⟨ni⟩ kama ua la shambani.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Sauti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨inasema⟩"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Ita"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "naye ⟨akasema⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "niite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "manyasi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yote"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed yake"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "kama ua"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "la shambani"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:10.389029023Z",
+  "model": "glm-5.2"
+}

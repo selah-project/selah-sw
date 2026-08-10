@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 120,
+  "translation": "Mishale ya shujaa iliyochongwa, pamoja na makaa ya mti wa retemi.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Mishale"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ya shujaa"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "iliyochongwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "makaa ya"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "mti wa retemi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:12.304711110Z",
+  "model": "glm-5.2"
+}

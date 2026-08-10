@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "na ⟨kwa⟩ wafalme ambao ⟨walikuwa⟩ kaskazini, katika milima, na katika mbuga, kusini mwa Kineroti, na katika tambarare, na katika nafasi za Dori upande wa magharibi",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "wafalme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kaskazini"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "katika milima"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "na katika mbuga"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kusini mwa"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "Kineroti"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "na katika tambarare"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "na katika nafasi za"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dori"
+    },
+    {
+      "surface": "מים",
+      "gloss": "upande wa magharibi"
+    }
+  ],
+  "timestamp": "2026-08-10T11:08:50.022714074Z",
+  "model": "glm-5.2"
+}

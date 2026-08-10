@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Ulinipuliza kwa upepo wako, bahari iliwafunika, walizama kama risasi katika maji maku.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "Ulinipuliza"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "kwa upepo wako"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "iliwafunika"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "walizama"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "kama risasi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "katika maji"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "maku"
+    }
+  ],
+  "timestamp": "2026-08-10T15:51:55.497560265Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "haggai 2:17",
+  "book": "haggai",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Niliwapiga ⟨אתכם⟩ kwa upepo wa kuunguza na kwaukungu na kwa mbaragumu, ⟨את⟩ kazi yote ya mikono yenu, wala hamgeukieni ⟨אתכם⟩ kwangu, neno la Yahweh.",
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "Niliwapiga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "kwa upepo wa kuunguza"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "na kwaukungu"
+    },
+    {
+      "surface": "ובברד",
+      "gloss": "na kwa mbaragumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kazi yote ya mikono yenu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kazi yote"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "ya mikono yenu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wala hamgeukieni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T16:16:12.274555772Z",
+  "model": "glm-5.2"
+}

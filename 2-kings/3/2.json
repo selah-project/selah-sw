@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Akafanya yaliyo mabaya machoni pa Yahweh, ila si kama baba yake na mama yake, akaiondoa ⟨את⟩ nguzo ya Baali ambayo baba yake alifanya.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Akafanya"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yaliyo mabaya"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "machoni pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "kama baba yake"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "na mama yake"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "akaiondoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguzo ya Baali"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "nguzo"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alifanya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:45:36.435063557Z",
+  "model": "glm-5.2"
+}

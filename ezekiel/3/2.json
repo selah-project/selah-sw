@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Nikafungua ⟨את⟩ kinywa changu, akanilisha ⟨את⟩ mkokoteni huyu.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Nikafungua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinywa changu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kinywa changu"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "akanilisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkokoteni huyu"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "mkokoteni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "huyu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:27:33.958085346Z",
+  "model": "glm-5.2"
+}

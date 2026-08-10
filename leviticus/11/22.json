@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "⟨את⟩ hizi miongoni mwake mtakula: ⟨את⟩ arbeh kwa jinsi yake, na ⟨את⟩ sol'am kwa jinsi yake, na ⟨את⟩ chargol kwa jinsi yake, na ⟨את⟩ chagav kwa jinsi yake.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hizi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hizi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "miongoni mwake"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mtakula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arbeh"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "kwa jinsi yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "sol'am"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "sol'am"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "kwa jinsi yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "chargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "chargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "kwa jinsi yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "chagav"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "chagav"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "kwa jinsi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:35.661182064Z",
+  "model": "glm-5.2"
+}

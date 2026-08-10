@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 48,
+  "translation": "Kwa upepo wa mashariki ⟨wewe⟩ huvunja meli za Tarshish.",
+  "tokens": [
+    {
+      "surface": "בְּר֥וּחַ",
+      "gloss": "Kwa upepo"
+    },
+    {
+      "surface": "קָדִ֑ים",
+      "gloss": "wa mashariki"
+    },
+    {
+      "surface": "תְּ֝שַׁבֵּ֗ר",
+      "gloss": "⟨wewe⟩ huvunja"
+    },
+    {
+      "surface": "אֳנִיּ֥וֹת",
+      "gloss": "meli"
+    },
+    {
+      "surface": "תַּרְשִֽׁישׁ",
+      "gloss": "za Tarshish"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:09.849587137Z",
+  "model": "glm-5.2"
+}

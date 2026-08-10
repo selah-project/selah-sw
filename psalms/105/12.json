@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Walipokuwa watu wa hesabu chache, wachache sana, na wageni humo.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "walipokuwa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "watu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "wa hesabu"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "chache"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "na wageni"
+    },
+    {
+      "surface": "בה",
+      "gloss": "humo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:02.537325837Z",
+  "model": "glm-5.2"
+}

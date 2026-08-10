@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 77,
+  "translation": "Umeshika ulinzi wa macho yangu; nimetikisika, wala siongei.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "umeshika"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "ulinzi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "wa macho yangu"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "nimetikisika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ongei"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:10.427553900Z",
+  "model": "glm-5.2"
+}

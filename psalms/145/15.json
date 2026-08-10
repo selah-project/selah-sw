@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 145,
+  "translation": "Macho ya wote yametazamia kwako, na wewe unawapa ⟨את⟩ chakula chao kwa wakati wake.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Macho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya wote"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "yametazamia"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wewe"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "unawapa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chakula chao"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "chakula chao"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "kwa wakati wake"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:36.032299792Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 147,
+  "translation": "Yahweh anapendezwa na ⟨את⟩ wamchao, ⟨na⟩ ⟨את⟩ wangojegua kwa chesed (fadhili) wake.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "anapendezwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wamchao"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wamchao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wangojegua"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "wangojegua"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "kwa chesed wake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:04.907875856Z",
+  "model": "glm-5.2"
+}

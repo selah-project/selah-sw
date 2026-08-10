@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Nanyi mtapotea miongoni mwa mataifa, na nchi ya maadui zenu itawala ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "Nanyi mtapotea"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "miongoni mwa mataifa"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "na itawala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ya maadui zenu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:36:10.217580818Z",
+  "model": "glm-5.2"
+}

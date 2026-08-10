@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Wakati Adonai atakapokuosha uchafu wa mabinti wa Tsiyoni, na ⟨את⟩ damu za Yerushalayimi atakapoyafukuza kutoka katikati yake, kwa roho ya hukumu na kwa roho ya kuchoma.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "atakapokuosha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uchafu"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "uchafu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "wa mabinti"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "wa Tsiyoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "damu za Yerushalayim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "damu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "za Yerushalayim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "atakapoyafukuza"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "kutoka katikati yake"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "kwa roho"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ya hukumu"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "na kwa roho"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ya kuchoma"
+    }
+  ],
+  "timestamp": "2026-08-10T11:55:23.421309526Z",
+  "model": "glm-5.2"
+}

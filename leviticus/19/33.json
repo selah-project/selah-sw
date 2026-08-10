@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na mgeni akikaa ⟨אתכם⟩ mgeni katika nchi yenu, msimdhulumu ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Na mgeni aki"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתכם⟩",
+      "marks": "mgeni"
+    },
+    {
+      "surface": "גר",
+      "gloss": "mgeni"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "katika nchi yenu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "msi"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "mdhulumu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "mgeni"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:46.992046831Z",
+  "model": "glm-5.2"
+}

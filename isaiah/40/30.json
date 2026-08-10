@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Na vijana watachoka na watachoka, na vijana ⟨wa⟩ nguvu watakapotetea wataanguka.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "watachoka"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "vijana"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "watachoka"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "na vijana"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "watakapotetea"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "wataanguka"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:05.045064839Z",
+  "model": "glm-5.2"
+}

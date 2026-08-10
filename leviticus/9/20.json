@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Wakaweka ⟨את⟩ mafuta juu ya matiti, naye akavuta mafuta madhabahuni.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "wakaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "matiti"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "naye akavuta"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "madhabahuni"
+    }
+  ],
+  "timestamp": "2026-08-10T14:33:38.203290953Z",
+  "model": "glm-5.2"
+}

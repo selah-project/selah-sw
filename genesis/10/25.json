@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 10:25",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na kwa Eber walizaliwa wana wawili: jina la mmoja ⟨ulikuwa⟩ Peleg, kwa maana katika siku zake nchi iligawanyika, na jina la nduguye ⟨ulikuwa⟩ Yoqtan.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "Na kwa Eber"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "walizaliwa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jina"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "la mmoja"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "katika siku zake"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "iligawanyika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na jina"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "la nduguye"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoqtan"
+    }
+  ],
+  "timestamp": "2026-08-10T14:23:44.577390149Z",
+  "model": "glm-5.2"
+}

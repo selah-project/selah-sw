@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Siku hiyo nitaimiza dhidi ya Eli ⟨את⟩ kila nilichosema kuhusu nyumba yake; nitaanza na kukamilisha.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "nitaimiza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhidi ya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nilichosema"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nilichosema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuhusu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "החל",
+      "gloss": "nitaanza"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "na kukamilisha"
+    }
+  ],
+  "timestamp": "2026-08-10T14:51:41.140456297Z",
+  "model": "glm-5.2"
+}

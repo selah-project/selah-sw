@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Ikawa Baasha aliposikia ⟨hilo⟩ akaacha kujenga ⟨את⟩ Rama, akakaa Tirza.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "aliposikia"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "akaacha"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "kujenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akakaa"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tirza"
+    }
+  ],
+  "timestamp": "2026-08-10T11:42:49.143498517Z",
+  "model": "glm-5.2"
+}

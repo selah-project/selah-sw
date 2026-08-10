@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na mjomba wa Shaul akasema: \"Niambie, tafadhali, Shemueli aliwaambia nini?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akasema"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "mjomba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "wa Shaul"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Niambie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tafadhali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aliwaambia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nyinyi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueli"
+    }
+  ],
+  "timestamp": "2026-08-10T14:51:56.612982822Z",
+  "model": "glm-5.2"
+}

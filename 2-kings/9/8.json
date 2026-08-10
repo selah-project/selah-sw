@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Na nyumba yote ya Ahabi itapotea, nami nitakata kwa Ahabi anayekojolea katika ukuta, na mfungwa na aliyeachwa, naye aliye huru, katika Yisraeli.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "na itapotea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ya Ahabi"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "nami nitakata"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "kwa Ahabi"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "anayekojolea"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "katika ukuta"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "na mfungwa"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "na aliyeachwa, naye aliye huru"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "katika Yisraeli"
+    }
+  ],
+  "timestamp": "2026-08-10T16:04:41.532452689Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Avraham akamkaribia, akasema: Je, utawafuta hata mwenye haki pamoja na mbaya?",
+  "tokens": [
+    {
+      "surface": "וַיִּגַּ֥שׁ",
+      "gloss": "akamkaribia"
+    },
+    {
+      "surface": "אַבְרָהָ֖ם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וַיֹּאמַ֑ר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "הַאַ֣ף",
+      "gloss": "Je, hata"
+    },
+    {
+      "surface": "תִּסְפֶּ֔ה",
+      "gloss": "utawafuta"
+    },
+    {
+      "surface": "צַדִּ֖יק",
+      "gloss": "mwenye haki"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "רָשָֽׁע",
+      "gloss": "mbaya"
+    }
+  ],
+  "timestamp": "2026-08-10T14:24:13.457376240Z",
+  "model": "glm-5.2"
+}

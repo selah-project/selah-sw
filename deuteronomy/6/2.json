@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 6:2",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Ili uogope ⟨את⟩ Yahweh Elohim wako, kushika amri zake zote na amri zake ambazo mimi nakuamrisha ⟨sikuzote⟩, wewe na mwanao na mwana wa mwanao, siku zote za maisha yako; na ili siku zako ziwe ndefu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ili"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "uogope"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kushika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amri zake zote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "amri zake"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "na amri zake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nakuamrisha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "na mwanao"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na mwana"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wa mwanao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "siku"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "za maisha yako"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "na ili"
+    },
+    {
+      "surface": "יארכן",
+      "gloss": "ziwe ndefu"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "siku zako"
+    }
+  ],
+  "timestamp": "2026-08-10T10:55:26.684374620Z",
+  "model": "glm-5.2"
+}

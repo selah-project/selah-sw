@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Kwa kicheko nikasema: Umezimu; na kwa shangwe: Hii inafanya nini?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "kwa kicheko"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nikasema"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "umezimu"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "na kwa shangwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "inafanya"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:24.566977972Z",
+  "model": "glm-5.2"
+}

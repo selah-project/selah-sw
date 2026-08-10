@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 76,
+  "translation": "Kwinuka kwa Elohim kuhukumu, kuokoa wote wanyenyekevu wa ⟨nchi⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "kwinuka kwa"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "kuhukumu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "kuokoa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "wanyenyekevu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:21.682854652Z",
+  "model": "glm-5.2"
+}

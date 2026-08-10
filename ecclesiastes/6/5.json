@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Hata jua halikuwa ⟨haliona⟩, wala halikujua; mtulivu una ⟨kwa⟩ huyo kuliko yule.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "Hata"
+    },
+    {
+      "surface": "שֶׁ֥מֶשׁ",
+      "gloss": "jua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "halikuwa"
+    },
+    {
+      "surface": "רָאָ֖ה",
+      "gloss": "⟨haliona⟩"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יָדָ֑ע",
+      "gloss": "halikujua"
+    },
+    {
+      "surface": "נַ֥חַת",
+      "gloss": "mtulivu"
+    },
+    {
+      "surface": "לָזֶ֖ה",
+      "gloss": "⟨kwa⟩ huyo"
+    },
+    {
+      "surface": "מִזֶּֽה",
+      "gloss": "kuliko yule"
+    }
+  ],
+  "timestamp": "2026-08-10T13:48:04.158105483Z",
+  "model": "glm-5.2"
+}

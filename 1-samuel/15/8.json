@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Akamshika ⟨את⟩ Agagi mfalme wa Amaleki, ⟨yeye⟩ akiwa hai; na ⟨את⟩ watu wote aliwahatarisha kwa kinywa cha upanga.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "akamshika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agagi"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agagi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "wa Amaleki"
+    },
+    {
+      "surface": "חי",
+      "gloss": "akiwa hai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "watu wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "aliwahatarisha"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "kwa kinywa cha"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "upanga"
+    }
+  ],
+  "timestamp": "2026-08-10T11:22:58.339773503Z",
+  "model": "glm-5.2"
+}

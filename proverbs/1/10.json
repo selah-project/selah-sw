@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Ee mwanangu, ikiwa watenda dhambi watakutia matafuni, usikubali.",
+  "tokens": [
+    {
+      "surface": "בְּנִ֡י",
+      "gloss": "Ee mwanangu"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "ikiwa"
+    },
+    {
+      "surface": "יְפַתּ֥וּךָ",
+      "gloss": "watakutia matafuni"
+    },
+    {
+      "surface": "חַ֝טָּאִ֗ים",
+      "gloss": "watenda dhambi"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תֹּבֵֽא",
+      "gloss": "kubali"
+    }
+  ],
+  "timestamp": "2026-08-10T13:21:12.018843544Z",
+  "model": "glm-5.2"
+}

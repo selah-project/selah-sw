@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Yahweh akaongea na Moshe, akisema:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֥ר",
+      "gloss": "akaongea"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "akisema"
+    }
+  ],
+  "timestamp": "2026-08-10T15:53:07.537347511Z",
+  "model": "glm-5.2"
+}

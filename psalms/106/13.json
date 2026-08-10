@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 106,
+  "translation": "Wakaharakusha, wakasahau matendo yake; hawakungoja mawazo yake,",
+  "tokens": [
+    {
+      "surface": "מֽ֭הֲרוּ",
+      "gloss": "waliharakisha"
+    },
+    {
+      "surface": "שָׁכְח֣וּ",
+      "gloss": "wakasahau"
+    },
+    {
+      "surface": "מַעֲשָׂ֑יו",
+      "gloss": "matendo yake"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "hawaku"
+    },
+    {
+      "surface": "חִ֝כּ֗וּ",
+      "gloss": "ngoja"
+    },
+    {
+      "surface": "לַעֲצָתֽוֹ",
+      "gloss": "mawazo yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:30.034346260Z",
+  "model": "glm-5.2"
+}

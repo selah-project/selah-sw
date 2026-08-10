@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Nimehubiri haki katika kusanyiko kubwa; tazama, mimi nisizuie, Yahweh, wewe ⟨umeyejua⟩.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "nimehubiri"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "haki"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "katika kusanyiko"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "midomo yangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "nizuie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "umeyejua"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:47.169445621Z",
+  "model": "glm-5.2"
+}

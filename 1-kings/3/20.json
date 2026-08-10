@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Akaamka katikati ya usiku, akauchukua ⟨את⟩ mwana wangu kutoka kwangu, hali wajakazi wako amelala, akamweka tumboni mwake; na ⟨את⟩ mwana wake aliyeufa alimweka tumboni mwangu.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "akaamka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "katikati"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ya usiku"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "akauchukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wangu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wangu"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "kutoka kwangu"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "wajakazi wako"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "amelala"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "akamweka"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "tumboni mwake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mwana wake aliyeufa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "המת",
+      "gloss": "aliyeufa"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "alimweka"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "tumboni mwangu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:38:02.533734754Z",
+  "model": "glm-5.2"
+}

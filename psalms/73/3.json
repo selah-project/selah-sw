@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 73,
+  "translation": "Kwa kuwa nikijivunia juu ya wapumbavu, amani ya waovu niliiona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "nikijivunia"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "juu ya wapumbavu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "amani"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya waovu"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "niliiona"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:18.520845589Z",
+  "model": "glm-5.2"
+}

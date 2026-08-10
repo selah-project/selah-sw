@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na Moshe akamkaribisha ⟨את⟩ Aharon na ⟨את⟩ wanawe, akawaosha ⟨אתם⟩ kwa maji.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Na akamkaribisha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wanawe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "akawaosha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Aharon na wanawe"
+    },
+    {
+      "surface": "במים",
+      "gloss": "kwa maji"
+    }
+  ],
+  "timestamp": "2026-08-10T10:33:06.707111513Z",
+  "model": "glm-5.2"
+}

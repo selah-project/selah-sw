@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 79,
+  "translation": "Hata lini, Yahweh? Utakasirika milele? Je, wivu wako utawaka kama moto?",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "hata"
+    },
+    {
+      "surface": "מָ֣ה",
+      "gloss": "lini"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תֶּאֱנַ֣ף",
+      "gloss": "utakasirika"
+    },
+    {
+      "surface": "לָנֶ֑צַח",
+      "gloss": "milele"
+    },
+    {
+      "surface": "תִּבְעַ֥ר",
+      "gloss": "utawaka"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אֵ֝֗שׁ",
+      "gloss": "moto"
+    },
+    {
+      "surface": "קִנְאָתֶֽךָ",
+      "gloss": "wivu wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:16.084847086Z",
+  "model": "glm-5.2"
+}

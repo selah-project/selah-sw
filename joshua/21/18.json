@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "⟨את⟩ Anathoth na ⟨את⟩ mifereji yake, na ⟨את⟩ Almon na ⟨את⟩ mifereji yake — miji minne.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anathoth"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mifereji yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mifereji yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Almon"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "Almon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mifereji yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mifereji yake"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miji"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minne"
+    }
+  ],
+  "timestamp": "2026-08-10T11:10:42.780072748Z",
+  "model": "glm-5.2"
+}

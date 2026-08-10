@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Oy, nchi ya mvumo wa mabawa, ambali ⟨ipo⟩ ng'ambo ya mto wa Kush.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Oy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "ya mvumo"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "wa mabawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambali"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ng'ambo"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "ya mto"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "wa Kush"
+    }
+  ],
+  "timestamp": "2026-08-10T11:58:47.848867417Z",
+  "model": "glm-5.2"
+}

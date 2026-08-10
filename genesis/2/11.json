@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Jina la moja ⟨ni⟩ Pishon; ⟨hiyo⟩ ndiyo inayozunguka ⟨את⟩ nchi yote ya Havilah, ambapo kuna dhahabu.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Jina"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "la moja"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pishon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hiyo⟩ ndiyo"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "inayozunguka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya nchi"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Havilah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dhahabu"
+    }
+  ],
+  "timestamp": "2026-08-10T17:40:25.437014170Z",
+  "model": "glm-5.2"
+}

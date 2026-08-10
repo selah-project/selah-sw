@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Kwa maana hasira huua mpumbavu, na wivu huua mtu mpumbavu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa maana"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "mpumbavu"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "huua"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "hasira"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "na wivu huua"
+    },
+    {
+      "surface": "תמית",
+      "gloss": ""
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "mtu mpumbavu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:32:27.227460801Z",
+  "model": "glm-5.2"
+}

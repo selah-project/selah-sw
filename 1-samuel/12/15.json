@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Lakini msiposikiliza sauti ya Yahweh na kutoasi ⟨את⟩ kauli ya Yahweh, basi mkono wa Yahweh utakuwa juu yenu na juu ya baba zenu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Lakini msipo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨sipo⟩"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "sikiliza"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sauti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "na kutoasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kauli"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kauli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "basi itakuwa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "juu yenu"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "na juu ya baba zenu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:21:53.420741799Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 1:30",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na kwa kila mnyama wa ⟨hiyo⟩ nchi, na kwa kila ndege wa mbingu, na kwa kila kitu kinachotambaa juu ya ⟨hiyo⟩ nchi, ambacho ndani yake ⟨kuna⟩ nefesh yenye uhai, ⟨mimi nimepa⟩ ⟨את⟩ kila mimea ya kijani kwa chakula. Na ikawa hivyo.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "na kwa kila"
+    },
+    {
+      "surface": "חית",
+      "gloss": "mnyama"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa ⟨hiyo⟩ nchi"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na kwa kila"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ndege"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wa mbingu"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na kwa kila"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "kitu kinachotambaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨hiyo⟩ nchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambacho"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ndani yake"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "yenye uhai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kila mimea ya kijani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "mimea ya kijani"
+    },
+    {
+      "surface": "עשב",
+      "gloss": ""
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "kwa chakula"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ikawa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hivyo"
+    }
+  ],
+  "timestamp": "2026-08-10T17:40:12.201447730Z",
+  "model": "glm-5.2"
+}

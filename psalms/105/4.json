@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 105,
+  "translation": "Mtafuteni Yahweh na nguvu zake, tafuteni uso wake daima.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Mtafuteni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "na nguvu zake"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "tafuteni"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uso wake"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    }
+  ],
+  "timestamp": "2026-08-10T13:14:20.005182609Z",
+  "model": "glm-5.2"
+}

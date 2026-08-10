@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Mpinza anayeozaa mateso kwa wote, ni kama anayea jipu ⟨hata⟩ mpumbavu, ⟨na⟩ anayea jipu waopita mipaka.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "mpinza"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "anayeozaa mateso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwa wote"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ni kama anayea jipu"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "mpumbavu"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "na anayea jipu"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "waopita mipaka"
+    }
+  ],
+  "timestamp": "2026-08-10T15:31:52.259719829Z",
+  "model": "glm-5.2"
+}

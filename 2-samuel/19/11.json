@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na Avshalom ambaye tumpaka mafuta juu yetu amekufa vitani; na sasa kwa nini nyinyi mnanyamaza kurudisha ⟨את⟩ mfalme?",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Na Avshalom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "tumpaka mafuta"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "juu yetu"
+    },
+    {
+      "surface": "מת",
+      "gloss": "amekufa"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "vitani"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "na sasa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kwa nini"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nyinyi"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "mnanyamaza"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "kurudisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfalme"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    }
+  ],
+  "timestamp": "2026-08-10T11:35:08.095365578Z",
+  "model": "glm-5.2"
+}

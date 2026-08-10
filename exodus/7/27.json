@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Na ukikataa kuwachilia, tazama, mimi napiga ⟨את⟩ nchi yako yote kwa vyura.",
+  "tokens": [
+    {
+      "surface": "וְאם",
+      "gloss": "na ukikataa"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "kukataa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kuwachilia"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "napiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchi yako yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "nchi yako"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "kwa vyura"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:51.899377823Z",
+  "model": "glm-5.2"
+}

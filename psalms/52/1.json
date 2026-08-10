@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 52,
+  "translation": "Kwa mwongozaji. Mashkili ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwongozaji"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Mashkili"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:54.189024861Z",
+  "model": "glm-5.2"
+}

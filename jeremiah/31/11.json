@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Kwa kuwa Yahweh amekomboa ⟨את⟩ Yakovu, na kumlinda, kutoka kwa mkono wa yule aliye na nguvu kuliko yeye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "amekomboa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakovu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakovu"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "na kumlinda"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kutoka kwa mkono"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "wa yule aliye na nguvu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuliko yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T15:13:39.505506786Z",
+  "model": "glm-5.2"
+}

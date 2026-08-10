@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 84,
+  "translation": "Ngao yetu, ona, Ee Elohim, na uangalie ⟨usemo⟩ wa Mashíaj wako.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "Ngao yetu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Ee Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "na uangalie"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨usemo⟩ wa"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashíaj wako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:05.722278911Z",
+  "model": "glm-5.2"
+}

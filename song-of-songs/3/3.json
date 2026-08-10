@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Walinzi wanaozunguka mji walinipata; ⟨je,⟩ mlimwona ⟨את⟩ yule anayependwa na nafsi yangu?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "walinipata"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "walinzi"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "wanaozunguka"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yule anayependwa"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "anayependwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "mlimwona"
+    }
+  ],
+  "timestamp": "2026-08-10T13:42:00.059933166Z",
+  "model": "glm-5.2"
+}

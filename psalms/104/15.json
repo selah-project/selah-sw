@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 104,
+  "translation": "Na divai ⟨inayo⟩ furahisha moyo wa mwanadamu, kwa kumwangaza nyuso kwa mafuta, na mkate moyo wa mwanadamu ⟨huu⟩ nguzo.",
+  "tokens": [
+    {
+      "surface": "וְיַיִן",
+      "gloss": "Na divai"
+    },
+    {
+      "surface": "יְשַׂמַּח",
+      "gloss": "⟨inayo⟩ furahisha"
+    },
+    {
+      "surface": "לְבַב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "אֱנוֹשׁ",
+      "gloss": "wa mwanadamu"
+    },
+    {
+      "surface": "לְהַצְהִיל",
+      "gloss": "kwa kumwangaza"
+    },
+    {
+      "surface": "פָּנִים",
+      "gloss": "nyuso"
+    },
+    {
+      "surface": "מִשָּׁמֶן",
+      "gloss": "kwa mafuta"
+    },
+    {
+      "surface": "וְלֶחֶם",
+      "gloss": "na mkate"
+    },
+    {
+      "surface": "לְבַב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "אֱנוֹשׁ",
+      "gloss": "wa mwanadamu"
+    },
+    {
+      "surface": "יִסְעָד",
+      "gloss": "⟨huu⟩ nguzo"
+    }
+  ],
+  "timestamp": "2026-08-10T13:13:41.094547848Z",
+  "model": "glm-5.2"
+}

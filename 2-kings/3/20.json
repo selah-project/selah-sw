@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Ikawa asubuhi, wakati wa kupanda wa dawa ya kiamsha, na tazama, maji yamekuja kwa njia ya Edomu, na nchi ikajaa ⟨na⟩ ⟨את⟩ maji.",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֤י",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "בַבֹּ֨קֶר֙",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "כַּעֲל֣וֹת",
+      "gloss": "wakati wa kupanda wa"
+    },
+    {
+      "surface": "הַמִּנְחָ֔ה",
+      "gloss": "dawa ya kiamsha"
+    },
+    {
+      "surface": "וְהִנֵּה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "מַ֥יִם",
+      "gloss": "maji"
+    },
+    {
+      "surface": "בָּאִ֖ים",
+      "gloss": "yamekuja"
+    },
+    {
+      "surface": "מִדֶּ֣רֶךְ",
+      "gloss": "kwa njia ya"
+    },
+    {
+      "surface": "אֱד֑וֹם",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "וַתִּמָּלֵ֥א",
+      "gloss": "na ikajaa"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "maji"
+    },
+    {
+      "surface": "הַמָּֽיִם",
+      "gloss": "maji"
+    }
+  ],
+  "timestamp": "2026-08-10T11:46:50.192162816Z",
+  "model": "glm-5.2"
+}

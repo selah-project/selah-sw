@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 64,
+  "translation": "Ambao wao wakatia makali kama upanga ulimi wao, wakapiga mshale wao — neno chungu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ambao"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "wakatia makali"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "kama upanga"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ulimi wao"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "wakapiga"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "mshale wao"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neno"
+    },
+    {
+      "surface": "מר",
+      "gloss": "chungu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:04:56.972161257Z",
+  "model": "glm-5.2"
+}

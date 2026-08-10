@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 68,
+  "translation": "Wakuu watatokea Mitsrayim, Kush itakimbia kuinua mikono yake ⟨kuelekea⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "watatokea"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "wakuu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "itakimbia"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "mikono yake"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T13:06:55.831667979Z",
+  "model": "glm-5.2"
+}

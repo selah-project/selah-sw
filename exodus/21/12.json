@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Mtu anayepiga ⟨את⟩ mtu na akafa — kwa kifo atafunguliwa.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "anayepiga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "na akafa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kwa kifo"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "atafunguliwa"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:02.431401758Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na Eifah, suria ya Kalev, alizaa ⟨את⟩ Haran na ⟨את⟩ Motza na ⟨את⟩ Gazez; na Haran alimzaa ⟨את⟩ Gazez.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "Na Eifah"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "suria"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ya Kalev"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Motza"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Gazez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazez"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "na Haran"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazez"
+    }
+  ],
+  "timestamp": "2026-08-10T14:03:25.787180898Z",
+  "model": "glm-5.2"
+}

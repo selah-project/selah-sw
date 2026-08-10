@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Niawaje, mimi peke yangu, kuibeva mzigo wenu na shehena yenu na migogoro yenu?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "niawaje"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "kuibeva"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "peke yangu"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "uchovu wenu"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "na mzigo wenu"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "na migogoro yenu"
+    }
+  ],
+  "timestamp": "2026-08-10T14:40:36.781188374Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 116,
+  "translation": "Ya thamani machoni pa Yahweh ⟨ni⟩ kufa kwa wachungwa wake.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "ya thamani"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "machoni pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "kwa wachungwa wake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:16:40.013057195Z",
+  "model": "glm-5.2"
+}

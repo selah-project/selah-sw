@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Nguo yangu nilifanya ⟨kuwa⟩ gunia, nikawa kwao kwa methali.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "nilifanya"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "nguo yangu"
+    },
+    {
+      "surface": "שק",
+      "gloss": "gunia"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "nikawa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "kwa methali"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:32.810791355Z",
+  "model": "glm-5.2"
+}

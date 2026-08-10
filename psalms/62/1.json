@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 62,
+  "translation": "Kwa mwongoza ⟨wa⟩ muziki, ⟨kwa⟩ Yeduthuni. Zaburi ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa mwongoza"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨wa⟩"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yeduthuni"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Zaburi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:12.756482370Z",
+  "model": "glm-5.2"
+}

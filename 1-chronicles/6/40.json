@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Wakawapa ⟨את⟩ Chebroni katika nchi ya Yehudha, na ⟨את⟩ malisho yake yaliyo pembezoni mwake.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "wakawapa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chebroni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebroni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "malisho yake"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "malisho yake"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "yaliyo pembezoni mwake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:05:53.239953041Z",
+  "model": "glm-5.2"
+}

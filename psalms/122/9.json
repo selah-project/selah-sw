@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 122,
+  "translation": "Kwa ajili ya nyumba ya Yahweh Elohim wetu, nitatafuta kwa ajili yako mema.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Kwa ajili ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wetu"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "nitatafuta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mema"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa ajili yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:04.933540144Z",
+  "model": "glm-5.2"
+}

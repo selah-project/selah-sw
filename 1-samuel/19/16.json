@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 19:16",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na wajumbe wakaingia, na tazama, terafimu ⟨zilikuwa⟩ kitandani, na mto wa nywele za mbuzi mwenye kutega kichwa chake.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Na wakaingia"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "wajumbe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kitandani"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "kitanda"
+    },
+    {
+      "surface": "וכביר",
+      "gloss": "na mto (wa nywele za mbuzi)"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "za mbuzi"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "mwenye kutega kichwa chake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:25:09.394980157Z",
+  "model": "glm-5.2"
+}

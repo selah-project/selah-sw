@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 109,
+  "translation": "Watoto wake na wahitimu yatimà, na mke wake awe mjane.",
+  "tokens": [
+    {
+      "surface": "יִֽהְיוּ",
+      "gloss": "na wahitimu"
+    },
+    {
+      "surface": "בָנָ֥יו",
+      "gloss": "watoto wake"
+    },
+    {
+      "surface": "יְתוֹמִ֑ים",
+      "gloss": "yatimà"
+    },
+    {
+      "surface": "וְ֝אִשְׁתּוֹ",
+      "gloss": "na mke wake"
+    },
+    {
+      "surface": "אַלְמָנָֽה",
+      "gloss": "mjane"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:34.484081932Z",
+  "model": "glm-5.2"
+}

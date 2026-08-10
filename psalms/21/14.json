@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Inukue, Yahweh, kwa nguvu zako; tutaima na kumzambia nguvu zako.",
+  "tokens": [
+    {
+      "surface": "ר֣וּמָה",
+      "gloss": "Inukue"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בְּעֻזֶּ֑ךָ",
+      "gloss": "kwa nguvu zako"
+    },
+    {
+      "surface": "נָשִׁ֥ירָה",
+      "gloss": "tutaimba"
+    },
+    {
+      "surface": "וּֽ֝נְזַמְּרָה",
+      "gloss": "na kumzambia"
+    },
+    {
+      "surface": "גְּבוּרָתֶֽךָ",
+      "gloss": "nguvu zako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:42.681189839Z",
+  "model": "glm-5.2"
+}

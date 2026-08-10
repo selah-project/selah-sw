@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Maana mtu yoyote ambaye atamlaani ⟨את⟩ baba yake na ⟨את⟩ mama yake, kifo cha kuuliwa; baba yake na mama yake amelaani, damu yake ⟨ni⟩ juu yake.",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "אִ֗ישׁ",
+      "gloss": "yoyote"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "יְקַלֵּ֧ל",
+      "gloss": "atamlaani"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "baba yake"
+    },
+    {
+      "surface": "אָבִ֛יו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mama yake"
+    },
+    {
+      "surface": "אִמּ֖וֹ",
+      "gloss": "mama yake"
+    },
+    {
+      "surface": "מ֣וֹת",
+      "gloss": "kifo"
+    },
+    {
+      "surface": "יוּמָ֑ת",
+      "gloss": "cha kuuliwa"
+    },
+    {
+      "surface": "אָבִ֧יו",
+      "gloss": "baba yake"
+    },
+    {
+      "surface": "וְאִמּ֛וֹ",
+      "gloss": "na mama yake"
+    },
+    {
+      "surface": "קִלֵּ֖ל",
+      "gloss": "amelaani"
+    },
+    {
+      "surface": "דָּמָ֥יו",
+      "gloss": "damu yake"
+    },
+    {
+      "surface": "בּֽוֹ",
+      "gloss": "juu yake"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:54.606228809Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Na utafanya nguo za utakatifu kwa ajili ya Aharoni kaka yako, kwa utukufu na kwa mapambo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Na utafanya"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "nguo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "za utakatifu"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kwa ajili ya Aharoni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kaka yako"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "kwa utukufu"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "na kwa mapambo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:26:19.261327776Z",
+  "model": "glm-5.2"
+}

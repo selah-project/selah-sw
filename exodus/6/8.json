@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Nami nitaleta ninyi ⟨⟨ ndani ya⟩⟩ nchi ambayo niliyanyosha ⟨את⟩ mkono wangu kuita Avraham, Yitschak, na Ya'akov, nami nitawapa ⟨את⟩ ninyi kuwa urithi wenu; mimi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "Nami nitaleta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndani ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "niliyanyosha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wangu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mkono wangu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "na Ya'akov"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "nami nitawapa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "urithi wenu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:18:25.816248554Z",
+  "model": "glm-5.2"
+}

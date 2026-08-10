@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Walanituma kwa neno hili mara nne, nami nikawajibu kwa neno hili.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "walanituma"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kwa neno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nne"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mara"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "nami nikawajibu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "neno"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kwa neno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hili"
+    }
+  ],
+  "timestamp": "2026-08-10T14:00:01.423720269Z",
+  "model": "glm-5.2"
+}

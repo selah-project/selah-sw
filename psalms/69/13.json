@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 69,
+  "translation": "Wanaozungumza juu yangu watakaozi mlangoni, na nyimbo za wanywaji wa pombe ⟨ni⟩.",
+  "tokens": [
+    {
+      "surface": "יָשִׂ֣יחוּ",
+      "gloss": "wanazungumza"
+    },
+    {
+      "surface": "בִ֭י",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "יֹ֣שְׁבֵי",
+      "gloss": "watakaozi"
+    },
+    {
+      "surface": "שָׁ֑עַר",
+      "gloss": "mlangoni"
+    },
+    {
+      "surface": "וּ֝נְגִינ֗וֹת",
+      "gloss": "na nyimbo"
+    },
+    {
+      "surface": "שׁוֹתֵ֥י",
+      "gloss": "wa wanywaji"
+    },
+    {
+      "surface": "שֵׁכָֽר",
+      "gloss": "pombe"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:59.587214044Z",
+  "model": "glm-5.2"
+}

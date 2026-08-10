@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Na Yaakov akatuma wajumbe mbele yake, kwa Esavu ndugu yake, nchi ya Seiri, shamba la Edomu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Na akatuma"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "wajumbe"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbele yake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu yake"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nchi ya"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seiri"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "shamba la"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:10:31.616488651Z",
+  "model": "glm-5.2"
+}

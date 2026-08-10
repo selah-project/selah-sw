@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Akapasua bahari, naakuwaletesha ⟨pita⟩, naakusimamisha maji kama umoja wa wimbi.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "Akapasua"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "naakuwaletesha ⟨pita⟩"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "naakusimamisha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kama"
+    },
+    {
+      "surface": "נד",
+      "gloss": "umoja wa wimbi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:08:16.933846116Z",
+  "model": "glm-5.2"
+}

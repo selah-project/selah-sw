@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 52:15",
+  "book": "jeremiah",
+  "lang": "sw",
+  "chapter": 52,
+  "translation": "Na wengine miongoni mwa maskini wa watu, na ⟨את⟩ mabaki ya watu waliobaki katika jiji, na ⟨את⟩ waliokimbia waliomkimbia mfalme wa Bavel, na ⟨את⟩ mabaki ya umati — aliwahamisha Nebuzaradan, mkuu wa wachinjaji.",
+  "tokens": [
+    {
+      "surface": "ומדלות",
+      "gloss": "na wengine miongoni mwa maskini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wa watu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mabaki"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "mabaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya watu"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "waliobaki"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "katika jiji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waliokimbia"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "waliokimbia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "walio"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "kumkimbia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Bavel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mabaki"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "mabaki"
+    },
+    {
+      "surface": "האמון",
+      "gloss": "ya umati"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "aliwahamisha"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mkuu"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa wachinjaji"
+    }
+  ],
+  "timestamp": "2026-08-10T18:28:33.037498840Z",
+  "model": "glm-5.2"
+}

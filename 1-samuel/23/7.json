@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Ikamhabiriwa Shauli ya kwamba David amekuja Keila; na Shauli akasema, «Elohim amempa ⟨את⟩ mkononi mwangu, kwa maana amefungwa, kwa kuingia ⟨ndani⟩ ya mji wenye milango na vilango vya mbao.»",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ikamhabiriwa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "בא",
+      "gloss": "amekuja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauli"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "amempa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye (David)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "mkononi mwangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "amefungwa"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kwa kuingia"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "⟨ndani⟩ ya mji"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "wenye milango"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "na vilango vya mbao"
+    }
+  ],
+  "timestamp": "2026-08-10T17:59:47.883862622Z",
+  "model": "glm-5.2"
+}

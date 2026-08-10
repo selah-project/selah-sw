@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 20:18",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 20,
+  "translation": "Na mtu ambaye atalala na ⟨את⟩ mwanamke mwenye ugonjwa wa damu, na kufunua ⟨את⟩ uchi wake — ⟨את⟩ chemchemi yake ameifunua; naye yeye amefunua ⟨את⟩ chemchemi ya damu yake; wote wawili watakatiliwa katikati ya watu wao.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na mtu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "atalala na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanamke mwenye ugonjwa wa damu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwanamke"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "mwenye ugonjwa wa damu"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "na kufunua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uchi wake"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "uchi wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chemchemi yake"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "chemchemi yake"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "ameifunua"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "naye yeye"
+    },
+    {
+      "surface": "גלתה",
+      "gloss": "amefunua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chemchemi ya damu yake"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "chemchemi"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "ya damu yake"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "watakatiliwa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wote wawili"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "katikati ya"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "watu wao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:35:38.671566910Z",
+  "model": "glm-5.2"
+}

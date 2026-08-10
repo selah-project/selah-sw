@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Nilijifanyia mabustani na mashamba ya miti, na kupanda ndani yake miti ya kila ⟨aina ya⟩ tunda.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "nilifanya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ajili yangu"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "mabustani"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "na mashamba ya miti"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "na kupanda"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ndani yake"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "miti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya kila"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "tunda"
+    }
+  ],
+  "timestamp": "2026-08-10T13:46:27.247873693Z",
+  "model": "glm-5.2"
+}

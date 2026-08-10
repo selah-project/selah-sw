@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Tazama, kwa haki mfalme atatawala, na wakuu kwa hukumu watatawala.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "kwa haki"
+    },
+    {
+      "surface": "יִמְלָךְ",
+      "gloss": "atatawala"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "וּלְשָׂרִים",
+      "gloss": "na wakuu"
+    },
+    {
+      "surface": "לְמִשְׁפָּט",
+      "gloss": "kwa hukumu"
+    },
+    {
+      "surface": "יָשֹֽׂרוּ",
+      "gloss": "watatawala"
+    }
+  ],
+  "timestamp": "2026-08-10T12:02:09.012724435Z",
+  "model": "glm-5.2"
+}

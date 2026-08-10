@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Wakawahukumu ⟨את⟩ taifa wakati wote; ⟨את⟩ jambo ngumu walimletea kwa Moshe, na kila jambo dogo wakahukumu ⟨wao⟩ wenyewe.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "Wakawahukumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taifa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wakati wote"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jambo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ngumu"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "walimletea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na kila"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jambo"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "dogo"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "wakahukumu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wao wenyewe"
+    }
+  ],
+  "timestamp": "2026-08-10T14:29:24.237338752Z",
+  "model": "glm-5.2"
+}

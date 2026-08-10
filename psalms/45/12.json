@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 45,
+  "translation": "Na mfalme atatamani uzuri wako; kwa kuwa yeye ni bwana wako, na umwinamie.",
+  "tokens": [
+    {
+      "surface": "וְיִתְאָ֣ו",
+      "gloss": "na atatamani"
+    },
+    {
+      "surface": "הַמֶּ֣לֶךְ",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "יָפְיֵ֑ךְ",
+      "gloss": "uzuri wako"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "אֲ֝דֹנַ֗יִךְ",
+      "gloss": "ni bwana wako"
+    },
+    {
+      "surface": "וְהִשְׁתַּֽחֲוִי",
+      "gloss": "na umwinamie"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "mbele yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:16.652672871Z",
+  "model": "glm-5.2"
+}

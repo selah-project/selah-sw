@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Semeni ⟨kuhusu⟩ mwenye haki, kwamba ni vyema, kwa kuwa matunda ya matendo yao watayala.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "semeni"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mwenye haki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ni vyema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "matunda"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ya matendo yao"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "watayala"
+    }
+  ],
+  "timestamp": "2026-08-10T11:54:30.638348866Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Akaiweka ⟨את⟩ maiti yake katika kaburi lake, wakamsomea juu yake: \"Lole, ndugu yangu!\"",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "na akaiweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maiti yake"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "maiti yake"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "katika kaburi lake"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "wakamsomea"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "juu yake"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "lole"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ndugu yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:42:08.363514548Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Mwana wa adamu, mjulishe Yerushalayim machukizo yake:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa adamu"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "mjulishe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "machukizo yake"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "machukizo yake"
+    }
+  ],
+  "timestamp": "2026-08-10T15:16:07.069727821Z",
+  "model": "glm-5.2"
+}

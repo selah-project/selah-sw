@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Nayo Moabu ilifanya uasi dhidi ya Yisraeli baada ya kufa kwa Achab.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "nayo ilifanya uasi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "dhidi ya Yisraeli"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa kwa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    }
+  ],
+  "timestamp": "2026-08-10T15:01:19.905610864Z",
+  "model": "glm-5.2"
+}

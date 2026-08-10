@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "nami nitawapa nyasi shambani kwako kwa wanyama wako, na utakula na kushiba",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nami nitawapa"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "nyasi"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "shambani kwako"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "kwa wanyama wako"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "na utakula"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "na kushiba"
+    }
+  ],
+  "timestamp": "2026-08-10T10:56:44.154257303Z",
+  "model": "glm-5.2"
+}

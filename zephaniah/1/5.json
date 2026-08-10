@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na ⟨את⟩ wanaoinama juu ya paa kwa jeshi la mbingu, na ⟨את⟩ wanaoinama, wanaoapa kwa Yahweh, na wanaoapa kwa Malkam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wanaoinama"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "wanaoinama"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "paa"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "kwa jeshi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wanaoinama"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "wanaoinama"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "wanaoapa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "na wanaoapa"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "kwa Malkam"
+    }
+  ],
+  "timestamp": "2026-08-10T12:49:40.257679832Z",
+  "model": "glm-5.2"
+}

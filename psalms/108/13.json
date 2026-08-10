@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 108,
+  "translation": "Tupa msaada dhidi ya shida, maana ni ubatilifu wokovu wa binadamu.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "tupa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "msaada"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "shida"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "na ubatilifu"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "wokovu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "binadamu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:04.885181146Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na Elohim akawa ⟨את⟩ kijana, naye akakua; akakaa jangwani, naye akawa mstahamilivu wa upinde.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na akawa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ pamoja na"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "kijana"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "naye akakua"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akakaa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "jangwani"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "naye akawa"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mstahamilivu"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "wa upinde"
+    }
+  ],
+  "timestamp": "2026-08-10T10:06:39.197693972Z",
+  "model": "glm-5.2"
+}

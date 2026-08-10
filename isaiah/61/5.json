@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 61,
+  "translation": "Na wageni watasimama na kulisha kundi lako, na wana wa watu wa nje watakuwa wakulima wako na watunzaji wa shamba la mizabibu wako.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "na watasimama"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "wageni"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "na watalisha"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "kundi lako"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na wana wa"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "watu wa nje"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "watakuwa wakulima wako"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "na watunzaji wa shamba la mizabibu wako"
+    }
+  ],
+  "timestamp": "2026-08-10T15:09:23.511879986Z",
+  "model": "glm-5.2"
+}

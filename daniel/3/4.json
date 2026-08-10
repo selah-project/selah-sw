@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na mwenye kutangaza aliita kwa sauti kubwa, ⟨akiwaambia⟩: «Enyi watu, mataifa, na lugha,",
+  "tokens": [
+    {
+      "surface": "וְכָרוֹזָ֖א",
+      "gloss": "Na mwenye kutangaza"
+    },
+    {
+      "surface": "קָרֵ֣א",
+      "gloss": "aliita"
+    },
+    {
+      "surface": "בְחָ֑יִל",
+      "gloss": "kwa sauti kubwa"
+    },
+    {
+      "surface": "לְכ֤וֹן",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "אָֽמְרִין֙",
+      "gloss": "⟨akiwaambia⟩"
+    },
+    {
+      "surface": "עַמְמַיָּ֔א",
+      "gloss": "Enyi watu"
+    },
+    {
+      "surface": "אֻמַּיָּ֖א",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "וְלִשָּׁנַיָּֽא",
+      "gloss": "na lugha"
+    }
+  ],
+  "timestamp": "2026-08-10T13:52:07.338556293Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 74,
+  "translation": "Lakini Elohim ni mfalme wangu tangu zamani, mfanya wokovu katikati ya ⟨nchi⟩.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Lakini Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ni mfalme wangu"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "tangu zamani"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "mfanya"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "wokovu"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "katikati ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨nchi⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T15:26:51.826598782Z",
+  "model": "glm-5.2"
+}

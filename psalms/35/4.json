@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 35,
+  "translation": "Wastahepe na waone aibu, wanaotafuta ⟨את⟩ nafsi yangu; warudi nyuma na waone machungu, wafikiriao ⟨⟨juu ya⟩⟩ ubaya wangu.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Wastahepe"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "na waone aibu"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "wanaotafuta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "warudi"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "nyuma"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "na waone machungu"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "wafikiriao"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ubaya wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:51.895281614Z",
+  "model": "glm-5.2"
+}

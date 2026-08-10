@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Akawaambia: Yahweh awe ⟨vivyo hivyo⟩ pamoja nanyi kama nitakavyowatuma ⟨את⟩ ninyi ⟨na⟩ ⟨את⟩ watoto wenu! Taabuni, maana maovu yako mbele za nyuso zenu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akawaambia"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "awe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vivyo hivyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "pamoja nanyi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "nitakavyowatuma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "watoto wenu"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "watoto wenu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "taabuni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "maovu"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "yako mbele za"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "nyuso zenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:10.197541254Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "na nitakuwaarusu ⟨kwa⟩ mimi katika imani, nawe nutajua ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "na nitakuwaarusu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨kwa⟩ mimi"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "katika imani"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "nawe nutajua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T12:40:54.617191215Z",
+  "model": "glm-5.2"
+}

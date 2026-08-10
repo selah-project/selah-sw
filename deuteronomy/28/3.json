@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 28,
+  "translation": "Umebarikiwa ⟨wewe⟩ mjini, na umebarikiwa ⟨wewe⟩ shambani.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "umebarikiwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mjini"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "na umebarikiwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "shambani"
+    }
+  ],
+  "timestamp": "2026-08-10T11:02:37.264164517Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Mimi ⟨ndiye⟩ gebêr aliyeona dhiki katika fimbo ya hasira yake.",
+  "tokens": [
+    {
+      "surface": "אֲנִ֤י",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "הַגֶּ֨בֶר֙",
+      "gloss": "gebêr"
+    },
+    {
+      "surface": "רָאָ֣ה",
+      "gloss": "aliyeona"
+    },
+    {
+      "surface": "עֳנִ֔י",
+      "gloss": "dhiki"
+    },
+    {
+      "surface": "בְּשֵׁ֖בֶט",
+      "gloss": "katika fimbo"
+    },
+    {
+      "surface": "עֶבְרָתֽוֹ",
+      "gloss": "ya hasira yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:44:25.769546125Z",
+  "model": "glm-5.2"
+}

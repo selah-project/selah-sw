@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 130,
+  "translation": "Yisra'el, itaraji ⟨kwa⟩ Yahweh; kwa kuwa pamoja na Yahweh ⟨kuna⟩ chesed (fadhili), na pamoja nake ⟨kuna⟩ ukombozi mwingi.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "itaraji"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "⟨kuna⟩ chesed (fadhili)"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "na pamoja nake ⟨kuna⟩ mwingi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamoja nake"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "ukombozi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:30.693446736Z",
+  "model": "glm-5.2"
+}

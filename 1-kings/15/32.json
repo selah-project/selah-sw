@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Na vita vilikuwapo kati ya Asa na kati ya Baasha mfalme wa Yisraeli siku zao zote.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "na vita"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "vilikuwapo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "siku zao"
+    }
+  ],
+  "timestamp": "2026-08-10T11:42:35.456259268Z",
+  "model": "glm-5.2"
+}

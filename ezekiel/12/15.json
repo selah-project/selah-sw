@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Nao watajua ya kwamba mimi ni Yahweh ninipowatawanya ⟨אותם⟩ matajini, na kuwatawanya ⟨אותם⟩ katika nchi.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "nao watajua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya kwamba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "ninipowatawanya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "matajini"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "matajini"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "na kuwatawanya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "katika nchi"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "katika nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T12:28:56.129161223Z",
+  "model": "glm-5.2"
+}

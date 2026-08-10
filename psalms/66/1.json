@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 66,
+  "translation": "Kwa mwongoza. Wimbo, mazabihu. Pigeni kelele kwa Elohim, nchi yote.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwongoza"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Wimbo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazabihu"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Pigeni kelele"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨yote⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:05:18.740800392Z",
+  "model": "glm-5.2"
+}

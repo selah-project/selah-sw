@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 24:32",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Basi mwanamume akaingia nyumbani, akafungua ngamia, akapa nyasi manyasi na chakula cha ngamia, naye akapa maji ya kuosha miguu yake na miguu ya watu ⟨walio⟩ ⟨pamoja⟩ na ⟨את⟩ yeye.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mwanamume"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "nyumbani"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "akafungua"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "ngamia"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "nyasi manyasi"
+    },
+    {
+      "surface": "ומספוא",
+      "gloss": "na chakula"
+    },
+    {
+      "surface": "לגמלים",
+      "gloss": "cha ngamia"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "naye akapa maji"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "ya kuosha"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "miguu yake"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "na miguu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ya watu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pamoja"
+    }
+  ],
+  "timestamp": "2026-08-10T10:07:39.554014614Z",
+  "model": "glm-5.2"
+}

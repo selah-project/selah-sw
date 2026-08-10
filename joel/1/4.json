@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Baki la gazami, ⟨ame⟩kula nzige; na baki la nzige, ⟨ame⟩kula yeleke; na baki la yeleke, ⟨ame⟩kula hasili.",
+  "tokens": [
+    {
+      "surface": "יֶתֶר",
+      "gloss": "Baki"
+    },
+    {
+      "surface": "הַגָּזָם",
+      "gloss": "la gazami"
+    },
+    {
+      "surface": "אָכַל",
+      "gloss": "amekula"
+    },
+    {
+      "surface": "הָאַרְבֶּה",
+      "gloss": "nzige"
+    },
+    {
+      "surface": "וְיֶתֶר",
+      "gloss": "na baki"
+    },
+    {
+      "surface": "הָאַרְבֶּה",
+      "gloss": "la nzige"
+    },
+    {
+      "surface": "אָכַל",
+      "gloss": "amekula"
+    },
+    {
+      "surface": "הַיָּלֶק",
+      "gloss": "yeleke"
+    },
+    {
+      "surface": "וְיֶתֶר",
+      "gloss": "na baki"
+    },
+    {
+      "surface": "הַיֶּלֶק",
+      "gloss": "la yeleke"
+    },
+    {
+      "surface": "אָכַל",
+      "gloss": "amekula"
+    },
+    {
+      "surface": "הֶחָסִיל",
+      "gloss": "hasili"
+    }
+  ],
+  "timestamp": "2026-08-10T12:43:33.816109035Z",
+  "model": "glm-5.2"
+}

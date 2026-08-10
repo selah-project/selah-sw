@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Ikawa kwa sababu wana wa Yisraeli walitenda dhambi dhidi ya Yahweh, Elohim wao, ambaye aliwapandisha ⟨את⟩ wao kutoka katika nchi ya Mitsrayim, kutoka chini ya mkono wa Paroh, mfalme wa Mitsrayim, nao wakaogopa miungu mingine.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "walitenda dhambi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dhidi ya Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wao"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "ambaye aliwapandisha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kutoka katika nchi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayim"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "kutoka chini"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ya mkono"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "nao wakaogopa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "miungu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "mingine"
+    }
+  ],
+  "timestamp": "2026-08-10T11:51:05.162111283Z",
+  "model": "glm-5.2"
+}

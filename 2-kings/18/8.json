@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Yeye aliwapiga ⟨את⟩ Wapelesheti hadi Aza, na ⟨את⟩ mipaka yake, kutoka Mnara wa Walinzi hadi mji ulio imara.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "aliwapiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Wapelesheti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Wapelesheti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mipaka yake"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "mipaka yake"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "kutoka Mnara wa"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "Walinzi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mji ulio imara"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-10T11:50:44.847379121Z",
+  "model": "glm-5.2"
+}

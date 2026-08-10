@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 6:18",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "David alipomaliza kutoa sadaka ya mwali na ⟨sadaka za amani⟩, akawabariki ⟨את⟩ watu kwa jina la Yahweh Sebaot.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "alipomaliza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "kutoa sadaka ya mwali"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "⟨mwali⟩"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "na ⟨sadaka za amani⟩"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akawabariki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "watu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "kwa jina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    }
+  ],
+  "timestamp": "2026-08-10T14:55:59.583241205Z",
+  "model": "glm-5.2"
+}

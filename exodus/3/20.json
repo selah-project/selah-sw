@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Nami nitaunyosha mkono wangu ⟨⟨את⟩⟩, nikipiga Mitsrayim kwa ⟨⟨את⟩⟩ ajabu zangu zote nitakazozifanya kati yake; na baada ya hayo atakuwaacheni.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Nami nitaunyosha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wangu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mkono wangu"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "nikipiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "ajabu zangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zote"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nitakazozifanya"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "kati yake"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "na baada"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya hayo"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "atakuwaacheni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ninyi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:00.229764858Z",
+  "model": "glm-5.2"
+}

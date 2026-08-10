@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Manyasi hukauka, ua hukunyauka, lakini neno la Elohim wetu hudumu milele.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "hukauka"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "Manyasi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "hukunyauka"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ua"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "lakini neno"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "la Elohim wetu"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "hudumu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T12:04:10.389291897Z",
+  "model": "glm-5.2"
+}

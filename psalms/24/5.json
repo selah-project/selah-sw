@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Yeye atapokea ⟨את⟩ baraka kutoka kwa Yahweh, na ⟨את⟩ haki kutoka kwa Elohim wa wokovu wake.",
+  "tokens": [
+    {
+      "surface": "יִשָּׂא",
+      "gloss": "atapokea"
+    },
+    {
+      "surface": "בְרָכָה",
+      "gloss": "baraka"
+    },
+    {
+      "surface": "מֵאֵת",
+      "gloss": "⟨את⟩",
+      "marks": "kutoka kwa"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וּצְדָקָה",
+      "gloss": "na haki"
+    },
+    {
+      "surface": "מֵאֱלֹהֵי",
+      "gloss": "kutoka kwa Elohim"
+    },
+    {
+      "surface": "יִשְׁעוֹ",
+      "gloss": "wa wokovu wake"
+    }
+  ],
+  "timestamp": "2026-08-10T17:54:01.694287935Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Maziwa yako mawili ni kama wana wawili wa paa, mapacha wa dorkasi, wanaolisha ⟨kati⟩ ya violewa.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "wawili"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "maziwa yako"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "kama wana wawili"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "wa paa"
+    },
+    {
+      "surface": "תאומי",
+      "gloss": "mapacha"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "wa dorkasi"
+    },
+    {
+      "surface": "הרועים",
+      "gloss": "wanaolisha"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "kati ya violewa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:42:28.165872926Z",
+  "model": "glm-5.2"
+}

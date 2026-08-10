@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na itakuwa siku hiyo, nami nitavunja ⟨את⟩ upinde wa Yisra'el bonini la Yizre'eli.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na itakuwa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "nami nitavunja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upinde"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "upinde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "bonini"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "la Yizre'eli"
+    }
+  ],
+  "timestamp": "2026-08-10T12:41:13.049038514Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 143,
+  "translation": "Kwa kuwa adui amekimbilia nafsi yangu, ameiponda uhai wangu ardhini, ameniza ndani ya giza, kama wafu wa zamani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwa kuwa"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "amekimbia"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "adui"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ameponda"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ardhini"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "uhai wangu"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "ameniza"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "ndani ya giza"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "kama wafu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa zamani"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:25.159940418Z",
+  "model": "glm-5.2"
+}

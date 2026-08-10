@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Yosefu akaingia kwao asubuhi, akawaona, na tazama, walikuwa wamehuzunika.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akaingia"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akawaona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "na tazama"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "walikuwa wamehuzunika"
+    }
+  ],
+  "timestamp": "2026-08-10T10:13:03.646737135Z",
+  "model": "glm-5.2"
+}

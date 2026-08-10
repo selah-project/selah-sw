@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 58,
+  "translation": "Mwenye haki atafurahi kwa sababu ⟨⟨ame⟩ona⟩ kisasi; hatua zake ⟨zitaoshwa⟩ katika damu ya mtenda mabaya.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "atafurahi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Mwenye haki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa sababu"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "⟨⟨ame⟩ona⟩"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "kisasi"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "hatua zake"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "⟨zitaoshwa⟩"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "katika damu"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ya mtenda mabaya"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:55.526397297Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Na ⟨ile⟩ kufunua ⟨את⟩ mafuniko ya Yehudha; na wewe ulitazama siku hiyo kuelekea silaha za nyumba ya msitu.",
+  "tokens": [
+    {
+      "surface": "וַיְגַ֕ל",
+      "gloss": "na kufunua"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuniko"
+    },
+    {
+      "surface": "מָסַ֣ךְ",
+      "gloss": "mafuniko"
+    },
+    {
+      "surface": "יְהוּדָ֑ה",
+      "gloss": "ya Yehudha"
+    },
+    {
+      "surface": "וַתַּבֵּט֙",
+      "gloss": "na wewe ulitazama"
+    },
+    {
+      "surface": "בַּיּ֣וֹם",
+      "gloss": "siku"
+    },
+    {
+      "surface": "הַה֔וּא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kuelekea"
+    },
+    {
+      "surface": "נֶ֖שֶׁק",
+      "gloss": "silaha"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "za nyumba"
+    },
+    {
+      "surface": "הַיָּֽעַר",
+      "gloss": "ya msitu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:58:47.399938065Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Akawahukumu ⟨את⟩ Yisra'el miaka ishirini na tatu, akafa, akazikwa kwenye Shamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "akawahukumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ishirini"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na tatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "akazikwa"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "kwenye Shamir"
+    }
+  ],
+  "timestamp": "2026-08-10T17:59:03.314774840Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Ikawa katika mwaka wa ishirini na tatu wa mfalme Yehoash, hawakuziba makuhani ⟨את⟩ ufa wa nyumba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "katika mwaka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "wa ishirini"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na tatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wa mfalme"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawaku"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "ziba"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "makuhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ufa"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ufa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wa nyumba"
+    }
+  ],
+  "timestamp": "2026-08-10T11:49:47.068523832Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na Sarah akaona ⟨את⟩ mwana wa Hagar Mitsri, ⟨ambaye⟩ alizaa kwa Avraham, anacheza.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Na akaona"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "wa Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Mitsri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "alizaa"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kwa Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "anacheza"
+    }
+  ],
+  "timestamp": "2026-08-10T10:06:16.683752592Z",
+  "model": "glm-5.2"
+}

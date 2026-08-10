@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 42,
+  "translation": "Mchana Yahweh ataamrisha chesed chake, na usiku ⟨ni⟩ wimbo pamoja nami, maombi kwa El wa uhai wangu.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "mchana"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "ataamrisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed chake"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "na usiku"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "wimbo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pamoja nami"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "maombi"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kwa El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "wa uhai wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:12.253942608Z",
+  "model": "glm-5.2"
+}

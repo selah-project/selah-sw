@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Yahweh Elohim akamfanyia Adamu na mkewe nguo za ngozi, akawavisha.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akamfanyia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "Adamu"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "na mkewe"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "nguo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "za ngozi"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "akawavisha"
+    }
+  ],
+  "timestamp": "2026-08-10T10:01:44.319996548Z",
+  "model": "glm-5.2"
+}

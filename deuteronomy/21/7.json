@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Watatoa shahada na watasema: Mikono yetu haimimina ⟨את⟩ damu hii, na macho yetu hayakuona.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "watatoa shahada"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "na watasema"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "mikono yetu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hai-"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "mimina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "damu hii"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "damu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hii"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "na macho yetu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayaku-"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-08-10T14:43:23.527102198Z",
+  "model": "glm-5.2"
+}

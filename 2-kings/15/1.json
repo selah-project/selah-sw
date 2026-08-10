@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Mwaka wa ishirini na saba wa Yarav'am mfalme wa Yisra'el, Azaryah mwana wa Amatsyah mfalme wa Yehudah alikuwa mfalme.",
+  "tokens": [
+    {
+      "surface": "בִּשְׁנַ֨ת",
+      "gloss": "Mwaka wa"
+    },
+    {
+      "surface": "עֶשְׂרִ֤ים",
+      "gloss": "ishirini"
+    },
+    {
+      "surface": "וָשֶׁ֨בַע֙",
+      "gloss": "na saba"
+    },
+    {
+      "surface": "שָׁנָ֔ה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "לְיָרָבְעָ֖ם",
+      "gloss": "wa Yarav'am"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מָלַ֛ךְ",
+      "gloss": "aliwahi kuwa mfalme"
+    },
+    {
+      "surface": "עֲזַרְיָ֥ה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "בֶן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אֲמַצְיָ֖ה",
+      "gloss": "wa Amatsyah"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "יְהוּדָֽה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-10T11:50:16.293538013Z",
+  "model": "glm-5.2"
+}

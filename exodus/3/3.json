@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Akasema Moshe, Nitageuka sasa ili niione ⟨את⟩ maono haya makubwa, kwa nini siti hakiungamwi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akasema"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Nitageuka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ili niione"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maono"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "maono"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "makubwa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "haya"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kwa nini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "kiungamwi"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "siti"
+    }
+  ],
+  "timestamp": "2026-08-10T10:17:34.535480889Z",
+  "model": "glm-5.2"
+}

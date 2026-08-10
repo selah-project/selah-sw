@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na Yahweh atajulikana kwa Mitsrayim, na Mitsrayim watamjua Yahweh siku hiyo, na watatolea ⟨את⟩ dhabihu na ⟨את⟩ tolea, na watatoa nadhiri kwa Yahweh na kuitimiza.",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "na atajulikana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kwa Mitsrayim"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "na watamjua"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "na watatolea"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "dhabihu"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "na tolea"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "na watatoa nadhiri"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nadhiri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "na kuitimiza"
+    }
+  ],
+  "timestamp": "2026-08-10T15:05:04.643447234Z",
+  "model": "glm-5.2"
+}

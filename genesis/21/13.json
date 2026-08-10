@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na pia ⟨את⟩ mwana wa ⟨huyo⟩ mjumbe wa utumwa nitamfanya taifa, kwa kuwa ni mbegu yako.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Na pia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "wa mjumbe wa utumwa"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "nitamfanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbegu yako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye ni"
+    }
+  ],
+  "timestamp": "2026-08-10T14:24:57.078654926Z",
+  "model": "glm-5.2"
+}

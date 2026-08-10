@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 52,
+  "translation": "Kwa maana hivi alisema Adonai Yahweh: Mataifa mengi yameshuku, yaende Mataifa ya kwanza kwenda Mitsrayim kukaa huko; na Ashuru bila sababu iliwadhibu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alisema"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "yameshuku, yaende"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Mataifa ya"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "kwanza"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "kukaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "huko"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "na Ashuru"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "bila sababu"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "iliwadhibu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:07:20.003411075Z",
+  "model": "glm-5.2"
+}

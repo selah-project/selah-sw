@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Na utanena maneno yangu ⟨את⟩ kwao, kama watasikia na kama wataacha, kwa maana mawai wao.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "na utanena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno yangu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno yangu"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "watasikia"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na kama"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "wataacha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "mawai"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:15:32.875680647Z",
+  "model": "glm-5.2"
+}

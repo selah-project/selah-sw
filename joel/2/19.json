@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joel 2:19",
+  "book": "joel",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Naye Yahweh akajibu, akawaambia watu wake: \"Tazama, mimi natuma kwenu ⟨את⟩ nafaka na ⟨את⟩ divai na ⟨את⟩ mafuta, nanyi mtashiba ⟨את⟩ navyo; wala sitawapa tena fedheha miongoni mwa mataifa.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akajibu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akawaambia"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "watu wake"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Tazama, mimi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "natuma"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafaka"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "nafaka"
+    },
+    {
+      "surface": "והתירוש",
+      "gloss": "na divai"
+    },
+    {
+      "surface": "והיצהר",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "ושבעתם",
+      "gloss": "nanyi mtashiba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ navyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "sitawapa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninyi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tena"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "fedheha"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "miongoni mwa mataifa"
+    }
+  ],
+  "timestamp": "2026-08-10T12:44:28.297438963Z",
+  "model": "glm-5.2"
+}

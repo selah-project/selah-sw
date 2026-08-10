@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na kwa wana wa Aharon kuhani wakawa ⟨את⟩ mji wa hifadhi ya muuaji: ⟨את⟩ Chevroni na ⟨את⟩ mifereji yake, na ⟨את⟩ Livna na ⟨את⟩ mifereji yake.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Na kwa wana wa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "wakawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mji"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mji"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "wa hifadhi"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ya muuaji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevroni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mifereji yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mifereji yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Livna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mifereji yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mifereji yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:11:08.546963301Z",
+  "model": "glm-5.2"
+}

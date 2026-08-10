@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Na ikawa kwao katika urithi wao: Be'er-Sheva, na Sheva, na Molada.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na-ikawa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "katika urithi wao"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "na Sheva"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "na Molada"
+    }
+  ],
+  "timestamp": "2026-08-10T11:10:00.362385805Z",
+  "model": "glm-5.2"
+}

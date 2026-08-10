@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 10,
+  "translation": "Na Yahweh akaimarisha ⟨את⟩ moyo wa Paroh, naye hakutaka kuwaachilia.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Na akaimarisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wa Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "naye hakutaka"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "kutaka"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "kuwaachilia"
+    }
+  ],
+  "timestamp": "2026-08-10T10:20:19.194748726Z",
+  "model": "glm-5.2"
+}

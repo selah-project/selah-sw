@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "sw",
+  "chapter": 6,
+  "translation": "Na Yehoshua aliAmka asubuhi, na makuhani waliinua ⟨את⟩ sanduku la Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "aliAmka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "asubuhi"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "waliinua"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "makuhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T11:06:02.289626014Z",
+  "model": "glm-5.2"
+}

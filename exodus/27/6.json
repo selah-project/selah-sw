@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 27,
+  "translation": "Na utafanya vijiti kwa madhabahu, vijiti vya miti ya shitimi, na utavifunika ⟨את⟩ ⟨vinyo⟩ shaba.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Na utafanya"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "vijiti"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "kwa madhabahu"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "vijiti vya"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "miti ya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitimi"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "na utavifunika"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "vinyo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "shaba"
+    }
+  ],
+  "timestamp": "2026-08-10T10:25:13.539431918Z",
+  "model": "glm-5.2"
+}

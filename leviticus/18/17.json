@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 18:17",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Uchi wa mwanamke na binti yake, hutaki kufunua; binti wa mwanawe na ⟨את⟩ binti wa binti yake, hutaki kuchukua kufunua uchi wake. Hizi ni jamaa zake za damu; uovu ⟨ni⟩ huo.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Uchi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wa mwanamke"
+    },
+    {
+      "surface": "ובתה",
+      "gloss": "na binti yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hutaki"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kufunua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "binti"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wa mwanawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "binti"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "wa binti yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hutaki"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kuchukua"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "kufunua"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "uchi wake"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "jamaa zake za damu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hizi"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "uovu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "huo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:35:28.679270104Z",
+  "model": "glm-5.2"
+}

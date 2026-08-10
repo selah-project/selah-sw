@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 85,
+  "translation": "Umeinua dhambi ya taifa lako; imefunika nzima dhambi zao. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Umeinua"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dhambi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ya taifa lako"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "imefunika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nzima"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dhambi zao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-10T13:09:50.049377461Z",
+  "model": "glm-5.2"
+}

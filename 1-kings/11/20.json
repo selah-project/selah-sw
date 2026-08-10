@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Dada wa Tahapenisi akamzaa ⟨את⟩ Genubati, mwanao; Tahapenisi akamnyonyesha katika nyumba ya Paroh; na Genubati akawa ⟨katika⟩ nyumba ya Paroh, miongoni mwa wana wa Paroh.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "akamzaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "dada"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "wa Tahapenisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubati"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubati"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanao"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "akamnyonyesha"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tahapenisi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "katika"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Paroh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akawa"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubati"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Paroh"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "miongoni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa wana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:59:25.643045491Z",
+  "model": "glm-5.2"
+}

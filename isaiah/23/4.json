@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Aibu jitini, Tsidon, kwa maana bahari imesema, nguvu ya bahari, ikisema: Sikuchoka kuleta, wala sikuzalisha, wala sikulelea vijana, ⟨nilikuwa⟩ sikuwainua mabinti.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "aibu jitini"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "imesema"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "nguvu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ya bahari"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ikisema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "kuchoka kuleta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "kuzalisha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala si"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "kulelea"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "vijana"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "sikuwainua"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "mabinti"
+    }
+  ],
+  "timestamp": "2026-08-10T12:00:21.861278288Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 25,
+  "translation": "Walikuwa kama ukuta kwa ajili yetu, wakati wa usiku na wakati wa mchana, siku zote za kuwa kwetu pamoja nao tukiwa wachungaji wa kondoo.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "ukuta"
+    },
+    {
+      "surface": "היו",
+      "gloss": "walikuwa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kwa ajili yetu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "wakati wa usiku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "wakati wa mchana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "siku zote"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "siku"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "za kuwa kwetu"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "pamoja nao"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "tukiwa wachungaji"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "wa kondoo"
+    }
+  ],
+  "timestamp": "2026-08-10T11:27:00.429906062Z",
+  "model": "glm-5.2"
+}

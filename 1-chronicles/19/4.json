@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Hanun akachukua ⟨את⟩ watumishi wa Daudi, akawanyoa, na akakata ⟨את⟩ mavazi yao katikati, mpaka kiunoni, akawatuma wakaondoka.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akachukua"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watumishi wa Daudi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "watumishi wa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daudi"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "akawanyoa"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "akakata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mavazi yao"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "mavazi yao"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "katikati"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "kiunoni"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "akawatuma wakaondoka"
+    }
+  ],
+  "timestamp": "2026-08-10T15:43:34.136064606Z",
+  "model": "glm-5.2"
+}

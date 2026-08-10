@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 16:11",
+  "book": "proverbs",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Tiani ya usawa na mizani ya mishipaka ⟨ni⟩ ya Yahweh; kazi yake ⟨ni⟩ jiwe zote la mfuko.",
+  "tokens": [
+    {
+      "surface": "פֶּ֤לֶס",
+      "gloss": "tiani"
+    },
+    {
+      "surface": "וּמֹאזְנֵ֣י",
+      "gloss": "na mizani"
+    },
+    {
+      "surface": "מִ֭שְׁפָּט",
+      "gloss": "ya usawa"
+    },
+    {
+      "surface": "לַֽיהוָ֑ה",
+      "gloss": "ya Yahweh"
+    },
+    {
+      "surface": "מַ֝עֲשֵׂ֗הוּ",
+      "gloss": "kazi yake"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "אַבְנֵי",
+      "gloss": "jiwe"
+    },
+    {
+      "surface": "כִֽיס",
+      "gloss": "la mfuko"
+    }
+  ],
+  "timestamp": "2026-08-10T17:55:41.258597223Z",
+  "model": "glm-5.2"
+}

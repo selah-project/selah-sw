@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 32,
+  "translation": "Na kwa nini mnavunja ⟨את⟩ moyo wa wana wa Yisrael wasipite kwenda nchi ile ambayo Yahweh amewapa?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "na kwa nini"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "mnavunja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa wana wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "wasipite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwenda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi ile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "amewapa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:51:44.487712200Z",
+  "model": "glm-5.2"
+}

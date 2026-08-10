@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Wakazikusanya ⟨את⟩ ziwe rundo rundo, nchi ikabukia.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "Wakazikusanya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "rundo rundo"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "rundo"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "rundo"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "ikabukia"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:59.001017364Z",
+  "model": "glm-5.2"
+}

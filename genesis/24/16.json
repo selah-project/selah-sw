@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 24:16",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Na msichana huyo ⟨alikuwa⟩ mzuri sana kuangalia, bikira, hapana mtu aliyemjua; naye akashuka ⟨kwenye⟩ chemchemi, akajaza chagua chake, akapanda.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Na msichana huyo"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "mzuri"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "kuangalia"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sana"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "bikira"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mtu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "aliyemjua"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "akashuka"
+    },
+    {
+      "surface": "העינה",
+      "gloss": "⟨kwenye⟩ chemchemi"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "akajaza"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "chague chake"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "akapanda"
+    }
+  ],
+  "timestamp": "2026-08-10T14:24:19.240264521Z",
+  "model": "glm-5.2"
+}

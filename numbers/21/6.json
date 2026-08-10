@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Yahweh akatuma katika taifa ⟨את⟩ nyoka waliokuwasha, nao wakauma ⟨את⟩ taifa, na taifa wengi wa Yisraeli wakafa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "katika taifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyoka waliokuwasha"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "nyoka"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "waliokuwasha"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "nao wakauma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taifa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wakafa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "wa Yisraeli"
+    }
+  ],
+  "timestamp": "2026-08-10T10:47:24.376094120Z",
+  "model": "glm-5.2"
+}

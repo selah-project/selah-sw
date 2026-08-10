@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Na mjaaji hamdhulumi, wala hamnyonyi; kwa kuwa mlikaa kama waajirio katika nchi ya Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וְגֵר",
+      "gloss": "Na mjaaji"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "hamdhulumi,"
+    },
+    {
+      "surface": "תוֹנֶה",
+      "gloss": "dhuluma"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "תִלְחָצֶנּוּ",
+      "gloss": "hamnyonyi;"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "גֵרִים",
+      "gloss": "waajirio"
+    },
+    {
+      "surface": "הֱיִיתֶם",
+      "gloss": "mlikaa kama"
+    },
+    {
+      "surface": "בְּאֶרֶץ",
+      "gloss": "katika nchi ya"
+    },
+    {
+      "surface": "מִצְרָיִם",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:57.811051990Z",
+  "model": "glm-5.2"
+}

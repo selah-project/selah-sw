@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 11:15",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Naye akawaandikia makuhani kwa bamah na kwa mapepo na kwa ndama ambao aliwafanya.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Naye akawaandikia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "makuhani"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "kwa bamah"
+    },
+    {
+      "surface": "ולשעירים",
+      "gloss": "na kwa mapepo"
+    },
+    {
+      "surface": "ולעגלים",
+      "gloss": "na kwa ndama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aliwafanya"
+    }
+  ],
+  "timestamp": "2026-08-10T15:45:45.280360082Z",
+  "model": "glm-5.2"
+}

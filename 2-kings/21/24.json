@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Watani wa nchi wakawapiga ⟨את⟩ wote walopanga njama juu ya mfalme Amon, na watani wa nchi wakamtia kuwa mfalme ⟨את⟩ Yoshiyahu mwana wake badala yake.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "wakawapiga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Watani"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wote walopanga njama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "walopanga njama"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "wakamtia kuwa mfalme"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na watani"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoshiyahu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "badala yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:51:57.441929116Z",
+  "model": "glm-5.2"
+}

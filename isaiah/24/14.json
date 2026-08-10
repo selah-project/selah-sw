@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 24:14",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 24,
+  "translation": "Hao watainua sauti yao, wataimba; kwa ajili ya fakhari ya Yahweh watashangilia kutoka ⟨kando ya⟩ bahari.",
+  "tokens": [
+    {
+      "surface": "הֵ֛מָּה",
+      "gloss": "Hao"
+    },
+    {
+      "surface": "יִשְׂא֥וּ",
+      "gloss": "watainua"
+    },
+    {
+      "surface": "קוֹלָ֖ם",
+      "gloss": "sauti yao"
+    },
+    {
+      "surface": "יָרֹ֑נּוּ",
+      "gloss": "wataimba"
+    },
+    {
+      "surface": "בִּגְא֣וֹן",
+      "gloss": "kwa ajili ya fakhari ya"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צָהֲל֖וּ",
+      "gloss": "watashangilia"
+    },
+    {
+      "surface": "מִיָּֽם",
+      "gloss": "kutoka bahari"
+    }
+  ],
+  "timestamp": "2026-08-10T12:00:44.439563034Z",
+  "model": "glm-5.2"
+}

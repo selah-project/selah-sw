@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 111,
+  "translation": "Matendo ya mikono yake ni kweli na haki; kuaminika kwa amri zote.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "Matendo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ya mikono yake"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ni kweli"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na haki"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "kuaminika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwa amri zote"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:49.185644669Z",
+  "model": "glm-5.2"
+}

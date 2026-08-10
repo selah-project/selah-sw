@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 5:15",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Wakashaﬂri wa wana wa Yisra'el wakaingia, wakalia kwa Paroh, wakisema: Kwa nini unatenda hivi kwa watumishi wako?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "wakaingia"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "washauri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa wana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "wakalia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wakisema:"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kwa nini"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "unatenda"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "kwa watumishi wako?"
+    }
+  ],
+  "timestamp": "2026-08-10T15:51:58.145870993Z",
+  "model": "glm-5.2"
+}

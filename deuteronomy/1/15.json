@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Nikachukua ⟨את⟩ viongozi wa kabila zenu, watu wenye hekima na wenye kujulikana, nikawapa ⟨את⟩ kuwa viongozi juu yenu — wakuu wa maelfu, na wakuu wa mia, na wakuu wa hamsini, na wakuu wa kumi, na maofisa, kwa ajili ya kabila zenu.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "nikachukua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viongozi wa kabila zenu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "viongozi"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "wa kabila zenu"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "wenye hekima"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "na wenye kujulikana"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "nikawapa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuwa viongozi juu yenu"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "kuwa viongozi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "juu yenu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "wakuu wa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "maelfu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "na wakuu wa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "na wakuu wa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "hamsini"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "na wakuu wa"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "na maofisa"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "kwa ajili ya kabila zenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:54:18.580147886Z",
+  "model": "glm-5.2"
+}

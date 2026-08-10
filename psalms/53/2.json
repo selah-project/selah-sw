@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 53,
+  "translation": "Mpumbavu amesema moyoni mwake, ⟨Hakuna⟩ Elohim. Wameharibika na kufanya uchafu wa ovu; hakuna mfanyaji cha jema.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "amesema"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Mpumbavu"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "moyoni mwake"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨Hakuna⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "Wameharibika"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "na kufanya uchafu"
+    },
+    {
+      "surface": "עול",
+      "gloss": "wa ovu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mfanyaji"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "cha jema"
+    }
+  ],
+  "timestamp": "2026-08-10T16:17:29.499866908Z",
+  "model": "glm-5.2"
+}

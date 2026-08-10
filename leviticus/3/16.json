@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na kuhani atawateketeza madhabahuni, chakula cha dhabihu ya moto kwa harufu yenye kupendeza; mafuta yote ni ya Yahweh.",
+  "tokens": [
+    {
+      "surface": "וְהִקְטִירָ֥ם",
+      "gloss": "Na atawateketeza"
+    },
+    {
+      "surface": "הַכֹּהֵ֖ן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֑חָה",
+      "gloss": "madhabahuni"
+    },
+    {
+      "surface": "לֶ֤חֶם",
+      "gloss": "chakula"
+    },
+    {
+      "surface": "אִשֶּׁה֙",
+      "gloss": "cha dhabihu ya moto"
+    },
+    {
+      "surface": "לְרֵ֣יחַ",
+      "gloss": "kwa harufu"
+    },
+    {
+      "surface": "נִיחֹ֔חַ",
+      "gloss": "yenye kupendeza"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "חֵ֖לֶב",
+      "gloss": "mafu"
+    },
+    {
+      "surface": "לַיהוָֽה",
+      "gloss": "ni ya Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T14:34:08.934012456Z",
+  "model": "glm-5.2"
+}

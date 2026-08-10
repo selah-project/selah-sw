@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 26:13",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Mimi Yahweh, Elohim wenu, ambaye nilitoa ninyi kutoka nchi ya Mitsrayim, msije mkuwa watumishi wao, nikaivunja nira yenu, nikuongozeni ninyi kusimama wima.",
+  "tokens": [
+    {
+      "surface": "אֲנִ֞י",
+      "gloss": "Mimi"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֱלֹֽהֵיכֶ֗ם",
+      "gloss": "Elohim wenu"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "ambaye"
+    },
+    {
+      "surface": "הוֹצֵ֤אתִי",
+      "gloss": "nilitoa"
+    },
+    {
+      "surface": "אֶתְכֶ֝ם֙",
+      "gloss": "⟨את⟩ ninyi",
+      "marks": "⟨אתכם → kutoka nchi ya Mitsrayim⟩"
+    },
+    {
+      "surface": "מֵאֶ֣רֶץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "מִצְרַ֔יִם",
+      "gloss": "ya Mitsrayim"
+    },
+    {
+      "surface": "מִֽהְיֹ֥ת",
+      "gloss": "msije mkuwa"
+    },
+    {
+      "surface": "לָהֶ֖ם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "עֲבָדִ֑ים",
+      "gloss": "watumishi"
+    },
+    {
+      "surface": "וָאֶשְׁבֹּר֙",
+      "gloss": "nikaivunja"
+    },
+    {
+      "surface": "מֹטֹ֣ת",
+      "gloss": "nira"
+    },
+    {
+      "surface": "עֻלְּכֶ֔ם",
+      "gloss": "yenu"
+    },
+    {
+      "surface": "וָאוֹלֵ֥ךְ",
+      "gloss": "nikuongozeni"
+    },
+    {
+      "surface": "אֶתְכֶ֖ם",
+      "gloss": "⟨את⟩ ninyi",
+      "marks": "⟨אתכם → kusimama wima⟩"
+    },
+    {
+      "surface": "קֽוֹמְמִיּֽוּת",
+      "gloss": "kusimama wima"
+    }
+  ],
+  "timestamp": "2026-08-10T10:38:42.449065954Z",
+  "model": "glm-5.2"
+}

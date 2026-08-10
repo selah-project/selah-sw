@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 50,
+  "translation": "Na Paroh akasema: Inuka, ukazike ⟨את⟩ baba yako kama alivyo kuapia.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akasema"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "inuka"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "ukazike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba yako"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba yako"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama alivyo"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "kuapia"
+    }
+  ],
+  "timestamp": "2026-08-10T14:28:17.851246687Z",
+  "model": "glm-5.2"
+}

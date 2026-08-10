@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 44,
+  "translation": "Kwa sauti ya mwenye kutuka na kumkashfu, kwa sababu ya adui na mwenye kulipiza kisasi.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "kwa sauti ya"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "mwenye kutuka"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "na kumkashfu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "adui"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "na mwenye kulipiza kisasi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:14.599073888Z",
+  "model": "glm-5.2"
+}

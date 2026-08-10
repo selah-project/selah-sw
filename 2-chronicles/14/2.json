@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Akaondoa madhabahu ya kutwa na ⟨את⟩ mahali pa juu, akavunja ⟨את⟩ nguzo za ukumbusho, akakata ⟨את⟩ Asherim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "akaondoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madhabahu ya kutwa"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ya kutwa"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "na mahali pa juu"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "akavunja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguzo za ukumbusho"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "nguzo za ukumbusho"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "akakata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asherim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asherim"
+    }
+  ],
+  "timestamp": "2026-08-10T14:15:20.946267177Z",
+  "model": "glm-5.2"
+}

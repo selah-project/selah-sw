@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 31,
+  "translation": "Na Lavan alimshinda ⟨את⟩ Yaakov; naye Yaakov alipiga ⟨את⟩ hema lake katika mlima; naye Lavan alipiga ⟨את⟩ ndugu zake katika mlima wa Giladi.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "Na akamshinda"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "naye Yaakov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "alipiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema lake"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "hema lake"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "katika mlima"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "naye Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "alipiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndugu zake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndugu zake"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "katika mlima"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "wa Giladi"
+    }
+  ],
+  "timestamp": "2026-08-10T15:50:41.411360815Z",
+  "model": "glm-5.2"
+}

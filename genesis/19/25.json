@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Akaupindua ⟨את⟩ mji huu, na ⟨את⟩ konoo nzima, na ⟨את⟩ wakaazi wote wa miji, na mimea ya udongo.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "akapindua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mji"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mji"
+    },
+    {
+      "surface": "האל",
+      "gloss": "huyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "konoo nzima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nzima"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "konoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wakaazi wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wakaazi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "wa miji"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "na mimea"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ya udongo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:05:24.183996487Z",
+  "model": "glm-5.2"
+}

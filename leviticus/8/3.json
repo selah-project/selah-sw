@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "na ⟨את⟩ mkusanyiko wote ukusanye ⟨kwenye⟩ mlango wa hema ya mkutano.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mkusanyiko wote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "mkusanyiko"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ukusanye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwenye⟩"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mlango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wa hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mkutano"
+    }
+  ],
+  "timestamp": "2026-08-10T10:31:57.246021993Z",
+  "model": "glm-5.2"
+}

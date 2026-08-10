@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 78,
+  "translation": "Mara ngapi wakimkasirisha ⟨⟨⟩⟩ nyikani, wakimhuzunisha katika ukiwa!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "mara ngapi"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "wakimkasirisha"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nyikani"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "wakimhuzunisha"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "katika ukiwa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:12.332541943Z",
+  "model": "glm-5.2"
+}

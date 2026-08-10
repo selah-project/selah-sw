@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 130,
+  "translation": "Nafsi yangu ⟨kwa⟩ Adonai, kuliko waalinzi ⟨wanao⟩tazama alfajiri, waalinzi wanaotazama alfajiri.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Nafsi yangu"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "⟨kwa⟩ Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "kuliko waalinzi"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "⟨wanao⟩tazama alfajiri"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "waalinzi"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "wanaotazama alfajiri"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:30.693309137Z",
+  "model": "glm-5.2"
+}

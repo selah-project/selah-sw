@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Inueni ⟨את⟩ kichwa cha wana wa Qehath miongoni mwa wana wa Lawi, kufuatana na familia zao, kufuatana na nyumba za baba zao:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "inueni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kichwa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kichwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Qehath"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "miongoni mwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wana wa"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lawi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kufuatana na familia zao"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kufuatana na nyumba za"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "baba zao"
+    }
+  ],
+  "timestamp": "2026-08-10T14:36:30.672193612Z",
+  "model": "glm-5.2"
+}

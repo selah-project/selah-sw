@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 2,
+  "translation": "Siku hiyo mtu atatupa ⟨את⟩ sanamu zake za fedha na ⟨את⟩ sanamu zake za dhahabu, ambazo walizifanyia kujisujudia, kwa vipererezi na kwa popo.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "atatupa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanamu zake za fedha"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "sanamu zake"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "za fedha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sanamu zake za dhahabu"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "sanamu zake"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "za dhahabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "walizifanya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "kujisujudia"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "kwa vipererezi"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "—"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "na kwa popo"
+    }
+  ],
+  "timestamp": "2026-08-10T15:03:45.333507331Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 149,
+  "translation": "Kutenda kisasi miongoni mwa mataifa, na adhabu miongoni mwa amu.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "kutenda"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "kisasi"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "miongoni mwa mataifa"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "adhabu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "miongoni mwa"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "amu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:30:40.016626369Z",
+  "model": "glm-5.2"
+}

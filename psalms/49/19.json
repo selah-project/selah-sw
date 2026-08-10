@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "Kwa kuwa nefesh yake, uhai wake, humjibu mwenyewe; na watu hukusifia, kwa kuwa unafanya mema kwa nafsi yako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefesh yake"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "uhai wake"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "humjibu mwenyewe"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "na hukusifia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa kuwa"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "unafanya mema"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa nafsi yako"
+    }
+  ],
+  "timestamp": "2026-08-10T13:02:38.035256566Z",
+  "model": "glm-5.2"
+}

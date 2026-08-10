@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 89,
+  "translation": "Mbingu ni zako, naardhi pia ni yako; dunia na vilivyomo, wewe ndiwe uliziyasisimu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ni zako"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mbingu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ni yako"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ardhi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "pia"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "na vilivyomo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe ndiwe"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "uliziyasisimu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:10:10.567683359Z",
+  "model": "glm-5.2"
+}

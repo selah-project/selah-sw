@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Kutumaini — nilimtumaini Yahweh, naye ⟨aliyeinama⟩ kwangu, akasikia maombi yangu.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "kutumaini"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "nilimtumaini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "naye akainama"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "akasikia"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "maombi yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:00:51.437770481Z",
+  "model": "glm-5.2"
+}

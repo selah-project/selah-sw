@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 13,
+  "translation": "Na Waliebrania wakaivuka ⟨את⟩ Yardeni, ⟨kwenda⟩ nchi ya Gadi na Gileadi; na Shauli bado alikuwa huko Gilgali, nao taifa lote likatetemera nyuma yake.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Na Waliebrania"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "wakaivuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨kwenda⟩ nchi"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ya Gadi"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "na Gileadi"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Shauli"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "bado"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "alikuwa huko Gilgali"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nao"
+    },
+    {
+      "surface": "העם",
+      "gloss": "taifa lote"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "likatetemera"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nyuma yake"
+    }
+  ],
+  "timestamp": "2026-08-10T11:21:57.867054023Z",
+  "model": "glm-5.2"
+}

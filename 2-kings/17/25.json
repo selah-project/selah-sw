@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Ikawa mwanzoni mwa kukaa kwao hapo, hawakumcha ⟨את⟩ Yahweh, akapeleka Yahweh kati yao ⟨את⟩ simba, wakawa wakiuawa miongoni mwao.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "mwanzoni mwa"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "kukaa kwao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hapo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "kumcha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akapeleka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kati yao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "simba"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "simba"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "wakawa"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "wakiuawa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "miongoni mwao"
+    }
+  ],
+  "timestamp": "2026-08-10T11:51:06.432836952Z",
+  "model": "glm-5.2"
+}

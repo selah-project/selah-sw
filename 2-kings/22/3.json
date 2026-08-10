@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 22:3",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Ikawa katika mwaka wa kumi na nane wa mfalme Yoshia, mfalme alituma ⟨את⟩ Shafani mwana wa Atsalyahu mwana wa Meshulamu, katibu, nyumbani pa Yahweh, akisema:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֗י",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "בִּשְׁמֹנֶ֤ה",
+      "gloss": "katika nane"
+    },
+    {
+      "surface": "עֶשְׂרֵה֙",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "שָׁנָ֔ה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "לַמֶּ֖לֶךְ",
+      "gloss": "wa mfalme"
+    },
+    {
+      "surface": "יֹאשִׁיָּ֑הוּ",
+      "gloss": "Yoshia"
+    },
+    {
+      "surface": "שָׁלַ֣ח",
+      "gloss": "alituma"
+    },
+    {
+      "surface": "הַ֠מֶּלֶךְ",
+      "gloss": "mfalme"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Shafani"
+    },
+    {
+      "surface": "שָׁפָ֨ן",
+      "gloss": "Shafani"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אֲצַלְיָ֤הוּ",
+      "gloss": "wa Atsalyahu"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מְשֻׁלָּם֙",
+      "gloss": "wa Meshulamu"
+    },
+    {
+      "surface": "הַסֹּפֵ֔ר",
+      "gloss": "katibu"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "nyumbani"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "pa Yahweh"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "akisema"
+    }
+  ],
+  "timestamp": "2026-08-10T11:52:51.729538945Z",
+  "model": "glm-5.2"
+}

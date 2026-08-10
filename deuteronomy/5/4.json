@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Nyuso kwa nyuso Yahweh alikuwa akiongea nanyi katika mlima, kutoka katikati ya moto.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Nyuso"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "kwa nyuso"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aliongea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nanyi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "katika mlima"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kutoka katikati"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ya moto"
+    }
+  ],
+  "timestamp": "2026-08-10T14:41:48.101532796Z",
+  "model": "glm-5.2"
+}

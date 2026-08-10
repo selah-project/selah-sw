@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Lakini mahali pa juu pa dhabihu hayakutolewa; bado ta likitoa dhabihu na kufukiza uvugo kwenye mahali pa juu pa dhabihu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "lakini"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "mahali pa juu pa dhabihu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hayaku"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "totolewa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bado"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "likitoa dhabihu"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "na kufukiza uvugo"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "kwenye mahali pa juu pa dhabihu"
+    }
+  ],
+  "timestamp": "2026-08-10T11:49:47.230543583Z",
+  "model": "glm-5.2"
+}

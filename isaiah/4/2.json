@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Siku hiyo tawi la Yahweh litakuwa ⟨kwa⟩ uzuri na ⟨kwa⟩ utukufu, na matunda ya nchi ⟨kwa⟩ fakhari na ⟨kwa⟩ mapambo, kwa waliookoka wa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "litakuwa"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "tawi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "⟨kwa⟩ uzuri"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "na ⟨kwa⟩ utukufu"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "na matunda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya nchi"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "⟨kwa⟩ fakhari"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "na ⟨kwa⟩ mapambo"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "kwa waliookoka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T11:55:23.421009007Z",
+  "model": "glm-5.2"
+}

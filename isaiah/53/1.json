@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 53,
+  "translation": "Ni nani aliyemwamini ⟨habari⟩ iliyosikikanavyo kwetu, na mkono wa Yahweh umefunuliwa kwa nini?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ni nani"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "aliyemwamini"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "⟨habari⟩ iliyosikikanavyo kwetu"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "na mkono"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nini"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "umefunuliwa"
+    }
+  ],
+  "timestamp": "2026-08-10T15:08:53.638201086Z",
+  "model": "glm-5.2"
+}

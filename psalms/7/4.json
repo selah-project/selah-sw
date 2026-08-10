@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Yahweh Elohai, kama nilifanya jambo hili, kama mna dhuluma katika mikono yangu,",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nilifanya"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "jambo hili"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "יש",
+      "gloss": "mna"
+    },
+    {
+      "surface": "עול",
+      "gloss": "dhuluma"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "katika mikono yangu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:27.460857114Z",
+  "model": "glm-5.2"
+}

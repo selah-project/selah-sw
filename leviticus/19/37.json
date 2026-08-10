@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 19,
+  "translation": "Mlilinde ⟨את⟩ sheria zangu zote na ⟨את⟩ hukumu zangu zote, mfanyazi ⟨אתם⟩; mimi ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וּשְׁמַרְתֶּ֤ם",
+      "gloss": "Nalinde"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sheria zangu zote"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "חֻקֹּתַי֙",
+      "gloss": "sheria zangu"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hukumu zangu zote"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "zote"
+    },
+    {
+      "surface": "מִשְׁפָּטַ֔י",
+      "gloss": "hukumu zangu"
+    },
+    {
+      "surface": "וַעֲשִׂיתֶ֖ם",
+      "gloss": "mfanyazi"
+    },
+    {
+      "surface": "אֹתָ֑ם",
+      "gloss": "⟨אתם⟩",
+      "marks": "zile"
+    },
+    {
+      "surface": "אֲנִ֖י",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T10:36:24.909966539Z",
+  "model": "glm-5.2"
+}

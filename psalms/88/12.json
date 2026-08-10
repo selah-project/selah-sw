@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 88,
+  "translation": "Je, chesed chako kitasimuliwa kabini? Au uaminifu wako katika Abaddon?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "Je, kitasimuliwa"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "kabini"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed chako"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "uaminifu wako"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "katika Abaddon"
+    }
+  ],
+  "timestamp": "2026-08-10T15:27:52.325059157Z",
+  "model": "glm-5.2"
+}

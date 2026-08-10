@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Watumishi wa Shauli wakamwambia: Tazama, roho mbaya ya Elohim inakutisha.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wakamwambia"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "watumishi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "wa Shauli"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kumwambia"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tazama"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mbaya"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "inakutisha"
+    }
+  ],
+  "timestamp": "2026-08-10T14:52:26.888070541Z",
+  "model": "glm-5.2"
+}

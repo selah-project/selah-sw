@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na ng'ombe wa mtu akipiga ng'ombe ⟨את⟩ wa jirani yake na kufa, watauza ⟨את⟩ ng'ombe aliye hai na watagawanya ⟨את⟩ fedha yake; na pia ⟨את⟩ aliyekufa watamgawanya.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Na ikiwa"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "akipiga"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wa mtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "wa jirani yake"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "na kufa"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "watauza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe aliye hai"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "החי",
+      "gloss": "aliye hai"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "na watagawanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fedha yake"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "fedha yake"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na pia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aliyekufa"
+    },
+    {
+      "surface": "המת",
+      "gloss": "aliyekufa"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "watamgawanya"
+    }
+  ],
+  "timestamp": "2026-08-10T14:29:31.366373175Z",
+  "model": "glm-5.2"
+}

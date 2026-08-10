@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 55,
+  "translation": "El ataisikia na kuwajibu, naye ∗kaaye∗ tokea zamani. ⟨Selah⟩ hao ambao hawana mabadiliko, wala hawamwogoshi Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "ataisikia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "na kuwajibu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "naye ∗kaaye∗"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "tokea zamani"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "⟨Selah⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hao ambao"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hawana"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "mabadiliko"
+    },
+    {
+      "surface": "למו",
+      "gloss": "yao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "wanaogopa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-10T13:03:31.972629728Z",
+  "model": "glm-5.2"
+}

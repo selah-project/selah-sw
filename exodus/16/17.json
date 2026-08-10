@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 16,
+  "translation": "Nao wakaufanya hivi wanawe Yisra'el, wakakusanya, yule ⟨aliye⟩ mengi na yule ⟨aliye⟩ machache.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "wakaufanya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "wakakusanya"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "yule mengi"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "na yule machache"
+    }
+  ],
+  "timestamp": "2026-08-10T10:22:24.827801703Z",
+  "model": "glm-5.2"
+}

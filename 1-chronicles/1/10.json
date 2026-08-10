@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 1,
+  "translation": "Na Kush alimzaa ⟨את⟩ Nimrodi; yeye ndiye aliyeanza kuwa shujari katika nchi.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Na Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "alimzaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrodi"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrodi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "החל",
+      "gloss": "aliyeanza"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuwa"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "shujari"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "katika nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T14:02:56.223010294Z",
+  "model": "glm-5.2"
+}

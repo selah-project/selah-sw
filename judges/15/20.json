@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "sw",
+  "chapter": 15,
+  "translation": "Akawahukumu ⟨את⟩ Yisra'eli siku za Wapelesheti miaka ishirini.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Akawahukumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'eli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'eli"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "siku za"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Wapelesheti"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ishirini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "miaka"
+    }
+  ],
+  "timestamp": "2026-08-10T11:17:17.587102713Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "uchomaji wa ncha badala ya uchomaji wa ncha, jeraha badala ya jeraha, mabaka badala ya mabaka.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "uchomaji wa ncha"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "badala ya"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "uchomaji wa ncha"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "jeraha"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "badala ya"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "jeraha"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "mabaka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "badala ya"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "mabaka"
+    }
+  ],
+  "timestamp": "2026-08-10T14:30:07.963401358Z",
+  "model": "glm-5.2"
+}

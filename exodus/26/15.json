@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 26,
+  "translation": "Na utatengeneza ⟨את⟩ bao za mishkani, mbao za miti ya shita zisimazo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "na utatengeneza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bao"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "bao"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "za mishkani"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mbao za"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shita"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "zisimazo"
+    }
+  ],
+  "timestamp": "2026-08-10T10:25:47.168484206Z",
+  "model": "glm-5.2"
+}

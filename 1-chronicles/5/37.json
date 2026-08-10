@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na Azarjah alimzalia ⟨את⟩ Amarjah, na Amarjah alimzalia ⟨את⟩ Achitub.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "na alimzalia"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "na Amarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzalia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achitub"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achitub"
+    }
+  ],
+  "timestamp": "2026-08-10T14:04:18.885445900Z",
+  "model": "glm-5.2"
+}

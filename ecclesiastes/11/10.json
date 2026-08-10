@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Na uondoe chuki kutoka moyo wako, na uiondoze baya kutoka mwili wako; kwa maana ujana na kipindi cha asubuhi ni hebel.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "na uondoe"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "chuki"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "kupoka moyo wako"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "na uiondoze"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "baya"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "kupoka mwili wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "ujana"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "na kipindi cha asubuhi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-08-10T13:48:30.623111004Z",
+  "model": "glm-5.2"
+}

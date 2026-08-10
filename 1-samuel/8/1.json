@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Ikawa alipokuwa mzee Shemuel, akaweka ⟨את⟩ wanawe kuwa waamuzi kwa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikawa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "alipokuwa"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "mzee"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanawe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wanawe"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "kuwa waamuzi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kwa Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-10T14:51:00.345358046Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 3:17",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 3,
+  "translation": "Na ⟨⟩ ardhi kavu na Yarden na mpaka, kutoka Kinneret hadi bahari ya ardhi kavu, bahari ya chumvi, chini ya mteremko wa Pisgah, upande wa mashariki.",
+  "tokens": [
+    {
+      "surface": "והערבה",
+      "gloss": "Na ardhi kavu"
+    },
+    {
+      "surface": "והירדן",
+      "gloss": "na Yarden"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "na mpaka"
+    },
+    {
+      "surface": "מכנרת",
+      "gloss": "kutoka Kinneret"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hadi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ya ardhi kavu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bahari"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ya chumvi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chini ya"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "mteremko"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "wa Pisgah"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "upande wa mashariki"
+    }
+  ],
+  "timestamp": "2026-08-10T10:54:02.069130891Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 7,
+  "translation": "Siku saba zikakamilika baada ya Yahweh kupiga ⟨את⟩ mto.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "zikakamilika"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "saba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "siku"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "baada ya"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "kupiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mto"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "mto"
+    }
+  ],
+  "timestamp": "2026-08-10T10:19:51.898933864Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Lakini hawakusikia, wakafanya ⟨את⟩ shingo zenu ziwe ngumu kama shingo ya baba zao, ambao hawakuamini katika Yahweh, Elohim wao.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lakini hawakusikia"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": ""
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "wakafanya ziwe ngumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shingo zao"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "shingo zenu"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "kama shingo"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ya baba zao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hawakuamini"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": ""
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "katika Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wao"
+    }
+  ],
+  "timestamp": "2026-08-10T15:02:27.692662999Z",
+  "model": "glm-5.2"
+}

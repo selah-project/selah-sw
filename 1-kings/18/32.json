@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Akajenga kwa ⟨את⟩ mawe madhabahu kwa jina la Yahweh; na akafanya kitako kuzunguka madhabahu, kwa uwezo wa se'a mbili za mbegu, pande zote za madhabahu.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "akajenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawe"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mawe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "madhabahu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "kwa jina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahweh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "na akafanya"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "kitako"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "kwa uwezo wa"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "se'a mbili"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "za mbegu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "pande zote"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "za madhabahu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:04:26.370823428Z",
+  "model": "glm-5.2"
+}

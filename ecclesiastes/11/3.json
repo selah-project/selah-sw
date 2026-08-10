@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "sw",
+  "chapter": 11,
+  "translation": "Ikiwa mawingu yamejaa mvua, juu ya nchi huimita, na ikiwa mti unaanguka kusini au kaskazini, popote mti unapoanguka, pale huwa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ikiwa"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "yamejaa"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "mawingu"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "mvua"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "huimita"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na ikiwa"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "unaanguka"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mti"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "kusini"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "au"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "kaskazini"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "popote"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "unapoanguka"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pale"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "huwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:48:01.586146831Z",
+  "model": "glm-5.2"
+}

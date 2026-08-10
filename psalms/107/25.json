@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 107,
+  "translation": "Akasema, akasimamisha dhoruba, na mawimbi yake yaliinuliwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akasema"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "akasimamisha"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "uhepe"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "dhoruba"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "na yaliinuliwa"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "mawimbi yake"
+    }
+  ],
+  "timestamp": "2026-08-10T13:15:29.424443765Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 17,
+  "translation": "Tia kando kwa ajabu chesed yako, wewe Mwokozi wa wanaotumaini, ⟨dhidi⟩ ya wanaoinuka kwa mkono wako wa kulia.",
+  "tokens": [
+    {
+      "surface": "הַפְלֵ֣ה",
+      "gloss": "Tia kano kwa ajabu"
+    },
+    {
+      "surface": "חֲ֭סָדֶיךָ",
+      "gloss": "chesed yako"
+    },
+    {
+      "surface": "מוֹשִׁ֣יעַ",
+      "gloss": "Mwokozi"
+    },
+    {
+      "surface": "חוֹסִ֑ים",
+      "gloss": "wanaotumaini"
+    },
+    {
+      "surface": "מִ֝מִּתְקוֹמְמִ֗ים",
+      "gloss": "⟨dhidi⟩ ya wanaoinuka"
+    },
+    {
+      "surface": "בִּֽימִינֶֽךָ",
+      "gloss": "kwa mkono wako wa kulia"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:16.615085822Z",
+  "model": "glm-5.2"
+}

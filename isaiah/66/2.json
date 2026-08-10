@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 66:2",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 66,
+  "translation": "Na ⟨את⟩ vyote hivi mkono wangu umefanya, na vyote hivi viliwepo, ≷semiOverride≲ oracle ≷semiOverride_OVERRIDELESS≲ ≷semiOverride_OVERRIDELESS_OVERRIDELESS≲ ≷semiOverride_OVERRIDELESS_OVERRIDELESS_OVERRIDELESS≲ ≷semiOverride_OVERRIDELESS_OVERRIDELESS_OVERRIDELESS_OVERRIDELESS≲ ≷semiOverride_OVERRIDELESS_OVERRIDELESS_OVERRIDELESS_OVERRIDELESS_OVERRIDELESS≲sema Yahweh. Na kwa hili ninatazama: kwa yule aliye nyenyekevu, mwenye roho iliyopondeka, na anayetetemeka kwa neno langu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vyote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mkono wangu"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "umefanya"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "na viliwepo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vyote"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hivi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hili"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "ninatazama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yule aliye nyenyekevu"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "mwenye kipondeka"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roho"
+    },
+    {
+      "surface": "וחרד",
+      "gloss": "na anayetetemeka"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "neno langu"
+    }
+  ],
+  "timestamp": "2026-08-10T12:10:08.915288072Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 49,
+  "translation": "na ⟨huwa⟩ ghali fidia ya nafsi zao, na hukoma milele —",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "na ⟨huwa⟩ ghali"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "fidia"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ya nafsi zao"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "na hukoma"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "milele"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:49.786297933Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 23,
+  "translation": "Wakamwambia David, wakisema: Tazama, Pelishtim wanapigana dhidi ya Qeila, nao wanapora ⟨את⟩ maghani.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "Wakamwambia"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wakisema"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tazama"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "wanapigana"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "dhidi ya Qeila"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "nao"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "wanapora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maghani"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "maghani"
+    }
+  ],
+  "timestamp": "2026-08-10T14:54:30.975708009Z",
+  "model": "glm-5.2"
+}

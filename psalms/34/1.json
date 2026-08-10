@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 34,
+  "translation": "Ya David, katika kubadilisha ⟨kwake⟩ ⟨את⟩ tabia yake mbele za Avimelek, naye akamfukuza, akaenda.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya David"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "katika kubadilisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabia yake"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "tabia yake"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "naye akamfukuza"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    }
+  ],
+  "timestamp": "2026-08-10T12:59:42.402479586Z",
+  "model": "glm-5.2"
+}

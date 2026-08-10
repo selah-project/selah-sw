@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Wewe, Yahweh, usizuie rehema zako kutoka kwangu; chesed yako na uaminifu wako daima ⟨wanilinde⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "zuie"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rehema zako"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kutoka kwangu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed yako"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "na uaminifu wako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daima"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "wanilinde"
+    }
+  ],
+  "timestamp": "2026-08-10T13:01:47.169732904Z",
+  "model": "glm-5.2"
+}

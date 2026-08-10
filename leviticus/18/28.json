@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Ili nchi isitapike ⟨את⟩ ninyi katika kuichafua kwenu ⟨את⟩ nchi, kama ilivyotapika ⟨את⟩ taifa lililokuwa mbele yenu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ili isi"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "tapike"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninyi",
+      "marks": "ninyi"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "katika kuichafua kwenu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nchi",
+      "marks": "nchi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama ilivyo"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "tapika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ taifa",
+      "marks": "taifa"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "taifa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lililokuwa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mbele yenu"
+    }
+  ],
+  "timestamp": "2026-08-10T10:35:52.902452881Z",
+  "model": "glm-5.2"
+}

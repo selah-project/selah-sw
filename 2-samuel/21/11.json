@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Ikapakiwa habari kwa Davidi ⟨uhabari⟩ ⟨את⟩ yale aliyo tenda Ritspah binti Aya, mke mwenza wa Shaul.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Ikapakiwa habari"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwa Davidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yale"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "aliyo tenda"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "mke mwenza"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-10T11:35:03.786518354Z",
+  "model": "glm-5.2"
+}

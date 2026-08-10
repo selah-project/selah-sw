@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "sw",
+  "chapter": 22,
+  "translation": "Kama kwa kwali limepasuliwa, nauletwe shahidi ⟨wa⟩ mnyama aliye pasuliwa; hatatonga.",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "טָרֹ֥ף",
+      "gloss": "kwa kweli"
+    },
+    {
+      "surface": "יִטָּרֵ֖ף",
+      "gloss": "limepasuliwa"
+    },
+    {
+      "surface": "יְבִאֵ֣הוּ",
+      "gloss": "nauletwe"
+    },
+    {
+      "surface": "עֵ֑ד",
+      "gloss": "shahidi"
+    },
+    {
+      "surface": "הַטְּרֵפָ֖ה",
+      "gloss": "mnyama aliye pasuliwa"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "hatatonga"
+    }
+  ],
+  "timestamp": "2026-08-10T10:24:06.990452202Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 95,
+  "translation": "ambapo niliapa kwa hasira yangu: Hawataingia katika mahali pangu pa pumziko!",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "נִשְׁבַּ֥עְתִּי",
+      "gloss": "niliapa"
+    },
+    {
+      "surface": "בְאַפִּ֑י",
+      "gloss": "kwa hasira yangu"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "Hawata"
+    },
+    {
+      "surface": "יְ֝בֹא֗וּן",
+      "gloss": "ingia"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "katika"
+    },
+    {
+      "surface": "מְנוּחָתִֽי",
+      "gloss": "mahali pangu pa pumziko"
+    }
+  ],
+  "timestamp": "2026-08-10T15:28:39.576575067Z",
+  "model": "glm-5.2"
+}

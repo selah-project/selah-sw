@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na Shallum alimzalia ⟨את⟩ Chilqijah, na Chilqijah alimzalia ⟨את⟩ Azarjah.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "na Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzalia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chilqijah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chilqijah"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "na Chilqijah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "alimzalia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    }
+  ],
+  "timestamp": "2026-08-10T14:04:18.885772720Z",
+  "model": "glm-5.2"
+}

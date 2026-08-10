@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "sw",
+  "chapter": 18,
+  "translation": "Sehemu kama sehemu ⟨wata⟩kula, mbali na mauzo yake ⟨aliyopata⟩ juu ya baba.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "sehemu"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "kama sehemu"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kula"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "mbali na"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "mauzo yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "baba"
+    }
+  ],
+  "timestamp": "2026-08-10T17:44:18.350158192Z",
+  "model": "glm-5.2"
+}

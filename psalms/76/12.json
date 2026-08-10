@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 76,
+  "translation": "Toeni nadhiri na zitimizeni kwa Yahweh, Elohim wenu, sote mlio karibu naye; watu watoe zawadi kwa Yeye anayestahili kuogopiwa.",
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "toeni nadhiri"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "na zitimizeni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wenu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sote"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "mlio karibu naye"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "watu watoe"
+    },
+    {
+      "surface": "שי",
+      "gloss": "zawadi"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "kwa Yeye anayestahili kuogopiwa"
+    }
+  ],
+  "timestamp": "2026-08-10T13:07:21.683193705Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Na Yahweh akampiga ⟨את⟩ Paroh kwa mapigo makubwa na ⟨את⟩ nyumba yake, kwa sababu ya Sarai, mke wa Avram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "na akampiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "kwa mapigo"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "makubwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyumba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyumba yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa sababu ya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sababu ya"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mke wa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-08-10T10:04:28.263335450Z",
+  "model": "glm-5.2"
+}

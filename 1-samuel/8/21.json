@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Na Shemuëli akasikia ⟨את⟩ maneno yote ya ⟨hao⟩ watu, akayatamka masikioni mwa Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "na akasikia"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maneno yote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yote"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya watu"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "akayatamka"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "masikioni mwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T11:20:38.091602758Z",
+  "model": "glm-5.2"
+}

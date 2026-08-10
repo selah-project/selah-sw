@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na Yahweh alimkumbuka ⟨את⟩ Sarahi kama alivyosema, na Yahweh akamfanyia Sarahi kama alivyozungumza.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yahweh"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "alimkumbuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarahi"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarahi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama alivyosema"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alivyosema"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "na akamfanyia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "kwa Sarahi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kama alivyozungumza"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alivyozungumza"
+    }
+  ],
+  "timestamp": "2026-08-10T15:50:19.366652838Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "sw",
+  "chapter": 8,
+  "translation": "Wakakusanyika kwa mfalume Shelomoh wanawake wote wa Yisra'el ⟨wanaume⟩ mwezi wa Eitanim, ⟨wakati wa⟩ sikukuu — hiyo ⟨ni⟩ mwezi wa saba.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "Wakakusanyika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mfalume"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wote"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wanaume"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisra'el"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "mwezi"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "wa Eitanim"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "sikukuu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hiyo"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mwezi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wa saba"
+    }
+  ],
+  "timestamp": "2026-08-10T11:40:15.921177446Z",
+  "model": "glm-5.2"
+}

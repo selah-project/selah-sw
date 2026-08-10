@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "sw",
+  "chapter": 14,
+  "translation": "Na walimbeba ⟨אתו⟩ juu ya farasi, akazikwa katika Yerushalayim pamoja na baba zake, katika mji wa David.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "na walimbeba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "yeye (Amatsyahu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "farasi"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "akazikwa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "katika Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamoja na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baba zake"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "katika mji"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa David"
+    }
+  ],
+  "timestamp": "2026-08-10T11:49:03.964277523Z",
+  "model": "glm-5.2"
+}

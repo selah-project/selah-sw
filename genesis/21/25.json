@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "sw",
+  "chapter": 21,
+  "translation": "Na Avraham alimkemea ⟨את⟩ Avimeleki kwa sababu ya kisima cha maji ambacho wafanyakazi wa Avimeleki walikuwa wamechukua kwa nguvu.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "Na akamkemea"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimeleki"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleki"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "sababu ya"
+    },
+    {
+      "surface": "באר",
+      "gloss": "kisima"
+    },
+    {
+      "surface": "המים",
+      "gloss": "cha maji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambacho"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "walichukua kwa nguvu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "wafanyakazi wa"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleki"
+    }
+  ],
+  "timestamp": "2026-08-10T10:06:10.956840429Z",
+  "model": "glm-5.2"
+}

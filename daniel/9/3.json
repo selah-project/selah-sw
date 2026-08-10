@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Nikaweka ⟨את⟩ uso wangu kwa Adonai, Elohim, kuomba sala na maombezi, kwa kufunga na nguo magugu na majivu.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "nikaweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uso wangu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uso wangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kuomba"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "sala"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "na maombezi"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "kwa kufunga"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "na nguo magugu"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "na majivu"
+    }
+  ],
+  "timestamp": "2026-08-10T16:25:45.665503330Z",
+  "model": "glm-5.2"
+}

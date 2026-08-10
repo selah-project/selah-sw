@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 138,
+  "translation": "Na wataimba katika njia za Yahweh, kwa maana mkubwa ⟨ni⟩ utukufu wa Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "Na wataimba"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "katika njia za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mkubwa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "utukufu wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:31.126965351Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "sw",
+  "chapter": 4,
+  "translation": "Mfalme wa nchi, nao pia wakaazi wote wa dunia, hawakuamini kwamba adui na mpinzani angeweza kuingia katika milango ya Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hawakuamini"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "⟨hawakuamini⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Mfalme"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wa nchi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nao pia wakaazi wote"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "⟨wakaazi⟩"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "wa dunia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwamba"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "angeweza kuingia"
+    },
+    {
+      "surface": "צר",
+      "gloss": "adui"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "na mpinzani"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "katika milango"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ya Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-10T13:44:36.689360139Z",
+  "model": "glm-5.2"
+}

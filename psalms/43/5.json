@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 43:5",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 43,
+  "translation": "Mbona unachubuka, nafsi yangu, na mbona unanguruma juu yangu? Tegemea Elohim, kwa maana bado nitamshukuru, ⟨niye⟩ wokovu wa uso wangu, na Elohim wangu.",
+  "tokens": [
+    {
+      "surface": "מַה",
+      "gloss": "Mbona"
+    },
+    {
+      "surface": "תִּשְׁתּ֬וֹחֲחִ֨י",
+      "gloss": "unachubuka"
+    },
+    {
+      "surface": "נַפְשִׁי֮",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "וּֽמַה",
+      "gloss": "na mbona"
+    },
+    {
+      "surface": "תֶּהֱמִ֪י",
+      "gloss": "unanguruma"
+    },
+    {
+      "surface": "עָ֫לָ֥י",
+      "gloss": "juu yangu"
+    },
+    {
+      "surface": "הוֹחִ֣ילִי",
+      "gloss": "Tegemea"
+    },
+    {
+      "surface": "לֵֽ֭אלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kwa maana"
+    },
+    {
+      "surface": "ע֣וֹד",
+      "gloss": "bado"
+    },
+    {
+      "surface": "אוֹדֶ֑נּוּ",
+      "gloss": "nitamshukuru"
+    },
+    {
+      "surface": "יְשׁוּעֹ֥ת",
+      "gloss": "wokovu"
+    },
+    {
+      "surface": "פָּ֝נַ֗י",
+      "gloss": "wa uso wangu"
+    },
+    {
+      "surface": "וֵֽאלֹהָֽי",
+      "gloss": "na Elohim wangu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:25:01.089466843Z",
+  "model": "glm-5.2"
+}

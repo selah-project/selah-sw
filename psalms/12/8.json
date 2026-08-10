@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 12,
+  "translation": "Wewe, Yahweh, utawahifadhi; utamlinda ⟨yeye⟩ kizazi hiki hata milele.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "utawahifadhi"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "utamlinda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kutoka"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "kizazi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "hiki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hata milele"
+    }
+  ],
+  "timestamp": "2026-08-10T12:56:32.675203177Z",
+  "model": "glm-5.2"
+}

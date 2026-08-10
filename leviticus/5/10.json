@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "sw",
+  "chapter": 5,
+  "translation": "Na ⟨את⟩ wa pili atafanya ⟨kuwa⟩ sadaka ya kuchomwa, kama vile sheria ⟨inavyoamrisha⟩; na kuhani atafanya upatanisho kwa ajili yake kwa dhambi yake ambayo ametenda dhambi, naye atasamehewa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wa piti"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa pili"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "atafanya"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sadaka ya kuchomwa"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kama vile sheria"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "na atafanya upatanisho"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kwa ajili yake"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kuhani"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "kwa dhambi yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambayo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ametenda dhambi"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "naye atasamehewa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-08-10T10:32:35.517713929Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 140,
+  "translation": "Ambao wameficha mabaya katika moyo; kila siku huanzisha vita.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ambao"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "wameficha"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "mabaya"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "katika moyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kila"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siku"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "huanzisha"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "vita"
+    }
+  ],
+  "timestamp": "2026-08-10T16:20:28.262882485Z",
+  "model": "glm-5.2"
+}

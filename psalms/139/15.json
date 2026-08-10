@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 139,
+  "translation": "Mifupa yango haikufichika kwako, ambapo niliumbwa kwa siri, niliposhonwa katika sehemu za chini za nchi.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "sio"
+    },
+    {
+      "surface": "נִכְחַ֥ד",
+      "gloss": "haikufichika"
+    },
+    {
+      "surface": "עָצְמִ֗י",
+      "gloss": "mifupa yango"
+    },
+    {
+      "surface": "מִ֫מֶּ֥ךָּ",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ambapo"
+    },
+    {
+      "surface": "עֻשֵּׂ֥יתִי",
+      "gloss": "niliumbwa"
+    },
+    {
+      "surface": "בַסֵּ֑תֶר",
+      "gloss": "kwa siri"
+    },
+    {
+      "surface": "רֻ֝קַּ֗מְתִּי",
+      "gloss": "niliposhonwa"
+    },
+    {
+      "surface": "בְּֽתַחְתִּיּ֥וֹת",
+      "gloss": "katika sehemu za chini"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "za nchi"
+    }
+  ],
+  "timestamp": "2026-08-10T13:20:12.926362663Z",
+  "model": "glm-5.2"
+}

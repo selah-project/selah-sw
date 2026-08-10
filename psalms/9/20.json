@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 9,
+  "translation": "Ondoka, ee Yahweh! Mwenge kabisa asitangaze nguvu; matafi na hukumiwe mbele za uso wako.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ondoka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ee Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kabisa"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "asitangaze nguvu"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mwenge"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "na hukumiwe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mataifa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbele za"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uso wako"
+    }
+  ],
+  "timestamp": "2026-08-10T12:55:48.773214428Z",
+  "model": "glm-5.2"
+}

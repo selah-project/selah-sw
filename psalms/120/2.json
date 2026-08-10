@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "sw",
+  "chapter": 120,
+  "translation": "Yahweh, okoa nafsi yangu kutoka kwa midomo ya uongo, kutoka kwa ulimi wa udanganyifu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "Okoa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi yangu"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "kutoka kwa midomo ya"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "uongo"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "kutoka kwa ulimi wa"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "udanganyifu"
+    }
+  ],
+  "timestamp": "2026-08-10T13:18:12.304461121Z",
+  "model": "glm-5.2"
+}

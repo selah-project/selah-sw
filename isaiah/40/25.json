@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "sw",
+  "chapter": 40,
+  "translation": "Na kwa nani mnanilinganisha nami? ⟨Au⟩ ni sawa naye? asema ⟨ye⟩ Mtakatifu.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Na kwa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "mnanilinganisha"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "nami ni sawa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "asema"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mtakatifu"
+    }
+  ],
+  "timestamp": "2026-08-10T15:07:31.844786514Z",
+  "model": "glm-5.2"
+}
