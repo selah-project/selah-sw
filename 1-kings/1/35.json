@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Na mpandenie nyuma yake, naye ⟨atakwenda⟨ na ⟨yeyeketi⟨ juu ya kiti changu cha enzi, naye atatawala mahali pangu; naye ⟨nimeamuru⟨ ⟨אתו⟨ kuwa kiongozi juu ya Yisra'eli na juu ya Yehudah.",
+  "translation": "Na mpande nyuma yake, naye aje akae juu ya kiti changu cha enzi, naye atawale badala yangu; na ⟨את⟩ yeye nimemwamuru kuwa mkuu juu ya Yisraeli na juu ya Yehuda.",
   "tokens": [
     {
       "surface": "ועליתם",
-      "gloss": "Na mpandenie"
+      "gloss": "na mpande"
     },
     {
       "surface": "אחריו",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ובא",
-      "gloss": "na atakwenda"
+      "gloss": "naye aje"
     },
     {
       "surface": "וישב",
-      "gloss": "na yeyeketi"
+      "gloss": "akae"
     },
     {
       "surface": "על",
@@ -37,20 +37,20 @@
     },
     {
       "surface": "ימלך",
-      "gloss": "atatawala"
+      "gloss": "atawale"
     },
     {
       "surface": "תחתי",
-      "gloss": "mahali pangu"
+      "gloss": "badala yangu"
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "nimeamuru"
+      "gloss": "na ⟨את⟩",
+      "marks": "yeye (Shelomoho)"
     },
     {
       "surface": "צויתי",
-      "gloss": "nimeamuru"
+      "gloss": "nimemwamuru"
     },
     {
       "surface": "להיות",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "נגיד",
-      "gloss": "kiongozi"
+      "gloss": "mkuu"
     },
     {
       "surface": "על",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'eli"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "ועל",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehudah"
+      "gloss": "Yehuda"
     }
   ],
-  "timestamp": "2026-08-10T14:58:30.772708629Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:14.873143284Z",
+  "model": "glm-5.3"
 }

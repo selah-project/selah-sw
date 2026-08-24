@@ -5,23 +5,23 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Na tazama, kwa watakataji wa kudunga ⟨⟨Ambao⟩⟩ watakata miti, nimewapa watumishi wako ngano iliyopigwa: makori elfu ishirini, na shayiri makori elfu ishirini, na mvinyo bathi elfu ishirini, na mafuta bathi elfu ishirini.",
+  "translation": "Na tazama, kwa wakataji, wanaokata mti, nimewapa watumishi wako ngano iliyopigwa ⟨kwa chekeche⟩: kori elfu ishirini, na shayiri kori elfu ishirini, na mvinyo bati elfu ishirini, na mafuta bati elfu ishirini.",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "na tazama"
+      "gloss": "Na tazama"
     },
     {
       "surface": "לחטבים",
-      "gloss": "kwa watakataji wa kudunga"
+      "gloss": "kwa wakataji"
     },
     {
       "surface": "לכרתי",
-      "gloss": "watakataji"
+      "gloss": "wanaokata"
     },
     {
       "surface": "העצים",
-      "gloss": "miti"
+      "gloss": "mti"
     },
     {
       "surface": "נתתי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מכות",
-      "gloss": "iliyopigwa"
+      "gloss": "iliyopigwa ⟨kwa chekeche⟩"
     },
     {
       "surface": "לעבדיך",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "כרים",
-      "gloss": "makori"
+      "gloss": "kori"
     },
     {
       "surface": "עשרים",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "כרים",
-      "gloss": "makori"
+      "gloss": "kori"
     },
     {
       "surface": "עשרים",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "בתים",
-      "gloss": "bathi"
+      "gloss": "bati"
     },
     {
       "surface": "עשרים",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "בתים",
-      "gloss": "bathi"
+      "gloss": "bati"
     },
     {
       "surface": "עשרים",
@@ -100,6 +100,6 @@
       "gloss": "elfu"
     }
   ],
-  "timestamp": "2026-08-10T14:13:03.239365569Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:30.330344956Z",
+  "model": "glm-5.3"
 }

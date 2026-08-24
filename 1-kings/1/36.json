@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Bnayahu mwana wa Yehoyada akajibu ⟨את⟫ mfalme na akasema: Amina. Vivyo hivyo aseme Yahweh, Elohim wa bwana wangu mfalme.",
+  "translation": "Naye Benayah'u mwana wa Yehoyada akajibu ⟨את⟩ mfalume akasema: Amini. Vivyo hivo aseme Yahweh, Elohim wa bwana wangu mfalume.",
   "tokens": [
     {
       "surface": "ויען",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "בניהו",
-      "gloss": "Bnayahu"
+      "gloss": "Benayah'u"
     },
     {
       "surface": "בן",
-      "gloss": "mwana wa"
+      "gloss": "mwana"
     },
     {
       "surface": "יהוידע",
@@ -26,23 +26,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mfalme"
+      "marks": "mfalume"
     },
     {
       "surface": "המלך",
-      "gloss": "mfalme"
+      "gloss": "mfalume"
     },
     {
       "surface": "ויאמר",
-      "gloss": "na akasema"
+      "gloss": "akasema"
     },
     {
       "surface": "אמן",
-      "gloss": "Amina"
+      "gloss": "Amini"
     },
     {
       "surface": "כן",
-      "gloss": "Vivyo hivyo"
+      "gloss": "vivyo hivo"
     },
     {
       "surface": "יאמר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim wa"
+      "gloss": "Elohim"
     },
     {
       "surface": "אדני",
@@ -62,9 +62,9 @@
     },
     {
       "surface": "המלך",
-      "gloss": "mfalme"
+      "gloss": "mfalume"
     }
   ],
-  "timestamp": "2026-08-10T14:58:30.785251436Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:14.873306273Z",
+  "model": "glm-5.3"
 }

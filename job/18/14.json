@@ -5,33 +5,33 @@
   "book": "job",
   "lang": "sw",
   "chapter": 18,
-  "translation": "⟨Yeye⟩ atatolewa kwa nguvu kutoka hema lake, ⟨kutoka⟩ tegemeo lake, na ⟨⟨hiyo⟩ itamtelekeza⟩ kumkabidhi mfalme wa maangamizi.",
+  "translation": "Atakatwa kutoka hema lake, kutoka kimbilio chake; na ⟨hii⟩ itamwalisha kwenda kwa mfalme wa vitisho (vya kifo).",
   "tokens": [
     {
-      "surface": "יִנָּתֵק",
-      "gloss": "atatolewa kwa nguvu"
+      "surface": "ינתק",
+      "gloss": "Atakatwa"
     },
     {
-      "surface": "מֵאָהֳלוֹ",
+      "surface": "מאהלו",
       "gloss": "kutoka hema lake"
     },
     {
-      "surface": "מִבְטַחוֹ",
-      "gloss": "⟨kutoka⟩ tegemeo lake"
+      "surface": "מבטחו",
+      "gloss": "kutoka kimbilio chake"
     },
     {
-      "surface": "וְתַצְעִדֵהוּ",
-      "gloss": "na ⟨⟨hiyo⟩ itamtelekeza⟩"
+      "surface": "ותצעדהו",
+      "gloss": "na itamwalisha"
     },
     {
-      "surface": "לְמֶלֶךְ",
-      "gloss": "kumkabidhi mfalme wa"
+      "surface": "למלך",
+      "gloss": "kwenda kwa mfalme"
     },
     {
-      "surface": "בַּלָּהוֹת",
-      "gloss": "maangamizi"
+      "surface": "בלהות",
+      "gloss": "wa vitisho"
     }
   ],
-  "timestamp": "2026-08-10T13:35:04.992692650Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:08.327676763Z",
+  "model": "glm-5.3"
 }

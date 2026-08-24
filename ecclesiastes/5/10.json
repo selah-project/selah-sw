@@ -5,15 +5,15 @@
   "book": "ecclesiastes",
   "lang": "sw",
   "chapter": 5,
-  "translation": "Wakati ⟨הטובה⟩ mema huongezeka, wanaokula ⟨את⟩ yake huongezeka; na faida gani kwa wenyewe, isipokuwa ⟨kuona⟩ kwa macho yake?",
+  "translation": "Mali zikizidi, wanaozila huongezeka; na faida ⟨ni⟩ nini kwa wamiliki wake, isipokuwa kuwa kuona kwa macho yake?",
   "tokens": [
     {
       "surface": "ברבות",
-      "gloss": "wakati huongezeka"
+      "gloss": "zikizidi"
     },
     {
       "surface": "הטובה",
-      "gloss": "mema"
+      "gloss": "mali"
     },
     {
       "surface": "רבו",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אוכליה",
-      "gloss": "wanaokula"
+      "gloss": "wanaozila"
     },
     {
       "surface": "ומה",
-      "gloss": "na faida gani"
+      "gloss": "na nini"
     },
     {
       "surface": "כשרון",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "לבעליה",
-      "gloss": "kwa wenyewe"
+      "gloss": "kwa wamiliki wake"
     },
     {
       "surface": "כי",
-      "gloss": "isipokuwa"
+      "gloss": ""
     },
     {
       "surface": "אם",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "עיניו",
-      "gloss": "macho yake"
+      "gloss": "kwa macho yake"
     }
   ],
-  "timestamp": "2026-08-10T18:30:00.909251153Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:52.054199618Z",
+  "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Utoe zawadi ya kumi ⟨⟨את⟩⟩ yote mazao ya mbegu yako, ⟨yale⟩ yanayotoka shambani, mwaka baada ya mwaka.",
+  "translation": "Hakika utatoa zaka — ⟨את⟩ mavuno yote ya mbegu zako, yanayotoka ⟨⟨katika⟩⟩ shamba, mwaka mwaka.",
   "tokens": [
     {
       "surface": "עשר",
-      "gloss": "Utoe zawadi ya kumi"
+      "gloss": "hakika utatoa zaka"
     },
     {
       "surface": "תעשר",
-      "gloss": "utoe zawadi ya kumi"
+      "gloss": "utatoa zaka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yote"
+      "marks": "mavuno yote"
     },
     {
       "surface": "כל",
@@ -26,19 +26,19 @@
     },
     {
       "surface": "תבואת",
-      "gloss": "mazao"
+      "gloss": "mavuno"
     },
     {
       "surface": "זרעך",
-      "gloss": "ya mbegu yako"
+      "gloss": "ya mbegu zako"
     },
     {
       "surface": "היצא",
-      "gloss": "⟨yale⟩ yanayotoka"
+      "gloss": "yanayotoka"
     },
     {
       "surface": "השדה",
-      "gloss": "shambani"
+      "gloss": "shamba"
     },
     {
       "surface": "שנה",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "שנה",
-      "gloss": "baada ya mwaka"
+      "gloss": "mwaka"
     }
   ],
-  "timestamp": "2026-08-10T10:58:13.744392354Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:35.173951804Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 23,
-  "translation": "Akamchukua ⟨kwenda⟩ Shde Tsophim, mpaka kichwa cha ⟨ה⟩ Pisga, akajenga madhabahu saba, akatoa huduma ⟨ya⟩ ng'ombe na ⟨ya⟩ kondoo juu ya madhabahu.",
+  "translation": "Akamchukua ⟨kuelekea⟩ shamba la Tsophim, mpaka kilele cha ⟨Pisgah⟩, akajenga madhabahu saba, akapanda juu ⟨kutoa⟩ ng'ombe ⟨mume⟩ na kondoo dume juu ya madhabahu.",
   "tokens": [
     {
       "surface": "ויקחהו",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "שדה",
-      "gloss": "Shde"
+      "gloss": "shamba"
     },
     {
       "surface": "צפים",
-      "gloss": "Tsophim"
+      "gloss": "la Tsophim"
     },
     {
       "surface": "אל",
-      "gloss": "mpaka"
+      "gloss": "⟨kuelekea⟩"
     },
     {
       "surface": "ראש",
-      "gloss": "kichwa cha"
+      "gloss": "kilele"
     },
     {
       "surface": "הפסגה",
-      "gloss": "⟨ה⟩ Pisga"
+      "gloss": "cha Pisgah"
     },
     {
       "surface": "ויבן",
@@ -45,21 +45,21 @@
     },
     {
       "surface": "ויעל",
-      "gloss": "akatoa huduma"
+      "gloss": "akapanda juu ⟨kutoa⟩"
     },
     {
       "surface": "פר",
-      "gloss": "⟨ya⟩ ng'ombe"
+      "gloss": "ng'ombe ⟨mume⟩"
     },
     {
       "surface": "ואיל",
-      "gloss": "na ⟨ya⟩ kondoo"
+      "gloss": "na kondoo dume"
     },
     {
       "surface": "במזבח",
       "gloss": "juu ya madhabahu"
     }
   ],
-  "timestamp": "2026-08-10T10:48:37.490657394Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:38.125784392Z",
+  "model": "glm-5.3"
 }

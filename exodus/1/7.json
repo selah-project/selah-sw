@@ -5,23 +5,23 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Wana wa Yisrael walizaa, wakaongezeka wingi, wakaongezeka, wakawa wenye nguvu sana, sana; nchi ikajaa ⟨na⟩ ⟨אתם⟩.",
+  "translation": "Na wana wa Yisraeli walizaa matunda, walishika wingi, wakaongezeka, wakawa hodari sana sana; na ⟨ה⟩ nchi ikajaa ⟨את⟩ ⟨אתם⟩ wao.",
   "tokens": [
     {
       "surface": "ובני",
-      "gloss": "na wana"
+      "gloss": "Na wana wa"
     },
     {
       "surface": "ישראל",
-      "gloss": "wa Yisrael"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "פרו",
-      "gloss": "walizaa"
+      "gloss": "walizaa matunda"
     },
     {
       "surface": "וישרצו",
-      "gloss": "wakaongezeka wingi"
+      "gloss": "walishika wingi"
     },
     {
       "surface": "וירבו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויעצמו",
-      "gloss": "wakawa wenye nguvu"
+      "gloss": "wakawa hodari"
     },
     {
       "surface": "במאד",
@@ -41,18 +41,18 @@
     },
     {
       "surface": "ותמלא",
-      "gloss": "nchi ikajaa"
+      "gloss": "na ikajaa"
     },
     {
       "surface": "הארץ",
-      "gloss": ""
+      "gloss": "nchi"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "na"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "wao"
     }
   ],
-  "timestamp": "2026-08-10T10:16:57.816070411Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.330468043Z",
+  "model": "glm-5.3"
 }

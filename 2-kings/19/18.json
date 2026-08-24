@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 19,
-  "translation": "na waliwatupa ⟨את⟩ miungu yao motoni; maana si Elohim ⟨⟨hao⟩⟩, bali ni kazi ya mikono ya binadamu — muti na jiwe — nao kuiharibu.",
+  "translation": "na wakaweka ⟨את⟩ miungu yao katika moto, maana si miungu, bali ni kazi ya mikono ya mwanadamu, mbao na mawe; ndiyo maana waliwaangamiza.",
   "tokens": [
     {
       "surface": "ונתנו",
-      "gloss": "na waliwatupa"
+      "gloss": "na wakaweka"
     },
     {
       "surface": "את",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "באש",
-      "gloss": "motoni"
+      "gloss": "katika moto"
     },
     {
       "surface": "כי",
@@ -34,45 +34,45 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim"
+      "gloss": "miungu"
     },
     {
       "surface": "המה",
-      "gloss": "hao"
+      "gloss": "wao"
     },
     {
       "surface": "כי",
-      "gloss": "bali"
+      "gloss": "bali ni"
     },
     {
       "surface": "אם",
-      "gloss": "ni"
+      "gloss": "bali"
     },
     {
       "surface": "מעשה",
-      "gloss": "kazi ya"
+      "gloss": "kazi"
     },
     {
       "surface": "ידי",
-      "gloss": "mikono ya"
+      "gloss": "ya mikono"
     },
     {
       "surface": "אדם",
-      "gloss": "binadamu"
+      "gloss": "ya mwanadamu"
     },
     {
       "surface": "עץ",
-      "gloss": "muti"
+      "gloss": "mbao"
     },
     {
       "surface": "ואבן",
-      "gloss": "na jiwe"
+      "gloss": "na mawe"
     },
     {
       "surface": "ויאבדום",
-      "gloss": "nao kuiharibu"
+      "gloss": "ndiyo maana waliwaangamiza"
     }
   ],
-  "timestamp": "2026-08-10T11:52:51.270382173Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:26.565846526Z",
+  "model": "glm-5.3"
 }

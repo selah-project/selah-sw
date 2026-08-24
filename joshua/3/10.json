@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Na Yehoshua akasema: Kwa hii mtajua ya kwamba El hai ⟨⟨yumo⟩⟩ katikati yenu, na kwamba atawafukuza hakika mbele zenu ⟨את⟩ Mkana'ani na ⟨את⟩ Mhiti na ⟨את⟩ Mhivi na ⟨את⟩ Mperizizi na ⟨את⟩ Mgirgashi na Mamori na Myebusi.",
+  "translation": "Na Yehoshua akasema: Kwa hii mtajua kwamba El hai yumo katikati yenu, na kwamba bila shaka atawafukuza mbele yenu ⟨את⟩ Mkanayani na ⟨את⟩ Mhiti na ⟨את⟩ Mhivi na ⟨את⟩ Mperizi na ⟨את⟩ Mgirgashi, na Mamori na Maybusi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "na akasema"
+      "gloss": "akasema"
     },
     {
       "surface": "יהושע",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "ya kwamba"
+      "gloss": "kwamba"
     },
     {
       "surface": "אל",
@@ -45,24 +45,24 @@
     },
     {
       "surface": "יוריש",
-      "gloss": "hakika"
+      "gloss": "bila shaka atawafukuza"
     },
     {
       "surface": "מפניכם",
-      "gloss": "mbele zenu"
+      "gloss": "mbele yenu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mkana'ani"
+      "marks": "Mkanayani"
     },
     {
       "surface": "הכנעני",
-      "gloss": "Mkana'ani"
+      "gloss": "Mkanayani"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Mhiti"
     },
     {
@@ -71,7 +71,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Mhivi"
     },
     {
@@ -80,16 +80,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "Mperizizi"
+      "gloss": "⟨את⟩",
+      "marks": "Mperizi"
     },
     {
       "surface": "הפרזי",
-      "gloss": "Mperizizi"
+      "gloss": "Mperizi"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Mgirgashi"
     },
     {
@@ -102,9 +102,9 @@
     },
     {
       "surface": "והיבוסי",
-      "gloss": "na Myebusi"
+      "gloss": "na Maybusi"
     }
   ],
-  "timestamp": "2026-08-10T11:05:11.831716848Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:03.508677107Z",
+  "model": "glm-5.3"
 }

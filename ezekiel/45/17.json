@@ -5,23 +5,23 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 45,
-  "translation": "Na kwa mkuu ⟨itakuwa⟩ ⟨kutoa⟩ matoleo ya moto na sadaka ya nafaka na sadaka ya kinywaji, katika sikukuu na katika mwezi mpya na katika Sabato, katika nyakati zote zilizowekwa za nyumba ya Yisra'el; yeye atafanya ⟨את⟩ tofara na ⟨את⟩ sadaka ya nafaka na ⟨את⟩ toleo la moto na ⟨את⟩ sadaka za amani, kufanya upatanisho kwa ajili ya nyumba ya Yisra'el.",
+  "translation": "Na juu ya nasii ⟨⟩itakuwa ⟨ni⟩ ya kutoa machomizo ⟨את⟩ sadaka ya kuteseka ⟨na⟩ ⟨את⟩ mafuta ya kumwagwa katika sikukuu, na katika miezi mpya, na katika Sabati, katika nyakati zote zilizowekwa za nyumba ya Yisraeli; yeye atafanya ⟨את⟩ sadaka ya dhambi na ⟨את⟩ sadaka ya nafaka na ⟨את⟩ sadaka ya kuchoma na ⟨את⟩ sadaka za amani, kufanya upatanisho kwa ajili ya nyumba ya Yisraeli.",
   "tokens": [
     {
       "surface": "ועל",
-      "gloss": "na kwa"
+      "gloss": "na juu ya"
     },
     {
       "surface": "הנשיא",
-      "gloss": "mkuu"
+      "gloss": "nasii"
     },
     {
       "surface": "יהיה",
-      "gloss": "⟨itakuwa⟩"
+      "gloss": "itakuwa"
     },
     {
       "surface": "העולות",
-      "gloss": "matoleo ya moto"
+      "gloss": "machomizo"
     },
     {
       "surface": "והמנחה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "והנסך",
-      "gloss": "na sadaka ya kinywaji"
+      "gloss": "na ya kumwagwa"
     },
     {
       "surface": "בחגים",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ובחדשים",
-      "gloss": "na katika mwezi mpya"
+      "gloss": "na katika miezi mpya"
     },
     {
       "surface": "ובשבתות",
-      "gloss": "na katika Sabato"
+      "gloss": "na katika Sabati"
     },
     {
       "surface": "בכל",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "הוא",
@@ -70,15 +70,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tofara"
+      "marks": "sadaka ya dhambi"
     },
     {
       "surface": "החטאת",
-      "gloss": "tofara"
+      "gloss": "sadaka ya dhambi"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨na את⟩",
+      "gloss": "na ⟨את⟩",
       "marks": "sadaka ya nafaka"
     },
     {
@@ -87,16 +87,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨na את⟩",
-      "marks": "toleo la moto"
+      "gloss": "na ⟨את⟩",
+      "marks": "sadaka ya kuchoma"
     },
     {
       "surface": "העולה",
-      "gloss": "toleo la moto"
+      "gloss": "sadaka ya kuchoma"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨na את⟩",
+      "gloss": "na ⟨את⟩",
       "marks": "sadaka za amani"
     },
     {
@@ -117,9 +117,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisraeli"
     }
   ],
-  "timestamp": "2026-08-10T15:18:48.753189269Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:06.567771724Z",
+  "model": "glm-5.3"
 }

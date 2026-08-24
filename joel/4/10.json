@@ -5,27 +5,28 @@
   "book": "joel",
   "lang": "sw",
   "chapter": 4,
-  "translation": "Pungeni ⟨⟨ jembe lenu ⟩⟩ kuwa nyuma, na misoni yenu kuwa mikuki; mnyonge nausema: Mimi ni shujaa.",
+  "translation": "Pungeni ⟨את⟩ vyombo vyenu vya kulima viwe vipanga, na ⟨את⟩ miweso yenu iwe mikuki; mnyonge naasema: Mimi ni nguvu.",
   "tokens": [
     {
       "surface": "כתו",
-      "gloss": "Pungeni"
+      "gloss": "pungeni"
     },
     {
       "surface": "אתיכם",
-      "gloss": "⟨⟨ jembe lenu ⟩⟩"
+      "gloss": "⟨את⟩",
+      "marks": "vyombo vyenu vya kulima"
     },
     {
       "surface": "לחרבות",
-      "gloss": "kuwa nyuma"
+      "gloss": "viwe vipanga"
     },
     {
       "surface": "ומזמרתיכם",
-      "gloss": "na misoni yenu"
+      "gloss": "na miweso yenu"
     },
     {
       "surface": "לרמחים",
-      "gloss": "kuwa mikuki"
+      "gloss": "iwe mikuki"
     },
     {
       "surface": "החלש",
@@ -33,17 +34,17 @@
     },
     {
       "surface": "יאמר",
-      "gloss": "nausema"
+      "gloss": "naasema"
     },
     {
       "surface": "גבור",
-      "gloss": "shujaa"
+      "gloss": "nguvu"
     },
     {
       "surface": "אני",
-      "gloss": "Mimi"
+      "gloss": "mimi"
     }
   ],
-  "timestamp": "2026-08-10T12:43:46.045030585Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:48.784568291Z",
+  "model": "glm-5.3"
 }

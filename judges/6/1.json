@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 6,
-  "translation": "Na wakafanya wana wa Yisra'eli maovu machoni pa Yahweh, naye Yahweh akawapa ⟨⟨wao⟩⟩ katika mkono wa Midyani kwa miaka saba.",
+  "translation": "Nao wana wa Yisraeli walifanya mabaya machoni pa Yahweh, nayo Yahweh aliwataka katika mkono wa Midiani, miaka saba.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "na wakafanya"
+      "gloss": "walifanya"
     },
     {
       "surface": "בני",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'eli"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "הרע",
-      "gloss": "maovu"
+      "gloss": "mabaya"
     },
     {
       "surface": "בעיני",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ויתנם",
-      "gloss": "naye akawapa"
+      "gloss": "nayo aliwataka"
     },
     {
       "surface": "יהוה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "מדין",
-      "gloss": "Midyani"
+      "gloss": "Midiani"
     },
     {
       "surface": "שבע",
@@ -56,6 +56,6 @@
       "gloss": "miaka"
     }
   ],
-  "timestamp": "2026-08-10T11:13:53.446683139Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:21.390151719Z",
+  "model": "glm-5.3"
 }

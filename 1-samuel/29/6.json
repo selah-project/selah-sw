@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 29,
-  "translation": "Basi Akish aliita David, akamwambia: ⟨Kwa⟩ uhai wa Yahweh, kwani wewe u mwema, na kutoka kwako na kuingia kwako ⟨pamoja⟩ nami ⟨⟨את⟩⟩ katika kambi ni jema machoni pangu, maana sijapata ubaya ndani yako tangu siku ulipoingia kwangu hadi siku hii; lakini machoni pa wakuu wewe si mwema.",
+  "translation": "Basi Akish aliita David, akamwambia: Kwa maisha ya Yahweh, wewe umekuwa mwofu, na kutoka kwako na kuingia kwako pamoja nami katika kambi ni jema machoni pangu, kwa maana sikupata ndani yako ovu lolote tangu siku ulipokuja kwangu hadi siku hii; lakini machoni pa wakuu wewe si mwema.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "Basi aliita"
+      "gloss": "Basi…aliita"
     },
     {
       "surface": "אכיש",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "אליו",
-      "gloss": "kwa"
+      "gloss": "kwake"
     },
     {
       "surface": "חי",
-      "gloss": "uhai"
+      "gloss": "Kwa maisha"
     },
     {
       "surface": "יהוה",
-      "gloss": "wa Yahweh"
+      "gloss": "ya Yahweh"
     },
     {
       "surface": "כי",
-      "gloss": "kwani"
+      "gloss": "kwa maana"
     },
     {
       "surface": "ישר",
-      "gloss": "u mwema"
+      "gloss": "mwofu"
     },
     {
       "surface": "אתה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "וטוב",
-      "gloss": "na ni jema"
+      "gloss": "na…ni jema"
     },
     {
       "surface": "בעיני",
@@ -69,8 +69,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩",
-      "marks": "pamoja nami"
+      "gloss": "⟨את⟩ pamoja nami"
     },
     {
       "surface": "במחנה",
@@ -78,15 +77,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "maana"
+      "gloss": "kwa maana"
     },
     {
       "surface": "לא",
-      "gloss": "sija"
+      "gloss": "si"
     },
     {
       "surface": "מצאתי",
-      "gloss": "pata"
+      "gloss": "nimewahi kupata"
     },
     {
       "surface": "בך",
@@ -94,7 +93,7 @@
     },
     {
       "surface": "רעה",
-      "gloss": "ubaya"
+      "gloss": "ovu"
     },
     {
       "surface": "מיום",
@@ -102,7 +101,7 @@
     },
     {
       "surface": "באך",
-      "gloss": "ulipoingia"
+      "gloss": "ulipokuja"
     },
     {
       "surface": "אלי",
@@ -122,11 +121,11 @@
     },
     {
       "surface": "ובעיני",
-      "gloss": "lakini machoni pa"
+      "gloss": "na machoni"
     },
     {
       "surface": "הסרנים",
-      "gloss": "wakuu"
+      "gloss": "pa wakuu"
     },
     {
       "surface": "לא",
@@ -141,6 +140,6 @@
       "gloss": "wewe"
     }
   ],
-  "timestamp": "2026-08-10T14:54:35.202180099Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:35.254177195Z",
+  "model": "glm-5.3"
 }

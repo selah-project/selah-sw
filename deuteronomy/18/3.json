@@ -5,49 +5,49 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 18,
-  "translation": "Na hii itakuwa haki ya makuhani kutoka kwa ⟨את⟩ watu, kutoka kwa ⟨את⟩ wachinjaji wa dhabihu — iwe ng'ombe iwe kondoo — na ⟨⟨atatoa⟩⟩ kwa kuhani ⟨את⟩ bega na ⟨את⟩ mbavu mbili na ⟨את⟩ tumbo.",
+  "translation": "Na huu ndio utawala ⟨wa⟩ makuhani kutoka ⟨את⟩ kwa watu, kutoka ⟨את⟩ kwa wanaochinja dhabihu, iiki ni ng'ombe au iiki ni kondoo; ⟨wata≫mpa kuhani mguu wa mabega, na matabaka mbili, na tumbo.",
   "tokens": [
     {
       "surface": "וזה",
-      "gloss": "Na hii"
+      "gloss": "Na huu"
     },
     {
       "surface": "יהיה",
-      "gloss": "itakuwa"
+      "gloss": "ndio utawala"
     },
     {
       "surface": "משפט",
-      "gloss": "haki"
+      "gloss": "utawala"
     },
     {
       "surface": "הכהנים",
-      "gloss": "ya makuhani"
+      "gloss": "makuhani"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩",
-      "marks": "watukutuwa"
+      "gloss": "kutoka ⟨את⟩",
+      "marks": "kwa watu"
     },
     {
       "surface": "העם",
-      "gloss": "watukutuwa"
+      "gloss": "kwa watu"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩",
-      "marks": "wachinjaji"
+      "gloss": "kutoka ⟨את⟩",
+      "marks": "kwa wanaochinja dhabihu"
     },
     {
       "surface": "זבחי",
-      "gloss": "wachinjaji"
+      "gloss": "wanaochinja"
     },
     {
       "surface": "הזבח",
-      "gloss": "wa dhabihu"
+      "gloss": "dhabihu"
     },
     {
       "surface": "אם",
-      "gloss": "iwa"
+      "gloss": "iiki"
     },
     {
       "surface": "שור",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "iwa"
+      "gloss": "au iiki"
     },
     {
       "surface": "שה",
@@ -63,25 +63,25 @@
     },
     {
       "surface": "ונתן",
-      "gloss": "na ⟨atatoa⟩"
+      "gloss": "⟨wata⟩mpa"
     },
     {
       "surface": "לכהן",
-      "gloss": "kwa kuhani"
+      "gloss": "kuhani"
     },
     {
       "surface": "הזרע",
-      "gloss": "bega"
+      "gloss": "mguu wa mabega"
     },
     {
       "surface": "והלחיים",
-      "gloss": "mbavu mbili"
+      "gloss": "na matabaka mbili"
     },
     {
       "surface": "והקבה",
-      "gloss": "tumbo"
+      "gloss": "na tumbo"
     }
   ],
-  "timestamp": "2026-08-10T17:44:24.232174351Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:37.978700991Z",
+  "model": "glm-5.3"
 }

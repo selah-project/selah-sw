@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 22,
-  "translation": "Akachukua Avraham ⟨את kuni za⟩ holokausti, akaziweka juu ya Yitschak mwanae; akachukua mkononi mwake ⟨את moto⟩ na ⟨את kisu⟩; akaenda wote wawili pamoja.",
+  "translation": "Naye Avraham alitwaa ⟨את⟩ kuni za ⟨ה⟩ sadaka ya kuteketezwa, akaziweka juu ya Yitschak mwanae; naye akatwaa mkononi mwake ⟨את⟩ moto na ⟨את⟩ kisu; nao wawili walienda pamoja.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Akachukua"
+      "gloss": "alitwaa"
     },
     {
       "surface": "אברהם",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kuni za"
+      "marks": "kuni za sadaka ya kuteketezwa"
     },
     {
       "surface": "עצי",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "העלה",
-      "gloss": "holokausti"
+      "gloss": "sadaka ya kuteketezwa"
     },
     {
       "surface": "וישם",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "akachukua"
+      "gloss": "akatwaa"
     },
     {
       "surface": "בידו",
@@ -72,17 +72,17 @@
     },
     {
       "surface": "וילכו",
-      "gloss": "akaenda"
+      "gloss": "walienda"
     },
     {
       "surface": "שניהם",
-      "gloss": "wote wawili"
+      "gloss": "wawili"
     },
     {
       "surface": "יחדו",
       "gloss": "pamoja"
     }
   ],
-  "timestamp": "2026-08-10T10:06:48.558868299Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:43.355099376Z",
+  "model": "glm-5.3"
 }

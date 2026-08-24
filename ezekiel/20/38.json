@@ -5,31 +5,31 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 20,
-  "translation": "Nami nitawasafisha kutoka kwenu ⟨⟨אתכם⟩⟩ waasi na wanaopindukiza juu yangu; kutoka nchi ya makao yao nitawatoa, na ⟨⟨אתם⟩⟩ hawataingia katika nchi ya Yisrael; nanyi mtajua kwani mimi ni Yahweh.",
+  "translation": "Nami nitawasafisha kutoka nyinyi waliokuwa wakiasi na wakuvuka mipaka dhidi yangu; kutoka katika nchi ya makao yao nitawatoa ⟨את⟩ ⟨אותם⟩, na katika ardhi ya Yisrael hawataingia; nanyi mtajua kwamba mimi ndimi Yahweh.",
   "tokens": [
     {
       "surface": "וברותי",
-      "gloss": "nami nitawasafisha"
+      "gloss": "nitawasafisha"
     },
     {
       "surface": "מכם",
-      "gloss": "kutoka kwenu"
+      "gloss": "kutoka nyinyi"
     },
     {
       "surface": "המרדים",
-      "gloss": "waasi"
+      "gloss": "waliokuwa wakiasi"
     },
     {
       "surface": "והפושעים",
-      "gloss": "na wanaopindukiza"
+      "gloss": "na wakuvuka mipaka"
     },
     {
       "surface": "בי",
-      "gloss": "juu yangu"
+      "gloss": "dhidi yangu"
     },
     {
       "surface": "מארץ",
-      "gloss": "kutoka nchi ya"
+      "gloss": "kutoka katika nchi ya"
     },
     {
       "surface": "מגוריהם",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
-      "marks": "waasi"
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "wao"
     },
     {
       "surface": "ואל",
-      "gloss": "na"
+      "gloss": "na katika"
     },
     {
       "surface": "אדמת",
-      "gloss": "nchi ya"
+      "gloss": "ardhi ya"
     },
     {
       "surface": "ישראל",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "si"
+      "gloss": "haita-"
     },
     {
       "surface": "יבוא",
-      "gloss": "wataingia"
+      "gloss": "-ingia"
     },
     {
       "surface": "וידעתם",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "kwani"
+      "gloss": "kwamba"
     },
     {
       "surface": "אני",
@@ -81,6 +81,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T12:31:59.652021431Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:21.124695133Z",
+  "model": "glm-5.3"
 }

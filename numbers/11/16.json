@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 11,
-  "translation": "Yahweh akamwambia Moshe: “Kusanya kwangu watu sabini miongoni mwa wazee wa Yisrael ambao wewe huwajua, maana wao ni wazee wa watu na maofisa wao; nawe utawachukua ⟨אתם⟩ hadi hema ya mkutano, nawe watasimama huko pamoja nawe.",
+  "translation": "Naye Yahweh akamwambia Moshe: Kusanya kwa ajili yangu watu sabini wazee wa Yisra'eli, ambao unawajua kwamba wao ni wazee wa ⟨⟨h⟩⟩watu na maofisa wao; nao utawachukua hadi Hema ya Mkutano, wanasimama huko pamoja nawe.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "kwangu"
+      "gloss": "kwa ajili yangu"
     },
     {
       "surface": "שבעים",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "מזקני",
-      "gloss": "miongoni mwa wazee"
+      "gloss": "wazee wa"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisra'eli"
     },
     {
       "surface": "אשר",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "ידעת",
-      "gloss": "wewe huwajua"
+      "gloss": "unawajua"
     },
     {
       "surface": "כי",
-      "gloss": "maana"
+      "gloss": "kwamba"
     },
     {
       "surface": "הם",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "ולקחת",
-      "gloss": "na utawachukua"
+      "gloss": "nao utawachukua"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "wao"
     },
     {
@@ -90,15 +90,15 @@
     },
     {
       "surface": "אהל",
-      "gloss": "hema"
+      "gloss": "Hema"
     },
     {
       "surface": "מועד",
-      "gloss": "ya mkutano"
+      "gloss": "ya Mkutano"
     },
     {
       "surface": "והתיצבו",
-      "gloss": "watasimama"
+      "gloss": "wanasimama"
     },
     {
       "surface": "שם",
@@ -109,6 +109,6 @@
       "gloss": "pamoja nawe"
     }
   ],
-  "timestamp": "2026-08-10T10:45:02.591847660Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:56.014385721Z",
+  "model": "glm-5.3"
 }

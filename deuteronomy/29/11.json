@@ -5,53 +5,53 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 29,
-  "translation": "ili upitie katika ⟨בְּרִית⟩ berit ya Yahweh Elohim wako, na katika ⟨אָלָה⟩ alah yake, ambayo Yahweh Elohim wako anakata na wewe leo;",
+  "translation": "ili upite katika ⟨את⟩ berit ya Yahweh Elohim wako, na katika laana yake, ambayo Yahweh Elohim wako anakikata ⟨עמך⟩ nawe leo.",
   "tokens": [
     {
-      "surface": "לְעָבְרְךָ֗",
-      "gloss": "ili upitie"
+      "surface": "לעברך",
+      "gloss": "ili upite katika"
     },
     {
-      "surface": "בִּבְרִ֛ית",
+      "surface": "בברית",
       "gloss": "katika berit"
     },
     {
-      "surface": "יְהוָ֥ה",
-      "gloss": "ya Yahweh"
-    },
-    {
-      "surface": "אֱלֹהֶ֖יךָ",
-      "gloss": "Elohim wako"
-    },
-    {
-      "surface": "וּבְאָלָת֑וֹ",
-      "gloss": "na katika alah yake"
-    },
-    {
-      "surface": "אֲשֶׁר֙",
-      "gloss": "ambayo"
-    },
-    {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "אֱלֹהֶ֔יךָ",
+      "surface": "אלהיך",
       "gloss": "Elohim wako"
     },
     {
-      "surface": "כֹּרֵ֥ת",
-      "gloss": "anakata"
+      "surface": "ובאלתו",
+      "gloss": "na katika laana yake"
     },
     {
-      "surface": "עִמְּךָ֖",
-      "gloss": "na wewe"
+      "surface": "אשר",
+      "gloss": "ambayo"
     },
     {
-      "surface": "הַיּֽוֹם",
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wako"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "anakikata"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "היום",
       "gloss": "leo"
     }
   ],
-  "timestamp": "2026-08-10T14:43:25.583366304Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:09.678741911Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 23,
-  "translation": "Sikilizeni, bwana wangu; mkuu wa Elohim wewe ⟨⟨ni⟩⟩ kati yetu; katika bora ya makaburi yetu zika ⟨את⟩ maiti yako; mtu ye yote kati yetu kaburi lake haliwezi kukuza mnemo kuzika maiti yako.",
+  "translation": "Sikilizeni, bwana wangu; wewe ⟨ni⟩ mkuu wa Elohim kati yetu; katika bora ya makaburi yetu mzike ⟨את⟩ maiti yako; mtu yeyote kati yetu hatazuia kaburi lake kuwa na wewe, kwa kuzika maiti yako.",
   "tokens": [
     {
       "surface": "שמענו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נשיא",
-      "gloss": "mkuu wa"
+      "gloss": "mkuu"
     },
     {
       "surface": "אלהים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "קבר",
-      "gloss": "zika"
+      "gloss": "mzike"
     },
     {
       "surface": "את",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "mtu ye yote"
+      "gloss": "mtu yeyote"
     },
     {
       "surface": "ממנו",
@@ -71,25 +71,25 @@
     },
     {
       "surface": "לא",
-      "gloss": "si"
+      "gloss": "hatazuia"
     },
     {
       "surface": "יכלה",
-      "gloss": "atakuzuia"
+      "gloss": "kuzuia"
     },
     {
       "surface": "ממך",
-      "gloss": "ili kuzika"
+      "gloss": "kuwa na wewe"
     },
     {
       "surface": "מקבר",
-      "gloss": "kaburi"
+      "gloss": "kwa kuzika"
     },
     {
       "surface": "מתך",
       "gloss": "maiti yako"
     }
   ],
-  "timestamp": "2026-08-10T14:23:52.682429347Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:00.829525265Z",
+  "model": "glm-5.3"
 }

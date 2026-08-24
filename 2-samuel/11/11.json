@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "sw",
   "chapter": 11,
-  "translation": "Naye Uriya akamwambia David: ⟨ארon⟩, na Yisraeli, na Yuda, wanakaa vibandani; na bwana wangu Yoabu, na watumishi wa bwana wangu, wanapiga kambi waziwazini shambani; nami ningaliingia nyumbani kwangu kula na kunywa na kulala na mke wangu? Kwa uhai wako na kwa uhai wa nafsi yako, sitatenda jambo hili.",
+  "translation": "Na Uriya akamwambia David: Sanduku la ⟨Mungu⟩, na Yisraeli, na Yehuda, wanakaa katika vibanda; na bwana wangu Yoabu, na watumishi wa bwana wangu, wamepiga kambi ⟨waziwazi⟩ shambani; na mimi nifanyeaje kuingia ndani ya nyumba yangu, kula na kunywa na kulala na mke wangu? Kwa uhai wako, na kwa uhai wa nafsi yako, sitafanya ⟨את⟩ jambo hili!",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הארון",
-      "gloss": "⟨ארon⟩"
+      "gloss": "Sanduku la ⟨Mungu⟩"
     },
     {
       "surface": "וישראל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ויהודה",
-      "gloss": "na Yuda"
+      "gloss": "na Yehuda"
     },
     {
       "surface": "ישבים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "בסכות",
-      "gloss": "vibandani"
+      "gloss": "katika vibanda"
     },
     {
       "surface": "ואדני",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "ועבדי",
-      "gloss": "na watumishi"
+      "gloss": "na watumishi wa"
     },
     {
       "surface": "אדני",
-      "gloss": "wa bwana wangu"
+      "gloss": "bwana wangu"
     },
     {
       "surface": "על",
-      "gloss": "waziwazini"
+      "gloss": "juu ya"
     },
     {
       "surface": "פני",
-      "gloss": "juu ya uso wa"
+      "gloss": "uso wa"
     },
     {
       "surface": "השדה",
@@ -73,23 +73,23 @@
     },
     {
       "surface": "חנים",
-      "gloss": "wanapiga kambi"
+      "gloss": "wamepiga kambi"
     },
     {
       "surface": "ואני",
-      "gloss": "nami"
+      "gloss": "na mimi"
     },
     {
       "surface": "אבוא",
-      "gloss": "ningaliingia"
+      "gloss": "niingie"
     },
     {
       "surface": "אל",
-      "gloss": "kwenda"
+      "gloss": "ndani ya"
     },
     {
       "surface": "ביתי",
-      "gloss": "nyumbani kwangu"
+      "gloss": "nyumba yangu"
     },
     {
       "surface": "לאכל",
@@ -113,7 +113,7 @@
     },
     {
       "surface": "חיך",
-      "gloss": "Kwa uhai wako"
+      "gloss": "kwa uhai wako"
     },
     {
       "surface": "וחי",
@@ -125,16 +125,16 @@
     },
     {
       "surface": "אם",
-      "gloss": "sitatenda"
+      "gloss": "kama"
     },
     {
       "surface": "אעשה",
-      "gloss": "sitatenda"
+      "gloss": "nifanye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jambo"
+      "marks": "jambo hili"
     },
     {
       "surface": "הדבר",
@@ -145,6 +145,6 @@
       "gloss": "hili"
     }
   ],
-  "timestamp": "2026-08-10T11:31:32.507498505Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:27.786935319Z",
+  "model": "glm-5.3"
 }

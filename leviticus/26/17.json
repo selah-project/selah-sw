@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 26,
-  "translation": "Nami nitaweka uso wangu juu yenu, nanyi mtapigwa mbele ya maadui zenu, nao wanaowachukia watawatawala, nanyi mtakimbia bila kuwa ⟨kuna⟩ mtu anayefuatilia ⟨אתכם⟩.",
+  "translation": "Nami nitaweka uso wangu dhidi yenu, nanyi mtapigwa mbele ya adui zenu, nao wanaochukieni watawala juu yenu, nanyi mtakimbia, wala hapana anayewafuatilia ⟨את⟩ ⟨אתכם⟩.",
   "tokens": [
     {
       "surface": "ונתתי",
-      "gloss": "nami nitaweka"
+      "gloss": "nitaweka"
     },
     {
       "surface": "פני",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "בכם",
-      "gloss": "juu yenu"
+      "gloss": "dhidi yenu"
     },
     {
       "surface": "ונגפתם",
-      "gloss": "nanyi mtapigwa"
+      "gloss": "mtapigwa"
     },
     {
       "surface": "לפני",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "איביכם",
-      "gloss": "maadui zenu"
+      "gloss": "adui zenu"
     },
     {
       "surface": "ורדו",
-      "gloss": "natawatawala"
+      "gloss": "watawala"
     },
     {
       "surface": "בכם",
@@ -41,26 +41,26 @@
     },
     {
       "surface": "שנאיכם",
-      "gloss": "wanaowachukia"
+      "gloss": "wanaochukieni"
     },
     {
       "surface": "ונסתם",
-      "gloss": "nanyi mtakimbia"
+      "gloss": "mtakimbia"
     },
     {
       "surface": "ואין",
-      "gloss": "bila kuwa"
+      "gloss": "wala hapana"
     },
     {
       "surface": "רדף",
-      "gloss": "mtu anayefuatilia"
+      "gloss": "anayewafuatilia"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "ninyi (mtakimbia wala hapana anayewafuatilia)"
     }
   ],
-  "timestamp": "2026-08-10T14:36:24.949692764Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.361237567Z",
+  "model": "glm-5.3"
 }

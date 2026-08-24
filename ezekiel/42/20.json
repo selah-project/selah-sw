@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 42,
-  "translation": "Kwa upande wa nne uliupima. ⟨⟨Ni⟩⟩ ukuta kwa huo pande zote, pande zote. Urefu wake mia tano na upana mia tano, ili kutenga kati ya kitakatifu na cha kawaida.",
+  "translation": "Kwa pande nne alipima ⟨את⟩ ukuta; ulikuwa ⟨uwe⟩ wake mzunguka mzunguka: urefu mita ⟨mamia⟩ mia tano, na upana mia tano, ili kutenganisha kati ya ⟨הקודש⟩ kitakatifu na la kawaida.",
   "tokens": [
     {
       "surface": "לארבע",
-      "gloss": "kwa nne"
+      "gloss": "kwa pande nne"
     },
     {
       "surface": "רוחות",
-      "gloss": "pande"
+      "gloss": "pande (ruoko)"
     },
     {
       "surface": "מדדו",
-      "gloss": "uliupima"
+      "gloss": "alipima"
     },
     {
       "surface": "חומה",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "לו",
-      "gloss": "kwa huo"
+      "gloss": "lake"
     },
     {
       "surface": "סביב",
-      "gloss": "pande zote"
+      "gloss": "mzunguka"
     },
     {
       "surface": "סביב",
-      "gloss": "pande zote"
+      "gloss": "mzunguka"
     },
     {
       "surface": "ארך",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "להבדיל",
-      "gloss": "ili kutenga"
+      "gloss": "ili kutenganisha"
     },
     {
       "surface": "בין",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "לחל",
-      "gloss": "na cha kawaida"
+      "gloss": "la kawaida"
     }
   ],
-  "timestamp": "2026-08-10T12:38:04.404623969Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:19.041330712Z",
+  "model": "glm-5.3"
 }

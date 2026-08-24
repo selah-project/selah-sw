@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 18,
-  "translation": "Basi sasa, tia ⟨⟨sharti⟩⟩ na bwana wangu mfalme wa Ashur, nami nitakupa farasi elfu mbili, ikiwa waweza kuwapa wanaopanda.",
+  "translation": "Na sasa, tafadhali, weka dhana ⟨את⟩ na Adonai wangu, mfalme wa Ashur, nami nitakupa farasi elfu mbili, kama uweza kuweka wapandao juu yao.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Basi sasa"
+      "gloss": "Na sasa"
     },
     {
       "surface": "התערב",
-      "gloss": "tia"
+      "gloss": "weka dhana"
     },
     {
       "surface": "נא",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "sharti"
+      "gloss": "⟨את⟩ na",
+      "marks": "Adonai wangu"
     },
     {
       "surface": "אדני",
-      "gloss": "bwana wangu"
+      "gloss": "Adonai wangu"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ na",
       "marks": "mfalme"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "wewe"
+      "gloss": "kwako"
     },
     {
       "surface": "אלפים",
@@ -59,29 +59,29 @@
     },
     {
       "surface": "אם",
-      "gloss": "ikiwa"
+      "gloss": "kama"
     },
     {
       "surface": "תוכל",
-      "gloss": "waweza"
+      "gloss": "uweza"
     },
     {
       "surface": "לתת",
-      "gloss": "kuwapa"
+      "gloss": "kuweka"
     },
     {
       "surface": "לך",
-      "gloss": "wewe"
+      "gloss": "kwako"
     },
     {
       "surface": "רכבים",
-      "gloss": "wanaopanda"
+      "gloss": "wapandao"
     },
     {
       "surface": "עליהם",
-      "gloss": "hayo"
+      "gloss": "juu yao"
     }
   ],
-  "timestamp": "2026-08-10T11:51:42.924271109Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:31.336236641Z",
+  "model": "glm-5.3"
 }

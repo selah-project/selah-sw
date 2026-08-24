@@ -5,23 +5,23 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 18,
-  "translation": "Na ikiwa mnaniambia, ⟨⟨kwamba⟩⟩ kwa Yahweh Elohim wetu tumetegemea — si yeye ambaye Chizkiyahu aliondoa ⟨את⟩ mahali pazuri pake na ⟨את⟩ madhabahu zake, na akawaambia Yehudah na Yerushalayim, Mbele ya madhabahu hii mtolee heshima ⟨⟨hapa⟩⟩ Yerushalayim?",
+  "translation": "Na kama mnasema kwangu: Kwa Yahweh Elohim wetu tumetegemea — je, si yeye ambaye Chizkiyahu aliondoa ⟨את⟩ mahali pa juu yake na ⟨את⟩ madhabahu zake, naye akamwambia Yehudah na Yerushalayim: Mbele ya madhabahu hii mjuu Yerushalayim?",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "Na ikiwa"
+      "gloss": "Na kama"
     },
     {
       "surface": "תאמרון",
-      "gloss": "mnaniambia"
+      "gloss": "mnasema"
     },
     {
       "surface": "אלי",
-      "gloss": "kwamba"
+      "gloss": "kwangu"
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": "Kwa"
     },
     {
       "surface": "יהוה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "si"
+      "gloss": "je, si"
     },
     {
       "surface": "הוא",
@@ -58,15 +58,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mahali pazuri pake"
+      "marks": "mahali pa juu yake"
     },
     {
       "surface": "במתיו",
-      "gloss": "mahali pazuri pake"
+      "gloss": "mahali pa juu yake"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "na ⟨את⟩",
       "marks": "madhabahu zake"
     },
     {
@@ -75,15 +75,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "na akawaambia"
+      "gloss": "naye akasema"
     },
     {
       "surface": "ליהודה",
-      "gloss": "Yehudah"
+      "gloss": "kwa Yehudah"
     },
     {
       "surface": "ולירושלם",
-      "gloss": "na Yerushalayim"
+      "gloss": "na kwa Yerushalayim"
     },
     {
       "surface": "לפני",
@@ -99,13 +99,13 @@
     },
     {
       "surface": "תשתחוו",
-      "gloss": "mtolee heshima"
+      "gloss": "mjuu"
     },
     {
       "surface": "בירושלם",
       "gloss": "Yerushalayim"
     }
   ],
-  "timestamp": "2026-08-10T11:51:42.924094774Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:31.335853215Z",
+  "model": "glm-5.3"
 }

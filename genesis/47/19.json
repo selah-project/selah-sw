@@ -5,23 +5,23 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 47,
-  "translation": "Mbona tufa macho yako? sisi pia na ardhi yetu pia; uninunue ⟨אתנו⟩ na ⟨את⟩ ardhi yetu kwa ajili ya chakula, nasi na ardhi yetu tuwe maslahiwa wa Paroh; na upa mbegu tuishi tusife, na ardhi isipotee ukame.",
+  "translation": "Kwa nini tufe mbele ya macho yako, sisi sote na ardhi yetu? Ninunue ⟨את⟩ sisi na ⟨את⟩ ardhi yetu kwa chakula, tuwe sisi na ardhi yetu watumwa wa Paroh; ⟨na⟩ utoe mbegu ili tuwe hai, wala tusife, na ardhi isije ikawa jangwa.",
   "tokens": [
     {
       "surface": "למה",
-      "gloss": "mbona"
+      "gloss": "kwa nini"
     },
     {
       "surface": "נמות",
-      "gloss": "tufa"
+      "gloss": "tufe"
     },
     {
       "surface": "לעיניך",
-      "gloss": "macho yako"
+      "gloss": "mbele ya macho yako"
     },
     {
       "surface": "גם",
-      "gloss": "pia"
+      "gloss": "sisi sote"
     },
     {
       "surface": "אנחנו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "pia"
+      "gloss": "na"
     },
     {
       "surface": "אדמתנו",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "קנה",
-      "gloss": "uninunue"
+      "gloss": "ninunue"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨אתנו⟩",
+      "gloss": "⟨את⟩",
       "marks": "sisi"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "surface": "בלחם",
-      "gloss": "kwa ajili ya chakula"
+      "gloss": "kwa chakula"
     },
     {
       "surface": "ונהיה",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "עבדים",
-      "gloss": "maslahiwa"
+      "gloss": "watumwa"
     },
     {
       "surface": "לפרעה",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "ותן",
-      "gloss": "na upa"
+      "gloss": "⟨na⟩ utoe"
     },
     {
       "surface": "זרע",
@@ -87,15 +87,15 @@
     },
     {
       "surface": "ונחיה",
-      "gloss": "tuishi"
+      "gloss": "tuwe hai"
     },
     {
       "surface": "ולא",
-      "gloss": "tusi"
+      "gloss": "wala"
     },
     {
       "surface": "נמות",
-      "gloss": "fe"
+      "gloss": "tusife"
     },
     {
       "surface": "והאדמה",
@@ -103,13 +103,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "isi"
+      "gloss": "isije"
     },
     {
       "surface": "תשם",
-      "gloss": "potee ukame"
+      "gloss": "ikawa jangwa"
     }
   ],
-  "timestamp": "2026-08-10T10:16:36.178725115Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:16.607763362Z",
+  "model": "glm-5.3"
 }

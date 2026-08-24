@@ -5,81 +5,81 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 20,
-  "translation": "Je, si yeye aliwaambia ⟨⟨kwamba⟩⟩, \" Ndugu yangu ni yeye?\"; naye, hata yeye mwenyewe, alisema, \"Ndugu yangu ni yeye\"; kwa ukamilifu wa moyo wangu na kwa usafi wa mikono yangu nilifanya hivi.",
+  "translation": "Je, si yeye mwenyewe aliambiwa ⟨ni⟩ mimi, ⟨yeye ni⟩ dada yangu; na yeye pia mwenyewe alisema, ⟨yeye ni⟩ kaka yangu? Kwa utimifu wa moyo wangu na kwa usafi wa mikono yangu nilifanya hivi.",
   "tokens": [
     {
-      "surface": "הֲלֹ֨א",
+      "surface": "הלא",
       "gloss": "Je, si"
     },
     {
-      "surface": "ה֤וּא",
-      "gloss": "yeye"
+      "surface": "הוא",
+      "gloss": "yeye mwenyewe"
     },
     {
-      "surface": "אָֽמַר",
+      "surface": "אמר",
       "gloss": "alisema"
     },
     {
-      "surface": "לִי֙",
-      "gloss": "kwangu"
+      "surface": "לי",
+      "gloss": "⟨ni⟩ mimi"
     },
     {
-      "surface": "אֲחֹ֣תִי",
+      "surface": "אחתי",
       "gloss": "dada yangu"
     },
     {
-      "surface": "הִ֔וא",
-      "gloss": "yeye"
+      "surface": "הוא",
+      "gloss": "⟨yeye ni⟩"
     },
     {
-      "surface": "וְהִֽיא",
+      "surface": "והיא",
       "gloss": "na yeye"
     },
     {
-      "surface": "גַם",
+      "surface": "גם",
       "gloss": "pia"
     },
     {
-      "surface": "הִ֥וא",
-      "gloss": "yeye"
+      "surface": "הוא",
+      "gloss": "mwenyewe"
     },
     {
-      "surface": "אָֽמְרָ֖ה",
+      "surface": "אמרה",
       "gloss": "alisema"
     },
     {
-      "surface": "אָחִ֣י",
-      "gloss": "ndugu yangu"
+      "surface": "אחי",
+      "gloss": "kaka yangu"
     },
     {
-      "surface": "ה֑וּא",
-      "gloss": "yeye"
+      "surface": "הוא",
+      "gloss": "⟨yeye ni⟩"
     },
     {
-      "surface": "בְּתָם",
-      "gloss": "kwa ukamilifu"
+      "surface": "בתם",
+      "gloss": "kwa utimifu"
     },
     {
-      "surface": "לְבָבִ֛י",
-      "gloss": "moyo wangu"
+      "surface": "לבבי",
+      "gloss": "wa moyo wangu"
     },
     {
-      "surface": "וּבְנִקְיֹ֥ן",
+      "surface": "ובנקין",
       "gloss": "na kwa usafi"
     },
     {
-      "surface": "כַּפַּ֖י",
-      "gloss": "mikono yangu"
+      "surface": "כפי",
+      "gloss": "wa mikono yangu"
     },
     {
-      "surface": "עָשִׂ֥יתִי",
+      "surface": "עשיתי",
       "gloss": "nilifanya"
     },
     {
-      "surface": "זֹֽאת",
+      "surface": "זאת",
       "gloss": "hivi"
     }
   ],
-  "timestamp": "2026-08-10T10:06:55.546591086Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:43.093498986Z",
+  "model": "glm-5.3"
 }

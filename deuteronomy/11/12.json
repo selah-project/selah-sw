@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 11,
-  "translation": "nchi ambayo Yahweh Elohim wako anaitunza daima; macho ya Yahweh Elohim wako ni juu yake, tangu mwanzo wa ⟨the⟩ mwaka hata mwisho wa ⟨the⟩ mwaka.",
+  "translation": "Nchi ambayo Yahweh Elohim wako anaiangalia ⟨את⟩; macho ya Yahweh Elohim wako ni juu yake daima, kutoka mwanzo wa mwaka hata mwisho wa mwaka.",
   "tokens": [
     {
       "surface": "ארץ",
-      "gloss": "nchi"
+      "gloss": "Nchi"
     },
     {
       "surface": "אשר",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "דרש",
-      "gloss": "anaitunza"
+      "gloss": "anaiangalia"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "nchi (iyo)"
+      "marks": "hiyo (nchi)"
     },
     {
       "surface": "תמיד",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהיך",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "בה",
-      "gloss": "ni juu yake"
+      "gloss": "juu yake"
     },
     {
       "surface": "מרשית",
-      "gloss": "tangu mwanzo"
+      "gloss": "kutoka mwanzo"
     },
     {
       "surface": "השנה",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "ועד",
-      "gloss": "hata mwisho"
+      "gloss": "hata"
     },
     {
       "surface": "אחרית",
@@ -73,6 +73,6 @@
       "gloss": "wa mwaka"
     }
   ],
-  "timestamp": "2026-08-10T10:56:31.856696133Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:23.010051403Z",
+  "model": "glm-5.3"
 }

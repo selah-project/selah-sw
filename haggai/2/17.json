@@ -5,7 +5,7 @@
   "book": "haggai",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Niliwapiga ⟨אתכם⟩ kwa upepo wa kuunguza na kwaukungu na kwa mbaragumu, ⟨את⟩ kazi yote ya mikono yenu, wala hamgeukieni ⟨אתכם⟩ kwangu, neno la Yahweh.",
+  "translation": "Niliwapiga ⟨את⟩ ⟨אתכם⟩ kwa madoa ya mimea na kwa ukungu na kwa barafu ⟨את⟩ kazi zote za mikono yenu, wala hamkurudi kwangu — ni kutamka kwa Yahweh.",
   "tokens": [
     {
       "surface": "הכיתי",
@@ -13,29 +13,29 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "nyinyi"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "ninyi (kiwakilishi cha kilengo)"
     },
     {
       "surface": "בשדפון",
-      "gloss": "kwa upepo wa kuunguza"
+      "gloss": "kwa madoa ya mimea"
     },
     {
       "surface": "ובירקון",
-      "gloss": "na kwaukungu"
+      "gloss": "na kwa ukungu"
     },
     {
       "surface": "ובברד",
-      "gloss": "na kwa mbaragumu"
+      "gloss": "na kwa barafu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kazi yote ya mikono yenu"
+      "marks": "kazi zote za mikono yenu"
     },
     {
       "surface": "כל",
-      "gloss": "kazi yote"
+      "gloss": "zote"
     },
     {
       "surface": "מעשה",
@@ -43,16 +43,15 @@
     },
     {
       "surface": "ידיכם",
-      "gloss": "ya mikono yenu"
+      "gloss": "za mikono yenu"
     },
     {
       "surface": "ואין",
-      "gloss": "wala hamgeukieni"
+      "gloss": "wala hamkuwa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "nyinyi"
+      "gloss": "⟨את⟩ ninyi"
     },
     {
       "surface": "אלי",
@@ -60,13 +59,13 @@
     },
     {
       "surface": "נאם",
-      "gloss": "neno"
+      "gloss": "ni kutamka"
     },
     {
       "surface": "יהוה",
-      "gloss": "la Yahweh"
+      "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T16:16:12.274555772Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.303962723Z",
+  "model": "glm-5.3"
 }

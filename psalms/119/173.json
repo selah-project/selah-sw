@@ -5,33 +5,33 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 119,
-  "translation": "Iwe ⟨⟨mkono wako⟩⟩ kwa kunisaidia, maana amri zako nimezichagua.",
+  "translation": "Mkono wako uwe ⟨is⟩ wa kunisaidia, kwa maana nimewachagua amri zako.",
   "tokens": [
     {
-      "surface": "תְּהִֽי",
-      "gloss": "iwe"
+      "surface": "תהי",
+      "gloss": "uwe"
     },
     {
-      "surface": "יָדְךָ֥",
+      "surface": "ידך",
       "gloss": "mkono wako"
     },
     {
-      "surface": "לְעָזְרֵ֑נִי",
-      "gloss": "kwa kunisaidia"
+      "surface": "לעזרני",
+      "gloss": "kunisaidia"
     },
     {
-      "surface": "כִּ֖י",
-      "gloss": "maana"
+      "surface": "כי",
+      "gloss": "kwa maana"
     },
     {
-      "surface": "פִקּוּדֶ֣יךָ",
+      "surface": "פקודיך",
       "gloss": "amri zako"
     },
     {
-      "surface": "בָחָֽרְתִּי",
-      "gloss": "nimezichagua"
+      "surface": "בחרתי",
+      "gloss": "nimewachagua"
     }
   ],
-  "timestamp": "2026-08-10T13:17:48.751816778Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:02.504263942Z",
+  "model": "glm-5.3"
 }

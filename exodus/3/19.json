@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Lakini mimi najua ya kwamba mfalme wa Mitsrayim hakutowaacheni mwaende, isipokuwa kwa mkono wa nguvu.",
+  "translation": "Na mimi najua kwamba mfalme wa Mitsrayim hatawachuza ⟨את⟩ nyinyi mwende, ila kwa mkono wa nguvu.",
   "tokens": [
     {
       "surface": "ואני",
-      "gloss": "Lakini mimi"
+      "gloss": "na mimi"
     },
     {
       "surface": "ידעתי",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "כי",
-      "gloss": "ya kwamba"
+      "gloss": "kwamba"
     },
     {
       "surface": "לא",
-      "gloss": "hatokuwa"
+      "gloss": "ha-"
     },
     {
       "surface": "יתן",
-      "gloss": "kuwaacheni"
+      "gloss": "-tatachuza"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩ nyinyi",
+      "marks": "nyinyi"
     },
     {
       "surface": "מלך",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "wa Mitsrayim"
+      "gloss": "Mitsrayim"
     },
     {
       "surface": "להלך",
-      "gloss": "mwaende"
+      "gloss": "mwende"
     },
     {
       "surface": "ולא",
-      "gloss": "isipokuwa"
+      "gloss": "ila"
     },
     {
       "surface": "ביד",
@@ -57,6 +57,6 @@
       "gloss": "wa nguvu"
     }
   ],
-  "timestamp": "2026-08-10T10:19:00.229631747Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:49.872826455Z",
+  "model": "glm-5.3"
 }

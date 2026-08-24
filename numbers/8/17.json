@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Kwa maana wangu ni kila mzaliwa wa kwanza katika wana wa Yisra'el, miongoni mwa ⟨adamu⟩ na miongoni mwa mnyama; siku nilipompiga kila mzaliwa wa kwanza katika nchi ya Mitsrayim niliwatenga watakatifu ⟨אתם⟩ kwangu.",
+  "translation": "Kwa maana yangu ni kila mzaliwa wa kwanza miongoni mwa wana wa Yisrael, miongoni mwa wanadamu na miongoni mwa wanyama; siku nilipoupiga kila mzaliwa wa kwanza katika nchi ya Mitsrayim, nikawatukuza ⟨את⟩ wao kwa ajili yangu.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "kwa maana"
+      "gloss": "Kwa maana"
     },
     {
       "surface": "לי",
-      "gloss": "wangu"
+      "gloss": "yangu"
     },
     {
       "surface": "כל",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "בבני",
-      "gloss": "katika wana wa"
+      "gloss": "miongoni mwa wana wa"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "באדם",
-      "gloss": "miongoni mwa ⟨adamu⟩"
+      "gloss": "miongoni mwa wanadamu"
     },
     {
       "surface": "ובבהמה",
-      "gloss": "na miongoni mwa mnyama"
+      "gloss": "na miongoni mwa wanyama"
     },
     {
       "surface": "ביום",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הכתי",
-      "gloss": "nilipompiga"
+      "gloss": "nilipoupiga"
     },
     {
       "surface": "כל",
@@ -65,18 +65,18 @@
     },
     {
       "surface": "הקדשתי",
-      "gloss": "niliwatenga watakatifu"
+      "gloss": "nikawatukuza"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "wao"
+      "gloss": "⟨את⟩",
+      "marks": "wao (walio wakfu)"
     },
     {
       "surface": "לי",
-      "gloss": "kwangu"
+      "gloss": "kwa ajili yangu"
     }
   ],
-  "timestamp": "2026-08-10T14:38:07.511783872Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:14.191689368Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 36,
-  "translation": "Wakaenda watu wote wenye hekima wafanyao ⟨את⟩ kazi yote ya ⟨the⟩ sehemu takatifu, kila mtu kutoka kazi yake ambayo walikuwa wakifanya.",
+  "translation": "Wakaaja wote wenye hekima wafanyao ⟨את⟩ kazi yote ya <i>hakodesh<\/i>, kila mtu kutoka kazi yake ambayo walikuwa wakifanya.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "wakaenda"
+      "gloss": "Wakaaja"
     },
     {
       "surface": "כל",
@@ -26,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kazi yote"
+      "marks": "kazi yote ya mahali patakastifu"
     },
     {
       "surface": "כל",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "ya sehemu takatifu"
+      "gloss": "ya mahali patakastifu"
     },
     {
       "surface": "איש",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "mtu"
+      "gloss": "kila mtu"
     },
     {
       "surface": "ממלאכתו",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "המה",
-      "gloss": "walikuwa"
+      "gloss": "wao"
     },
     {
       "surface": "עשים",
-      "gloss": "wakifanya"
+      "gloss": "walikuwa wakifanya"
     }
   ],
-  "timestamp": "2026-08-10T14:32:09.173058914Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:25.576960257Z",
+  "model": "glm-5.3"
 }

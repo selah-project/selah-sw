@@ -5,92 +5,91 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 28,
-  "translation": "Hizi ni maneno ya ⟨ה⟩ berit ambayo Yahweh aliamrisha ⟨את⟩ Moshe kukata ⟨את⟩ wana wa Yisra'el katika nchi ya Moab, mbali na ⟨ha⟩ berit ambayo akakata ⟨אתם⟩ ⟨na⟩wao katika Horev.",
+  "translation": "Haya ndiyo maneno ya ⟨הברית⟩ berit aliyoagiza Yahweh ⟨את⟩ Moshe kufanya ⟨את⟩ wana wa Yisraeli katika nchi ya Moabu, zaidi ya berit aliyoifanya ⟨את⟩ ⟨אתם⟩ pale Horebi.",
   "tokens": [
     {
-      "surface": "אֵלֶּה",
-      "gloss": "Hizi"
+      "surface": "אלה",
+      "gloss": "Haya"
     },
     {
-      "surface": "דִבְרֵי",
-      "gloss": "maneno"
+      "surface": "דברי",
+      "gloss": "maneno ya"
     },
     {
-      "surface": "הַבְּרִית",
-      "gloss": "⟨ha⟩ berit"
+      "surface": "הברית",
+      "gloss": "berit"
     },
     {
-      "surface": "אֲֽשֶׁר",
+      "surface": "אשר",
       "gloss": "ambayo"
     },
     {
-      "surface": "צִוָּ֧ה",
-      "gloss": "aliamrisha"
+      "surface": "צוה",
+      "gloss": "aliyoagiza"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "Moshe"
     },
     {
-      "surface": "מֹשֶׁ֗ה",
+      "surface": "משה",
       "gloss": "Moshe"
     },
     {
-      "surface": "לִכְרֹ֛ת",
-      "gloss": "kukata"
+      "surface": "לכרת",
+      "gloss": "kufanya"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wana wa Yisra'el"
+      "marks": "wana wa Yisraeli"
     },
     {
-      "surface": "בְּנֵ֥י",
-      "gloss": "wana"
+      "surface": "בני",
+      "gloss": "wana wa"
     },
     {
-      "surface": "יִשְׂרָאֵ֖ל",
-      "gloss": "wa Yisra'el"
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
     },
     {
-      "surface": "בְּאֶ֣רֶץ",
-      "gloss": "katika nchi"
+      "surface": "בארץ",
+      "gloss": "katika nchi ya"
     },
     {
-      "surface": "מוֹאָ֑ב",
-      "gloss": "ya Moab"
+      "surface": "מואב",
+      "gloss": "Moabu"
     },
     {
-      "surface": "מִלְּבַ֣ד",
-      "gloss": "mbali na"
+      "surface": "מלבד",
+      "gloss": "zaidi ya"
     },
     {
-      "surface": "הַבְּרִ֔ית",
-      "gloss": "⟨ha⟩ berit"
+      "surface": "הברית",
+      "gloss": "berit"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "ambayo"
     },
     {
-      "surface": "כָּרַ֥ת",
-      "gloss": "akakata"
+      "surface": "כרת",
+      "gloss": "aliyoifanya"
     },
     {
-      "surface": "אִתָּ֖ם",
-      "gloss": "⟨אתם⟩",
-      "marks": "wao"
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨אתם⟩"
     },
     {
-      "surface": "בְּחֹרֵֽב",
-      "gloss": "katika Horev"
+      "surface": "בחרב",
+      "gloss": "pale Horebi"
     }
   ],
-  "timestamp": "2026-08-10T14:43:03.657934269Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.343326035Z",
+  "model": "glm-5.3"
 }

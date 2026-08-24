@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Lakini ⟨גבר⟩ hufa na ⟨kuizzwa⟩; na mtu hupumua pumzi ya mwisho, na yuko wapi?",
+  "translation": "Lakini mwanaume hufa na kulala chini; mwanadamu anafisha, naye yuko wapi?",
   "tokens": [
     {
       "surface": "וגבר",
-      "gloss": "Lakini ⟨גבר⟩"
+      "gloss": "Lakini mwanaume"
     },
     {
       "surface": "ימות",
@@ -17,21 +17,21 @@
     },
     {
       "surface": "ויחלש",
-      "gloss": "na ⟨kuizzwa⟩"
+      "gloss": "na kulala chini"
     },
     {
       "surface": "ויגוע",
-      "gloss": "na ⟨kupumua pumzi ya mwisho⟩"
+      "gloss": "anafisha"
     },
     {
       "surface": "אדם",
-      "gloss": "mtu"
+      "gloss": "mwanadamu"
     },
     {
       "surface": "ואיו",
-      "gloss": "na yuko wapi"
+      "gloss": "naye yuko wapi"
     }
   ],
-  "timestamp": "2026-08-10T13:34:16.068227738Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:20.839032511Z",
+  "model": "glm-5.3"
 }

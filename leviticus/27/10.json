@@ -5,32 +5,32 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 27,
-  "translation": "Hatatabadilisha wala hatamgeuza ⟨אתו⟩ — jema kwa baya au baya kwa jema. Na ikiwa atamgeuza mnyama kwa mnyama, basi yeye na badala yake vitakuwa takatifu.",
+  "translation": "Hataubadilisha wala hautoi badala yake ⟨את⟩ chanya kwa baya, wala baya kwa chanya; na kama atatoa badala mnyama kwa mnyama, basi ⟨huwa⟩ yeye na badala yake vitakuwa vitakatifu.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "Hata"
+      "gloss": "hata-"
     },
     {
       "surface": "יחליפנו",
-      "gloss": "tabadilisha"
+      "gloss": "-ubadilisha"
     },
     {
       "surface": "ולא",
-      "gloss": "wala hata"
+      "gloss": "wala hata-"
     },
     {
       "surface": "ימיר",
-      "gloss": "mgeuza"
+      "gloss": "-autoi badala yake"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "mnyama"
+      "marks": "chanya (au baya)"
     },
     {
       "surface": "טוב",
-      "gloss": "jema"
+      "gloss": "chanya"
     },
     {
       "surface": "ברע",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "או",
-      "gloss": "au"
+      "gloss": "wala"
     },
     {
       "surface": "רע",
@@ -46,19 +46,19 @@
     },
     {
       "surface": "בטוב",
-      "gloss": "kwa jema"
+      "gloss": "kwa chanya"
     },
     {
       "surface": "ואם",
-      "gloss": "Na ikiwa"
+      "gloss": "na kama"
     },
     {
       "surface": "המר",
-      "gloss": "atamgeuza"
+      "gloss": "atatoa badala"
     },
     {
       "surface": "ימיר",
-      "gloss": "geuza"
+      "gloss": "atatoa badala"
     },
     {
       "surface": "בהמה",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "והיה",
-      "gloss": "basi"
+      "gloss": "basi ⟨huwa⟩"
     },
     {
       "surface": "הוא",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "קדש",
-      "gloss": "takatifu"
+      "gloss": "vitakatifu"
     }
   ],
-  "timestamp": "2026-08-10T14:36:31.979200094Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:40.008372647Z",
+  "model": "glm-5.3"
 }

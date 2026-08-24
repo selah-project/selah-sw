@@ -5,22 +5,22 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 11,
-  "translation": "Akashelomah akafuata Ashtoreth, mungu wa Watсидoni, na Milkom, kitu cha kuchukiza cha Waamoni.",
+  "translation": "Akafuata Shelomoh ⟨את⟩ Ashtoreth, mungu wa Tsidoni, na ⟨את⟩ Milkom, kichukizo cha Amoni.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "akaenda"
-    },
-    {
-      "surface": "שלמה",
-      "gloss": "Shelomah"
-    },
-    {
-      "surface": "אחרי",
       "gloss": "akafuata"
     },
     {
-      "surface": "עשתרת",
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "אשתרת",
       "gloss": "Ashtoreth"
     },
     {
@@ -29,25 +29,25 @@
     },
     {
       "surface": "צדנים",
-      "gloss": "Watsidon"
+      "gloss": "Tsidoni"
     },
     {
       "surface": "ואחרי",
-      "gloss": "na akafuata"
+      "gloss": "na nyuma ya"
     },
     {
-      "surface": "מלכם",
+      "surface": "מלקם",
       "gloss": "Milkom"
     },
     {
       "surface": "שקץ",
-      "gloss": "kitu cha kuchukiza"
+      "gloss": "kichukizo cha"
     },
     {
       "surface": "עמנים",
-      "gloss": "Waamoni"
+      "gloss": "Amoni"
     }
   ],
-  "timestamp": "2026-08-10T11:41:17.347460368Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:57.989149735Z",
+  "model": "glm-5.3"
 }

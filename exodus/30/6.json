@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 30,
-  "translation": "Na utaiweka ⟨אתו⟩ mbele ya mapazia yaliyo juu ya Aron ya Ushuhuda, mbele ya kipporet kilicho juu ya Ushuhuda, ambapo nitakutana nawe huko.",
+  "translation": "Na utaiweka ⟨את⟩ ⟨אתו⟩ mbele ya parokheti iliyo juu ya sanduku la shuhuda, mbele ya kipporet iliyo juu ya shuhuda, ambapo nitakutana na wewe hapo.",
   "tokens": [
     {
       "surface": "ונתתה",
-      "gloss": "Na utaiweka"
+      "gloss": "na utaiweka"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "mbele"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "mbele ya parokheti"
     },
     {
       "surface": "לפני",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "הפרכת",
-      "gloss": "mapazia"
+      "gloss": "parokheti"
     },
     {
       "surface": "אשר",
-      "gloss": "yaliyo"
+      "gloss": "iliyo"
     },
     {
       "surface": "על",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "ארן",
-      "gloss": "Aron"
+      "gloss": "sanduku"
     },
     {
       "surface": "העדת",
-      "gloss": "ya Ushuhuda"
+      "gloss": "la shuhuda"
     },
     {
       "surface": "לפני",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kilicho"
+      "gloss": "iliyo"
     },
     {
       "surface": "על",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "העדת",
-      "gloss": "ya Ushuhuda"
+      "gloss": "ya shuhuda"
     },
     {
       "surface": "אשר",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "לך",
-      "gloss": "nawe"
+      "gloss": "na wewe"
     },
     {
       "surface": "שמה",
-      "gloss": "huko"
+      "gloss": "hapo"
     }
   ],
-  "timestamp": "2026-08-10T10:26:37.957255472Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.322825850Z",
+  "model": "glm-5.3"
 }

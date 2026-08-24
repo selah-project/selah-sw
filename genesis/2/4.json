@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Hizi ndizo matabako ya mbingu na nchi katika kuumbwa kwao, siku ya Yahweh Elohem kuumba ⟨⟨nchi na⟩⟩ mbingu.",
+  "translation": "Hizi ndizo vizazi vya mbingu na ⟨the⟩ nchi bwana zilipoumbwa, siku Yahweh Elohim alipofanya nchi na mbingu.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "hizi"
+      "gloss": "Hizi"
     },
     {
       "surface": "תולדות",
-      "gloss": "matabako"
+      "gloss": "vizazi"
     },
     {
       "surface": "השמים",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "והארץ",
-      "gloss": "na nchi"
+      "gloss": "na ⟨the⟩ nchi"
     },
     {
       "surface": "בהבראם",
-      "gloss": "katika kuumbwa kwao"
+      "gloss": "bwana zilipoumbwa"
     },
     {
       "surface": "ביום",
-      "gloss": "siku ya"
+      "gloss": "siku"
     },
     {
       "surface": "עשות",
-      "gloss": "kuumba"
+      "gloss": "alipofanya"
     },
     {
       "surface": "יהוה",
@@ -52,6 +52,6 @@
       "gloss": "na mbingu"
     }
   ],
-  "timestamp": "2026-08-10T10:01:34.383087220Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:13.571141354Z",
+  "model": "glm-5.3"
 }

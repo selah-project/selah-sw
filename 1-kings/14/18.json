@@ -5,24 +5,24 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Wakamzika ⟨אתו⟩ na kumsikitikia yeye ⟨walimsikitikia⟩ Israeli yote; kulingana na neno la Yahweh alilolinena kwa mkono wa mtumishi wake Achiyahyu nabii.",
+  "translation": "Wakamzika, na wakalia maombolezo kwa ajili yake Israeli yote, kulingana na neno la Yahweh aliolitonena kwa mkono wa mtumishi wake Achiya nabii.",
   "tokens": [
     {
-      "surface": "וקברו",
+      "surface": "ויקברו",
       "gloss": "Wakamzika"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yeye"
+      "marks": "huyu (mtoto)"
     },
     {
       "surface": "ויספדו",
-      "gloss": "na kumsikitikia"
+      "gloss": "wakalia maombelezo"
     },
     {
       "surface": "לו",
-      "gloss": "yeye"
+      "gloss": "kwa ajili yake"
     },
     {
       "surface": "כל",
@@ -38,33 +38,33 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "la Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אשר",
-      "gloss": "alilolinena"
+      "gloss": "aliyo-"
     },
     {
       "surface": "דבר",
-      "gloss": "alinena"
+      "gloss": "-litonena"
     },
     {
       "surface": "ביד",
-      "gloss": "kwa mkono"
+      "gloss": "kwa mkono wa"
     },
     {
       "surface": "עבדו",
-      "gloss": "wa mtumishi wake"
+      "gloss": "mtumishi wake"
     },
     {
       "surface": "אחיהו",
-      "gloss": "Achiyahyu"
+      "gloss": "Achiya"
     },
     {
       "surface": "הנביא",
       "gloss": "nabii"
     }
   ],
-  "timestamp": "2026-08-10T16:03:38.098854210Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:03.442694064Z",
+  "model": "glm-5.3"
 }

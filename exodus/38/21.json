@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 38,
-  "translation": "Hizi ni hesabu za ⟨the⟩ hema, hema ya ushuhuda, ambayo ilihesabiwa kwa amri ya Moshe, kazi ya Walawi kwa mkono wa Itamar mwana wa Aharoni ⟨the⟩ kuhani.",
+  "translation": "Hizi ni hesabu za ⟨את⟩ maskani — maskani ya ushuhuda — ambazo zilikaguliwa kwa amri ya Moshe, kazi ya Walawi, mkononi mwa Itamar, mwana wa Aharoni, ⟨ה⟩ kuhani.",
   "tokens": [
     {
       "surface": "אלה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "hema"
+      "gloss": "maskani"
     },
     {
       "surface": "משכן",
-      "gloss": "hema"
+      "gloss": "maskani"
     },
     {
       "surface": "העדת",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "ambazo"
     },
     {
       "surface": "פקד",
-      "gloss": "ilihesabiwa"
+      "gloss": "zikaguliwa"
     },
     {
       "surface": "על",
@@ -41,23 +41,23 @@
     },
     {
       "surface": "פי",
-      "gloss": "amri"
+      "gloss": "amri ya"
     },
     {
       "surface": "משה",
-      "gloss": "ya Moshe"
+      "gloss": "Moshe"
     },
     {
       "surface": "עבדת",
-      "gloss": "kazi"
+      "gloss": "kazi ya"
     },
     {
       "surface": "הלוים",
-      "gloss": "ya Walawi"
+      "gloss": "Walawi"
     },
     {
       "surface": "ביד",
-      "gloss": "kwa mkono wa"
+      "gloss": "mkononi mwa"
     },
     {
       "surface": "איתמר",
@@ -76,6 +76,6 @@
       "gloss": "kuhani"
     }
   ],
-  "timestamp": "2026-08-10T10:29:58.751154261Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:50.950037091Z",
+  "model": "glm-5.3"
 }

@@ -5,95 +5,95 @@
   "book": "1-chronicles",
   "lang": "sw",
   "chapter": 6,
-  "translation": "Na kutoka kabila la Binjamin ⟨את⟩ Geba na ⟨את⟩ mawejadi yake, na ⟨את⟩ Alemeth na ⟨את⟩ mawejadi yake, na ⟨את⟩ Anathoth na ⟨את⟩ mawejadi yake — miji yao yote ⟨היו⟩ kumi na tatu kwa koo zao.",
+  "translation": "Na kutoka kabila la Binjamin: ⟨את⟩ Geba na ⟨את⟩ maeneo yake ya wazi, na ⟨את⟩ Alemeth na ⟨את⟩ maeneo yake ya wazi, na ⟨את⟩ Anathoth na ⟨את⟩ maeneo yake ya wazi; miji yote yao, kwa familia zao, ⟨ilikuwa⟩ miji kumi na tatu.",
   "tokens": [
     {
-      "surface": "וּמִמַּטֵּ֣ה",
-      "gloss": "Na kutoka kabila"
+      "surface": "וממטה",
+      "gloss": "Na kutoka kabila la"
     },
     {
-      "surface": "בִנְיָמִ֗ן",
+      "surface": "בנימן",
       "gloss": "Binjamin"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "Geba"
     },
     {
-      "surface": "גֶּ֤בַע",
+      "surface": "גבע",
       "gloss": "Geba"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "mawejadi yake"
+      "marks": "maeneo yake ya wazi"
     },
     {
-      "surface": "מִגְרָשֶׁ֨יהָ֙",
-      "gloss": "mawejadi yake"
+      "surface": "מגרשיה",
+      "gloss": "maeneo yake ya wazi"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "na ⟨את⟩",
       "marks": "Alemeth"
     },
     {
-      "surface": "עָלֶ֣מֶת",
+      "surface": "עלמת",
       "gloss": "Alemeth"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "mawejadi yake"
+      "marks": "maeneo yake ya wazi"
     },
     {
-      "surface": "מִגְרָשֶׁ֔יהָ",
-      "gloss": "mawejadi yake"
+      "surface": "מגרשיה",
+      "gloss": "maeneo yake ya wazi"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "na ⟨את⟩",
       "marks": "Anathoth"
     },
     {
-      "surface": "עֲנָת֖וֹת",
+      "surface": "ענתות",
       "gloss": "Anathoth"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "mawejadi yake"
+      "marks": "maeneo yake ya wazi"
     },
     {
-      "surface": "מִגְרָשֶׁ֑יהָ",
-      "gloss": "mawejadi yake"
+      "surface": "מגרשיה",
+      "gloss": "maeneo yake ya wazi"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "yote"
     },
     {
-      "surface": "עָרֵיהֶ֛ם",
+      "surface": "עריהם",
       "gloss": "miji yao"
     },
     {
-      "surface": "שְׁלֹשׁ",
-      "gloss": "kumi na"
-    },
-    {
-      "surface": "עֶשְׂרֵ֥ה",
+      "surface": "שלש",
       "gloss": "tatu"
     },
     {
-      "surface": "עִ֖יר",
+      "surface": "עשרה",
+      "gloss": "kumi na"
+    },
+    {
+      "surface": "עיר",
       "gloss": "miji"
     },
     {
-      "surface": "בְּמִשְׁפְּחוֹתֵיהֶֽם",
-      "gloss": "kwa koo zao"
+      "surface": "במשפחותיהם",
+      "gloss": "kwa familia zao"
     }
   ],
-  "timestamp": "2026-08-10T17:57:38.279716567Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:38.027158954Z",
+  "model": "glm-5.3"
 }

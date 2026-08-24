@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Kwa kuwa wamekabidhiwa kabisa wamekabidhiwa, wao ni wangu, kutokati ya wana wa Yisraeli; mahali pa kufungua kila tumbo, mzaliwa wa kwanza wa wote kutoka miongoni mwa wana wa Yisraeli, nimewachukua ⟨אתם⟩ kuwa wangu.",
+  "translation": "Kwa maana wamepatiwa, wamepatiwa ⟨they⟩ kwangu mimi, kutoka katikati ya wana wa Yisrael; badala ya kila mfunguzi wa tumbo — kila mzaliwa wa kwanza miongoni mwa wana wa Yisrael — nimewachukua ⟨את⟩ wao kwa ajili yangu.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "kwa kuwa"
+      "gloss": "Kwa maana"
     },
     {
       "surface": "נתנים",
-      "gloss": "wamekabidhiwa"
+      "gloss": "wamepatiwa"
     },
     {
       "surface": "נתנים",
-      "gloss": "kabisa wamekabidhiwa"
+      "gloss": "wamepatiwa"
     },
     {
       "surface": "המה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לי",
-      "gloss": "ni wangu"
+      "gloss": "kwangu mimi"
     },
     {
       "surface": "מתוך",
-      "gloss": "kutokati ya"
+      "gloss": "kutoka katikati ya"
     },
     {
       "surface": "בני",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraeli"
+      "gloss": "Yisrael"
     },
     {
       "surface": "תחת",
-      "gloss": "mahali pa"
+      "gloss": "badala ya"
     },
     {
       "surface": "פטרת",
-      "gloss": "kufungua"
+      "gloss": "mfunguzi wa tumbo"
     },
     {
       "surface": "כל",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "wa wote"
+      "gloss": "kila"
     },
     {
       "surface": "מבני",
-      "gloss": "kutoka miongoni mwa wana wa"
+      "gloss": "miongoni mwa wana wa"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraeli"
+      "gloss": "Yisrael"
     },
     {
       "surface": "לקחתי",
@@ -77,14 +77,14 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "wangu"
+      "gloss": "⟨את⟩",
+      "marks": "wao (Walawi)"
     },
     {
       "surface": "לי",
-      "gloss": "kuwa wangu"
+      "gloss": "kwa ajili yangu"
     }
   ],
-  "timestamp": "2026-08-10T10:42:59.002177450Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:14.191508323Z",
+  "model": "glm-5.3"
 }

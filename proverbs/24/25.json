@@ -5,23 +5,23 @@
   "book": "proverbs",
   "lang": "sw",
   "chapter": 24,
-  "translation": "Lakini kwa wanaokemea ⟨⟨huwa⟩⟩ wa kupendeza, nao juu yao ⟨⟨ital⟩⟩ kuja baraka ya mema.",
+  "translation": "Lakini kwa wanaöwaya ⟨itakuwa⟩ ni kupendeza, na juu yao itakuja baraka ya ⟨kheri⟩.",
   "tokens": [
     {
       "surface": "ולמוכיחים",
-      "gloss": "Lakini kwa wanaokemea"
+      "gloss": "kwa wanaöwaya"
     },
     {
       "surface": "ינעם",
-      "gloss": "wa kupendeza"
+      "gloss": "itakuwa ni kupendeza"
     },
     {
       "surface": "ועליהם",
-      "gloss": "nao juu yao"
+      "gloss": "na juu yao"
     },
     {
       "surface": "תבוא",
-      "gloss": "⟨ital⟩ kuja"
+      "gloss": "itakuja"
     },
     {
       "surface": "ברכת",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "טוב",
-      "gloss": "mema"
+      "gloss": "kheri"
     }
   ],
-  "timestamp": "2026-08-10T13:28:30.817020159Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:11.047152672Z",
+  "model": "glm-5.3"
 }

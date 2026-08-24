@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 23,
-  "translation": "Na dada yake, Aholibah, alipoona, akaziharibu tomanti zake kuliko yeye, na ⟨את│ zina zake kuliko zina za dada yake.",
+  "translation": "Na dada yake Aholiba alipoona hili, alichafuka katika ashiki yake zaidi kuliko yeye ⟨mwenyewe⟩, na ⟨את⟩ uasherati wake zaidi kuliko uasherati wa dada yake.",
   "tokens": [
     {
       "surface": "ותרא",
-      "gloss": "na alipoona"
+      "gloss": "alipoona"
     },
     {
       "surface": "אחותה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "אהליבה",
-      "gloss": "Aholibah"
+      "gloss": "Aholiba"
     },
     {
       "surface": "ותשחת",
-      "gloss": "akaziharibu"
+      "gloss": "alichafuka"
     },
     {
       "surface": "עגבתה",
-      "gloss": "tomanti zake"
+      "gloss": "ashiki yake"
     },
     {
       "surface": "ממנה",
@@ -33,22 +33,22 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "zina zake"
+      "gloss": "⟨את⟩",
+      "marks": "uasherati wake"
     },
     {
       "surface": "תזנותיה",
-      "gloss": "zina zake"
+      "gloss": "uasherati wake"
     },
     {
       "surface": "מזנוני",
-      "gloss": "kuliko zina za"
+      "gloss": "kuliko uasherati wa"
     },
     {
       "surface": "אחותה",
       "gloss": "dada yake"
     }
   ],
-  "timestamp": "2026-08-10T12:32:40.826767058Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:12.871718198Z",
+  "model": "glm-5.3"
 }

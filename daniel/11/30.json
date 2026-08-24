@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "sw",
   "chapter": 11,
-  "translation": "Nao meli za Kittiim zitamjia, naye atanyang'anywa, na atarudi, na hasira dhidi ya ⟨⟨agano takatifu, na kutenda. Na atarudi, na kuelewa kuhusu wanaoacha agano takatifu.",
+  "translation": "Kwa maana meli za Kittim zitamjia, naye atashindwa; naye atarudi, na kukasirika dhidi ya agano takatifu, na kutenda ⟨kwa mafuto yake⟩; naye atarudi, na kuangalia kwa makini wanaoacha agano takatifu.",
   "tokens": [
     {
       "surface": "ובאו",
-      "gloss": "na zitakuja"
+      "gloss": "zitakapofika"
     },
     {
       "surface": "בו",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "כתים",
-      "gloss": "za Kittiim"
+      "gloss": "za Kittim"
     },
     {
       "surface": "ונכאה",
-      "gloss": "na atanyang'anywa"
+      "gloss": "atashindwa"
     },
     {
       "surface": "ושב",
-      "gloss": "na atarudi"
+      "gloss": "atarudi"
     },
     {
       "surface": "וזעם",
-      "gloss": "na hasira"
+      "gloss": "kukasirika"
     },
     {
       "surface": "על",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "ושב",
-      "gloss": "na atarudi"
+      "gloss": "atarudi"
     },
     {
       "surface": "ויבן",
-      "gloss": "na kuelewa"
+      "gloss": "ataangalia kwa makini"
     },
     {
       "surface": "על",
-      "gloss": "kuhusu"
+      "gloss": "juu ya"
     },
     {
       "surface": "עזבי",
@@ -76,6 +76,6 @@
       "gloss": "takatifu"
     }
   ],
-  "timestamp": "2026-08-10T18:29:24.726636179Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:53.843282355Z",
+  "model": "glm-5.3"
 }

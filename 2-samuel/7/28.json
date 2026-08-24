@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Na sasa, Adonai Yahweh, wewe ndiye ⟨⟨yule⟩⟩ Elohim, na maneno yako yatakuwa kweli, nawe umenena kwa mtumishi wako ⟨את⟩ wema huu.",
+  "translation": "Na sasa, Adonai Yahweh, wewe ndiwe ⟨⟨ni⟩⟩ Elohim, na maneno yako yatakuwa kweli, na umesema kwa mtumwa wako ⟨את⟩ wema hii.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ndiye"
+      "gloss": "ndiwe"
     },
     {
       "surface": "האלהים",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ותדבר",
-      "gloss": "nawe umenena"
+      "gloss": "na umesema"
     },
     {
       "surface": "אל",
@@ -53,12 +53,12 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "mtumishi wako"
+      "gloss": "mtumwa wako"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wema huu"
+      "marks": "wema hii"
     },
     {
       "surface": "הטובה",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "huu"
+      "gloss": "hii"
     }
   ],
-  "timestamp": "2026-08-10T11:30:50.524999282Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:03.184144265Z",
+  "model": "glm-5.3"
 }

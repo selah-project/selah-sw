@@ -5,32 +5,31 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 10,
-  "translation": "Na watsoni na Amaleki na wa Maoni walikubana, mkalia kwangu, nami nikaokuokoa ⟨אתכם⟩ kutoka mikononi mwao?",
+  "translation": "Na Wasidoni na Waamaleki na Wamaoni walikandamiza ⟨את⟩ nyinyi, mkania kwangu, nami nakuokoeni kutoka mkononi mwao.",
   "tokens": [
     {
       "surface": "וצידונים",
-      "gloss": "Na watsoni"
+      "gloss": "Na Wasidoni"
     },
     {
       "surface": "ועמלק",
-      "gloss": "na Amaleki"
+      "gloss": "na Waamaleki"
     },
     {
       "surface": "ומעון",
-      "gloss": "na wa Maoni"
+      "gloss": "na Wamaoni"
     },
     {
       "surface": "לחצו",
-      "gloss": "walikubana"
+      "gloss": "walikandamiza"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "inyinyi"
+      "gloss": "⟨את⟩ nyinyi"
     },
     {
       "surface": "ותצעקו",
-      "gloss": "mkalia"
+      "gloss": "mkania"
     },
     {
       "surface": "אלי",
@@ -38,18 +37,17 @@
     },
     {
       "surface": "ואושיעה",
-      "gloss": "nami nikaokuokoa"
+      "gloss": "nami nakuokoeni"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "inyinyi"
+      "gloss": "⟨את⟩ nyinyi"
     },
     {
       "surface": "מידם",
-      "gloss": "kutoka mikononi mwao"
+      "gloss": "kutoka mkononi mwao"
     }
   ],
-  "timestamp": "2026-08-10T11:14:28.613314706Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:47.810871360Z",
+  "model": "glm-5.3"
 }

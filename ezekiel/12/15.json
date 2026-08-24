@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 12,
-  "translation": "Nao watajua ya kwamba mimi ni Yahweh ninipowatawanya ⟨אותם⟩ matajini, na kuwatawanya ⟨אותם⟩ katika nchi.",
+  "translation": "Nao watajua kwamba mimi ndimi Yahweh, nilipowatafanya ⟨את⟩ wao kati ya mataifa, na kuwatawanya ⟨את⟩ wao katika nchi.",
   "tokens": [
     {
       "surface": "וידעו",
-      "gloss": "nao watajua"
+      "gloss": "na wao watajua"
     },
     {
       "surface": "כי",
-      "gloss": "ya kwamba"
+      "gloss": "kwamba"
     },
     {
       "surface": "אני",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "בהפיצי",
-      "gloss": "ninipowatawanya"
+      "gloss": "nilipowatafanya"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "matajini"
+      "gloss": "⟨את⟩ wao",
+      "marks": "wao (mataifa kama lengo la kutawanywa)"
     },
     {
       "surface": "בגוים",
-      "gloss": "matajini"
+      "gloss": "kati ya mataifa"
     },
     {
       "surface": "וזריתי",
@@ -42,14 +42,14 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "katika nchi"
+      "gloss": "⟨את⟩ wao",
+      "marks": "wao (nchi kama lengo la kutawanywa)"
     },
     {
       "surface": "בארצות",
       "gloss": "katika nchi"
     }
   ],
-  "timestamp": "2026-08-10T12:28:56.129161223Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:01.720277670Z",
+  "model": "glm-5.3"
 }

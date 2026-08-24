@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "sw",
   "chapter": 24,
-  "translation": "Na David akajenga huko madhabahu kwa Yahweh, akatoa ⟨aliyepanda⟩ holokausti na sadaka za amani, na Yahweh akaombewa kwa ajili ya ⟨the⟩ nchi, na tauni ikazuiwa isitokee kwa Yisrael.",
+  "translation": "Naye David akajenga huko madhabahu kwa Yahweh, akapandisha ⟨את⟩ sadaka za kuchomwa na ⟨את⟩ sadaka za amani; naye Yahweh akajibu maombi kwa ajili ya ⟨ה⟩ nchi, na tauni ikasimamishwa kutoka juu ya Yisraeli.",
   "tokens": [
     {
       "surface": "ויבן",
-      "gloss": "na akajenga"
+      "gloss": "akajenga"
     },
     {
       "surface": "שם",
@@ -29,11 +29,16 @@
     },
     {
       "surface": "ויעל",
-      "gloss": "na akatoa"
+      "gloss": "akapandisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaka za kuchomwa"
     },
     {
       "surface": "עלות",
-      "gloss": "holokausti"
+      "gloss": "sadaka za kuchomwa"
     },
     {
       "surface": "ושלמים",
@@ -41,7 +46,7 @@
     },
     {
       "surface": "ויעתר",
-      "gloss": "na akaombewa"
+      "gloss": "akajibu maombi"
     },
     {
       "surface": "יהוה",
@@ -49,11 +54,11 @@
     },
     {
       "surface": "לארץ",
-      "gloss": "kwa ajili ya nchi"
+      "gloss": "kwa ajili ya ⟨ה⟩ nchi"
     },
     {
       "surface": "ותעצר",
-      "gloss": "na ikazuiwa"
+      "gloss": "ikasimamishwa"
     },
     {
       "surface": "המגפה",
@@ -61,13 +66,13 @@
     },
     {
       "surface": "מעל",
-      "gloss": "isitokee kwa"
+      "gloss": "kutoka juu ya"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisraeli"
     }
   ],
-  "timestamp": "2026-08-10T11:35:53.651960514Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:30.069982581Z",
+  "model": "glm-5.3"
 }

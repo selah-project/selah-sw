@@ -5,37 +5,37 @@
   "book": "job",
   "lang": "sw",
   "chapter": 24,
-  "translation": "Na ⟨⟨Yeye⟩⟩ anavuta wenye nguvu kwa nguvu yake; ⟨⟉huyo⟩⟩ husimama, wala hana tumaini la ⟨⟉kuishi⟩⟩.",
+  "translation": "Huwavuta wenye nguvu kwa nguvu yake; hukimbia, wala hana hakika ya maisha.",
   "tokens": [
     {
-      "surface": "וּמָשַׁ֣ךְ",
-      "gloss": "anavuta"
+      "surface": "ומשך",
+      "gloss": "huwavuta"
     },
     {
-      "surface": "אַבִּירִ֣ים",
+      "surface": "אבירים",
       "gloss": "wenye nguvu"
     },
     {
-      "surface": "בְּכֹח֑וֹ",
+      "surface": "בכחו",
       "gloss": "kwa nguvu yake"
     },
     {
-      "surface": "יָק֗וּם",
-      "gloss": "husimama"
+      "surface": "יקום",
+      "gloss": "huamka"
     },
     {
-      "surface": "וְֽלֹא",
+      "surface": "ולא",
       "gloss": "wala"
     },
     {
-      "surface": "יַאֲמִ֥ין",
-      "gloss": "hana tumaini"
+      "surface": "יאמין",
+      "gloss": "hana hakika"
     },
     {
-      "surface": "בַּחַיִּֽין",
-      "gloss": "kuishi"
+      "surface": "בחיין",
+      "gloss": "ya maisha"
     }
   ],
-  "timestamp": "2026-08-10T15:34:26.173866420Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:28.246783256Z",
+  "model": "glm-5.3"
 }

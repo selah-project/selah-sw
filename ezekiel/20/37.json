@@ -5,15 +5,16 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 20,
-  "translation": "Nami nitawapitisha ninyi ⟨⟨אתכם⟩⟩ chini ya fimbo, nami nitawaleta ninyi ⟨⟨אתכם⟩⟩ katika mafungo ya agano.",
+  "translation": "Nami nitawapitisha ⟨אתכם⟩ chini ya fimbo, na nitawaingiza ⟨אתכם⟩ katika kifungo cha berit.",
   "tokens": [
     {
       "surface": "והעברתי",
-      "gloss": "nami nitawapitisha"
+      "gloss": "nitawapitisha"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ninyi"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "nyinyi"
     },
     {
       "surface": "תחת",
@@ -25,21 +26,22 @@
     },
     {
       "surface": "והבאתי",
-      "gloss": "nami nitawaleta"
+      "gloss": "nitawaingiza"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ninyi"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "nyinyi"
     },
     {
       "surface": "במסרת",
-      "gloss": "katika mafungo ya"
+      "gloss": "katika kifungo cha"
     },
     {
       "surface": "הברית",
-      "gloss": "agano"
+      "gloss": "berit"
     }
   ],
-  "timestamp": "2026-08-10T12:31:59.651745160Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.348581872Z",
+  "model": "glm-5.3"
 }

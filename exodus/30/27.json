@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 30,
-  "translation": "na ⟨את⟩ ⟨the⟩ meza na ⟨את⟩ vyombo vyake vyote, na ⟨את⟩ ⟨the⟩ kinara na ⟨את⟩ vyombo vyake, na ⟨את⟩ madhabahu ya uvumba;",
+  "translation": "na ⟨את⟩ meza na ⟨את⟩ vyombo vyake vyote, na ⟨את⟩ kinara cha taa na ⟨את⟩ vyombo vyake, na ⟨את⟩ madhabahu ya uvundo",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "meza"
     },
     {
@@ -18,8 +18,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "vyombo"
+      "gloss": "⟨את⟩",
+      "marks": "vyombo vyake vyote"
     },
     {
       "surface": "כל",
@@ -31,17 +31,17 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "kinara"
+      "gloss": "⟨את⟩",
+      "marks": "kinara cha taa"
     },
     {
       "surface": "המנרה",
-      "gloss": "kinara"
+      "gloss": "kinara cha taa"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "vyombo"
+      "gloss": "⟨את⟩",
+      "marks": "vyombo vyake"
     },
     {
       "surface": "כליה",
@@ -49,8 +49,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "madhabahu"
+      "gloss": "⟨את⟩",
+      "marks": "madhabahu ya uvundo"
     },
     {
       "surface": "מזבח",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "הקטרת",
-      "gloss": "ya uvumba"
+      "gloss": "ya uvundo"
     }
   ],
-  "timestamp": "2026-08-10T10:27:01.764243493Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:22.263614632Z",
+  "model": "glm-5.3"
 }

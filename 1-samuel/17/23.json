@@ -5,81 +5,81 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 17,
-  "translation": "Naye <<alikuwa>> akizungumza nao, na tazama, yule ⟨mwanamume⟩ wa katikati, Goliathi Mpelishti, jina lake, kutoka Gathi, kutoka katika mapafu ya Wapelishti, akizungumza kulingana na maneno haya; naye David akasikia.",
+  "translation": "Naye alipokuwa akizungumza nao, tazama, ⟨aliye⟩ mwanamume wa katikati ⟨ya jeshi mbili⟩ alipanda, Golyat Mwfilisti jina lake, kutoka Gath, kutoka safu za Wafilisti, akasema maneno kama hayo, naye David akayasikia.",
   "tokens": [
     {
-      "surface": "וְה֣וּא",
-      "gloss": "Naye"
+      "surface": "והוא",
+      "gloss": "naye"
     },
     {
-      "surface": "מְדַבֵּ֣ר",
+      "surface": "מדבר",
       "gloss": "akizungumza"
     },
     {
-      "surface": "עִמָּ֗ם",
+      "surface": "עמם",
       "gloss": "nao"
     },
     {
-      "surface": "וְהִנֵּ֣ה",
-      "gloss": "na tazama"
+      "surface": "והנה",
+      "gloss": "tazama"
     },
     {
-      "surface": "אִ֣ישׁ",
-      "gloss": "yule"
+      "surface": "איש",
+      "gloss": "mwanamume"
     },
     {
-      "surface": "הַבֵּנַ֡יִם",
-      "gloss": "⟨mwanamume⟩ wa katikati"
+      "surface": "הבנים",
+      "gloss": "⟨wa katikati ya jeshi mbili⟩"
     },
     {
-      "surface": "עוֹלֶ֞ה",
-      "gloss": "anapanda"
+      "surface": "עולה",
+      "gloss": "alipanda"
     },
     {
-      "surface": "גָּלְיָת֩",
-      "gloss": "Goliathi"
+      "surface": "גלית",
+      "gloss": "Golyat"
     },
     {
-      "surface": "הַפְּלִשְׁתִּ֨י",
-      "gloss": "Mpelishti"
+      "surface": "הפלשתי",
+      "gloss": "Mwfilisti"
     },
     {
-      "surface": "שְׁמ֤וֹ",
+      "surface": "שמו",
       "gloss": "jina lake"
     },
     {
-      "surface": "מִגַּת֙",
-      "gloss": "kutoka Gathi"
+      "surface": "מגת",
+      "gloss": "kutoka Gath"
     },
     {
       "surface": "ממערות",
-      "gloss": "kutoka katika"
+      "gloss": "kutoka safu"
     },
     {
-      "surface": "פְּלִשְׁתִּ֔ים",
-      "gloss": "mapafu ya Wapelishti"
+      "surface": "פלשתים",
+      "gloss": "za Wafilisti"
     },
     {
-      "surface": "וַיְדַבֵּ֖ר",
-      "gloss": "akazungumza"
+      "surface": "וידבר",
+      "gloss": "akasema"
     },
     {
-      "surface": "כַּדְּבָרִ֣ים",
-      "gloss": "kulingana na maneno"
+      "surface": "כדברים",
+      "gloss": "maneno kama"
     },
     {
-      "surface": "הָאֵ֑לֶּה",
-      "gloss": "haya"
+      "surface": "האלה",
+      "gloss": "hayo"
     },
     {
-      "surface": "וַיִּשְׁמַ֖ע",
+      "surface": "וישמע",
       "gloss": "akasikia"
     },
     {
-      "surface": "דָּוִֽד",
+      "surface": "דוד",
       "gloss": "David"
     }
   ],
-  "timestamp": "2026-08-10T11:23:43.426906556Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:05.566127720Z",
+  "model": "glm-5.3"
 }

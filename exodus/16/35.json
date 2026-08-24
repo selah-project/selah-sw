@@ -5,28 +5,28 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 16,
-  "translation": "Na wana wa Yisra'el wakala ⟨את⟩ ⟨the⟩ manna miaka arobaini, mpaka kuja kwao ⟨ndani⟩ ya nchi inayokaliwa; ⟨את⟩ ⟨the⟩ manna wakala mpaka kuja kwao ⟨ndani⟩ ya ncha ya nchi ya Kenaan.",
+  "translation": "Na wana wa Yisrael walila ⟨את⟩ mana miaka arobaini, hata wakafika katika nchi iliyokaliwa; ⟨את⟩ mana walila, hata wakafika mpaka ukingo wa nchi ya Kenaan.",
   "tokens": [
     {
       "surface": "ובני",
-      "gloss": "na wana wa"
+      "gloss": "Na wana wa"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אכלו",
-      "gloss": "wakala"
+      "gloss": "walila"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "manna"
+      "marks": "mana"
     },
     {
       "surface": "המן",
-      "gloss": "manna"
+      "gloss": "mana"
     },
     {
       "surface": "ארבעים",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "עד",
-      "gloss": "mpaka"
+      "gloss": "hata"
     },
     {
       "surface": "באם",
-      "gloss": "kuja kwao"
+      "gloss": "wakafika"
     },
     {
       "surface": "אל",
-      "gloss": "⟨ndani⟩ ya"
+      "gloss": "katika"
     },
     {
       "surface": "ארץ",
@@ -54,46 +54,46 @@
     },
     {
       "surface": "נושבת",
-      "gloss": "inayokaliwa"
+      "gloss": "iliyokaliwa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "manna"
+      "marks": "mana"
     },
     {
       "surface": "המן",
-      "gloss": "manna"
+      "gloss": "mana"
     },
     {
       "surface": "אכלו",
-      "gloss": "wakala"
+      "gloss": "walila"
     },
     {
       "surface": "עד",
-      "gloss": "mpaka"
+      "gloss": "hata"
     },
     {
       "surface": "באם",
-      "gloss": "kuja kwao"
+      "gloss": "wakafika"
     },
     {
       "surface": "אל",
-      "gloss": "⟨ndani⟩ ya"
+      "gloss": "mpaka"
     },
     {
       "surface": "קצה",
-      "gloss": "ncha ya"
+      "gloss": "ukingo wa"
     },
     {
       "surface": "ארץ",
-      "gloss": "nchi"
+      "gloss": "nchi ya"
     },
     {
       "surface": "כנען",
-      "gloss": "ya Kenaan"
+      "gloss": "Kenaan"
     }
   ],
-  "timestamp": "2026-08-10T10:22:31.528540356Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:23.040628756Z",
+  "model": "glm-5.3"
 }

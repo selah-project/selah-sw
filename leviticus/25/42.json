@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 25,
-  "translation": "Kwa kuwa watumwa wangu ni wao, ambao nimewatoa ⟨אתם kutoka nchi ya Mitsrayim; hawatauzwa kwa uuzaji wa mtumwa.",
+  "translation": "Kwa maana watumwa wangu wao ⟨ni⟩, niliowatoa ⟨את⟩ ⟨אתם⟩ kutoka katika nchi ya Mitsrayim; hawatauzwi kwa mauzo ya mtumwa.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kwa kuwa"
+      "gloss": "Kwa maana"
     },
     {
       "surface": "עבדי",
@@ -17,46 +17,46 @@
     },
     {
       "surface": "הם",
-      "gloss": "ni wao"
+      "gloss": "wao"
     },
     {
       "surface": "אשר",
-      "gloss": "ambao"
+      "gloss": "ambaao"
     },
     {
       "surface": "הוצאתי",
-      "gloss": "nimewatoa"
+      "gloss": "niliwatoa"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "wao"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "wao (Waisraeli watumwa)"
     },
     {
       "surface": "מארץ",
-      "gloss": "kutoka nchi"
+      "gloss": "kutoka katika nchi"
     },
     {
       "surface": "מצרים",
-      "gloss": "ya Mitsrayim"
+      "gloss": "Mitsrayim"
     },
     {
       "surface": "לא",
-      "gloss": "hawatauzwa"
+      "gloss": "si"
     },
     {
       "surface": "ימכרו",
-      "gloss": "⟨hive⟩"
+      "gloss": "watauzwi"
     },
     {
       "surface": "ממכרת",
-      "gloss": "kwa uuzaji"
+      "gloss": "kwa mauzo"
     },
     {
       "surface": "עבד",
-      "gloss": "wa mtumwa"
+      "gloss": "ya mtumwa"
     }
   ],
-  "timestamp": "2026-08-10T10:38:53.439816790Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.365850725Z",
+  "model": "glm-5.3"
 }

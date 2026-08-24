@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 17,
-  "translation": "Na David akifunga ⟨את⟩ upanga wake juu ya nguo zake, akajitahidi kwenda, maana hakuujaribu; na David akamwambia Shaul: Siwezi kwenda kwa hizi, maana sijazijaribu; na David akaondoa ⟨⟨zile⟩⟩ juu yake.",
+  "translation": "Na David akafunga ⟨את⟩ upanga wake juu ya mavazi yake, akajaribu kwenda, maana hakuwahi kujaribu; na David akamwambia Shaul: Siwezi kwenda kwa haya, maana sikuwahi kujaribu; David akayavua hayo kutoka juu yake.",
   "tokens": [
     {
       "surface": "ויחגר",
-      "gloss": "na akafunga"
+      "gloss": "akafunga"
     },
     {
       "surface": "דוד",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "למדיו",
-      "gloss": "nguo zake"
+      "gloss": "mavazi yake"
     },
     {
       "surface": "ויאל",
-      "gloss": "akajitahidi"
+      "gloss": "akajibu"
     },
     {
       "surface": "ללכת",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "hai-"
+      "gloss": "si"
     },
     {
       "surface": "נסה",
-      "gloss": "jaribu"
+      "gloss": "hakuwahi kujaribu"
     },
     {
       "surface": "ויאמר",
-      "gloss": "na akamwambia"
+      "gloss": "akasema"
     },
     {
       "surface": "דוד",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": "kwenda"
     },
     {
       "surface": "שאול",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "si-"
+      "gloss": "si"
     },
     {
       "surface": "אוכל",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "באלה",
-      "gloss": "kwa hizi"
+      "gloss": "kwa haya"
     },
     {
       "surface": "כי",
@@ -90,15 +90,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "si-"
+      "gloss": "si"
     },
     {
       "surface": "נסיתי",
-      "gloss": "jazijaribu"
+      "gloss": "kuwahi kujaribu"
     },
     {
       "surface": "ויסרם",
-      "gloss": "na akaondoa"
+      "gloss": "akayavua hayo"
     },
     {
       "surface": "דוד",
@@ -106,9 +106,9 @@
     },
     {
       "surface": "מעליו",
-      "gloss": "juu yake"
+      "gloss": "kutoka juu yake"
     }
   ],
-  "timestamp": "2026-08-10T16:01:11.676469145Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:20.391895395Z",
+  "model": "glm-5.3"
 }

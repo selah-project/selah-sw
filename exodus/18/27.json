@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 18,
-  "translation": "Moshe akamwaga mkono ⟨את⟩ baba mkwe wake, naye akaenda zake ⟨⟨kwenda⟩⟩ kwenda nchi yake.",
+  "translation": "Naye Moshe alimwaga mkwe wake ⟨את⟩, naye akaenda zake kwenda katika nchi yake.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "akamwaga mkono"
+      "gloss": "akamwaga"
     },
     {
       "surface": "משה",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "baba mkwe wake"
+      "marks": "mkwe wake"
     },
     {
       "surface": "חתנו",
-      "gloss": "baba mkwe wake"
+      "gloss": "mkwe wake"
     },
     {
       "surface": "וילך",
-      "gloss": "naye akaenda"
+      "gloss": "akaenda"
     },
     {
       "surface": "לו",
@@ -34,13 +34,13 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwenda"
+      "gloss": "kwenda katika"
     },
     {
       "surface": "ארצו",
       "gloss": "nchi yake"
     }
   ],
-  "timestamp": "2026-08-10T14:29:24.237488995Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:47.824624921Z",
+  "model": "glm-5.3"
 }

@@ -5,49 +5,49 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Nao wahifadhi dhamana yake na ⟨את⟩ dhamana ya ⟨the⟩ makusanyiko yote mbele ya hema ya mkutano, kufanya ⟨את⟩ kazi ya maskani.",
+  "translation": "Na watashughulikia ⟨את⟩ udhamini wake, na ⟨את⟩ udhamini wa jumuiya yote mbele ya hema ya mkutano, kufanya ⟨את⟩ kazi ya Maskani.",
   "tokens": [
     {
       "surface": "ושמרו",
-      "gloss": "Nao wahifadhi"
+      "gloss": "na watashughulikia"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dhamana yake"
+      "marks": "udhamini wake"
     },
     {
       "surface": "משמרתו",
-      "gloss": "dhamana yake"
+      "gloss": "udhamini wake"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "dhamana ya makusanyiko yote"
+      "marks": "udhamini wa jumuiya yote"
     },
     {
       "surface": "משמרת",
-      "gloss": "dhamana"
+      "gloss": "udhamini wa"
     },
     {
       "surface": "כל",
-      "gloss": "ya"
+      "gloss": "yote"
     },
     {
       "surface": "העדה",
-      "gloss": "makusanyiko yote"
+      "gloss": "jumuiya"
     },
     {
       "surface": "לפני",
-      "gloss": "mbele"
+      "gloss": "mbele ya"
     },
     {
       "surface": "אהל",
-      "gloss": "ya"
+      "gloss": "hema ya"
     },
     {
       "surface": "מועד",
-      "gloss": "hema ya mkutano"
+      "gloss": "mkutano"
     },
     {
       "surface": "לעבד",
@@ -56,17 +56,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kazi ya maskani"
+      "marks": "kazi ya Maskani"
     },
     {
       "surface": "עבדת",
-      "gloss": "kazi"
+      "gloss": "kazi ya"
     },
     {
       "surface": "המשכן",
-      "gloss": "ya maskani"
+      "gloss": "Maskani"
     }
   ],
-  "timestamp": "2026-08-10T10:40:22.320834878Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:29.648442983Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 26,
-  "translation": "Nami nitaharibu ⟨את⟩ mahali pa juu pa ibada yenu, na nikate ⟨את⟩ nguzo zenu za jua, nami nitaweka ⟨את⟩ maiti zenu juu ya maiti za sanamu zenu, na nafsi yenu itachukia ⟨⟨את⟩ nyinyi⟩.",
+  "translation": "Nami nitawaharibu ⟨את⟩ mahali pa juu pa ibada yenu, na nitakata ⟨את⟩ nguzo za jua zenu, na nitaweka ⟨את⟩ maiti zenu juu ya maiti za sanamu zenu, na nafsi yangu itawachukia ⟨את⟩ ninyi.",
   "tokens": [
     {
       "surface": "והשמדתי",
-      "gloss": "Nami nitaharibu"
+      "gloss": "nami nitawaharibu"
     },
     {
       "surface": "את",
@@ -22,20 +22,20 @@
     },
     {
       "surface": "והכרתי",
-      "gloss": "na nikate"
+      "gloss": "na nitakata"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nguzo zenu za jua"
+      "marks": "nguzo za jua zenu"
     },
     {
       "surface": "חמניכם",
-      "gloss": "nguzo zenu za jua"
+      "gloss": "nguzo za jua zenu"
     },
     {
       "surface": "ונתתי",
-      "gloss": "nami nitaweka"
+      "gloss": "na nitaweka"
     },
     {
       "surface": "את",
@@ -60,7 +60,7 @@
     },
     {
       "surface": "וגעלה",
-      "gloss": "na itachukia"
+      "gloss": "na itawachukia"
     },
     {
       "surface": "נפשי",
@@ -68,9 +68,9 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nyinyi"
+      "gloss": "⟨את⟩ ninyi"
     }
   ],
-  "timestamp": "2026-08-10T15:55:03.664203842Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:26.755166116Z",
+  "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 12,
-  "translation": "Na nitatandaza ⟨את⟩ nyavu zangu juu yake, naye atashikwa katika mtego wangu; na nitamleta ⟨את⟩ ⟨אֹתוּ⟩ Baveli, nchi ya Wakasdi, ⟨את⟩ na ⟨hiyo⟩ hatoyaona, na huko atakufa.",
+  "translation": "Nami nitatanda ⟨את⟩ nyavu yangu juu yake, naye atakamatwa katika mtego wangu; na nitamleta ⟨את⟩ yeye Babeli, nchi ya Kashdi; ⟨את⟩ naye ⟨hiyo⟩ hatawaiona, na huko atakufa.",
   "tokens": [
     {
       "surface": "ופרשתי",
-      "gloss": "na nitatandaza"
+      "gloss": "nami nitatanda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nyavu zangu"
+      "marks": "nyavu yangu"
     },
     {
       "surface": "רשתי",
-      "gloss": "nyavu zangu"
+      "gloss": "nyavu yangu"
     },
     {
       "surface": "עליו",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ונתפש",
-      "gloss": "naye atashikwa"
+      "gloss": "naye atakamatwa"
     },
     {
       "surface": "במצודתי",
@@ -38,12 +38,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אֹתוּ⟩",
-      "marks": "Baveli"
+      "gloss": "⟨את⟩",
+      "marks": "yeye (Babeli)"
     },
     {
       "surface": "בבלה",
-      "gloss": "Baveli"
+      "gloss": "Babeli"
     },
     {
       "surface": "ארץ",
@@ -51,20 +51,20 @@
     },
     {
       "surface": "כשדים",
-      "gloss": "ya Wakasdi"
+      "gloss": "ya Kashdi"
     },
     {
       "surface": "ואותה",
-      "gloss": "⟨את⟩ na ⟨hiyo⟩",
-      "marks": "hayataiona"
+      "gloss": "⟨את⟩ naye ⟨hiyo⟩",
+      "marks": "Babeli"
     },
     {
       "surface": "לא",
-      "gloss": "hatoyaona"
+      "gloss": "hata"
     },
     {
       "surface": "יראה",
-      "gloss": "atayaona"
+      "gloss": "-waiona"
     },
     {
       "surface": "ושם",
@@ -75,6 +75,6 @@
       "gloss": "atakufa"
     }
   ],
-  "timestamp": "2026-08-10T12:28:56.128713156Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:09.150677817Z",
+  "model": "glm-5.3"
 }

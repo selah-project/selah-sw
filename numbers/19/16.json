@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 19,
-  "translation": "Na kila anayegusa juu ya uso wa shambani, ⟨⟨aliyeuawa⟩⟩ kwa upanga au ⟨ni⟩ maiti au ⟨ni⟩ mfupa wa mtu au ⟨ni⟩ kaburi, atakuwa machafu siku saba.",
+  "translation": "Na kila mtu ambaye atagusa juu ya uso wa ⟨shamba⟩ aliyeuawa kwa chombo cha vita, au maiti, au mfupa wa mwanadamu, au kaburi, atakuwa naji siku saba.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "na kila"
+      "gloss": "Na kila"
     },
     {
       "surface": "אשר",
-      "gloss": "anayegusa"
+      "gloss": "ambaye"
     },
     {
       "surface": "יגע",
-      "gloss": "anayegusa"
+      "gloss": "atagusa"
     },
     {
       "surface": "על",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "פני",
-      "gloss": "uso"
+      "gloss": "uso wa"
     },
     {
       "surface": "השדה",
-      "gloss": "wa shambani"
+      "gloss": "⟨shamba⟩"
     },
     {
       "surface": "בחלל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "חרב",
-      "gloss": "kwa upanga"
+      "gloss": "kwa chombo cha vita"
     },
     {
       "surface": "או",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "wa mtu"
+      "gloss": "wa mwanadamu"
     },
     {
       "surface": "או",
@@ -69,17 +69,17 @@
     },
     {
       "surface": "יטמא",
-      "gloss": "atakuwa machafu"
+      "gloss": "atakuwa naji"
     },
     {
       "surface": "שבעת",
-      "gloss": "saba"
+      "gloss": "siku saba"
     },
     {
       "surface": "ימים",
-      "gloss": "siku"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-08-10T10:48:09.136782070Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:34.589385562Z",
+  "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Na akapanda, akaambia baba yake na mama yake, akasema: «Mwanamke nimeona katika Timnatah, miongoni mwa binti za Pelishtim; na sasa ⟨⟨את⟩⟩ mchukueni kwangu kuwa mke.»",
+  "translation": "Akapanda, akawaeleza baba yake na mama yake, akasema: Mwanamke nimeona huko Timnata, miongoni mwa mabinti wa Wafilisti; na sasa mchukueni ⟨את⟩ yule kwa ajili yangu, awe mke wangu.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "Na akapanda"
+      "gloss": "Akapanda"
     },
     {
       "surface": "ויגד",
-      "gloss": "akaambia"
+      "gloss": "akawaeleza"
     },
     {
       "surface": "לאביו",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "בתמנתה",
-      "gloss": "katika Timnatah"
+      "gloss": "huko Timnata"
     },
     {
       "surface": "מבנות",
-      "gloss": "miongoni mwa binti"
+      "gloss": "miongoni mwa mabinti"
     },
     {
       "surface": "פלשתים",
-      "gloss": "za Pelishtim"
+      "gloss": "wa Wafilisti"
     },
     {
       "surface": "ועתה",
@@ -58,17 +58,17 @@
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "mchukueni (yeye)"
+      "marks": "yule mwanamke"
     },
     {
       "surface": "לי",
-      "gloss": "kwangu"
+      "gloss": "kwa ajili yangu"
     },
     {
       "surface": "לאשה",
-      "gloss": "kuwa mke"
+      "gloss": "awe mke wangu"
     }
   ],
-  "timestamp": "2026-08-10T11:16:49.570688711Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:32.060633923Z",
+  "model": "glm-5.3"
 }

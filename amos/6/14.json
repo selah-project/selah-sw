@@ -5,82 +5,82 @@
   "book": "amos",
   "lang": "sw",
   "chapter": 6,
-  "translation": "Kwa maana tazama, mimi ninainua juu yenu, nyumba ya Israeli, taifa, neno la Yahweh Elohim wa majeshi; nao watawashinikiza ⟨אתכם⟩ tangu kuingia kwa Chamath hata mto wa Araba.",
+  "translation": "Kwa maana tazama, mimi ninainua juu yenu taifa, nyumba ya Yisraeli, asema Yahweh, Elohim wa majeshi, nalo litawadhibuni kuanzia mwingilio wa Chamath hata bonde la jangwani.",
   "tokens": [
     {
-      "surface": "כִּ֡י",
+      "surface": "כי",
       "gloss": "Kwa maana"
     },
     {
-      "surface": "הִנְנִי֩",
+      "surface": "הנני",
       "gloss": "tazama, mimi"
     },
     {
-      "surface": "מֵקִ֨ים",
+      "surface": "מקים",
       "gloss": "ninainua"
     },
     {
-      "surface": "עֲלֵיכֶ֜ם",
+      "surface": "עליכם",
       "gloss": "juu yenu"
     },
     {
-      "surface": "בֵּ֣ית",
-      "gloss": "nyumba"
+      "surface": "בית",
+      "gloss": "nyumba ya"
     },
     {
-      "surface": "יִשְׂרָאֵ֗ל",
-      "gloss": "ya Israeli"
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
     },
     {
-      "surface": "נְאֻם",
-      "gloss": "neno"
+      "surface": "נאם",
+      "gloss": "asema"
     },
     {
-      "surface": "יְהוָ֛ה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "אֱלֹהֵ֥י",
-      "gloss": "Elohim"
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
     },
     {
-      "surface": "הַצְּבָא֖וֹת",
-      "gloss": "wa majeshi"
+      "surface": "הצבאות",
+      "gloss": "majeshi"
     },
     {
-      "surface": "גּ֑וֹי",
+      "surface": "גוי",
       "gloss": "taifa"
     },
     {
-      "surface": "וְלָחֲצ֥וּ",
-      "gloss": "nao watawashinikiza"
+      "surface": "ולחצו",
+      "gloss": "nalo litawadhibuni"
     },
     {
-      "surface": "אֶתְכֶ֛ם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ninyi"
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi (kiwakilishi cha mlengo wa pili)"
     },
     {
-      "surface": "מִלְּב֥וֹא",
-      "gloss": "tangu kuingia"
+      "surface": "מלבוא",
+      "gloss": "kuanzia mwingilio wa"
     },
     {
-      "surface": "חֲמָ֖ת",
-      "gloss": "kwa Chamath"
+      "surface": "חמת",
+      "gloss": "Chamath"
     },
     {
-      "surface": "עַ֥ד",
+      "surface": "עד",
       "gloss": "hata"
     },
     {
-      "surface": "נַ֖חַל",
-      "gloss": "mto"
+      "surface": "נחל",
+      "gloss": "bonde la"
     },
     {
-      "surface": "הָעֲרָבָֽה",
-      "gloss": "wa Araba"
+      "surface": "הערבה",
+      "gloss": "jangwani"
     }
   ],
-  "timestamp": "2026-08-10T15:21:14.988124761Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:00.903626164Z",
+  "model": "glm-5.3"
 }

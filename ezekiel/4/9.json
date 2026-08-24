@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 4,
-  "translation": "Na wewe, jichukulie ngano na shayiri, na njugu mawe, na adashi, na uchana, na ngano ngumu, na uziweke ⟨את⟩ wake kwenye chombo kimoja, na ufanye ⟨את⟩ wakaе kuwa mikate yako; kwa idadi ya siku ambazo wewe ulalazo upande wako, siku mia tatu na tisini, utakula.",
+  "translation": "Na wewe jichukulie ngano na shayiri na kunde na adesi na uwele na dangwe, uziweke ⟨את⟩ hizo katika chombo kimoja, uzifanye ⟨את⟩ hizo kuwa chakula chako; kwa idadi ya siku unazolala juu ya ubavu wako, siku mia tatu na tisini, utakula ⟨את⟩ hicho.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -29,32 +29,32 @@
     },
     {
       "surface": "ופול",
-      "gloss": "na njugu mawe"
+      "gloss": "na kunde"
     },
     {
       "surface": "ועדשים",
-      "gloss": "na adashi"
+      "gloss": "na adesi"
     },
     {
       "surface": "ודחן",
-      "gloss": "na uchana"
+      "gloss": "na uwele"
     },
     {
       "surface": "וכסמים",
-      "gloss": "na ngano ngumu"
+      "gloss": "na dangwe"
     },
     {
       "surface": "ונתתה",
-      "gloss": "na utaziweka"
+      "gloss": "uziweke"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "zile (kwenye chombo)"
+      "marks": "hizo (mbegu hizo)"
     },
     {
       "surface": "בכלי",
-      "gloss": "kwenye chombo"
+      "gloss": "katika chombo"
     },
     {
       "surface": "אחד",
@@ -62,12 +62,12 @@
     },
     {
       "surface": "ועשית",
-      "gloss": "na utazifanya"
+      "gloss": "uzifanye"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "zile (kuwa mikate yako)"
+      "marks": "hizo (mbegu hizo)"
     },
     {
       "surface": "לך",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "ללחם",
-      "gloss": "kuwa mikate"
+      "gloss": "kuwa chakula"
     },
     {
       "surface": "מספר",
-      "gloss": "idadi"
+      "gloss": "kwa idadi"
     },
     {
       "surface": "הימים",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambazo"
+      "gloss": "unazolala"
     },
     {
       "surface": "אתה",
@@ -95,23 +95,23 @@
     },
     {
       "surface": "שוכב",
-      "gloss": "ulalazo"
+      "gloss": "lalaye"
     },
     {
       "surface": "על",
-      "gloss": "upande"
+      "gloss": "juu ya"
     },
     {
       "surface": "צדך",
-      "gloss": "wako"
+      "gloss": "ubavu wako"
     },
     {
       "surface": "שלש",
-      "gloss": "tatu"
+      "gloss": "mia tatu"
     },
     {
       "surface": "מאות",
-      "gloss": "mia"
+      "gloss": "(mia)"
     },
     {
       "surface": "ותשעים",
@@ -123,9 +123,9 @@
     },
     {
       "surface": "תאכלנו",
-      "gloss": "utakula"
+      "gloss": "utakula hicho"
     }
   ],
-  "timestamp": "2026-08-10T12:27:13.744077623Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.349341991Z",
+  "model": "glm-5.3"
 }

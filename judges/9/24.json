@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 9,
-  "translation": "ili udhuluuma juu ya wana sabini wa Yerubaali na damu yao kuitia juu ya Abimeleke nduguye ambaye aliwaua ⟨אתם⟩, na juu ya mabwana wa Shekemu ambao walimtia nguvu ⟨את⟩ mikono yake ili aua ⟨את⟩ ndugu zake.",
+  "translation": "ili mjeledi uliofanywa kwa wana sabini wa Yerubaal ufike, na damu yao iwekwe juu ya Avimeleke ndugu yao, ambaye aliwaua ⟨את⟩ wao, na juu ya mabwana wa Shekem, ambao walitia nguvu ⟨את⟩ mikono yake, ili awaua ⟨את⟩ ndugu zake.",
   "tokens": [
     {
       "surface": "לבוא",
-      "gloss": "ili"
+      "gloss": "ili ufike"
     },
     {
       "surface": "חמס",
-      "gloss": "udhuluuma"
+      "gloss": "mjeledi"
     },
     {
       "surface": "שבעים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ירבעל",
-      "gloss": "Yerubaali"
+      "gloss": "Yerubaal"
     },
     {
       "surface": "ודמם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לשום",
-      "gloss": "kuitia"
+      "gloss": "iwekwe"
     },
     {
       "surface": "על",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אבימלך",
-      "gloss": "Abimeleke"
+      "gloss": "Avimeleke"
     },
     {
       "surface": "אחיהם",
-      "gloss": "nduguye"
+      "gloss": "ndugu yao"
     },
     {
       "surface": "אשר",
@@ -57,8 +57,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
-      "marks": "wana sabini wa Yerubaali"
+      "gloss": "⟨את⟩",
+      "marks": "wao"
     },
     {
       "surface": "ועל",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "שכם",
-      "gloss": "Shekemu"
+      "gloss": "Shekem"
     },
     {
       "surface": "אשר",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "חזקו",
-      "gloss": "walimtia nguvu"
+      "gloss": "walitia nguvu"
     },
     {
       "surface": "את",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "להרג",
-      "gloss": "ili auae"
+      "gloss": "ili awaua"
     },
     {
       "surface": "את",
@@ -103,6 +103,6 @@
       "gloss": "ndugu zake"
     }
   ],
-  "timestamp": "2026-08-10T14:49:13.223820002Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:05.693541403Z",
+  "model": "glm-5.3"
 }

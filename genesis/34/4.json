@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 34,
-  "translation": "Na Shekemu akamwambia Chamori baba yake, akisema: ⟨׳Nipatie⟩ mimi ⟨את⟩ msichana huyu awe mke wangu.",
+  "translation": "Shekem akamwambia Hamori baba yake, akisema: Nipatieni ⟨את⟩ msichana huyo ⟨kuwa⟩ mke.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "na akamwambia"
+      "gloss": "akamwambia"
     },
     {
       "surface": "שכם",
-      "gloss": "Shekemu"
+      "gloss": "Shekem"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "חמור",
-      "gloss": "Chamori"
+      "gloss": "Hamori"
     },
     {
       "surface": "אביו",
@@ -33,30 +33,30 @@
     },
     {
       "surface": "קח",
-      "gloss": "⟨Nipatie⟩"
+      "gloss": "Nipatieni"
     },
     {
       "surface": "לי",
-      "gloss": "mimi"
+      "gloss": "ni-"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "msichana huyu"
+      "marks": "msichana huyo"
     },
     {
       "surface": "הילדה",
-      "gloss": "msichana huyu"
+      "gloss": "msichana"
     },
     {
       "surface": "הזאת",
-      "gloss": "huyu"
+      "gloss": "huyo"
     },
     {
       "surface": "לאשה",
-      "gloss": "awe mke wangu"
+      "gloss": "mke"
     }
   ],
-  "timestamp": "2026-08-10T10:11:55.653183455Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:14.540788002Z",
+  "model": "glm-5.3"
 }

@@ -5,38 +5,38 @@
   "book": "job",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Hakika atowakemea, ⟨אתכם⟩, ikiwa kwa siri nyinyi mnapandikiza nyuso.",
+  "translation": "Hakika atawalaumu ⟨את⟩ ninyi, kama kwa siri mnainua nyuso ⟨kupendelea⟩.",
   "tokens": [
     {
-      "surface": "הוֹכֵ֣חַ",
-      "gloss": "Hakika atowakemea (kikombe cha infinitive)"
+      "surface": "הוכח",
+      "gloss": "hakika"
     },
     {
-      "surface": "יוֹכִ֣יחַ",
-      "gloss": "atowakemea"
+      "surface": "יוכיח",
+      "gloss": "atawalaumu"
     },
     {
-      "surface": "אֶתְכֶ֑ם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "nyinyi"
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
     },
     {
-      "surface": "אִם",
-      "gloss": "ikiwa"
+      "surface": "אם",
+      "gloss": "kama"
     },
     {
-      "surface": "בַּ֝סֵּ֗תֶר",
+      "surface": "בסתר",
       "gloss": "kwa siri"
     },
     {
-      "surface": "פָּנִ֥ים",
+      "surface": "פנים",
       "gloss": "nyuso"
     },
     {
-      "surface": "תִּשָּׂאֽוּן",
-      "gloss": "mnapandikiza"
+      "surface": "תשאון",
+      "gloss": "mnainua"
     }
   ],
-  "timestamp": "2026-08-10T16:22:14.245019614Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:38.414341803Z",
+  "model": "glm-5.3"
 }

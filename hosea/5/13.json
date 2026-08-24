@@ -5,15 +5,15 @@
   "book": "hosea",
   "lang": "sw",
   "chapter": 5,
-  "translation": "Na Efrayimu akaona ⟨את⟩ ugonjwa wake, na Yehuda ⟨את⟩ jeraha lake, na Efrayimu akaenda kwa Ashur, akamtumia ⟨⟨mfalme Yarev; naye hawezi kukuponya, wala hawezi kutoa kutoka kwenu jeraha.",
+  "translation": "Efrayim akaona ⟨את⟩ ugonjwa wake, na Yehuda ⟨את⟩ jeraha lake; Efrayim akaenda kwa Ashur, akatuma kwa mfalme Yarev; naye hawezi kuwaponya wala hataondoa kutoka kwenu jeraha.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "na akaona"
+      "gloss": "akaona"
     },
     {
       "surface": "אפרים",
-      "gloss": "Efrayimu"
+      "gloss": "Efrayim"
     },
     {
       "surface": "את",
@@ -39,11 +39,11 @@
     },
     {
       "surface": "וילך",
-      "gloss": "na akaenda"
+      "gloss": "akaenda"
     },
     {
       "surface": "אפרים",
-      "gloss": "Efrayimu"
+      "gloss": "Efrayim"
     },
     {
       "surface": "אל",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "akamtumia"
+      "gloss": "akatuma"
     },
     {
       "surface": "אל",
@@ -79,33 +79,33 @@
     },
     {
       "surface": "יוכל",
-      "gloss": "wezi"
+      "gloss": "hawezi"
     },
     {
       "surface": "לרפא",
-      "gloss": "kuponya"
+      "gloss": "kuwaponya"
     },
     {
       "surface": "לכם",
-      "gloss": "ninyi"
+      "gloss": "wenu"
     },
     {
       "surface": "ולא",
-      "gloss": "wala si"
+      "gloss": "wala"
     },
     {
       "surface": "יגהה",
-      "gloss": "ataondoa"
+      "gloss": "haondoi"
     },
     {
       "surface": "מכם",
-      "gloss": "kutoka kwenu"
+      "gloss": " kutoka kwenu"
     },
     {
       "surface": "מזור",
       "gloss": "jeraha"
     }
   ],
-  "timestamp": "2026-08-10T16:14:29.825935771Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:40.620388289Z",
+  "model": "glm-5.3"
 }

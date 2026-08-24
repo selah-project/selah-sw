@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 36,
-  "translation": "Hivyo asema Adonai Yahweh: Siku nitakapowatakasa ⟨אתכם⟩ mikono yote ya uovu wenu, nami nitawakisha ⟨את⟩ miji, na maghofu yajengwe.",
+  "translation": "Hivi amesema Adonai Yahweh: Siku nitakapotakasa ninyi ⟨את⟩ ⟨אתכם⟩ kutoka makosa yenu yote, nami nitawakaliza tena ⟨את⟩ miji, na mabondeni yatakayoharibiwa yatajengwa upya.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "hivyo"
+      "gloss": "Hivi"
     },
     {
       "surface": "אמר",
-      "gloss": "asema"
+      "gloss": "amesema"
     },
     {
       "surface": "אדני",
@@ -25,28 +25,28 @@
     },
     {
       "surface": "ביום",
-      "gloss": "siku"
+      "gloss": "Siku"
     },
     {
       "surface": "טהרי",
-      "gloss": "nitakapowatakasa"
+      "gloss": "nitakapotakasa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "mikono yote ya uovu wenu"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "ninyi"
     },
     {
       "surface": "מכל",
-      "gloss": "kutoka kwa yote"
+      "gloss": "kutoka yote"
     },
     {
       "surface": "עונותיכם",
-      "gloss": "uovu wenu"
+      "gloss": "makosa yenu"
     },
     {
       "surface": "והושבתי",
-      "gloss": "na nitawakisha"
+      "gloss": "nami nitawakaliza tena"
     },
     {
       "surface": "את",
@@ -59,13 +59,13 @@
     },
     {
       "surface": "ונבנו",
-      "gloss": "na yajengwe"
+      "gloss": "yatajengwa upya"
     },
     {
       "surface": "החרבות",
-      "gloss": "maghofu"
+      "gloss": "mabondeni yatakayoharibiwa"
     }
   ],
-  "timestamp": "2026-08-10T12:36:25.801716746Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.346328347Z",
+  "model": "glm-5.3"
 }

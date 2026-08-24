@@ -5,35 +5,35 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 20,
-  "translation": "Nitatowesheni kutoka kwa ⟨ה⟩ watu na nitakusanyeni kutoka kwa ⟨ה⟩ nchi ambazo mmetawanyishwa ndani yake, kwa mkono wenye nguvu na kwa mkono uliowekwa wazi na kwa hasira imemwagwa.",
+  "translation": "Nami nitawatoa ninyi kutoka mataifa, na nitawakusanya ninyi kutoka nchi zilizotawanyikani humo, kwa mkono wa nguvu na kwa mkono ulionyoshwa na kwa hasira iliyoamishwa.",
   "tokens": [
     {
       "surface": "והוצאתי",
-      "gloss": "nitatowesheni"
+      "gloss": "nami nitawatoa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nyinyi"
+      "gloss": "⟨את⟩ ninyi"
     },
     {
       "surface": "מן",
-      "gloss": "kutoka kwa"
+      "gloss": "kutoka"
     },
     {
       "surface": "העמים",
-      "gloss": "watu"
+      "gloss": "mataifa"
     },
     {
       "surface": "וקבצתי",
-      "gloss": "nitakusanyeni"
+      "gloss": "na nitawakusanya"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nyinyi"
+      "gloss": "⟨את⟩ ninyi"
     },
     {
       "surface": "מן",
-      "gloss": "kutoka kwa"
+      "gloss": "kutoka"
     },
     {
       "surface": "הארצות",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambazo"
+      "gloss": "zilizo"
     },
     {
       "surface": "נפוצתם",
-      "gloss": "mmetawanyishwa"
+      "gloss": "mmetawanyikani"
     },
     {
       "surface": "בם",
-      "gloss": "ndani yake"
+      "gloss": "humo"
     },
     {
       "surface": "ביד",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "חזקה",
-      "gloss": "wenye nguvu"
+      "gloss": "wa nguvu"
     },
     {
       "surface": "ובזרוע",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "נטויה",
-      "gloss": "uliowekwa wazi"
+      "gloss": "ulionyoshwa"
     },
     {
       "surface": "ובחמה",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "שפוכה",
-      "gloss": "imemwagwa"
+      "gloss": "iliyoamishwa"
     }
   ],
-  "timestamp": "2026-08-10T12:31:16.993858516Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:47.570743713Z",
+  "model": "glm-5.3"
 }

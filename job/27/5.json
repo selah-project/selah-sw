@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "sw",
   "chapter": 27,
-  "translation": "Hasha kwangu — nimwonyeshe haki yenu ⟨כל הזמן⟩ hadi nipumue pumuo langu la mwisho; sitaiondoa wasifu wangu usio na lawama kutoka kwangu.",
+  "translation": "Hasha kwangu nimwamini nyinyi ⟨את⟩ ⟨אתכם⟩ kuwa wenye haki; hadi nitakapokufa sitaiondoa wasiwangu wangu kutoka kwangu.",
   "tokens": [
     {
       "surface": "חלילה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "אם",
-      "gloss": "—"
+      "gloss": "⟨kwamba⟩"
     },
     {
       "surface": "אצדיק",
-      "gloss": "nimwonyeshe haki"
+      "gloss": "nimwamini kuwa wenye haki"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "nyinyi"
     },
     {
@@ -34,25 +34,25 @@
     },
     {
       "surface": "אגוע",
-      "gloss": "nipumue pumuo langu la mwisho"
+      "gloss": "nitakapokufa"
     },
     {
       "surface": "לא",
-      "gloss": "sitaiondoa"
+      "gloss": "si-"
     },
     {
       "surface": "אסיר",
-      "gloss": "—"
+      "gloss": "nitaiondoa"
     },
     {
       "surface": "תמתי",
-      "gloss": "wasifu wangu usio na lawama"
+      "gloss": "wasiwangu wangu"
     },
     {
       "surface": "ממני",
-      "gloss": "d kutoka kwangu"
+      "gloss": "kutoka kwangu"
     }
   ],
-  "timestamp": "2026-08-10T16:22:55.255035279Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.336661247Z",
+  "model": "glm-5.3"
 }

@@ -5,62 +5,62 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Nami nitawapa ⟨את⟩ fadhili ⟨⟨ za watu hawa mbele ya macho ya watu wa Mitsrayim, na itakuwa kwamba mtakapoenda, hamtaenda mkiwa wajinga.",
+  "translation": "Nami nitawapa ⟨את⟩ wema ⟨wa⟩ watu hawa machoni pa wamitsrayimu; na itakuwa ⟨kwamba⟩ mkienda, hamtaendi mikono mitupu.",
   "tokens": [
     {
-      "surface": "וְנָתַתִּי",
+      "surface": "ונתתי",
       "gloss": "nami nitawapa"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fadhili"
+      "marks": "wema"
     },
     {
-      "surface": "חֵן",
-      "gloss": "fadhili"
+      "surface": "חן",
+      "gloss": "wema"
     },
     {
-      "surface": "הָעָם",
-      "gloss": "za watu"
+      "surface": "העם",
+      "gloss": "watu"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": "hawa"
     },
     {
-      "surface": "בְּעֵינֵי",
-      "gloss": "mbele ya macho"
+      "surface": "בעיני",
+      "gloss": "machoni pa"
     },
     {
-      "surface": "מִצְרַיִם",
-      "gloss": "ya watu wa Mitsrayim"
+      "surface": "מצרים",
+      "gloss": "wamitsrayimu"
     },
     {
-      "surface": "וְהָיָה",
+      "surface": "והיה",
       "gloss": "na itakuwa"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "kwamba"
     },
     {
-      "surface": "תֵלֵכוּן",
-      "gloss": "mtakapoenda"
+      "surface": "תלכון",
+      "gloss": "mkienda"
     },
     {
-      "surface": "לֹא",
-      "gloss": "hamtaendi"
+      "surface": "לא",
+      "gloss": "ha-"
     },
     {
-      "surface": "תֵלְכוּ",
-      "gloss": "mkiwa"
+      "surface": "תלכו",
+      "gloss": "-mtaendi"
     },
     {
-      "surface": "רֵיקָם",
-      "gloss": "wajinga"
+      "surface": "ריקם",
+      "gloss": "mikono mitupu"
     }
   ],
-  "timestamp": "2026-08-10T10:18:03.588799274Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:49.873266687Z",
+  "model": "glm-5.3"
 }

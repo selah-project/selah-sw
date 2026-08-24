@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Na jinsi ⟨the⟩ nchi ile — je, ⟨it is⟩ ina mafuta au imekonda? Je, kuna miti humo au la? Mkajieni moyo, mkachukue katika matunda ya ⟨the⟩ nchi. Na ⟨the⟩ siku zilikuwa siku za mazao ya kwanza ya zabibu.",
+  "translation": "Na nchi — je, ni yenye mafuta au nyembamba? Je, mna mti humo au hapana? Mkafanye nguvu, mkachukue ⟨katika⟩ matunda ya nchi. Na siku hizo zilikuwa siku za mazao ya kwanza ya zabibu.",
   "tokens": [
     {
       "surface": "ומה",
-      "gloss": "na jinsi"
+      "gloss": "na ... nini"
     },
     {
       "surface": "הארץ",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "השמנה",
-      "gloss": "ina mafuta"
+      "gloss": "yenye mafuta"
     },
     {
       "surface": "הוא",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "רזה",
-      "gloss": "imekonda"
+      "gloss": "nyembamba"
     },
     {
       "surface": "היש",
-      "gloss": "je, kuna"
+      "gloss": "je kuna"
     },
     {
       "surface": "בה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "עץ",
-      "gloss": "miti"
+      "gloss": "mti"
     },
     {
       "surface": "אם",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "אין",
-      "gloss": "la"
+      "gloss": "hapana"
     },
     {
       "surface": "והתחזקתם",
-      "gloss": "mkajieni moyo"
+      "gloss": "mkafanye nguvu"
     },
     {
       "surface": "ולקחתם",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "מפרי",
-      "gloss": "katika matunda"
+      "gloss": "kutoka matunda"
     },
     {
       "surface": "הארץ",
@@ -73,17 +73,17 @@
     },
     {
       "surface": "ימי",
-      "gloss": "siku"
+      "gloss": "siku za"
     },
     {
       "surface": "בכורי",
-      "gloss": "za mazao ya kwanza"
+      "gloss": "mazao ya kwanza"
     },
     {
       "surface": "ענבים",
-      "gloss": "ya zabibu"
+      "gloss": "zabibu"
     }
   ],
-  "timestamp": "2026-08-10T14:37:40.633303419Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:38.384449499Z",
+  "model": "glm-5.3"
 }

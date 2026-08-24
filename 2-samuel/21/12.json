@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "sw",
   "chapter": 21,
-  "translation": "Davidi akaenda akaichukua ⟨את⟩ mifupa ya Shaul na ⟨את⟩ mifupa ya Yehonatani mwanae, ⟨את⟩ kutoka kwa wenyevi wa Yavesh-Giladi, waliyoiba ⟨⟨את⟩ wao⟩ kutoka uwanjani wa Beyith-Shan, ambapo walikuwa wamewatundikwa huko, waliyo watundika hapo Wapelesheti siku ya kupiga Wapelesheti ⟨את⟩ Shaul huko Gilboa.",
+  "translation": "Naye David akaenda akachukua ⟨את⟩ mafupa ya Shaul na ⟨את⟩ mafupa ya Yehonatanan mwanae, kutoka ⟨את⟩ kwa wana wa Yavesh wa Giliadi, ambao waliwahi kuiba ⟨את⟩ yale kutoka eneo hadharani la Beit Shan, ambapo walipachikwa hapo na Wafilisti, siku Wafilisti walipomshinda ⟨את⟩ Shaul katika Gilebo.",
   "tokens": [
     {
       "surface": "וילך",
@@ -13,37 +13,37 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davidi"
+      "gloss": "David"
     },
     {
       "surface": "ויקח",
-      "gloss": "akaichukua"
+      "gloss": "akachukua"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mifupa ya Shaul"
+      "marks": "mafupa ya Shaul"
     },
     {
       "surface": "עצמות",
-      "gloss": "mifupa"
+      "gloss": "mafupa"
     },
     {
       "surface": "שאול",
-      "gloss": "ya Shaul"
+      "gloss": "Shaul"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "mifupa ya Yehonatani"
+      "gloss": "na ⟨את⟩",
+      "marks": "mafupa ya Yehonatanan"
     },
     {
       "surface": "עצמות",
-      "gloss": "mifupa"
+      "gloss": "mafupa"
     },
     {
       "surface": "יהונתן",
-      "gloss": "ya Yehonatani"
+      "gloss": "Yehonatanan"
     },
     {
       "surface": "בנו",
@@ -51,39 +51,40 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ kutoka kwa"
+      "gloss": "kutoka ⟨את⟩"
     },
     {
       "surface": "בעלי",
-      "gloss": "wenyevi"
+      "gloss": "kwa wana wa"
     },
     {
       "surface": "יביש",
-      "gloss": "wa Yavesh"
+      "gloss": "Yavesh"
     },
     {
       "surface": "גלעד",
-      "gloss": "Giladi"
+      "gloss": "Giliadi"
     },
     {
       "surface": "אשר",
-      "gloss": "waliyoiba"
+      "gloss": "ambao"
     },
     {
       "surface": "גנבו",
-      "gloss": "waliyoiba"
+      "gloss": "waliwahi kuiba"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ wao"
+      "gloss": "⟨את⟩ yale",
+      "marks": "mafupa kutoka eneo hadharani"
     },
     {
       "surface": "מרחב",
-      "gloss": "kutoka uwanjani"
+      "gloss": "kutoka eneo hadharani"
     },
     {
       "surface": "בית",
-      "gloss": "wa Beyith"
+      "gloss": "Beit"
     },
     {
       "surface": "שן",
@@ -95,7 +96,7 @@
     },
     {
       "surface": "תלום",
-      "gloss": "waliyo watundika"
+      "gloss": "walipachikwa"
     },
     {
       "surface": "שם",
@@ -103,19 +104,19 @@
     },
     {
       "surface": "הפלשתים",
-      "gloss": "Wapelesheti"
+      "gloss": "na Wafilisti"
     },
     {
       "surface": "ביום",
-      "gloss": "siku ya"
+      "gloss": "siku"
     },
     {
       "surface": "הכות",
-      "gloss": "kupiga"
+      "gloss": "walipomshinda"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Wapelesheti"
+      "gloss": "Wafilisti"
     },
     {
       "surface": "את",
@@ -128,9 +129,9 @@
     },
     {
       "surface": "בגלבע",
-      "gloss": "huko Gilboa"
+      "gloss": "katika Gilebo"
     }
   ],
-  "timestamp": "2026-08-10T11:35:03.786782132Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:30.172654660Z",
+  "model": "glm-5.3"
 }

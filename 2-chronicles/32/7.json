@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 32,
-  "translation": "Jieni nguvu na pigeni moyo, msiogope wala msishtuke kwa sababu ya mfalme wa Ashur, wala kwa sababu ya makundi yote yaliyo naye; kwa maana pamoja nasi ⟨⟨yupo⟩⟩ aliye mkubwa kuliko yeye.",
+  "translation": "Jieni nguvu na uwezo; msiogope wala msitikisike mbele ya mfalme wa Ashuru wala mbele ya lile jamima zima lililo naye; kwa maana aliye nasi ⟨ni⟩ mkuu kuliko aliye naye.",
   "tokens": [
     {
       "surface": "חזקו",
-      "gloss": "Jieni nguvu"
+      "gloss": "jieni nguvu"
     },
     {
       "surface": "ואמצו",
-      "gloss": "na pigeni moyo"
+      "gloss": "na uwezo"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תיראו",
-      "gloss": "msiogope"
+      "gloss": "mpiogope"
     },
     {
       "surface": "ואל",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "תחתו",
-      "gloss": "msishtuke"
+      "gloss": "mstikisike"
     },
     {
       "surface": "מפני",
-      "gloss": "kwa sababu ya"
+      "gloss": "mbele ya"
     },
     {
       "surface": "מלך",
@@ -41,23 +41,23 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Ashur"
+      "gloss": "wa Ashuru"
     },
     {
       "surface": "ומלפני",
-      "gloss": "wala kwa sababu ya"
+      "gloss": "wala mbele ya"
     },
     {
       "surface": "כל",
-      "gloss": "yote"
+      "gloss": "zima"
     },
     {
       "surface": "ההמון",
-      "gloss": "makundi"
+      "gloss": "lile jamima"
     },
     {
       "surface": "אשר",
-      "gloss": "yaliyo"
+      "gloss": "lililo"
     },
     {
       "surface": "עמו",
@@ -69,17 +69,17 @@
     },
     {
       "surface": "עמנו",
-      "gloss": "pamoja nasi"
+      "gloss": "nasi"
     },
     {
       "surface": "רב",
-      "gloss": "aliye mkubwa"
+      "gloss": "mkuu"
     },
     {
       "surface": "מעמו",
-      "gloss": "kuliko yeye"
+      "gloss": "kuliko aliye naye"
     }
   ],
-  "timestamp": "2026-08-10T14:19:52.563576675Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:52.373236720Z",
+  "model": "glm-5.3"
 }

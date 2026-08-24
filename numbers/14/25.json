@@ -5,23 +5,23 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Na ⟨⟨ya kwamba⟩⟩ wa Amaleki na wa Kenaani wanaishi bonini, kesho parenueni mwende zenu jangwani kwa njia ya Bahari ya Mwembamba.",
+  "translation": "Na Mwamaleki na Mwakanani wanaokaa katika bonde — kesho geueni nyuma, na mwendeni nafsi zenu jangwani kwa njia ya Bahari ya Mwanzi.",
   "tokens": [
     {
       "surface": "והעמלקי",
-      "gloss": "Na wa Amaleki"
+      "gloss": "na Mwamaleki"
     },
     {
       "surface": "והכנעני",
-      "gloss": "na wa Kenaani"
+      "gloss": "na Mwakanani"
     },
     {
       "surface": "יושב",
-      "gloss": "wanaishi"
+      "gloss": "wanaokaa"
     },
     {
       "surface": "בעמק",
-      "gloss": "bonini"
+      "gloss": "katika bonde"
     },
     {
       "surface": "מחר",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "פנו",
-      "gloss": "parenueni"
+      "gloss": "geueni nyuma"
     },
     {
       "surface": "וסעו",
-      "gloss": "mwende"
+      "gloss": "na mwendeni"
     },
     {
       "surface": "לכם",
-      "gloss": "zenu"
+      "gloss": "nafsi zenu"
     },
     {
       "surface": "המדבר",
-      "gloss": "jangwani"
+      "gloss": "jangwa"
     },
     {
       "surface": "דרך",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "ים",
-      "gloss": "Bahari"
+      "gloss": "Bahari ya"
     },
     {
       "surface": "סוף",
-      "gloss": "ya Mwembamba"
+      "gloss": "Mwanzi"
     }
   ],
-  "timestamp": "2026-08-10T10:44:28.659240130Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:01.288477637Z",
+  "model": "glm-5.3"
 }

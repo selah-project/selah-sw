@@ -5,20 +5,20 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Yehoahaz akamwomba uso wa Yahweh, naye Yahweh akamsikia, maana ⟨aliyaona ⟨את⟩ dhiki ya Yisra'el, kwani mfalme wa Aram aliwadhibiti ⟨אתם⟩.",
+  "translation": "Nayo Yehoachaz alimwomba ⟨את⟩ uso wa Yahweh, naye Yahweh alimw sikia, maana aliuona ⟨את⟩ dhiki ya Yisrael, maana mfalme wa Aramu aliwabana.",
   "tokens": [
     {
       "surface": "ויחל",
-      "gloss": "akamwomba"
+      "gloss": "akaomba"
     },
     {
       "surface": "יהואחז",
-      "gloss": "Yehoahaz"
+      "gloss": "Yehoachaz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uso"
+      "marks": "uso wa Yahweh"
     },
     {
       "surface": "פני",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "wa Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "וישמע",
-      "gloss": "akamsikia"
+      "gloss": "akasikia"
     },
     {
       "surface": "אליו",
-      "gloss": "naye"
+      "gloss": "kwake"
     },
     {
       "surface": "יהוה",
@@ -46,12 +46,12 @@
     },
     {
       "surface": "ראה",
-      "gloss": "aliyaona"
+      "gloss": "aliona"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dhiki"
+      "marks": "dhiki ya Yisrael"
     },
     {
       "surface": "לחץ",
@@ -59,20 +59,20 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ya Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "כי",
-      "gloss": "kwani"
+      "gloss": "maana"
     },
     {
       "surface": "לחץ",
-      "gloss": "aliwadhibiti"
+      "gloss": "aliwabana"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "aliwadhibiti"
+      "gloss": "⟨את⟩",
+      "marks": "wao"
     },
     {
       "surface": "מלך",
@@ -80,9 +80,9 @@
     },
     {
       "surface": "ארם",
-      "gloss": "wa Aram"
+      "gloss": "Aramu"
     }
   ],
-  "timestamp": "2026-08-10T11:49:38.546513145Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:02.811359217Z",
+  "model": "glm-5.3"
 }

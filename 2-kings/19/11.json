@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 19,
-  "translation": "Tazama, wewe umesikia ⟨את⟩ yale waliyoyafanya wafalme wa Ashuru kwa nchi zote, kwa kuziangamiza kabisa; na wewe ⟨⟨hivyo⟩⟩ utaokolewa?",
+  "translation": "Tazama, wewe umesikia ⟨את⟩ yale ambyo wafalme wa Ashur waliyafanya nchi zote, kuziharimisha kabisa; na wewe ⟨maana⟩ utaokolewa?",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "tazama"
+      "gloss": "Tazama"
     },
     {
       "surface": "אתה",
@@ -22,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yale"
+      "marks": "yale ambazo wafalme wa Ashur waliyafanya"
     },
     {
       "surface": "אשר",
-      "gloss": "yale"
+      "gloss": "ambayo"
     },
     {
       "surface": "עשו",
-      "gloss": "waliyoyafanya"
+      "gloss": "waliyafanya"
     },
     {
       "surface": "מלכי",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "אשור",
-      "gloss": "wa Ashuru"
+      "gloss": "wa Ashur"
     },
     {
       "surface": "לכל",
-      "gloss": "kwa"
+      "gloss": "nchi zote"
     },
     {
       "surface": "הארצות",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "להחרימם",
-      "gloss": "kwa kuziangamiza kabisa"
+      "gloss": "kuziharimisha kabisa"
     },
     {
       "surface": "ואתה",
@@ -61,6 +61,6 @@
       "gloss": "utaokolewa"
     }
   ],
-  "timestamp": "2026-08-10T11:51:24.082425403Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:23.079662248Z",
+  "model": "glm-5.3"
 }

@@ -5,37 +5,38 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Akamwambia, Nenda ⟨⟨na⟩⟩ ⟨את⟩ pamoja nami hadi nyumbani, ukale mkate.",
+  "translation": "Nakamwambia, Njoo ⟨את⟩ nami nyumbani, ule chakula.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Akamwambia"
+      "gloss": "nakamwambia"
     },
     {
       "surface": "אליו",
-      "gloss": "kwa"
+      "gloss": "kwake"
     },
     {
       "surface": "לך",
-      "gloss": "Nenda"
+      "gloss": "njoo"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ pamoja nami"
+      "gloss": "⟨את⟩ nami",
+      "marks": "nami"
     },
     {
       "surface": "הביתה",
-      "gloss": "hadi nyumbani"
+      "gloss": "nyumbani"
     },
     {
       "surface": "ואכל",
-      "gloss": "ukale"
+      "gloss": "ule"
     },
     {
       "surface": "לחם",
-      "gloss": "mkate"
+      "gloss": "chakula"
     }
   ],
-  "timestamp": "2026-08-10T11:41:38.713262237Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:32.713013044Z",
+  "model": "glm-5.3"
 }

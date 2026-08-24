@@ -5,43 +5,43 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 30,
-  "translation": "Na utatengeneza ⟨את⟩ fimbo za mbao za shitim, na utazie dhahabu.",
+  "translation": "Na utafanya ⟨את⟩ vijiti kwa mbao za shittim, na utazipaka ⟨את⟩ ⟨אתם⟩ kwa dhahabu.",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "Na utatengeneza"
+      "gloss": "na utafanya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fimbo"
+      "marks": "vijiti"
     },
     {
       "surface": "הבדים",
-      "gloss": "fimbo"
+      "gloss": "vijiti"
     },
     {
       "surface": "עצי",
-      "gloss": "za mbao"
+      "gloss": "mbao za"
     },
     {
       "surface": "שטים",
-      "gloss": "za shitim"
+      "gloss": "shittim"
     },
     {
       "surface": "וצפית",
-      "gloss": "na utazie"
+      "gloss": "na utazipaka"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "dhahabu"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "kwa dhahabu"
     },
     {
       "surface": "זהב",
       "gloss": "dhahabu"
     }
   ],
-  "timestamp": "2026-08-10T10:26:37.956746803Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.323453570Z",
+  "model": "glm-5.3"
 }

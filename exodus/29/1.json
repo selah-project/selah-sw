@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 29,
-  "translation": "Na huu ni jambo utakalolifanya kwao ili kuwatakasa, ⟨אתם⟩ kuwahudumia kama makuhani kwangu: Uchukue fahali mmoja, mwana wa ng'ombe, na mapundawili wasio na kasoro.",
+  "translation": "Na huu ndio jambo utakalolifanya kwao ili kuwatakasa ⟨את⟩ ⟨אתם⟩ wawe makuhani kwangu: twaa ng'ombe mmoja mchanga, na mapanga wawili kamili.",
   "tokens": [
     {
       "surface": "וזה",
-      "gloss": "na huu"
+      "gloss": "Na huu"
     },
     {
       "surface": "הדבר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambalo"
+      "gloss": "ambao"
     },
     {
       "surface": "תעשה",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "לקדש",
-      "gloss": "ili kuwatakasa"
+      "gloss": "kuwatakasa"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "kuwahudumia kama makuhani"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "wao (wawe makuhani)"
     },
     {
       "surface": "לכהן",
-      "gloss": "kuwahudumia kama makuhani"
+      "gloss": "wawe makuhani"
     },
     {
       "surface": "לי",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "לקח",
-      "gloss": "uchukue"
+      "gloss": "twaa"
     },
     {
       "surface": "פר",
-      "gloss": "fahali"
+      "gloss": "ng'ombe"
     },
     {
       "surface": "אחד",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "בן",
-      "gloss": "mwana"
+      "gloss": "mchanga"
     },
     {
       "surface": "בקר",
-      "gloss": "wa ng'ombe"
+      "gloss": "wa kundi la ng'ombe"
     },
     {
       "surface": "ואילם",
-      "gloss": "na mapundawili"
+      "gloss": "na mapanga"
     },
     {
       "surface": "שנים",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "תמימם",
-      "gloss": "wasio na kasoro"
+      "gloss": "kamili"
     }
   ],
-  "timestamp": "2026-08-10T10:26:58.840768930Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.328342840Z",
+  "model": "glm-5.3"
 }

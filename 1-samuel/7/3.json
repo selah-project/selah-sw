@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Shemueli akawaambia nyumba yote ya Yisraela, akisema: Ikiwa kwa moyo wenu wote mnarejea kwa Yahweh, waondoeni miungu ya ng'ombo kutoka katikati yenu, na ⟨the⟩ Ashtarothi, naandalieni moyo wenu kwa Yahweh, mhimuilie peke yake, naye atawaokoeni kutoka mkononi mwa Wapelishti.",
+  "translation": "Shemueli akasema kwa nyumba yote ya Israeli, akisema: Kama mnarejea kwa Yahweh kwa mioyo yenu yote, theni ⟨את⟩ miungu ya kigeni kutoka katikati yenu, na ⟨את⟩ Ashtarothi; na mwekeni mioyo yenu kwa Yahweh, na mtumieni yeye pekee, naye atawaokoa kutoka mkononi mwa Wafilisti.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "akawaambia"
+      "gloss": "akasema"
     },
     {
       "surface": "שמואל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwenda"
+      "gloss": "kwa"
     },
     {
       "surface": "כל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "ya Yisraela"
+      "gloss": "Israeli"
     },
     {
       "surface": "לאמר",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "אם",
-      "gloss": "Ikiwa"
+      "gloss": "Kama"
     },
     {
       "surface": "בכל",
-      "gloss": "kwa ... wote"
+      "gloss": "kwa yote"
     },
     {
       "surface": "לבבכם",
-      "gloss": "moyo wenu"
+      "gloss": "mioyo yenu"
     },
     {
       "surface": "אתם",
@@ -65,36 +65,36 @@
     },
     {
       "surface": "הסירו",
-      "gloss": "waondoeni"
+      "gloss": "theni"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "miungu"
+      "marks": "miungu ya kigeni"
     },
     {
       "surface": "אלהי",
-      "gloss": "miungu"
+      "gloss": "miungu ya"
     },
     {
       "surface": "הנכר",
-      "gloss": "ya ng'ombe"
+      "gloss": "kigeni"
     },
     {
       "surface": "מתוככם",
-      "gloss": "dari zenu"
+      "gloss": "kutoka katikati yenu"
     },
     {
       "surface": "והעשתרות",
-      "gloss": "na Ashtaroth"
+      "gloss": "na Ashtarothi"
     },
     {
       "surface": "והכינו",
-      "gloss": "andalienu"
+      "gloss": "na mwekeni"
     },
     {
       "surface": "לבבכם",
-      "gloss": "nyoyo zenu"
+      "gloss": "mioyo yenu"
     },
     {
       "surface": "אל",
@@ -106,29 +106,29 @@
     },
     {
       "surface": "ועבדהו",
-      "gloss": "mhimuilie"
+      "gloss": "na mtumieni yeye"
     },
     {
       "surface": "לבדו",
-      "gloss": "peke yake"
+      "gloss": "pekee"
     },
     {
       "surface": "ויצל",
-      "gloss": "naye atawaokoa"
+      "gloss": "atawaokoa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nyinyi"
+      "gloss": "⟨את⟩ ninyi"
     },
     {
       "surface": "מיד",
-      "gloss": "kutoka mkononi mwa"
+      "gloss": "kutoka mkononi"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Wapelishti"
+      "gloss": "Wafilisti"
     }
   ],
-  "timestamp": "2026-08-10T11:20:49.571884700Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:26.504335178Z",
+  "model": "glm-5.3"
 }

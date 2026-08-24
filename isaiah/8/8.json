@@ -5,23 +5,23 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 8,
-  "translation": "na kupita katika Yehudah atafurika na kuvuka, hata shavuni atafika; na kuwa wenye upanuzi mabawa yake, kujaza upana wa nchi yako, ⟨⟨ee Immanuel⟩⟩.",
+  "translation": "Naye atajirusha kati ya Yehudah kama mafuriko, atafurika na kupita ⟨hata⟩ shingo atafikia; na kuweka kuenea kwa mabawa yake kutajaa upana wa nchi yako, ⟨ewe⟩ Immanuel (Mungu ⟨yu⟩ pamoja nasi).",
   "tokens": [
     {
       "surface": "וחלף",
-      "gloss": "na kupita"
-    },
-    {
-      "surface": "ביהודה",
-      "gloss": "katika Yehudah"
-    },
-    {
-      "surface": "שטף",
       "gloss": "atafurika"
     },
     {
+      "surface": "ביהודה",
+      "gloss": "kati ya Yehudah"
+    },
+    {
+      "surface": "שטף",
+      "gloss": "kujirusha kama mafuriko"
+    },
+    {
       "surface": "ועבר",
-      "gloss": "na kuvuka"
+      "gloss": "atapita"
     },
     {
       "surface": "עד",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "צואר",
-      "gloss": "shavuni"
+      "gloss": "shingo"
     },
     {
       "surface": "יגיע",
-      "gloss": "atafika"
+      "gloss": "atafikia"
     },
     {
       "surface": "והיה",
-      "gloss": "na kuwa"
+      "gloss": "na kuweka"
     },
     {
       "surface": "מטות",
-      "gloss": "wenye upanuzi"
+      "gloss": "kuenea"
     },
     {
       "surface": "כנפיו",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מלא",
-      "gloss": "kujaza"
+      "gloss": "kutajaa"
     },
     {
       "surface": "רחב",
@@ -57,17 +57,17 @@
     },
     {
       "surface": "ארצך",
-      "gloss": "wa nchi yako"
+      "gloss": "nchi yako"
     },
     {
       "surface": "עמנו",
-      "gloss": "Immanuel"
+      "gloss": "pamoja nasi"
     },
     {
       "surface": "אל",
-      "gloss": "ee"
+      "gloss": "Mungu — Immanuel"
     }
   ],
-  "timestamp": "2026-08-10T11:54:50.020948769Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:51.247078067Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Maji yakatawala yakazidi sana juu ya ⟨⟨nchi⟩⟩, na safina ikaenda juu ya uso wa maji.",
+  "translation": "Maji yakatawala yakazidi sana juu ya ⟨nchi⟩, na safina ikatembea juu ya uso wa maji.",
   "tokens": [
     {
       "surface": "ויגברו",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨nchi⟩"
+      "gloss": "nchi"
     },
     {
       "surface": "ותלך",
-      "gloss": "ikaenda"
+      "gloss": "ikatembea"
     },
     {
       "surface": "התבה",
@@ -52,6 +52,6 @@
       "gloss": "maji"
     }
   ],
-  "timestamp": "2026-08-10T14:22:53.393719687Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:48.429247363Z",
+  "model": "glm-5.3"
 }

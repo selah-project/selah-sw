@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 6,
-  "translation": "Kwa nini ⟨niongee⟩ na ⟨kutoa⟩ ushahidi, ili wasikie? Tazama, masikio yao ni yasiyotahiriwa, nao hawawezi kuelekeza ⟨sikio⟩; tazama, neno la Yahweh limekuwa kwao>{@} kwa fedheha; hawatoki moyoni nao.",
+  "translation": "Ni kwa nani niseme, na niombe shahidi, ili wasikie? Tazama, sikio lao ni la zuni, wala hawezi kutulia kusikiliza; tazama, neno la Yahweh limewakuwa keheshima, hawapendi ⟨ndani yake⟩.",
   "tokens": [
     {
       "surface": "על",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "מי",
-      "gloss": "nini"
+      "gloss": "nani"
     },
     {
       "surface": "אדברה",
-      "gloss": "⟨niongee⟩"
+      "gloss": "niseme"
     },
     {
-      "surface": "ויעידה",
-      "gloss": "na ⟨kutoa⟩ ushahidi"
+      "surface": "ואעידה",
+      "gloss": "na niombe shahidi"
     },
     {
       "surface": "וישמעו",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "ערלה",
-      "gloss": "yasiyotahiriwa"
+      "gloss": "la zuni"
     },
     {
       "surface": "אזנם",
-      "gloss": "masikio yao"
+      "gloss": "sikio lao"
     },
     {
       "surface": "ולא",
-      "gloss": "na hawawezi"
+      "gloss": "wala si"
     },
     {
       "surface": "יוכלו",
-      "gloss": "hawawezi"
+      "gloss": "hawezi"
     },
     {
       "surface": "להקשיב",
-      "gloss": "kuelekeza ⟨sikio⟩"
+      "gloss": "kutulia kusikiliza"
     },
     {
       "surface": "הנה",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "la Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "היה",
-      "gloss": "limekuwa"
+      "gloss": "limewakuwa"
     },
     {
       "surface": "להם",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "לחרפה",
-      "gloss": "kwa fedheha"
+      "gloss": "keheshima"
     },
     {
       "surface": "לא",
@@ -81,13 +81,13 @@
     },
     {
       "surface": "יחפצו",
-      "gloss": "wanataka"
+      "gloss": "wapendi"
     },
     {
       "surface": "בו",
-      "gloss": "nalo"
+      "gloss": "⟨ndani yake⟩"
     }
   ],
-  "timestamp": "2026-08-10T12:12:11.616891370Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:55.591012058Z",
+  "model": "glm-5.3"
 }

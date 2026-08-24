@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 26,
-  "translation": "Nami nitawaleta juu yenu upanga wa kulipiza kisasi cha ⟨את⟩ mapatano, nanyi mtakusanyika ndani ya miji yenu, nami nitatuma tauni katikati yenu, nanyi mtatolewa ⟨⟨⟩⟩ mikononi mwa adui.",
+  "translation": "Nami nitawaleta juu yenu upanga, mtekelezaji wa kisasi cha agano; nanyi mtakusanywa ndani ya miji yenu, nami nitatuma tauni kati yenu, nanyi mtatolewa katika mkono wa adui.",
   "tokens": [
     {
       "surface": "והבאתי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נקמת",
-      "gloss": "wa kulipiza"
+      "gloss": "mtekelezaji wa kisasi"
     },
     {
       "surface": "נקם",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ברית",
-      "gloss": "cha mapatano"
+      "gloss": "cha agano"
     },
     {
       "surface": "ונאספתם",
-      "gloss": "nanyi mtakusanyika"
+      "gloss": "nanyi mtakusanywa"
     },
     {
       "surface": "אל",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "בתוככם",
-      "gloss": "katikati yenu"
+      "gloss": "kati yenu"
     },
     {
       "surface": "ונתתם",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "ביד",
-      "gloss": "mikononi mwa"
+      "gloss": "katika mkono"
     },
     {
       "surface": "אויב",
-      "gloss": "adui"
+      "gloss": "wa adui"
     }
   ],
-  "timestamp": "2026-08-10T15:55:05.002067249Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:44.540549276Z",
+  "model": "glm-5.3"
 }

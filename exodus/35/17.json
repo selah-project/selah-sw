@@ -5,57 +5,57 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 35,
-  "translation": "⟨את⟩ mapazia ya ua, ⟨את│ nguzo zake na ⟨את⟩ misingi yake, na ⟨את⟩ pazia la lango la ua; —",
+  "translation": "⟨את⟩ mapazia ya ⟨the⟩ ua, ⟨את⟩ nguzo zake na ⟨את⟩ misingi yake, na ⟨את⟩ utando wa mlango wa ⟨the⟩ ua,",
   "tokens": [
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "mapazia ya ua"
     },
     {
-      "surface": "קַלְעֵי",
+      "surface": "קלעי",
       "gloss": "mapazia"
     },
     {
-      "surface": "הֶחָצֵר",
+      "surface": "החצר",
       "gloss": "ya ua"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "nguzo zake"
     },
     {
-      "surface": "עַמֻּדָיו",
+      "surface": "עמדיו",
       "gloss": "nguzo zake"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "na ⟨את⟩",
       "marks": "misingi yake"
     },
     {
-      "surface": "אֲדָנֶיהָ",
+      "surface": "אדניה",
       "gloss": "misingi yake"
     },
     {
-      "surface": "וְאֵת",
+      "surface": "ו את",
       "gloss": "na ⟨את⟩",
-      "marks": "pazia la lango la ua"
+      "marks": "utando wa mlango wa ua"
     },
     {
-      "surface": "מָסַךְ",
-      "gloss": "pazia"
+      "surface": "מסך",
+      "gloss": "utando"
     },
     {
-      "surface": "שַׁעַר",
-      "gloss": "la lango"
+      "surface": "שער",
+      "gloss": "wa mlango"
     },
     {
-      "surface": "הֶחָצֵר",
-      "gloss": "ya ua"
+      "surface": "החצר",
+      "gloss": "wa ua"
     }
   ],
-  "timestamp": "2026-08-10T10:28:15.977455319Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:46.019906420Z",
+  "model": "glm-5.3"
 }

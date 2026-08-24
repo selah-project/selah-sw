@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 1,
-  "translation": "ወኪነ ተከፈለ። Na ilikuwa jioni, na ilikuwa asubuhi — siku ya nne.",
+  "translation": "Ikawa jioni, ikawa asubuhi — siku ya nne.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "na ilikuwa"
+      "gloss": "ikawa"
     },
     {
       "surface": "ערב",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "na ilikuwa"
+      "gloss": "ikawa"
     },
     {
       "surface": "בקר",
@@ -32,6 +32,6 @@
       "gloss": "ya nne"
     }
   ],
-  "timestamp": "2026-08-10T14:22:21.690746409Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:08.754720597Z",
+  "model": "glm-5.3"
 }

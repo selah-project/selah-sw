@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 35,
-  "translation": "Na baadaye wakajiandakia wao na makuhani, maana makuhani, wana wa Aharoni, walikuwa занятые katika kuleta ⟨⟨the⟩⟩ dhabihu za kuchomwa na mafuta ya ⟨⟨the⟩⟩ shina ya kukatwa hadi usiku; basi Walawi wakajiandakia wao na makuhani, wana wa Aharoni.",
+  "translation": "Na baadaye waliandaa kwa ajili yao wenyewe na kwa ⟨the⟩ makuhani, kwa kuwa makuhani, wana wa Aharon, walikuwa ⟨wameingia⟩ katika kuinua ⟨the⟩ sadaka ya kuchomwa na ⟨the⟩ mafuta hata usiku; kwa hiyo Walowi waliandaa kwa ajili yao wenyewe na kwa ⟨the⟩ makuhani, wana wa Aharon.",
   "tokens": [
     {
       "surface": "ואחר",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "הכינו",
-      "gloss": "wakajiandakia"
+      "gloss": "waliandaa"
     },
     {
       "surface": "להם",
-      "gloss": "wao"
+      "gloss": "kwa ajili yao wenyewe"
     },
     {
-      "surface": "ולכהנים",
-      "gloss": "na makuhani"
+      "surface": "וילכהנים",
+      "gloss": "na kwa makuhani"
     },
     {
       "surface": "כי",
-      "gloss": "maana"
+      "gloss": "kwa kuwa"
     },
     {
       "surface": "הכהנים",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharoni"
+      "gloss": "Aharon"
     },
     {
       "surface": "בהעלות",
-      "gloss": "katika kuleta"
+      "gloss": "katika kuinua"
     },
     {
       "surface": "העולה",
-      "gloss": "dhabihu za kuchomwa"
+      "gloss": "sadaka ya kuchomwa"
     },
     {
       "surface": "והחלבים",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "hadi"
+      "gloss": "hata"
     },
     {
       "surface": "לילה",
@@ -61,19 +61,19 @@
     },
     {
       "surface": "והלוים",
-      "gloss": "basi Walawi"
+      "gloss": "Walowi"
     },
     {
       "surface": "הכינו",
-      "gloss": "wakajiandakia"
+      "gloss": "waliandaa"
     },
     {
       "surface": "להם",
-      "gloss": "wao"
+      "gloss": "kwa ajili yao wenyewe"
     },
     {
       "surface": "ולכהנים",
-      "gloss": "na makuhani"
+      "gloss": "na kwa makuhani"
     },
     {
       "surface": "בני",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharoni"
+      "gloss": "Aharon"
     }
   ],
-  "timestamp": "2026-08-10T15:47:35.763002861Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:39.050427873Z",
+  "model": "glm-5.3"
 }

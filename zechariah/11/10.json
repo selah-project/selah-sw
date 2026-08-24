@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "sw",
   "chapter": 11,
-  "translation": "Nikaichukua ⟨את⟩ fimbo yangu, ⟨את⟩ Nōam, nikaikata ⟨אתו⟩, kuitangua ⟨את⟩ beriti yangu niliyoikata ⟨את⟩ pamoja na ⟨את⟩ mataifa yote.",
+  "translation": "Nikachukua fimbo yangu, ⟨את⟩ Nema, nikaikatiza, ili kufuta ⟨את⟩ agano langu nililofanya na ⟨את⟩ mataifa yote.",
   "tokens": [
     {
       "surface": "ואקח",
-      "gloss": "nikaichukua"
+      "gloss": "nikachukua"
     },
     {
       "surface": "את",
@@ -23,45 +23,46 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Nōam"
+      "marks": "Nema"
     },
     {
       "surface": "נעם",
-      "gloss": "Nōam"
+      "gloss": "Nema"
     },
     {
       "surface": "ואגדע",
-      "gloss": "nikaikata"
+      "gloss": "nikaikatiza"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "fimbo yangu"
     },
     {
       "surface": "להפיר",
-      "gloss": "kuitangua"
+      "gloss": "kufuta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "beriti yangu"
+      "marks": "agano langu"
     },
     {
       "surface": "בריתי",
-      "gloss": "beriti yangu"
+      "gloss": "agano langu"
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "nililofanya"
     },
     {
       "surface": "כרתי",
-      "gloss": "niliyoikata"
+      "gloss": "nililikata"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ pamoja na"
+      "gloss": "⟨את⟩",
+      "marks": "mataifa yote"
     },
     {
       "surface": "כל",
@@ -72,6 +73,6 @@
       "gloss": "mataifa"
     }
   ],
-  "timestamp": "2026-08-10T12:53:13.583154443Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.308434565Z",
+  "model": "glm-5.3"
 }

@@ -5,40 +5,40 @@
   "book": "ecclesiastes",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Nilitafuta katika moyo wangu kuvuta mwilini ⟨na⟩ mvinyo, moyo wangu ukiendeshwa kwa hekima, na kushika upumbavu, hadi ningee ⟨ambapo⟩ ni hii njema kwa wana wa ⟨the⟩ adamu ambayo wanapaswa kufanya chini ya mbingu, idadi ya siku za maisha yao.",
+  "translation": "Nilichunguza moyoni mwangu kunywesha kwa divai ⟨את⟩ mwili wangu, na moyo wangu ukiendelea kuongozwa kwa hekima, na kushika upumbavu, hadi niione ni ipi ⟨⟨ni⟩⟩ ile iliyo jema kwa wana wa ⟨⟨⟩⟩adamu, ambayo wafanyazo chini ya mbingu, idadi ya siku za maisha yao.",
   "tokens": [
     {
       "surface": "תרתי",
-      "gloss": "nilidatafuta"
+      "gloss": "nilichunguza"
     },
     {
       "surface": "בלבי",
-      "gloss": "katika moyo wangu"
+      "gloss": "moyoni mwangu"
     },
     {
       "surface": "למשוך",
-      "gloss": "kuvuta"
+      "gloss": "kunywesha"
     },
     {
       "surface": "ביין",
-      "gloss": "mwilini mvinyo"
+      "gloss": "kwa divai"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mwilini mvinyo"
+      "marks": "mwili wangu"
     },
     {
       "surface": "בשרי",
-      "gloss": "nyama yangu"
+      "gloss": "mwili wangu"
     },
     {
       "surface": "ולבי",
-      "gloss": "moyo wangu"
+      "gloss": "na moyo wangu"
     },
     {
       "surface": "נהג",
-      "gloss": "ukiendeshwa"
+      "gloss": "ukiendelea kuongozwa"
     },
     {
       "surface": "בחכמה",
@@ -58,23 +58,23 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambapo"
+      "gloss": ""
     },
     {
       "surface": "אראה",
-      "gloss": "ningee"
+      "gloss": "niione"
     },
     {
       "surface": "אי",
-      "gloss": "ambapo"
+      "gloss": "ni ipi"
     },
     {
       "surface": "זה",
-      "gloss": "hii"
+      "gloss": "ile"
     },
     {
       "surface": "טוב",
-      "gloss": "njema"
+      "gloss": "iliyo jema"
     },
     {
       "surface": "לבני",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "יעשו",
-      "gloss": "wanapaswa kufanya"
+      "gloss": "wafanyazo"
     },
     {
       "surface": "תחת",
@@ -106,13 +106,13 @@
     },
     {
       "surface": "ימי",
-      "gloss": "siku za"
+      "gloss": "ya siku"
     },
     {
       "surface": "חייהם",
-      "gloss": "maisha yao"
+      "gloss": "za maisha yao"
     }
   ],
-  "timestamp": "2026-08-10T13:46:24.567168905Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:45.854849590Z",
+  "model": "glm-5.3"
 }

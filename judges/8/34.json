@@ -5,23 +5,23 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Wala hawakumkumbuka wana wa Yisra'eli ⟨את⟩ Yahweh Elohim wao, anayewaokoa kutoka mkononi wa maadui zao wote wa pembeni.",
+  "translation": "Na wana wa Yisraeli hawakumkumbuka Yahweh, Elohim wao, ⟨aliyewaokoa⟩ kutoka mkononi mwa adui zao wote walio pande zote.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "wala hawakumkumbuka"
+      "gloss": "Na hawaku-"
     },
     {
       "surface": "זכרו",
-      "gloss": ""
+      "gloss": "kumbuka"
     },
     {
       "surface": "בני",
-      "gloss": "wana wa"
+      "gloss": "wana"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'eli"
+      "gloss": "wa Yisraeli"
     },
     {
       "surface": "את",
@@ -38,16 +38,16 @@
     },
     {
       "surface": "המציל",
-      "gloss": "anayewaokoa"
+      "gloss": "⟨aliyewaokoa⟩"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
-      "marks": " kutoka mkononi"
+      "gloss": "⟨את⟩",
+      "marks": "kutoka mkononi mwa adui zao"
     },
     {
       "surface": "מיד",
-      "gloss": "mkononi wa"
+      "gloss": "kutoka mkononi mwa"
     },
     {
       "surface": "כל",
@@ -55,13 +55,13 @@
     },
     {
       "surface": "איביהם",
-      "gloss": "maadui zao"
+      "gloss": "adui zao"
     },
     {
       "surface": "מסביב",
-      "gloss": "wa pembeni"
+      "gloss": "walio pande zote"
     }
   ],
-  "timestamp": "2026-08-10T11:14:19.130842603Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:48.128806505Z",
+  "model": "glm-5.3"
 }

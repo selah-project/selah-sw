@@ -5,23 +5,23 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 80,
-  "translation": "Mzabibu umemhamisha kutoka Mitsrayim, umefukuza mataifa na kupanda ⟨ה⟩.",
+  "translation": "Panda zabibu uliitoa Mitsrayim; ulifukuza ⟨את⟩ mataifa, ⟨na⟩ ulipanda ⟨את⟩ hii.",
   "tokens": [
     {
       "surface": "גפן",
-      "gloss": "mzabibu"
+      "gloss": "panda ya zabibu"
     },
     {
       "surface": "ממצרים",
-      "gloss": "kutoka Mitsrayim"
+      "gloss": "Mitsrayim"
     },
     {
       "surface": "תסיע",
-      "gloss": "umemhamisha"
+      "gloss": "uliitoa"
     },
     {
       "surface": "תגרש",
-      "gloss": "umefukuza"
+      "gloss": "ulifukuza"
     },
     {
       "surface": "גוים",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "ותטעה",
-      "gloss": "na kupanda"
+      "gloss": "na ulipanda hii"
     }
   ],
-  "timestamp": "2026-08-10T13:08:54.712865122Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:45.183314272Z",
+  "model": "glm-5.3"
 }

@@ -5,12 +5,12 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 39,
-  "translation": "⟨את⟩ madhabahu ya shaba, na ⟨את⟩ chajio chake cha shaba, ambacho ni chake, ⟨את``` vigingi vyake, na ⟨את⟩ vyombo vyake vyote, ⟨את``` kisima, na ⟨את``` kiti chake;",
+  "translation": "⟨את⟩ madhabahu ya shaba, na ⟨את⟩ chawa cha shaba chake, ⟨את⟩ pigi zake, na ⟨את⟩ vyombo vyake vyote, ⟨את⟩ birika, na ⟨את⟩ kituo chake;",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "madhabahu"
+      "marks": "madhabahu ya shaba"
     },
     {
       "surface": "מזבח",
@@ -23,11 +23,11 @@
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "chajio chake cha shaba"
+      "marks": "chawa cha shaba"
     },
     {
       "surface": "מכבר",
-      "gloss": "chajio chake"
+      "gloss": "chawa"
     },
     {
       "surface": "הנחשת",
@@ -39,16 +39,16 @@
     },
     {
       "surface": "לו",
-      "gloss": "ni chake"
+      "gloss": "wake"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vigingi vyake"
+      "marks": "pigi zake"
     },
     {
       "surface": "בדיו",
-      "gloss": "vigingi vyake"
+      "gloss": "pigi zake"
     },
     {
       "surface": "ואת",
@@ -66,22 +66,22 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kisima"
+      "marks": "birika"
     },
     {
       "surface": "הכיר",
-      "gloss": "kisima"
+      "gloss": "birika"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "kiti chake"
+      "marks": "kituo chake"
     },
     {
       "surface": "כנו",
-      "gloss": "kiti chake"
+      "gloss": "kituo chake"
     }
   ],
-  "timestamp": "2026-08-10T14:32:03.021501056Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:15.078781339Z",
+  "model": "glm-5.3"
 }

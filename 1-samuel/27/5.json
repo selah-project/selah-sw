@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 27,
-  "translation": "Na David akamwambia Akishi: Tafadhali, kama nimempata ⟨חן⟩ mbele ya macho yako, wanipe mahali katika mmoja wa miji ya shamba, nikakae huko. Kwa nini mtumishi wako kakaa ⟨katika⟩ mji wa ufalme pamoja nawe?",
+  "translation": "Naye David akamwambia Akish: Kwa kuwa nimepata chenye neema macho yako, tafadhali wanipe mahali katika mmojawapo wa miji ya shamba, ili nikae huko; kwa nini mtumishi wako akae katika mji wa ufalme pamoja nawe?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "na akasema"
+      "gloss": "akamwambia"
     },
     {
       "surface": "דוד",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אכיש",
-      "gloss": "Akishi"
+      "gloss": "Akish"
     },
     {
       "surface": "אם",
-      "gloss": "kama"
+      "gloss": "kwa kuwa"
     },
     {
       "surface": "נא",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "חן",
-      "gloss": "⟨חן⟩"
+      "gloss": "chenye neema"
     },
     {
       "surface": "בעיניך",
-      "gloss": "mbele ya macho yako"
+      "gloss": "macho yako"
     },
     {
       "surface": "יתנו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "באחת",
-      "gloss": "katika mmoja"
+      "gloss": "katika mmojawapo"
     },
     {
       "surface": "ערי",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "ואשבה",
-      "gloss": "nikakae"
+      "gloss": "ili nikae"
     },
     {
       "surface": "שם",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "ולמה",
-      "gloss": "na kwa nini"
+      "gloss": "kwa nini"
     },
     {
       "surface": "ישב",
@@ -100,6 +100,6 @@
       "gloss": "pamoja nawe"
     }
   ],
-  "timestamp": "2026-08-10T11:28:23.331237712Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:07.677553681Z",
+  "model": "glm-5.3"
 }

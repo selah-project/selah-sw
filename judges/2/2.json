@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Na ninyi hamtakata ⟨⟨⟩⟩ agano kwa wakaazi wa nchi hii; madhabahu zao mtazarau; lakini hamsikilizweni sauti yangu — ni nini hili mliyofanya?",
+  "translation": "Na ninyi msifunge agano na wakaazi wa nchi hii; madhabahu zenu mazibue — msikusikia sauti yangu. Mmemefanya nini hii?",
   "tokens": [
     {
       "surface": "ואתם",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "hamtakata"
+      "gloss": "msifunge"
     },
     {
       "surface": "תכרתו",
-      "gloss": "(kukata agano)"
-    },
-    {
-      "surface": "ברית",
       "gloss": "agano"
     },
     {
+      "surface": "ברית",
+      "gloss": ""
+    },
+    {
       "surface": "ליושבי",
-      "gloss": "kwa wakaazi"
+      "gloss": "na wakaazi"
     },
     {
       "surface": "הארץ",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "תתצון",
-      "gloss": "mtazarau"
+      "gloss": "mazibueni"
     },
     {
       "surface": "ולא",
-      "gloss": "lakini ham"
+      "gloss": "na hukuwa"
     },
     {
       "surface": "שמעתם",
-      "gloss": "sikilizweni"
+      "gloss": "mmesikia"
     },
     {
       "surface": "בקלי",
@@ -57,17 +57,17 @@
     },
     {
       "surface": "מה",
-      "gloss": "ni nini"
+      "gloss": "Mmemefanya nini"
     },
     {
       "surface": "זאת",
-      "gloss": "hili"
+      "gloss": "hii"
     },
     {
       "surface": "עשיתם",
-      "gloss": "mliyofanya"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-08-10T11:12:31.169651473Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:37.216408616Z",
+  "model": "glm-5.3"
 }

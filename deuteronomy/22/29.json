@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 22,
-  "translation": "Na yule mtu aliyelala naye atamipa baba ya ⟨הנער⟩ hamsini ⟨שקלים⟩ ya fedha, naye atakuwa mke wake, kwa sababu alimnyenyeza; hatowezi kumwacha siku zote za maisha yake.",
+  "translation": "Naye yule mtu aliyelala naye atampa baba wa yule binti shekeli hamsini za fedha, naye atakuwa mke wake, kwa sababu alimdhuru; hawezi kumwacha wakati wote wa maisha yake.",
   "tokens": [
     {
       "surface": "ונתן",
-      "gloss": "na atamipa"
+      "gloss": "atampa"
     },
     {
       "surface": "האיש",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לאבי",
-      "gloss": "baba ya"
+      "gloss": "baba wa"
     },
     {
       "surface": "הנער",
-      "gloss": "⟨הנער⟩"
+      "gloss": "yule binti"
     },
     {
       "surface": "חמשים",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "כסף",
-      "gloss": "ya fedha"
+      "gloss": "fedha"
     },
     {
       "surface": "ולו",
@@ -57,33 +57,33 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "kwamba"
     },
     {
       "surface": "ענה",
-      "gloss": "alimnyenyeza"
+      "gloss": "alimdhuru"
     },
     {
       "surface": "לא",
-      "gloss": "hatowezi"
+      "gloss": "si"
     },
     {
       "surface": "יוכל",
-      "gloss": "kumwacha"
+      "gloss": "hawezi"
     },
     {
       "surface": "שלחה",
-      "gloss": "siku zote"
+      "gloss": "kumwacha"
     },
     {
       "surface": "כל",
-      "gloss": "za maisha yake"
+      "gloss": "wakati wote"
     },
     {
       "surface": "ימיו",
-      "gloss": "siku zote za maisha yake"
+      "gloss": "wa maisha yake"
     }
   ],
-  "timestamp": "2026-08-10T14:43:02.821584564Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:26.161221998Z",
+  "model": "glm-5.3"
 }

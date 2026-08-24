@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 20,
-  "translation": "Na ⟨ile⟩ nafsi itakayogeukia kwa waomba wapepo na kwa waaguzi, kufanya ukahaba baada yao, nami nitaweka ⟨את⟩ uso wangu juu ya nafsi hiyo, nanimkata ⟨⟨את⟩ yeye⟩ kutoka katikati ya watu wake.",
+  "translation": "Na nafsi itakayoelekea kwa waomba-mizimu na kwa wachawi, kuzini nyuma yao, mimi ntainamisha uso wangu juu ya nafsi hiyo, na nitamkatisha ⟨את⟩ yeye katikati ya watu wake.",
   "tokens": [
     {
       "surface": "והנפש",
-      "gloss": "na nafsi"
+      "gloss": "Na nafsi"
     },
     {
       "surface": "אשר",
-      "gloss": "itakayogeukia"
+      "gloss": "itakayo"
     },
     {
       "surface": "תפנה",
-      "gloss": ""
+      "gloss": "elekea"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "האבת",
-      "gloss": "waomba wapepo"
+      "gloss": "waomba-mizimu"
     },
     {
       "surface": "ואל",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "הידענים",
-      "gloss": "waaguzi"
+      "gloss": "wachawi"
     },
     {
       "surface": "לזנות",
-      "gloss": "kufanya ukahaba"
+      "gloss": "kuzini"
     },
     {
       "surface": "אחריהם",
-      "gloss": "baada yao"
+      "gloss": "nyuma yao"
     },
     {
       "surface": "ונתתי",
-      "gloss": "nami nitaweka"
+      "gloss": "nitaliweka"
     },
     {
       "surface": "את",
@@ -66,21 +66,22 @@
     },
     {
       "surface": "והכרתי",
-      "gloss": "nanimkata"
+      "gloss": "na nitamkatisha"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ yeye"
+      "gloss": "⟨את⟩ yeye",
+      "marks": "yeye (nafsi hiyo)"
     },
     {
       "surface": "מקרב",
-      "gloss": "kutoka katikati ya"
+      "gloss": "katikati ya"
     },
     {
       "surface": "עמו",
       "gloss": "watu wake"
     }
   ],
-  "timestamp": "2026-08-10T14:35:39.530100806Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:00.635940784Z",
+  "model": "glm-5.3"
 }

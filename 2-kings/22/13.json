@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 22,
-  "translation": "Nendeni, mkaombe ⟨את⟩ Yahweh kwa ajili yangu na kwa ajili ya ⟨the⟩ watu na kwa ajili ya Yehudah yote, kuhusu maneno ya kitabu hiki kilichopatikana; kwa kuwa kubwa ⟨is⟩ hasira ya Yahweh ambayo imewaka ndani yetu, kwa sababu baba zetu hawakusikia maneno ya kitabu hiki, ili kutenda kulingana na vyote vilivyoandikwa juu yetu.",
+  "translation": "Nendeni, mtafute ⟨את⟩ Yahweh kwa ajili yangu, na kwa ajili ya ⟨⟨the⟩⟩ watu, na kwa ajili ya Yehudha yote, kuhusu maneno ya kitabu hiki kilichopatikana; kwa kuwa imetakataka hasira kali ya Yahweh ambayo imewaka juu yetu, kwa sababu baba zetu hawakusikiliza maneno ya kitabu hiki, kutenda kulingana na yote yaliyoandikwa juu yetu.",
   "tokens": [
     {
       "surface": "לכו",
-      "gloss": "nendeni"
+      "gloss": "Nendeni"
     },
     {
       "surface": "דרשו",
-      "gloss": "mkaombe"
+      "gloss": "mtafute"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ watu"
+      "gloss": "watu"
     },
     {
       "surface": "ובעד",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehudah"
+      "gloss": "Yehudha"
     },
     {
       "surface": "על",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "דברי",
-      "gloss": "maneno"
+      "gloss": "maneno ya"
     },
     {
       "surface": "הספר",
-      "gloss": "ya ⟨the⟩ kitabu"
+      "gloss": "kitabu"
     },
     {
       "surface": "הנמצא",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "גדולה",
-      "gloss": "kubwa"
+      "gloss": "kali"
     },
     {
       "surface": "חמת",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "היא",
-      "gloss": "⟨is⟩"
+      "gloss": "⟨hiyo⟩"
     },
     {
       "surface": "נצתה",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "בנו",
-      "gloss": "ndani yetu"
+      "gloss": "juu yetu"
     },
     {
       "surface": "על",
@@ -106,15 +106,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "↤"
+      "gloss": "⟨kwamba⟩"
     },
     {
       "surface": "לא",
-      "gloss": "hawa"
+      "gloss": "hawaku-"
     },
     {
       "surface": "שמעו",
-      "gloss": "kusikia"
+      "gloss": "sikiliza"
     },
     {
       "surface": "אבתינו",
@@ -122,15 +122,15 @@
     },
     {
       "surface": "על",
-      "gloss": "↤"
+      "gloss": "kuhusu"
     },
     {
       "surface": "דברי",
-      "gloss": "maneno"
+      "gloss": "maneno ya"
     },
     {
       "surface": "הספר",
-      "gloss": "ya ⟨the⟩ kitabu"
+      "gloss": "kitabu"
     },
     {
       "surface": "הזה",
@@ -138,21 +138,21 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "ili kutenda"
+      "gloss": "kutenda"
     },
     {
       "surface": "ככל",
-      "gloss": "kulingana na vyote"
+      "gloss": "kulingana na yote"
     },
     {
       "surface": "הכתוב",
-      "gloss": "vilivyoandikwa"
+      "gloss": "yaliyoandikwa"
     },
     {
       "surface": "עלינו",
       "gloss": "juu yetu"
     }
   ],
-  "timestamp": "2026-08-10T11:53:24.458364041Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:49.677803474Z",
+  "model": "glm-5.3"
 }

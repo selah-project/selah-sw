@@ -5,15 +5,15 @@
   "book": "esther",
   "lang": "sw",
   "chapter": 4,
-  "translation": "Na Mardokayi alijua ⟨את⟩ yote yaliyofanywa, na Mardokayi akararua nguo zake, akavaa ⟨⟨nguo ya gunia⟩ na majivu, akatoka katikati ya jiji, akalia maomizi makubwa na machungu.",
+  "translation": "Na Mordekai alipofahamu ⟨את⟩ yote yaliyofanywa, Mordekai akararua ⟨את⟩ mavazi yake, akavaa nguo ya ukanda na majivu, akatoka katikati ya mji, akalia kilio kikubwa na ⟨cha⟩ uchungu.",
   "tokens": [
     {
       "surface": "ומרדכי",
-      "gloss": "Na Mardokayi"
+      "gloss": "Na Mordekai"
     },
     {
       "surface": "ידע",
-      "gloss": "alijua"
+      "gloss": "alipofahamu"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "נעשה",
-      "gloss": "∅"
+      "gloss": "yaliyofanywa"
     },
     {
       "surface": "ויקרע",
@@ -38,16 +38,16 @@
     },
     {
       "surface": "מרדכי",
-      "gloss": "Mardokayi"
+      "gloss": "Mordekai"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nguo zake"
+      "marks": "mavazi yake"
     },
     {
       "surface": "בגדיו",
-      "gloss": "nguo zake"
+      "gloss": "mavazi yake"
     },
     {
       "surface": "וילבש",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "שק",
-      "gloss": "gunia"
+      "gloss": "nguo ya ukanda"
     },
     {
       "surface": "ואפר",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "jiji"
+      "gloss": "mji"
     },
     {
       "surface": "ויזעק",
@@ -79,17 +79,17 @@
     },
     {
       "surface": "זעקה",
-      "gloss": "maomizi"
+      "gloss": "kilio"
     },
     {
       "surface": "גדלה",
-      "gloss": "makubwa"
+      "gloss": "kikubwa"
     },
     {
       "surface": "ומרה",
-      "gloss": "na machungu"
+      "gloss": "na uchungu"
     }
   ],
-  "timestamp": "2026-08-10T13:49:28.193721122Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:00.873740665Z",
+  "model": "glm-5.3"
 }

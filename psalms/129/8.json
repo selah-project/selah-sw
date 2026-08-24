@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 129,
-  "translation": "Wala wasiosema wanaopita baraka ya Yahweh ⟨iwe⟩ juu yenu, tukawabariki ⟨אתכם⟩ kwa jina la Yahweh.",
+  "translation": "Na wanaopita hawakusema, \"Baraka ya Yahweh iwe juu yenu; tumebariki ⟨את⟩ ⟨אתכם⟩ kwa jina la Yahweh.\"",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "wala si"
+      "gloss": "na hawaku-"
     },
     {
       "surface": "אמרו",
-      "gloss": "wamesema"
+      "gloss": "sema"
     },
     {
       "surface": "העברים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ברכת",
-      "gloss": "baraka ya"
+      "gloss": "baraka"
     },
     {
       "surface": "יהוה",
@@ -33,22 +33,22 @@
     },
     {
       "surface": "ברכנו",
-      "gloss": "tumekubariki"
+      "gloss": "tumebariki"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "nyinyi"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "nyinyi (kiendesha cha \"tumebariki\")"
     },
     {
       "surface": "בשם",
-      "gloss": "kwa jina la"
+      "gloss": "kwa jina"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T18:29:23.197535401Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.319209746Z",
+  "model": "glm-5.3"
 }

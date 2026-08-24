@@ -5,15 +5,15 @@
   "book": "job",
   "lang": "sw",
   "chapter": 32,
-  "translation": "Sio ⟨the⟩ wengi wanao hekima, wala wazee hawatofautishi hukumu.",
+  "translation": "Si wenye cheo wengi wanao hekima, wala wazee hawaamui hukumu.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "sio"
+      "gloss": "Si"
     },
     {
       "surface": "רבים",
-      "gloss": "wengi"
+      "gloss": "wenye cheo wengi"
     },
     {
       "surface": "יחכמו",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "יבינו",
-      "gloss": "watofautishe"
+      "gloss": "hawaamui"
     },
     {
       "surface": "משפט",
       "gloss": "hukumu"
     }
   ],
-  "timestamp": "2026-08-10T13:38:09.085409009Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:39.300459337Z",
+  "model": "glm-5.3"
 }

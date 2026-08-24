@@ -5,54 +5,54 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 40,
-  "translation": "Na utaweka ⟨את⟩ ⟨the⟩ beseni kati ya hema ya mkutano na ⟨the⟩ madhabahu, na utaweka hali maji.",
+  "translation": "Na utaweka ⟨את⟩ birika kati ya Ohel Moed na ⟨את⟩ madhabahu, na utaweka huko maji.",
   "tokens": [
     {
-      "surface": "וְנָֽתַתָּ֙",
+      "surface": "ונתת",
       "gloss": "na utaweka"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "beseni"
+      "marks": "birika"
     },
     {
-      "surface": "הַכִּיֹּ֔ר",
-      "gloss": "beseni"
+      "surface": "הכיר",
+      "gloss": "birika"
     },
     {
-      "surface": "בֵּֽין",
+      "surface": "בין",
       "gloss": "kati ya"
     },
     {
-      "surface": "אֹ֥הֶל",
+      "surface": "אהל",
       "gloss": "hema"
     },
     {
-      "surface": "מוֹעֵ֖ד",
+      "surface": "מועד",
       "gloss": "ya mkutano"
     },
     {
-      "surface": "וּבֵ֣ין",
-      "gloss": "na"
+      "surface": "ובין",
+      "gloss": "na kati ya"
     },
     {
-      "surface": "הַמִּזְבֵּ֑חַ",
+      "surface": "המזבח",
       "gloss": "madhabahu"
     },
     {
-      "surface": "וְנָתַתָּ֥",
+      "surface": "ונתת",
       "gloss": "na utaweka"
     },
     {
-      "surface": "שָׁ֖ם",
-      "gloss": "hali"
+      "surface": "שם",
+      "gloss": "huko"
     },
     {
-      "surface": "מָֽיִם",
+      "surface": "מים",
       "gloss": "maji"
     }
   ],
-  "timestamp": "2026-08-10T10:30:36.151164656Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:57.600857146Z",
+  "model": "glm-5.3"
 }

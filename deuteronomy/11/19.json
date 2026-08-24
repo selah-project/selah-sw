@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 11,
-  "translation": "mkawafundisha ⟨אתם⟩ ⟨את⟩ watoto wenu, kuzungumza juu yao, udipo kimetiani nyumbani mwako, na uendapo njiani, na ugalipo usingizini, na uamkapo.",
+  "translation": "Na muwafundishe ⟨את⟩ ⟨את⟩ watoto wenu kuzisema, mtakapokaa nyumbani mwako, na utakapotembea njiani, na utapolala na utapoamka.",
   "tokens": [
     {
       "surface": "ולמדתם",
-      "gloss": "mkawafundisha"
+      "gloss": "na muwafundishe"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "watoto wenu"
     },
     {
@@ -27,15 +27,15 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "kuzungumza"
+      "gloss": "kuzisema"
     },
     {
       "surface": "בם",
-      "gloss": "juu yao"
+      "gloss": "naye"
     },
     {
       "surface": "בשבתך",
-      "gloss": "udipo kimetiani"
+      "gloss": "mtakapokaa"
     },
     {
       "surface": "בביתך",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "ובלכתך",
-      "gloss": "na uendapo"
+      "gloss": "na utakapotembea"
     },
     {
       "surface": "בדרך",
@@ -51,13 +51,13 @@
     },
     {
       "surface": "ובשכבך",
-      "gloss": "na ugalipo usingizini"
+      "gloss": "na utapolala"
     },
     {
       "surface": "ובקומך",
-      "gloss": "na uamkapo"
+      "gloss": "na utapoamka"
     }
   ],
-  "timestamp": "2026-08-10T10:56:42.040456110Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:52.915509274Z",
+  "model": "glm-5.3"
 }

@@ -5,74 +5,75 @@
   "book": "malachi",
   "lang": "sw",
   "chapter": 1,
-  "translation": "⟨⟨Niliwapenda⟩⟩ ⟨את⟩ ninyi, amesema Yahweh, na mmesema: Kwa neno gani tunapenda? Je, si Esavu ndugu ⟨ya⟩ Yakobo? ni utamkuo wa Yahweh, lakini Yakobo niliumpenda —",
+  "translation": "Nimewapendeni ⟨את⟩ ninyi, amesema Yahweh, na mmesema: Kwa nini umetupenda? Je, sivyo hivi Esau ndiye ndugu ya Yaakov? ni utambulisho wa Yahweh, nami nilipenda ⟨את⟩ Yaakov.",
   "tokens": [
     {
-      "surface": "אָהַ֤בְתִּי",
-      "gloss": "⟨⟨Niliwapenda⟩⟩"
+      "surface": "אהבתי",
+      "gloss": "Nimewapendeni"
     },
     {
-      "surface": "אֶתְכֶם֙",
-      "gloss": "⟨את⟩ ninyi"
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
     },
     {
-      "surface": "אָמַ֣ר",
+      "surface": "אמר",
       "gloss": "amesema"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "וַאֲמַרְתֶּ֖ם",
+      "surface": "ואמרתם",
       "gloss": "na mmesema"
     },
     {
-      "surface": "בַּמָּ֣ה",
-      "gloss": "kwa neno gani"
+      "surface": "במה",
+      "gloss": "Kwa nini"
     },
     {
-      "surface": "אֲהַבְתָּ֑נוּ",
-      "gloss": "tunapenda"
+      "surface": "אהבתנו",
+      "gloss": "umetupenda"
     },
     {
-      "surface": "הֲלוֹא",
-      "gloss": "je, si"
+      "surface": "הלוא",
+      "gloss": "Je, sivyo hivi"
     },
     {
-      "surface": "אָ֨ח",
+      "surface": "אח",
       "gloss": "ndugu"
     },
     {
-      "surface": "עֵשָׂ֤ו",
-      "gloss": "Esavu"
+      "surface": "עשו",
+      "gloss": "Esau"
     },
     {
-      "surface": "לְיַֽעֲקֹב֙",
-      "gloss": "⟨ya⟩ Yakobo"
+      "surface": "ליעקב",
+      "gloss": "ya Yaakov"
     },
     {
-      "surface": "נְאֻם",
-      "gloss": "ni utamkuo"
+      "surface": "נאם",
+      "gloss": "ni utambulisho wa"
     },
     {
-      "surface": "יְהוָ֔ה",
-      "gloss": "wa Yahweh"
+      "surface": "יהוה",
+      "gloss": "Yahweh"
     },
     {
-      "surface": "וָאֹהַ֖ב",
-      "gloss": "lakini niliumpenda"
+      "surface": "ואהב",
+      "gloss": "nami nilipenda"
     },
     {
-      "surface": "אֶֽת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yakobo"
+      "marks": "Yaakov"
     },
     {
-      "surface": "יַעֲקֹֽב",
-      "gloss": "Yakobo"
+      "surface": "יעקב",
+      "gloss": "Yaakov"
     }
   ],
-  "timestamp": "2026-08-10T12:54:08.481165236Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:52.955197156Z",
+  "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 50,
-  "translation": "Ng'ombe ⟨aliyefurikwa⟩ ni Yisra'el; simba wamemfukuza. ⟨⟨Yule⟩ wa kwanza⟩ aliyeula ⟨ni⟩ mfalme wa Ashshur, na ⟨huyu⟩ ⟨wa mwisho⟩ amevunja mifupa yake, Nevukadnezzar mfalme wa Bavel.",
+  "translation": "Yisrael ni ⟨kondoo⟩ mwenye kufukuzwa-kufurushiwa; simba wamemfukuzza: wa kwanza, mfalme wa Ashur alimla; na huyu wa mwisho, Nevukhadnetstsar mfalme wa Bavel, alivunja ⟨mifupa⟩ yake.",
   "tokens": [
     {
       "surface": "שה",
-      "gloss": "ng'ombe"
+      "gloss": "kondoo"
     },
     {
       "surface": "פזורה",
-      "gloss": "aliyefurikwa"
+      "gloss": "mwenye kufukuzwa-kufurushiwa"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אריות",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "הדיחו",
-      "gloss": "wamemfukuza"
+      "gloss": "wamemfukuzza"
     },
     {
       "surface": "הראשון",
-      "gloss": "yule wa kwanza"
+      "gloss": "wa kwanza"
     },
     {
       "surface": "אכלו",
-      "gloss": "aliyeula"
+      "gloss": "alimla"
     },
     {
       "surface": "מלך",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אשור",
-      "gloss": "wa Ashshur"
+      "gloss": "wa Ashur"
     },
     {
       "surface": "וזה",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "עצמו",
-      "gloss": "amevunja mifupa yake"
+      "gloss": "alivunja mifupa yake"
     },
     {
       "surface": "נבוכדראצר",
-      "gloss": "Nevukadnezzar"
+      "gloss": "Nevukhadnetstsar"
     },
     {
       "surface": "מלך",
@@ -68,6 +68,6 @@
       "gloss": "wa Bavel"
     }
   ],
-  "timestamp": "2026-08-10T12:25:14.450496531Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:44.331230525Z",
+  "model": "glm-5.3"
 }

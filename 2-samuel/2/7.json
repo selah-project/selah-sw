@@ -5,98 +5,78 @@
   "book": "2-samuel",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Na sasa mikono yenu iwe imara, kuweni watu wa nguvu, maana bwana wenu Shaul amekufa, na ⟨הם pia walinitia ⟨את⟩ mafuta⟩ nyumba ya Yehuda kuwa mfalme juu yao.",
+  "translation": "Na sasa mikono yenu na ilinde kuwa imara, na kuweni wenye ushujaa, kwa kuwa bwana wenu Shaul amekufa; na nyumba ya Yehudah pia imenipaka mimi ⟨את⟩ kuwa mfalme juu yao.\"",
   "tokens": [
     {
-      "surface": "וישלח",
-      "gloss": "na akatuma"
+      "surface": "ועתה",
+      "gloss": "Na sasa"
     },
     {
-      "surface": "דוד",
-      "gloss": "David"
+      "surface": "תחזקנה",
+      "gloss": "na ilinde kuwa imara"
     },
     {
-      "surface": "מלאכים",
-      "gloss": "wajumbe"
+      "surface": "ידיכם",
+      "gloss": "mikono yenu"
     },
     {
-      "surface": "אל",
-      "gloss": "kwa"
+      "surface": "והיו",
+      "gloss": "na kuweni"
     },
     {
-      "surface": "אנשי",
-      "gloss": "watu wa"
+      "surface": "לבני",
+      "gloss": "wenye"
     },
     {
-      "surface": "יביש",
-      "gloss": "Yavesh"
+      "surface": "חיל",
+      "gloss": "ushujaa"
     },
     {
-      "surface": "גלעד",
-      "gloss": "Gileadi"
-    },
-    {
-      "surface": "ויאמר",
-      "gloss": "na akawaambia"
-    },
-    {
-      "surface": "אליהם",
-      "gloss": "kwao"
-    },
-    {
-      "surface": "ברכים",
-      "gloss": "mmebarikiwa"
-    },
-    {
-      "surface": "אתם",
-      "gloss": "nyinyi"
-    },
-    {
-      "surface": "ליהוה",
-      "gloss": "⟨את⟩ kwa Yahweh"
-    },
-    {
-      "surface": "אשר",
+      "surface": "כי",
       "gloss": "kwa kuwa"
     },
     {
-      "surface": "עשיתם",
-      "gloss": "mlifanya"
-    },
-    {
-      "surface": "החסד",
-      "gloss": "chesed"
-    },
-    {
-      "surface": "הזה",
-      "gloss": "hiki"
-    },
-    {
-      "surface": "עם",
-      "gloss": "kwa"
+      "surface": "מת",
+      "gloss": "amekufa"
     },
     {
       "surface": "אדניכם",
-      "gloss": "bwanawenu"
-    },
-    {
-      "surface": "עם",
-      "gloss": "na"
+      "gloss": "bwana wenu"
     },
     {
       "surface": "שאול",
       "gloss": "Shaul"
     },
     {
-      "surface": "ותקברו",
-      "gloss": "na mkamzika"
+      "surface": "וגם",
+      "gloss": "na pia"
     },
     {
-      "surface": "אתו",
+      "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "yeye"
+      "marks": "mimi"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "imenipaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehudah"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuwa mfalme"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "juu yao"
     }
   ],
-  "timestamp": "2026-08-10T11:29:40.378431358Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:06.418824884Z",
+  "model": "glm-5.3"
 }

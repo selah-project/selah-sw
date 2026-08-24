@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 24,
-  "translation": "Na utaziweka ⟨אתה⟩ safu mbili, sita kwa safu, juu ya meza safi mbele za Yahweh.",
+  "translation": "Na utaziwe ⟨את⟩ mbili safu ⟨za⟩ sita kila safu, juu ya meza ⟨ya⟩ safi, mbele za Yahweh.",
   "tokens": [
     {
       "surface": "ושמת",
-      "gloss": "na utaziweka"
+      "gloss": "na utaziwe"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתה⟩",
-      "marks": "safu mbili"
+      "gloss": "⟨את⟩",
+      "marks": "mbili safu"
     },
     {
       "surface": "שתים",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "המערכת",
-      "gloss": "kwa safu"
+      "gloss": "kila safu"
     },
     {
       "surface": "על",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הטהר",
-      "gloss": "safi"
+      "gloss": "⟨ya⟩ safi"
     },
     {
       "surface": "לפני",
@@ -53,6 +53,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T10:37:36.853244343Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:56.130840876Z",
+  "model": "glm-5.3"
 }

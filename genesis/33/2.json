@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 33,
-  "translation": "Akawaweka ⟨⟨wa⟩⟩ wajakazi na watoto wao mbele, na Lea na watoto wake baadaye, na Rachel na Yosef mwisho.",
+  "translation": "Akawaweka ⟨את⟩ wajakazi na ⟨את⟩ watoto wao mbele, na ⟨את⟩ Leah na watoto wake nyuma, na ⟨את⟩ Rachel na ⟨את⟩ Yosef mwisho.",
   "tokens": [
     {
       "surface": "וישם",
@@ -35,12 +35,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "Lea"
+      "gloss": "⟨את⟩",
+      "marks": "Leah"
     },
     {
       "surface": "לאה",
-      "gloss": "Lea"
+      "gloss": "Leah"
     },
     {
       "surface": "וילדיה",
@@ -48,11 +48,11 @@
     },
     {
       "surface": "אחרנים",
-      "gloss": "baadaye"
+      "gloss": "nyuma"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Rachel"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Yosef"
     },
     {
@@ -73,6 +73,6 @@
       "gloss": "mwisho"
     }
   ],
-  "timestamp": "2026-08-10T10:11:06.459394058Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:34.247005178Z",
+  "model": "glm-5.3"
 }

@@ -5,82 +5,83 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 49,
-  "translation": "Hawa ni kabila zote za Yisra'eli, kumi na mbili; na hii ⟨ni⟩ ile aliyowaambia baba yao, akawabariki; ⟨את⟩ kila mmoja kwa baraka yake aliwaabariki ⟨אתם⟩.",
+  "translation": "Wote hao ndio makabila kumi na mawili ya Yisrael, na haya ndiyo aliyowaambia baba yao, akawabariki; kila mmoja kwa baraka yake aliwabariki ⟨את⟩ wao.",
   "tokens": [
     {
-      "surface": "כָּל",
-      "gloss": "Hawa"
+      "surface": "כל",
+      "gloss": "wote"
     },
     {
-      "surface": "אֵ֛לֶּה",
-      "gloss": "ni"
+      "surface": "אלה",
+      "gloss": "hao"
     },
     {
-      "surface": "שִׁבְטֵ֥י",
-      "gloss": "kabila"
+      "surface": "שבטי",
+      "gloss": "makabila"
     },
     {
-      "surface": "יִשְׂרָאֵ֖ל",
-      "gloss": "Yisra'eli"
+      "surface": "ישראל",
+      "gloss": "ya Yisrael"
     },
     {
-      "surface": "שְׁנֵ֣ים",
+      "surface": "שנים",
       "gloss": "mbili"
     },
     {
-      "surface": "עָשָׂ֑ר",
+      "surface": "עשר",
       "gloss": "kumi"
     },
     {
-      "surface": "וְ֠זֹאת",
-      "gloss": "na hii"
+      "surface": "וזאת",
+      "gloss": "na haya"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "ile"
+      "surface": "אשר",
+      "gloss": "ndiyo"
     },
     {
-      "surface": "דִּבֶּ֨ר",
-      "gloss": "aliyo"
+      "surface": "דבר",
+      "gloss": "aliyowaambia"
     },
     {
-      "surface": "לָהֶ֤ם",
-      "gloss": "waambia"
+      "surface": "להם",
+      "gloss": "wao"
     },
     {
-      "surface": "אֲבִיהֶם֙",
+      "surface": "אביהם",
       "gloss": "baba yao"
     },
     {
-      "surface": "וַיְבָ֣רֶךְ",
+      "surface": "ויברך",
       "gloss": "akawabariki"
     },
     {
-      "surface": "אוֹתָ֔ם",
-      "gloss": "⟨את⟩ kila mmoja"
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
     },
     {
-      "surface": "אִ֛ישׁ",
+      "surface": "איש",
+      "gloss": "kila mmoja"
+    },
+    {
+      "surface": "אשר",
       "gloss": "kwa"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "כברכתו",
       "gloss": "baraka yake"
     },
     {
-      "surface": "כְּבִרְכָת֖וֹ",
-      "gloss": "aliwaabariki"
+      "surface": "ברך",
+      "gloss": "aliwabariki"
     },
     {
-      "surface": "בֵּרַ֥ךְ",
-      "gloss": "⟨אתם⟩"
-    },
-    {
-      "surface": "אֹתָֽם",
-      "gloss": "⟨אתם⟩",
-      "marks": "kila mmoja"
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wao"
     }
   ],
-  "timestamp": "2026-08-10T15:51:03.553837218Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:06.718064164Z",
+  "model": "glm-5.3"
 }

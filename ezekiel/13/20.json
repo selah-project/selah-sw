@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Kwa hiyo hivyo asema Adonai Yahweh: Tazama, mimi ⟨⟨dhidi⟩⟩ ya mifuko yenu ambayo ninyi mnapiga mbalu wakiwinda, na nitaliyata ⟨⟨את⟩⟩ kutoka juu ya mikono yenu, na nitawaacha ⟨⟨את⟩⟩ nafsi ambazo ninyi mnawawinda huku mkipiga mbalu.",
+  "translation": "Kwa hiyo hivi asema Adonai Yahweh: Tazama, mimi ⟨ni⟩ dhidi ya vifuniko vyenu, ambavyo ninyi mnawaka huko ⟨את⟩ nafsi kuruka kama ndege, nami nitavyachana ⟨את⟩ kutoka juu ya mikononi mwenu, nami nitawachisha ⟨את⟩ nafsi ambazo ninyi mnazowaka, mnawaka ⟨את⟩ nafsi kuruka kama ndege.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Kwa hiyo"
+      "gloss": "kwa hiyo"
     },
     {
       "surface": "כה",
-      "gloss": "hivyo"
+      "gloss": "hivi"
     },
     {
       "surface": "אמר",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Tazama, mimi"
+      "gloss": "tazama mimi"
     },
     {
       "surface": "אל",
-      "gloss": "dhidi"
+      "gloss": "dhidi ya"
     },
     {
       "surface": "כסתותיכנה",
-      "gloss": "ya mifuko yenu"
+      "gloss": "vifuniko vyenu"
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "ambavyo"
     },
     {
       "surface": "אתנה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מצדדות",
-      "gloss": "mnapiga mbalu wakiwinda"
+      "gloss": "mnawaka"
     },
     {
       "surface": "שם",
@@ -66,16 +66,16 @@
     },
     {
       "surface": "לפרחות",
-      "gloss": "zinazoruka"
+      "gloss": "kuruka kama ndege"
     },
     {
       "surface": "וקרעתי",
-      "gloss": "na nitaliyata"
+      "gloss": "nami nitavyachana"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "mifuko"
+      "marks": "vifuniko vyenu"
     },
     {
       "surface": "מעל",
@@ -83,11 +83,11 @@
     },
     {
       "surface": "זרועתיכם",
-      "gloss": "mikono yenu"
+      "gloss": "mikononi mwenu"
     },
     {
       "surface": "ושלחתי",
-      "gloss": "na nitawaacha"
+      "gloss": "nami nitawachisha"
     },
     {
       "surface": "את",
@@ -108,7 +108,7 @@
     },
     {
       "surface": "מצדדות",
-      "gloss": "mnawawinda"
+      "gloss": "mnazowaka"
     },
     {
       "surface": "את",
@@ -121,9 +121,9 @@
     },
     {
       "surface": "לפרחת",
-      "gloss": "zinazoruka"
+      "gloss": "kuruka kama ndege"
     }
   ],
-  "timestamp": "2026-08-10T12:29:31.842054198Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:40.351975250Z",
+  "model": "glm-5.3"
 }

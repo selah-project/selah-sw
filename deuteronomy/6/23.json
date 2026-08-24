@@ -5,20 +5,20 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 6,
-  "translation": "Naye akatutoa ⟨אתנו⟩ kutoka hapo, ili ilete ⟨אתנו⟩ na kutupa ⟨את⟩ nchi ile aliyoapa kwa baba zetu.",
+  "translation": "Na ⟨את⟩ sisi alitutoa kutoka huko, ili atuingize, atupe ⟨את⟩ nchi ile aliyoapa kwa baba zetu.",
   "tokens": [
     {
       "surface": "ואותנו",
-      "gloss": "⟨אתנו⟩",
-      "marks": "sisi (akatutoa)"
+      "gloss": "⟨את⟩ sisi",
+      "marks": "alitutoa"
     },
     {
       "surface": "הוציא",
-      "gloss": "akatutoa"
+      "gloss": "alitutoa"
     },
     {
       "surface": "משם",
-      "gloss": "kutoka hapo"
+      "gloss": "kutoka huko"
     },
     {
       "surface": "למען",
@@ -26,16 +26,16 @@
     },
     {
       "surface": "הביא",
-      "gloss": "ilete"
+      "gloss": "atuingize"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨אתנו⟩",
-      "marks": "sisi (na ilete)"
+      "gloss": "⟨את⟩ sisi",
+      "marks": "atuingize"
     },
     {
       "surface": "לתת",
-      "gloss": "na kutupa"
+      "gloss": "atupe"
     },
     {
       "surface": "לנו",
@@ -44,15 +44,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nchi"
+      "marks": "nchi ile"
     },
     {
       "surface": "הארץ",
-      "gloss": "nchi"
+      "gloss": "nchi ile"
     },
     {
       "surface": "אשר",
-      "gloss": "ile"
+      "gloss": "ambayo"
     },
     {
       "surface": "נשבע",
@@ -63,6 +63,6 @@
       "gloss": "kwa baba zetu"
     }
   ],
-  "timestamp": "2026-08-10T10:54:49.189591157Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:34.292506096Z",
+  "model": "glm-5.3"
 }

@@ -5,53 +5,53 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 49,
-  "translation": "Anaolaani hasira yao kwa kuwa ⟨⟨ni⟩⟩ nguvu, na wivu wao kwa kuwa ⟨⟨ni⟩⟩ mkali; nitawagawa ndani ya Ya'akov na kuwatawanya ndani ya Yisrael.",
+  "translation": "Nalaaniwa hasira yao, kwa sababu ilikuwa ⟨ni⟩ kali, na ghadhabu yao, kwa sababu ilikuwa ⟨ni⟩ kali ⟨sana⟩; nitawagawanya katika Yaakov, na kuwatawanya katika Yisrael.",
   "tokens": [
     {
-      "surface": "אָר֤וּר",
-      "gloss": "anaolaani"
+      "surface": "ארור",
+      "gloss": "Nalaaniwa"
     },
     {
-      "surface": "אַפָּם֙",
+      "surface": "אפם",
       "gloss": "hasira yao"
     },
     {
-      "surface": "כִּ֣י",
-      "gloss": "kwa kuwa"
+      "surface": "כי",
+      "gloss": "kwa sababu"
     },
     {
-      "surface": "עָ֔ז",
-      "gloss": "⟨ni⟩ nguvu"
+      "surface": "עז",
+      "gloss": "kali"
     },
     {
-      "surface": "וְעֶבְרָתָ֖ם",
-      "gloss": "na wivu wao"
+      "surface": "ועברתם",
+      "gloss": "na ghadhabu yao"
     },
     {
-      "surface": "כִּ֣י",
-      "gloss": "kwa kuwa"
+      "surface": "כי",
+      "gloss": "kwa sababu"
     },
     {
-      "surface": "קָשָׁ֑תָה",
-      "gloss": "⟨ni⟩ mkali"
+      "surface": "קשתה",
+      "gloss": "kali ⟨sana⟩"
     },
     {
-      "surface": "אֲחַלְּקֵ֣ם",
-      "gloss": "nitawagawa"
+      "surface": "אחלקם",
+      "gloss": "nitawagawanya"
     },
     {
-      "surface": "בְּיַעֲקֹ֔ב",
-      "gloss": "ndani ya Ya'akov"
+      "surface": "ביעקב",
+      "gloss": "katika Yaakov"
     },
     {
-      "surface": "וַאֲפִיצֵ֖ם",
+      "surface": "ו אפיצם",
       "gloss": "na kuwatawanya"
     },
     {
-      "surface": "בְּיִשְׂרָאֵֽל",
-      "gloss": "ndani ya Yisrael"
+      "surface": "בישראל",
+      "gloss": "katika Yisrael"
     }
   ],
-  "timestamp": "2026-08-10T14:27:47.850985996Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:15.403605284Z",
+  "model": "glm-5.3"
 }

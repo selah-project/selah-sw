@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Na ilikuwa hivi, Gidoni aliposikia ⟨⟨את⟩⟩ masimulizi ya ndoto na ⟨⟨את⟩⟩ tafsiri yake, akaangukia kusujudu, akarudi kwenye kambi ya Yisraeli, akasema, Amkeni, maana Yahweh amewapa ⟨⟨את⟩⟩ kambi ya Midyani mkononi mwenu.",
+  "translation": "Ikawa Gideon aliposikia ⟨את⟩ masimulizi ya ndoto na ⟨את⟩ tafsiri yake, akasujudu; akarudi kwenye kambi ya Yisraeli akasema: Simameni, maana Yahweh amewatia mkononi mwenu ⟨את⟩ kambi ya Midiani.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "na ilikuwa hivi"
+      "gloss": "Ikawa"
     },
     {
       "surface": "כשמע",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "גדעון",
-      "gloss": "Gidoni"
+      "gloss": "Gideon"
     },
     {
       "surface": "את",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "וישתחו",
-      "gloss": "akaangukia kusujudu"
+      "gloss": "akasujudu"
     },
     {
       "surface": "וישב",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "קומו",
-      "gloss": "amkeni"
+      "gloss": "Simameni"
     },
     {
       "surface": "כי",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "amewapa"
+      "gloss": "amewatia"
     },
     {
       "surface": "יהוה",
@@ -88,7 +88,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kambi ya Midyani"
+      "marks": "kambi ya Midiani"
     },
     {
       "surface": "מחנה",
@@ -96,9 +96,9 @@
     },
     {
       "surface": "מדין",
-      "gloss": "ya Midyani"
+      "gloss": "ya Midiani"
     }
   ],
-  "timestamp": "2026-08-10T14:49:51.113835588Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:38.033805080Z",
+  "model": "glm-5.3"
 }

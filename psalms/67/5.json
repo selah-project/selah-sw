@@ -5,53 +5,53 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 67,
-  "translation": "Wafurahi na waimbe kwa shangwe, taifa; kwa maana utawahukumu ⟨ה⟩ watu kwa uadilifu, na taifa ⟨kumi⟩ katika nchi utawaongoza. Selah.",
+  "translation": "Wafurahi mataifa na waimbe kwa shangwe, kwa maana utawahukumu watu kwa usawa, na mataifa ⟨kati⟩ ya nchi utayaongoza. Selah.",
   "tokens": [
     {
-      "surface": "יִֽשְׂמְח֥וּ",
-      "gloss": "Wafurahi"
+      "surface": "ישמחו",
+      "gloss": "wafurahi"
     },
     {
-      "surface": "וִֽירַנְּנ֗וּ",
+      "surface": "וירננו",
       "gloss": "na waimbe kwa shangwe"
     },
     {
-      "surface": "לְאֻ֫מִּ֥ים",
-      "gloss": "taifa"
+      "surface": "לאמים",
+      "gloss": "mataifa"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "kwa maana"
     },
     {
-      "surface": "תִשְׁפֹּ֣ט",
+      "surface": "תשפט",
       "gloss": "utawahukumu"
     },
     {
-      "surface": "עַמִּ֣ים",
-      "gloss": "⟨ה⟩ watu"
+      "surface": "עמים",
+      "gloss": "watu"
     },
     {
-      "surface": "מִישׁ֑וֹר",
-      "gloss": "kwa uadilifu"
+      "surface": "מישור",
+      "gloss": "kwa usawa"
     },
     {
-      "surface": "וּלְאֻמִּ֓ים",
-      "gloss": "na taifa"
+      "surface": "ולאמים",
+      "gloss": "na mataifa"
     },
     {
-      "surface": "בָּאָ֖רֶץ",
+      "surface": "בארץ",
       "gloss": "katika nchi"
     },
     {
-      "surface": "תַּנְחֵ֣ם",
-      "gloss": "utawaongoza"
+      "surface": "תנחם",
+      "gloss": "utayaongoza"
     },
     {
-      "surface": "סֶֽלָה",
+      "surface": "סלה",
       "gloss": "Selah"
     }
   ],
-  "timestamp": "2026-08-10T13:05:24.078537887Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:40.635579829Z",
+  "model": "glm-5.3"
 }

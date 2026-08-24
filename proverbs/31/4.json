@@ -5,49 +5,49 @@
   "book": "proverbs",
   "lang": "sw",
   "chapter": 31,
-  "translation": "Si kwa wafalme, E Lemueli, si kwa wafalme kunywa divai, wala kwa wakuu ⟨⟨kutafuta⟩⟩ kileo;",
+  "translation": "Si kwa wafalme, E Lemueli, si kwa wafalme kunywa mvinyo, wala kwa wakuu kutamani kileo kikali.",
   "tokens": [
     {
-      "surface": "אַ֤ל",
-      "gloss": "Si"
-    },
-    {
-      "surface": "לַֽמְלָכִ֨ים",
-      "gloss": "kwa wafalme"
-    },
-    {
-      "surface": "לְֽמוֹאֵ֗ל",
-      "gloss": "E Lemueli"
-    },
-    {
-      "surface": "אַ֣ל",
+      "surface": "אל",
       "gloss": "si"
     },
     {
-      "surface": "לַֽמְלָכִ֣ים",
+      "surface": "למלכים",
       "gloss": "kwa wafalme"
     },
     {
-      "surface": "שְׁתוֹ",
+      "surface": "למואל",
+      "gloss": "E Lemueli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kwa wafalme"
+    },
+    {
+      "surface": "שתו",
       "gloss": "kunywa"
     },
     {
-      "surface": "יָ֑יִן",
-      "gloss": "divai"
+      "surface": "יין",
+      "gloss": "mvinyo"
     },
     {
-      "surface": "וּ֝לְרוֹזְנִ֗ים",
+      "surface": "ולרוזנים",
       "gloss": "wala kwa wakuu"
     },
     {
-      "surface": "אוֹ",
-      "gloss": "⟨kutafuta⟩"
+      "surface": "או",
+      "gloss": "kutamani"
     },
     {
-      "surface": "שֵׁכָֽר",
-      "gloss": "kileo"
+      "surface": "שכר",
+      "gloss": "kileo kikali"
     }
   ],
-  "timestamp": "2026-08-10T15:32:59.041585500Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:31.557802336Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 27,
-  "translation": "Naye Esavu akamchukia ⟨את⟩ Yaakob kwa sababu ya ⟨the⟩ baraka ambayo baba yake alimbariki; naye Esavu akasema moyoni mwake, Siku za kuomoleza kwa baba yangu zikaribie, nami nitamuua ⟨את⟩ Yaakob ndugu yangu.",
+  "translation": "Nayo Esavu akamchukia Yakov kwa sababu ya ⟨את⟩ baraka ile aliyo bariki ⟨את⟩ baba yake; nayo Esavu akasema moyoni mwake, Siku za kuomboleza za baba yake zikaribu, nami niwue Yakov ndugu yangu.",
   "tokens": [
     {
       "surface": "וישטם",
@@ -18,27 +18,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yaakob"
+      "marks": "Yakov"
     },
     {
       "surface": "יעקב",
-      "gloss": "Yaakob"
+      "gloss": "Yakov"
     },
     {
       "surface": "על",
-      "gloss": "kwa"
+      "gloss": "kwa sababu ya"
     },
     {
       "surface": "הברכה",
-      "gloss": "sababu ya baraka"
+      "gloss": "baraka ile"
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "ile"
     },
     {
       "surface": "ברכו",
-      "gloss": "alimbariki"
+      "gloss": "aliyo bariki"
     },
     {
       "surface": "אביו",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "יקרבו",
-      "gloss": "zikaribie"
+      "gloss": "zikaribu"
     },
     {
       "surface": "ימי",
@@ -66,30 +66,30 @@
     },
     {
       "surface": "אבל",
-      "gloss": "kuomoleza"
+      "gloss": "kuomboleza"
     },
     {
       "surface": "אבי",
-      "gloss": "baba yangu"
+      "gloss": "baba yake"
     },
     {
       "surface": "ואהרגה",
-      "gloss": "nami nitamuua"
+      "gloss": "nami niwue"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yaakob"
+      "marks": "Yakov"
     },
     {
       "surface": "יעקב",
-      "gloss": "Yaakob"
+      "gloss": "Yakov"
     },
     {
       "surface": "אחי",
       "gloss": "ndugu yangu"
     }
   ],
-  "timestamp": "2026-08-10T10:08:28.509856032Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:35.101881804Z",
+  "model": "glm-5.3"
 }

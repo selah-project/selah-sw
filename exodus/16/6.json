@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 16,
-  "translation": "Akasema Moshe na Aharon kwa wana wote wa Yisra'el: Jioni, nanyi mtajua ya kwamba Yahweh ndiye aliyeutoa ⟨אתכם⟩ kutoka nchi ya Mitsrayim.",
+  "translation": "Moshe na Aharon wakasema kwa wanawote wa Yisrael: Jioni ⟨ndipo⟩ mtakapojua kwamba Yahweh ndiye aliwatoa ⟨את⟩ nyinyi kutoka nchi ya Mitsrayim.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Akasema"
+      "gloss": "wakasema"
     },
     {
       "surface": "משה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "wa Yisra'el"
+      "gloss": "wa Yisrael"
     },
     {
       "surface": "ערב",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "וידעתם",
-      "gloss": "nanyi mtajua"
+      "gloss": "mtakapojua"
     },
     {
       "surface": "כי",
-      "gloss": "ya kwamba"
+      "gloss": "kwamba"
     },
     {
       "surface": "יהוה",
@@ -53,22 +53,22 @@
     },
     {
       "surface": "הוציא",
-      "gloss": "aliyeutoa"
+      "gloss": "aliwatoa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
     },
     {
       "surface": "מארץ",
-      "gloss": "kutoka nchi ya"
+      "gloss": "kutoka nchi"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "ya Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-10T10:23:16.640545673Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:06.058793204Z",
+  "model": "glm-5.3"
 }

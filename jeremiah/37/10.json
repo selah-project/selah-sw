@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 37,
-  "translation": "Kwa maana hata mkiwapiga jeshi lote la Wakasdi wanalaana pamoja nanyi, na wakabakiwa ndani yao watu waliokatwa kwa migumo, kila mmoja katika hema yake ataondoka, na wataichoma ⟨את⟩ ⟨the⟩ mji huu kwa moto.",
+  "translation": "Kwa maana hata mngeliwapiga jeshi lote la Wakashdi linalopigana ⟨את⟩ nanyi, na wangebaki wanaume waliomigarika, kila mmoja katika hema yake wangeinuka, na wateketeza ⟨את⟩ mji huu kwa moto.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kwa maana"
+      "gloss": "kwa maana"
     },
     {
       "surface": "אם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הכיתם",
-      "gloss": "mkiwapiga"
+      "gloss": "mngeliwapiga"
     },
     {
       "surface": "כל",
@@ -29,32 +29,31 @@
     },
     {
       "surface": "כשדים",
-      "gloss": "la Wakasdi"
+      "gloss": "la Wakashdi"
     },
     {
       "surface": "הנלחמים",
-      "gloss": "wanalaana"
+      "gloss": "linapigana"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ pamoja nanyi",
-      "marks": "pamoja nanyi"
+      "gloss": "⟨את⟩ nanyi"
     },
     {
       "surface": "ונשארו",
-      "gloss": "na wakabakiwa"
+      "gloss": "na wangebaki"
     },
     {
       "surface": "בם",
-      "gloss": "ndani yao"
+      "gloss": "kwao"
     },
     {
       "surface": "אנשים",
-      "gloss": "watu"
+      "gloss": "wanaume"
     },
     {
       "surface": "מדקרים",
-      "gloss": "waliokatwa kwa migumo"
+      "gloss": "waliomigarika"
     },
     {
       "surface": "איש",
@@ -66,16 +65,16 @@
     },
     {
       "surface": "יקומו",
-      "gloss": "ataondoka"
+      "gloss": "wangeinuka"
     },
     {
       "surface": "ושרפו",
-      "gloss": "na wataichoma"
+      "gloss": "na wateketeza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mji"
+      "marks": "mji huu"
     },
     {
       "surface": "העיר",
@@ -83,13 +82,13 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "huyu"
+      "gloss": "huu"
     },
     {
       "surface": "באש",
       "gloss": "kwa moto"
     }
   ],
-  "timestamp": "2026-08-10T12:20:51.900059167Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:13.019582108Z",
+  "model": "glm-5.3"
 }

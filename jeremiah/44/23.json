@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 44,
-  "translation": "Kwa sababu ya kwamba mmetumbuiza uvugizo na mmetenda dhambi dhidi ya Yahweh, na hamkusikiliza kwa sauti ya Yahweh, na katika torati yake na katika amri zake na katika mashahidi wake hamkuenda; kwa hiyo msiba huu umekupateni, kama leo hii.",
+  "translation": "Kwa sababu mliwaka uvungo ⟨wa nabii⟩ na kwa sababu mlikosa dhambi mbele ya Yahweh, na hamkusikiliza sauti ya Yahweh, wala hamkuwa katika torati yake, wala katika amri zake, wala katika mashaidi yake — kwa hiyo msiba huu mbaya umekukuteni, kama siku hii.",
   "tokens": [
     {
       "surface": "מפני",
-      "gloss": "Kwa sababu ya"
+      "gloss": "kwa sababu"
     },
     {
       "surface": "אשר",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "קטרתם",
-      "gloss": "mmetumbuiza uvugizo"
+      "gloss": "mliwaka uvungo"
     },
     {
       "surface": "ואשר",
-      "gloss": "na kwamba"
+      "gloss": "na kwa sababu"
     },
     {
       "surface": "חטאתם",
-      "gloss": "mmetenda dhambi"
+      "gloss": "mlikosa dhambi"
     },
     {
       "surface": "ליהוה",
-      "gloss": "dhidi ya Yahweh"
+      "gloss": "mbele ya Yahweh"
     },
     {
       "surface": "ולא",
@@ -37,39 +37,39 @@
     },
     {
       "surface": "שמעתם",
-      "gloss": "sikiliza"
+      "gloss": "kusikiliza"
     },
     {
       "surface": "בקול",
-      "gloss": "kwa sauti ya"
+      "gloss": "sauti"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ya Yahweh"
     },
     {
       "surface": "ובתרתו",
-      "gloss": "na katika torati yake"
+      "gloss": "wala katika torati yake"
     },
     {
       "surface": "ובחקתיו",
-      "gloss": "na katika amri zake"
+      "gloss": "wala katika amri zake"
     },
     {
       "surface": "ובעדותיו",
-      "gloss": "na katika mashahidi wake"
+      "gloss": "wala katika mashaidi yake"
     },
     {
       "surface": "לא",
-      "gloss": "hamku"
+      "gloss": "hamkuwa"
     },
     {
       "surface": "הלכתם",
-      "gloss": "enda"
+      "gloss": "katika hayo"
     },
     {
       "surface": "על",
-      "gloss": "—"
+      "gloss": "kwa hiyo juu ya"
     },
     {
       "surface": "כן",
@@ -77,30 +77,30 @@
     },
     {
       "surface": "קראת",
-      "gloss": "umekupateni"
+      "gloss": "umekukuteni"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "msiba huu"
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
     },
     {
       "surface": "הרעה",
-      "gloss": "msiba huu"
+      "gloss": "msiba huu mbaya"
     },
     {
       "surface": "הזאת",
-      "gloss": "—"
+      "gloss": "huu"
     },
     {
       "surface": "כיום",
-      "gloss": "kama leo"
+      "gloss": "kama siku"
     },
     {
       "surface": "הזה",
       "gloss": "hii"
     }
   ],
-  "timestamp": "2026-08-10T12:23:39.653747305Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:48.206122698Z",
+  "model": "glm-5.3"
 }

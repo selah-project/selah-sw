@@ -5,85 +5,85 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 61,
-  "translation": "Kuushangilia nitashangilia kwa Yahweh, itafurahi nafsi yangu katika Elohai, kwani ⟨⟨ameneye⟩⟩ amenivisha nguo za wokovu, joho la haki amenifunika, kukiinukiinua kuhani pambo, kUMk Mahaliwa kinajipamba mapambo yake.",
+  "translation": "Nitashangilia sana ⟨sana⟩ ndani ya Yahweh, nafsi yangu itafurahi ndani ya Elohai (Mungu wangu), kwa maana amenivika nguo za wokovu, amenifunika kwa jopo la haki, kama bwana arusi ajipamba kwa pambo la kichwa la kuhani, na kama bibi arusi ajipamba kwa mapambo yake.",
   "tokens": [
     {
-      "surface": "שׂ֧וֹשׂ",
-      "gloss": "kuushangilia"
-    },
-    {
-      "surface": "אָשִׂ֣ישׂ",
+      "surface": "שוש",
       "gloss": "nitashangilia"
     },
     {
-      "surface": "בַּֽיהוָ֗ה",
-      "gloss": "kwa Yahweh"
+      "surface": "אשיש",
+      "gloss": "sana"
     },
     {
-      "surface": "תָּגֵ֤ל",
+      "surface": "ביהוה",
+      "gloss": "ndani ya Yahweh"
+    },
+    {
+      "surface": "תגל",
       "gloss": "itafurahi"
     },
     {
-      "surface": "נַפְשִׁי֙",
+      "surface": "נפשי",
       "gloss": "nafsi yangu"
     },
     {
-      "surface": "בֵּֽאלֹהַ֔י",
-      "gloss": "katika Elohai"
+      "surface": "באלהי",
+      "gloss": "ndani ya Elohai (Mungu wangu)"
     },
     {
-      "surface": "כִּ֤י",
-      "gloss": "kwani"
+      "surface": "כי",
+      "gloss": "kwa maana"
     },
     {
-      "surface": "הִלְבִּישַׁ֨נִי֙",
-      "gloss": "amenivisha"
+      "surface": "הלבישני",
+      "gloss": "amenivika"
     },
     {
-      "surface": "בִּגְדֵי",
+      "surface": "בגדי",
       "gloss": "nguo za"
     },
     {
-      "surface": "יֶ֔שַׁע",
+      "surface": "ישע",
       "gloss": "wokovu"
     },
     {
-      "surface": "מְעִ֥יל",
-      "gloss": "joho la"
+      "surface": "מעיל",
+      "gloss": "jopo la"
     },
     {
-      "surface": "צְדָקָ֖ה",
+      "surface": "צדקה",
       "gloss": "haki"
     },
     {
-      "surface": "יְעָטָ֑נִי",
+      "surface": "יעטני",
       "gloss": "amenifunika"
     },
     {
-      "surface": "כֶּֽחָתָן֙",
-      "gloss": "kUMk Vijakazi"
+      "surface": "כחתן",
+      "gloss": "kama bwana arusi"
     },
     {
-      "surface": "יְכַהֵ֣ן",
-      "gloss": "kuinukiinua"
+      "surface": "יכהן",
+      "gloss": "la kuhani"
     },
     {
-      "surface": "פְּאֵ֔ר",
-      "gloss": "pambo"
+      "surface": "פאר",
+      "gloss": "pambo la kichwa"
     },
     {
-      "surface": "וְכַכַּלָּ֖ה",
-      "gloss": "na kUMk Mahaliwa"
+      "surface": "וככלה",
+      "gloss": "na kama bibi arusi"
     },
     {
-      "surface": "תַּעְדֶּ֥ה",
-      "gloss": "kinajipamba"
+      "surface": "תעדה",
+      "gloss": "ajipamba"
     },
     {
-      "surface": "כֵלֶֽיהָ",
-      "gloss": "mapambo yake"
+      "surface": "כליה",
+      "gloss": "kwa mapambo yake"
     }
   ],
-  "timestamp": "2026-08-10T15:09:30.804353898Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:13.828400201Z",
+  "model": "glm-5.3"
 }

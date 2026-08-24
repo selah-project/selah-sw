@@ -5,37 +5,42 @@
   "book": "proverbs",
   "lang": "sw",
   "chapter": 30,
-  "translation": "Simba, nguvu kati ya ⟨ה⟩ wanyama, wala harudi nyuma kutokana na uso wa chochote;",
+  "translation": "Simba, ḡibori miongoni mwa ⟨את⟩ wanyama, ambaye hageuki mbele ya yoyote.",
   "tokens": [
     {
       "surface": "ליש",
-      "gloss": "simba"
+      "gloss": "Simba"
     },
     {
       "surface": "גבור",
-      "gloss": "nguvu"
+      "gloss": "ḡibori"
     },
     {
       "surface": "בבהמה",
-      "gloss": "kati ya wanyama"
+      "gloss": "miongoni mwa wanyama"
+    },
+    {
+      "surface": "את",
+      "gloss": "",
+      "marks": ""
     },
     {
       "surface": "ולא",
-      "gloss": "wala"
+      "gloss": "ambaye hageuki"
     },
     {
       "surface": "ישוב",
-      "gloss": "harudi nyuma"
+      "gloss": "hageuki"
     },
     {
       "surface": "מפני",
-      "gloss": "kutokana na uso wa"
+      "gloss": "mbele ya"
     },
     {
       "surface": "כל",
-      "gloss": "chochote"
+      "gloss": "yoyote"
     }
   ],
-  "timestamp": "2026-08-10T13:29:43.414127348Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:03.026998675Z",
+  "model": "glm-5.3"
 }

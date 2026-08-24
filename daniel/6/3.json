@@ -5,15 +5,15 @@
   "book": "daniel",
   "lang": "sw",
   "chapter": 6,
-  "translation": "Na juu yao ⟨kulikuwa na⟩ wakuu watatu, ambao Danieli alikuwa mmoja wao, ili hao wakuu wa mikoa wangewapa hesabu, na mfalme asipate hasara.",
+  "translation": "na juu yao wakuu watatu, ambao Danieli alikuwa mmoja wao, ili hawa maakida watoe kwao hesabu, na mfalme asipate hasara.",
   "tokens": [
     {
       "surface": "ועלא",
-      "gloss": "Na juu yao"
+      "gloss": "na juu yao"
     },
     {
       "surface": "מנהון",
-      "gloss": "⟨kulikuwa na⟩"
+      "gloss": "juu yao"
     },
     {
       "surface": "סרכין",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "להון",
-      "gloss": "wangewapa"
+      "gloss": "wakuwe"
     },
     {
       "surface": "אחשדרפניא",
-      "gloss": "hao wakuu wa mikoa"
+      "gloss": "maakida"
     },
     {
       "surface": "אלין",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "יהבין",
-      "gloss": "hesabu"
+      "gloss": "watoe"
     },
     {
       "surface": "להון",
-      "gloss": "wangewapa"
+      "gloss": "kwao"
     },
     {
       "surface": "טעמא",
@@ -73,17 +73,17 @@
     },
     {
       "surface": "לא",
-      "gloss": "asi"
+      "gloss": "asi-"
     },
     {
       "surface": "להוא",
-      "gloss": "⟨⟨kopula⟩⟩"
+      "gloss": "-pate"
     },
     {
       "surface": "נזק",
       "gloss": "hasara"
     }
   ],
-  "timestamp": "2026-08-10T13:53:33.502479198Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:41.414999568Z",
+  "model": "glm-5.3"
 }

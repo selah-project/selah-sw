@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 48,
-  "translation": "Na kufuatana na mpaka wa Gad, upande wa kusini kuelekea kusini: na utakuwa ⟨huo⟩ mpaka kutoka Tamari, maji ya Meribath-Kadeshi, mto ⟨⟨huo⟩⟩ juu ya ⟨hilo⟩ bahari kuu.",
+  "translation": "Na kando ya mpaka wa Gad, upande wa kusini kuelekea jua machweo, na mpaka utakuwa kutoka Tamar hadi maji ya Meribat-Kadesh, ⟨nahodari⟩ hadi bahari kubwa.",
   "tokens": [
     {
       "surface": "ועל",
-      "gloss": "na kufuatana na"
+      "gloss": "Na kando ya"
     },
     {
       "surface": "גבול",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "גד",
-      "gloss": "wa Gad"
+      "gloss": "Gad"
     },
     {
       "surface": "אל",
-      "gloss": "upande"
+      "gloss": "kuelekea"
     },
     {
       "surface": "פאת",
-      "gloss": "wa"
+      "gloss": "upande wa"
     },
     {
       "surface": "נגב",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "תימנה",
-      "gloss": "kuelekea kusini"
+      "gloss": "kuelekea jua machweu"
     },
     {
       "surface": "והיה",
@@ -45,27 +45,27 @@
     },
     {
       "surface": "מתמר",
-      "gloss": "kutoka Tamari"
+      "gloss": "kutoka Tamar"
     },
     {
       "surface": "מי",
-      "gloss": "maji"
+      "gloss": "maji ya"
     },
     {
       "surface": "מריבת",
-      "gloss": "ya Meribath"
+      "gloss": "Meribat"
     },
     {
       "surface": "קדש",
-      "gloss": "Kadeshi"
+      "gloss": "-Kadesh"
     },
     {
       "surface": "נחלה",
-      "gloss": "mto"
+      "gloss": "⟨nahodari⟩"
     },
     {
       "surface": "על",
-      "gloss": "juu ya"
+      "gloss": "hadi"
     },
     {
       "surface": "הים",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "הגדול",
-      "gloss": "kuu"
+      "gloss": "kubwa"
     }
   ],
-  "timestamp": "2026-08-10T15:20:43.654036344Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:04.747651099Z",
+  "model": "glm-5.3"
 }

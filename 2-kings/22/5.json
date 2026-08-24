@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 22,
-  "translation": "na watoe ⟨hiyo⟩ mkononi mwa wafanya kazi wanaoangaliwa ndani ya nyumba ya Yahweh; nao watoe ⟨אתו⟩ kwa wafanya kazi walioko ndani ya nyumba ya Yahweh, kulitengeneza uharibifu wa ⟨hiyo⟩ nyumba.",
+  "translation": "Na watoe ⟨kwenye⟩ mkono wa watendaji wa kazi, wasimamizi wa nyumba ya Yahweh, nao waitoe ⟨את⟩ kwa watendaji wa kazi walioko nyumbani mwa Yahweh, ili watimize matengenezo ya mbovu ya nyumba.",
   "tokens": [
     {
       "surface": "ויתנה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "על",
-      "gloss": "juu ya"
+      "gloss": "kwenye"
     },
     {
       "surface": "יד",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "עשי",
-      "gloss": "wafanya"
+      "gloss": "watendaji"
     },
     {
       "surface": "המלאכה",
-      "gloss": "kazi"
+      "gloss": "wa kazi"
     },
     {
       "surface": "המפקדים",
-      "gloss": "wanaoangaliwa"
+      "gloss": "wasimamizi"
     },
     {
       "surface": "בבית",
-      "gloss": "ndani ya nyumba"
+      "gloss": "nyumba ya"
     },
     {
       "surface": "יהוה",
@@ -41,20 +41,20 @@
     },
     {
       "surface": "ויתנו",
-      "gloss": "nao watoe"
+      "gloss": "nao waitoe"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "hiyo"
+      "marks": "watendaji wa kazi walioko nyumbani mwa Yahweh"
     },
     {
       "surface": "לעשי",
-      "gloss": "kwa wafanya"
+      "gloss": "kwa watendaji"
     },
     {
       "surface": "המלאכה",
-      "gloss": "kazi"
+      "gloss": "wa kazi"
     },
     {
       "surface": "אשר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "בבית",
-      "gloss": "ndani ya nyumba"
+      "gloss": "nyumbani mwa"
     },
     {
       "surface": "יהוה",
@@ -70,17 +70,17 @@
     },
     {
       "surface": "לחזק",
-      "gloss": "kulitengeneza"
+      "gloss": "ili watimize matengenezo"
     },
     {
       "surface": "בדק",
-      "gloss": "uharibifu"
+      "gloss": "ya mbovu"
     },
     {
       "surface": "הבית",
-      "gloss": "wa nyumba"
+      "gloss": "ya nyumba"
     }
   ],
-  "timestamp": "2026-08-10T11:52:04.864501142Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:59.434310252Z",
+  "model": "glm-5.3"
 }

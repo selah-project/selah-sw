@@ -5,23 +5,23 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 30,
-  "translation": "Na Leah alipoona kwamba ⟨amesimama⟩ kuzaa, akamchukua ⟨את⟩ Zilpah mtumwa wake, akampa ⟨לו⟩ kwa mke Yakobo.",
+  "translation": "Lea alipoona ya kuwa ⟨ameacha⟩ kuzaa, akamchukua ⟨את⟩ Zilpa mtumwa wake, akampa ⟨את⟩ ⟨yeye⟩ kwa Yakovu ⟨kuwa⟩ mke.",
   "tokens": [
     {
       "surface": "ותרא",
-      "gloss": "Na alipoona"
+      "gloss": "alipoona"
     },
     {
       "surface": "לאה",
-      "gloss": "Leah"
+      "gloss": "Lea"
     },
     {
       "surface": "כי",
-      "gloss": "kwamba"
+      "gloss": "ya kuwa"
     },
     {
       "surface": "עמדה",
-      "gloss": "⟨amesimama⟩"
+      "gloss": "⟨ameacha⟩"
     },
     {
       "surface": "מלדת",
@@ -34,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Zilpah"
+      "marks": "Zilpa"
     },
     {
       "surface": "זלפה",
-      "gloss": "Zilpah"
+      "gloss": "Zilpa"
     },
     {
       "surface": "שפחתה",
@@ -50,18 +50,17 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "Yakobo"
+      "gloss": "⟨את⟩ ⟨yeye⟩"
     },
     {
       "surface": "ליעקב",
-      "gloss": "Yakobo"
+      "gloss": "kwa Yakovu"
     },
     {
       "surface": "לאשה",
-      "gloss": "kwa mke"
+      "gloss": "⟨kuwa⟩ mke"
     }
   ],
-  "timestamp": "2026-08-10T10:08:49.819427262Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:37.507982839Z",
+  "model": "glm-5.3"
 }

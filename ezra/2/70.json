@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Wakakaa makuhani na Walowi na ⟨baadhi ya⟩ ⟨העם⟩, na waimbaji na waangalizi wa milango na Netinim, katika miji yao; na kila Yisra'el katika miji yao.",
+  "translation": "Nao makuhani na Walivi, na ⟨baadhi⟩ ya ⟨watu⟩, na waimbaji, na walinda milango, na Netinimu wakakaa katika miji yao; na Israeli yote wakakaa katika miji yao.",
   "tokens": [
     {
       "surface": "וישבו",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "והלוים",
-      "gloss": "na Walowi"
+      "gloss": "na Walivi"
     },
     {
       "surface": "ומן",
-      "gloss": "na ⟨baadhi ya⟩"
+      "gloss": "na ⟨baadhi⟩ ya"
     },
     {
       "surface": "העם",
-      "gloss": "⟨העם⟩"
+      "gloss": "⟨watu⟩"
     },
     {
       "surface": "והמשררים",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "והשוערים",
-      "gloss": "na waangalizi wa milango"
+      "gloss": "na walinda milango"
     },
     {
       "surface": "והנתינים",
-      "gloss": "na Netinim"
+      "gloss": "na Netinimu"
     },
     {
       "surface": "בעריהם",
@@ -45,17 +45,17 @@
     },
     {
       "surface": "וכל",
-      "gloss": "na kila"
+      "gloss": "na ... yote"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israeli"
     },
     {
       "surface": "בעריהם",
       "gloss": "katika miji yao"
     }
   ],
-  "timestamp": "2026-08-10T17:56:41.706054338Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:31.089520955Z",
+  "model": "glm-5.3"
 }

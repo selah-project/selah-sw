@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Na atachukua ⟨את⟩ mbao ya mzedarari na ⟨את⟩ zabaadi na ⟨את⟩ rangi ya yakuti na ⟨את⟩ ndege ⟨aliye⟩ hai, na atazamisha ⟨אתם⟩ katika damu ya ndege aliyechinjwa na katika maji yaliyo hai, na atapulizia kwenye nyumba mara saba.",
+  "translation": "Na atachukua ⟨את⟩ mbao ya mwerezi, na ⟨את⟩ esobo, na ⟨את⟩ shani nyekundu ya kipepeo, na ⟨את⟩ ndege aliye hai, na atazamisha ⟨את⟩ hizo katika damu ya ndege aliyechinjwa na katika maji yaliyo hai, na atapunya kwenye nyumba mara saba.",
   "tokens": [
     {
       "surface": "ולקח",
@@ -14,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mbao"
+      "marks": "mbao ya mwerezi"
     },
     {
       "surface": "עץ",
@@ -22,34 +22,34 @@
     },
     {
       "surface": "הארז",
-      "gloss": "ya mzedarari"
+      "gloss": "ya mwerezi"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "zabaadi"
+      "marks": "esobo"
     },
     {
       "surface": "האזב",
-      "gloss": "zabaadi"
+      "gloss": "esobo"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "rangi"
+      "marks": "shani nyekundu ya kipepeo"
     },
     {
       "surface": "שני",
-      "gloss": "rangi"
+      "gloss": "shani nyekundu"
     },
     {
       "surface": "התולעת",
-      "gloss": "ya yakuti"
+      "gloss": "ya kipepeo"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "ndege"
+      "marks": "ndege aliye hai"
     },
     {
       "surface": "הצפר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "החיה",
-      "gloss": "⟨aliye⟩ hai"
+      "gloss": "aliye hai"
     },
     {
       "surface": "וטבל",
@@ -65,8 +65,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "katika damu"
+      "gloss": "⟨את⟩ hizo",
+      "marks": "zizo katika damu"
     },
     {
       "surface": "בדם",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "והזה",
-      "gloss": "na atapulizia"
+      "gloss": "na atapunya"
     },
     {
       "surface": "אל",
@@ -106,9 +106,9 @@
     },
     {
       "surface": "פעמים",
-      "gloss": ""
+      "gloss": "mara"
     }
   ],
-  "timestamp": "2026-08-10T17:42:48.824454109Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:37.067362497Z",
+  "model": "glm-5.3"
 }

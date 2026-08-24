@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 10,
-  "translation": "Na malka wa Sheba akaona ⟨את⟩ kila hekima ya Shelomoh, na ⟨the⟩ nyumba aliyoijenga.",
+  "translation": "Na malkia wa Sheba aliona ⟨את⟩ hekima yote ya Shelomah, na ⟨את⟩ nyumba aliyoijenga.",
   "tokens": [
     {
       "surface": "ותרא",
-      "gloss": "Na akaona"
+      "gloss": "aliona"
     },
     {
       "surface": "מלכת",
-      "gloss": "malka wa"
+      "gloss": "malkia"
     },
     {
       "surface": "שבא",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kila"
+      "marks": "hekima yote"
     },
     {
       "surface": "כל",
-      "gloss": "kila"
+      "gloss": "yote"
     },
     {
       "surface": "חכמת",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "ya Shelomoh"
+      "gloss": "ya Shelomah"
     },
     {
       "surface": "והבית",
@@ -42,13 +42,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "aliyoijenga"
+      "gloss": "ambayo"
     },
     {
       "surface": "בנה",
-      "gloss": ""
+      "gloss": "aliyoijenga"
     }
   ],
-  "timestamp": "2026-08-10T11:40:44.726884258Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.385253780Z",
+  "model": "glm-5.3"
 }

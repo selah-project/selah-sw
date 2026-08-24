@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 2,
-  "translation": "⟨ Israeli ⟩ ni kitu takatifu kwa Yahweh, mazao ya kwanza ya mavuno yake; wote wanaokula ⟨כי⟩ watapatwa hatia, baya litawajia, tamko la Yahweh.",
+  "translation": "Israeli alikuwa ⟨ni⟩ kitakatifu kwa Yahweh, ⟨ni⟩ mazao ya kwanza ya mavuno yake; wote wanaomla watashutumiwa; baya litawajia, asema Yahweh.",
   "tokens": [
     {
       "surface": "קדש",
-      "gloss": "kitu takatifu"
+      "gloss": "kitakatifu"
     },
     {
       "surface": "ישראל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "תבואתה",
-      "gloss": "ya mavuno yake"
+      "gloss": "mavuno yake"
     },
     {
       "surface": "כל",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אכליו",
-      "gloss": "wanaokula"
+      "gloss": "wanaomla"
     },
     {
       "surface": "יאשמו",
-      "gloss": "watapatwa hatia"
+      "gloss": "watashutumiwa"
     },
     {
       "surface": "רעה",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "נאם",
-      "gloss": "tamko"
+      "gloss": "asema"
     },
     {
       "surface": "יהוה",
-      "gloss": "la Yahweh"
+      "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T12:10:18.403453574Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:21.072119147Z",
+  "model": "glm-5.3"
 }

@@ -5,89 +5,89 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Toleo lake ⟨lilikuwa⟩ bakuli moja la fedha, shekeli thelathini na mia, uzito wake; chombo kimoja cha maji cha fedha, shekeli sabini, kwa shekeli ya ⟨הקודש⟩; vyote viwili vilikuwa vimejaa ngano iliyokobolewa, iliyochanganywa na mafuta, kwa ⟨toleo la⟩ nafaka.",
+  "translation": "Karibani yake: bakuli moja la fedha, uzito wake shekeli thelathini na mia moja, na chombo kimoja cha kunyumbya cha fedha cha shekeli sabini, kwa shekeli wa patakatifu; vyote viwili vilijaa unga wa semolina uliopakwa mafuta, kwa mincha.",
   "tokens": [
     {
-      "surface": "קָרְבָּנ֞וֹ",
-      "gloss": "toleo lake"
+      "surface": "קרבנו",
+      "gloss": "Karibani yake"
     },
     {
-      "surface": "קַֽעֲרַת",
-      "gloss": "bakubi"
+      "surface": "קערת",
+      "gloss": "bakuli"
     },
     {
-      "surface": "כֶּ֣סֶף",
+      "surface": "כסף",
       "gloss": "fedha"
     },
     {
-      "surface": "אַחַ֗ת",
+      "surface": "אחת",
       "gloss": "moja"
     },
     {
-      "surface": "שְׁלֹשִׁ֣ים",
+      "surface": "שלשים",
       "gloss": "thelathini"
     },
     {
-      "surface": "וּמֵאָה֮",
-      "gloss": "na mia"
+      "surface": "ומאה",
+      "gloss": "na mia moja"
     },
     {
-      "surface": "מִשְׁקָלָהּ֒",
+      "surface": "משקלה",
       "gloss": "uzito wake"
     },
     {
-      "surface": "מִזְרָ֤ק",
-      "gloss": "chombo cha maji"
+      "surface": "מזרק",
+      "gloss": "chombo cha kunyumbya"
     },
     {
-      "surface": "אֶחָד֙",
+      "surface": "אחד",
       "gloss": "kimoja"
     },
     {
-      "surface": "כֶּ֔סֶף",
+      "surface": "כסף",
       "gloss": "fedha"
     },
     {
-      "surface": "שִׁבְעִ֥ים",
+      "surface": "שבעים",
       "gloss": "sabini"
     },
     {
-      "surface": "שֶׁ֖קֶל",
+      "surface": "שקל",
       "gloss": "shekeli"
     },
     {
-      "surface": "בְּשֶׁ֣קֶל",
+      "surface": "בשקל",
       "gloss": "kwa shekeli"
     },
     {
-      "surface": "הַקֹּ֑דֶשׁ",
-      "gloss": "ya ⟨הקודש⟩"
+      "surface": "הקדש",
+      "gloss": "patakatifu"
     },
     {
-      "surface": "שְׁנֵיהֶ֣ם",
+      "surface": "שניהם",
       "gloss": "vyote viwili"
     },
     {
-      "surface": "מְלֵאִ֗ים",
-      "gloss": "vimejaa"
+      "surface": "מלאים",
+      "gloss": "vilijaa"
     },
     {
-      "surface": "סֹ֛לֶת",
-      "gloss": "ngano iliyokobolewa"
+      "surface": "סלת",
+      "gloss": "unga wa semolina"
     },
     {
-      "surface": "בְּלוּלָ֥ה",
-      "gloss": "iliyochanganywa"
+      "surface": "בלולה",
+      "gloss": "uliopakwa mafuta"
     },
     {
-      "surface": "בַשֶּׁ֖מֶן",
-      "gloss": "na mafuta"
+      "surface": "בשמן",
+      "gloss": "mafuta"
     },
     {
-      "surface": "לְמִנְחָֽה",
-      "gloss": "kwa ⟨toleo la⟩ nafaka"
+      "surface": "למנחה",
+      "gloss": "kwa mincha"
     }
   ],
-  "timestamp": "2026-08-10T10:43:00.223915345Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:27.634310242Z",
+  "model": "glm-5.3"
 }

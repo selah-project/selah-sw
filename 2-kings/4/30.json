@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 4,
-  "translation": "Mama wa ⟨הנער⟩ kijana akasema: Kama alivyo hai Yahweh, na kama ilivyo hai nafsi yako, sitakuacha. Basi akaondoka akaenda pamoja naye.",
+  "translation": "Mama wa ⟨הַ⟩ kijana akasema: \"Yahweh anaishi, na nafsi yako inaishi — sitakuacha.\" Basi akainuka akaenda nyuma yake.",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "mama"
+      "gloss": "Mama"
     },
     {
       "surface": "הנער",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "hai"
+      "gloss": "anaishi"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "וחי",
-      "gloss": "na hai"
+      "gloss": "na ... inaishi"
     },
     {
       "surface": "נפשך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "kama"
+      "gloss": "⟨kwamba⟩ — si"
     },
     {
       "surface": "אעזבך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ויקם",
-      "gloss": "akaondoka"
+      "gloss": "akainuka"
     },
     {
       "surface": "וילך",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "אחריה",
-      "gloss": "pamoja naye"
+      "gloss": "nyuma yake"
     }
   ],
-  "timestamp": "2026-08-10T17:48:10.656583317Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:22.871071674Z",
+  "model": "glm-5.3"
 }

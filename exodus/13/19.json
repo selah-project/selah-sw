@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Moshe akachukua ⟨את⟩ mifupa ya Yosef pamoja naye, kwa kuwa aliapa kwa kiapo cha nguvu ⟨את⟩ wana wa Israeli, akisema: Elohim ataitembelea ⟨הiyo⟩, hakika, na ninyi mleta ⟨את⟩ mifupa yangu kutoka hapa ⟨pamoja nanyi⟩.",
+  "translation": "Naye Moshe akachukua ⟨את⟩ mifupa ya Yosef pamoja naye, kwa kuwa aliiapa aliapaisha ⟨את⟩ wana wa Yisraeli, akisema: Hakika Elohim atawatembelea ⟨את⟩ nyinyi, nanyi mtachukua ⟨את⟩ mifupa yangu kutoka hapa ⟨את⟩ pamoja nanyi.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "ya Yosef"
+      "gloss": "Yosef"
     },
     {
       "surface": "עמו",
@@ -38,24 +38,24 @@
     },
     {
       "surface": "השבע",
-      "gloss": "aliapa"
+      "gloss": "aliiapa"
     },
     {
       "surface": "השביע",
-      "gloss": "akaapaisha"
+      "gloss": "aliapaisha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wana wa Israeli"
+      "marks": "wana wa Yisraeli"
     },
     {
       "surface": "בני",
-      "gloss": "wana wa"
+      "gloss": "wana"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israeli"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "לאמר",
@@ -63,11 +63,11 @@
     },
     {
       "surface": "פקד",
-      "gloss": "ataitembelea"
+      "gloss": "hakika atawatembelea"
     },
     {
       "surface": "יפקד",
-      "gloss": "hakika"
+      "gloss": "atawatembelea"
     },
     {
       "surface": "אלהים",
@@ -75,12 +75,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ninyi",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩ nyinyi",
+      "marks": "nyinyi"
     },
     {
       "surface": "והעליתם",
-      "gloss": "na mleta"
+      "gloss": "nanyi mtachukua"
     },
     {
       "surface": "את",
@@ -97,10 +97,9 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ pamoja nanyi",
-      "marks": "pamoja nanyi"
+      "gloss": "⟨את⟩ pamoja nanyi"
     }
   ],
-  "timestamp": "2026-08-10T10:21:58.269653224Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:11.806910070Z",
+  "model": "glm-5.3"
 }

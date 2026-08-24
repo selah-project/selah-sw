@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 32,
-  "translation": "Yakov akauliza, akasema: «Tangaza, nakuomba, jina lako.» Naye akasema: «Kwa nini ⟨hii⟩ unauliza jina langu?» Akambariki ⟨אתו⟩ huko.",
+  "translation": "Naye Yaakov akauliza, akasema: Niambie, tafadhali, jina lako. Naye akasema: Kwa nini huu unauliza jina langu? Naye akambariki ⟨את⟩ ⟨אתו⟩ huko.",
   "tokens": [
     {
       "surface": "וישאל",
-      "gloss": "Yakov akauliza"
+      "gloss": "akauliza"
     },
     {
       "surface": "יעקב",
-      "gloss": "Yakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "ויאמר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "הגידה",
-      "gloss": "Tangaza"
+      "gloss": "niambie"
     },
     {
       "surface": "נא",
-      "gloss": "nakuomba"
+      "gloss": "tafadhali"
     },
     {
       "surface": "שמך",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "למה",
-      "gloss": "Kwa nini"
+      "gloss": "kwa nini"
     },
     {
       "surface": "זה",
-      "gloss": "hii"
+      "gloss": "huu"
     },
     {
       "surface": "תשאל",
@@ -53,18 +53,18 @@
     },
     {
       "surface": "ויברך",
-      "gloss": "Akambariki"
+      "gloss": "akambariki"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "Yakov"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "huko (Yaakov) — kihalishe: aliyekubariki ni naye"
     },
     {
       "surface": "שם",
       "gloss": "huko"
     }
   ],
-  "timestamp": "2026-08-10T10:10:57.191636987Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.299003517Z",
+  "model": "glm-5.3"
 }

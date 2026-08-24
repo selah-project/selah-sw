@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "sw",
   "chapter": 19,
-  "translation": "Hizi ndizo urithi ambazo El'azar kuhani na Yehoshua bin Nun na wakuu wa baba wa kabila za wana wa Yisra'el waligawa kwa kura huko Shilo mbele za Yahweh, mlango wa hema ya kukutania; wakamaliza kugawa ⟨את⟩ ⟨ה⟩ nchi.",
+  "translation": "Hizi ndizo urithi zilizogawanywa na Elazar kuhani, na Yehoshua mwana wa Nun, na wakuu wa mbwembwe za makabila ya wana wa Yisraeli, kwa kura, huko Shiloh, mbele za Yahweh, mlango wa hema ya mkutano; wakamaliza kugawa ⟨את⟩ nchi.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "Hizi"
+      "gloss": "hizi"
     },
     {
       "surface": "הנחלת",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambazo"
+      "gloss": "zilizogawanywa"
     },
     {
       "surface": "נחלו",
-      "gloss": "waligawa"
+      "gloss": "waligawa kwa kurithisha"
     },
     {
       "surface": "אלעזר",
-      "gloss": "El'azar"
+      "gloss": "Elazar"
     },
     {
       "surface": "הכהן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "bin"
+      "gloss": "mwana wa"
     },
     {
       "surface": "נון",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "האבות",
-      "gloss": "baba"
+      "gloss": "mbwembwe za"
     },
     {
       "surface": "למטות",
-      "gloss": "kabila za"
+      "gloss": "makabila ya"
     },
     {
       "surface": "בני",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "בגורל",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "בשלה",
-      "gloss": "huko Shilo"
+      "gloss": "huko Shiloh"
     },
     {
       "surface": "לפני",
@@ -85,11 +85,11 @@
     },
     {
       "surface": "אהל",
-      "gloss": "hema"
+      "gloss": "hema ya"
     },
     {
       "surface": "מועד",
-      "gloss": "ya kukutania"
+      "gloss": "mkutano"
     },
     {
       "surface": "ויכלו",
@@ -109,6 +109,6 @@
       "gloss": "nchi"
     }
   ],
-  "timestamp": "2026-08-10T11:10:23.543543445Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:32.570680715Z",
+  "model": "glm-5.3"
 }

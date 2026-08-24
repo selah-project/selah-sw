@@ -5,19 +5,19 @@
   "book": "daniel",
   "lang": "sw",
   "chapter": 8,
-  "translation": "⟨⟨Pundamilia⟩⟩ yule ambaye ulimwona mwenye pembe mbili, ⟨ni⟩ hé Wakumi wa Madi na Parisi.",
+  "translation": "הַאַ֥יִל (kondoo dume) ambaye umemwona, mwenye pembe mbili — ⟨ni⟩ wafalme wa Madai na Parasi.",
   "tokens": [
     {
       "surface": "האיל",
-      "gloss": "⟨pundamilia⟩"
+      "gloss": "kondoo dume"
     },
     {
       "surface": "אשר",
-      "gloss": "yule ambaye"
+      "gloss": "ambaye"
     },
     {
       "surface": "ראית",
-      "gloss": "ulimwona"
+      "gloss": "umemwona"
     },
     {
       "surface": "בעל",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "hé Wakumi wa"
+      "gloss": "wafalme"
     },
     {
       "surface": "מדי",
-      "gloss": "Madi"
+      "gloss": "Madai"
     },
     {
       "surface": "ופרס",
-      "gloss": "na Parisi"
+      "gloss": "na Parasi"
     }
   ],
-  "timestamp": "2026-08-10T13:53:25.331301735Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:33.453245670Z",
+  "model": "glm-5.3"
 }

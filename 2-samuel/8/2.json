@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Akawapiga ⟨את⟩ Moabu, akawapima kwa kamba, akiwalaza ⟨את⟩ ⟨אֹתָם⟩ chini; akapima kamba mbili za kuwaua, na ⟨kamba⟩ iliyokoleza ya kuwahuisha; ikawa Moabu kwa David kuwa watumwa, wachukuzi wa toleo.",
+  "translation": "Akapiga ⟨את⟩ Moabu, akawapima kwa kamba, akiwazelzesha chini ardhini; akapima kamba mbili za kuwaua, na kipimo cha kamba moja cha kuwahuisha; Moabu ikawa kwa David watumwa, wabebei wa toleo.",
   "tokens": [
     {
       "surface": "ויך",
-      "gloss": "Akawapiga"
+      "gloss": "Akapiga"
     },
     {
       "surface": "את",
@@ -30,16 +30,16 @@
     },
     {
       "surface": "השכב",
-      "gloss": "akiwalaza"
+      "gloss": "akiwazelzesha"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אֹתָם⟩",
-      "marks": "chini"
+      "gloss": "⟨את⟩",
+      "marks": "ardhini"
     },
     {
       "surface": "ארצה",
-      "gloss": "chini"
+      "gloss": "chini ardhini"
     },
     {
       "surface": "וימדד",
@@ -59,15 +59,15 @@
     },
     {
       "surface": "ומלא",
-      "gloss": "na iliyokoleza"
+      "gloss": "na kipimo cha"
     },
     {
       "surface": "החבל",
-      "gloss": "⟨kamba⟩"
+      "gloss": "kamba moja"
     },
     {
       "surface": "להחיות",
-      "gloss": "ya kuwahuisha"
+      "gloss": "cha kuwahuisha"
     },
     {
       "surface": "ותהי",
@@ -83,17 +83,17 @@
     },
     {
       "surface": "לעבדים",
-      "gloss": "kuwa watumwa"
+      "gloss": "watumwa"
     },
     {
       "surface": "נשאי",
-      "gloss": "wachukuzi"
+      "gloss": "wabebei"
     },
     {
       "surface": "מנחה",
       "gloss": "wa toleo"
     }
   ],
-  "timestamp": "2026-08-10T11:31:14.826843891Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:26.399332257Z",
+  "model": "glm-5.3"
 }

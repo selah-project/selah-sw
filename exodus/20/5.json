@@ -5,31 +5,31 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 20,
-  "translation": "Usiinamie kwa ajili yao wala usiwatumikie, kwa maana mimi Yahweh Elohim wako, El mwenye wivu, nayemhudumia ⟨(kwa)⟩ makosa ya baba juu ya wana, juu ya vizazi vya tatu na juu ya vizazi vya nne, kwa wale wanaonichukia.",
+  "translation": "Usiinamie k kuabudu kwao, wala usiwaabudu; kwa kuwa mimi, Yahweh Elohim wako, ni El mwenye wivu (qanna), anayelipiza makosa ya baba juu ya wana, hadi kizazi cha tatu na cha nne cha wanaonichukia;",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "Usi-"
+      "gloss": "si"
     },
     {
       "surface": "תשתחוה",
-      "gloss": "inamie"
+      "gloss": "usiinamie k kuabudu"
     },
     {
       "surface": "להם",
-      "gloss": "kwa ajili yao"
+      "gloss": "kwao"
     },
     {
       "surface": "ולא",
-      "gloss": "wala usi-"
+      "gloss": "wala si"
     },
     {
       "surface": "תעבדם",
-      "gloss": "watумike"
+      "gloss": "usiwaabudu"
     },
     {
       "surface": "כי",
-      "gloss": "kwa maana"
+      "gloss": "kwa kuwa"
     },
     {
       "surface": "אנכי",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "קנא",
-      "gloss": "mwenye wivu"
+      "gloss": "mwenye wivu (qanna)"
     },
     {
       "surface": "פקד",
-      "gloss": "nayemhudumia"
+      "gloss": "anayelipiza"
     },
     {
       "surface": "עון",
@@ -73,25 +73,25 @@
     },
     {
       "surface": "על",
-      "gloss": "juu ya"
+      "gloss": "hadi"
     },
     {
       "surface": "שלשים",
-      "gloss": "vizazi vya tatu"
+      "gloss": "kizazi cha tatu"
     },
     {
       "surface": "ועל",
-      "gloss": "na juu ya"
+      "gloss": "na"
     },
     {
       "surface": "רבעים",
-      "gloss": "vizazi vya nne"
+      "gloss": "cha nne"
     },
     {
       "surface": "לשנאי",
-      "gloss": "kwa wale wanaonichukia"
+      "gloss": "cha wanaonichukia"
     }
   ],
-  "timestamp": "2026-08-10T14:29:42.104109403Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:59.508052048Z",
+  "model": "glm-5.3"
 }

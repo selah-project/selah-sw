@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 31,
-  "translation": "Lakini mimi nilikutegemea wewe, Yahweh; nilisema, Elohim wewe ⟨⟨ni⟩⟩.",
+  "translation": "Lakini mimi nimetegemea wewe, Yahweh; nilisema: Wewe ⟨ndiwe⟩ Elohim wangu.",
   "tokens": [
     {
       "surface": "ואני",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "עליך",
-      "gloss": "kwako"
+      "gloss": "wewe"
     },
     {
       "surface": "בטחתי",
-      "gloss": "nilikutegemea"
+      "gloss": "nimetegemea"
     },
     {
       "surface": "יהוה",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "אתה",
-      "gloss": "wewe"
+      "gloss": "Wewe"
     }
   ],
-  "timestamp": "2026-08-10T15:24:46.999460594Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:49.999909406Z",
+  "model": "glm-5.3"
 }

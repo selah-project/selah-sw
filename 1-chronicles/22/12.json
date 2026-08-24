@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "sw",
   "chapter": 22,
-  "translation": "Asha, Yahweh akupe akili na ufahamu, naye akuweka amri juu ya Yisrael, ili uweze kuhifadhi ⟨את⟩ torati ya Yahweh Elohim wako.",
+  "translation": "Tu Yahweh akutoe sekhel na uelewaji, na akuamuru juu ya Yisraeli, na kulishika ⟨את⟩ Torati ya Yahweh Elohim yako.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Asha"
+      "gloss": "Tu"
     },
     {
       "surface": "יתן",
-      "gloss": "akupe"
+      "gloss": "akutoe"
     },
     {
       "surface": "לך",
-      "gloss": "<kiambishi>"
+      "gloss": "kwako"
     },
     {
       "surface": "יהוה",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "שכל",
-      "gloss": "akili"
+      "gloss": "sekhel"
     },
     {
       "surface": "ובינה",
-      "gloss": "na ufahamu"
+      "gloss": "na uelewaji"
     },
     {
       "surface": "ויצוך",
-      "gloss": "naye akuweke amri"
+      "gloss": "na akuamuru"
     },
     {
       "surface": "על",
@@ -41,30 +41,30 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "ולשמור",
-      "gloss": "ili uweze kuhifadhi"
+      "gloss": "na kulishika"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "torati"
+      "marks": "Torati ya Yahweh Elohim yako"
     },
     {
       "surface": "תורת",
-      "gloss": "torati"
+      "gloss": "Torati"
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim wako"
+      "gloss": "Elohim yako"
     }
   ],
-  "timestamp": "2026-08-10T14:10:41.184281958Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:37.252132093Z",
+  "model": "glm-5.3"
 }

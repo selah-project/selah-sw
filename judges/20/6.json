@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 20,
-  "translation": "Nikashika suria wangu nikamkata vipande, nikamtuma ⟨⟨katika⟩⟩ shamba lote la urithi wa Yisrael; kwa maana wamefanya uovu wa kukusudiwa na uchukizo katika Yisrael.",
+  "translation": "Nikashika mke mwanamke wangu wa pembeni, nikamkata vipande, nikawatuma ⟨vile vipande⟩ katika nchi yote ya urithi wa Yisrael, kwa maana walitenda mawazo mabaya na aibu katika Yisrael.",
   "tokens": [
     {
       "surface": "ואחז",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בפילגשי",
-      "gloss": "suria wangu"
+      "gloss": "mke wangu wa pembeni"
     },
     {
       "surface": "ואנתחה",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "בכל",
-      "gloss": "⟨katika⟩ lote"
+      "gloss": "katika yote"
     },
     {
       "surface": "שדה",
-      "gloss": "la shamba"
+      "gloss": "nchi"
     },
     {
       "surface": "נחלת",
-      "gloss": "la urithi"
+      "gloss": "ya urithi"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "ya Yisrael"
     },
     {
       "surface": "כי",
@@ -45,21 +45,21 @@
     },
     {
       "surface": "עשו",
-      "gloss": "wamefanya"
+      "gloss": "walitenda"
     },
     {
       "surface": "זמה",
-      "gloss": "uovu wa kukusudiwa"
+      "gloss": "mawazo mabaya"
     },
     {
       "surface": "ונבלה",
-      "gloss": "na uchukizo"
+      "gloss": "na aibu"
     },
     {
       "surface": "בישראל",
       "gloss": "katika Yisrael"
     }
   ],
-  "timestamp": "2026-08-10T14:49:49.311132294Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:02.705302737Z",
+  "model": "glm-5.3"
 }

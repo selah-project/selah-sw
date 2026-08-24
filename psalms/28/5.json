@@ -5,57 +5,57 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 28,
-  "translation": "Kwa maana hawatambui kazi za Yahweh wala matendo ya mikono yake; ⟨⟨atamuangamiza⟩⟩ na hatawajenga tena.",
+  "translation": "Kwa maana hawatambui matendo ya Yahweh wala kazi ya mikono yake; atawavunja wala hatawajenga tena.",
   "tokens": [
     {
-      "surface": "כִּ֤י",
+      "surface": "כי",
       "gloss": "kwa maana"
     },
     {
-      "surface": "לֹ֤א",
-      "gloss": "hawa"
+      "surface": "לא",
+      "gloss": "ha-"
     },
     {
-      "surface": "יָבִ֡ינוּ",
-      "gloss": "tambui"
+      "surface": "יבינו",
+      "gloss": "-watambui"
     },
     {
-      "surface": "אֶל",
-      "gloss": ""
+      "surface": "אל",
+      "gloss": "⟨kwa⟩"
     },
     {
-      "surface": "פְּעֻלֹּ֣ת",
-      "gloss": "kazi"
-    },
-    {
-      "surface": "יְ֭הוָה",
-      "gloss": "Yahweh"
-    },
-    {
-      "surface": "וְאֶל",
-      "gloss": "wala"
-    },
-    {
-      "surface": "מַעֲשֵׂ֣ה",
+      "surface": "פעלת",
       "gloss": "matendo"
     },
     {
-      "surface": "יָדָ֑יו",
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "ידיו",
       "gloss": "ya mikono yake"
     },
     {
-      "surface": "יֶ֝הֶרְסֵ֗ם",
-      "gloss": "atamuangamiza"
+      "surface": "יהרסם",
+      "gloss": "atawavunja"
     },
     {
-      "surface": "וְלֹ֣א",
-      "gloss": "na hawa"
+      "surface": "ולא",
+      "gloss": "wala… ha-"
     },
     {
-      "surface": "יִבְנֵֽם",
-      "gloss": "jenga tena"
+      "surface": "יבנם",
+      "gloss": "-wajenga tena"
     }
   ],
-  "timestamp": "2026-08-10T15:24:59.335131138Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:52.731478305Z",
+  "model": "glm-5.3"
 }

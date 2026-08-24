@@ -5,43 +5,43 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 19,
-  "translation": "Mizani ya haki, mawe ya uzani ya haki, efa ya haki, na hin ya haki iwe kwenu; mimi Yahweh Elohim wenu ambaye niliwatoa ⟨אתכם⟩ katika nchi ya Mitsrayim.",
+  "translation": "Mizani ya haki, mawe ya haki, efa ya haki na hin ya haki ziwe kwenu; mimi ni Yahweh Elohim wenu ambaye niliwatoa ⟨את⟩ nje ya nchi ya Mitsrayim.",
   "tokens": [
     {
       "surface": "מאזני",
-      "gloss": "Mizani"
+      "gloss": "mizani ya"
     },
     {
       "surface": "צדק",
-      "gloss": "ya haki"
+      "gloss": "haki"
     },
     {
       "surface": "אבני",
-      "gloss": "mawe"
+      "gloss": "mawe ya"
     },
     {
       "surface": "צדק",
-      "gloss": "ya uzani ya haki"
+      "gloss": "haki"
     },
     {
       "surface": "איפת",
-      "gloss": "efa"
+      "gloss": "efa ya"
     },
     {
       "surface": "צדק",
-      "gloss": "ya haki"
+      "gloss": "haki"
     },
     {
       "surface": "והין",
-      "gloss": "na hin"
+      "gloss": "na hin ya"
     },
     {
       "surface": "צדק",
-      "gloss": "ya haki"
+      "gloss": "haki"
     },
     {
       "surface": "יהיה",
-      "gloss": "iwe"
+      "gloss": "ziwe"
     },
     {
       "surface": "לכם",
@@ -65,22 +65,21 @@
     },
     {
       "surface": "הוצאתי",
-      "gloss": "mliwatoa"
+      "gloss": "niliwatoa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩ nje"
     },
     {
       "surface": "מארץ",
-      "gloss": "katika nchi"
+      "gloss": "ya nchi"
     },
     {
       "surface": "מצרים",
       "gloss": "ya Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-10T10:36:46.992712160Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:03.856599692Z",
+  "model": "glm-5.3"
 }

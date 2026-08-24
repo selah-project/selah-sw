@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 17,
-  "translation": "Bali ⟨את⟩ Yahweh, ambaye aliwatoa ⟨אתכם⟩ kutoka nchi ya Mitsrayim kwa nguvu kuu na kwa mkono uliounyoshwa, ⟨אתו⟩ mcheni, na kwake msujudie, na kwake mtoe sadaka.",
+  "translation": "Bali ⟨את⟩ Yahweh, aliyeinua ⟨את⟩ ninyi kutoka katika nchi ya Mitsrayim kwa nguvu kubwa na kwa mkono ulionyoshwa — yeye mtamkhofu, na yeye mtamsujudia, na yeye mtamtolea dhabihu.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Bali"
+      "gloss": "bali"
     },
     {
       "surface": "אם",
-      "gloss": "bali"
+      "gloss": "⟨bali⟩"
     },
     {
       "surface": "את",
@@ -26,24 +26,24 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambaye"
+      "gloss": "aliye"
     },
     {
       "surface": "העלה",
-      "gloss": "aliwatoa"
+      "gloss": "inua"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "kutoka nchi ya Mitsrayim"
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
     },
     {
       "surface": "מארץ",
-      "gloss": "kutoka nchi ya"
+      "gloss": "kutoka katika nchi"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "ya Mitsrayim"
     },
     {
       "surface": "בכח",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "גדול",
-      "gloss": "kuu"
+      "gloss": "kubwa"
     },
     {
       "surface": "ובזרוע",
@@ -59,34 +59,34 @@
     },
     {
       "surface": "נטויה",
-      "gloss": "uliounyoshwa"
+      "gloss": "ulionyoshwa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "mcheni"
+      "gloss": "⟨את⟩",
+      "marks": "yeye (kiima cha mtamkhofu)"
     },
     {
       "surface": "תיראו",
-      "gloss": "mcheni"
+      "gloss": "mtamkhofu"
     },
     {
       "surface": "ולו",
-      "gloss": "na kwake"
+      "gloss": "na yeye"
     },
     {
       "surface": "תשתחוו",
-      "gloss": "msujudie"
+      "gloss": "mtamsujudia"
     },
     {
       "surface": "ולו",
-      "gloss": "na kwake"
+      "gloss": "na yeye"
     },
     {
       "surface": "תזבחו",
-      "gloss": "mtoe sadaka"
+      "gloss": "mtamtolea dhabihu"
     }
   ],
-  "timestamp": "2026-08-10T15:03:14.803243744Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:25.031708997Z",
+  "model": "glm-5.3"
 }

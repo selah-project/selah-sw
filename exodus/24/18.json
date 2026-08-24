@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 24,
-  "translation": "Moshe akaingia katikati ya wingu, akapanda hadi ⟨the⟩ mlima; na Moshe akawa katika ⟨the⟩ mlima siku arobaini na usiku arobaini.",
+  "translation": "Moshe aliingia katikati ya wingu, akapanda ⟨the⟩ mlima; na Moshe alikuwa katika ⟨the⟩ mlima siku arobaini na usiku arobaini.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "akaingia"
+      "gloss": "aliingia"
     },
     {
       "surface": "משה",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "hadi"
+      "gloss": "⟨the⟩ mlima kwenda"
     },
     {
       "surface": "ההר",
-      "gloss": "mlima"
+      "gloss": "⟨the⟩ mlima"
     },
     {
       "surface": "ויהי",
-      "gloss": "na akawa"
+      "gloss": "na alikuwa"
     },
     {
       "surface": "משה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "בהר",
-      "gloss": "katika"
+      "gloss": "katika ⟨the⟩ mlima"
     },
     {
       "surface": "ארבעים",
@@ -64,6 +64,6 @@
       "gloss": "usiku"
     }
   ],
-  "timestamp": "2026-08-10T10:24:46.338052536Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:22.021221195Z",
+  "model": "glm-5.3"
 }

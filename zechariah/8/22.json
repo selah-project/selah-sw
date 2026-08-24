@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Na mataifa mengi na jumuiya zenye nguvu watakuja kumtafuta Yahweh wa majeshi huko Yerushalayim, na kuombea ⟨⟨את⟩⟩ uso wa Yahweh.",
+  "translation": "Na mataifa mengi na wenye nguvu watakuja kutafuta ⟨את⟩ Yahweh wa majeshi Yerushalayim, na kumwombeza ⟨את⟩ uso wa Yahweh.",
   "tokens": [
     {
       "surface": "ובאו",
-      "gloss": "na watakuja"
+      "gloss": "watakuja"
     },
     {
       "surface": "עמים",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "רבים",
-      "gloss": "yengi"
+      "gloss": "mengi"
     },
     {
       "surface": "וגוים",
-      "gloss": "na jumuiya"
+      "gloss": "na taifa"
     },
     {
       "surface": "עצומים",
-      "gloss": "zenye nguvu"
+      "gloss": "wenye nguvu"
     },
     {
       "surface": "לבקש",
-      "gloss": "kumtafuta"
+      "gloss": "kutafuta"
     },
     {
       "surface": "את",
@@ -46,26 +46,26 @@
     },
     {
       "surface": "בירושלם",
-      "gloss": "huko Yerushalayim"
+      "gloss": "Yerushalayim"
     },
     {
       "surface": "ולחלות",
-      "gloss": "na kuombea"
+      "gloss": "na kumwombeza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uso"
+      "marks": "uso wa Yahweh"
     },
     {
       "surface": "פני",
-      "gloss": "uso wa"
+      "gloss": "uso"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T12:52:38.229267554Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:48.842855885Z",
+  "model": "glm-5.3"
 }

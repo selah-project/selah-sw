@@ -5,23 +5,23 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 24,
-  "translation": "Sara mke wa bwana wangu amezaa mwana kwa bwana wangu katika uzee wake; naye amempa ⟨את⟩ vyote ⟨ambvyo⟩ vina ⟨⟨kwake⟩⟩.",
+  "translation": "Na Sarahah, mke wa bwana wangu, alimzalia bwana wangu mwanawe baada ya uzee wake; na ⟨את⟩ yote aliyo nayo akampa yeye.",
   "tokens": [
     {
       "surface": "ותלד",
-      "gloss": "amezaa"
+      "gloss": "alimzalia"
     },
     {
       "surface": "שרה",
-      "gloss": "Sara"
+      "gloss": "Sarahah"
     },
     {
       "surface": "אשת",
-      "gloss": "mke"
+      "gloss": "mke wa"
     },
     {
       "surface": "אדני",
-      "gloss": "wa bwana wangu"
+      "gloss": "bwana wangu"
     },
     {
       "surface": "בן",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "katika"
+      "gloss": "baada ya"
     },
     {
       "surface": "זקנתה",
@@ -41,30 +41,30 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "naye amempa"
+      "gloss": "akampa"
     },
     {
       "surface": "לו",
-      "gloss": "m"
+      "gloss": "yeye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vyote"
+      "marks": "yote aliyo nawa"
     },
     {
       "surface": "כל",
-      "gloss": "vyote"
+      "gloss": "yote"
     },
     {
       "surface": "אשר",
-      "gloss": "ambavyo vina"
+      "gloss": "aliyo"
     },
     {
       "surface": "לו",
-      "gloss": "kwake"
+      "gloss": "nayo"
     }
   ],
-  "timestamp": "2026-08-10T10:07:20.298652511Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:30.768861560Z",
+  "model": "glm-5.3"
 }

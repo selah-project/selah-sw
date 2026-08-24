@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "sw",
   "chapter": 21,
-  "translation": "David akamwambia Yoabu na wakuu wa ⟨וְאֶל⟩ jeshi: Nendeni, kuhesabuni ⟨את⟩ Yisra'el kutoka Beeri-Sheba hata Dan, mkaniletee ⟨nipate kujua⟩ ⟨את⟩ idadi yao.",
+  "translation": "Naye David akamwambia Yoav na wakuu wa ⟨watu⟩ hao: Nendeni, kuhesabu Yisraeli, kutoka Beer-Sheba hata Dan, na muniletee, ili nijue idadi yao.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": "kwenda"
     },
     {
       "surface": "יואב",
-      "gloss": "Yoabu"
+      "gloss": "Yoav"
     },
     {
       "surface": "ואל",
-      "gloss": "na kwa"
+      "gloss": "na kwenda"
     },
     {
       "surface": "שרי",
@@ -33,24 +33,24 @@
     },
     {
       "surface": "העם",
-      "gloss": "taifa"
+      "gloss": "watu"
     },
     {
       "surface": "לכו",
-      "gloss": "nendeni"
+      "gloss": "Nendeni"
     },
     {
       "surface": "ספרו",
-      "gloss": "kuhesabuni"
+      "gloss": "kuhesabu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisra'el"
+      "marks": "Yisraeli"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "מבאר",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "שבע",
-      "gloss": "Beeri-Sheba"
+      "gloss": "Beer-Sheba"
     },
     {
       "surface": "ועד",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "והביאו",
-      "gloss": "mkaniletee"
+      "gloss": "na muniletee"
     },
     {
       "surface": "אלי",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "ואדעה",
-      "gloss": "nipate kujua"
+      "gloss": "ili nijue"
     },
     {
       "surface": "את",
@@ -90,6 +90,6 @@
       "gloss": "idadi yao"
     }
   ],
-  "timestamp": "2026-08-10T14:10:12.265039983Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:42.347657478Z",
+  "model": "glm-5.3"
 }

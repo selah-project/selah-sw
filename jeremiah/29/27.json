@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 29,
-  "translation": "Na sasa kwa nini hujamkemea Yirmeyahu wa ⟨ענתות⟩ ambaye anajitengeneza kuwa nabii kwenu?",
+  "translation": "Na sasa, kwa nini humkamiliki Yirmeyahu wa ⟨ה⟩Anatoti, anayejifanya nabii kwenu?",
   "tokens": [
     {
       "surface": "ועתה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "huja"
+      "gloss": "si"
     },
     {
       "surface": "גערת",
-      "gloss": "mkemea"
+      "gloss": "humkamiliki"
     },
     {
       "surface": "בירמיהו",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "הענתתי",
-      "gloss": "wa ⟨ענתות⟩"
+      "gloss": "wa Anatoti"
     },
     {
       "surface": "המתנבא",
-      "gloss": "anajitengeneza kuwa nabii"
+      "gloss": "anayejifanya nabii"
     },
     {
       "surface": "לכם",
       "gloss": "kwenu"
     }
   ],
-  "timestamp": "2026-08-10T16:10:21.305635959Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:51.455998335Z",
+  "model": "glm-5.3"
 }

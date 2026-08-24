@@ -5,11 +5,11 @@
   "book": "amos",
   "lang": "sw",
   "chapter": 4,
-  "translation": "Na kupitia mapengo mtatoka, mwanamke moja mbele ya ⟨mwenzake⟩, nanyi mtatupwa ⟨⟨kuelekea⟩⟩ Harmon, MANENO ya Yahweh.",
+  "translation": "Na kwenye mianipu mtatoka, kila mwanamke ⟨atakayoelekea⟩ mbele yake, na mtatupwa ⟨kuelekea⟩ Harmon, asema Yahweh.",
   "tokens": [
     {
       "surface": "ופרצים",
-      "gloss": "Na kupitia mapengo"
+      "gloss": "Na kwenye mianipu"
     },
     {
       "surface": "תצאנה",
@@ -17,29 +17,29 @@
     },
     {
       "surface": "אשה",
-      "gloss": "mwanamke"
+      "gloss": "kila mwanamke"
     },
     {
       "surface": "נגדה",
-      "gloss": "mbele ya"
+      "gloss": "mbele yake"
     },
     {
       "surface": "והשלכתנה",
-      "gloss": "nanyi mtatupwa"
+      "gloss": "na mtatupwa"
     },
     {
       "surface": "ההרמונה",
-      "gloss": "Harmon"
+      "gloss": "⟨kuelekea⟩ Harmon"
     },
     {
       "surface": "נאם",
-      "gloss": "MANENO"
+      "gloss": "asema"
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahweh"
+      "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T12:44:19.627978425Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:50.888725180Z",
+  "model": "glm-5.3"
 }

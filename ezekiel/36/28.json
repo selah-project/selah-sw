@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 36,
-  "translation": "Nanyi mtaishi katika nchi aliyoipa ⟨אתם⟩ kwa baba zenu, nanyi mtakuwa kwangu kwa watu, nami mimi nitakuwa kwenu kwa Elohim.",
+  "translation": "Nanyi mtakaa katika ⟨the⟩ nchi niliyowapa baba zenu, na mtakuwa wangu kwa wananchi, na mimi nitakuwa wenu kwa Elohim.",
   "tokens": [
     {
-      "surface": "ושבתם",
-      "gloss": "nanyi mtaishi"
+      "surface": "וישבתם",
+      "gloss": "mtakaa"
     },
     {
       "surface": "בארץ",
@@ -17,31 +17,31 @@
     },
     {
       "surface": "אשר",
-      "gloss": "aliyoipa"
+      "gloss": "iliyo"
     },
     {
       "surface": "נתתי",
-      "gloss": "niliyoihakikisha"
+      "gloss": "niliywapa"
     },
     {
       "surface": "לאבתיכם",
-      "gloss": "kwa baba zenu"
+      "gloss": "baba zenu"
     },
     {
       "surface": "והייתם",
-      "gloss": "nanyi mtakuwa"
+      "gloss": "mtakuwa"
     },
     {
       "surface": "לי",
-      "gloss": "kwangu"
+      "gloss": "wangu"
     },
     {
       "surface": "לעם",
-      "gloss": "kwa watu"
+      "gloss": "kwa wananchi"
     },
     {
       "surface": "ואנכי",
-      "gloss": "nami mimi"
+      "gloss": "na mimi"
     },
     {
       "surface": "אהיה",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "לכם",
-      "gloss": "kwenu"
+      "gloss": "wenu"
     },
     {
       "surface": "לאלהים",
       "gloss": "kwa Elohim"
     }
   ],
-  "timestamp": "2026-08-10T12:36:19.813030943Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:30.409348367Z",
+  "model": "glm-5.3"
 }

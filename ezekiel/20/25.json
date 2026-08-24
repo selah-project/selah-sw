@@ -5,53 +5,53 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 20,
-  "translation": "Hata mimi niliwapa ⟨⟨ם⟩⟩ torati ambazo hazikuwa nzuri, na hukumu ambazo hawangeishi kwa ⟨⟨ן⟩⟩.",
+  "translation": "Mimi pia niliwapa masharti yasiyo mazuri, na hukumu ambazo hawataki hai kwa kuzishika.",
   "tokens": [
     {
-      "surface": "וְגַם",
-      "gloss": "na hata"
+      "surface": "וגם",
+      "gloss": "pia"
     },
     {
-      "surface": "אֲנִי֙",
-      "gloss": "mimi"
+      "surface": "אני",
+      "gloss": "Mimi"
     },
     {
-      "surface": "נָתַ֣תִּי",
-      "gloss": "mepa"
+      "surface": "נתתי",
+      "gloss": "niliwapa"
     },
     {
-      "surface": "לָהֶ֔ם",
+      "surface": "להם",
       "gloss": "kwao"
     },
     {
-      "surface": "חֻקִּ֖ים",
+      "surface": "חקים",
       "gloss": "masharti"
     },
     {
-      "surface": "לֹ֣א",
-      "gloss": "ambazo hazikuwa"
+      "surface": "לא",
+      "gloss": "si"
     },
     {
-      "surface": "טוֹבִ֑ים",
-      "gloss": "nzuri"
+      "surface": "טובים",
+      "gloss": "mazuri"
     },
     {
-      "surface": "וּמִ֨שְׁפָּטִ֔ים",
+      "surface": "ומשפטים",
       "gloss": "na hukumu"
     },
     {
-      "surface": "לֹ֥א",
-      "gloss": "ambazo hawange"
+      "surface": "לא",
+      "gloss": "si"
     },
     {
-      "surface": "יִֽחְי֖וּ",
-      "gloss": "ishi"
+      "surface": "יחיו",
+      "gloss": "wataki hai"
     },
     {
-      "surface": "בָּהֶֽם",
-      "gloss": "kwa hizo"
+      "surface": "בהם",
+      "gloss": "kwa kuzishika"
     }
   ],
-  "timestamp": "2026-08-10T12:32:10.633744237Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:06.091192681Z",
+  "model": "glm-5.3"
 }

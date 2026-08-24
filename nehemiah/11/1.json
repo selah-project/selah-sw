@@ -5,19 +5,19 @@
   "book": "nehemiah",
   "lang": "sw",
   "chapter": 11,
-  "translation": "Na wakuu wa ⟨⟨ha⟩⟩ watu waliishi Yerushalayim, na sehemu iliyosalia ya watu walitoa kura ili kuleta mmoja kati ya kumi kukaa Yerushalayim, mji mtakatifu, na tisa sehemu ⟨katika⟩ miji.",
+  "translation": "Na wakuu wa watu walikaa Yerushalayim; na ⟨⟩ wengineok, habari ya mabano: na waliobaki walitupa kura ili kuleta mmoja kati ya kumi akaje kukaa Yerushalayim, mji mtakatifu, na tisa kati ya kumi wakae katika miji mingine",
   "tokens": [
     {
       "surface": "וישבו",
-      "gloss": "na waliishi"
+      "gloss": "walikaa"
     },
     {
       "surface": "שרי",
-      "gloss": "wakuu wa"
+      "gloss": "wakuu"
     },
     {
       "surface": "העם",
-      "gloss": "watu"
+      "gloss": "wa watu"
     },
     {
       "surface": "בירושלם",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "ושאר",
-      "gloss": "na sehemu iliyosalia ya"
+      "gloss": "na waliobaki"
     },
     {
       "surface": "העם",
-      "gloss": "watu"
+      "gloss": "wa watu"
     },
     {
       "surface": "הפילו",
-      "gloss": "walitoa"
+      "gloss": "walitupa"
     },
     {
       "surface": "גורלות",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "לשבת",
-      "gloss": "kukaa"
+      "gloss": "akaje kukaa"
     },
     {
       "surface": "בירושלם",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "בערים",
-      "gloss": "miji"
+      "gloss": "katika miji"
     }
   ],
-  "timestamp": "2026-08-10T15:41:29.760969895Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:39.289191648Z",
+  "model": "glm-5.3"
 }

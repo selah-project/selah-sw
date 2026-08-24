@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Na miji ile aliyoipa Kuram kwa Shelomoh, Shelomoh akaijenga; akawakalia huko ⟨את⟩ wana wa Yisra'el.",
+  "translation": "Na miji ambayo Huriamu aliipa Shelomoh, Shelomoh aliijenga, akawakalisha hapo ⟨את⟩ wana wa Yisraeli.",
   "tokens": [
     {
       "surface": "והערים",
-      "gloss": "na miji"
+      "gloss": "Na miji"
     },
     {
       "surface": "אשר",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "נתן",
-      "gloss": "aliyoipa"
+      "gloss": "aliipa"
     },
     {
       "surface": "חורם",
-      "gloss": "Kuram"
+      "gloss": "Huriamu"
     },
     {
       "surface": "לשלמה",
-      "gloss": "kwa Shelomoh"
+      "gloss": "Shelomoh"
     },
     {
       "surface": "בנה",
-      "gloss": "akaijenga"
+      "gloss": "aliijenga"
     },
     {
       "surface": "שלמה",
@@ -37,31 +37,31 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "miji"
     },
     {
       "surface": "ויושב",
-      "gloss": "akawakalia"
+      "gloss": "akawakalisha"
     },
     {
       "surface": "שם",
-      "gloss": "huko"
+      "gloss": "hapo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wana wa Yisra'el"
+      "marks": "wana wa Yisraeli"
     },
     {
       "surface": "בני",
-      "gloss": "wana"
+      "gloss": "wana wa"
     },
     {
       "surface": "ישראל",
-      "gloss": "wa Yisra'el"
+      "gloss": "Yisraeli"
     }
   ],
-  "timestamp": "2026-08-10T14:14:02.608368397Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:27.881217404Z",
+  "model": "glm-5.3"
 }

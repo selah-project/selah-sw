@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 16,
-  "translation": "Na mfalme Achaz akaenda kumlaki Tiglath-Pileser mfalme wa Ashur huko Damasheki; na ⟨⟨he⟩⟩ akaona ⟨את⟩ madhabahu iliyokuwepo Damasheki, na mfalme Achaz akamtuma kwa Uriyah kuhani, ⟨akimtumia⟩ ⟨את⟩ mfano wa madhabahu na ⟨את⟩ mpangilio wake, kwa kazi yake yote.",
+  "translation": "Na mfalme Achaz akaenda Dameshki kukutana na Tiglath-Pileser mfalme wa Ashshur, akaona ⟨את⟩ madhabahu iliyokuwa Dameshki, na mfalme Achaz akatuma kwa Uriya kuhani ⟨את⟩ mfano wa madhabahu na ⟨את⟩ mpangilio wake, kwa kazi yake yote.",
   "tokens": [
     {
       "surface": "וילך",
@@ -21,14 +21,14 @@
     },
     {
       "surface": "לקראת",
-      "gloss": "kumlaki"
+      "gloss": "kukutana na"
     },
     {
       "surface": "תגלת",
       "gloss": "Tiglath"
     },
     {
-      "surface": "پلאסר",
+      "surface": "פלאסר",
       "gloss": "Pileser"
     },
     {
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Ashur"
+      "gloss": "Ashshur"
     },
     {
       "surface": "דומשק",
-      "gloss": "Damasheki"
+      "gloss": "Dameshki"
     },
     {
       "surface": "וירא",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "iliyokuwepo"
+      "gloss": "iliyokuwa"
     },
     {
       "surface": "בדמשק",
-      "gloss": "Damasheki"
+      "gloss": "Dameshki"
     },
     {
       "surface": "וישלח",
-      "gloss": "akamtuma"
+      "gloss": "akatuma"
     },
     {
       "surface": "המלך",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "אוריה",
-      "gloss": "Uriyah"
+      "gloss": "Uriya"
     },
     {
       "surface": "הכהן",
@@ -91,7 +91,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mfano"
+      "marks": "mfano wa madhabahu"
     },
     {
       "surface": "דמות",
@@ -103,7 +103,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "na ⟨את⟩",
       "marks": "mpangilio wake"
     },
     {
@@ -116,9 +116,9 @@
     },
     {
       "surface": "מעשהו",
-      "gloss": "kazi yake"
+      "gloss": "ya kazi yake"
     }
   ],
-  "timestamp": "2026-08-10T15:03:09.721148261Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:06.206885874Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Kwa Gershon ⟨⟨nilikuwa na⟩⟩ ukoo wa Mlivni na ukoo wa Mshimei; hawa ndio ukoo wa Wagershoni.",
+  "translation": "Kwa Gershon ⟨ni⟩ ukoo wa Libni na ukoo wa Shimi; hao ndio makoo ya Wagershoni.",
   "tokens": [
     {
       "surface": "לגרשון",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הלבני",
-      "gloss": "Mlivni"
+      "gloss": "Libni"
     },
     {
       "surface": "ומשפחת",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "השמעי",
-      "gloss": "Mshimei"
+      "gloss": "Shimi"
     },
     {
       "surface": "אלה",
-      "gloss": "hawa"
+      "gloss": "hao"
     },
     {
       "surface": "הם",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "משפחת",
-      "gloss": "ukoo wa"
+      "gloss": "makoo ya"
     },
     {
       "surface": "הגרשני",
       "gloss": "Wagershoni"
     }
   ],
-  "timestamp": "2026-08-10T14:36:12.946809884Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:30.258671342Z",
+  "model": "glm-5.3"
 }

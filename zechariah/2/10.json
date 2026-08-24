@@ -5,19 +5,19 @@
   "book": "zechariah",
   "lang": "sw",
   "chapter": 2,
-  "translation": "«Ee, ee! KIMKIMBIE, kutoka nchi ya kaskazini, ni utambuo wa Yahweh; kwa maana kama upepo nne wa mbingu nimewatawanya, ni utambuo wa Yahweh.",
+  "translation": "Hoi, hoi! Kokeni, mkimbie kutoka nchi ya tsafon, anasema Yahweh, kwa kuwa kama pepo nne za mbingu nimewatafanya mtafanye ⟨את⟩ nyinyi, anasema Yahweh.",
   "tokens": [
     {
       "surface": "הוי",
-      "gloss": "ee!"
+      "gloss": "Hoi"
     },
     {
       "surface": "הוי",
-      "gloss": "ee!"
+      "gloss": "Hoi"
     },
     {
       "surface": "ונסו",
-      "gloss": "kIMKIMBIE!"
+      "gloss": "mkimbie"
     },
     {
       "surface": "מארץ",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "צפון",
-      "gloss": "ya kaskazini"
+      "gloss": "ya tsafon"
     },
     {
       "surface": "נאם",
-      "gloss": "ni utambuo wa"
+      "gloss": "anasema"
     },
     {
       "surface": "יהוה",
@@ -37,38 +37,38 @@
     },
     {
       "surface": "כי",
-      "gloss": "kwa maana"
+      "gloss": "kwa kuwa"
     },
     {
       "surface": "כארבע",
-      "gloss": "kama upepo nne"
+      "gloss": "kama nne"
     },
     {
       "surface": "רוחות",
-      "gloss": "wa"
+      "gloss": "pepo"
     },
     {
       "surface": "השמים",
-      "gloss": "mbingu"
+      "gloss": "za mbingu"
     },
     {
       "surface": "פרשתי",
-      "gloss": "nimewatawanya"
+      "gloss": "nimewatafanya mtafanye"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ nyinyi",
       "marks": "nyinyi"
     },
     {
       "surface": "נאם",
-      "gloss": "ni utambuo wa"
+      "gloss": "anasema"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T12:51:29.726570915Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:40.309228024Z",
+  "model": "glm-5.3"
 }

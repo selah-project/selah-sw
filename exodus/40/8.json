@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 40,
-  "translation": "Na utaweka ⟨את⟩ ⟨the⟩ ua uzungukeni, na utaweka ⟨את⟩ pazia la lango la ⟨the⟩ ua.",
+  "translation": "Na utaweka ⟨את⟩ ua pande zote, na utaweka ⟨את⟩ utando wa mlango wa ⟨the⟩ ua.",
   "tokens": [
     {
       "surface": "ושמת",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "סביב",
-      "gloss": "uzungukeni"
+      "gloss": "pande zote"
     },
     {
       "surface": "ונתת",
@@ -31,21 +31,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pazia"
+      "marks": "utando"
     },
     {
       "surface": "מסך",
-      "gloss": "pazia"
+      "gloss": "utando"
     },
     {
       "surface": "שער",
-      "gloss": "la lango"
+      "gloss": "wa mlango"
     },
     {
       "surface": "החצר",
-      "gloss": "la ua"
+      "gloss": "wa ua"
     }
   ],
-  "timestamp": "2026-08-10T10:30:36.151354456Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:57.601048100Z",
+  "model": "glm-5.3"
 }

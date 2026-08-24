@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 23,
-  "translation": "Akasimama Avraham, akainama kwa watu wa ⟨the⟩ nchi, kwa wana wa Cheth.",
+  "translation": "Naye Avraham akaondoka, akainama kwa watu wa ⟨⟩ nchi, ya wana wa Cheth.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "Akasimama"
+      "gloss": "akaondoka"
     },
     {
       "surface": "אברהם",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "לבני",
-      "gloss": "kwa wana wa"
+      "gloss": "ya wana wa"
     },
     {
       "surface": "חת",
       "gloss": "Cheth"
     }
   ],
-  "timestamp": "2026-08-10T14:23:52.682609330Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:00.830412182Z",
+  "model": "glm-5.3"
 }

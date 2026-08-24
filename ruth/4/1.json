@@ -5,11 +5,11 @@
   "book": "ruth",
   "lang": "sw",
   "chapter": 4,
-  "translation": "Na Boaz aliupanda ⟨⟨lango⟩⟩, akaketi huko; na tazama, mkombozi ambaye Boaz alikuwa ameongea naye alipita. Akasema, ``Geuka, keti hapa, fulani so-and-so.'' Akageuka akaketi.",
+  "translation": "Naye Boaz alipanda ⟨⟨lango⟩⟩ akakaa hapo, na tazama, mdhamini (goel) aliyekuwa amezungumza Boaz juu yake alipita; naye akamwambia: Geuka, kukaa hapa, fulani fulani. Naye aligeuka akakaa.",
   "tokens": [
     {
       "surface": "ובעז",
-      "gloss": "Na Boaz"
+      "gloss": "Naye Boaz"
     },
     {
       "surface": "עלה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "וישב",
-      "gloss": "akaketi"
+      "gloss": "akakaa"
     },
     {
       "surface": "שם",
-      "gloss": "huko"
+      "gloss": "hapo"
     },
     {
       "surface": "והנה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הגאל",
-      "gloss": "mkombozi"
+      "gloss": "mdhamini (goel)"
     },
     {
       "surface": "עבר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambaye"
+      "gloss": "aliyekuwa"
     },
     {
       "surface": "דבר",
-      "gloss": "ameongea"
+      "gloss": "amezungumza"
     },
     {
       "surface": "בעז",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "akasema"
+      "gloss": "akamwambia"
     },
     {
       "surface": "סורה",
-      "gloss": "geuka"
+      "gloss": "Geuka"
     },
     {
       "surface": "שבה",
-      "gloss": "keti"
+      "gloss": "kukaa"
     },
     {
       "surface": "פה",
@@ -73,17 +73,17 @@
     },
     {
       "surface": "אלמני",
-      "gloss": "so-and-so"
+      "gloss": "fulani"
     },
     {
       "surface": "ויסר",
-      "gloss": "akageuka"
+      "gloss": "aligeuka"
     },
     {
       "surface": "וישב",
-      "gloss": "akaketi"
+      "gloss": "akakaa"
     }
   ],
-  "timestamp": "2026-08-10T15:36:57.089806148Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:09.667922761Z",
+  "model": "glm-5.3"
 }

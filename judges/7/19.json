@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Gidoni akaingia, na watu mia walio ⟨את⟩ pamoja naye, mwanzoni mwa kipindi cha kati cha usiku, kile cha mwanzo cha ulinzi wameshaweka; wakapuliza ⟨⟨את⟩⟩ mashofara na kuvunja vyungo vilivyokuwa mikoni mwao.",
+  "translation": "Gideon akaingia, yeye na watu mia moja walio ⟨pamoja naye⟩, katika ukingo wa kambi, mwanzo wa kipindi cha usiku cha kati, walipokuwa wangali tu wameinua ⟨את⟩ walinzi; wakapiga baragumu, wakavunja vyombo vilivyokuwa mikononi mwao.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "גדעון",
-      "gloss": "Gidioni"
+      "gloss": "Gideon"
     },
     {
       "surface": "ומאה",
@@ -29,39 +29,39 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ pamoja naye"
+      "gloss": "⟨את⟩ pamoja (naye)"
     },
     {
       "surface": "בקצה",
-      "gloss": "mwanzoni"
+      "gloss": "katika ukingo wa"
     },
     {
       "surface": "המחנה",
-      "gloss": "mwa kambi"
+      "gloss": "kambi"
     },
     {
       "surface": "ראש",
-      "gloss": "kipindi cha kati cha usiku"
+      "gloss": "mwanzo wa"
     },
     {
       "surface": "האשמרת",
-      "gloss": "uliosisimama"
+      "gloss": "kipindi cha usiku"
     },
     {
       "surface": "התיכונה",
-      "gloss": "kipindi cha kati"
+      "gloss": "cha kati"
     },
     {
       "surface": "אך",
-      "gloss": "kile cha mwanzo"
+      "gloss": "tu"
     },
     {
       "surface": "הקם",
-      "gloss": "wameshaweka"
+      "gloss": "wameinua"
     },
     {
       "surface": "הקימו",
-      "gloss": "walioweka"
+      "gloss": "walipoinua"
     },
     {
       "surface": "את",
@@ -74,19 +74,19 @@
     },
     {
       "surface": "ויתקעו",
-      "gloss": "wakapuliza"
+      "gloss": "wakapiga"
     },
     {
       "surface": "בשופרות",
-      "gloss": "mashofara"
+      "gloss": "baragumu"
     },
     {
       "surface": "ונפוץ",
-      "gloss": "na kuvunja"
+      "gloss": "wakavunja"
     },
     {
       "surface": "הכדים",
-      "gloss": "vyungo"
+      "gloss": "vyombo"
     },
     {
       "surface": "אשר",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "בידם",
-      "gloss": "mikoni mwao"
+      "gloss": "mikononi mwao"
     }
   ],
-  "timestamp": "2026-08-10T11:15:01.706664815Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:51.782237600Z",
+  "model": "glm-5.3"
 }

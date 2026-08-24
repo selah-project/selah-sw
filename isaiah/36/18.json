@@ -5,19 +5,19 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 36,
-  "translation": "Asije Chizkiyahu akawapotosha ⟨אתכם⟩, akisema: Yahweh atatuokoa. Je, miungu ya mataifa, kila mmoja nchi yake, wamewahi kuiokoa ⟨את⟩ nchi yake mikononi mwa mfalme wa Ashuru?",
+  "translation": "Msije kudanganyika ⟨את⟩ ninyi Chizkiyahu akisema, Yahweh atatuokoa. Je, Eli wa mataifa wamewahi kuokoa ⟨את⟩ nchi ya kila mmoja, katika mkono wa mfalme wa Ashshur?",
   "tokens": [
     {
       "surface": "פן",
-      "gloss": "asije"
+      "gloss": "msije"
     },
     {
       "surface": "יסית",
-      "gloss": "akawapotosha"
+      "gloss": "kudanganyika"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩",
       "marks": "ninyi"
     },
     {
@@ -38,24 +38,24 @@
     },
     {
       "surface": "ההצילו",
-      "gloss": "je, wamewahi kuiokoa"
+      "gloss": "wamewahi kuokoa"
     },
     {
       "surface": "אלהי",
-      "gloss": "miungu ya"
+      "gloss": "Eli"
     },
     {
       "surface": "הגוים",
-      "gloss": "mataifa"
+      "gloss": "wa mataifa"
     },
     {
       "surface": "איש",
-      "gloss": "mmojammoja"
+      "gloss": "kila mmoja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nchi yake"
+      "marks": "nchi ya kila mmoja"
     },
     {
       "surface": "ארצו",
@@ -63,17 +63,17 @@
     },
     {
       "surface": "מיד",
-      "gloss": "mikononi mwa"
+      "gloss": "katika mkono"
     },
     {
       "surface": "מלך",
-      "gloss": "mfalme"
+      "gloss": "wa mfalme"
     },
     {
       "surface": "אשור",
-      "gloss": "wa Ashuru"
+      "gloss": "Ashshur"
     }
   ],
-  "timestamp": "2026-08-10T16:07:16.758871450Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:40.452990965Z",
+  "model": "glm-5.3"
 }

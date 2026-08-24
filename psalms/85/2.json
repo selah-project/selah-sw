@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 85,
-  "translation": "Umeridhika, ee Yahweh, na nchi yako; umeirejesha ⟨את⟩ mateka ya Yaakob.",
+  "translation": "Umeridhika, ee Yahweh, na nchi yako; umeirejesha mateka ya Yaakob.",
   "tokens": [
     {
       "surface": "רצית",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שבות",
-      "gloss": "⟨את⟩ mateka",
+      "gloss": "mateka",
       "marks": "mateka"
     },
     {
@@ -33,6 +33,6 @@
       "gloss": "ya Yaakob"
     }
   ],
-  "timestamp": "2026-08-10T13:09:50.049234642Z",
+  "timestamp": "2026-08-24T19:06:27.318542509Z",
   "model": "glm-5.2"
 }

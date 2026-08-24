@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 32,
-  "translation": "«Je, si Yechizkiyahu anawashawishi ninyi ⟨⟨את⟩⟩ ili awatie ninyi ⟨⟨את⟩⟩ kufa kwa njaa na kwa kiu, akisema: Yahweh Elohim wetu atatuokoa kutoka mkononi mwa mfalme wa Ashur?»",
+  "translation": "Je, si Chizkiyahu anayewahadaa nyinyi ⟨את⟩ kutoa nyinyi ⟨את⟩ kufa kwa njaa na kiu, akisema: Yahweh Elohim wetu atatuokoa kutoka mkononi wa mfalme wa Ashur?",
   "tokens": [
     {
       "surface": "הלא",
@@ -13,25 +13,25 @@
     },
     {
       "surface": "יחזקיהו",
-      "gloss": "Yechizkiyahu"
+      "gloss": "Chizkiyahu"
     },
     {
       "surface": "מסית",
-      "gloss": "anawashawishi"
+      "gloss": "anayewahadaa"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "ninyi"
+      "marks": "nyinyi (kutoa)"
     },
     {
       "surface": "לתת",
-      "gloss": "ili awatie"
+      "gloss": "kutoa"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "ninyi"
+      "marks": "nyinyi (kufa)"
     },
     {
       "surface": "למות",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "ובצמא",
-      "gloss": "na kwa kiu"
+      "gloss": "na kiu"
     },
     {
       "surface": "לאמר",
@@ -63,17 +63,17 @@
     },
     {
       "surface": "מכף",
-      "gloss": "kutoka mkononi mwa"
+      "gloss": "kutoka mkononi"
     },
     {
       "surface": "מלך",
-      "gloss": "mfalme"
+      "gloss": "wa mfalme"
     },
     {
       "surface": "אשור",
-      "gloss": "Ashur"
+      "gloss": "wa Ashur"
     }
   ],
-  "timestamp": "2026-08-10T14:20:01.110139245Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:59.141229113Z",
+  "model": "glm-5.3"
 }

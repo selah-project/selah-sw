@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 16,
-  "translation": "Ikawa alipokamilisha kusema ⟨את⟩ maneno yote haya, ⟨the⟩ nchi ilipasuka ambayo ⟨ilikuwa⟩ chini yao.",
+  "translation": "Ikawa alipokwisha kunena ⟨את⟩ maneno yote haya, ardhi iliyokuwa chini yao ikapasuka.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ikawa"
+      "gloss": "Ikawa"
     },
     {
       "surface": "ככלתו",
-      "gloss": "alipokamilisha"
+      "gloss": "alipokwisha"
     },
     {
       "surface": "לדבר",
-      "gloss": "kusema"
+      "gloss": "kunena"
     },
     {
       "surface": "את",
@@ -38,21 +38,21 @@
     },
     {
       "surface": "ותבקע",
-      "gloss": "ilipasuka"
+      "gloss": "ikapasuka"
     },
     {
       "surface": "האדמה",
-      "gloss": "nchi"
+      "gloss": "ardhi"
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "iliyokuwa"
     },
     {
       "surface": "תחתיהם",
       "gloss": "chini yao"
     }
   ],
-  "timestamp": "2026-08-10T10:46:46.106597258Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:10.671250968Z",
+  "model": "glm-5.3"
 }

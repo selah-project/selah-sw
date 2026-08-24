@@ -5,19 +5,19 @@
   "book": "daniel",
   "lang": "sw",
   "chapter": 9,
-  "translation": "Kama ilivyoandikwa katika torati ya Moshe, ⟨את⟩ dhambi hii yote imekuja juu yetu, wala hatukuomba ⟨⟨את⟩ uso wa Yahweh Elohim wetu kurejea katika uovu wetu na kupata busara katika kweli yako.",
+  "translation": "Kama ilivyoandikwa katika Torati ya Moshe, ⟨את⟩ mabaya yote haya yametujia; wala hatukupata ⟨את⟩ uso wa Yahweh Elohim wetu ili tutubu kutoka maovu yetu na tufahamu katika ukweli wako.",
   "tokens": [
     {
       "surface": "כאשר",
-      "gloss": "kama"
+      "gloss": "kama ilivyo"
     },
     {
       "surface": "כתוב",
-      "gloss": "imeandikwa"
+      "gloss": "andikwa"
     },
     {
       "surface": "בתורת",
-      "gloss": "katika torati"
+      "gloss": "katika Torati"
     },
     {
       "surface": "משה",
@@ -26,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dhambi hii yote"
+      "marks": "mabaya yote haya"
     },
     {
       "surface": "כל",
@@ -34,40 +34,40 @@
     },
     {
       "surface": "הרעה",
-      "gloss": "dhambi"
+      "gloss": "mabaya haya"
     },
     {
       "surface": "הזאת",
-      "gloss": "hii"
+      "gloss": "haya"
     },
     {
       "surface": "באה",
-      "gloss": "imekuja"
+      "gloss": "yametujia"
     },
     {
       "surface": "עלינו",
-      "gloss": "juu yetu"
+      "gloss": "tusikuwe"
     },
     {
       "surface": "ולא",
-      "gloss": "wala hatuku"
+      "gloss": "wala hatu"
     },
     {
       "surface": "חלינו",
-      "gloss": "omba"
+      "gloss": "kupata"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uso"
+      "marks": "uso wa Yahweh Elohim wetu"
     },
     {
       "surface": "פני",
-      "gloss": "uso wa"
+      "gloss": "uso"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "wa Yahweh"
     },
     {
       "surface": "אלהינו",
@@ -75,21 +75,21 @@
     },
     {
       "surface": "לשוב",
-      "gloss": "kurejea"
+      "gloss": "ili tutubu"
     },
     {
       "surface": "מעוננו",
-      "gloss": "katika uovu wetu"
+      "gloss": "kutoka maovu yetu"
     },
     {
       "surface": "ולהשכיל",
-      "gloss": "na kupata busara"
+      "gloss": "na tufahamu"
     },
     {
       "surface": "באמתך",
-      "gloss": "katika kweli yako"
+      "gloss": "katika ukweli wako"
     }
   ],
-  "timestamp": "2026-08-10T13:54:48.429766174Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:10.283288116Z",
+  "model": "glm-5.3"
 }

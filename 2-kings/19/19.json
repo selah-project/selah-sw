@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 19,
-  "translation": "Na sasa, ee Yahweh Elohim wetu, okoa tafadhali kutoka mkononi mwake, ili ufalme wote wa ⟨⟨hiyo⟩⟩ nchi wajue kwamba wewe pekee Yahweh ndiye Elohim.",
+  "translation": "Na sasa, Yahweh Elohim wetu, tuokoe tafadhali kutoka mkononi mwake, ili ufalme wote wa dunia ujue kwamba wewe pekee, Yahweh, ndiye Elohim.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הושיענו",
-      "gloss": "okoa"
+      "gloss": "tuokoe"
     },
     {
       "surface": "נא",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "וידעו",
-      "gloss": "ili wajue"
+      "gloss": "ili ujue"
     },
     {
       "surface": "כל",
-      "gloss": "wote wa"
+      "gloss": "wote"
     },
     {
       "surface": "ממלכות",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "nchi"
+      "gloss": "wa dunia"
     },
     {
       "surface": "כי",
@@ -68,6 +68,6 @@
       "gloss": "pekee"
     }
   ],
-  "timestamp": "2026-08-10T11:52:51.270527507Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:26.566173843Z",
+  "model": "glm-5.3"
 }

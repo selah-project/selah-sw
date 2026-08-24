@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 33,
-  "translation": "Nayo watu wa ⟨הארץ⟩ nchi wakapiga ⟨את⟩ wote wa njama dhidi ya mfalme Amoni, nayo watu wa ⟨הארץ⟩ nchi wakimfanya Yeshiahu mwanae kuwa mfalme badala yake.",
+  "translation": "Nao watu wa ⟨nchi⟩ waliwaua ⟨את⟩ wote waliokuwa wamepanga njama mfalme Amoni; nao watu wa ⟨nchi⟩ waliweka ufalme Yoashiya mwanae mahali pake.",
   "tokens": [
     {
       "surface": "ויכו",
-      "gloss": "wakapiga"
+      "gloss": "waliwaua"
     },
     {
       "surface": "עם",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨wa⟩ nchi"
+      "gloss": "wa ⟨nchi⟩"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wote wa njama"
+      "marks": "wote waliopanga njama"
     },
     {
       "surface": "כל",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "הקשרים",
-      "gloss": "wa njama"
+      "gloss": "waliopanga njama"
     },
     {
       "surface": "על",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "וימליכו",
-      "gloss": "wakimfanya kuwa mfalme"
+      "gloss": "waliweka ufalme"
     },
     {
       "surface": "עם",
@@ -54,16 +54,16 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨wa⟩ nchi"
+      "gloss": "wa ⟨nchi⟩"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yeshiahu"
+      "marks": "Yoashiya"
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Yeshiahu"
+      "gloss": "Yoashiya"
     },
     {
       "surface": "בנו",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "תחתיו",
-      "gloss": "badala yake"
+      "gloss": "mahali pake"
     }
   ],
-  "timestamp": "2026-08-10T14:19:57.472115690Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:54.815527193Z",
+  "model": "glm-5.3"
 }

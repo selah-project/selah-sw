@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 42,
-  "translation": "Ikiwa ni jema au ikiwa ni baya, ⟨tutaitii⟩ sauti ya Yahweh Mungu wetu ambaye sisi tunakutuma ⟨את⟩ewe kwenda kwake, ili iwepo ⟨⟨ni⟩zuri⟩ kwetu, kwa maana tutaiisikia sauti ya Yahweh Mungu wetu.",
+  "translation": "Ikiwa ni jema au ikiwa ni baya, kwa sauti ya Yahweh Elohim wetu ambaye sisi tunakutuma ⟨את⟩ kwake, tutasikiliza, ili tuwe na fanaka, kwa sababu tutasikiliza kwa sauti ya Yahweh Elohim wetu.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "Ikiwa"
+      "gloss": "ikiwa"
     },
     {
       "surface": "טוב",
-      "gloss": "ni jema"
+      "gloss": "jema"
     },
     {
       "surface": "ואם",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "רע",
-      "gloss": "ni baya"
+      "gloss": "baya"
     },
     {
       "surface": "בקול",
-      "gloss": "sauti"
+      "gloss": "kwa sauti ya"
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהינו",
-      "gloss": "Mungu wetu"
+      "gloss": "Elohim wetu"
     },
     {
       "surface": "אשר",
@@ -50,15 +50,15 @@
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "ewe"
+      "marks": "wewe (kitu kilichotajwa: tunakutuma)"
     },
     {
       "surface": "אליו",
-      "gloss": "kwenda kwake"
+      "gloss": "kwake"
     },
     {
       "surface": "נשמע",
-      "gloss": "⟨tutaitii⟩"
+      "gloss": "tutasikiliza"
     },
     {
       "surface": "למען",
@@ -66,37 +66,37 @@
     },
     {
       "surface": "אשר",
-      "gloss": "iwepo"
+      "gloss": "⟨kwamba⟩"
     },
     {
       "surface": "ייטב",
-      "gloss": "⟨⟨ni⟩zuru⟩"
+      "gloss": "tuwe na fanaka"
     },
     {
       "surface": "לנו",
-      "gloss": "kwetu"
+      "gloss": "sisi"
     },
     {
       "surface": "כי",
-      "gloss": "kwa maana"
+      "gloss": "kwa sababu"
     },
     {
       "surface": "נשמע",
-      "gloss": "tutaiisikia"
+      "gloss": "tutasikiliza"
     },
     {
       "surface": "בקול",
-      "gloss": "sauti"
+      "gloss": "kwa sauti ya"
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהינו",
-      "gloss": "Mungu wetu"
+      "gloss": "Elohim wetu"
     }
   ],
-  "timestamp": "2026-08-10T12:22:44.425673369Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:56.390807726Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Kwa maana hivyo alisema Yahweh Tseva'ot: Kama nilivyopanga mipango ya kuleta maovu kwenu katika kuhasihasi mababa yenu ⟨⟨את⟩ niliye⟩, asema Yahweh Tseva'ot, wala sikajuta.",
+  "translation": "Kwa maana ndivyo alivyosema Yahweh wa majeshi: Kama nilivyopanga kuwadhuru wenu, baba zenu waliponikasirisha ⟨את⟩ mimi, asema Yahweh wa majeshi, wala sikubadilisha ⟨maoni yangu⟩;",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "hivyo"
+      "gloss": "ndivyo"
     },
     {
       "surface": "אמר",
-      "gloss": "alisema"
+      "gloss": "alivyosema"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tseva'ot"
+      "gloss": "wa majeshi"
     },
     {
       "surface": "כאשר",
@@ -33,27 +33,28 @@
     },
     {
       "surface": "זממתי",
-      "gloss": "nilivyopanga mipango"
+      "gloss": "nilivyopanga"
     },
     {
       "surface": "להרע",
-      "gloss": "ya kuleta maovu"
+      "gloss": "kuwadhuru"
     },
     {
       "surface": "לכם",
-      "gloss": "kwenu"
+      "gloss": "wenu"
     },
     {
       "surface": "בהקציף",
-      "gloss": "katika kuhasihasi"
+      "gloss": "waliponikasirisha"
     },
     {
       "surface": "אבתיכם",
-      "gloss": "mababa yenu"
+      "gloss": "baba zenu"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ niliye"
+      "gloss": "⟨את⟩",
+      "marks": "mimi"
     },
     {
       "surface": "אמר",
@@ -65,7 +66,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tseva'ot"
+      "gloss": "wa majeshi"
     },
     {
       "surface": "ולא",
@@ -73,9 +74,9 @@
     },
     {
       "surface": "נחמתי",
-      "gloss": "sikajuta"
+      "gloss": "kubadilisha maoni yangu"
     }
   ],
-  "timestamp": "2026-08-10T12:52:06.474739117Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:09.489836911Z",
+  "model": "glm-5.3"
 }

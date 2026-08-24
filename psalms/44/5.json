@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 44,
-  "translation": "Wewe ndiwe mfalme wangu, Elohim; amuru ⟨⟨maokovu⟩⟩ ya Yaakov.",
+  "translation": "Wewe ndiwe mfalme wangu, Elohim; amuru ⟨⟨⟩⟩x0 kuinua kwa Yakov.",
   "tokens": [
     {
-      "surface": "אַתָּה",
-      "gloss": "wewe"
+      "surface": "אתה",
+      "gloss": "Wewe"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "ndiwe"
     },
     {
-      "surface": "מַלְכִּי",
+      "surface": "מלכי",
       "gloss": "mfalme wangu"
     },
     {
-      "surface": "אֱלֹהִים",
+      "surface": "אלהים",
       "gloss": "Elohim"
     },
     {
-      "surface": "צַוֵּה",
+      "surface": "צוה",
       "gloss": "amuru"
     },
     {
-      "surface": "יְשׁוּעֹת",
-      "gloss": "maokovu"
+      "surface": "ישועות",
+      "gloss": "kuokolewa"
     },
     {
-      "surface": "יַעֲקֹב",
-      "gloss": "ya Yaakov"
+      "surface": "יעקב",
+      "gloss": "Yakov"
     }
   ],
-  "timestamp": "2026-08-10T15:25:47.654901306Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:33.499498104Z",
+  "model": "glm-5.3"
 }

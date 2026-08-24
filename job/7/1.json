@@ -5,41 +5,41 @@
   "book": "job",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Je, sivyo? ⟨⟨Jeshi⟩⟩ limewekwa kwa ⟨אנוש⟩ juu ya nchi, na siku zake ni kama siku za mjinga wa kulipwa?",
+  "translation": "Je, si vita kwa mwanadamu juu ya ardhi? Na siku zake ni kama siku za mjinga wa kulipwa?",
   "tokens": [
     {
-      "surface": "הֲלֹא",
-      "gloss": "Je, sivyo?"
+      "surface": "הלא",
+      "gloss": "Je, si"
     },
     {
-      "surface": "צָבָ֣א",
-      "gloss": "jeshi"
+      "surface": "צבא",
+      "gloss": "vita"
     },
     {
-      "surface": "לֶאֱנ֣וֹשׁ",
-      "gloss": "kwa ⟨אנוש⟩"
+      "surface": "לאנוש",
+      "gloss": "kwa mwanadamu"
     },
     {
       "surface": "על",
       "gloss": "juu ya"
     },
     {
-      "surface": "אָ֑רֶץ",
-      "gloss": "nchi"
+      "surface": "ארץ",
+      "gloss": "ardhi"
     },
     {
-      "surface": "וְכִימֵ֖י",
-      "gloss": "na kama siku za"
+      "surface": "וכימי",
+      "gloss": "Na kama siku za"
     },
     {
-      "surface": "שָׂכִ֣יר",
+      "surface": "שכיר",
       "gloss": "mjinga wa kulipwa"
     },
     {
-      "surface": "יָמָֽיו",
+      "surface": "ימיו",
       "gloss": "siku zake"
     }
   ],
-  "timestamp": "2026-08-10T13:32:32.392524504Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:15.103697705Z",
+  "model": "glm-5.3"
 }

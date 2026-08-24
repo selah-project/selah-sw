@@ -5,58 +5,58 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 50,
-  "translation": "Karibu ⟨yule⟩ anayenitetea; ni nani atakayeniibia ⟨אתי⟩? Tuisimame pamoja; ni nani mwenye haki ya kesi yangu? Na aje karibu nami.",
+  "translation": "Karibu ⟨ni⟩ yeye anayenihakikishia; ni nani atakayebishana ⟨את⟩ nami? Twasimike pamoja; ni nani mwenye daawa dhidi ya hukumu yangu? Ajikaribishe kwangu.",
   "tokens": [
     {
-      "surface": "קָרוֹב֙",
+      "surface": "קרוב",
       "gloss": "Karibu"
     },
     {
-      "surface": "מַצְדִּיקִ֔י",
-      "gloss": "anayenitetea"
+      "surface": "מצדיקי",
+      "gloss": "anayenihakikishia"
     },
     {
-      "surface": "מִֽי",
+      "surface": "מי",
       "gloss": "ni nani"
     },
     {
-      "surface": "יָרִ֥יב",
-      "gloss": "atakayeniibia"
+      "surface": "יריב",
+      "gloss": "atakayebishana"
     },
     {
-      "surface": "אִתִּ֖י",
-      "gloss": "⟨את⟩",
-      "marks": "mimi"
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nami",
+      "marks": "nami"
     },
     {
-      "surface": "נַ֣עַמְדָה",
-      "gloss": "Tuisimame"
+      "surface": "נעמדה",
+      "gloss": "Twasimike"
     },
     {
-      "surface": "יָּ֑חַד",
+      "surface": "יחד",
       "gloss": "pamoja"
     },
     {
-      "surface": "מִֽי",
+      "surface": "מי",
       "gloss": "ni nani"
     },
     {
-      "surface": "בַּעַל",
-      "gloss": "mwenye"
+      "surface": "בעל",
+      "gloss": "mwenye daawa dhidi ya"
     },
     {
-      "surface": "מִשְׁפָּטִ֖י",
-      "gloss": "haki ya kesi yangu"
+      "surface": "משפטי",
+      "gloss": "hukumu yangu"
     },
     {
-      "surface": "יִגַּ֥שׁ",
-      "gloss": "Na aje"
+      "surface": "יגש",
+      "gloss": "Ajikaribishe"
     },
     {
-      "surface": "אֵלָֽי",
-      "gloss": "karibu nami"
+      "surface": "אלי",
+      "gloss": "kwangu"
     }
   ],
-  "timestamp": "2026-08-10T12:07:12.654527494Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:13.589185880Z",
+  "model": "glm-5.3"
 }

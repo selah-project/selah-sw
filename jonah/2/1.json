@@ -5,11 +5,11 @@
   "book": "jonah",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Na Yahweh akimandalia samaki mkubwa kumeza ⟨את⟩ Yonah, na Yonah akawa tumboni mwa ⟨⟨hao⟩⟩ samaki siku tatu na masiku matatu.",
+  "translation": "Ndiyo Yahweh alimpa ⟨את⟩ dagaa kubwa limleme Yonah; na Yonah akawa matumboni mwa dagaa siku tatu na usiku tatu.",
   "tokens": [
     {
       "surface": "וימן",
-      "gloss": "Na akamandalia"
+      "gloss": "akam pa"
     },
     {
       "surface": "יהוה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "דג",
-      "gloss": "samaki"
+      "gloss": "dagaa"
     },
     {
       "surface": "גדול",
-      "gloss": "mkubwa"
+      "gloss": "kubwa"
     },
     {
       "surface": "לבלע",
-      "gloss": "kumeza"
+      "gloss": "limleme"
     },
     {
       "surface": "את",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "na akawa"
+      "gloss": "akawa"
     },
     {
       "surface": "יונה",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "במעי",
-      "gloss": "tumboni mwa"
+      "gloss": "matumboni mwa"
     },
     {
       "surface": "הדג",
-      "gloss": "samaki"
+      "gloss": "⟨the⟩ dagaa"
     },
     {
       "surface": "שלשה",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "ושלשה",
-      "gloss": "na matatu"
+      "gloss": "na tatu"
     },
     {
       "surface": "לילות",
-      "gloss": "masiku"
+      "gloss": "usiku"
     }
   ],
-  "timestamp": "2026-08-10T15:21:39.179161438Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:11.431886617Z",
+  "model": "glm-5.3"
 }

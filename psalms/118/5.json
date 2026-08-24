@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 118,
-  "translation": "Katika dhiki nilimwita Yah; ⟨⟨yeye⟩⟩ alinijalia katika nafasi pana, Yah.",
+  "translation": "Kutoka katika dhiki nilimwita Yah; Yah alinijibu ⟨katika⟩ panene.",
   "tokens": [
     {
       "surface": "מן",
-      "gloss": "Katika"
+      "gloss": "Kutoka"
     },
     {
       "surface": "המצר",
-      "gloss": "dhiki"
+      "gloss": "katika dhiki"
     },
     {
       "surface": "קראתי",
@@ -25,17 +25,17 @@
     },
     {
       "surface": "ענני",
-      "gloss": "alinijalia"
+      "gloss": "alinijibu"
     },
     {
       "surface": "במרחב",
-      "gloss": "katika nafasi pana"
+      "gloss": "⟨katika⟩ panene"
     },
     {
       "surface": "יה",
       "gloss": "Yah"
     }
   ],
-  "timestamp": "2026-08-10T15:29:03.496631430Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:49.087967400Z",
+  "model": "glm-5.3"
 }

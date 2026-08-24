@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 5,
-  "translation": "Au mtu ambayo roho ya wivu inampita juu yake, na kushikilia wivu juu ya ⟨את⟩ mke wake, na kumweka ⟨את⟩ ⟨the⟩ mbele ya Yahweh, na kuhani atamfanyia ⟨את⟩ ⟨the⟩ torati hii yote.",
+  "translation": "Au mwanamume ambaye roho ya wivu inamvuka, naye akawivu ⟨את⟩ mkewe, naye akamsimamisha ⟨את⟩ ⟨the⟩ mwanamke mbele za Yahweh, na kuhani amfanyie ⟨את⟩ yote ⟨the⟩ torati hii.",
   "tokens": [
     {
       "surface": "או",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "mtu"
+      "gloss": "mwanamume"
     },
     {
       "surface": "אשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תעבר",
-      "gloss": "inampita"
+      "gloss": "inamvuka"
     },
     {
       "surface": "עליו",
@@ -37,33 +37,33 @@
     },
     {
       "surface": "וקנא",
-      "gloss": "na kushikilia wivu"
+      "gloss": "naye akawivu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mke wake"
+      "marks": "mkewe"
     },
     {
       "surface": "אשתו",
-      "gloss": "mke wake"
+      "gloss": "mkewe"
     },
     {
       "surface": "והעמיד",
-      "gloss": "na kumweka"
+      "gloss": "naye akamsimamisha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mke"
+      "marks": "⟨the⟩ mwanamke"
     },
     {
       "surface": "האשה",
-      "gloss": "mke"
+      "gloss": "⟨the⟩ mwanamke"
     },
     {
       "surface": "לפני",
-      "gloss": "mbele ya"
+      "gloss": "mbele za"
     },
     {
       "surface": "יהוה",
@@ -71,11 +71,11 @@
     },
     {
       "surface": "ועשה",
-      "gloss": "na kuhani atamfanyia"
+      "gloss": "na amfanyie"
     },
     {
       "surface": "לה",
-      "gloss": "mke"
+      "gloss": "yeye"
     },
     {
       "surface": "הכהן",
@@ -84,7 +84,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "torati yote"
+      "marks": "yote ⟨the⟩ torati hii"
     },
     {
       "surface": "כל",
@@ -92,13 +92,13 @@
     },
     {
       "surface": "התורה",
-      "gloss": "torati"
+      "gloss": "⟨the⟩ torati"
     },
     {
       "surface": "הזאת",
       "gloss": "hii"
     }
   ],
-  "timestamp": "2026-08-10T10:41:18.270503032Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:27.027729606Z",
+  "model": "glm-5.3"
 }

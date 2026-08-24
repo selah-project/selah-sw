@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 11,
-  "translation": "Naye Yahweh akawatawanya ⟨אתם⟩ kutoka huko juu ya uso wa nchi yote; nao wakaacha kuijenga ⟨את⟩ jiji.",
+  "translation": "Ndiyo Yahweh aliwatawanya ⟨את⟩ wao kutoka hapo juu ya uso wa nchi yote; nao wakaacha kujenga ⟨את⟩ mji.",
   "tokens": [
     {
       "surface": "ויפץ",
-      "gloss": "akawatawanya"
+      "gloss": "aliwatawanya"
     },
     {
       "surface": "יהוה",
@@ -17,12 +17,11 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "wao"
+      "gloss": "⟨את⟩ wao"
     },
     {
       "surface": "משם",
-      "gloss": "kutoka huko"
+      "gloss": "kutoka hapo"
     },
     {
       "surface": "על",
@@ -42,17 +41,17 @@
     },
     {
       "surface": "ויחדלו",
-      "gloss": "na wakaacha"
+      "gloss": "wakaacha"
     },
     {
       "surface": "לבנת",
-      "gloss": "kuijenga"
+      "gloss": "kujenga"
     },
     {
       "surface": "העיר",
-      "gloss": "jiji"
+      "gloss": "mji"
     }
   ],
-  "timestamp": "2026-08-10T10:03:35.057221258Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:13.824773166Z",
+  "model": "glm-5.3"
 }

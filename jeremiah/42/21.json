@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 42,
-  "translation": "Nami nikawajulisha leo, lakini hamkusikiliza kwa sauti ya Yahweh Elohim wenu, wala ⟨hatukutii⟩ katika chochote ambacho ⟨⟨alichenipa⟩⟩ nilipotumwa kwenu.",
+  "translation": "Nawajulishaieni leo, lakini hamkusikiliza sauti ya Yahweh Elohim wenu, wala lolote ⟨alo⟩ nilotumwa kwenu.",
   "tokens": [
     {
       "surface": "ואגד",
-      "gloss": "nikawajulisha"
+      "gloss": "nawajulisheni"
     },
     {
       "surface": "לכם",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "ולא",
-      "gloss": "lakini hamkusikiliza"
+      "gloss": "lakini hamku-"
     },
     {
       "surface": "שמעתם",
-      "gloss": "sauti"
+      "gloss": "sikiliza"
     },
     {
       "surface": "בקול",
-      "gloss": "kwa"
+      "gloss": "sauti ya"
     },
     {
       "surface": "יהוה",
@@ -41,21 +41,21 @@
     },
     {
       "surface": "ולכל",
-      "gloss": "wala katika chochote"
+      "gloss": "wala lolote"
     },
     {
       "surface": "אשר",
-      "gloss": "ambacho"
+      "gloss": "⟨alo⟩"
     },
     {
       "surface": "שלחני",
-      "gloss": "aliponituma"
+      "gloss": "nilotumwa"
     },
     {
       "surface": "אליכם",
       "gloss": "kwenu"
     }
   ],
-  "timestamp": "2026-08-10T12:22:22.518602252Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:53.636892667Z",
+  "model": "glm-5.3"
 }

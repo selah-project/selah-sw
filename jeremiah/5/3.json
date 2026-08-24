@@ -5,78 +5,78 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 5,
-  "translation": "Yahweh, macho yako, je, si kwa uaminifu? Umewapiga ⟨אתם⟩ lakini hawakuchoka; umewateketeza; wamekataa kupokea mawaidha; amefanya nyuso zao kuwa ngumu kuliko mwamba; wamekataa kurejea.",
+  "translation": "Yahweh, macho yako ⟨hayaangamieni⟩ je, si kwa uaminifu? Uliwapiga ⟨את⟩ ⟨אתם⟩ wala hawakuhuzunika; uliwateketeza, wamekataa kupokea mawaidha; wameifanya nyuso zao kuwa ngumu kuliko mwamba, wamekataa kutubu.",
   "tokens": [
     {
-      "surface": "יְהֹוָ֗ה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "עֵינֶיךָ֮",
+      "surface": "עיניך",
       "gloss": "macho yako"
     },
     {
-      "surface": "הֲל֣וֹא",
+      "surface": "הלוא",
       "gloss": "je, si"
     },
     {
-      "surface": "לֶאֱמוּנָה֒",
+      "surface": "לאמונה",
       "gloss": "kwa uaminifu"
     },
     {
-      "surface": "הִכִּ֤יתָה",
-      "gloss": "Umewapiga"
+      "surface": "הכיתה",
+      "gloss": "uliwapiga"
     },
     {
-      "surface": "אֹתָם֙",
-      "gloss": "⟨את⟩",
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "wao"
     },
     {
-      "surface": "וְֽלֹא",
-      "gloss": "lakini hawa"
+      "surface": "ולא",
+      "gloss": "wala hawaku-"
     },
     {
-      "surface": "חָ֔לוּ",
-      "gloss": "kuchoka"
+      "surface": "חלו",
+      "gloss": "-huzunika"
     },
     {
-      "surface": "כִּלִּיתָ֕ם",
-      "gloss": "umewateketeza"
+      "surface": "כליתם",
+      "gloss": "uliwateketeza"
     },
     {
-      "surface": "מֵאֲנ֖וּ",
+      "surface": "מאנו",
       "gloss": "wamekataa"
     },
     {
-      "surface": "קַ֣חַת",
+      "surface": "קחת",
       "gloss": "kupokea"
     },
     {
-      "surface": "מוּסָ֑ר",
+      "surface": "מוסר",
       "gloss": "mawaidha"
     },
     {
-      "surface": "חִזְּק֤וּ",
-      "gloss": "amefanya kuwa ngumu"
+      "surface": "חזקו",
+      "gloss": "wameifanya... kuwa ngumu"
     },
     {
-      "surface": "פְנֵיהֶם֙",
+      "surface": "פניהם",
       "gloss": "nyuso zao"
     },
     {
-      "surface": "מִסֶּ֔לַע",
+      "surface": "מסלע",
       "gloss": "kuliko mwamba"
     },
     {
-      "surface": "מֵאֲנ֖וּ",
+      "surface": "מאנו",
       "gloss": "wamekataa"
     },
     {
-      "surface": "לָשֽׁוּב",
-      "gloss": "kurejea"
+      "surface": "לשוב",
+      "gloss": "kutubu"
     }
   ],
-  "timestamp": "2026-08-10T12:11:52.811617377Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.309861841Z",
+  "model": "glm-5.3"
 }

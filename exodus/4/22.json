@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 4,
-  "translation": "Na utamwambia Paroh: Ndivyo asemavyo Yahweh: ⟨⟨ mwanao ⟩⟩ wangu, mzalizaji wangu, ⟨ni⟩ Yisrael.",
+  "translation": "Nawe utamwambia Paroh: Ndivo alivyosema Yahweh: Mwana wangu ni Yisraeli, mzaliwa wangu wa kwanza.",
   "tokens": [
     {
       "surface": "ואמרת",
-      "gloss": "na utamwambia"
+      "gloss": "nawe utasema"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "asemavyo"
+      "gloss": "alivyosema"
     },
     {
       "surface": "יהוה",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "בני",
-      "gloss": "wangu"
+      "gloss": "mwana wangu"
     },
     {
       "surface": "בכרי",
-      "gloss": "mzalizaji wangu"
+      "gloss": "mzaliwa wangu wa kwanza"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisraeli"
     }
   ],
-  "timestamp": "2026-08-10T10:18:33.388169667Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:59.587385698Z",
+  "model": "glm-5.3"
 }

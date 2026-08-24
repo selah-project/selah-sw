@@ -5,92 +5,92 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 57,
-  "translation": "Na ⟨את⟩ nini ulijali, ukaogopa, kwa kuwa unasema uongo? Na ⟨את⟩ mimi hukumbuka, hukuweka moyoni. ⟨⟨Si mimi⟩⟩ nimenyamaza, tokea zamani, na mimi hukuogopi?",
+  "translation": "Na ⟨את⟩ nani ulimwoga na kumwogopa, maana unadanganya? Nami hukunikumbuka, hukuweka moyoni ⟨habari zangu⟩. Je, si mimi ninayenyamaza, hata tangu zamani, hivi kwamba mimi huogi?",
   "tokens": [
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "nini"
+      "marks": "nani"
     },
     {
-      "surface": "מִי",
-      "gloss": "nini"
+      "surface": "מי",
+      "gloss": "nani"
     },
     {
-      "surface": "דָּאַגְתְּ",
-      "gloss": "ulijali"
+      "surface": "דאגת",
+      "gloss": "ulimwoga"
     },
     {
-      "surface": "וַתִּירְאִי",
-      "gloss": "ukaogopa"
+      "surface": "ותיראי",
+      "gloss": "na kumwogopa"
     },
     {
-      "surface": "כִּי",
-      "gloss": "kwa kuwa"
+      "surface": "כי",
+      "gloss": "maana"
     },
     {
-      "surface": "תְכַזֵּבִי",
-      "gloss": "unasema uongo"
+      "surface": "תכזבי",
+      "gloss": "unadanganya"
     },
     {
-      "surface": "וְאוֹתִי",
-      "gloss": "⟨את⟩",
+      "surface": "ואותי",
+      "gloss": "⟨את⟩ mimi",
       "marks": "mimi"
     },
     {
-      "surface": "לֹא",
-      "gloss": "hukumbuka"
-    },
-    {
-      "surface": "זָכַרְתְּ",
-      "gloss": "⟨hukumbuka⟩"
-    },
-    {
-      "surface": "לֹא",
-      "gloss": "hukuweka"
-    },
-    {
-      "surface": "שַׂמְתְּ",
-      "gloss": "⟨hukuweka⟩"
-    },
-    {
-      "surface": "עַל",
-      "gloss": "moyoni"
-    },
-    {
-      "surface": "לִבֵּךְ",
-      "gloss": "⟨moyoni⟩"
-    },
-    {
-      "surface": "הֲלֹא",
+      "surface": "לא",
       "gloss": "si"
     },
     {
-      "surface": "אֲנִי",
+      "surface": "זכרת",
+      "gloss": "kumbuka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "kuweka"
+    },
+    {
+      "surface": "על",
+      "gloss": "moyoni"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "je, si"
+    },
+    {
+      "surface": "אני",
       "gloss": "mimi"
     },
     {
-      "surface": "מַחְשֶׁה",
-      "gloss": "nimenyamaza"
+      "surface": "מחשה",
+      "gloss": "ninayenyamaza"
     },
     {
-      "surface": "וּמֵעֹלָם",
-      "gloss": "tokea zamani"
+      "surface": "ומעלם",
+      "gloss": "hata tangu zamani"
     },
     {
-      "surface": "וְאוֹתִי",
-      "gloss": "⟨את⟩",
+      "surface": "ואותי",
+      "gloss": "⟨את⟩ mimi",
       "marks": "mimi"
     },
     {
-      "surface": "לֹא",
-      "gloss": "hukuogopi"
+      "surface": "לא",
+      "gloss": "hu"
     },
     {
-      "surface": "תִּירָאִי",
-      "gloss": "⟨hukuogopi⟩"
+      "surface": "תיראי",
+      "gloss": "ogi"
     }
   ],
-  "timestamp": "2026-08-10T12:07:53.430393955Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:42.109166892Z",
+  "model": "glm-5.3"
 }

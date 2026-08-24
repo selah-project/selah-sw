@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Na kuhani atachukua ⟨את⟩ kondoo mmoja na atautoa ⟨אתו⟩ kwa dhabihu ya hatia, na ⟨את⟩ logi ya mafuta, na atavitikisa ⟨אתם⟩ tikiso mbele za Yahweh.",
+  "translation": "Naye kuhani atachukua ⟨את⟩ mwanakondoo mmoja, na atamkaribisha yeye ⟨את⟩ ⟨אתו⟩ kama dhabihu ya makosa, pamoja na ⟨את⟩ logi ya mafuta, na ataviringisha vyote ⟨את⟩ ⟨אתם⟩ kwa ringisho mbele za Yahweh.",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "na atachukua"
+      "gloss": "naye … atachukua"
     },
     {
       "surface": "הכהן",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kondoo mmoja"
+      "marks": "mwanakondoo"
     },
     {
       "surface": "הכבש",
-      "gloss": "kondoo"
+      "gloss": "mwanakondoo"
     },
     {
       "surface": "האחד",
@@ -30,20 +30,20 @@
     },
     {
       "surface": "והקריב",
-      "gloss": "na atautoa"
+      "gloss": "na atamkaribisha"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "kwa dhabihu ya hatia"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "yeye (mwanakondoo)"
     },
     {
       "surface": "לאשם",
-      "gloss": "kwa dhabihu ya hatia"
+      "gloss": "kama dhabihu ya makosa"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "logi ya mafuta"
     },
     {
@@ -56,16 +56,16 @@
     },
     {
       "surface": "והניף",
-      "gloss": "na atavitikisa"
+      "gloss": "na ataviringisha"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "tikiso"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "vyote (kondoo na logi)"
     },
     {
       "surface": "תנופה",
-      "gloss": "tikiso"
+      "gloss": "kwa ringisho"
     },
     {
       "surface": "לפני",
@@ -76,6 +76,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T14:35:12.372401219Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.368775356Z",
+  "model": "glm-5.3"
 }

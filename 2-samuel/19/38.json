@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "sw",
   "chapter": 19,
-  "translation": "Rudi, tafadhali, mtumishi wako, nife katika mji wangu, karibu na kaburi la baba yangu na mama yangu. Na tazama, mtumishi wako Kimhamu atavuka pamoja na bwana wangu mfalme, na mfanyie yaliyo ⟨⟨את⟩⟩ yaliyo mazuri machoni pako.",
+  "translation": "Mja wako arudi, tafadhali, na nife katika mji wangu, karibu na kaburi la baba yangu na mama yangu; na tazama, mja wako Kimham na apite na bwana wangu mfalme, na mfanye ⟨את⟩ yale ambayo ni mema machoni pako.",
   "tokens": [
     {
       "surface": "ישב",
-      "gloss": "rudi"
+      "gloss": "arudi"
     },
     {
       "surface": "נא",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "mtumishi wako"
+      "gloss": "mja wako"
     },
     {
       "surface": "ואמת",
-      "gloss": "nife"
+      "gloss": "na nife"
     },
     {
       "surface": "בעירי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "קבר",
-      "gloss": "kaburi la"
+      "gloss": "kaburi"
     },
     {
       "surface": "אבי",
-      "gloss": "baba yangu"
+      "gloss": "la baba yangu"
     },
     {
       "surface": "ואמי",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "mtumishi wako"
+      "gloss": "mja wako"
     },
     {
       "surface": "כמהם",
-      "gloss": "Kimhamu"
+      "gloss": "Kimham"
     },
     {
       "surface": "יעבר",
-      "gloss": "atavuka"
+      "gloss": "napite"
     },
     {
       "surface": "עם",
-      "gloss": "pamoja na"
+      "gloss": "na"
     },
     {
       "surface": "אדני",
@@ -73,30 +73,30 @@
     },
     {
       "surface": "ועשה",
-      "gloss": "na mfanyie"
+      "gloss": "na mfanye"
     },
     {
       "surface": "לו",
-      "gloss": "yeye"
+      "gloss": "yake"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yaliyo"
+      "marks": "yale ambayo ni mema machoni pako"
     },
     {
       "surface": "אשר",
-      "gloss": "yaliyo"
+      "gloss": "ambayo"
     },
     {
       "surface": "טוב",
-      "gloss": "mazuri"
+      "gloss": "mema"
     },
     {
       "surface": "בעיניך",
       "gloss": "machoni pako"
     }
   ],
-  "timestamp": "2026-08-10T11:34:28.497913053Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:08.616201099Z",
+  "model": "glm-5.3"
 }

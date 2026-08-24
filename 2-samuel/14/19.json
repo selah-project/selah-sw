@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Na mfalme akasema, Je, ⟨⟩ mkono wa Yoab uko ⟨אתך⟩ pamoja nawe katika hayo yote? Na mwanamke akajibu na kusema, Aishi uhai wako, bwana wangu mfalme, hakuna kuchoka upande wa kulia au upande wa kushoto kutoka katika chochote ambacho bwana wangu mfalme amesema; maana mtumishi wako Yoab ndiye alieni amri, na yeye ndiye aliweka kinywani mwa mjakazi wako ⟨את⟩ maneno yote haya.",
+  "translation": "Na mfalme akasema: Je, mkono wa Yoabu uko ⟨את⟩ nawe katika haya yote? Na mwanamke akajibu akasema: Kama nafsi yako, bwana wangu mfalme, inaishi, hakuna ⟨hata mmoja⟩ anayeweza kugeuka kulia au kushoto kutoka katika chochote ambacho bwana wangu mfalme amesema; kwa kuwa mtumishi wako Yoabu ndiye aliyeniagiza, naye aliweka kinywani mwa mtumishi wako mwanamke ⟨את⟩ maneno yote haya.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,16 +17,15 @@
     },
     {
       "surface": "היד",
-      "gloss": "⟨⟩ mkono"
+      "gloss": "mkono"
     },
     {
       "surface": "יואב",
-      "gloss": "wa Yoab"
+      "gloss": "wa Yoabu"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩",
-      "marks": "uko pamoja nawe"
+      "gloss": "⟨את⟩ nawe"
     },
     {
       "surface": "בכל",
@@ -46,15 +45,15 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "na kusema"
+      "gloss": "akasema"
     },
     {
       "surface": "חי",
-      "gloss": "aishi"
+      "gloss": "inaishi"
     },
     {
       "surface": "נפשך",
-      "gloss": "uhai wako"
+      "gloss": "nafsi yako"
     },
     {
       "surface": "אדני",
@@ -66,23 +65,23 @@
     },
     {
       "surface": "אם",
-      "gloss": "hakuna"
+      "gloss": "kama"
     },
     {
       "surface": "אש",
-      "gloss": "⟨⟩ kuchoka"
+      "gloss": "hakuna"
     },
     {
       "surface": "להמין",
-      "gloss": "upande wa kulia"
+      "gloss": "kugeuka kulia"
     },
     {
       "surface": "ולהשמיל",
-      "gloss": "au upande wa kushoto"
+      "gloss": "au kushoto"
     },
     {
       "surface": "מכל",
-      "gloss": "kutoka katika yote"
+      "gloss": "kutoka chochote"
     },
     {
       "surface": "אשר",
@@ -102,7 +101,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "maana"
+      "gloss": "kwa kuwa"
     },
     {
       "surface": "עבדך",
@@ -110,7 +109,7 @@
     },
     {
       "surface": "יואב",
-      "gloss": "Yoab"
+      "gloss": "Yoabu"
     },
     {
       "surface": "הוא",
@@ -118,11 +117,11 @@
     },
     {
       "surface": "צוני",
-      "gloss": "alieni amri"
+      "gloss": "aliyeniagiza"
     },
     {
       "surface": "והוא",
-      "gloss": "na yeye"
+      "gloss": "naye"
     },
     {
       "surface": "שם",
@@ -134,12 +133,12 @@
     },
     {
       "surface": "שפחתך",
-      "gloss": "mjakazi wako"
+      "gloss": "mtumishi wako mwanamke"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "maneno yote"
+      "marks": "maneno yote haya"
     },
     {
       "surface": "כל",
@@ -154,6 +153,6 @@
       "gloss": "haya"
     }
   ],
-  "timestamp": "2026-08-10T16:02:26.095709205Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:30.148741730Z",
+  "model": "glm-5.3"
 }

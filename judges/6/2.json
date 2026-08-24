@@ -5,43 +5,43 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 6,
-  "translation": "Ikawa nguvu mkono wa Midyani juu ya Yisra'eli; kwa sababu ya Midyani wana wa Yisra'eli wakaifanyia ⟨⟨wao⟩⟩ ⟨את⟩ mashimo yaliyo katika milima, na ⟨את⟩ pangoni, na ⟨את⟩ ngome.",
+  "translation": "nayo mkano wa Midiani ukawa mkali dhidi ya Yisraeli; kutokana na Midiani wana wa Yisraeli walijifanyia ⟨את⟩ matundu ya maji yaliyo katika milima, na ⟨את⟩ mapango, na ⟨את⟩ ngome.",
   "tokens": [
     {
       "surface": "ותעז",
-      "gloss": "ikawa nguvu"
+      "gloss": "ukawa mkali"
     },
     {
       "surface": "יד",
-      "gloss": "mkano wa"
+      "gloss": "mkono"
     },
     {
       "surface": "מדין",
-      "gloss": "Midyani"
+      "gloss": "wa Midiani"
     },
     {
       "surface": "על",
-      "gloss": "juu ya"
+      "gloss": "dhidi ya"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'eli"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "מפני",
-      "gloss": "kwa sababu ya"
+      "gloss": "kutokana na"
     },
     {
       "surface": "מדין",
-      "gloss": "Midyani"
+      "gloss": "Midiani"
     },
     {
       "surface": "עשו",
-      "gloss": "wakafanyia"
+      "gloss": "walifanya"
     },
     {
       "surface": "להם",
-      "gloss": "⟨⟨wao⟩⟩"
+      "gloss": "kwa ajili yao"
     },
     {
       "surface": "בני",
@@ -49,16 +49,16 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'eli"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mashimo"
+      "marks": "matundu ya maji"
     },
     {
       "surface": "המנהרות",
-      "gloss": "mashimo"
+      "gloss": "matundu ya maji"
     },
     {
       "surface": "אשר",
@@ -71,11 +71,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "pango"
+      "marks": "mapango"
     },
     {
       "surface": "המערות",
-      "gloss": "pangoni"
+      "gloss": "mapango"
     },
     {
       "surface": "ואת",
@@ -87,6 +87,6 @@
       "gloss": "ngome"
     }
   ],
-  "timestamp": "2026-08-10T11:13:53.446952817Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:21.390428511Z",
+  "model": "glm-5.3"
 }

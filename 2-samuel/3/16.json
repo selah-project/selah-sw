@@ -5,16 +5,16 @@
   "book": "2-samuel",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Na mume wake akaenda ⟨אתה⟩, akienda na kulia nyuma yake hata Bachurim. Na Avner akamwambia: Nenda, rudi. Na akarudi.",
+  "translation": "Mume wake akaenda ⟨את⟩ pamoja naye, akitembea na kulia nyuma yake hata Bahurim; na Avner akamwambia: Nenda, rudi. Naye akarudi.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "Na akaenda"
+      "gloss": "akaenda"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨אתה⟩",
-      "marks": "naye"
+      "gloss": "⟨את⟩ pamoja naye",
+      "marks": "pamoja naye"
     },
     {
       "surface": "אישה",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "הלוך",
-      "gloss": "akienda"
+      "gloss": "akitembea"
     },
     {
       "surface": "ובכה",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "בחרים",
-      "gloss": "Bachurim"
+      "gloss": "Bahurim"
     },
     {
       "surface": "ויאמר",
-      "gloss": "Na akasema"
+      "gloss": "akamwambia"
     },
     {
       "surface": "אליו",
-      "gloss": "kwa"
+      "gloss": "kwake"
     },
     {
       "surface": "אבנר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "Nenda"
+      "gloss": "nenda"
     },
     {
       "surface": "שוב",
@@ -62,9 +62,9 @@
     },
     {
       "surface": "וישב",
-      "gloss": "Na akarudi"
+      "gloss": "akarudi"
     }
   ],
-  "timestamp": "2026-08-10T14:55:59.749292669Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:13.575777331Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Moshe akazichukua ⟨אתם⟩ kutoka juu ya viganja vyao, akaziteketeza madhabahuni pamoja na sadaka ya kuteketezwa; ni sadaka ya kujaza, ni harufu yenye furaha; ni sadaka ya kuteketezwa kwa Yahweh.",
+  "translation": "Na Moshe akazichukua ⟨את⟩ ⟨אתם⟩ mikono yao, akaziteketeza juu ya madhabahu juu ya sadaka ya kuteketezwa; ni sadaka za kumaliza kwa harufu yenye kupendeza; ni sadaka ya moto kwa Yahweh.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "akazichukua"
+      "gloss": "akachukua"
     },
     {
       "surface": "משה",
@@ -17,8 +17,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "kutoka juu ya viganja vyao"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "mikono yao"
     },
     {
       "surface": "מעל",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "כפיהם",
-      "gloss": "viganja vyao"
+      "gloss": "mikono yao"
     },
     {
       "surface": "ויקטר",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "המזבחה",
-      "gloss": "madhabahuni"
+      "gloss": "madhabahu"
     },
     {
       "surface": "על",
-      "gloss": "pamoja na"
+      "gloss": "juu ya"
     },
     {
       "surface": "העלה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "מלאים",
-      "gloss": "ni sadaka ya kujaza"
+      "gloss": "sadaka za kumaliza"
     },
     {
       "surface": "הם",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "לריח",
-      "gloss": "harufu"
+      "gloss": "kwa harufu"
     },
     {
       "surface": "ניחח",
-      "gloss": "yenye furaha"
+      "gloss": "yenye kupendeza"
     },
     {
       "surface": "אשה",
-      "gloss": "sadaka ya kuteketezwa"
+      "gloss": "sadaka ya moto"
     },
     {
       "surface": "הוא",
@@ -73,6 +73,6 @@
       "gloss": "kwa Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T10:33:08.994563973Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.367263553Z",
+  "model": "glm-5.3"
 }

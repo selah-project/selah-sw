@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 37,
-  "translation": "Na Reuveli akarudi kwa ⟨the⟩ shimo, na tazama, Yosefu hayupo ⟨kwenye⟩ shimo; naye akararua ⟨את⟩ nguo zake.",
+  "translation": "Reubeni akarudi kwenye shimo, na tazama, Yosefu hayupo shimoni; akararua ⟨את⟩ nguo zake.",
   "tokens": [
     {
       "surface": "וישב",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "ראובן",
-      "gloss": "Reuveli"
+      "gloss": "Reubeni"
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": "kwenye"
     },
     {
       "surface": "הבור",
-      "gloss": "⟨the⟩ shimo"
+      "gloss": "shimo"
     },
     {
       "surface": "והנה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "בבור",
-      "gloss": "⟨kwenye⟩ shimo"
+      "gloss": "shimoni"
     },
     {
       "surface": "ויקרע",
-      "gloss": "naye akararua"
+      "gloss": "akararua"
     },
     {
       "surface": "את",
@@ -53,6 +53,6 @@
       "gloss": "nguo zake"
     }
   ],
-  "timestamp": "2026-08-10T10:13:12.606813023Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:55.213034186Z",
+  "model": "glm-5.3"
 }

@@ -5,114 +5,114 @@
   "book": "malachi",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Kwa maana tazama, siku inakuja inawaka kama tanuru, nao watakuwa wote wenye kiburi na watenda-wovi kama manyasi, na itawateketeza ⟨אתם⟩ siku inayokuja, asema Yahweh Sebaot, ambaye hatowaachia wala mizizi wala tawi.",
+  "translation": "Kwa maana tazama, siku inakuja inayowaka kama tanuru, na watakuwa wenye kiburi wote na watendao ovu wote kama qashi, na itawateketeza ⟨את⟩ ⟨אתם⟩ siku ile inayokuja, amesema Yahweh Tzevaot, ambayo haitawaachia shina wala tawi.",
   "tokens": [
     {
-      "surface": "כִּֽי",
-      "gloss": "Kwa maana"
+      "surface": "כי",
+      "gloss": "kwa maana"
     },
     {
-      "surface": "הִנֵּ֤ה",
+      "surface": "הנה",
       "gloss": "tazama"
     },
     {
-      "surface": "הַיּוֹם֙",
+      "surface": "היום",
       "gloss": "siku"
     },
     {
-      "surface": "בָּ֔א",
+      "surface": "בא",
       "gloss": "inakuja"
     },
     {
-      "surface": "בֹּעֵ֖ר",
-      "gloss": "inawaka"
+      "surface": "בער",
+      "gloss": "inayowaka"
     },
     {
-      "surface": "כַּתַּנּ֑וּר",
+      "surface": "כתנור",
       "gloss": "kama tanuru"
     },
     {
-      "surface": "וְהָי֨וּ",
-      "gloss": "nao watakuwa"
+      "surface": "והיו",
+      "gloss": "na watakuwa"
     },
     {
-      "surface": "כָל",
+      "surface": "כל",
       "gloss": "wote"
     },
     {
-      "surface": "זֵדִ֜ים",
+      "surface": "זדים",
       "gloss": "wenye kiburi"
     },
     {
-      "surface": "וְכָל",
-      "gloss": "na"
+      "surface": "וכל",
+      "gloss": "na wote"
     },
     {
-      "surface": "עֹשֵׂ֤ה",
-      "gloss": "watenda"
+      "surface": "עשה",
+      "gloss": "watendao"
     },
     {
-      "surface": "רִשְׁעָה֙",
-      "gloss": "wovi"
+      "surface": "רשעה",
+      "gloss": "ovu"
     },
     {
-      "surface": "קַ֔שׁ",
-      "gloss": "kama manyasi"
+      "surface": "קש",
+      "gloss": "kama qashi"
     },
     {
-      "surface": "וְלִהַ֨ט",
+      "surface": "ולהט",
       "gloss": "na itawateketeza"
     },
     {
-      "surface": "אֹתָ֜ם",
-      "gloss": "⟨אתם⟩",
-      "marks": "wao"
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "wenye kiburi na watendao ovu"
     },
     {
-      "surface": "הַיּ֣וֹם",
+      "surface": "היום",
       "gloss": "siku"
     },
     {
-      "surface": "הַבָּ֗א",
+      "surface": "הבא",
       "gloss": "inayokuja"
     },
     {
-      "surface": "אָמַר֙",
-      "gloss": "asema"
+      "surface": "אמר",
+      "gloss": "amesema"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "צְבָא֔וֹת",
-      "gloss": "Sebaot"
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
     },
     {
-      "surface": "אֲשֶׁ֛ר",
-      "gloss": "ambaye"
+      "surface": "אשר",
+      "gloss": "ambayo"
     },
     {
-      "surface": "לֹא",
-      "gloss": "hatowaachia"
+      "surface": "לא",
+      "gloss": "si"
     },
     {
-      "surface": "יַעֲזֹ֥ב",
-      "gloss": ""
+      "surface": "יעזב",
+      "gloss": "itawaachia"
     },
     {
-      "surface": "לָהֶ֖ם",
+      "surface": "להם",
       "gloss": "kwao"
     },
     {
-      "surface": "שֹׁ֥רֶשׁ",
-      "gloss": "mizizi"
+      "surface": "שרש",
+      "gloss": "shina"
     },
     {
-      "surface": "וְעָנָֽף",
-      "gloss": "na tawi"
+      "surface": "וענף",
+      "gloss": "wala tawi"
     }
   ],
-  "timestamp": "2026-08-10T16:16:45.855381996Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.337561661Z",
+  "model": "glm-5.3"
 }

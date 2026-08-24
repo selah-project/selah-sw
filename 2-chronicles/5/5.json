@@ -5,25 +5,25 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 5,
-  "translation": "Na wakapandisha ⟨את⟩ sanduku na ⟨את⟩ hema ya mkutano, na ⟨את⟩ vyombo vyote vya vitakatifu vilivyokuwa ndani ya hema; hao walivipandisha makuhani, walowe.",
+  "translation": "Wakapandisha ⟨את⟩ sanduku la agano, na ⟨את⟩ hema ya mkutano, na ⟨את⟩ vyombo vyote vya utakatifu vilivyokuwa katika hema; ⟨את⟩ hao walivipandisha makuhani, Walawi.",
   "tokens": [
     {
       "surface": "ויעלו",
-      "gloss": "na wakapandisha"
+      "gloss": "Wakapandisha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sanduku"
+      "marks": "sanduku la agano"
     },
     {
       "surface": "הארון",
-      "gloss": "sanduku"
+      "gloss": "sanduku la agano"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "hema"
+      "marks": "hema ya mkutano"
     },
     {
       "surface": "אהל",
@@ -36,7 +36,7 @@
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "vyombo vyote"
+      "marks": "vyombo vyote vya utakatifu"
     },
     {
       "surface": "כל",
@@ -48,7 +48,7 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "vya vitakatifu"
+      "gloss": "vya utakatifu"
     },
     {
       "surface": "אשר",
@@ -56,7 +56,7 @@
     },
     {
       "surface": "באהל",
-      "gloss": "ndani ya hema"
+      "gloss": "katika hema"
     },
     {
       "surface": "העלו",
@@ -64,8 +64,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "makuhani, walowe"
+      "gloss": "⟨את⟩ hao"
     },
     {
       "surface": "הכהנים",
@@ -73,9 +72,9 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "walowe"
+      "gloss": "Walawi"
     }
   ],
-  "timestamp": "2026-08-10T14:13:45.130053959Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:40.708501077Z",
+  "model": "glm-5.3"
 }

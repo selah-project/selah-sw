@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Moshe akawaambia watu: «Kumbukeni siku hii ambayo mmetoka Mitsrayim, nyumbani mwa utumwa, kwa kuwa kwa nguvu ya mkono Yahweh aliwatoa ⟨⟨את⟩ ao kutoka⟩ humo; na chakula kilichochachuka hakitakuliwa.»",
+  "translation": "Naye Moshe akawaambia ⟨את⟩ watu: Kumbukeni siku hii mliyotoka Mitsrayim, nyumbani mwa utumwa, kwa kuwa kwa mkono wa nguvu Yahweh aliwatoa kutoka hapa; na chachu ⟨isiyokaliwa⟩ haitakuliwa.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "akawaambia"
+      "gloss": "akasema"
     },
     {
       "surface": "משה",
@@ -30,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "siku"
+      "marks": "siku hii"
     },
     {
       "surface": "היום",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "יצאתם",
-      "gloss": "mmetoka"
+      "gloss": "mlitoka"
     },
     {
       "surface": "ממצרים",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "יד",
-      "gloss": "ya mkono"
+      "gloss": "mkono"
     },
     {
       "surface": "הוציא",
@@ -82,25 +82,25 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ao"
+      "gloss": "⟨את⟩ ninyi"
     },
     {
       "surface": "מזה",
-      "gloss": "kutoka humo"
+      "gloss": "kutoka hapa"
     },
     {
       "surface": "ולא",
-      "gloss": "na ... hakitakuliwa"
+      "gloss": "na... si"
     },
     {
       "surface": "יאכל",
-      "gloss": "kitakuliwa"
+      "gloss": "itakuliwa"
     },
     {
       "surface": "חמץ",
-      "gloss": "chakula kilichochachuka"
+      "gloss": "chachu"
     }
   ],
-  "timestamp": "2026-08-10T10:21:38.058705227Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:02.646752637Z",
+  "model": "glm-5.3"
 }

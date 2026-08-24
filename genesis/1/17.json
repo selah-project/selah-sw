@@ -5,16 +5,16 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Na Elohim akaziweka ⟨אתם⟩ katika nafasi ya mbingu, kung'aza juu ya nchi.",
+  "translation": "Na Elohim akaziweka ⟨את⟩ katika anga la mbingu, ili ziangaze juu ya nchi.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "Na akaziweka"
+      "gloss": "akaziweka"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "mianga"
+      "gloss": "⟨את⟩",
+      "marks": "mianga (yaani viwili vikubwa na nyota)"
     },
     {
       "surface": "אלהים",
@@ -22,15 +22,15 @@
     },
     {
       "surface": "ברקיע",
-      "gloss": "katika nafasi"
+      "gloss": "katika anga"
     },
     {
       "surface": "השמים",
-      "gloss": "ya mbingu"
+      "gloss": "la mbingu"
     },
     {
       "surface": "להאיר",
-      "gloss": "kung'aza"
+      "gloss": "ili ziangaze"
     },
     {
       "surface": "על",
@@ -41,6 +41,6 @@
       "gloss": "nchi"
     }
   ],
-  "timestamp": "2026-08-10T14:22:14.151685433Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:22.058159767Z",
+  "model": "glm-5.3"
 }

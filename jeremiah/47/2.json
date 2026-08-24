@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 47,
-  "translation": "Hivyo amasema Yahweh: Tazama, maji yanapanda kutoka tsafoni, nayo yatakuja ⟨kuwa⟩ mto wa kufurika, nao watafurika ⟨⟨nchi⟩ na kujaa kwake, mji na wakaaji wake⟩; nao watu watapiga kelele, na kila mkaaji wa nchi atalia.",
+  "translation": "Hivi amesema Yahweh: Tazama, maji yanapanda kutoka kaskazini, na yatakuwa mto unaoﬂurika, nao utaﬂurika ⟨את⟩ nchi na ⟨את⟩ vilivyovitajirisha, ⟨את⟩ mji na wakaazi wake; nao wanadamu watapiga kelele, na kila mkaazi wa ⟨ה⟩ nchi atalia.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "hivyo"
+      "gloss": "Hivi"
     },
     {
       "surface": "אמר",
-      "gloss": "amasema"
+      "gloss": "amesema"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "tazama"
+      "gloss": "Tazama"
     },
     {
       "surface": "מים",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "מצפון",
-      "gloss": "kutoka tsafoni"
+      "gloss": "kutoka kaskazini"
     },
     {
       "surface": "והיו",
-      "gloss": "nayo yatakuja"
+      "gloss": "na yatakuwa"
     },
     {
       "surface": "לנחל",
-      "gloss": "kuwa mto"
+      "gloss": "mto"
     },
     {
       "surface": "שוטף",
-      "gloss": "wa kufurika"
+      "gloss": "unaoﬂurika"
     },
     {
       "surface": "וישטפו",
-      "gloss": "nao watafurika"
+      "gloss": "nao utaﬂurika"
     },
     {
       "surface": "ארץ",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ומלואה",
-      "gloss": "na kujaa kwake"
+      "gloss": "na vilivyovitajirisha"
     },
     {
       "surface": "עיר",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "וישבי",
-      "gloss": "na wakaaji"
+      "gloss": "na wakaazi"
     },
     {
       "surface": "בה",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "וזעקו",
-      "gloss": "nao watapiga kelele"
+      "gloss": "na watapiga kelele"
     },
     {
       "surface": "האדם",
-      "gloss": "watu"
+      "gloss": "wanadamu"
     },
     {
       "surface": "והילל",
@@ -89,13 +89,13 @@
     },
     {
       "surface": "יושב",
-      "gloss": "mkaaji"
+      "gloss": "mkaazi"
     },
     {
       "surface": "הארץ",
       "gloss": "wa nchi"
     }
   ],
-  "timestamp": "2026-08-10T12:23:20.471114828Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:45.444751250Z",
+  "model": "glm-5.3"
 }

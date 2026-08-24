@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 34,
-  "translation": "Mifugo yao na mali yao na nyama zao wote, je, si yetu? Acheni tu kukubaliana nao, nao watakaa ⟨אתנו⟩.",
+  "translation": "Mifugo yao na umiliki wao na wanyama wao wote — je, si yetu ⟨ni⟩ ya [wao] kwetu? Basi tuwakubalie tu, nao watakaa ⟨את⟩ sisi.",
   "tokens": [
     {
       "surface": "מקנהם",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "וקנינם",
-      "gloss": "na mali yao"
+      "gloss": "na umiliki wao"
     },
     {
       "surface": "וכל",
-      "gloss": "na nyama zao wote"
+      "gloss": "na wanyama wote"
     },
     {
       "surface": "בהמתם",
-      "gloss": ""
+      "gloss": "wao"
     },
     {
       "surface": "הלוא",
@@ -37,26 +37,25 @@
     },
     {
       "surface": "אך",
-      "gloss": "acheni tu"
+      "gloss": "basi tu"
     },
     {
       "surface": "נאותה",
-      "gloss": "kukubaliana"
+      "gloss": "tuwakubalie"
     },
     {
       "surface": "להם",
-      "gloss": "nao"
+      "gloss": "tu-"
     },
     {
       "surface": "וישבו",
-      "gloss": "nao watakaa"
+      "gloss": "náo watakaa"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨אתנו⟩",
-      "marks": "sisi"
+      "gloss": "⟨את⟩ sisi"
     }
   ],
-  "timestamp": "2026-08-10T15:51:02.682200692Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:42.915349006Z",
+  "model": "glm-5.3"
 }

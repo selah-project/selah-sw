@@ -5,28 +5,28 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 9,
-  "translation": "Mnapoingia ⟨ndani ya⟩ jiji mtamkuta ⟨אתו⟩ kabla hajapanda hadi bamata kula, maana watu hawali hadi atakapokuja, kwa kuwa yeye ndiye atakayembariki dhabihu; baada ya hapo waliokaribiwa watakula. Basi sasa panda, kwa maana ⟨אתו⟩ kama leo mtamkuta ⟨אתו⟩.",
+  "translation": "Mtakapoingia ⟨kwenye⟩ mji, hivi ndivyo mtakapomwona ⟨אתו⟩ kabla yeye hajapanda mahali pa juu pa ibada kula; maana watu hawatala kula hadi yeye afike, kwa maana yeye ndiye atakayabariki ⟨את⟩ dhabihu; baada ya hayo waliokualikwa watala kula. Na sasa pandaeni, maana yeye ⟨ndi⟩ siku hii hivi mtakapomwona ⟨אתו⟩.",
   "tokens": [
     {
       "surface": "כבאכם",
-      "gloss": "mnapoingia"
+      "gloss": "Mtakapoingia"
     },
     {
       "surface": "העיר",
-      "gloss": "jiji"
+      "gloss": "mji"
     },
     {
       "surface": "כן",
-      "gloss": "hivyo"
+      "gloss": "hivi ndivyo"
     },
     {
       "surface": "תמצאון",
-      "gloss": "mtamkuta"
+      "gloss": "mtakapomwona"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "yeye"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "yeye (Shemuel)"
     },
     {
       "surface": "בטרם",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הבמתה",
-      "gloss": "hadi bamata"
+      "gloss": "mahali pa juu pa ibada"
     },
     {
       "surface": "לאכל",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "kwa maana"
+      "gloss": "maana"
     },
     {
       "surface": "לא",
-      "gloss": "si"
+      "gloss": "haita"
     },
     {
       "surface": "יאכל",
-      "gloss": "watakula"
+      "gloss": "kula"
     },
     {
       "surface": "העם",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "באו",
-      "gloss": "kuja kwake"
+      "gloss": "afike"
     },
     {
       "surface": "כי",
-      "gloss": "kwa kuwa"
+      "gloss": "kwa maana"
     },
     {
       "surface": "הוא",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "יברך",
-      "gloss": "atakayembariki"
+      "gloss": "atakayabariki"
     },
     {
       "surface": "הזבח",
@@ -86,51 +86,51 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "baada"
+      "gloss": "baada ya"
     },
     {
       "surface": "כן",
-      "gloss": "ya hapo"
+      "gloss": "hayo"
     },
     {
       "surface": "יאכלו",
-      "gloss": "watakula"
+      "gloss": "watala kula"
     },
     {
       "surface": "הקראים",
-      "gloss": "waliokaribiwa"
+      "gloss": "waliokualikwa"
     },
     {
       "surface": "ועתה",
-      "gloss": "basi sasa"
+      "gloss": "Na sasa"
     },
     {
       "surface": "עלו",
-      "gloss": "panda"
+      "gloss": "pandaeni"
     },
     {
       "surface": "כי",
-      "gloss": "kwa maana"
+      "gloss": "maana"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "yeye"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "yeye (Shemuel)"
     },
     {
       "surface": "כהיום",
-      "gloss": "kama leo"
+      "gloss": "siku hii hivi"
     },
     {
       "surface": "תמצאון",
-      "gloss": "mtamkuta"
+      "gloss": "mtakapomwona"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "yeye"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "yeye (Shemuel)"
     }
   ],
-  "timestamp": "2026-08-10T14:51:31.975939356Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.340435842Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 17,
-  "translation": "⟨את⟩ Yahweh walikuwa wakiogopa, na ⟨את⟩ miungu yao walikuwa wakitumikia, kama desturi ya mataifa ambao aliwahamisha ⟨אתם⟩ kutoka huko.",
+  "translation": "⟨את⟩ Yahweh walikuwa wakimwogopa, na ⟨את⟩ miungu yao walikuwa wakiitumikia, kwa mujibu wa desturi za mataifa ambako walikuwa wamehamishiwa huko kutoka.",
   "tokens": [
     {
       "surface": "את",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "יראים",
-      "gloss": "wakiogopa"
+      "gloss": "wakimwogopa"
     },
     {
       "surface": "ואת",
@@ -39,34 +39,33 @@
     },
     {
       "surface": "עבדים",
-      "gloss": "wakitumikia"
+      "gloss": "wakiitumikia"
     },
     {
       "surface": "כמשפט",
-      "gloss": "kama desturi"
+      "gloss": "kwa mujibu wa desturi"
     },
     {
       "surface": "הגוים",
-      "gloss": "ya mataifa"
+      "gloss": "za mataifa"
     },
     {
       "surface": "אשר",
-      "gloss": "ambao"
+      "gloss": "ambako"
     },
     {
       "surface": "הגלו",
-      "gloss": "aliwahamisha"
+      "gloss": "walikuwa wamehamishiwa"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "kutoka huko"
+      "gloss": "⟨את⟩ ⟨אתם⟩"
     },
     {
       "surface": "משם",
-      "gloss": "kutoka huko"
+      "gloss": "huko kutoka"
     }
   ],
-  "timestamp": "2026-08-10T15:03:14.802586372Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.354856415Z",
+  "model": "glm-5.3"
 }

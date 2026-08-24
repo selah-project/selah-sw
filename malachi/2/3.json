@@ -5,7 +5,7 @@
   "book": "malachi",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Tazama, mimi nakemea ⟨⟨dhidi⟩⟩ ya ⟨את⟩ mzigo wenu, na nitawatapashea mavi nyuso zenu, mavi ya sikukuu zenu, na ⟨hayo⟩ yatakupelekeni pamoja nayo.",
+  "translation": "Tazama, mimi nikemea ⟨את⟩ mbegu yenu, nami nitatachapisha majozi juu ya nyuso zenu — majozi ya sikukuu zenu; nanyi ⟨את⟩ ⟨אתכם⟩ mtachukuliwa pamoja nayo.",
   "tokens": [
     {
       "surface": "הנני",
@@ -13,28 +13,28 @@
     },
     {
       "surface": "גער",
-      "gloss": "nakemea"
+      "gloss": "nikemea"
     },
     {
       "surface": "לכם",
-      "gloss": "⟨dhidi⟩ ya"
+      "gloss": "yenu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mzigo wenu"
+      "marks": "mbegu yenu"
     },
     {
       "surface": "הזרע",
-      "gloss": "mzigo wenu"
+      "gloss": "mbegu"
     },
     {
       "surface": "וזריתי",
-      "gloss": "na nitawatapashea"
+      "gloss": "nami nitatachapisha"
     },
     {
       "surface": "פרש",
-      "gloss": "mavi"
+      "gloss": "majozi"
     },
     {
       "surface": "על",
@@ -46,25 +46,26 @@
     },
     {
       "surface": "פרש",
-      "gloss": "mavi"
+      "gloss": "majozi"
     },
     {
       "surface": "חגיכם",
-      "gloss": "ya sikukuu zenu"
+      "gloss": "sikukuu zenu"
     },
     {
       "surface": "ונשא",
-      "gloss": "na yatakupelekena"
+      "gloss": "nanyi mtachukuliwa pamoja nayo"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ nyinyi"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "nanyi (wachunguzi)"
     },
     {
       "surface": "אליו",
       "gloss": "pamoja nayo"
     }
   ],
-  "timestamp": "2026-08-10T12:54:25.118018011Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.338274598Z",
+  "model": "glm-5.3"
 }

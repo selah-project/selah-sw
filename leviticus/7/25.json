@@ -5,69 +5,69 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Kwa kuwa kila ⟨anayekula⟩ mafuta ya ⟨ה⟩ mnyama ambao huweza kuletwa karibu kama dhabihu ya moto kwa Yahweh — ⟨hata⟩ nafsi ⟨inayokula⟩ hiyo itakatwa kutoka kwa watu wake.",
+  "translation": "Kwa maana kila anayekula mafuta ya mnyama ambao hutolewa kutoka kwake sadaka ya kuteketezwa kwa Yahweh, nafsi yenye kula itakatiliwa mbali kutoka kati ya watu wake.",
   "tokens": [
     {
-      "surface": "כִּ֚י",
-      "gloss": "Kwa kuwa"
+      "surface": "כי",
+      "gloss": "kwa maana"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "kila"
     },
     {
-      "surface": "אֹכֵ֣ל",
-      "gloss": "⟨anayekula⟩"
+      "surface": "אכל",
+      "gloss": "anayekula"
     },
     {
-      "surface": "חֵ֔לֶב",
+      "surface": "חלב",
       "gloss": "mafuta"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "ya"
     },
     {
-      "surface": "הַ֨בְּהֵמָ֔ה",
-      "gloss": "⟨ה⟩ mnyama"
+      "surface": "הבהמה",
+      "gloss": "mnyama"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
+      "surface": "אשר",
       "gloss": "ambao"
     },
     {
-      "surface": "יַקְרִ֥יב",
-      "gloss": "huweza kuletwa karibu"
+      "surface": "יקריב",
+      "gloss": "hutolewa"
     },
     {
-      "surface": "מִמֶּ֛נָּה",
+      "surface": "ממנה",
       "gloss": "kutoka kwake"
     },
     {
-      "surface": "אִשֶּׁ֖ה",
-      "gloss": "kama dhabihu ya moto"
+      "surface": "אשה",
+      "gloss": "sadaka ya kuteketezwa"
     },
     {
-      "surface": "לַיהוָ֑ה",
+      "surface": "ליהוה",
       "gloss": "kwa Yahweh"
     },
     {
-      "surface": "וְנִכְרְתָ֛ה",
-      "gloss": "— ⟨hata⟩ ... itakatwa"
+      "surface": "ונכרתה",
+      "gloss": "itakatiliwa mbali"
     },
     {
-      "surface": "הַנֶּ֥פֶשׁ",
+      "surface": "הנפש",
       "gloss": "nafsi"
     },
     {
-      "surface": "הָאֹכֶ֖לֶת",
-      "gloss": "⟨inayokula⟩"
+      "surface": "האכלת",
+      "gloss": "yenye kula"
     },
     {
-      "surface": "מֵֽעַמֶּֽיהָ",
-      "gloss": "hiya ... kutoka kwa watu wake"
+      "surface": "מעמיה",
+      "gloss": "kutoka kati ya watu wake"
     }
   ],
-  "timestamp": "2026-08-10T10:31:54.891914739Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:57.155352945Z",
+  "model": "glm-5.3"
 }

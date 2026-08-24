@@ -5,20 +5,20 @@
   "book": "2-samuel",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Hivyo vivu ⟨אתם⟩ mfalme David aliwawekea wakfu kwa Yahweh, pamoja na fedha na dhahabu alizoweka wakfu kutoka mataifa yote aliyowakomesha.",
+  "translation": "Hizo pia mfalme David aliweka wakfu ⟨את⟩ ⟨אתם⟩ kwa Yahweh, pamoja na fedha na dhahabu aliyoziweka wakfu kutoka mataifa yote aliyo Yakabilitywayeshe",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "Hivyo vivu"
+      "gloss": "pia"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "hivyo vyombo"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "hizo"
     },
     {
       "surface": "הקדיש",
-      "gloss": "aliwawekea wakfu"
+      "gloss": "aliweka wakfu"
     },
     {
       "surface": "המלך",
@@ -46,29 +46,30 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambazo"
+      "gloss": "aliyoziweka wakfu"
     },
     {
       "surface": "הקדיש",
-      "gloss": "alizoweka wakfu"
-    },
-    {
-      "surface": "מכל",
       "gloss": "kutoka"
     },
     {
+      "surface": "מכל",
+      "gloss": "mataifa yote"
+    },
+    {
       "surface": "הגוים",
-      "gloss": "mataifa"
+      "gloss": "aliyo"
     },
     {
       "surface": "אשר",
-      "gloss": "ambao"
+      "gloss": "kuni",
+      "comment": ""
     },
     {
       "surface": "כבש",
-      "gloss": "aliyowakomesha"
+      "gloss": "kuni"
     }
   ],
-  "timestamp": "2026-08-10T11:30:12.421454354Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.295944384Z",
+  "model": "glm-5.3"
 }

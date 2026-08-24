@@ -5,7 +5,7 @@
   "book": "malachi",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Kwa laana mmebarikiwa, na ⟨אתי⟩ nyinyi mnanidanganya — taifa ⟨nzima⟩.",
+  "translation": "Kwa laana mmelaaniwa, ⟨את⟩ na mimi nyinyi mnaniibia ⟨את⟩ — ⟨hiyo⟩ taifa nzima.",
   "tokens": [
     {
       "surface": "במארה",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "נארים",
-      "gloss": "mmebarikiwa"
+      "gloss": "mmelaaniwa"
     },
     {
       "surface": "ואתי",
-      "gloss": "⟨אתי⟩",
-      "marks": "nyinyi (mnanidanganya)"
+      "gloss": "⟨את⟩ na mimi nyinyi",
+      "marks": "mimi"
     },
     {
       "surface": "אתם",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "קבעים",
-      "gloss": "mnanidanganya"
+      "gloss": "mnaniibia"
     },
     {
       "surface": "הגוי",
@@ -41,6 +41,6 @@
       "gloss": "nzima"
     }
   ],
-  "timestamp": "2026-08-10T15:24:01.995397755Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:48.512382535Z",
+  "model": "glm-5.3"
 }

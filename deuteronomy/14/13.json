@@ -5,30 +5,30 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 14,
-  "translation": "na ⟨הראה⟩, na ⟨את⟩ ha-ayah, na ha-dayah kufuatana na aina yake",
+  "translation": "na ⟨the⟩ ra'ah (mshubi), na ⟨את⟩ kipanga, na milipard, kwa jinsia yake",
   "tokens": [
     {
       "surface": "והראה",
-      "gloss": "na ⟨ha-ra'ah⟩"
+      "gloss": "na ra'ah (mshubi)"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ha-ayah"
+      "marks": "kipanga"
     },
     {
       "surface": "האיה",
-      "gloss": "ha-ayah"
+      "gloss": "kipanga"
     },
     {
       "surface": "והדיה",
-      "gloss": "na ha-dayah"
+      "gloss": "na milipard"
     },
     {
       "surface": "למינה",
-      "gloss": "kufuatana na aina yake"
+      "gloss": "kwa jinsia yake"
     }
   ],
-  "timestamp": "2026-08-10T10:57:35.063835758Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:14.913984718Z",
+  "model": "glm-5.3"
 }

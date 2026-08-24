@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 12,
-  "translation": "Yahweh na akate ⟨the⟩ midomo yote ya unyonge, ulimi unaoonesha makuu.",
+  "translation": "Yahweh atakata ⟨את⟩ midomo yote ya upumbazaji ⟨את⟩ ulimi unaosema maneno makubwa.",
   "tokens": [
     {
       "surface": "יכרת",
-      "gloss": "na akate"
+      "gloss": "atakata"
     },
     {
       "surface": "יהוה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "שפתי",
-      "gloss": "⟨the⟩ midomo"
+      "gloss": "midomo"
     },
     {
       "surface": "חלקות",
-      "gloss": "ya unyonge"
+      "gloss": "ya upumbazaji"
     },
     {
       "surface": "לשון",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "מדברת",
-      "gloss": "unaoonesha"
+      "gloss": "unaoosema"
     },
     {
       "surface": "גדלות",
-      "gloss": "makuu"
+      "gloss": "maneno makubwa"
     }
   ],
-  "timestamp": "2026-08-10T12:55:48.836432556Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:37.788695198Z",
+  "model": "glm-5.3"
 }

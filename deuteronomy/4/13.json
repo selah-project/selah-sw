@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 4,
-  "translation": "Na akawatangazia ⟨את⟩ agano lake aliwaamrisha ⟨אתכם⟩ kuilifanya — kumi yale maneno; na akaandika ⟨vyo⟩ juu ya mbili za safu za mawe.",
+  "translation": "Akawaelezea ⟨את⟩ beriti yake, aliyoamuru mmtende, yaani maneno kumi; akayaandika juu ya mabao mawili ya mawe.",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "Na akawatangazia"
+      "gloss": "akawaelezea"
     },
     {
       "surface": "לכם",
@@ -18,28 +18,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "agano lake"
+      "marks": "beriti yake"
     },
     {
       "surface": "בריתו",
-      "gloss": "agano lake"
+      "gloss": "beriti yake"
     },
     {
       "surface": "אשר",
-      "gloss": "ambalo"
+      "gloss": "aliyoamuru"
     },
     {
       "surface": "צוה",
-      "gloss": "aliwaamrisha"
+      "gloss": "amuru"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "kuilifanya"
+      "gloss": "⟨את⟩",
+      "marks": "mmtende"
     },
     {
       "surface": "לעשות",
-      "gloss": "kuilifanya"
+      "gloss": "kutenda"
     },
     {
       "surface": "עשרת",
@@ -47,11 +47,11 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "yale maneno"
+      "gloss": "maneno"
     },
     {
       "surface": "ויכתבם",
-      "gloss": "na akaandika"
+      "gloss": "akayaandika"
     },
     {
       "surface": "על",
@@ -59,17 +59,17 @@
     },
     {
       "surface": "שני",
-      "gloss": "mbili"
+      "gloss": "mawili"
     },
     {
       "surface": "לחות",
-      "gloss": "za safu"
+      "gloss": "mabao"
     },
     {
       "surface": "אבנים",
-      "gloss": "za mawe"
+      "gloss": "ya mawe"
     }
   ],
-  "timestamp": "2026-08-10T14:42:49.544337576Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:53.824178Z",
+  "model": "glm-5.3"
 }

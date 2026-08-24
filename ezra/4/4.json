@@ -5,50 +5,50 @@
   "book": "ezra",
   "lang": "sw",
   "chapter": 4,
-  "translation": "Ikawa watu wa nchi wanalegeza mikono ya watu wa Yehudah, na kuwavuruga katika kujenga ⟨אתם⟩.",
+  "translation": "Wakawa watu wa nchi wanawazolea mikono ya watu wa Yehudah, na kuwavuruga wasijenge",
   "tokens": [
     {
-      "surface": "וַיְהִי֙",
-      "gloss": "ikawa"
+      "surface": "ויהי",
+      "gloss": "wakawa"
     },
     {
-      "surface": "עַם",
+      "surface": "עם",
       "gloss": "watu"
     },
     {
-      "surface": "הָאָ֔רֶץ",
-      "gloss": "nchi"
+      "surface": "הארץ",
+      "gloss": "wa nchi"
     },
     {
-      "surface": "מְרַפִּ֖ים",
-      "gloss": "wanalegeza"
+      "surface": "מרפים",
+      "gloss": "wanawazolea"
     },
     {
-      "surface": "יְדֵ֣י",
+      "surface": "ידי",
       "gloss": "mikono"
     },
     {
-      "surface": "עַם",
-      "gloss": "watu"
+      "surface": "עם",
+      "gloss": "ya watu"
     },
     {
-      "surface": "יְהוּדָ֑ה",
-      "gloss": "Yehudah"
+      "surface": "יהודה",
+      "gloss": "wa Yehudah"
     },
     {
       "surface": "ומבלהים",
       "gloss": "na kuwavuruga"
     },
     {
-      "surface": "אוֹתָ֖ם",
-      "gloss": "⟨אתם⟩",
-      "marks": "wao"
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wao (kiwashiria cha mlengo)"
     },
     {
-      "surface": "לִבְנֽוֹת",
-      "gloss": "katika kujenga"
+      "surface": "לבנות",
+      "gloss": "wasijenge"
     }
   ],
-  "timestamp": "2026-08-10T15:40:20.432985260Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:49.152227765Z",
+  "model": "glm-5.3"
 }

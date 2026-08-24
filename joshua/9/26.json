@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "sw",
   "chapter": 9,
-  "translation": "Akawafanyia hivyo, akawaokoa ⟨אתם⟩ katika mkono wa wana wa Yisra'el, wala hawakuwaua.",
+  "translation": "Naye akawatenda hivyo, akawaokoa ⟨את⟩ wao kutoka mkononi mwa wana wa Yisraeli, wakawaua si.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "akawafanyia"
+      "gloss": "akawatenda"
     },
     {
       "surface": "להם",
@@ -25,30 +25,30 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
-      "marks": "wao (WaGiboni)"
+      "gloss": "⟨את⟩",
+      "marks": "wao"
     },
     {
       "surface": "מיד",
-      "gloss": "katika mkono"
+      "gloss": "mkononi mwa"
     },
     {
       "surface": "בני",
-      "gloss": "wa wana"
+      "gloss": "wana"
     },
     {
       "surface": "ישראל",
-      "gloss": "wa Yisra'el"
+      "gloss": "wa Yisraeli"
     },
     {
       "surface": "ולא",
-      "gloss": "wala hawaku"
+      "gloss": "na si"
     },
     {
       "surface": "הרגום",
-      "gloss": "waua"
+      "gloss": "wakawaua"
     }
   ],
-  "timestamp": "2026-08-10T11:06:28.985964139Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:15.649927951Z",
+  "model": "glm-5.3"
 }

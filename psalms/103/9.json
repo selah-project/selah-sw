@@ -5,23 +5,23 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 103,
-  "translation": "Hapana kwa daima ⟨⟨atashindana⟩⟩, wala hapana milele ⟨⟨ataweka⟩⟩ ghadhabu.",
+  "translation": "Hata daima hatahukumu, wala hata dhahiri hasira yake milele.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "Hapana"
+      "gloss": "hata"
     },
     {
       "surface": "לנצח",
-      "gloss": "kwa daima"
+      "gloss": "daima"
     },
     {
       "surface": "יריב",
-      "gloss": "⟨atashindana⟩"
+      "gloss": "hatahukumu"
     },
     {
       "surface": "ולא",
-      "gloss": "wala hapana"
+      "gloss": "wala hata"
     },
     {
       "surface": "לעולם",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "יטור",
-      "gloss": "⟨ataweka⟩"
+      "gloss": "(ku)dhahiri hasira yake"
     }
   ],
-  "timestamp": "2026-08-10T13:12:53.453551891Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:30.241166405Z",
+  "model": "glm-5.3"
 }

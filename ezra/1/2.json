@@ -5,19 +5,19 @@
   "book": "ezra",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Hivyo asema Koreshi mfalme wa Paras: ⟨כל⟩ ufalme wa dunia Yahweh Mungu wa mbingu ameupa mimi, naye ameniagiza kumjengea nyumba Yerushalayim, ambayo i Yehudah.",
+  "translation": "Hivi amesema Koresh, mfalme wa Paras: Ufalme wote wa dunia umenipa Yahweh, Elohim wa mbingu; nao yeye ameniagiza nimjengee ⟨את⟩ nyumba ⟨את⟩ Yerushalayim, iliyo katika Yehudah.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Hivyo"
+      "gloss": "Hivi"
     },
     {
       "surface": "אמר",
-      "gloss": "asema"
+      "gloss": "amesema"
     },
     {
       "surface": "כרש",
-      "gloss": "Koreshi"
+      "gloss": "Koresh"
     },
     {
       "surface": "מלך",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "⟨כל⟩"
+      "gloss": "wote"
     },
     {
       "surface": "ממלכות",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "נתן",
-      "gloss": "ameupa"
+      "gloss": "umenipa"
     },
     {
       "surface": "לי",
-      "gloss": "mimi"
+      "gloss": "ni"
     },
     {
       "surface": "יהוה",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Mungu wa"
+      "gloss": "Elohim"
     },
     {
       "surface": "השמים",
-      "gloss": "mbingu"
+      "gloss": "wa mbingu"
     },
     {
       "surface": "והוא",
-      "gloss": "naye"
+      "gloss": "nao yeye"
     },
     {
       "surface": "פקד",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "עלי",
-      "gloss": "kumjengea"
+      "gloss": "ni"
     },
     {
       "surface": "לבנות",
-      "gloss": "kujenga"
+      "gloss": "nimjengee"
     },
     {
       "surface": "לו",
-      "gloss": "kwake"
+      "gloss": "-e"
     },
     {
       "surface": "בית",
@@ -89,13 +89,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "iliyo"
     },
     {
       "surface": "ביהודה",
-      "gloss": "i Yehudah"
+      "gloss": "katika Yehudah"
     }
   ],
-  "timestamp": "2026-08-10T15:40:14.217139819Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:38.166987069Z",
+  "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "sw",
   "chapter": 17,
-  "translation": "na siku zile ambazo niliamrisha waamuzi juu ya ⟨the⟩ watu wangu Yisrael; nami nitawadhalilisha ⟨את⟩ adui zako wote, nami nakuambia, ⟨na⟩ nyumba itajengwa kwa ajili yako — Yahweh.",
+  "translation": "kuanzia siku zile nilizoamuru waamuzi juu ya watu wangu Yisraeli; nami nitawadhalilisha ⟨את⟩ adui zako wote, nami nakuambia: nyumba itajengwa kwako — Yahweh.",
   "tokens": [
     {
       "surface": "ולמימים",
-      "gloss": "na siku zile"
+      "gloss": "kuanzia siku zile"
     },
     {
       "surface": "אשר",
-      "gloss": "ambazo"
+      "gloss": "⟨zile⟩"
     },
     {
       "surface": "צויתי",
-      "gloss": "niliamrisha"
+      "gloss": "nilizoamuru"
     },
     {
       "surface": "שפטים",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "עמי",
-      "gloss": "watul wangu"
+      "gloss": "watu wangu"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "והכנעתי",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "לך",
-      "gloss": "kwa ajili yako"
+      "gloss": "kwako"
     },
     {
       "surface": "ובית",
-      "gloss": "⟨na⟩ nyumba"
+      "gloss": "nyumba"
     },
     {
       "surface": "יבנה",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "לך",
-      "gloss": "kwa ajili yako"
+      "gloss": "kwako"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T16:27:54.828235789Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:02.021560936Z",
+  "model": "glm-5.3"
 }

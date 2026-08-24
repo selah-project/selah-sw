@@ -5,33 +5,38 @@
   "book": "job",
   "lang": "sw",
   "chapter": 21,
-  "translation": "Je, mtu atamfundisha Elohim ⟨וְהוּא⟩ ⟨yeye⟩ wa juu atawahukumu?",
+  "translation": "Je, ⟨yeye⟩ atamfundisha ⟨את⟩ El maarifa, yeye ambaye hukumu walio juu?",
   "tokens": [
     {
-      "surface": "הַלְאֵל",
-      "gloss": "Je, Elohim"
+      "surface": "הלאל",
+      "gloss": "Je, El"
     },
     {
-      "surface": "יְלַמֶּד",
-      "gloss": "atamfundisha"
+      "surface": "ילמד",
+      "gloss": "atafundisha"
     },
     {
-      "surface": "דָּעַת",
-      "gloss": "elimu"
+      "surface": "דעת",
+      "gloss": "maarifa"
     },
     {
-      "surface": "וְהוּא",
-      "gloss": "⟨yeye⟩"
+      "surface": "והוא",
+      "gloss": "yeye ambaye"
     },
     {
-      "surface": "רָמִים",
-      "gloss": "wa juu"
+      "surface": "רמים",
+      "gloss": "walio juu"
     },
     {
-      "surface": "יִשְׁפֹּוט",
-      "gloss": "atahukumu"
+      "surface": "ישפוט",
+      "gloss": "hukumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
     }
   ],
-  "timestamp": "2026-08-10T16:22:50.263657490Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:04.435757012Z",
+  "model": "glm-5.3"
 }

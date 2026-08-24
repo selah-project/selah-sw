@@ -5,43 +5,43 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 29,
-  "translation": "Na mikate ya mikate-isiyochachuka, na mikate-isiyochachuka iliyotiwa mafuta, na biskuti za mikate-isiyochachuka zilizopakwa mafuta; ya unga wa ngano utazitengeneza.",
+  "translation": "Na mikate ya mikate isiyotiwa chachu, na mikate bapa isiyotiwa chachu iliyochanganywa na mafuta, na vidakika vya mikate isiyotiwa chachu vipakavyo mafuta; ya unga wa ngano utayaleta ⟨את⟩ ⟨אתם⟩.",
   "tokens": [
     {
       "surface": "ולחם",
-      "gloss": "na mikate"
+      "gloss": "Na mikate"
     },
     {
       "surface": "מצות",
-      "gloss": "ya mikate-isiyochachuka"
+      "gloss": "isiyotiwa chachu"
     },
     {
       "surface": "וחלת",
-      "gloss": "na mikate-isiyochachuka"
+      "gloss": "na mikate bapa"
     },
     {
       "surface": "מצת",
-      "gloss": "mikate-isiyochachuka"
+      "gloss": "isiyotiwa chachu"
     },
     {
       "surface": "בלולת",
-      "gloss": "iliyotiwa mafuta"
+      "gloss": "iliyochanganywa"
     },
     {
       "surface": "בשמן",
-      "gloss": "mafuta"
+      "gloss": "na mafuta"
     },
     {
       "surface": "ורקיקי",
-      "gloss": "na biskuti za"
+      "gloss": "na vidakika"
     },
     {
       "surface": "מצות",
-      "gloss": "mikate-isiyochachuka"
+      "gloss": "isiyotiwa chachu"
     },
     {
       "surface": "משחים",
-      "gloss": "zilizopakwa"
+      "gloss": "vipakavyo"
     },
     {
       "surface": "בשמן",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "סלת",
-      "gloss": "ya unga"
+      "gloss": "unga"
     },
     {
       "surface": "חטים",
@@ -57,14 +57,14 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "utazitengeneza"
+      "gloss": "utayaleta"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "mikate na biskuti"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "mikate\/vidakika hivi"
     }
   ],
-  "timestamp": "2026-08-10T10:26:58.841010990Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.327677266Z",
+  "model": "glm-5.3"
 }

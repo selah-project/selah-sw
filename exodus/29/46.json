@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 29,
-  "translation": "Nao watajua kwamba mimi ni Yahweh Elohim wao, ambaye niliwatoa ⟨אתם⟩ katika nchi ya Mitsrayim, ili niweze kukaa kati yao; mimi ni Yahweh Elohim wao.",
+  "translation": "Na watajua kwamba mimi ndimi Yahweh, Elohim wao, aliye watoa ⟨את⟩ wao kutoka katika nchi ya Mitsrayim, ili nishukae kati yao; mimi ndimi Yahweh, Elohim wao.",
   "tokens": [
     {
       "surface": "וידעו",
-      "gloss": "nao watajua"
+      "gloss": "na watajua"
     },
     {
       "surface": "כי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambaye"
+      "gloss": "aliye"
     },
     {
       "surface": "הוצאתי",
-      "gloss": "niliwatoa"
+      "gloss": "watoa"
     },
     {
       "surface": "אתם",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "מארץ",
-      "gloss": "katika nchi ya"
+      "gloss": "kutoka katika nchi ya"
     },
     {
       "surface": "מצרים",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "לשכני",
-      "gloss": "ili niweze kukaa"
+      "gloss": "ili nishukae"
     },
     {
       "surface": "בתוכם",
@@ -69,6 +69,6 @@
       "gloss": "Elohim wao"
     }
   ],
-  "timestamp": "2026-08-10T10:26:21.166520069Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:06.180768847Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 19,
-  "translation": "Ikawa siku ya pili, mkubwa akamwambia mdogo, Tazama, jana nililala ⟨את⟩ ⟨na⟩ baba yangu; tumsindikishe divai tena usiku huu, nawe ukaingia ukalale naye, ili tuhuze kwa baba yetu mbegu.",
+  "translation": "Ikawa siku iliyofuata, mkubwa akamwambia mdogo: Tazama, nililala usiku uliopita na ⟨את⟩ baba yangu; tumnyweshe divai tena usiku huu, na wewe ukaingie, lala naye, ili tuhifadhi kwa baba yetu mzao.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ממחרת",
-      "gloss": "siku ya pili"
+      "gloss": "siku iliyofuata"
     },
     {
       "surface": "ותאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "<kwa>"
+      "gloss": "kwa"
     },
     {
       "surface": "הצעירה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אמש",
-      "gloss": "jana"
+      "gloss": "usiku uliopita"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ⟨na⟩",
+      "gloss": "⟨את⟩",
       "marks": "baba yangu"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "surface": "נשקנו",
-      "gloss": "tumsindikishe"
+      "gloss": "tumnyweshe"
     },
     {
       "surface": "יין",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "ובאי",
-      "gloss": "naewe ukaingia"
+      "gloss": "ukaingie"
     },
     {
       "surface": "שכבי",
-      "gloss": "ukalale"
+      "gloss": "lala"
     },
     {
       "surface": "עמו",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "ונחיה",
-      "gloss": "ili tuhuze"
+      "gloss": "tuhifadhi"
     },
     {
       "surface": "מאבינו",
@@ -90,9 +90,9 @@
     },
     {
       "surface": "זרע",
-      "gloss": "mbegu"
+      "gloss": "mzao"
     }
   ],
-  "timestamp": "2026-08-10T10:06:09.217894114Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:32.474713278Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 17,
-  "translation": "Watajua mkutano wote huu kwamba si kwa upanga wala kwa mkuki Yahweh huokoa, maana vita ni ya Yahweh, naye atawakabidhi ⟨⟨את⟩⟩ mikononi mwetu.",
+  "translation": "Na mkusanyiko huu wote ujue kwamba si kwa upanga wala kwa mkuki Yahweh huokoa; kwa maana vita ni ya Yahweh, naye atawatieni ⟨את⟩ ⟨אתכם⟩ mikononi mwetu.",
   "tokens": [
     {
       "surface": "וידעו",
-      "gloss": "watajua"
+      "gloss": "na ujue"
     },
     {
       "surface": "כל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הקהל",
-      "gloss": "mkutano"
+      "gloss": "mkusanyiko"
     },
     {
       "surface": "הזה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "maana"
+      "gloss": "kwa maana"
     },
     {
       "surface": "ליהוה",
@@ -61,18 +61,18 @@
     },
     {
       "surface": "ונתן",
-      "gloss": "naye atawakabidhi"
+      "gloss": "naye atawatieni"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "mikononi mwetu"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "nyinyi (Wafilisti)"
     },
     {
       "surface": "בידנו",
       "gloss": "mikononi mwetu"
     }
   ],
-  "timestamp": "2026-08-10T14:53:04.829606997Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.341971491Z",
+  "model": "glm-5.3"
 }

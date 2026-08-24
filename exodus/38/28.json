@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 38,
-  "translation": "Na ⟨את⟩ elfu na mia saba na hamsi na saba aliifanya vibanio kwa nguzo, akazifunika vichwa vyake, akazifunga ⟨⟨את⟩⟩.",
+  "translation": "Na ⟨את⟩ elfu moja na mia saba na themanini na tano ⟨shekeli⟩ alitengeneza vingora vya nguzo, na kupaka michoro yao kwa fedha, na kuwafunga vizingiti.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Na ⟨את⟩",
-      "marks": "elfu na mia saba na hamsini na saba"
+      "gloss": "⟨את⟩",
+      "marks": "elfu moja na mia saba na themanini na tano"
     },
     {
       "surface": "האלף",
-      "gloss": "elfu"
+      "gloss": "elfu moja"
     },
     {
       "surface": "ושבע",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "ושבעים",
-      "gloss": "na sabini"
+      "gloss": "na themanini"
     },
     {
       "surface": "עשה",
-      "gloss": "aliifanya"
+      "gloss": "alitengeneza"
     },
     {
-      "surface": "ווים",
-      "gloss": "vibanio"
+      "surface": "וגים",
+      "gloss": "vingora"
     },
     {
       "surface": "לעמודים",
@@ -46,22 +46,22 @@
     },
     {
       "surface": "וצפה",
-      "gloss": "akazifunika"
+      "gloss": "na kupaka"
     },
     {
       "surface": "ראשיהם",
-      "gloss": "vichwa vyake"
+      "gloss": "michoro yao"
     },
     {
       "surface": "וחשק",
-      "gloss": "akazifunga"
+      "gloss": "na kuwafunga vizingiti"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "⟨ hizo ⟩"
+      "marks": "nguzo"
     }
   ],
-  "timestamp": "2026-08-10T10:29:30.589646636Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:50.832504842Z",
+  "model": "glm-5.3"
 }

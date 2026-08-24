@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 43,
-  "translation": "⟨⟨Hu⟩⟩ ni ⟨⟩umba⟩ watu huu kwa ajili yangu; watahadithia sifa zangu.",
+  "translation": "⟨Ni⟩ watu hawa nilioumba kwa ajili yangu; sifa zangu watazisimulia.",
   "tokens": [
     {
       "surface": "עם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "זו",
-      "gloss": "huyu"
+      "gloss": "hawa"
     },
     {
       "surface": "יצרתי",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "יספרו",
-      "gloss": "watahadithia"
+      "gloss": "watazisimulia"
     }
   ],
-  "timestamp": "2026-08-10T15:07:19.565277294Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:58.953195629Z",
+  "model": "glm-5.3"
 }

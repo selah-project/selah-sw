@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "sw",
   "chapter": 11,
-  "translation": "Benayah mwana wa Yehoyada, mwana wa ⟨מוֹאָב⟩ mtu shujaa, mkuu wa matendo, kutoka Kabtseli; yeye aliupiga ⟨את⟩ wawili wa Arieli wa Moabu; naye alishuka akampiga ⟨את⟩ simba katikati ya shimo, siku ya theluji.",
+  "translation": "Benajah mwana wa Yehoyada, mwana wa mwana wa shujaa, mwingi wa matendo, kutoka Kabtseel; yeye aliwapiga ⟨את⟩ wawili wale arieli wa Moabu; naye akashuka akampiga ⟨את⟩ simba katikati ya shimo siku ya theluji.",
   "tokens": [
     {
       "surface": "בניה",
-      "gloss": "Benayah"
+      "gloss": "Benajah"
     },
     {
       "surface": "בן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "mtu"
+      "gloss": "mwana wa shujaa"
     },
     {
       "surface": "חיל",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "רב",
-      "gloss": "mkuu wa"
+      "gloss": "mwingi"
     },
     {
       "surface": "פעלים",
-      "gloss": "matendo"
+      "gloss": "wa matendo"
     },
     {
       "surface": "מן",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "קבצאל",
-      "gloss": "Kabtseli"
+      "gloss": "Kabtseel"
     },
     {
       "surface": "הוא",
@@ -53,20 +53,20 @@
     },
     {
       "surface": "הכה",
-      "gloss": "aliupiga"
+      "gloss": "aliwapiga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wawili wa Arieli wa Moabu"
+      "marks": "wawili wale arieli wa Moabu"
     },
     {
       "surface": "שני",
-      "gloss": "wawili wa"
+      "gloss": "wawili"
     },
     {
       "surface": "אריאל",
-      "gloss": "Arieli"
+      "gloss": "arieli"
     },
     {
       "surface": "מואב",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "ירד",
-      "gloss": "alishuka"
+      "gloss": "akashuka"
     },
     {
       "surface": "והכה",
@@ -110,6 +110,6 @@
       "gloss": "theluji"
     }
   ],
-  "timestamp": "2026-08-10T14:07:23.976436404Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:31.787567298Z",
+  "model": "glm-5.3"
 }

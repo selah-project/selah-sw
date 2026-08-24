@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 41,
-  "translation": "Na ⟨the⟩ vyumba vya ubavu, ubavu ⟨kwenye⟩ ubavu, thelathini na tatu, mara kwa mara; na vilikuwa vikiingia kwenye ukuta ambao ni wa ⟨the⟩ nyumba, kwa ⟨the⟩ vyumba vya ubavu, kuzunguka kuzunguka, ili Kushikwa; na visishikwe kwenye ukuta wa ⟨the⟩ nyumba.",
+  "translation": "Na vyumba vya ubavu vlikuwa chumba kuelekea chumba, mara thelathini na tatu; na vilizoingia katika ukuta ambao ulikuwa wa nyumba, kwa vyumba vya ubavu, kuzunguka ⟨kuzunguka⟩, ili kuwa shikwapo, wasiwe shikwapo katika ukuta wa nyumba.",
   "tokens": [
     {
       "surface": "והצלעות",
@@ -13,35 +13,35 @@
     },
     {
       "surface": "צלע",
-      "gloss": "ubavu"
+      "gloss": "chumba"
     },
     {
       "surface": "אל",
-      "gloss": "kwenye"
+      "gloss": "kuelekea"
     },
     {
       "surface": "צלע",
-      "gloss": "ubavu"
+      "gloss": "chumba"
     },
     {
       "surface": "שלוש",
-      "gloss": "thelathini"
+      "gloss": "thelathini na tatu"
     },
     {
       "surface": "ושלשים",
-      "gloss": "na tatu"
+      "gloss": "⟨na tatu⟩"
     },
     {
       "surface": "פעמים",
-      "gloss": "mara kwa mara"
+      "gloss": "mara"
     },
     {
       "surface": "ובאות",
-      "gloss": "na vilikuwa vikiingia"
+      "gloss": "na vilizoingia"
     },
     {
       "surface": "בקיר",
-      "gloss": "kwenye ukuta"
+      "gloss": "katika ukuta"
     },
     {
       "surface": "אשר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לבית",
-      "gloss": "ni wa nyumba"
+      "gloss": "wa nyumba"
     },
     {
       "surface": "לצלעות",
@@ -61,37 +61,37 @@
     },
     {
       "surface": "סביב",
-      "gloss": "kuzunguka"
+      "gloss": "⟨kuzunguka⟩"
     },
     {
       "surface": "להיות",
-      "gloss": "ili"
+      "gloss": "ili kuwa"
     },
     {
       "surface": "אחוזים",
-      "gloss": "Kushikwa"
+      "gloss": "shikwapo"
     },
     {
       "surface": "ולא",
-      "gloss": "na visi"
+      "gloss": "wasiwe"
     },
     {
       "surface": "יהיו",
-      "gloss": "shikwe"
+      "gloss": "⟨wakiwa⟩"
     },
     {
       "surface": "אחוזים",
-      "gloss": "shikwa"
+      "gloss": "shikwapo"
     },
     {
       "surface": "בקיר",
-      "gloss": "kwenye ukuta"
+      "gloss": "katika ukuta"
     },
     {
       "surface": "הבית",
       "gloss": "wa nyumba"
     }
   ],
-  "timestamp": "2026-08-10T12:38:08.467533475Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:28.337815654Z",
+  "model": "glm-5.3"
 }

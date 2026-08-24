@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 16,
-  "translation": "Akashika Shemuweli ⟨את⟩ pembe ya mafuta, akampaka mafuta ⟨⟨ kati ya ndugu zake; roho ya Yahweh ikaisha juu ya Davidi, tokea siku hiyo na kuendelea. Naye Shemuweli akaondoka, akaenda Ramata.",
+  "translation": "Naye Shemuëli akachukua ⟨את⟩ pembe ya mafuta, akampaka mafuta katikati ya ndugu zake; na roho ya Yahweh ilimwangia Dawidi kuanzia siku ile na kuendelea; nao Shemuëli akasimama, akaenda Ramah.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "Shemuweli"
+      "gloss": "Shemuëli"
     },
     {
       "surface": "את",
@@ -34,12 +34,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "yeye"
+      "gloss": "⟨את⟩-ye",
+      "marks": "yeye (Dawidi)"
     },
     {
       "surface": "בקרב",
-      "gloss": "kati ya"
+      "gloss": "katikati ya"
     },
     {
       "surface": "אחיו",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "ותצלח",
-      "gloss": "ikaisha"
+      "gloss": "ilimwangia"
     },
     {
       "surface": "רוח",
@@ -59,19 +59,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "juu ya"
+      "gloss": "kwa"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidi"
+      "gloss": "Dawidi"
     },
     {
       "surface": "מהיום",
-      "gloss": "tokea siku"
+      "gloss": "kuanzia siku"
     },
     {
       "surface": "ההוא",
-      "gloss": "hiyo"
+      "gloss": "ile"
     },
     {
       "surface": "ומעלה",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "ויקם",
-      "gloss": "akaondoka"
+      "gloss": "akasimama"
     },
     {
       "surface": "שמואל",
-      "gloss": "Shemuweli"
+      "gloss": "Shemuëli"
     },
     {
       "surface": "וילך",
@@ -91,9 +91,9 @@
     },
     {
       "surface": "הרמתה",
-      "gloss": "Ramata"
+      "gloss": "Ramah"
     }
   ],
-  "timestamp": "2026-08-10T14:52:26.887711618Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:32.673814893Z",
+  "model": "glm-5.3"
 }

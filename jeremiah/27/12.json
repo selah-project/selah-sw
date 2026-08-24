@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 27,
-  "translation": "Na kwa Tsidkiyahu mfalme wa Yehudah nilizungumza kulingana na maneno yote haya, kusema: Ingizeni ⟨את⟩ shingo zenu chini ya nira ya mfalme wa Baveli, na mtumikie ⟨אתו⟩ yeye, na ⟨את⟩ watu wake, na mtaishi.",
+  "translation": "Na kwa Tsidkijah, mfalme wa Yehudah, nilizungumza kwa maneno yote haya, nikisema: Leta shingo zenu chini ya nira ya mfalme wa Baveli, na mtumikie yeye na watu wake, nanyi mkaishi.",
   "tokens": [
     {
       "surface": "ואל",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "צדקיה",
-      "gloss": "Tsidkiyahu"
+      "gloss": "Tsidkijah"
     },
     {
       "surface": "מלך",
-      "gloss": "mfalme"
+      "gloss": "mfalme wa"
     },
     {
       "surface": "יהודה",
-      "gloss": "wa Yehudah"
+      "gloss": "Yehudah"
     },
     {
       "surface": "דברתי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ככל",
-      "gloss": "kulingana na yote"
+      "gloss": "kwa yote"
     },
     {
       "surface": "הדברים",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "kusema"
+      "gloss": "nikisema"
     },
     {
       "surface": "הביאו",
-      "gloss": "Ingizeni"
+      "gloss": "Leta"
     },
     {
       "surface": "את",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "בעל",
-      "gloss": "chini ya nira"
+      "gloss": "chini ya"
     },
     {
       "surface": "מלך",
-      "gloss": "ya mfalme"
+      "gloss": "mfalme wa"
     },
     {
       "surface": "בבל",
-      "gloss": "wa Baveli"
+      "gloss": "Baveli"
     },
     {
       "surface": "ועבדו",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "yeye na watu wake"
     },
     {
@@ -83,9 +83,9 @@
     },
     {
       "surface": "וחיו",
-      "gloss": "na mtaishi"
+      "gloss": "nanyi mkaishi"
     }
   ],
-  "timestamp": "2026-08-10T16:10:11.381819260Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.313198068Z",
+  "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 26,
-  "translation": "Siku hiu ⟨utaimbwa⟩ wimbo huu katika nchi ya Yehudah: Mji wenye nguvu ⟨ni⟩ wetu; yeshuah ⟨⟨Elohim⟩⟩ ameuweka kwa kuta na mchingamo.",
+  "translation": "Siku hiyo watuimba ⟨את⟩ wimbo huu katika nchi ya Yehudah: Mji wenye nguvu tuna; yeshuah ataweka ⟨kama⟩ kuta na maboma.",
   "tokens": [
     {
       "surface": "ביום",
-      "gloss": "Siku"
+      "gloss": "siku"
     },
     {
       "surface": "ההוא",
-      "gloss": "hiu"
+      "gloss": "hiyo"
     },
     {
       "surface": "יושר",
-      "gloss": "⟨utaimbwa⟩"
+      "gloss": "watuimba"
     },
     {
       "surface": "השיר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "ya Yehudah"
+      "gloss": "Yehudah"
     },
     {
       "surface": "עיר",
-      "gloss": "Mji"
+      "gloss": "mji"
     },
     {
       "surface": "עז",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "לנו",
-      "gloss": "wetu"
+      "gloss": "tuna"
     },
     {
       "surface": "ישועה",
@@ -53,17 +53,17 @@
     },
     {
       "surface": "ישית",
-      "gloss": "ameuweka"
+      "gloss": "ataweka"
     },
     {
       "surface": "חומות",
-      "gloss": "kwa kuta"
+      "gloss": "kuta"
     },
     {
       "surface": "וחל",
-      "gloss": "na mchingamo"
+      "gloss": "na maboma"
     }
   ],
-  "timestamp": "2026-08-10T15:06:14.294411115Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:00.690213736Z",
+  "model": "glm-5.3"
 }

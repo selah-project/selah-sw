@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 33,
-  "translation": "Naye Ya'akov akiinua macho yake akaona, na tazama, Esav anakuja, naye pamoja nemo ⟨⟨ni⟩⟩ watu wana mia nne; akagawa ⟨את⟩ watoto juu ya Lea na juu ya Rachel na juu ya wajakazi wawili.",
+  "translation": "Na Yaakov aliinua macho yake, akaona, na tazama, Esav alikuja, na pamoja naye wanaume wanne mia; akagawa ⟨את⟩ watoto juu ya Leah na juu ya Rachel na juu ya wajakazi wawili.",
   "tokens": [
     {
       "surface": "וישא",
-      "gloss": "akiinua"
+      "gloss": "aliinua"
     },
     {
       "surface": "יעקב",
-      "gloss": "Ya'akov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "עיניו",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "בא",
-      "gloss": "anakuja"
+      "gloss": "alikuja"
     },
     {
       "surface": "ועמו",
-      "gloss": "naye pamoja nemo"
+      "gloss": "na pamoja naye"
     },
     {
       "surface": "ארבע",
-      "gloss": "wana"
+      "gloss": "wanne"
     },
     {
       "surface": "מאות",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "watufour"
+      "gloss": "wanaume"
     },
     {
       "surface": "ויחץ",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "לאה",
-      "gloss": "Lea"
+      "gloss": "Leah"
     },
     {
       "surface": "ועל",
@@ -93,6 +93,6 @@
       "gloss": "wajakazi"
     }
   ],
-  "timestamp": "2026-08-10T10:11:06.458648037Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:34.246697074Z",
+  "model": "glm-5.3"
 }

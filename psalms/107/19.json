@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 107,
-  "translation": "Wakalia kwa Yahweh katika dhiki yao, kutoka mateso yao ⟨⟨ye⟩⟩ huwaokoa.",
+  "translation": "Wakalia kwa Yahweh katika shida yao, na katika dhiki zenu ⟨aliwaokoa⟩",
   "tokens": [
     {
       "surface": "ויזעקו",
-      "gloss": "Wakalia"
+      "gloss": "wakalia"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בצר",
-      "gloss": "katika dhiki"
+      "gloss": "katika shida"
     },
     {
       "surface": "להם",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "ממצקותיהם",
-      "gloss": "kutoka mateso yao"
+      "gloss": "katika dhiki zao"
     },
     {
       "surface": "יושיעם",
-      "gloss": "huwaokoa"
+      "gloss": "aliwaokoa"
     }
   ],
-  "timestamp": "2026-08-10T13:14:43.860405151Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:38.546905740Z",
+  "model": "glm-5.3"
 }

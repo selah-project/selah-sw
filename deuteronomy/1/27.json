@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Mkasunga nguvu mahembeni mwenu, mkasema: Kwa chuki Yahweh ⟨את⟩ anatuchukia, ametutoa kutoka nchi ya Mitsrayim, ili atupe ⟨⟨ את ⟩⟩ sisi mikononi mwa waEmori, atuangamize.",
+  "translation": "Mkanung'unika katika mahema penuu, mkasema: Kwa chuki Yahweh alikuwachukia, ndiye aliyetutoa kutoka katika nchi ya Mitsrayim, atuatia katika mkono wa haEmori, ili atuangamize.",
   "tokens": [
     {
       "surface": "ותרגנו",
-      "gloss": "mkasunga nguvu"
+      "gloss": "mkanung'unika"
     },
     {
       "surface": "באהליכם",
-      "gloss": "mahembeni mwenu"
+      "gloss": "katika mahema penuu"
     },
     {
       "surface": "ותאמרו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בשנאת",
-      "gloss": "kwa chuki"
+      "gloss": "kwa chuki ya"
     },
     {
       "surface": "יהוה",
@@ -29,15 +29,16 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ anatuchukia"
+      "gloss": "⟨את⟩",
+      "marks": "sisi (aliyetutoa)"
     },
     {
       "surface": "הוציאנו",
-      "gloss": "ametutoa"
+      "gloss": "alitutoa"
     },
     {
       "surface": "מארץ",
-      "gloss": "kutoka nchi ya"
+      "gloss": "kutoka katika nchi"
     },
     {
       "surface": "מצרים",
@@ -45,26 +46,26 @@
     },
     {
       "surface": "לתת",
-      "gloss": "ili atupe"
+      "gloss": "atuatia"
     },
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩",
-      "marks": "sisi"
+      "marks": "sisi (katika mkono)"
     },
     {
       "surface": "ביד",
-      "gloss": "mikononi mwa"
+      "gloss": "katika mkono"
     },
     {
       "surface": "האמרי",
-      "gloss": "waEmori"
+      "gloss": "haEmori"
     },
     {
       "surface": "להשמידנו",
-      "gloss": "atuangamize"
+      "gloss": "ili atuangamize"
     }
   ],
-  "timestamp": "2026-08-10T14:41:23.373979741Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:39.320435422Z",
+  "model": "glm-5.3"
 }

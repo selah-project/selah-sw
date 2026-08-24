@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Na rafiki yake akajibu akasema, Hili si chochote ila upanga wa Gidoni mwana wa Yoashu, mtu wa Yisraeli; Elohim amewapatia ⟨⟨את⟩⟩ Midyani na ⟨⟨את⟩⟩ kambi yote mkononi mwake.",
+  "translation": "Na rafiki yake akajibu akasema: Hii si kitu chochote ila upanga wa Gideon mwana wa Yoash, mtu wa Yisraeli; Elohim amemtia mkononi mwake ⟨את⟩ Midiani na ⟨את⟩ kambi yote.",
   "tokens": [
     {
       "surface": "ויען",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "זאת",
-      "gloss": "hili"
+      "gloss": "Hii"
     },
     {
       "surface": "בלתי",
-      "gloss": "ila"
+      "gloss": "chochote ila"
     },
     {
       "surface": "אם",
-      "gloss": "⟨hakuna⟩"
+      "gloss": "ila"
     },
     {
       "surface": "חרב",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "גדעון",
-      "gloss": "wa Gidoni"
+      "gloss": "Gideon"
     },
     {
       "surface": "בן",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "יואש",
-      "gloss": "wa Yoashu"
+      "gloss": "wa Yoash"
     },
     {
       "surface": "איש",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "amewapatia"
+      "gloss": "amemtia"
     },
     {
       "surface": "האלהים",
@@ -74,11 +74,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Midyani"
+      "marks": "Midiani"
     },
     {
       "surface": "מדין",
-      "gloss": "Midyani"
+      "gloss": "Midiani"
     },
     {
       "surface": "ואת",
@@ -94,6 +94,6 @@
       "gloss": "kambi"
     }
   ],
-  "timestamp": "2026-08-10T14:49:51.113662078Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:38.033449614Z",
+  "model": "glm-5.3"
 }

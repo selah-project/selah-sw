@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Gideoni akafika Yordani, ⟨huku⟩ akivuka, yeye na watu mia tatu walikuwa ⟨אתו⟩; walikuwa wamechoka na pia wakiwafuatilia.",
+  "translation": "Na Gidoni akafika Yordani, akavuka, yeye na watu mia tatu waliokuwa ⟨את⟩ pamoja naye — wachovu, naam, wakidhani <wakinawakimbiza>",
   "tokens": [
     {
       "surface": "ויבא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "גדעון",
-      "gloss": "Gideoni"
+      "gloss": "Gidoni"
     },
     {
       "surface": "הירדנה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עבר",
-      "gloss": "akivuka"
+      "gloss": "akavuka"
     },
     {
       "surface": "הוא",
@@ -29,34 +29,34 @@
     },
     {
       "surface": "ושלש",
-      "gloss": "na watu mia tatu"
+      "gloss": "na mia tatu"
     },
     {
       "surface": "מאות",
-      "gloss": ""
+      "gloss": "mia"
     },
     {
       "surface": "האיש",
-      "gloss": "walikuwa"
+      "gloss": "watu"
     },
     {
       "surface": "אשר",
-      "gloss": "ambao walikuwa"
+      "gloss": "waliokuwa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "na"
+      "gloss": "⟨את⟩ pamoja naye",
+      "marks": "pamoja naye"
     },
     {
       "surface": "עיפים",
-      "gloss": "walikuwa wamechoka"
+      "gloss": "wachovu"
     },
     {
       "surface": "ורדפים",
-      "gloss": "na pia wakiwafuatilia"
+      "gloss": "wakinawakimbiza"
     }
   ],
-  "timestamp": "2026-08-10T11:15:50.243675139Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:50.495007268Z",
+  "model": "glm-5.3"
 }

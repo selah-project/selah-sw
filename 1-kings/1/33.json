@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Na mfalme akawaambia: Chukueni pamoja nanyi ⟨את⟩ watumishi wa bwana wenu, na mpmfungishe Shelomoh mwangu juu ya wanyama wa kupanda wangu, na mshushe ⟨אתו⟨ hadi Gihoni.",
+  "translation": "Na mfalume akasema kwao: Chukueni pamoja nanyi ⟨את⟩ watumishi wa bwana wenu, na mmpandenishe ⟨את⟩ Shelomoho mwanangu juu ya nyumbufarasi yangu iliyo yangu, na mshushe ⟨את⟩ yeye hadi Gichoni.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na akasema"
+      "gloss": "akasema"
     },
     {
       "surface": "המלך",
-      "gloss": "mfalme"
+      "gloss": "mfalume"
     },
     {
       "surface": "להם",
@@ -34,28 +34,28 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "watumishi wa"
+      "gloss": "watumishi"
     },
     {
       "surface": "אדניכם",
-      "gloss": "bwana wenu"
+      "gloss": "wa bwana wenu"
     },
     {
       "surface": "והרכבתם",
-      "gloss": "na mpmfungishe"
+      "gloss": "na mmpandenishe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Shelomoh"
+      "marks": "Shelomoho"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomoh"
+      "gloss": "Shelomoho"
     },
     {
       "surface": "בני",
-      "gloss": "mwangu"
+      "gloss": "mwanangu"
     },
     {
       "surface": "על",
@@ -63,15 +63,15 @@
     },
     {
       "surface": "הפרדה",
-      "gloss": "wanyama wa kupanda"
+      "gloss": "nyumbufarasi"
     },
     {
       "surface": "אשר",
-      "gloss": "ambao"
+      "gloss": "iliyo"
     },
     {
       "surface": "לי",
-      "gloss": "ni wangu"
+      "gloss": "yangu"
     },
     {
       "surface": "והורדתם",
@@ -79,8 +79,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "hadi"
+      "gloss": "⟨את⟩",
+      "marks": "yeye (Shelomoho)"
     },
     {
       "surface": "אל",
@@ -88,9 +88,9 @@
     },
     {
       "surface": "גחון",
-      "gloss": "Gihoni"
+      "gloss": "Gichoni"
     }
   ],
-  "timestamp": "2026-08-10T14:58:30.771681969Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:14.872701819Z",
+  "model": "glm-5.3"
 }

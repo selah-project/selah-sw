@@ -5,11 +5,11 @@
   "book": "zephaniah",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Hakusikiliza sauti, hakupokea mawaidha; katika Yahweh haikutumaini; kwa ⟨אֱלֹהֶיהָ⟩ Mungu wake haikumkaribia.",
+  "translation": "Hasikiliza sauti, hakupokea mwongozo, katika Yahweh hakutegemea, kwa Elohim wake hakukaribia.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "Haku"
+      "gloss": "ha-"
     },
     {
       "surface": "שמעה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "haku"
+      "gloss": "ha-"
     },
     {
       "surface": "לקחה",
-      "gloss": "pokea"
+      "gloss": "kupokea"
     },
     {
-      "surface": "מוסר",
-      "gloss": "mawaidha"
+      "surface": "mwongozo",
+      "gloss": "mwongozo"
     },
     {
       "surface": "ביהוה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "haiku"
+      "gloss": "ha-"
     },
     {
       "surface": "בטחה",
-      "gloss": "tumaini"
+      "gloss": "tegemea"
     },
     {
       "surface": "אל",
@@ -49,17 +49,17 @@
     },
     {
       "surface": "אלהיה",
-      "gloss": "Mungu wake"
+      "gloss": "Elohim wake"
     },
     {
       "surface": "לא",
-      "gloss": "haiku"
+      "gloss": "ha-"
     },
     {
       "surface": "קרבה",
-      "gloss": "mkaribia"
+      "gloss": "karibia"
     }
   ],
-  "timestamp": "2026-08-10T12:50:12.864200921Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:03.261968282Z",
+  "model": "glm-5.3"
 }

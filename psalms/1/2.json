@@ -5,45 +5,45 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Bali katika Tora ya Yahweh ⟨ndiyo⟩ kupenda kwake, na katika Tora yake ⟨⟨nayo⟩⟩ huyafufuaya mchana na usiku.",
+  "translation": "Bali furaha yake ⟨iyo⟩ katika torah ya Yahweh, na katika torah yake ⟨hutafakari⟩ mchana na usiku.",
   "tokens": [
     {
-      "surface": "כִּ֤י",
+      "surface": "כי",
+      "gloss": "Bali"
+    },
+    {
+      "surface": "אם",
       "gloss": "bali"
     },
     {
-      "surface": "אִ֥ם",
-      "gloss": "bali"
+      "surface": "בתורת",
+      "gloss": "katika torah"
     },
     {
-      "surface": "בְּתוֹרַ֥ת",
-      "gloss": "katika Tora ya"
-    },
-    {
-      "surface": "יְהוָ֗ה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "חֶ֫פְצ֥וֹ",
-      "gloss": "kupenda kwake"
+      "surface": "חפצו",
+      "gloss": "furaha yake"
     },
     {
-      "surface": "וּֽבְתוֹרָת֥וֹ",
-      "gloss": "na katika Tora yake"
+      "surface": "ובתורתו",
+      "gloss": "na katika torah yake"
     },
     {
-      "surface": "יֶהְגֶּ֗ה",
-      "gloss": "huyafufuaya"
+      "surface": "יהגה",
+      "gloss": "hutafakari"
     },
     {
-      "surface": "יוֹמָ֥ם",
+      "surface": "יומם",
       "gloss": "mchana"
     },
     {
-      "surface": "וָלָֽיְלָה",
+      "surface": "ולילה",
       "gloss": "na usiku"
     }
   ],
-  "timestamp": "2026-08-10T12:55:26.362443313Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:37.519866644Z",
+  "model": "glm-5.3"
 }

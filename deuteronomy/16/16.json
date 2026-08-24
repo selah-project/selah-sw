@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 16,
-  "translation": "Mara tatu katika mwaka kila waume wako atatokea ⟨wakimwona⟩ uso wa Yahweh, Elohim wako, mahali atakapochagua, katika sikukuu ya mikate isiyotiwa chachu na katika sikukuu ya majuma na katika sikukuu ya ⟨הַסֻּכּוֹת⟩ (mahema), na watatokea ⟨wakimwona⟩ uso wa Yahweh bure-bure:",
+  "translation": "Mara tatu katika mwaka watu wako wote wa kiume watatokea ⟨את⟩ uso wa Yahweh Elohim wako, mahali atakapochagua, katika sikukuu ya mkate usio na chachu, na katika sikukuu ya wiki, na katika sikukuu ya vibanda; wala hawatatokea ⟨את⟩ uso wa Yahweh mikono mitupu.",
   "tokens": [
     {
       "surface": "שלוש",
-      "gloss": "tatu"
+      "gloss": "Mara tatu"
     },
     {
       "surface": "פעמים",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "יראה",
-      "gloss": "atatokea ⟨wakimwona⟩"
+      "gloss": "watatokea"
     },
     {
       "surface": "כל",
-      "gloss": "kila"
+      "gloss": "wote"
     },
     {
       "surface": "זכורך",
-      "gloss": "waume wako"
+      "gloss": "watu wako wa kiume"
     },
     {
       "surface": "את",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "wa Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלהיך",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambapo"
+      "gloss": "atakapochagua mahali"
     },
     {
       "surface": "יבחר",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "המצות",
-      "gloss": "ya mikate isiyotiwa chachu"
+      "gloss": "ya mkate usio na chachu"
     },
     {
       "surface": "ובחג",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "השבעות",
-      "gloss": "ya majuma"
+      "gloss": "ya wiki"
     },
     {
       "surface": "ובחג",
@@ -82,15 +82,15 @@
     },
     {
       "surface": "הסכות",
-      "gloss": "ya ⟨הַסֻּכּוֹת⟩ (mahema)"
+      "gloss": "ya vibanda"
     },
     {
       "surface": "ולא",
-      "gloss": "na hatatokea"
+      "gloss": "wala hawatatokea"
     },
     {
       "surface": "יראה",
-      "gloss": "watatokea ⟨wakimwona⟩"
+      "gloss": "hawatatokea"
     },
     {
       "surface": "את",
@@ -103,13 +103,13 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "wa Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "ריקם",
-      "gloss": "bure-bure"
+      "gloss": "mikono mitupu"
     }
   ],
-  "timestamp": "2026-08-10T10:58:47.677698654Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:41.615803757Z",
+  "model": "glm-5.3"
 }

@@ -5,28 +5,28 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 24,
-  "translation": "Akawaambia: Msichele ⟨⟨את⟩⟩ niageni; na Yahweh amefanikisha njia yangu; nigeni niende kwa bwana wangu.",
+  "translation": "Naye akawaambia, Msinizuilie ⟨את⟩ mimi, maana Yahweh amefanikisha ⟨את⟩ njia yangu; niteni niende kwa bwana wangu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Akawaambia"
+      "gloss": "akawaambia"
     },
     {
       "surface": "אלהם",
-      "gloss": "⟨kwao⟩"
+      "gloss": "wao"
     },
     {
       "surface": "אל",
-      "gloss": "Msichele"
+      "gloss": "msi"
     },
     {
       "surface": "תאחרו",
-      "gloss": "⟨nilazimu⟩"
+      "gloss": "nizuilie"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "niageni"
+      "marks": "mimi"
     },
     {
       "surface": "ויהוה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "שלחוני",
-      "gloss": "nigeni"
+      "gloss": "niteni"
     },
     {
       "surface": "ואלכה",
@@ -53,6 +53,6 @@
       "gloss": "kwa bwana wangu"
     }
   ],
-  "timestamp": "2026-08-10T10:07:26.130659838Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:36.883719538Z",
+  "model": "glm-5.3"
 }

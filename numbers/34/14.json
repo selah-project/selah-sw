@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 34,
-  "translation": "Kwa maana kabila la wana wa Reubeni kulingana na nyumba za baba zao, na kabila la wana wa Gadi kulingana na nyumba za baba zao, wameshapokea ⟨⟨ urithi wao, na nusu ya kabila ya Menashe wameshapokea urithi wao.",
+  "translation": "Kabila la wana wa Reubeni limechukua ⟨kwa⟩ urithi wake kufuatana na nyumba za baba zao, na kabila la wana wa Gadi kufuatana na nyumba za baba zao, na nusu ya kabila la Menashe limechukua urithi wake.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "לקחו",
-      "gloss": "wameshapokea"
+      "gloss": "limechukua"
     },
     {
       "surface": "מטה",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "בני",
-      "gloss": "la wana"
+      "gloss": "wana wa"
     },
     {
       "surface": "הראובני",
-      "gloss": "wa Reubeni"
+      "gloss": "Reubeni"
     },
     {
       "surface": "לבית",
-      "gloss": "kulingana na nyumba"
+      "gloss": "kufuatana na nyumba za"
     },
     {
       "surface": "אבתם",
-      "gloss": "za baba zao"
+      "gloss": "baba zao"
     },
     {
       "surface": "ומטה",
@@ -41,41 +41,41 @@
     },
     {
       "surface": "בני",
-      "gloss": "la wana"
+      "gloss": "wana wa"
     },
     {
       "surface": "הגדי",
-      "gloss": "wa Gadi"
+      "gloss": "Gadi"
     },
     {
       "surface": "לבית",
-      "gloss": "kulingana na nyumba"
+      "gloss": "kufuatana na nyumba za"
     },
     {
       "surface": "אבתם",
-      "gloss": "za baba zao"
+      "gloss": "baba zao"
     },
     {
       "surface": "וחצי",
-      "gloss": "na nusu"
+      "gloss": "na nusu ya"
     },
     {
       "surface": "מטה",
-      "gloss": "ya kabila"
+      "gloss": "kabila"
     },
     {
       "surface": "מנשה",
-      "gloss": "ya Menashe"
+      "gloss": "Menashe"
     },
     {
       "surface": "לקחו",
-      "gloss": "wameshapokea"
+      "gloss": "limechukua"
     },
     {
       "surface": "נחלתם",
-      "gloss": "urithi wao"
+      "gloss": "urithi wake"
     }
   ],
-  "timestamp": "2026-08-10T10:52:23.468594704Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:44.656410546Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Tsadok kuhani na Natan nabii na Benayahu mwana wa Yehoyada, pamoja na ⟨watu wa⟩ Kereithi na Peleithi, wakashuka, wakamwelekeza ⟨את⟩ Shelomoh kwenye ngamia jike wa mfalme David, wakampeleka ⟨⟨את⟩ yeye⟩ mpaka Gihoni.",
+  "translation": "Ndiipo Tsadok kuhani, na Natan nabii, na Benayahu mwana wa Yehoyada, pamoja na Wakerethi na Wapelethi, walipanda chini, wakamwendesha Shlomo juu ya nyegere ya mfalme David, wakampeleka ⟨את⟩ ⟨אתו⟩ hadi Gichoni.",
   "tokens": [
     {
       "surface": "וירד",
-      "gloss": "wakashuka"
+      "gloss": "walipanda chini"
     },
     {
       "surface": "צדוק",
@@ -33,40 +33,40 @@
     },
     {
       "surface": "בן",
-      "gloss": "mwana wa"
+      "gloss": "mwana"
     },
     {
       "surface": "יהוידע",
-      "gloss": "Yehoyada"
+      "gloss": "wa Yehoyada"
     },
     {
       "surface": "והכרתי",
-      "gloss": "na Kereithi"
+      "gloss": "na Wakerethi"
     },
     {
       "surface": "והפלתי",
-      "gloss": "na Peleithi"
+      "gloss": "na Wapelethi"
     },
     {
       "surface": "וירכבו",
-      "gloss": "wakamwelekeza"
+      "gloss": "wakamwendesha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Shelomoh"
+      "marks": "Shlomo"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomoh"
+      "gloss": "Shlomo"
     },
     {
       "surface": "על",
-      "gloss": "kwenye"
+      "gloss": "juu ya"
     },
     {
       "surface": "פרדת",
-      "gloss": "ngamia jike"
+      "gloss": "nyegere"
     },
     {
       "surface": "המלך",
@@ -82,17 +82,18 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ yeye"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "yeye (Shlomo)"
     },
     {
       "surface": "על",
-      "gloss": "mpaka"
+      "gloss": "hadi"
     },
     {
       "surface": "גחון",
-      "gloss": "Gihoni"
+      "gloss": "Gichoni"
     }
   ],
-  "timestamp": "2026-08-10T16:02:48.288613530Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.387372762Z",
+  "model": "glm-5.3"
 }

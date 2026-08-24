@@ -5,11 +5,11 @@
   "book": "jonah",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Na Yonah akaomba kwa Yahweh, Elohim wake, kutoka tumboni mwa ⟨⟨hao⟩⟩ samaki.",
+  "translation": "Na Yonah akasali kwa Yahweh, Elohim wake, kutoka matumboni mwa dagaa.",
   "tokens": [
     {
       "surface": "ויתפלל",
-      "gloss": "Na akaomba"
+      "gloss": "akasali"
     },
     {
       "surface": "יונה",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "ממעי",
-      "gloss": "kutoka tumboni mwa"
+      "gloss": "kutoka matumboni mwa"
     },
     {
       "surface": "הדגה",
-      "gloss": "samaki"
+      "gloss": "⟨the⟩ dagaa"
     }
   ],
-  "timestamp": "2026-08-10T15:21:39.179372280Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:11.432097699Z",
+  "model": "glm-5.3"
 }

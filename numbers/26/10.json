@@ -5,28 +5,27 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 26,
-  "translation": "Nchi ikafungua kinywa chake ikawameza ⟨⟨את⟩ wao⟩ pamoja na Korahi wakati wowapo kufa kwa mkutano huo, moto ukala ⟨את⟩ watu hamsini na mia mbili, nao wakawa ⟨kwa⟩ ishara.",
+  "translation": "Nchi ilifungua mdomo wake, akameza ⟨את⟩ wao pamoja na ⟨את⟩ Korah katika kufa kwa makusanyiko, moto ukila ⟨את⟩ mia mbili na hamsini wa watu; wakawa ishara.",
   "tokens": [
     {
       "surface": "ותפתח",
-      "gloss": "ikafungua"
+      "gloss": "ilifungua"
     },
     {
       "surface": "הארץ",
-      "gloss": "Nchi"
+      "gloss": "nchi"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "kinywa chake"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "פיה",
-      "gloss": "kinywa chake"
+      "gloss": "mdomo wake"
     },
     {
       "surface": "ותבלע",
-      "gloss": "ikawameza"
+      "gloss": "akameza"
     },
     {
       "surface": "אתם",
@@ -34,24 +33,24 @@
     },
     {
       "surface": "ואת",
-      "gloss": "pamoja na ⟨את⟩",
-      "marks": "Korahi"
+      "gloss": "⟨את⟩",
+      "marks": "Korah"
     },
     {
       "surface": "קרח",
-      "gloss": "Korahi"
+      "gloss": "Korah"
     },
     {
       "surface": "במות",
-      "gloss": "wakati wowapo kufa"
+      "gloss": "katika kufa"
     },
     {
       "surface": "העדה",
-      "gloss": "kwa mkutano huo"
+      "gloss": "makusanyiko"
     },
     {
       "surface": "באכל",
-      "gloss": "moto ukala"
+      "gloss": "moto ukila"
     },
     {
       "surface": "האש",
@@ -60,7 +59,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "watu hamsini na mia mbili"
+      "marks": "mia mbili na hamsini wa watu"
     },
     {
       "surface": "חמשים",
@@ -68,7 +67,7 @@
     },
     {
       "surface": "ומאתים",
-      "gloss": "na mia mbili"
+      "gloss": "mia mbili"
     },
     {
       "surface": "איש",
@@ -76,13 +75,13 @@
     },
     {
       "surface": "ויהיו",
-      "gloss": "nao wakawa"
+      "gloss": "wakawa"
     },
     {
       "surface": "לנס",
-      "gloss": "⟨kwa⟩ ishara"
+      "gloss": "ishara"
     }
   ],
-  "timestamp": "2026-08-10T10:49:05.232625155Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:36.002532267Z",
+  "model": "glm-5.3"
 }

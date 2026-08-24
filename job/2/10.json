@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Na akamwambia yeye, \"Kama wanongea mmoja wa wanawake wapumbavu, wewe unanena; ⟨הטוב⟩ nzuri tunapokea ⟨מאת⟩ kutoka kwa Elohim, na ⟨הרע⟩ baya tunakataa kupokea?\" Katika hayo yote Ayubu hakufanya dhambi kwa midomo yake.",
+  "translation": "Naye akamwambia: Kama mmoja wa wanawake wajinga ndivyo unavyozungumza; je, ⟨את⟩ mema tuwapokee kutoka ⟨את⟩ Elohim, na ⟨את⟩ mabaya tusiyapokee? Katika yote haya Iyobu hakufanya dhambi kwa midomo yake.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na akamwambia"
+      "gloss": "naye akamwambia"
     },
     {
       "surface": "אליה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "כדבר",
-      "gloss": "Kama wanongea"
+      "gloss": "kama … anavyozungumza"
     },
     {
       "surface": "אחת",
@@ -25,32 +25,32 @@
     },
     {
       "surface": "הנבלות",
-      "gloss": "wa wapumbavu"
+      "gloss": "wa wanawake wajinga"
     },
     {
       "surface": "תדברי",
-      "gloss": "wewe unanena"
+      "gloss": "unavyozungumza"
     },
     {
       "surface": "גם",
-      "gloss": "pia"
+      "gloss": "je"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nzuri"
+      "marks": "mema"
     },
     {
       "surface": "הטוב",
-      "gloss": "nzuri"
+      "gloss": "mema"
     },
     {
       "surface": "נקבל",
-      "gloss": "tunapokea"
+      "gloss": "tuwapokee"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨מאת⟩"
+      "gloss": "kutoka ⟨את⟩"
     },
     {
       "surface": "האלהים",
@@ -58,24 +58,24 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "baya"
+      "gloss": "na ⟨את⟩",
+      "marks": "mabaya"
     },
     {
       "surface": "הרע",
-      "gloss": "baya"
+      "gloss": "mabaya"
     },
     {
       "surface": "לא",
-      "gloss": "hatuna"
+      "gloss": "si"
     },
     {
       "surface": "נקבל",
-      "gloss": "kupokea"
+      "gloss": "tupokee"
     },
     {
       "surface": "בכל",
-      "gloss": "Katika yote"
+      "gloss": "katika yote"
     },
     {
       "surface": "זאת",
@@ -83,21 +83,21 @@
     },
     {
       "surface": "לא",
-      "gloss": "hakufanya dhambi"
+      "gloss": "hapana"
     },
     {
       "surface": "חטא",
-      "gloss": "dhambi"
+      "gloss": "kufanya dhambi"
     },
     {
       "surface": "איוב",
-      "gloss": "Ayubu"
+      "gloss": "Iyobu"
     },
     {
       "surface": "בשפתיו",
       "gloss": "kwa midomo yake"
     }
   ],
-  "timestamp": "2026-08-10T13:30:52.201738043Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:27.117193466Z",
+  "model": "glm-5.3"
 }

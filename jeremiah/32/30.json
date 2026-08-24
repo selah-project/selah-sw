@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 32,
-  "translation": "Kwa maana wana wa Yisraeli na wana wa Yehuda wamekuwa wakifanya tu yaliyo mabaya machoni pangu tangu ujana wao; kwa maana wana wa Yisraeli wanatuza hasira tu ⟨⟨את⟩⟩ kwa kazi ya mikono yao — neno la Yahweh.",
+  "translation": "Kwa maana wana wa Yisrael na wana wa Yehudah wamekuwa wakifanya tu mabaya machoni pangu tangu utoto wao; kwa maana wana wa Yisrael wamekuwa wakinikasirisha tu kwa kazi ya mikono yao, neno la Yahweh.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraeli"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ובני",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yehudah"
     },
     {
       "surface": "אך",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הרע",
-      "gloss": "yaliyo mabaya"
+      "gloss": "mabaya"
     },
     {
       "surface": "בעיני",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מנערתיהם",
-      "gloss": "tangu ujana wao"
+      "gloss": "tangu utoto wao"
     },
     {
       "surface": "כי",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraeli"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אך",
       "gloss": "tu"
     },
     {
-      "surface": "מכעסים",
-      "gloss": "wanatuza hasira"
+      "surface": "מכעיסים",
+      "gloss": "wakinikasirisha"
     },
     {
       "surface": "אתי",
@@ -93,6 +93,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T16:10:47.563222259Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:28.993380315Z",
+  "model": "glm-5.3"
 }

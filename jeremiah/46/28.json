@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 46,
-  "translation": "Wewe usiogope, mtumishi wangu Ya'akov, neno la Yahweh, kwa maana mimi ⟨את⟩ pamoja naye; kwa maana nitafanya uharibifu katika mataifa yote nilipokuukuza huko, lakini ⟨את⟩ wewe sitakufanya uharibifu, nami nitakualika kwa hukumu, lakini kamwe sitakuhurumia.",
+  "translation": "Wewe usiogope, mtumishi wangu Yaakov, neno la Yahweh; maana mimi ni ⟨את⟩ pamoja nawe; maana nitafanya mwisho kati ya mataifa yote niliyokuhamishia huko, na ⟨את⟩ wewe sitafanya mwisho, bali nitakusahihisha kwa hukumu, kwa kukuacha adhabu sikutanguki.",
   "tokens": [
     {
       "surface": "אתה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "usiogope"
+      "gloss": "usi"
     },
     {
       "surface": "תירא",
-      "gloss": "⟨tag of negation⟩"
+      "gloss": "ogope"
     },
     {
       "surface": "עבדי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "יעקב",
-      "gloss": "Ya'akov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "נאם",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "kwa maana"
+      "gloss": "maana"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ pamoja naye"
+      "gloss": "⟨את⟩ pamoja nawe"
     },
     {
       "surface": "אני",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "kwa maana"
+      "gloss": "maana"
     },
     {
       "surface": "אעשה",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "כלה",
-      "gloss": "uharibifu"
+      "gloss": "mwisho"
     },
     {
       "surface": "בכל",
-      "gloss": "katika yote"
+      "gloss": "kati ya yote"
     },
     {
       "surface": "הגוים",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "niliyo"
     },
     {
       "surface": "הדחתיך",
-      "gloss": "nilipokuukuza"
+      "gloss": "kuhamishia"
     },
     {
       "surface": "שמה",
@@ -81,24 +81,24 @@
     },
     {
       "surface": "ואתך",
-      "gloss": "⟨את⟩",
+      "gloss": "na ⟨את⟩ wewe",
       "marks": "wewe"
     },
     {
       "surface": "לא",
-      "gloss": "sita"
+      "gloss": "si"
     },
     {
       "surface": "אעשה",
-      "gloss": "fanya"
+      "gloss": "tafanya"
     },
     {
       "surface": "כלה",
-      "gloss": "uharibifu"
+      "gloss": "mwisho"
     },
     {
       "surface": "ויסרתיך",
-      "gloss": "nami nitakualika"
+      "gloss": "bali nitakusahihisha"
     },
     {
       "surface": "למשפט",
@@ -106,17 +106,17 @@
     },
     {
       "surface": "ונקה",
-      "gloss": "kamwe"
+      "gloss": "kwa kukuacha adhabu"
     },
     {
       "surface": "לא",
-      "gloss": "sita"
+      "gloss": "si"
     },
     {
       "surface": "אנקך",
-      "gloss": "kurumia"
+      "gloss": "kutanguki"
     }
   ],
-  "timestamp": "2026-08-10T15:14:59.449419371Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:30.034372553Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "sw",
   "chapter": 22,
-  "translation": "Ujinga umefungwa moyoni mwа kijana; fimbo ya mwongozo itamuondolea mbali kutoka kwake.",
+  "translation": "Ujinga umezungushwa katika moyo wa kijana; fimbo ya mwongozo itamwondolea ⟨hiyo⟩ mbali naye.",
   "tokens": [
     {
       "surface": "אולת",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "קשורה",
-      "gloss": "umefungwa"
+      "gloss": "umezungushwa"
     },
     {
       "surface": "בלב",
-      "gloss": "moyoni mwa"
+      "gloss": "katika moyo"
     },
     {
       "surface": "נער",
-      "gloss": "kijana"
+      "gloss": "wa kijana"
     },
     {
       "surface": "שבט",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "ירחיקנה",
-      "gloss": "itamuondolea mbali"
+      "gloss": "itamwondolea ⟨hiyo⟩ mbali"
     },
     {
       "surface": "ממנו",
-      "gloss": "kutoka kwake"
+      "gloss": "naye"
     }
   ],
-  "timestamp": "2026-08-10T13:27:29.039323218Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:09.548806327Z",
+  "model": "glm-5.3"
 }

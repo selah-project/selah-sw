@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 4,
-  "translation": "na ⟨the⟩ mbuga yote ng'ambo ya Yarden, upande wa mashariki, na hadi ziwa la ⟨the⟩ mbuga, chini ya mteremko wa ⟨the⟩ Pisga.",
+  "translation": "na ⟨arabah⟩ yote ng′ambo ya Yarden, upande wa mashariki, na hadi bahari ya ⟨arabah⟩, chini ya mteremko wa Pisga.",
   "tokens": [
     {
       "surface": "וכל",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "הערבה",
-      "gloss": "⟨the⟩ mbuga"
+      "gloss": "⟨arabah⟩ (ute wa mto)"
     },
     {
       "surface": "עבר",
-      "gloss": "ng'ambo"
+      "gloss": "ng′ambo ya"
     },
     {
       "surface": "הירדן",
-      "gloss": "ya Yarden"
+      "gloss": "Yarden"
     },
     {
       "surface": "מזרחה",
@@ -33,25 +33,25 @@
     },
     {
       "surface": "ים",
-      "gloss": "ziwa"
+      "gloss": "bahari"
     },
     {
       "surface": "הערבה",
-      "gloss": "la ⟨the⟩ mbuga"
+      "gloss": "ya ⟨arabah⟩"
     },
     {
       "surface": "תחת",
-      "gloss": "chini"
+      "gloss": "chini ya"
     },
     {
       "surface": "אשדת",
-      "gloss": "ya mteremko"
+      "gloss": "mteremko"
     },
     {
       "surface": "הפסגה",
-      "gloss": "wa ⟨the⟩ Pisga"
+      "gloss": "wa Pisga"
     }
   ],
-  "timestamp": "2026-08-10T10:54:27.518783884Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:25.410322964Z",
+  "model": "glm-5.3"
 }

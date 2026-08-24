@@ -5,32 +5,32 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 29,
-  "translation": "Nami nitawageuza wafungwa wa Mitsrayim tena, na nitawarudisha ⟨אתם⟩ ⟨kwenye⟩ nchi ya Pathros, juu ya nchi ya asili yao, na watakuwa huko ufalme ulioshushwa.",
+  "translation": "Nami nitawarudishia ⟨את⟩ mateka ya Mitsrayim, na nitawarudisha ⟨את⟩ ⟨אתם⟩ ⟨kwenye⟩ nchi ya Pathros, ⟨kwenye⟩ nchi ya asili yao; nao watakuwa huko ufalme duni.",
   "tokens": [
     {
       "surface": "ושבתי",
-      "gloss": "nami nitawageuza tena"
+      "gloss": "nitawarudishia"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wafungwa wa Mitsrayim"
+      "marks": "mateka ya Mitsrayim"
     },
     {
       "surface": "שבות",
-      "gloss": "wafungwa"
+      "gloss": "mateka"
     },
     {
       "surface": "מצרים",
-      "gloss": "wa Mitsrayim"
+      "gloss": "Mitsrayim"
     },
     {
       "surface": "והשבתי",
-      "gloss": "na nitawarudisha"
+      "gloss": "nitawarudisha"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "nchi ya Pathros"
     },
     {
@@ -39,11 +39,11 @@
     },
     {
       "surface": "פתרוס",
-      "gloss": "ya Pathros"
+      "gloss": "Pathros"
     },
     {
       "surface": "על",
-      "gloss": "juu ya"
+      "gloss": "⟨kwenye⟩"
     },
     {
       "surface": "ארץ",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "מכורתם",
-      "gloss": "ya asili yao"
+      "gloss": "asili yao"
     },
     {
       "surface": "והיו",
-      "gloss": "na watakuwa"
+      "gloss": "watakuwa"
     },
     {
       "surface": "שם",
@@ -67,9 +67,9 @@
     },
     {
       "surface": "שפלה",
-      "gloss": "ulioshushwa"
+      "gloss": "duni"
     }
   ],
-  "timestamp": "2026-08-10T12:34:04.351639857Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.351559867Z",
+  "model": "glm-5.3"
 }

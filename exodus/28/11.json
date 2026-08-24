@@ -5,27 +5,27 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 28,
-  "translation": "Kazi ya mchongaji wa jiwe, kama vile kuchonga kwa muhuri, utachonga ⟨את⟩ jiwe mbili kwa majina ya wana wa Yisrael; zilizozungushiwa mifumo ya dhahabu utazifanya.",
+  "translation": "Kazi ya mchonga jiwe, kama uchongaji wa muhuri, utachonga ⟨את⟩ mawe mawili kufuatana na majina ya wana wa Yisraeli; zilizozingirwa kwa mipangilio ya dhahabu ndiyo utakayotengeneza ⟨את⟩ ⟨אתם⟩.",
   "tokens": [
     {
       "surface": "מעשה",
-      "gloss": "Kazi"
+      "gloss": "kazi ya"
     },
     {
       "surface": "חרש",
-      "gloss": "ya mchongaji"
+      "gloss": "mchonga"
     },
     {
       "surface": "אבן",
-      "gloss": "wa jiwe"
+      "gloss": "jiwe"
     },
     {
       "surface": "פתוחי",
-      "gloss": "kama vile kuchonga"
+      "gloss": "uchongaji"
     },
     {
       "surface": "חתם",
-      "gloss": "kwa muhuri"
+      "gloss": "muhuri"
     },
     {
       "surface": "תפתח",
@@ -34,19 +34,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jiwe mbili"
+      "marks": "mawe mawili"
     },
     {
       "surface": "שתי",
-      "gloss": "mbili"
+      "gloss": "mawili"
     },
     {
       "surface": "האבנים",
-      "gloss": "jiwe"
+      "gloss": "mawe"
     },
     {
       "surface": "על",
-      "gloss": "kwa"
+      "gloss": "kufuatana na"
     },
     {
       "surface": "שמת",
@@ -54,34 +54,34 @@
     },
     {
       "surface": "בני",
-      "gloss": "ya wana"
+      "gloss": "wana wa"
     },
     {
       "surface": "ישראל",
-      "gloss": "wa Yisrael"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "מסבת",
-      "gloss": "zilizozungushiwa"
+      "gloss": "zilizozingirwa"
     },
     {
       "surface": "משבצות",
-      "gloss": "mifumo"
+      "gloss": "mipangilio ya"
     },
     {
       "surface": "זהב",
-      "gloss": "ya dhahabu"
+      "gloss": "dhahabu"
     },
     {
       "surface": "תעשה",
-      "gloss": "utazifanya"
+      "gloss": "utakayotengeneza"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "mabawe"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "mawe mawili"
     }
   ],
-  "timestamp": "2026-08-10T10:25:47.314506337Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.322089137Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "malachi",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Nami nitawakanyari kwa ajili yenu ⟨ה⟩ mlaaji, wala hatokuharibieni ⟨את⟩ matunda ya nchi; wala mzabibu wenu shambani hatatupa matunda mapema, amesema Yahweh Seva'ot.",
+  "translation": "Nami nitamkemea kwa ajili yenu ⟨את⟩ mla-uharibu, wala hataharibu kwenu matunda ya ardhi, wala mzabibu shambani hutowazaa kupungua, asema Yahweh wa majeshi.",
   "tokens": [
     {
       "surface": "וגערתי",
-      "gloss": "nami nitawakanyari"
+      "gloss": "nami nitamkemea"
     },
     {
       "surface": "לכם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "באכל",
-      "gloss": "⟨hai⟩ mlaaji"
+      "gloss": "mla-uharibu"
     },
     {
       "surface": "ולא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ישחת",
-      "gloss": "atakuharibu"
+      "gloss": "hataharibu"
     },
     {
       "surface": "לכם",
@@ -34,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "matunda"
+      "marks": "matunda ya ardhi"
     },
     {
       "surface": "פרי",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "ya nchi"
+      "gloss": "ya ardhi"
     },
     {
       "surface": "ולא",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "תשכל",
-      "gloss": "itatupa"
+      "gloss": "hutowazaa kupungua"
     },
     {
       "surface": "לכם",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "amesema"
+      "gloss": "asema"
     },
     {
       "surface": "יהוה",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Seva'ot"
+      "gloss": "wa majeshi"
     }
   ],
-  "timestamp": "2026-08-10T15:24:01.995940828Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:01.168495268Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 34,
-  "translation": "Uwe tayari kwa asubuhi, nawe utapanda asubuhi kwenda mlima Sinai, ukasimama mbele yangu pale juu ya kilele cha ⟨the⟩ mlima.",
+  "translation": "Uwe tayari asubuhi, uzipande asubuhi mpaka mlima wa Sinaai, usimame huko mbele yangu juu ya kilele cha ⟨⟩ mlima.",
   "tokens": [
     {
       "surface": "והיה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לבקר",
-      "gloss": "kwa asubuhi"
+      "gloss": "asubuhi"
     },
     {
       "surface": "ועלית",
-      "gloss": "nawe utapanda"
+      "gloss": "uzipande"
     },
     {
       "surface": "בבקר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwenda"
+      "gloss": "mpaka"
     },
     {
       "surface": "הר",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "סיני",
-      "gloss": "Sinai"
+      "gloss": "Sinaai"
     },
     {
       "surface": "ונצבת",
-      "gloss": "ukasimama"
+      "gloss": "usimame"
     },
     {
       "surface": "לי",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "pale"
+      "gloss": "huko"
     },
     {
       "surface": "על",
@@ -57,13 +57,13 @@
     },
     {
       "surface": "ראש",
-      "gloss": "kilele cha"
+      "gloss": "kilele"
     },
     {
       "surface": "ההר",
-      "gloss": "mlima"
+      "gloss": "cha mlima"
     }
   ],
-  "timestamp": "2026-08-10T10:28:20.260862095Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:03.645596871Z",
+  "model": "glm-5.3"
 }

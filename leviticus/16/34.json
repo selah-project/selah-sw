@@ -5,86 +5,86 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 16,
-  "translation": "Na hii itakuwa kwenu ⟨ni⟩ amri ya daima, kupatanisha kwa ajili ya wana wa Yisraeli kutoka kwa dhambi zao zote, mara moja kwa mwaka. Na ⟨⟨akafanya⟩⟩ kama alivyo amuru Yahweh ⟨את⟩ Moshe.",
+  "translation": "Na hii itakuwa kwenu amri ya milele, kufanya upatanisho kwa wana wa Yisraeli kwa dhambi zote zao, mara moja kwa mwaka. Na akafanya kama Yahweh alivyoamrisha ⟨את⟩ Moshe.",
   "tokens": [
     {
-      "surface": "וְהָיְתָה",
+      "surface": "והיתה",
       "gloss": "na itakuwa"
     },
     {
-      "surface": "זֹאת",
+      "surface": "זאת",
       "gloss": "hii"
     },
     {
-      "surface": "לָכֶם",
+      "surface": "לכם",
       "gloss": "kwenu"
     },
     {
-      "surface": "לְחֻקַּת",
-      "gloss": "amri"
+      "surface": "לחקת",
+      "gloss": "amri ya"
     },
     {
-      "surface": "עוֹלָם",
-      "gloss": "ya daima"
+      "surface": "עולם",
+      "gloss": "milele"
     },
     {
-      "surface": "לְכַפֵּר",
-      "gloss": "kupatanisha"
+      "surface": "לכפר",
+      "gloss": "kufanya upatanisho"
     },
     {
-      "surface": "עַל",
-      "gloss": "kwa ajili ya"
+      "surface": "על",
+      "gloss": "kwa"
     },
     {
-      "surface": "בְּנֵי",
+      "surface": "בני",
       "gloss": "wana wa"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "gloss": "Yisraeli"
     },
     {
-      "surface": "מִכָּל",
-      "gloss": "kutoka kwa"
+      "surface": "מכל",
+      "gloss": "kwa zote"
     },
     {
-      "surface": "חַטֹּאתָם",
-      "gloss": "dhambi zao zote"
+      "surface": "חטאתם",
+      "gloss": "dhambi zao"
     },
     {
-      "surface": "אַחַת",
+      "surface": "אחת",
       "gloss": "mara moja"
     },
     {
-      "surface": "בַּשָּׁנָה",
+      "surface": "בשנה",
       "gloss": "kwa mwaka"
     },
     {
-      "surface": "וַיַּעַשׂ",
+      "surface": "ויעש",
       "gloss": "na akafanya"
     },
     {
-      "surface": "כַּאֲשֶׁר",
-      "gloss": "kama alivyo"
+      "surface": "כאשר",
+      "gloss": "kama"
     },
     {
-      "surface": "צִוָּה",
-      "gloss": "amuru"
+      "surface": "צוה",
+      "gloss": "alivyoamrisha"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "Moshe"
     },
     {
-      "surface": "מֹשֶׁה",
+      "surface": "משה",
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-10T10:35:21.214389253Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:16.596596893Z",
+  "model": "glm-5.3"
 }

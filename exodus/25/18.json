@@ -5,27 +5,27 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 25,
-  "translation": "Na utatengeneza kerubi wawili wa dhahabu; kazi iliyopigwaWA kwa nyundo utawafanya ⟨אתם⟩, kutoka ncha mbili za kifuniko.",
+  "translation": "Na utafanya makerubi mawili wa dhahabu; kazi ya kupigwa ⟨aliyopigwa kwa nyundo⟩ utawafanya ⟨את⟩ ⟨אתם⟩ kutoka pande zote mbili za kapporet (mahali pa kufunika)",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "Na utatengeneza"
+      "gloss": "Na utafanya"
     },
     {
       "surface": "שנים",
-      "gloss": "wawili"
+      "gloss": "mawili"
     },
     {
       "surface": "כרבים",
-      "gloss": "kerubi"
+      "gloss": "makerubi"
     },
     {
       "surface": "זהב",
-      "gloss": "wa dhahabu"
+      "gloss": "dhahabu"
     },
     {
       "surface": "מקשה",
-      "gloss": "kazi iliyopigwaWA kwa nyundo"
+      "gloss": "kazi ya kupigwa"
     },
     {
       "surface": "תעשה",
@@ -33,8 +33,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "kerubi wawili"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "makerubi mawili"
     },
     {
       "surface": "משני",
@@ -42,13 +42,13 @@
     },
     {
       "surface": "קצות",
-      "gloss": "ncha"
+      "gloss": "pande\/ends"
     },
     {
       "surface": "הכפרת",
-      "gloss": "za kifuniko"
+      "gloss": "za kapporet"
     }
   ],
-  "timestamp": "2026-08-10T10:25:32.033578775Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.329830314Z",
+  "model": "glm-5.3"
 }

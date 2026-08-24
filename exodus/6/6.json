@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 6,
-  "translation": "Kwa hiyo waambie wana wa Yisra'eli: Mimi ni Yahweh, nami nitawatoa chini ya mizigo ya Mitsrayim, nami nitawaokoa kutoka utumwani kwao, nami nitawakomboa kwa mkono ulionyoshwa na kwa hukumu kubwa.",
+  "translation": "Kwa hiyo sema na wana wa Yisrael: Mimi ni Yahweh, nami nitawatoa ⟨את⟩ ninyi chini ya mizigo ya Mitsrayim, nami nitawaokoa ⟨את⟩ ninyi kutoka utumwa wao, nami nitawaokoa kwa mkombo ulionyoshwa na kwa hukumu kubwa.",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "אמר",
-      "gloss": "waambie"
+      "gloss": "sema"
     },
     {
       "surface": "לבני",
-      "gloss": "wana wa"
+      "gloss": "na wana wa"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'eli"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אני",
@@ -37,8 +37,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתם⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩",
+      "marks": "ninyi (chini ya mizigo ya Mitsrayim)"
     },
     {
       "surface": "מתחת",
@@ -58,29 +58,29 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתם⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩",
+      "marks": "ninyi (kutoka utumwa wao)"
     },
     {
       "surface": "מעבדתם",
-      "gloss": "utumwani kwao"
+      "gloss": "kutoka utumwa wao"
     },
     {
       "surface": "וגאלתי",
-      "gloss": "nami nitawakomboa"
+      "gloss": "nami nitawaokoa kwa kulipuza"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "ninyi"
     },
     {
       "surface": "בזרוע",
-      "gloss": "kwa mkono"
+      "gloss": "kwa mkombo"
     },
     {
       "surface": "נטויה",
-      "gloss": "ulinyoshwa"
+      "gloss": "ulionyoshwa"
     },
     {
       "surface": "ובשפטים",
@@ -91,6 +91,6 @@
       "gloss": "kubwa"
     }
   ],
-  "timestamp": "2026-08-10T10:18:25.815022544Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:36.561551959Z",
+  "model": "glm-5.3"
 }

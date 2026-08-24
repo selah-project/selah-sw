@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Makampuni matatu yakapuliza ⟨⟨את⟩⟩ mashofara, yakavunja ⟨⟨את⟩⟩ vyungo, wakashikilia mishumaa katika mkono wa kushoto, na mashofara katika mkono wa kuume ili kupuliza; wakapiga kelele: Upanga wa Yahweh na wa Gidoni!",
+  "translation": "Na makundi matatu yakapiga baragumu, wakavunja vyombo, wakashika mishumaa mkononi wa kushoto, na baragumu mkononi wa kume, ili kupiga; wakaita: Upanga ⟨kwa⟩ Yahweh na kwa Gideon!",
   "tokens": [
     {
       "surface": "ויתקעו",
-      "gloss": "yakapuliza"
+      "gloss": "yakapiga"
     },
     {
       "surface": "שלשת",
@@ -17,27 +17,27 @@
     },
     {
       "surface": "הראשים",
-      "gloss": "Makampuni makuu"
+      "gloss": "makundi (vichwa)"
     },
     {
       "surface": "בשופרות",
-      "gloss": "mashofara"
+      "gloss": "baragumu"
     },
     {
       "surface": "וישברו",
-      "gloss": "yakavunja"
+      "gloss": "wakavunja"
     },
     {
       "surface": "הכדים",
-      "gloss": "vyungo"
+      "gloss": "vyombo"
     },
     {
       "surface": "ויחזיקו",
-      "gloss": "wakashikilia"
+      "gloss": "wakashika"
     },
     {
       "surface": "ביד",
-      "gloss": "katika mkono"
+      "gloss": "mkononi"
     },
     {
       "surface": "שמאולם",
@@ -49,23 +49,23 @@
     },
     {
       "surface": "וביד",
-      "gloss": "na katika mkono"
+      "gloss": "na mkononi"
     },
     {
       "surface": "ימינם",
-      "gloss": "wa kuume"
+      "gloss": "wa kume"
     },
     {
       "surface": "השופרות",
-      "gloss": "mashofara"
+      "gloss": "baragumu"
     },
     {
       "surface": "לתקוע",
-      "gloss": "ili kupuliza"
+      "gloss": "ili kupiga"
     },
     {
       "surface": "ויקראו",
-      "gloss": "wakapiga kelele"
+      "gloss": "wakaita"
     },
     {
       "surface": "חרב",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "wa Yahweh"
+      "gloss": "kwa Yahweh"
     },
     {
       "surface": "ולגדעון",
-      "gloss": "na wa Gidoni"
+      "gloss": "na kwa Gideon"
     }
   ],
-  "timestamp": "2026-08-10T11:15:01.706864656Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:51.782405829Z",
+  "model": "glm-5.3"
 }

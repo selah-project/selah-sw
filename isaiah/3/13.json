@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Yahweh amesimama kushindana, ⟨na⟩ yeye husimama kuhukumu ⟨ה⟩ watu.",
+  "translation": "Yahweh amesimama kuhoji, na ⟨amesimama⟩ kuhukumu watu.",
   "tokens": [
     {
       "surface": "נצב",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "לריב",
-      "gloss": "kushindana"
+      "gloss": "kuhoji"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ועמד",
-      "gloss": "na husimama"
+      "gloss": "na ⟨amesimama⟩"
     },
     {
       "surface": "לדין",
@@ -32,6 +32,6 @@
       "gloss": "watu"
     }
   ],
-  "timestamp": "2026-08-10T17:48:58.399741296Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:39.900790669Z",
+  "model": "glm-5.3"
 }

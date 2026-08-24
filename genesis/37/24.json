@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 37,
-  "translation": "wakamchukua, wakamtupa ⟨אתו⟩ shimoni; na shimolikuwa wazi, hakuna ndani yake maji.",
+  "translation": "Wakamchukua, wakamtupua ⟨את⟩ yeye shimoni; na shimo hilo likuwa tupu, hakukuwa na ⟨is⟩ maji ndani yake.",
   "tokens": [
     {
       "surface": "ויקחהו",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "וישלכו",
-      "gloss": "wakamtupa"
+      "gloss": "wakamtupua"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "shimoni"
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
     },
     {
       "surface": "הברה",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "והבור",
-      "gloss": "na shimo"
+      "gloss": "na shimo hilo"
     },
     {
       "surface": "רק",
-      "gloss": "likuwa wazi"
+      "gloss": "likuwa tupu"
     },
     {
       "surface": "אין",
-      "gloss": "hakuna"
+      "gloss": "hakukuwa na"
     },
     {
       "surface": "בו",
@@ -45,6 +45,6 @@
       "gloss": "maji"
     }
   ],
-  "timestamp": "2026-08-10T10:13:27.284070054Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:14.024267077Z",
+  "model": "glm-5.3"
 }

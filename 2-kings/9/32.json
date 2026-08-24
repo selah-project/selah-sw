@@ -5,61 +5,62 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 9,
-  "translation": "Akainua uso wake kuelekea dirisha, akasema: Ni nani ⟨⟨את⟩⟩ pamoja nami, ni nani? Basi wakamtazama wake pamoja na, watatu wahudumu wa masikioni.",
+  "translation": "Akainua uso wake kuelekea ⟨dirisha⟩, akasema: Nani ⟨את⟩ yu pamoja nami? nani? Nao wawili au watatu mashartiza walimtazama yeye.",
   "tokens": [
     {
-      "surface": "וַיִּשָּׂא",
+      "surface": "וישא",
       "gloss": "akainua"
     },
     {
-      "surface": "פָנָיו",
+      "surface": "פניו",
       "gloss": "uso wake"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "kuelekea"
     },
     {
-      "surface": "הַחַלּוֹן",
+      "surface": "החלון",
       "gloss": "dirisha"
     },
     {
-      "surface": "וַיֹּאמֶר",
+      "surface": "ויאמר",
       "gloss": "akasema"
     },
     {
-      "surface": "מִי",
-      "gloss": "ni nani"
+      "surface": "מי",
+      "gloss": "nani"
     },
     {
-      "surface": "אִתִּי",
-      "gloss": "⟨את⟩ pamoja nami"
+      "surface": "אתי",
+      "gloss": "⟨את⟩ yu pamoja nami",
+      "marks": "nani (aliyeulizwa)"
     },
     {
-      "surface": "מִי",
-      "gloss": "ni nani"
+      "surface": "מי",
+      "gloss": "nani"
     },
     {
-      "surface": "וַיַּשְׁקִיפוּ",
-      "gloss": "wakamtazama"
+      "surface": "וישקיפו",
+      "gloss": "walimtazama"
     },
     {
-      "surface": "אֵלָיו",
-      "gloss": "wake pamoja na"
+      "surface": "אליו",
+      "gloss": "kuelekea yeye"
     },
     {
-      "surface": "שְׁנַיִם",
-      "gloss": "watatu"
+      "surface": "שנים",
+      "gloss": "wawili"
     },
     {
-      "surface": "שְׁלֹשָׁה",
-      "gloss": "wahudumu wa masikioni"
+      "surface": "שלשה",
+      "gloss": "au watatu"
     },
     {
-      "surface": "סָרִיסִים",
-      "gloss": ""
+      "surface": "סריסים",
+      "gloss": "mashartiza"
     }
   ],
-  "timestamp": "2026-08-10T17:47:44.860184833Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:51.489174062Z",
+  "model": "glm-5.3"
 }

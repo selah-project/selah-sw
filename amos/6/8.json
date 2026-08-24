@@ -5,11 +5,11 @@
   "book": "amos",
   "lang": "sw",
   "chapter": 6,
-  "translation": "Adonai Yahweh ameapa kwa nafsi yake, neno la Yahweh, Elohim wa majeshi: ⟨⟨נפשׁוֹ⟩ nachukia mimi⟩ ⟨את⟩ kiburi ya Ya'akov, na majumba yake nimewachukia; na nitamkulia mji na vilivyomo",
+  "translation": "Adonai Yahweh aliapa kwa nafsi yake, ati Yahweh, Elohim wa majihi: nachukia ⟨את⟩ kiburi cha Yakov, na majumba yake nimewachukia, nami nitaukabidhi mji pamoja na ⟨wote⟩ waliomo ndani yake.",
   "tokens": [
     {
       "surface": "נשבע",
-      "gloss": "ameapa"
+      "gloss": "aliapa"
     },
     {
       "surface": "אדני",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "neno la"
+      "gloss": "ati"
     },
     {
       "surface": "יהוה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "majeshi"
+      "gloss": "majihi"
     },
     {
       "surface": "מתאב",
-      "gloss": "⟨nafsi yake⟩ nachukia"
+      "gloss": "nachukia"
     },
     {
       "surface": "אנכי",
@@ -50,7 +50,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kiburi ya Ya'akov"
+      "marks": "kiburi cha Yakov"
     },
     {
       "surface": "גאון",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "יעקב",
-      "gloss": "ya Ya'akov"
+      "gloss": "Yakov"
     },
     {
       "surface": "וארמנתיו",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "והסגרתי",
-      "gloss": "na nitamkulia"
+      "gloss": "nami nitaukabidhi"
     },
     {
       "surface": "עיר",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "ומלאה",
-      "gloss": "na vilivyomo"
+      "gloss": "pamoja na waliomo ndani yake"
     }
   ],
-  "timestamp": "2026-08-10T12:46:10.550429713Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:50.575011444Z",
+  "model": "glm-5.3"
 }

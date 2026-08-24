@@ -5,27 +5,27 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 10,
-  "translation": "Isipokuwa kutokana na watu wa ⟨the⟩ wafanyabiashara, na biashara ya wafanyabiashara, na wafalme wote wa ⟨the⟩ Kiarabu, na magavana wa ⟨the⟩ nchi.",
+  "translation": "Isipokuwa ⟨ Kilicho kutoka ⟩ kwa wanafanyabiashara waendaao na bidhaa, na biashara ya wafanyabiashara, na wafalme wote wa ⟨ Erebu ⟩, na magavana wa ⟨ nchi ⟩.",
   "tokens": [
     {
       "surface": "לבד",
-      "gloss": "Isipokuwa"
+      "gloss": "isipokuwa"
     },
     {
       "surface": "מאנשי",
-      "gloss": "kutokana na watu wa"
+      "gloss": "kwa watu wa"
     },
     {
       "surface": "התרים",
-      "gloss": "wafanyabiashara"
+      "gloss": "wanafanyabiashara waendaao"
     },
     {
       "surface": "ומסחר",
-      "gloss": "na biashara ya"
+      "gloss": "na biashara"
     },
     {
       "surface": "הרכלים",
-      "gloss": "wafanyabiashara"
+      "gloss": "ya wafanyabiashara"
     },
     {
       "surface": "וכל",
@@ -37,17 +37,17 @@
     },
     {
       "surface": "הערב",
-      "gloss": "Kiarabu"
+      "gloss": "wa Erebu"
     },
     {
       "surface": "ופחות",
-      "gloss": "na magavana wa"
+      "gloss": "na magavana"
     },
     {
       "surface": "הארץ",
-      "gloss": "nchi"
+      "gloss": "wa nchi"
     }
   ],
-  "timestamp": "2026-08-10T16:03:22.010895061Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:03.518344753Z",
+  "model": "glm-5.3"
 }

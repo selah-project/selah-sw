@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 31,
-  "translation": "Akampa Moshe, alipomaliza kumzungumzia ⟨אתו⟩ katika mlima Sinai, jozi mbili za mbao za ushuhuda — mbao za mawe, zilioandikwa kwa kidole cha Elohim.",
+  "translation": "Na akampa Moshe, alipokwisha kuzungumza naye ⟨את⟩ katika mlima wa Sinai, mbili za lohu za shuhuda, lohu za mawe, zilizoandikwa kwa kidole cha Elohim.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "Akampa"
+      "gloss": "na akampa"
     },
     {
       "surface": "אל",
-      "gloss": "⟨kwa⟩"
+      "gloss": "kwa"
     },
     {
       "surface": "משה",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "ככלתו",
-      "gloss": "alipomaliza"
+      "gloss": "alipokwisha"
     },
     {
       "surface": "לדבר",
-      "gloss": "kumzungumzia"
+      "gloss": "kuzungumza"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "yeye"
+      "gloss": "⟨את⟩ naye",
+      "marks": "Moshe"
     },
     {
       "surface": "בהר",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "לחת",
-      "gloss": "za mbao"
+      "gloss": "za lohu"
     },
     {
       "surface": "העדת",
-      "gloss": "za ushuhuda"
+      "gloss": "za shuhuda"
     },
     {
       "surface": "לחת",
-      "gloss": "mbao"
+      "gloss": "lohu"
     },
     {
       "surface": "אבן",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "כתבים",
-      "gloss": "zilioandikwa"
+      "gloss": "zilizoandikwa"
     },
     {
       "surface": "באצבע",
@@ -73,6 +73,6 @@
       "gloss": "cha Elohim"
     }
   ],
-  "timestamp": "2026-08-10T10:27:34.752522505Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:03.450811767Z",
+  "model": "glm-5.3"
 }

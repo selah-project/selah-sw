@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 4,
-  "translation": "Nawe utazungumza naye, nawe utaweka ⟨את⟩ maneno kinywani mwake; nami mimi nitakuwa na kinywa chako na kinywa chake, nami nitawafundisheni ⟨אתם⟩ ⟨את⟩ yale mtakayoyafanya.",
+  "translation": "Nawe utaongea naye, utaweka ⟨את⟩ maneno kinywani mwake, nami mimi nitakuwa pamoja na kinywa chako na kinywa chake, nami nitawafundisha ⟨את⟩ ⟨אתכם⟩ ⟨את⟩ yale mtakayoyatenda.",
   "tokens": [
     {
       "surface": "ודברת",
-      "gloss": "Nawe utazungumza"
+      "gloss": "utaongea"
     },
     {
       "surface": "אליו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ושמת",
-      "gloss": "nawe utaweka"
+      "gloss": "utaweka"
     },
     {
       "surface": "את",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "na"
+      "gloss": "pamoja na"
     },
     {
       "surface": "פיך",
@@ -58,27 +58,26 @@
     },
     {
       "surface": "והוריתי",
-      "gloss": "nami nitawafundisheni"
+      "gloss": "nitawafundisha"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתם⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩ ⟨אתכם⟩"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yale"
+      "marks": "yale mtakayoyatenda"
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "yale"
     },
     {
       "surface": "תעשון",
-      "gloss": "mtakayoyafanya"
+      "gloss": "mtakayoyatenda"
     }
   ],
-  "timestamp": "2026-08-10T10:18:40.387859087Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.325615275Z",
+  "model": "glm-5.3"
 }

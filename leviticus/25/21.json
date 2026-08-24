@@ -5,55 +5,55 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 25,
-  "translation": "Nami nitaamuru ⟨את⟩ baraka yangu kwenu katika mwaka wa sita, na ⟨⟨ile⟩⟩ itaunda ⟨את⟩ mazao ya miaka mitatu.",
+  "translation": "Nami nitakuamuru ⟨את⟩ baraka yangu kwenu katika mwaka wa sita, nayo itazalisha ⟨את⟩ mavuno ya miaka mitatu.",
   "tokens": [
     {
-      "surface": "וְצִוִּ֤יתִי",
-      "gloss": "nitaamuru"
+      "surface": "וצויתי",
+      "gloss": "nami nitakuamuru"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "baraka yangu"
     },
     {
-      "surface": "בִּרְכָתִי֙",
+      "surface": "ברכתי",
       "gloss": "baraka yangu"
     },
     {
-      "surface": "לָכֶ֔ם",
+      "surface": "לכם",
       "gloss": "kwenu"
     },
     {
-      "surface": "בַּשָּׁנָ֖ה",
+      "surface": "בשנה",
       "gloss": "katika mwaka"
     },
     {
-      "surface": "הַשִּׁשִּׁ֑ית",
+      "surface": "הששית",
       "gloss": "wa sita"
     },
     {
-      "surface": "וְעָשָׂת֙",
-      "gloss": "na itaunda"
+      "surface": "ועשת",
+      "gloss": "nayo itazalisha"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mazao"
+      "marks": "mavuno"
     },
     {
-      "surface": "הַתְּבוּאָ֔ה",
-      "gloss": "mazao"
+      "surface": "התבואה",
+      "gloss": "mavuno"
     },
     {
-      "surface": "לִשְׁלֹ֖שׁ",
-      "gloss": "ya mitatu"
+      "surface": "לשלש",
+      "gloss": "ya miaka mitatu"
     },
     {
-      "surface": "הַשָּׁנִֽים",
-      "gloss": "miaka"
+      "surface": "השנים",
+      "gloss": "(miaka)"
     }
   ],
-  "timestamp": "2026-08-10T14:36:07.755365254Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:40.170945367Z",
+  "model": "glm-5.3"
 }

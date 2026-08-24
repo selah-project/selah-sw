@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "sw",
   "chapter": 10,
-  "translation": "⟨Juу⟩ ya wachungaji hasira yangu inawaka, na ⟨juu⟩ ya mbuzi wa dume nitawatazama; kwa maana Yahweh Sebaoth amemwangalia kundi lake, ⟨את⟩ nyumba ya Yehudah, na kuwafanya kama farasi wa utukufu ⟨katika⟩ vita.",
+  "translation": "Ghadhabu yangu inawaka dhidi ya wachungaji, na wat wa mbuzi-waume nitawatahadhari; kwa kuwa Yahweh wa majeshi amemhudumia ⟨את⟩ kundi lake, ⟨את⟩ nyumba ya Yehudah, naye aliwaweka kama farasi wa utukufu wake katika vita.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "Juу ya"
+      "gloss": "dhidi ya"
     },
     {
       "surface": "הרעים",
@@ -21,27 +21,27 @@
     },
     {
       "surface": "אפי",
-      "gloss": "hasira yangu"
+      "gloss": "ghadhabu yangu"
     },
     {
       "surface": "ועל",
-      "gloss": "na juu ya"
+      "gloss": "na dhidi ya"
     },
     {
       "surface": "העתודים",
-      "gloss": "mbuzi wa dume"
+      "gloss": "wat wa mbuzi-waume"
     },
     {
       "surface": "אפקוד",
-      "gloss": "nitawatazama"
+      "gloss": "nitawatahadhari"
     },
     {
       "surface": "כי",
-      "gloss": "kwa maana"
+      "gloss": "kwa kuwa"
     },
     {
       "surface": "פקד",
-      "gloss": "amemwangalia"
+      "gloss": "amemhudumia"
     },
     {
       "surface": "יהוה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Sebaoth"
+      "gloss": "wa majeshi"
     },
     {
       "surface": "את",
@@ -75,25 +75,26 @@
     },
     {
       "surface": "ושם",
-      "gloss": "na kuwafanya"
+      "gloss": "naye aliwaweka"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ wao"
+      "gloss": "⟨את⟩",
+      "marks": "farasi wa utukufu wake"
     },
     {
       "surface": "כסוס",
-      "gloss": "kama farasi wa"
+      "gloss": "kama farasi"
     },
     {
       "surface": "הודו",
-      "gloss": "utukufu"
+      "gloss": "wa utukufu wake"
     },
     {
       "surface": "במלחמה",
       "gloss": "katika vita"
     }
   ],
-  "timestamp": "2026-08-10T15:23:16.720541792Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:40.359482843Z",
+  "model": "glm-5.3"
 }

@@ -5,44 +5,44 @@
   "book": "nehemiah",
   "lang": "sw",
   "chapter": 10,
-  "translation": "Kwa maana kwenye vyumba ndiko wana wa Yisraeli na wana wa Walawi watakapoleta toleo la nafaka, divai mpya na mafuta; na huko ⟨⟨pale⟩⟩ kuna vyombo cha patakatifu, na makuhani wanaohudumu, na walinzi wa milango, na waimbaji; na hatutaiacha ⟨את⟩ nyumba ya Elohim wetu.",
+  "translation": "Kwa maana wana wa Yisraeli na wana wa Lawi wataleta ⟨את⟩ toleo la nafaka, mvinyo mpya na mafuta, hadi vyumba vile; na hapo pana vyombo cha patakatifu, na makuhani wahudumu, na walinda milango, na waimbaji; nasi hatutaacha ⟨את⟩ nyumba ya Elohim yetu.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kwa maana"
+      "gloss": "kwa maana"
     },
     {
       "surface": "אל",
-      "gloss": "kwenye"
+      "gloss": "hadi"
     },
     {
       "surface": "הלשכות",
-      "gloss": "vyumba"
+      "gloss": "vyumba vile"
     },
     {
       "surface": "יביאו",
-      "gloss": "ndiko watakapoleta"
+      "gloss": "wataleta"
     },
     {
       "surface": "בני",
-      "gloss": "wana"
+      "gloss": "wana wa"
     },
     {
       "surface": "ישראל",
-      "gloss": "wa Yisraeli"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "ובני",
-      "gloss": "na wana"
+      "gloss": "na wana wa"
     },
     {
       "surface": "הלוי",
-      "gloss": "wa Walawi"
+      "gloss": "Lawi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "toleo"
+      "marks": "toleo la nafaka, mvinyo mpya na mafuta"
     },
     {
       "surface": "תרומת",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "התירוש",
-      "gloss": "divai mpya"
+      "gloss": "mvinyo mpya"
     },
     {
       "surface": "והיצהר",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "ושם",
-      "gloss": "na huko"
+      "gloss": "na hapo"
     },
     {
       "surface": "כלי",
-      "gloss": "kuna vyombo"
+      "gloss": "vyombo"
     },
     {
       "surface": "המקדש",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "המשרתים",
-      "gloss": "wanaohudumu"
+      "gloss": "wahudumu"
     },
     {
       "surface": "והשוערים",
-      "gloss": "na walinzi wa milango"
+      "gloss": "na walinda milango"
     },
     {
       "surface": "והמשררים",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "na hatutai"
+      "gloss": "nasi hatuta"
     },
     {
       "surface": "נעזב",
@@ -99,7 +99,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nyumba"
+      "marks": "nyumba ya Elohim yetu"
     },
     {
       "surface": "בית",
@@ -107,9 +107,9 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "ya Elohim wetu"
+      "gloss": "ya Elohim yetu"
     }
   ],
-  "timestamp": "2026-08-10T14:01:51.278435437Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:23.897977454Z",
+  "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Mjumbe wa Yahweh akamwambia Eliyahu: Shuka pamoja naye; usimwogope. Akasimama, akashuka pamoja naye, akaenda kwa ⟨ה⟩ mfalme.",
+  "translation": "Mjumbe wa Yahweh aliongea na Eliyahu: Shuka ⟨pamoja naye⟩, usimwogope ⟨yeye⟩. Basi akaenda akashuka ⟨pamoja naye⟩ kwenda kwa mfalme.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "akamwambia"
+      "gloss": "aliongea"
     },
     {
       "surface": "מלאך",
-      "gloss": "Mjumbe"
+      "gloss": "mjumbe"
     },
     {
       "surface": "יהוה",
-      "gloss": "wa Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": "na"
     },
     {
       "surface": "אליהו",
@@ -33,23 +33,24 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ pamoja naye"
+      "gloss": "⟨את⟩",
+      "marks": "pamoja naye"
     },
     {
       "surface": "אל",
-      "gloss": "usi-"
+      "gloss": "usimwogope"
     },
     {
       "surface": "תירא",
-      "gloss": "mwogope"
+      "gloss": "⟨usimwogope⟩"
     },
     {
       "surface": "מפניו",
-      "gloss": "(kumwogopa) mwenyewe"
+      "gloss": "yeye"
     },
     {
       "surface": "ויקם",
-      "gloss": "akasimama"
+      "gloss": "akaenda"
     },
     {
       "surface": "וירד",
@@ -57,17 +58,18 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ pamoja naye"
+      "gloss": "⟨את⟩",
+      "marks": "pamoja naye"
     },
     {
       "surface": "אל",
-      "gloss": "akaenda kwa"
+      "gloss": "kwenda kwa"
     },
     {
       "surface": "המלך",
       "gloss": "mfalme"
     }
   ],
-  "timestamp": "2026-08-10T11:46:08.009082076Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:25.380747105Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Akaiinua ⟨את│nguzo mbele ya uso wa hekalu, moja kulia na moja kushoto; akaita jina la la kulia Yakîn, na jina la la kushoto Boaz.",
+  "translation": "Akaweka ⟨את⟩ nguzo mbele ya hekalu, moja kulia na moja kushoto; akaita jina la ⟨ile⟩ ya kulia Yakhin, na jina la ⟨ile⟩ ya kushoto Boaz.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "akaiinua"
+      "gloss": "akaweka"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "פני",
-      "gloss": "uso wa"
+      "gloss": "mbele ya"
     },
     {
       "surface": "ההיכל",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "הימיני",
-      "gloss": "la kulia"
+      "gloss": "ya kulia"
     },
     {
       "surface": "יכין",
-      "gloss": "Yakîn"
+      "gloss": "Yakhin"
     },
     {
       "surface": "ושם",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "השמאלי",
-      "gloss": "la kushoto"
+      "gloss": "ya kushoto"
     },
     {
       "surface": "בעז",
       "gloss": "Boaz"
     }
   ],
-  "timestamp": "2026-08-10T15:43:52.185081422Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:21.419521316Z",
+  "model": "glm-5.3"
 }

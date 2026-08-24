@@ -5,27 +5,27 @@
   "book": "job",
   "lang": "sw",
   "chapter": 28,
-  "translation": "Tehomu ⟨anasema⟩, ⟨⟨habari yake⟩⟩ si ndani yangu; na bahari ⟨anasema⟩, ⟨⟨habari yake⟩⟩ hayo pamoja nami.",
+  "translation": "Tehom alisema, ⟨hiyo⟩ haipo kwangu; na bahari pia ilisema, haipo kwangu.",
   "tokens": [
     {
       "surface": "תהום",
-      "gloss": "Tehomu"
+      "gloss": "Tehom"
     },
     {
       "surface": "אמר",
-      "gloss": "⟨anasema⟩"
+      "gloss": "alisema"
     },
     {
       "surface": "לא",
-      "gloss": "si"
+      "gloss": "hapana"
     },
     {
       "surface": "בי",
-      "gloss": "ndani yangu"
+      "gloss": "kwangu"
     },
     {
       "surface": "היא",
-      "gloss": "⟨habari yake⟩"
+      "gloss": "hiyo"
     },
     {
       "surface": "וים",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "אמר",
-      "gloss": "⟨anasema⟩"
+      "gloss": "ilisema"
     },
     {
       "surface": "אין",
-      "gloss": "hayo"
+      "gloss": "haipo"
     },
     {
       "surface": "עמדי",
-      "gloss": "pamoja nami"
+      "gloss": "kwangu"
     }
   ],
-  "timestamp": "2026-08-10T13:37:20.777202282Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:03.327236633Z",
+  "model": "glm-5.3"
 }

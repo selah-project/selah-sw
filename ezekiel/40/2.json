@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 40,
-  "translation": "Katika maono ya Elohim aliniingiza ⟨⟨ndani ya⟩⟩ nchi ya Yisrael, akanielekeza juu ya mlima mrefu sana; na kwenye ⟨mlima huo⟩ ⟨kulikuwa na⟩ kama mfumo wa jiji upande wa kusini.",
+  "translation": "Katika maono ya Elohim alinileta ⟨hadi⟩ nchi ya Yisrael, akanichukua ⟨hadi⟩ mlima mrefu sana; na juu yake ⟨kulikuwa na⟩ kama mfumo wa mji, upande wa kusini.",
   "tokens": [
     {
       "surface": "במראות",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim"
+      "gloss": "ya Elohim"
     },
     {
       "surface": "הביאני",
-      "gloss": "aliniingiza"
+      "gloss": "alinileta"
     },
     {
       "surface": "אל",
-      "gloss": "ndani ya"
+      "gloss": "⟨hadi⟩"
     },
     {
       "surface": "ארץ",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "ya Yisrael"
     },
     {
       "surface": "ויניחני",
-      "gloss": "akanielekeza"
+      "gloss": "akanichukua"
     },
     {
       "surface": "אל",
-      "gloss": "juu ya"
+      "gloss": "⟨hadi⟩"
     },
     {
       "surface": "הר",
@@ -53,21 +53,21 @@
     },
     {
       "surface": "ועליו",
-      "gloss": "na kwenye mlima huo"
+      "gloss": "na juu yake"
     },
     {
       "surface": "כמבנה",
-      "gloss": "kama mfumo wa"
+      "gloss": "kama mfumo"
     },
     {
       "surface": "עיר",
-      "gloss": "jiji"
+      "gloss": "wa mji"
     },
     {
       "surface": "מנגב",
       "gloss": "upande wa kusini"
     }
   ],
-  "timestamp": "2026-08-10T12:37:38.739414596Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:40.860727968Z",
+  "model": "glm-5.3"
 }

@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 107,
-  "translation": "Toeni shukrani kwa Yahweh, kwani ⟨⟨yeye ni⟩⟩ mwema, kwani ha kwa milele ni chesed yake.",
+  "translation": "Mshukuruni Yahweh, maana yeye ni mwema, maana chesed yake hudumu milele.",
   "tokens": [
     {
-      "surface": "הֹד֣וּ",
-      "gloss": "Toeni shukrani"
+      "surface": "הדו",
+      "gloss": "Mshukuruni"
     },
     {
-      "surface": "לַיהוָ֣ה",
-      "gloss": "kwa Yahweh"
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
     },
     {
-      "surface": "כִּי",
-      "gloss": "kwani"
+      "surface": "כי",
+      "gloss": "maana"
     },
     {
-      "surface": "ט֑וֹב",
+      "surface": "טוב",
       "gloss": "mwema"
     },
     {
-      "surface": "כִּ֖י",
-      "gloss": "kwani"
+      "surface": "כי",
+      "gloss": "maana"
     },
     {
-      "surface": "לְעוֹלָ֣ם",
-      "gloss": "kwa milele"
+      "surface": "לעולם",
+      "gloss": "milele"
     },
     {
-      "surface": "חַסְדּֽוֹ",
+      "surface": "חסדו",
       "gloss": "chesed yake"
     }
   ],
-  "timestamp": "2026-08-10T13:14:47.111950148Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:45.867822177Z",
+  "model": "glm-5.3"
 }

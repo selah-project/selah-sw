@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 27,
-  "translation": "Na utachinja ⟨⟨sadaka za amani, na utakula huko, na utafurahi mbele za Yahweh Elohim wako.",
+  "translation": "Na uta-chinja ⟨את⟩ dhabihu za shelamim, na utakula hapo, na utafurahi mbele za Yahweh Elohim wako.",
   "tokens": [
     {
       "surface": "וזבחת",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "שלמים",
-      "gloss": "sadaka za amani"
+      "gloss": "dhabihu za shelamim"
     },
     {
       "surface": "ואכלת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "huko"
+      "gloss": "hapo"
     },
     {
       "surface": "ושמחת",
@@ -40,6 +40,6 @@
       "gloss": "Elohim wako"
     }
   ],
-  "timestamp": "2026-08-10T14:43:59.668859450Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:59.845271797Z",
+  "model": "glm-5.3"
 }

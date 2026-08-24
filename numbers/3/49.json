@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Moshe akachukua ⟨את⟩ fedha ya kuomboleza, ⟨מאת⟩ waliokuwa ziada juu ya waliokombolewa kwa Walwi.",
+  "translation": "Moshe akachukua ⟨את⟩ fedha ya fidia kutoka kwa waliokithidi, zaidi ya waliokombolewa badala ya Walawi.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -26,20 +26,19 @@
     },
     {
       "surface": "הפדיום",
-      "gloss": "ya kuomboleza"
+      "gloss": "ya fidia"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨מאת⟩",
-      "marks": "waliokuwa ziada"
+      "gloss": "⟨את⟩ kutoka kwa"
     },
     {
       "surface": "העדפים",
-      "gloss": "waliokuwa ziada"
+      "gloss": "waliokithidi"
     },
     {
       "surface": "על",
-      "gloss": "juu ya"
+      "gloss": "zaidi ya"
     },
     {
       "surface": "פדויי",
@@ -47,9 +46,9 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "kwa Walwi"
+      "gloss": "Walawi"
     }
   ],
-  "timestamp": "2026-08-10T10:40:17.852817882Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:54.916263146Z",
+  "model": "glm-5.3"
 }

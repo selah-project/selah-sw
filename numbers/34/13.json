@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 34,
-  "translation": "Moshe akaamuru ⟨את⟩ wana wa Yisra'el akisema: Hii ni nchi mtakayoirithisha ⟨את⟩ kwa kura, ambayo Yahweh ameamuru ili watolewe kwa kabila tisa na nusu ⟨⟨ ya kabila.",
+  "translation": "Naye Moshe aliwaamuru wana wa Yisraeli, akisema: Hii ndiyo nchi mtakayoirithi kwa kura, ambayo Yahweh ameamuru itolewe kwa makabila matisa na nusu kabila.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "akaamuru"
+      "gloss": "aliwaamuru"
     },
     {
       "surface": "משה",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wana"
+      "marks": "wana wa Yisraeli"
     },
     {
       "surface": "בני",
-      "gloss": "wana"
+      "gloss": "wana wa"
     },
     {
       "surface": "ישראל",
-      "gloss": "wa Yisra'el"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "לאמר",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ni nchi"
+      "gloss": "nchi"
     },
     {
       "surface": "אשר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "תתנחלו",
-      "gloss": "mtakayoirithisha"
+      "gloss": "mtakayoirithi"
     },
     {
       "surface": "אתה",
@@ -71,15 +71,15 @@
     },
     {
       "surface": "לתת",
-      "gloss": "ili watolewe"
+      "gloss": "itolewe"
     },
     {
       "surface": "לתשעת",
-      "gloss": "kwa tisa"
+      "gloss": "kwa makabila matisa"
     },
     {
       "surface": "המטות",
-      "gloss": "kabila"
+      "gloss": "makabila matisa"
     },
     {
       "surface": "וחצי",
@@ -87,9 +87,9 @@
     },
     {
       "surface": "המטה",
-      "gloss": "ya kabila"
+      "gloss": "kabila"
     }
   ],
-  "timestamp": "2026-08-10T10:52:23.468338282Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:44.656183521Z",
+  "model": "glm-5.3"
 }

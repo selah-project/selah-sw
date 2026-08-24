@@ -5,66 +5,66 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 16,
-  "translation": "Kwa kuwa hivi amesema Adonai Yahweh: Nami nitakufanyia ⟨את⟩ kama ulivyofanya, ulipodharau апофт음어 киљечи пайда tukufuzu ⟨kwa⟩ kuvunja ⟨aliyokuapia⟩.",
+  "translation": "Maana hivyo alisema Adonai Yahweh: nami nitakutendea ⟨את⟩⟨wewe⟩ kama ulivyotenda, ulipodharau kiapo cha kuvunja ⟨את⟩ agano.",
   "tokens": [
     {
-      "surface": "כִּ֣י",
-      "gloss": "kwa kuwa"
+      "surface": "כי",
+      "gloss": "Maana"
     },
     {
-      "surface": "כֹ֤ה",
-      "gloss": "hivi"
+      "surface": "כה",
+      "gloss": "hivyo"
     },
     {
-      "surface": "אָמַר֙",
-      "gloss": "amesema"
+      "surface": "אמר",
+      "gloss": "alisema"
     },
     {
-      "surface": "אֲדֹנָ֣י",
+      "surface": "אדני",
       "gloss": "Adonai"
     },
     {
-      "surface": "יְהוִ֔ה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
       "surface": "ועשית",
-      "gloss": "nami nitakufanyia"
+      "gloss": "nami nitakutendea"
     },
     {
-      "surface": "אוֹתָ֖ךְ",
+      "surface": "אותך",
       "gloss": "⟨את⟩",
       "marks": "wewe"
     },
     {
-      "surface": "כַּאֲשֶׁ֣ר",
+      "surface": "כאשר",
       "gloss": "kama"
     },
     {
-      "surface": "עָשִׂ֑ית",
-      "gloss": "ulivyofanya"
+      "surface": "עשית",
+      "gloss": "ulivyotenda"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "ulipo"
     },
     {
-      "surface": "בָּזִ֥ית",
+      "surface": "בזית",
       "gloss": "dharau"
     },
     {
-      "surface": "אָלָ֖ה",
+      "surface": "אלה",
       "gloss": "kiapo"
     },
     {
-      "surface": "לְהָפֵ֥ר",
-      "gloss": "kuvunja"
+      "surface": "להפר",
+      "gloss": "cha kuvunja"
     },
     {
-      "surface": "בְּרִֽית",
+      "surface": "ברית",
       "gloss": "agano"
     }
   ],
-  "timestamp": "2026-08-10T12:30:22.251556827Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:06.235567940Z",
+  "model": "glm-5.3"
 }

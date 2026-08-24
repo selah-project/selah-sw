@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 52,
-  "translation": "Maana hamtoki kwa mbio, wala hamtaenda kwa kukimbia, maana Yahweh anatembea mbele yenu, na Elohim wa Yisrael ni ⟨⟨ayearebeanaye nyuma yenu⟩⟩.",
+  "translation": "Kwa maana hamtatoka kwa mbio wala hamtaenda kwa kukimbia, kwa maana mbele yenu anayetembea ni Yahweh, na anayewakusanya nyuma ni Elohim wa Yisrael.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "maana"
+      "gloss": "kwa maana"
     },
     {
       "surface": "לא",
-      "gloss": "si"
+      "gloss": "ha-"
     },
     {
       "surface": "בחפזון",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תצאו",
-      "gloss": "mtoki"
+      "gloss": "-tatoka"
     },
     {
       "surface": "ובמנוסה",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "si"
+      "gloss": "hamta-"
     },
     {
       "surface": "תלכון",
-      "gloss": "mtaenda"
+      "gloss": "-enda"
     },
     {
       "surface": "כי",
-      "gloss": "maana"
+      "gloss": "kwa maana"
     },
     {
       "surface": "הלך",
-      "gloss": "anatembea"
+      "gloss": "anayetembea"
     },
     {
       "surface": "לפניכם",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ומאספכם",
-      "gloss": "ayearebeanaye nyuma yenu"
+      "gloss": "na anayewakusanya nyuma"
     },
     {
       "surface": "אלהי",
@@ -64,6 +64,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-10T15:08:08.427468649Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:20.844240431Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 45,
-  "translation": "Mimi nitakwenda ⟨kabla⟩ yako, na ⟨sehemu⟩ zilizo nyoofu nitazifanya ⟨⟨zilizo⟩⟨pingamizi⟩⟩; milango ya shaba nitavuvunja, na mihimili ya chuma nitaiyakata:",
+  "translation": "Mimi nitakwenda mbele yako, na ⟨nchi⟩ zilizopinda nizifanyie ⟨nyofu⟩; milango ya shaba nitavunja, na vifungo vya felesi nitakata.",
   "tokens": [
     {
       "surface": "אני",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "לפניך",
-      "gloss": "⟨kabla⟩ yako"
+      "gloss": "mbele yako"
     },
     {
       "surface": "אלך",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "והדורים",
-      "gloss": "na ⟨sehemu⟩ ⟨zilizo⟩ nyofu"
+      "gloss": "zilizopinda"
     },
     {
       "surface": "אושר",
-      "gloss": "nitazifanya"
+      "gloss": "nizifanyie ⟨nyofu⟩"
     },
     {
       "surface": "דלתות",
@@ -37,21 +37,21 @@
     },
     {
       "surface": "אשבר",
-      "gloss": "nitavuvunja"
+      "gloss": "nitavunja"
     },
     {
       "surface": "ובריחי",
-      "gloss": "na mihimili ya"
+      "gloss": "na vifungo vya"
     },
     {
       "surface": "ברזל",
-      "gloss": "chuma"
+      "gloss": "felesi"
     },
     {
       "surface": "אגדע",
-      "gloss": "nitaiyakata"
+      "gloss": "nitakata"
     }
   ],
-  "timestamp": "2026-08-10T12:05:44.450130631Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:04.528828644Z",
+  "model": "glm-5.3"
 }

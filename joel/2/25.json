@@ -5,11 +5,11 @@
   "book": "joel",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Nami nitawalipa ⟨את⟩ miaka ambayo aliye λ Volk óly съели arübhe, hayyeleq, na heḥasîl, na hag gazam — jeshi langu jenu kuu ambalo nililituma ⟨kati⟩ yenu.",
+  "translation": "Nami nitawarudishenia ⟨את⟩ miaka ile ambazo aliyeila arife-na-nyoka-mmea, yelete, na kasisili, na nizia — jeshi langu kubwa nililowatumia miongoni mwenu.",
   "tokens": [
     {
       "surface": "ושלמתי",
-      "gloss": "nitawalipa"
+      "gloss": "nitawarudishenia"
     },
     {
       "surface": "לכם",
@@ -26,27 +26,27 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "ambazo"
     },
     {
       "surface": "אכל",
-      "gloss": "ali-me-"
+      "gloss": "aliyeila"
     },
     {
       "surface": "הארבה",
-      "gloss": "arübhe (userari)"
+      "gloss": "arife"
     },
     {
       "surface": "הילק",
-      "gloss": "hayyeleq (ndamadama)"
+      "gloss": "nyoka-mmea"
     },
     {
       "surface": "והחסיל",
-      "gloss": "na heḥasîl (kiluwili)"
+      "gloss": "na kasisili"
     },
     {
       "surface": "והגזם",
-      "gloss": "na hag gazam (chawa)"
+      "gloss": "na nizia"
     },
     {
       "surface": "חילי",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "שלחתי",
-      "gloss": "nililituma"
+      "gloss": "nililowatumia"
     },
     {
       "surface": "בכם",
-      "gloss": "⟨kati⟩ yenu"
+      "gloss": "miongoni mwenu"
     }
   ],
-  "timestamp": "2026-08-10T17:52:46.340644244Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:48.462607037Z",
+  "model": "glm-5.3"
 }

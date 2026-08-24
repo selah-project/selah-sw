@@ -5,24 +5,24 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 16,
-  "translation": "Na atachukua ⟨את⟩ wawili wa billy, na kuwasimamisha ⟨אתם⟩ mbele ya Yahweh, ⟨kwenye⟩ mlango wa hema ya mkutano.",
+  "translation": "Naye atachukua ⟨את⟩ mbili-mbuzi-wa-kiume, na kuwasimamisha ⟨את⟩ ⟨אתם⟩ mbele za Yahweh, mlangoni pa hema ya mkutano.",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "Na atachukua"
+      "gloss": "naye atachukua"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wawili wa billy"
+      "marks": "mbili-mbuzi-wa-kiume"
     },
     {
       "surface": "שני",
-      "gloss": "wawili"
+      "gloss": "mbili"
     },
     {
       "surface": "השעירם",
-      "gloss": "wa billy"
+      "gloss": "mbuzi-wa-kiume"
     },
     {
       "surface": "והעמיד",
@@ -30,12 +30,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "wawili wa billy"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "mbili-mbuzi-wa-kiume"
     },
     {
       "surface": "לפני",
-      "gloss": "mbele ya"
+      "gloss": "mbele za"
     },
     {
       "surface": "יהוה",
@@ -43,17 +43,17 @@
     },
     {
       "surface": "פתח",
-      "gloss": "mlango"
+      "gloss": "mlangoni pa"
     },
     {
       "surface": "אהל",
-      "gloss": "wa hema"
+      "gloss": "hema"
     },
     {
       "surface": "מועד",
       "gloss": "ya mkutano"
     }
   ],
-  "timestamp": "2026-08-10T14:35:04.584900184Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.367955309Z",
+  "model": "glm-5.3"
 }

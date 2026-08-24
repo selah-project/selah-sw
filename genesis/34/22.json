@@ -5,78 +5,77 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 34,
-  "translation": "Lakini kwa hili tu hao watu watakubaliana nasi, kusudi wakae ⟨אתנו⟩, kuwa taifa moja, kwa kutohiriwa kwetu kwa kila mwanamme, kama vile wao walivyo watohiriwa.",
+  "translation": "Watu hao watatukubalia kwa hili tu, kutuishi ⟨את⟩ sisi, tuwe ⟨kuwa⟩ watu mmoja — kwa kila mwanamume kati yetu kuhiniwa, kama wao walivyohiniwa.",
   "tokens": [
     {
-      "surface": "אַךְ",
-      "gloss": "Lakini"
-    },
-    {
-      "surface": "בְּ֠זֹאת",
-      "gloss": "kwa hili"
-    },
-    {
-      "surface": "יֵאֹ֨תוּ",
+      "surface": "אך",
       "gloss": "tu"
     },
     {
-      "surface": "לָ֤נוּ",
-      "gloss": "hao"
+      "surface": "בזאת",
+      "gloss": "kwa hili"
     },
     {
-      "surface": "הָאֲנָשִׁים֙",
-      "gloss": "watu"
+      "surface": "יאתו",
+      "gloss": "watatukubalia"
     },
     {
-      "surface": "לָשֶׁ֣בֶת",
-      "gloss": "watakubaliana"
+      "surface": "לנו",
+      "gloss": "tu-"
     },
     {
-      "surface": "אִתָּ֔נוּ",
-      "gloss": "⟨אתנו⟩",
-      "marks": "nasi"
+      "surface": "האנשים",
+      "gloss": "watu hao"
     },
     {
-      "surface": "לִהְי֖וֹת",
-      "gloss": "kusudi"
+      "surface": "לשבת",
+      "gloss": "kutuishi"
     },
     {
-      "surface": "לְעַ֣ם",
-      "gloss": "wakae"
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ sisi"
     },
     {
-      "surface": "אֶחָ֑ד",
-      "gloss": "kuwa"
+      "surface": "להיות",
+      "gloss": "tuwe"
     },
     {
-      "surface": "בְּהִמּ֥וֹל",
-      "gloss": "taifa"
+      "surface": "לעם",
+      "gloss": "kuwa watu"
     },
     {
-      "surface": "לָ֨נוּ֙",
-      "gloss": "moja"
+      "surface": "אחד",
+      "gloss": "mmoja"
     },
     {
-      "surface": "כָּל",
-      "gloss": "kwa"
+      "surface": "בהמול",
+      "gloss": "kwa kuhiniwa"
     },
     {
-      "surface": "זָכָר",
-      "gloss": "kutohiriwa"
+      "surface": "לנו",
+      "gloss": "yetu"
     },
     {
-      "surface": "כַּאֲשֶׁ֖ר",
-      "gloss": "kwetu"
+      "surface": "כל",
+      "gloss": "kila"
     },
     {
-      "surface": "הֵ֥ם",
-      "gloss": "kwa"
+      "surface": "זכר",
+      "gloss": "mwanamume"
     },
     {
-      "surface": "נִמֹּלִֽים",
-      "gloss": "kila mwanamme, kama vile wao walivyo watohiriwa"
+      "surface": "כאשר",
+      "gloss": "kama"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "נמלים",
+      "gloss": "walivyohiniwa"
     }
   ],
-  "timestamp": "2026-08-10T17:40:45.220962157Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:42.915089017Z",
+  "model": "glm-5.3"
 }

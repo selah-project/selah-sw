@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 42,
-  "translation": "Tazama mtumishi wangu, ⟨ninuemusha⟩; ⟨⟨ni⟩⟩ mteule wa ⟨⟨roho⟩⟩ yangu, nafsi yangu imependea ⟨ndani⟩ yake; nimeweka roho yangu juu yake; hukumu kwa mataifa ⟨⟨ni⟩⟩ atatoa.",
+  "translation": "Tazama mtumishi wangu, nitamkungoza ⟨is⟩ mchaguliwa wangu, nafsi yangu imefurahia ⟨is⟩ ndani yake; nimeweka roho yangu juu yake, atatoa hukumu kwa mataifa.",
   "tokens": [
     {
       "surface": "הן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתמך",
-      "gloss": "⟨ninuemusha⟩"
+      "gloss": "nitamkungoza"
     },
     {
       "surface": "בו",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "בחירי",
-      "gloss": "mteule wangu"
+      "gloss": "mchaguliwa wangu"
     },
     {
       "surface": "רצתה",
-      "gloss": "imependea"
+      "gloss": "imefurahia"
     },
     {
       "surface": "נפשי",
@@ -60,6 +60,6 @@
       "gloss": "atatoa"
     }
   ],
-  "timestamp": "2026-08-10T12:04:43.709358618Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:26.704243271Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Na wewe, usiombee ⟨kwa ajili ya⟩ watu hawa, wala usiinue kwa ajili yao ūlimbe na maombi, wala usiombee mimi; kwa maana mimi sikizi ⟨⟨את⟩ sikilizi⟩.",
+  "translation": "Na wewe, usiombee kwa niaba ya watu hawa, wala usiinue kwa niaba yao kilio na maombi, wala usinipinge mimi ⟨את⟩ ⟨wewe⟩, kwa maana mimi si sikii ⟨את⟩ wewe.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בעד",
-      "gloss": "kwa ajili ya"
+      "gloss": "kwa niaba ya"
     },
     {
       "surface": "העם",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "בעדם",
-      "gloss": "kwa ajili yao"
+      "gloss": "kwa niaba yao"
     },
     {
       "surface": "רנה",
-      "gloss": "ūlimbe"
+      "gloss": "kilio"
     },
     {
       "surface": "ותפלה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "תפגע",
-      "gloss": "ombee"
+      "gloss": "nipinge"
     },
     {
       "surface": "בי",
@@ -73,13 +73,14 @@
     },
     {
       "surface": "שמע",
-      "gloss": "sikizi"
+      "gloss": "sikii"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ sikilizi"
+      "gloss": "⟨את⟩",
+      "marks": "wewe"
     }
   ],
-  "timestamp": "2026-08-10T12:11:47.381045074Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:10.164239509Z",
+  "model": "glm-5.3"
 }

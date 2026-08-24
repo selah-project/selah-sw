@@ -5,19 +5,19 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 23,
-  "translation": "Akawaonjea, ⟨na⟩ kuwaambia: Kama ⟨⟨iwapo⟩⟩ kuna ⟨את⟩ nia yenu ya kumzika maiti yangu mbele zangu, nisikilizeni, na waombee ⟨sikilizeni⟩ Efroni mwana wa Tsochar.",
+  "translation": "Naye akasema nao ⟨אתם⟩, akisema: Kama nia yenu ⟨ni⟩ kuzika ⟨את⟩ maiti yangu mbele yangu, sikilizeni mimi, na mniombee ⟨⟩ Efroni mwana wa Tsochar.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "Akawaonjea"
+      "gloss": "akasema"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩ ⟨אתם⟩ nao"
     },
     {
       "surface": "לאמר",
-      "gloss": "akiongea nao"
+      "gloss": "akisema"
     },
     {
       "surface": "אם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "יש",
-      "gloss": "kuna"
+      "gloss": "iko"
     },
     {
       "surface": "את",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "לקבר",
-      "gloss": "ya kumzika"
+      "gloss": "kuzika"
     },
     {
       "surface": "את",
@@ -51,19 +51,19 @@
     },
     {
       "surface": "מלפני",
-      "gloss": "mbele zangu"
+      "gloss": "mbele yangu"
     },
     {
       "surface": "שמעוני",
-      "gloss": "nisikilizeni"
+      "gloss": "sikilizeni mimi"
     },
     {
       "surface": "ופגעו",
-      "gloss": "na waombee"
+      "gloss": "na mniombee"
     },
     {
       "surface": "לי",
-      "gloss": "niambateni"
+      "gloss": "kwa niaba yangu"
     },
     {
       "surface": "בעפרון",
@@ -78,6 +78,6 @@
       "gloss": "Tsochar"
     }
   ],
-  "timestamp": "2026-08-10T14:23:52.682770105Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.299701755Z",
+  "model": "glm-5.3"
 }

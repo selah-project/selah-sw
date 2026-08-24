@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 26,
-  "translation": "Nami nitaweka maskani yangu kati yenu; nafsī haitawachukia, ⟨hata⟩ ⟨אתכם⟩.",
+  "translation": "Nami nitaweka maskani yangu katikati yenu, na nafsi yangu haitachukiza ⟨את⟩ ⟨אתכם⟩ ninyi.",
   "tokens": [
     {
       "surface": "ונתתי",
@@ -17,26 +17,26 @@
     },
     {
       "surface": "בתוככם",
-      "gloss": "kati yenu"
+      "gloss": "katikati yenu"
     },
     {
       "surface": "ולא",
-      "gloss": "haita"
+      "gloss": "na haita"
     },
     {
       "surface": "תגעל",
-      "gloss": "wachukia"
+      "gloss": "chukiza"
     },
     {
       "surface": "נפשי",
-      "gloss": "nafsī"
+      "gloss": "nafsi yangu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ninyi",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "ninyi"
     }
   ],
-  "timestamp": "2026-08-10T10:38:56.532774396Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.362682077Z",
+  "model": "glm-5.3"
 }

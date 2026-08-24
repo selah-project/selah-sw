@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 10,
-  "translation": "Moshe akanena ⟨⟨kwa⟩⟩ Aharon na ⟨⟨kwa⟩⟩ Elazar na ⟨⟨kwa⟩⟩ Itamar, wanake waliosalia: «Chukueni ⟨את⟩ dhabihu ya nafaka inayosalia katika toleo za moto za Yahweh, na kulenye ⟨את⟩ bila chachu karibu na madhabahu, kani kwani ni takatifu sana ⟨⟨ndani⟩⟩ yake.»",
+  "translation": "Na Moshe akasema kwa Aharoni, na kwa Elazari na kwa Itamari wanake waliobaki: Chukueni ⟨את⟩ dhabihu ya nafaka iliyobaki katika michango ya moto ya Yahweh, na tuileni bila chachu karibu na madhabahu, kwa sababu ni kitakatifu cha kitakatifu ⟨ni⟩.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "akakanena"
+      "gloss": "akasema"
     },
     {
       "surface": "משה",
@@ -17,27 +17,27 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨kwa⟩"
+      "gloss": "kwa"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharon"
+      "gloss": "Aharoni"
     },
     {
       "surface": "ואל",
-      "gloss": "na ⟨kwa⟩"
+      "gloss": "na kwa"
     },
     {
       "surface": "אלעזר",
-      "gloss": "Elazar"
+      "gloss": "Elazari"
     },
     {
       "surface": "ואל",
-      "gloss": "na ⟨kwa⟩"
+      "gloss": "na kwa"
     },
     {
       "surface": "איתמר",
-      "gloss": "Itamar"
+      "gloss": "Itamari"
     },
     {
       "surface": "בניו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הנותרים",
-      "gloss": "waliosalia"
+      "gloss": "waliobaki"
     },
     {
       "surface": "קחו",
@@ -62,19 +62,19 @@
     },
     {
       "surface": "הנותרת",
-      "gloss": "inayosalia"
+      "gloss": "iliyobaki"
     },
     {
       "surface": "מאשי",
-      "gloss": "katika toleo za moto"
+      "gloss": "katika michango ya moto"
     },
     {
       "surface": "יהוה",
-      "gloss": "za Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "ואכלוה",
-      "gloss": "na kilenye"
+      "gloss": "na tuileni"
     },
     {
       "surface": "מצות",
@@ -90,21 +90,21 @@
     },
     {
       "surface": "כי",
-      "gloss": "kani kwani"
+      "gloss": "kwa sababu"
     },
     {
       "surface": "קדש",
-      "gloss": "takatifu"
+      "gloss": "kitakatifu"
     },
     {
       "surface": "קדשים",
-      "gloss": "sana"
+      "gloss": "cha kitakatifu"
     },
     {
       "surface": "הוא",
       "gloss": "ni"
     }
   ],
-  "timestamp": "2026-08-10T10:33:11.170542339Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:57.647197390Z",
+  "model": "glm-5.3"
 }

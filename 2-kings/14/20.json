@@ -5,16 +5,16 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Na walimbeba ⟨אתו⟩ juu ya farasi, akazikwa katika Yerushalayim pamoja na baba zake, katika mji wa David.",
+  "translation": "Wakambeba ⟨את⟩ ⟨אתו⟩ juu ya farasi, akazikwa Yerushalayim pamoja na baba zake, katika mji wa David.",
   "tokens": [
     {
       "surface": "וישאו",
-      "gloss": "na walimbeba"
+      "gloss": "wakambeba"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "yeye (Amatsyahu)"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "yeye (mfalme aliuawa)"
     },
     {
       "surface": "על",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "בירושלם",
-      "gloss": "katika Yerushalayim"
+      "gloss": "Yerushalayim"
     },
     {
       "surface": "עם",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "דוד",
-      "gloss": "wa David"
+      "gloss": "David"
     }
   ],
-  "timestamp": "2026-08-10T11:49:03.964277523Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.357001498Z",
+  "model": "glm-5.3"
 }

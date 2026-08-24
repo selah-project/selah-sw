@@ -5,10 +5,10 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Na maji yakatawala sana, sana, juu ya ⟨⟨nchi⟩⟩; yakafunika milima yote ⟨aliyo⟩ juu ambayo ⟨i⟩ chini ya mbingu zote.",
+  "translation": "Na maji yakatawala sana, sana, juu ya ⟨nchi⟩, na milima yote ya juu iliyo chini ya mbingu zote ikufunikwa.",
   "tokens": [
     {
-      "surface": "והמים",
+      "surface": "ו המים",
       "gloss": "na maji"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מאד",
-      "gloss": "sana"
+      "gloss": "sana,"
     },
     {
       "surface": "מאד",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨nchi⟩"
+      "gloss": "nchi"
     },
     {
       "surface": "ויכסו",
-      "gloss": "yakafunika"
+      "gloss": "ikufunikwa"
     },
     {
       "surface": "כל",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "הגבהים",
-      "gloss": "⟨aliyo⟩ juu"
+      "gloss": "ya juu"
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "iliyo"
     },
     {
       "surface": "תחת",
@@ -64,6 +64,6 @@
       "gloss": "mbingu"
     }
   ],
-  "timestamp": "2026-08-10T14:22:53.393889519Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:48.429404400Z",
+  "model": "glm-5.3"
 }

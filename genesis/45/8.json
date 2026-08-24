@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 45,
-  "translation": "Na sasa, si nyinyi mlininituma ⟨⟨nikawa⟩⟩ huko, bali ⟨ni⟩ Elohim; naye akaniweka kuwa baba kwa Paroh, na bwana kwa nyumba yake yote, na mtawala katika nchi yote ya Mitsrayim.",
+  "translation": "Basi sasa si nyinyi mliyonituma ⟨את⟩ mimi hapa, bali ⟨ni⟩ Elohim; naye aliweka ⟨את⟩ mimi kuwa baba kwa Paroh, na bwana wa nyumba yake yote, na mtawala wa nchi yote ya Mitsrayim.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "na sasa"
+      "gloss": "Basi sasa"
     },
     {
       "surface": "לא",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "שלחתם",
-      "gloss": "mlininituma"
+      "gloss": "mliyonituma"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "huko"
+      "marks": "mimi"
     },
     {
       "surface": "הנה",
-      "gloss": "huko"
+      "gloss": "hapa"
     },
     {
       "surface": "כי",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "וישימני",
-      "gloss": "naye akaniweka"
+      "gloss": "naye aliweka mimi"
     },
     {
       "surface": "לאב",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "לכל",
-      "gloss": "kwa"
+      "gloss": "wa yote"
     },
     {
       "surface": "ביתו",
-      "gloss": "nyumba yake yote"
+      "gloss": "nyumba yake"
     },
     {
       "surface": "ומשל",
@@ -70,17 +70,17 @@
     },
     {
       "surface": "בכל",
-      "gloss": "katika"
+      "gloss": "wa yote"
     },
     {
       "surface": "ארץ",
-      "gloss": "nchi yote"
+      "gloss": "nchi"
     },
     {
       "surface": "מצרים",
       "gloss": "ya Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-10T10:15:54.834321588Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.301066229Z",
+  "model": "glm-5.3"
 }

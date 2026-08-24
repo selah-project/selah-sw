@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 25,
-  "translation": "Kwa kuwa mkono wa Yahweh utatua juu ya mlima huu, na Moabu atakandamizwa chini yake, kama vile unavyokandamizwa majivu ya wanga kwenye maji ya mbolea.",
+  "translation": "Kwa maana mkono wa Yahweh utapumzika katika mlima huu, na Moab atadondoshwa chini yake, kama unyasi unavyodondoshwa katika maji ya Madmenah ⟨mbolea⟩.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kwa kuwa"
+      "gloss": "kwa maana"
     },
     {
       "surface": "תנוח",
-      "gloss": "utatua"
+      "gloss": "utapumzika"
     },
     {
       "surface": "יד",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "wa Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "בהר",
-      "gloss": "juu ya mlima"
+      "gloss": "katika mlima"
     },
     {
       "surface": "הזה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ונדוש",
-      "gloss": "na ⟨⟨atakapata⟩⟩ kukandamizwa"
+      "gloss": "na atadondoshwa"
     },
     {
       "surface": "מואב",
-      "gloss": "Moabu"
+      "gloss": "Moab"
     },
     {
       "surface": "תחתיו",
@@ -45,21 +45,21 @@
     },
     {
       "surface": "כהדוש",
-      "gloss": "kama vile unavyokandamizwa"
+      "gloss": "kama unavyodondoshwa"
     },
     {
       "surface": "מתבן",
-      "gloss": "majivu ya wanga"
+      "gloss": "unyasi"
     },
     {
       "surface": "במי",
-      "gloss": "kwenye maji"
+      "gloss": "katika maji ya"
     },
     {
       "surface": "מדמנה",
-      "gloss": "ya mbolea"
+      "gloss": "Madmenah"
     }
   ],
-  "timestamp": "2026-08-10T15:05:08.845091233Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:01.300713044Z",
+  "model": "glm-5.3"
 }

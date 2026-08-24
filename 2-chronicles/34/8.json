@@ -5,23 +5,23 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 34,
-  "translation": "Na katika mwaka wa kumi na nane wa ufalme wake, kutakasa ⟨⟨nchi⟩⟩ na ⟨⟨nyumba⟩⟩, alituma ⟨את⟩ Shafan mwana wa Atsalyahu, na ⟨את⟩ Maaseyahu mkuu wa jiji, na ⟨את⟩ Yoachi mwana wa Yoachazi mwenye kumbukumbu, ili kwa nguvu (watengeneze) ⟨את⟩ nyumba ya Yahweh Elohim wake.",
+  "translation": "Na katika mwaka wa kumi na nane wa utawala wake, akiisha kutakasa nchi na ⟨את⟩ nyumba, alituma ⟨את⟩ Shafani mwana wa Atsalyahu, na ⟨את⟩ Maaseyahu mkuu wa mji, na ⟨את⟩ Yoachi mwana wa Yoachazi, mwenye kumbukumbu, ili kuimarisha ⟨את⟩ nyumba ya Yahweh Elohim wake.",
   "tokens": [
     {
       "surface": "ובשנת",
-      "gloss": "na katika mwaka wa"
+      "gloss": "Na katika mwaka wa"
     },
     {
       "surface": "שמונה",
-      "gloss": "kumi na"
+      "gloss": "kumi na nane (nane)"
     },
     {
       "surface": "עשרה",
-      "gloss": "nane"
+      "gloss": "kumi"
     },
     {
       "surface": "למלכו",
-      "gloss": "wa ufalme wake"
+      "gloss": "wa utawala wake"
     },
     {
       "surface": "לטהר",
@@ -42,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Shafan"
+      "marks": "Shafani"
     },
     {
       "surface": "שפן",
-      "gloss": "Shafan"
+      "gloss": "Shafani"
     },
     {
       "surface": "בן",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "jiji"
+      "gloss": "mji"
     },
     {
       "surface": "ואת",
@@ -96,16 +96,16 @@
     },
     {
       "surface": "לחזק",
-      "gloss": "ili kwa nguvu"
+      "gloss": "ili kuimarisha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nyumba"
+      "marks": "nyumba ya Yahweh Elohim wake"
     },
     {
       "surface": "בית",
-      "gloss": "nyumba"
+      "gloss": "nyumba ya"
     },
     {
       "surface": "יהוה",
@@ -116,6 +116,6 @@
       "gloss": "Elohim wake"
     }
   ],
-  "timestamp": "2026-08-10T14:20:33.770273070Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:58.055598132Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Kwa maana alivyo hivyo amesema Yahweh Sebaoti: Baada ya ⟨hii⟩ utukufo amenituma kwa mataifa wanaowanyang'anyi, kwa maana anayewagusa — anaye ngua jicho lake.",
+  "translation": "Kwa maana hivyo amesema Yahweh Tseva'ot: Baada ya utukufu alinituma kwenda ⟨את⟩ mataifa yaliyowanyang'anya, kwa maana anayewagusa nyinyi anagusa mtoto wa jicho lake.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "alivyo hivyo"
+      "gloss": "hivyo"
     },
     {
       "surface": "אמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Sebaoti"
+      "gloss": "Tseva'ot"
     },
     {
       "surface": "אחר",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "כבוד",
-      "gloss": "utukufo"
+      "gloss": "utukufu"
     },
     {
       "surface": "שלחני",
-      "gloss": "amenituma"
+      "gloss": "alinituma"
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": "kwenda"
     },
     {
       "surface": "הגוים",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "השללים",
-      "gloss": "wanaowanyang'anyi"
+      "gloss": "yaliyowanyang'anya"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ nyinyi",
       "marks": "nyinyi"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "anayewagusa"
+      "gloss": "anayegusa"
     },
     {
       "surface": "בכם",
@@ -70,17 +70,17 @@
     },
     {
       "surface": "נגע",
-      "gloss": "anaye ngua"
+      "gloss": "anagusa"
     },
     {
       "surface": "בבבת",
-      "gloss": "jicho lake"
+      "gloss": "mtoto wa"
     },
     {
       "surface": "עינו",
-      "gloss": "la"
+      "gloss": "jicho lake"
     }
   ],
-  "timestamp": "2026-08-10T12:51:29.726899858Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:28.519063451Z",
+  "model": "glm-5.3"
 }

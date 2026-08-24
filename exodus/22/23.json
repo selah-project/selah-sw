@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 22,
-  "translation": "Hasira yangu itawaka, na nitakuueni kwa upanga, na wake zenu watakuwa wajane, na watoto wenu watakuwa yatima.",
+  "translation": "hasira yangu itawaka, nami nitawaua ⟨את⟩ ⟨אתכם⟩ kwa upanga, na wake zenu watakuwa wajane, na watoto wenu yatima.",
   "tokens": [
     {
       "surface": "וחרה",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "אפי",
-      "gloss": "Hasira yangu"
+      "gloss": "hasira yangu"
     },
     {
       "surface": "והרגתי",
-      "gloss": "na nitakuueni"
+      "gloss": "nami nitawaua"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "nyinyi (kiwakilishi cha adhamu)"
     },
     {
       "surface": "בחרב",
-      "gloss": "kwaupanga"
+      "gloss": "kwa upanga"
     },
     {
       "surface": "והיו",
@@ -49,6 +49,6 @@
       "gloss": "yatima"
     }
   ],
-  "timestamp": "2026-08-10T10:24:13.105876458Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.327009547Z",
+  "model": "glm-5.3"
 }

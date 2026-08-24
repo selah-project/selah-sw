@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Na sasa, angalia, kilio cha wana wa Yisra'el kimefika kwangu; naam, nimeona ⟨את⟩ udhuluma ambao Wamitsrayim wanawadhulumu ⟨אתם⟩.",
+  "translation": "Na sasa, angalia, kelele za wana wa Yisraeli zimefika kwangu; naam, nimeona pia ⟨את⟩ dhuluma ambayo Wamitsrayim wakiwadhulumu ⟨את⟩ wao.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "na sasa"
+      "gloss": "Na sasa"
     },
     {
       "surface": "הנה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "צעקת",
-      "gloss": "kilio"
+      "gloss": "kelele za"
     },
     {
       "surface": "בני",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "באה",
-      "gloss": "kimefika"
+      "gloss": "zimefika"
     },
     {
       "surface": "אלי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "וגם",
-      "gloss": "naam"
+      "gloss": "naam, pia"
     },
     {
       "surface": "ראיתי",
@@ -46,15 +46,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "udhulumu"
+      "marks": "dhuluma"
     },
     {
       "surface": "הלחץ",
-      "gloss": "udhulumu"
+      "gloss": "dhuluma"
     },
     {
       "surface": "אשר",
-      "gloss": "ambao"
+      "gloss": "ambayo"
     },
     {
       "surface": "מצרים",
@@ -62,14 +62,13 @@
     },
     {
       "surface": "לחצים",
-      "gloss": "wanawadhulumu"
+      "gloss": "wakiwadhlumu"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "wao"
+      "gloss": "⟨את⟩ wao"
     }
   ],
-  "timestamp": "2026-08-10T10:19:09.152006116Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:03.593060078Z",
+  "model": "glm-5.3"
 }

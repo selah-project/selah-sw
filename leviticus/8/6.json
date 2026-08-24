@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Na Moshe akamkaribisha ⟨את⟩ Aharon na ⟨את⟩ wanawe, akawaosha ⟨אתם⟩ kwa maji.",
+  "translation": "Na Moshe akamkaribisha ⟨את⟩ Aharon na ⟨את⟩ wanawe, akawafua kwa maji.",
   "tokens": [
     {
       "surface": "ויקרב",
-      "gloss": "Na akamkaribisha"
+      "gloss": "akamkaribisha"
     },
     {
       "surface": "משה",
@@ -35,18 +35,17 @@
     },
     {
       "surface": "וירחץ",
-      "gloss": "akawaosha"
+      "gloss": "akawafua"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "Aharon na wanawe"
+      "gloss": "⟨את⟩ wao"
     },
     {
       "surface": "במים",
       "gloss": "kwa maji"
     }
   ],
-  "timestamp": "2026-08-10T10:33:06.707111513Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:22.802887412Z",
+  "model": "glm-5.3"
 }

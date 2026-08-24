@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Akasema Shemuel ⟨את⟩ maneno yote ya Yahweh kwa watu wanaomuomba mfalme.",
+  "translation": "Na Shemuël alinena ⟨את⟩ maneno yote ya Yahweh kwa ⟨את⟩ watu waliomwomba kutoka kwake mfalme.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Akasema"
+      "gloss": "akanena"
     },
     {
       "surface": "שמואל",
-      "gloss": "Shemuel"
+      "gloss": "Shemuël"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אל",
@@ -42,17 +42,17 @@
     },
     {
       "surface": "השאלים",
-      "gloss": "wanaomuomba"
+      "gloss": "waliomwomba"
     },
     {
       "surface": "מאתו",
-      "gloss": "⟨מאתו⟩"
+      "gloss": "⟨את⟩ kutoka kwake"
     },
     {
       "surface": "מלך",
       "gloss": "mfalme"
     }
   ],
-  "timestamp": "2026-08-10T14:50:57.602801300Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:05.158621107Z",
+  "model": "glm-5.3"
 }

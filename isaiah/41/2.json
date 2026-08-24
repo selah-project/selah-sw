@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 41,
-  "translation": "Ni nye amemwingiza kutoka mashariki ⟨המוּאצֵא⟩ haki? Yeye humwita kwa nyayo zake, huwawekea mataifa mbele yake, na wafalme huwanyonga; huwafanya wawe kama mavumbi chini ya upanga wake, na kama manyasi yaliyopeperushwa na upepo chini ya upinde wake.",
+  "translation": "Nani ameamsha ⟨kutoka⟩ mashariki, ⟨mwenye⟩ haki amemwita kabla yake kuifuata miguu yake? Atatoa mataifa machache mbele yake, na wafalme atawatwanga; atawafanya kuwa kama mavumbi kwa upanga wake, kama majani yaliyosukumwa na upepo kwa upinde wake.",
   "tokens": [
     {
       "surface": "מי",
-      "gloss": "ni nani"
+      "gloss": "Nani"
     },
     {
       "surface": "העיר",
-      "gloss": "amemwingiza"
+      "gloss": "ameamsha"
     },
     {
       "surface": "ממזרח",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "יקראהו",
-      "gloss": "humwita"
+      "gloss": "amemwita"
     },
     {
       "surface": "לרגלו",
-      "gloss": "kwa nyayo zake"
+      "gloss": "kuifuata miguu yake"
     },
     {
       "surface": "יתן",
-      "gloss": "huwawekea"
+      "gloss": "atatoa"
     },
     {
       "surface": "לפניו",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "ירד",
-      "gloss": "huwanyonga"
+      "gloss": "atawatwanga"
     },
     {
       "surface": "יתן",
-      "gloss": "huwafanya"
+      "gloss": "atawafanya"
     },
     {
       "surface": "כעפר",
@@ -61,21 +61,21 @@
     },
     {
       "surface": "חרבו",
-      "gloss": "upanga wake"
+      "gloss": "kwa upanga wake"
     },
     {
       "surface": "כקש",
-      "gloss": "kama manyasi"
+      "gloss": "kama majani"
     },
     {
       "surface": "נדף",
-      "gloss": "yaliyopeperushwa"
+      "gloss": "yaliyosukumwa na upepo"
     },
     {
       "surface": "קשתו",
-      "gloss": "upinde wake"
+      "gloss": "kwa upinde wake"
     }
   ],
-  "timestamp": "2026-08-10T12:04:36.541690708Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:13.831614168Z",
+  "model": "glm-5.3"
 }

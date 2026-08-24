@@ -5,19 +5,19 @@
   "book": "2-samuel",
   "lang": "sw",
   "chapter": 15,
-  "translation": "Na Avishalomi akatumaapelelezi katika makabila yote ya Yisraeli, akisema: \"Mara mtakaposikia ⟨⟨את⟩⟩ sauti ya tarumbeta, mtasema: Avishalomi amefanywa mfalme huko Hevroni.\"",
+  "translation": "Nayo Avshalom alituma wapelelezi katika makabila yote ya Yisraeli, akisema: Siku mnaposikia ⟨את⟩ sauti ya pembe, mwambieni: Avshalom amefanywa mfalme Chevroni.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "Na akatuma"
+      "gloss": "nayo alituma"
     },
     {
       "surface": "אבשלום",
-      "gloss": "Avishalomi"
+      "gloss": "Avshalom"
     },
     {
       "surface": "מרגלים",
-      "gloss": "apelelezi"
+      "gloss": "wapelelezi"
     },
     {
       "surface": "בכל",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "שבטי",
-      "gloss": "makabila"
+      "gloss": "makabila ya"
     },
     {
       "surface": "ישראל",
-      "gloss": "ya Yisraeli"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "לאמר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "כשמעכם",
-      "gloss": "mtakaposikia"
+      "gloss": "siku mnaposikia"
     },
     {
       "surface": "את",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "השפר",
-      "gloss": "ya tarumbeta"
+      "gloss": "ya pembe"
     },
     {
       "surface": "ואמרתם",
-      "gloss": "mtasema"
+      "gloss": "mwambieni"
     },
     {
       "surface": "מלך",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "אבשלום",
-      "gloss": "Avishalomi"
+      "gloss": "Avshalom"
     },
     {
       "surface": "בחברון",
-      "gloss": "huko Hevroni"
+      "gloss": "Chevroni"
     }
   ],
-  "timestamp": "2026-08-10T11:33:16.383569566Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:11.481735352Z",
+  "model": "glm-5.3"
 }

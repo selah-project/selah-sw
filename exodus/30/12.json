@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 30,
-  "translation": "Utakapoinua ⟨את⟩ kichwa cha wana wa Yisrael kwa hesabu yao, na kila mtu atatoa fidia ya nafsi yake kwa Yahweh unapowahesabu, ⟨את⟩ ili isiwe ⟨kimawazo⟩ mapigo ⟨⟨את⟩ kuwepo⟩ kati yao unapowahesabu.",
+  "translation": "Ukiongoza ⟨את⟩ kichwa cha wana wa Yisrael kwa hesabu yao, kila mtu atatoa malipo ya kuokoa nafsi yake kwa Yahweh pale unapowahesabu ⟨את⟩ wao, ili isikuwe ⟨⟨ndani⟩⟩ yao pigo pale unapowahesabu ⟨את⟩ wao.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Utakapo"
+      "gloss": "Uki- (pale ambapo)"
     },
     {
       "surface": "תשא",
-      "gloss": "inua"
+      "gloss": "ongoza"
     },
     {
       "surface": "את",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "cha wana"
+      "gloss": "wana wa"
     },
     {
       "surface": "ישראל",
-      "gloss": "wa Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "לפקדיהם",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ונתנו",
-      "gloss": "na atatoa"
+      "gloss": "watatoa \/ atatoa"
     },
     {
       "surface": "איש",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "כפר",
-      "gloss": "fidia"
+      "gloss": "malipo ya kuokoa"
     },
     {
       "surface": "נפשו",
-      "gloss": "ya nafsi yake"
+      "gloss": "nafsi yake"
     },
     {
       "surface": "ליהוה",
@@ -58,37 +58,39 @@
     },
     {
       "surface": "בפקד",
-      "gloss": "unapowahesabu"
+      "gloss": "pale unapowahesabu"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ili"
+      "gloss": "⟨את⟩",
+      "marks": "wao"
     },
     {
       "surface": "ולא",
-      "gloss": "isiwe"
+      "gloss": "ili isikuwe"
     },
     {
       "surface": "יהיה",
-      "gloss": "⟨kimawazo⟩"
+      "gloss": "ikuwe"
     },
     {
       "surface": "בהם",
-      "gloss": "kati yao"
+      "gloss": "ndani yao"
     },
     {
       "surface": "נגף",
-      "gloss": "mapigo"
+      "gloss": "pigo"
     },
     {
       "surface": "בפקד",
-      "gloss": "unapowahesabu"
+      "gloss": "pale unapowahesabu"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ kuwepo"
+      "gloss": "⟨את⟩",
+      "marks": "wao"
     }
   ],
-  "timestamp": "2026-08-10T10:26:50.944945656Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:13.513856044Z",
+  "model": "glm-5.3"
 }

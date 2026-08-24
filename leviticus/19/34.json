@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 19,
-  "translation": "Kama mzaliwa wenu atakuwa kwenu ⟨הגר⟩ mgeni akaaye ⟨אתכם⟩, na ampende yeye kama nafsi yako, kwa kuwa mgeni mlikuwa katika nchi ya Mitsrayim; mimi Yahweh, Elohim wenu.",
+  "translation": "Mgeni anayeishi ⟨את⟩ pamoja nanyi atakuwa kama mwenyeji miongoni mwenu, na utampenda yeye kama unavyojipenda wewe mwenyewe, kwa kuwa nyinyi mlikuwa wageni katika nchi ya Mitsrayim; mimi ⟨ni⟩ Yahweh Elohim wenu.",
   "tokens": [
     {
       "surface": "כאזרח",
-      "gloss": "Kama mzaliwa"
+      "gloss": "kama mwenyeji"
     },
     {
       "surface": "מכם",
-      "gloss": "wenu"
+      "gloss": "miongoni mwenu"
     },
     {
       "surface": "יהיה",
@@ -25,29 +25,27 @@
     },
     {
       "surface": "הגר",
-      "gloss": "⟨הגר⟩",
-      "marks": "mgeni"
-    },
-    {
-      "surface": "הגר",
       "gloss": "mgeni"
     },
     {
+      "surface": "הגר",
+      "gloss": "anayeishi"
+    },
+    {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "akaaye"
+      "gloss": "⟨את⟩ pamoja nanyi"
     },
     {
       "surface": "ואהבת",
-      "gloss": "na amp"
+      "gloss": "na utampenda"
     },
     {
       "surface": "לו",
-      "gloss": "ende yeye"
+      "gloss": "yeye"
     },
     {
       "surface": "כמוך",
-      "gloss": "kama nafsi yako"
+      "gloss": "kama wewe mwenyewe"
     },
     {
       "surface": "כי",
@@ -55,7 +53,7 @@
     },
     {
       "surface": "גרים",
-      "gloss": "mgeni"
+      "gloss": "wageni"
     },
     {
       "surface": "הייתם",
@@ -82,6 +80,6 @@
       "gloss": "Elohim wenu"
     }
   ],
-  "timestamp": "2026-08-10T10:36:46.992343009Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:18.738870630Z",
+  "model": "glm-5.3"
 }

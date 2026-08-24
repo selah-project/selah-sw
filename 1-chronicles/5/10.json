@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "sw",
   "chapter": 5,
-  "translation": "Na katika siku za Shaul walipigana vita na ⟨הגרים│wahagri⟩, wakaanguka mikononi mwao, wakakaa hema zao juu ya uso wote wa mashariki wa Giladi.",
+  "translation": "Na katika siku za Shaul walifanya vita na Wahagri, nao wakaanguka mikononi mwao; wakakaa katika hema zao juu ya uso wote wa mashariki ya Gileadi.",
   "tokens": [
     {
       "surface": "ובימי",
-      "gloss": "na katika siku"
+      "gloss": "Na katika siku za"
     },
     {
       "surface": "שאול",
-      "gloss": "za Shaul"
+      "gloss": "Shaul"
     },
     {
       "surface": "עשו",
-      "gloss": "walipigana"
+      "gloss": "walifanya"
     },
     {
       "surface": "מלחמה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ההגראים",
-      "gloss": "⟨הגרים│wahagri⟩"
+      "gloss": "Wahagri"
     },
     {
       "surface": "ויפלו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "באהליהם",
-      "gloss": "hema zao"
+      "gloss": "katika hema zao"
     },
     {
       "surface": "על",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "לגלעד",
-      "gloss": "wa Giladi"
+      "gloss": "ya Gileadi"
     }
   ],
-  "timestamp": "2026-08-10T14:04:29.761433776Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:27.913692723Z",
+  "model": "glm-5.3"
 }

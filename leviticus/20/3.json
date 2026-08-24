@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 20,
-  "translation": "Na mimi nitaweka ⟨את⟩ uso wangu juu ya mtu yule, na nitamkata ⟨אתו⟩ ⟨kati⟩ ya watu wake; kwa kuwa mkono wake amempa Molek, ili kuchafua ⟨את⟩ takatuku yangu na kudharau ⟨את⟩ jina takatuku langu.",
+  "translation": "Na mimi nitaweka uso wangu dhidi ya mtu huyo, nitanikatisha ⟨את⟩ ⟨אתו⟩ yeye kutoka katikati ya watu wake, kwa sababu muzao wake ametoa kwa Moloch, ili kuchafua ⟨את⟩ patakatifu langu na kudhalilisha ⟨את⟩ jina langu takatifu.",
   "tokens": [
     {
       "surface": "ואני",
@@ -26,44 +26,44 @@
     },
     {
       "surface": "באיש",
-      "gloss": "juu ya mtu"
+      "gloss": "dhidi ya mtu"
     },
     {
       "surface": "ההוא",
-      "gloss": "yule"
+      "gloss": "huyo"
     },
     {
       "surface": "והכרתי",
-      "gloss": "na nitamkata"
+      "gloss": "nitanikatisha"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "yeye"
     },
     {
       "surface": "מקרב",
-      "gloss": "⟨kati⟩ ya"
+      "gloss": "kutoka katikati"
     },
     {
       "surface": "עמו",
-      "gloss": "watu wake"
+      "gloss": "ya watu wake"
     },
     {
       "surface": "כי",
-      "gloss": "kwa kuwa"
+      "gloss": "kwa sababu"
     },
     {
       "surface": "מזרעו",
-      "gloss": "mkono wake"
+      "gloss": "muzao wake"
     },
     {
       "surface": "נתן",
-      "gloss": "amempa"
+      "gloss": "ametoa"
     },
     {
       "surface": "למלך",
-      "gloss": "Molek"
+      "gloss": "kwa Moloch"
     },
     {
       "surface": "למען",
@@ -76,20 +76,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "takatuku yangu"
+      "marks": "patakatifu langu"
     },
     {
       "surface": "מקדשי",
-      "gloss": "takatuku yangu"
+      "gloss": "patakatifu langu"
     },
     {
       "surface": "ולחלל",
-      "gloss": "na kudharau"
+      "gloss": "na kudhalilisha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jina"
+      "marks": "jina langu takatifu"
     },
     {
       "surface": "שם",
@@ -97,9 +97,9 @@
     },
     {
       "surface": "קדשי",
-      "gloss": "takatuku langu"
+      "gloss": "langu takatifu"
     }
   ],
-  "timestamp": "2026-08-10T10:37:12.963085413Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.358919907Z",
+  "model": "glm-5.3"
 }

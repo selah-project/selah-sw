@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 43,
-  "translation": "Ukipita katika maji, ⟨אתך⟩ mimi ⟨niku⟩pamoja nawe, na mito haitakutoboa, na utakapotembea katikati ya moto, hutateketea, na ndege haitawaka ndani yako.",
+  "translation": "Kwa kuwa utapita katika maji, ⟨את⟩ ⟨אתך⟩ mimi nitakuwa pamoja nawe, na katika mito, hayatakuzamisha; kwa kuwa utatembea katika moto, hutapunguzwa, na mwung'ao haukuwaki ndani yako.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "kipofahamu"
+      "gloss": "kwa kuwa"
     },
     {
       "surface": "תעבר",
-      "gloss": "ukipita"
+      "gloss": "utapita"
     },
     {
       "surface": "במים",
@@ -21,8 +21,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
-      "marks": "mimi"
+      "gloss": "⟨את⟩ ⟨אתך⟩"
     },
     {
       "surface": "אני",
@@ -30,27 +29,27 @@
     },
     {
       "surface": "ובנהרות",
-      "gloss": "na mito"
+      "gloss": "na katika mito"
     },
     {
       "surface": "לא",
-      "gloss": "sio"
+      "gloss": "ha-"
     },
     {
       "surface": "ישטפוך",
-      "gloss": "hawatakutoboa"
+      "gloss": "-takuzamisha"
     },
     {
       "surface": "כי",
-      "gloss": "na"
+      "gloss": "kwa kuwa"
     },
     {
       "surface": "תלך",
-      "gloss": "utakapotembea"
+      "gloss": "utatembea"
     },
     {
       "surface": "במו",
-      "gloss": "katikati ya"
+      "gloss": "katika"
     },
     {
       "surface": "אש",
@@ -58,29 +57,29 @@
     },
     {
       "surface": "לא",
-      "gloss": "sio"
+      "gloss": "hu-"
     },
     {
       "surface": "תכוה",
-      "gloss": "hutateketea"
+      "gloss": "-tapunguzwa"
     },
     {
       "surface": "ולהבה",
-      "gloss": "na ndege"
+      "gloss": "na mwung'ao"
     },
     {
       "surface": "לא",
-      "gloss": "sio"
+      "gloss": "hau-"
     },
     {
       "surface": "תבער",
-      "gloss": "haitawaka"
+      "gloss": "-kuwaki"
     },
     {
       "surface": "בך",
       "gloss": "ndani yako"
     }
   ],
-  "timestamp": "2026-08-10T12:05:21.494653759Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.375354796Z",
+  "model": "glm-5.3"
 }

@@ -5,40 +5,40 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 39,
-  "translation": "Basi mabwana wa Yosef wakauchukua ⟨אתו⟩ wakamweka ⟨kwenye⟩ jela, mahali ambapo wafungwa wa mfalme wanafungwa; naye akawa huko kwenye jela.",
+  "translation": "Bwana wa Yosefi alimchukua ⟨את⟩ yeye, akamweka ndani ya gereza, mahali ambapo wafungwa wa mfalme wanafungwa; naye akawa ⟨is⟩ huko katika gereza.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "wakauchukua"
+      "gloss": "alimchukua"
     },
     {
       "surface": "אדני",
-      "gloss": "mabwana"
+      "gloss": "Bwana"
     },
     {
       "surface": "יוסף",
-      "gloss": "wa Yosef"
+      "gloss": "Yosefi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "Yosef"
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
     },
     {
       "surface": "ויתנהו",
-      "gloss": "wakamweka"
+      "gloss": "akamweka"
     },
     {
       "surface": "אל",
-      "gloss": "⟨kwenye⟩"
+      "gloss": "ndani ya"
     },
     {
       "surface": "בית",
-      "gloss": "jela"
+      "gloss": "gereza"
     },
     {
       "surface": "הסהר",
-      "gloss": "kizuizini"
+      "gloss": "gereza"
     },
     {
       "surface": "מקום",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "wa mfalme"
+      "gloss": "mfalme"
     },
     {
       "surface": "אסורים",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "naye akawa"
+      "gloss": "akawa"
     },
     {
       "surface": "שם",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "בבית",
-      "gloss": "kwenye"
+      "gloss": "katika"
     },
     {
       "surface": "הסהר",
-      "gloss": "kizuizini"
+      "gloss": "gereza"
     }
   ],
-  "timestamp": "2026-08-10T14:27:06.178584966Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:15.839008556Z",
+  "model": "glm-5.3"
 }

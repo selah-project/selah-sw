@@ -5,28 +5,28 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 27,
-  "translation": "Na ⟨⟨את⟩ ngozi za wana-mbuzi akamzongia mikono yake, na sehemu tambarare ya shingo yake.",
+  "translation": "Na ⟨את⟩ ngozi za wana wa mbuzi aliZIVISHA juu ya mikono yake na juu ya sehemu laini ya shingo yake.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Na ⟨את⟩",
-      "marks": "ngozi"
+      "gloss": "⟨את⟩",
+      "marks": "ngozi za wana wa mbuzi"
     },
     {
       "surface": "ערת",
-      "gloss": "ngozi za"
+      "gloss": "ngozi"
     },
     {
       "surface": "גדיי",
-      "gloss": "wana-mbuzi"
+      "gloss": "wana wa mbuzi"
     },
     {
       "surface": "העזים",
-      "gloss": "za mbuzi"
+      "gloss": "⟨za⟩ mbuzi"
     },
     {
       "surface": "הלבישה",
-      "gloss": "akamzongia"
+      "gloss": "aliZIVISHA"
     },
     {
       "surface": "על",
@@ -42,13 +42,13 @@
     },
     {
       "surface": "חלקת",
-      "gloss": "sehemu tambarare ya"
+      "gloss": "sehemu laini"
     },
     {
       "surface": "צואריו",
-      "gloss": "shingo yake"
+      "gloss": "ya shingo yake"
     }
   ],
-  "timestamp": "2026-08-10T10:08:20.436637886Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:29.953018347Z",
+  "model": "glm-5.3"
 }

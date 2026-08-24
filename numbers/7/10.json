@@ -5,49 +5,49 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Na wakubwa wakimkarimisha ⟨את⟩ kuwekwa wakfu kwa madhabahu siku ya kumpaka mafuta ⟨אתו⟩, na wakubwa wakimkarimisha ⟨את⟩ dhabihu zao mbele ya madhabahu.",
+  "translation": "Na wakuu walileta ⟨את⟩ toleo la utawazishaji wa madhabahu, siku ilipotawazwa ⟨את⟩ ⟨אתו⟩; na wakuu walileta ⟨את⟩ dhabihu zao mbele za ⟨the⟩ madhabahu.",
   "tokens": [
     {
       "surface": "ויקריבו",
-      "gloss": "na wakimkarimisha"
+      "gloss": "walileta"
     },
     {
       "surface": "הנשאים",
-      "gloss": "wakubwa"
+      "gloss": "wakuu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kuwekwa wakfu"
+      "marks": "toleo la utawazishaji wa madhabahu"
     },
     {
       "surface": "חנכת",
-      "gloss": "kuwekwa wakfu"
+      "gloss": "utawazishaji"
     },
     {
       "surface": "המזבח",
-      "gloss": "kwa madhabahu"
+      "gloss": "madhabahu"
     },
     {
       "surface": "ביום",
-      "gloss": "siku ya"
+      "gloss": "siku"
     },
     {
       "surface": "המשח",
-      "gloss": "kumpaka mafuta"
+      "gloss": "ilipotawazwa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "kumpaka mafuta"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "madhabahu (ilitawazwa)"
     },
     {
       "surface": "ויקריבו",
-      "gloss": "na wakimkarimisha"
+      "gloss": "walileta"
     },
     {
       "surface": "הנשיאם",
-      "gloss": "wakubwa"
+      "gloss": "wakuu"
     },
     {
       "surface": "את",
@@ -60,13 +60,13 @@
     },
     {
       "surface": "לפני",
-      "gloss": "mbele ya"
+      "gloss": "mbele za"
     },
     {
       "surface": "המזבח",
       "gloss": "madhabahu"
     }
   ],
-  "timestamp": "2026-08-10T14:37:42.162013503Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.379562730Z",
+  "model": "glm-5.3"
 }

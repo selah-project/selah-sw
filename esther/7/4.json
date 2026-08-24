@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Kwa maana tumeuzwa, mimi na taifa langu, ili kuangamizwa, ili kuuawa na ili kupotea. Na ingeli kuwa tumeweza kuuzwa kuwa watumwa na wajakazi, ningeli kimya; kwa maana <adui> <hastahili> kulinganishwa na hasara ya mfalme.",
+  "translation": "Kwa maana mimi na watu wangu tumeuzwa kuharibiwa, kuuawa na kupotea; na lau tungaliuzwa kuwa watumwa na wajakazi, ningelikaa kimya, maana mnabaaji hawezi kulinganishwa na hasara ya mfalme.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,65 +21,65 @@
     },
     {
       "surface": "ועמי",
-      "gloss": "na taifa langu"
+      "gloss": "na watu wangu"
     },
     {
       "surface": "להשמיד",
-      "gloss": "ili kuangamizwa"
+      "gloss": "kuharibiwa"
     },
     {
       "surface": "להרוג",
-      "gloss": "ili kuuawa"
+      "gloss": "kuuawa"
     },
     {
       "surface": "ולאבד",
-      "gloss": "na ili kupotea"
+      "gloss": "na kupotea"
     },
     {
       "surface": "ואלו",
-      "gloss": "na ingeli kuwa"
+      "gloss": "na lau"
     },
     {
       "surface": "לעבדים",
       "gloss": "kuwa watumwa"
     },
     {
-      "surface": "ולשפחות",
+      "surface": "ו לשפחות",
       "gloss": "na wajakazi"
     },
     {
       "surface": "נמכרנו",
-      "gloss": "tumeuzwa"
+      "gloss": "tungaliuzwa"
     },
     {
       "surface": "החרשתי",
-      "gloss": "ningeli kimya"
+      "gloss": "ningelikaa kimya"
     },
     {
       "surface": "כי",
-      "gloss": "kwa maana"
+      "gloss": "maana"
     },
     {
       "surface": "אין",
-      "gloss": "<hapatikani>"
+      "gloss": "hapana"
     },
     {
       "surface": "הצר",
-      "gloss": "<adui>"
+      "gloss": "mnabaaji"
     },
     {
       "surface": "שוה",
-      "gloss": "<hastahili>"
+      "gloss": "kulinganishwa"
     },
     {
       "surface": "בנזק",
-      "gloss": "kulinganishwa na hasara"
+      "gloss": "na hasara"
     },
     {
       "surface": "המלך",
       "gloss": "ya mfalme"
     }
   ],
-  "timestamp": "2026-08-10T15:38:33.774892892Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:39.768884179Z",
+  "model": "glm-5.3"
 }

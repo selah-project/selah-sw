@@ -5,33 +5,33 @@
   "book": "amos",
   "lang": "sw",
   "chapter": 5,
-  "translation": "Nimewachukia, nimewadharau ⟨⟨sikufurahia⟩⟩ sikufurahia sherehe zenu, wala sitapenda harufu za mkusanyiko wenu wa kutakaswa.",
+  "translation": "Nimechukia, nimedharau sikukuu zenu, na sitapata ⟨hiyo⟩ harufu ⟨ya⟩ mikutano yenu takatifu.",
   "tokens": [
     {
-      "surface": "שָׂנֵ֥אתִי",
-      "gloss": "Nimewachukia"
+      "surface": "שנאתי",
+      "gloss": "Nimechukia"
     },
     {
-      "surface": "מָאַ֖סְתִּי",
-      "gloss": "nimewadharau"
+      "surface": "מאסתי",
+      "gloss": "nimedharau"
     },
     {
-      "surface": "חַגֵּיכֶ֑ם",
-      "gloss": "sherehe zenu"
+      "surface": "חגיכם",
+      "gloss": "sikukuu zenu"
     },
     {
-      "surface": "וְלֹ֥א",
-      "gloss": "wala sitapenda"
+      "surface": "ולא",
+      "gloss": "na sitapata"
     },
     {
-      "surface": "אָרִ֖יחַ",
-      "gloss": "kunukia"
+      "surface": "אריח",
+      "gloss": "⟨hiyo⟩ harufu ⟨ya⟩"
     },
     {
-      "surface": "בְּעַצְּרֹֽתֵיכֶֽם",
-      "gloss": "mkusanyiko wenu wa kutakaswa"
+      "surface": "בעצרתיכם",
+      "gloss": "mikutano yenu takatifu"
     }
   ],
-  "timestamp": "2026-08-10T12:45:42.384162865Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:20.269005097Z",
+  "model": "glm-5.3"
 }

@@ -5,91 +5,89 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 44,
-  "translation": "Na tukasema: Hatuwezi kushuka, isipokuwa kaka yetu mdogo ⟨anakuwa⟩ ⟨אתנו⟩, ndipo tushuke; maana hatuwezi kuona uso wa mtu huyo, na kaka yetu mdogo hayupo ⟨אתנו⟩.",
+  "translation": "Tukasema: Hatuwezi kushuka; kama ndugu yetu mdogo yumo ⟨את⟩ nasi, tutashuka; kwa maana hatuwezi kuona ⟨את⟩ uso wa yule mtu, na ndugu yetu mdogo hayumo ⟨את⟩ nasi.",
   "tokens": [
     {
-      "surface": "ונאמר",
-      "gloss": "na tukasema"
+      "surface": "וַנֹּאמֶר",
+      "gloss": "Tukasema"
     },
     {
-      "surface": "לא",
-      "gloss": "hatuwezi"
+      "surface": "לֹא",
+      "gloss": "Hatu-"
     },
     {
-      "surface": "נוכל",
-      "gloss": "hatuwezi"
+      "surface": "נוּכַל",
+      "gloss": "wezi"
     },
     {
-      "surface": "לרדת",
+      "surface": "לָרֶדֶת",
       "gloss": "kushuka"
     },
     {
-      "surface": "אם",
-      "gloss": "isipokuwa"
+      "surface": "אִם",
+      "gloss": "kama"
     },
     {
-      "surface": "יש",
-      "gloss": "yupo"
+      "surface": "יֵשׁ",
+      "gloss": "yumo"
     },
     {
-      "surface": "אחינו",
-      "gloss": "kaka yetu"
+      "surface": "אָחִינוּ",
+      "gloss": "ndugu yetu"
     },
     {
-      "surface": "הקטן",
+      "surface": "הַקָּטֹן",
       "gloss": "mdogo"
     },
     {
-      "surface": "אתנו",
-      "gloss": "⟨אתנו⟩",
-      "marks": "sisi"
+      "surface": "אִתָּנוּ",
+      "gloss": "⟨את⟩ nasi"
     },
     {
-      "surface": "וירדנו",
-      "gloss": "ndipo tushuke"
+      "surface": "וְיָרַדְנוּ",
+      "gloss": "tutashuka"
     },
     {
-      "surface": "כי",
-      "gloss": "maana"
+      "surface": "כִּי",
+      "gloss": "kwa maana"
     },
     {
-      "surface": "לא",
-      "gloss": "hatuwezi"
+      "surface": "לֹא",
+      "gloss": "hatu-"
     },
     {
-      "surface": "נוכל",
-      "gloss": "kuweza"
+      "surface": "נוּכַל",
+      "gloss": "wezi"
     },
     {
-      "surface": "לראות",
+      "surface": "לִרְאוֹת",
       "gloss": "kuona"
     },
     {
-      "surface": "פני",
-      "gloss": "uso"
+      "surface": "פְּנֵי",
+      "gloss": "uso wa"
     },
     {
-      "surface": "האיש",
-      "gloss": "wa mtu huyo"
+      "surface": "הָאִישׁ",
+      "gloss": "yule mtu"
     },
     {
-      "surface": "ואחינו",
-      "gloss": "na kaka yetu"
+      "surface": "וְאָחִינוּ",
+      "gloss": "na ndugu yetu"
     },
     {
-      "surface": "הקטן",
+      "surface": "הַקָּטֹן",
       "gloss": "mdogo"
     },
     {
-      "surface": "איננו",
-      "gloss": "hayupo"
+      "surface": "אֵינֶנּוּ",
+      "gloss": "hayumo"
     },
     {
-      "surface": "אתנו",
-      "gloss": "⟨אתנו⟩",
-      "marks": "sisi"
+      "surface": "אִתָּנוּ",
+      "gloss": "⟨את⟩ nasi"
     }
   ],
-  "timestamp": "2026-08-10T10:15:51.232917733Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:29.755930911Z",
+  "model": "glm-5.3"
 }

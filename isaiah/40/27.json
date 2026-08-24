@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 40,
-  "translation": "Kwa nini usema, ene Yaakov, na kusema, ene Yisrael: ⟨׳Njia⟩ yangu imefichika mbali na Yahweh, na haki yangu inapita mbali na Elohai⟨?׳⟩",
+  "translation": "Kwa nini unasema, ewe Yaakov, na kunena, ewe Yisraeli: Njia yangu imefichika na Yahweh, na hukumu yangu inapuuzwa na Elohim wangu?",
   "tokens": [
     {
       "surface": "למה",
-      "gloss": "Kwa nini"
+      "gloss": "kwa nini"
     },
     {
       "surface": "תאמר",
-      "gloss": "usema"
+      "gloss": "unasema"
     },
     {
       "surface": "יעקב",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ותדבר",
-      "gloss": "na kusema"
+      "gloss": "na kunena"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "נסתרה",
@@ -33,25 +33,25 @@
     },
     {
       "surface": "דרכי",
-      "gloss": "Njia yangu"
+      "gloss": "njia yangu"
     },
     {
       "surface": "מיהוה",
-      "gloss": "mbali na Yahweh"
+      "gloss": "na Yahweh"
     },
     {
       "surface": "ומאלהי",
-      "gloss": "na mbali na Elohai"
+      "gloss": "na Elohim wangu"
     },
     {
       "surface": "משפטי",
-      "gloss": "haki yangu"
+      "gloss": "hukumu yangu"
     },
     {
       "surface": "יעבור",
-      "gloss": "inapita"
+      "gloss": "inapuuzwa"
     }
   ],
-  "timestamp": "2026-08-10T15:07:31.845196224Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:25.890379146Z",
+  "model": "glm-5.3"
 }

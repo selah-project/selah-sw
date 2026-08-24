@@ -5,24 +5,24 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 39,
-  "translation": "Akafanya ⟨את） joho la haefodi, kazi ya kufuma, la rangi ya buluu kabisa.",
+  "translation": "Naye akatengeneza ⟨את⟩ meea ya efodi, kazi ya mvumi, yote ya buluu ya kombamanga.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "Akafanya"
+      "gloss": "akatengeneza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "joho"
+      "marks": "meea ya efodi"
     },
     {
       "surface": "מעיל",
-      "gloss": "joho"
+      "gloss": "meea"
     },
     {
       "surface": "האפד",
-      "gloss": "la haefodi"
+      "gloss": "ya efodi"
     },
     {
       "surface": "מעשה",
@@ -30,17 +30,17 @@
     },
     {
       "surface": "ארג",
-      "gloss": "ya kufumsa"
+      "gloss": "ya mvumi"
     },
     {
       "surface": "כליל",
-      "gloss": "kabisa"
+      "gloss": "yote"
     },
     {
       "surface": "תכלת",
-      "gloss": "la rangi ya buluu"
+      "gloss": "ya buluu ya kombamanga"
     }
   ],
-  "timestamp": "2026-08-10T14:31:52.885055022Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:18.446834439Z",
+  "model": "glm-5.3"
 }

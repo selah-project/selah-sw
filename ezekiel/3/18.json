@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Katika kunieleza mimi kwa mtu mbaya: Kufa utakufa, na wewe humkonyezi, na humsemei kumkonjeza mtu mbaya kutoka njia yake mbaya ili ⟨⟨את⟩⟩ aishi, yeye mtu mbaya katika kosa lake atakufa, na damu yake kutoka mkononi mwako mimi nitaiomba.",
+  "translation": "Katika kusema kwangu kwa mtu mbaya, Kifo utakufa, nawe hukumwonya yeye, nawe hkusema kumwonya mbaya kutoka njia yake ile mbaya ili aishi; yeye, mbaya, katika dhambi yake atakufa, nawe damu yake kutoka mkononi mwako nitaiomba.",
   "tokens": [
     {
       "surface": "באמרי",
-      "gloss": "Katika kunieleza"
+      "gloss": "Katika kusema kwangu"
     },
     {
       "surface": "לרשע",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מות",
-      "gloss": "Kufa"
+      "gloss": "Kifo"
     },
     {
       "surface": "תמות",
@@ -25,27 +25,27 @@
     },
     {
       "surface": "ולא",
-      "gloss": "na wewe hum"
+      "gloss": "nawe hu-"
     },
     {
       "surface": "הזהרתו",
-      "gloss": "konyezi"
+      "gloss": "-kumwonya yeye"
     },
     {
       "surface": "ולא",
-      "gloss": "na hum"
+      "gloss": "nawe hu-"
     },
     {
       "surface": "דברת",
-      "gloss": "semei"
+      "gloss": "-kusema"
     },
     {
       "surface": "להזהיר",
-      "gloss": "kumkonjeza"
+      "gloss": "kumwonya"
     },
     {
       "surface": "רשע",
-      "gloss": "mtu mbaya"
+      "gloss": "mbaya"
     },
     {
       "surface": "מדרכו",
@@ -53,12 +53,11 @@
     },
     {
       "surface": "הרשעה",
-      "gloss": "mbaya"
+      "gloss": "ile mbaya"
     },
     {
       "surface": "לחיתו",
-      "gloss": "ili ⟨⟨את⟩⟩ aishi",
-      "marks": "mtu mbaya"
+      "gloss": "ili aishi"
     },
     {
       "surface": "הוא",
@@ -66,11 +65,11 @@
     },
     {
       "surface": "רשע",
-      "gloss": "mtu mbaya"
+      "gloss": "mbaya"
     },
     {
       "surface": "בעונו",
-      "gloss": "katika kosa lake"
+      "gloss": "katika dhambi yake"
     },
     {
       "surface": "ימות",
@@ -78,7 +77,7 @@
     },
     {
       "surface": "ודמו",
-      "gloss": "na damu yake"
+      "gloss": "nawe damu yake"
     },
     {
       "surface": "מידך",
@@ -86,9 +85,9 @@
     },
     {
       "surface": "אבקש",
-      "gloss": "mimi nitaiomba"
+      "gloss": "nitaiomba"
     }
   ],
-  "timestamp": "2026-08-10T12:27:34.282432201Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:19.540766555Z",
+  "model": "glm-5.3"
 }

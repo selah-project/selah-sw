@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 26,
-  "translation": "Na utafanya vlozi hamsini vya shaba, na utaingiza ⟨את⟩ vlozi ndani ya vitanzi, na utaunganisha ⟨את⟩ hema, ili liwe ⟨⟨moja⟩⟩.",
+  "translation": "Na utafanya kope hamsini za shaba, na utaingiza ⟨את⟩ kope hizo katika vitanzi, na utaunganisha ⟨את⟩ hema, na itakuwa ⟨⟩ moja.",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "Na utafanya"
+      "gloss": "na utafanya"
     },
     {
       "surface": "קרסי",
-      "gloss": "vlozi"
+      "gloss": "kope"
     },
     {
       "surface": "נחשת",
-      "gloss": "vya shaba"
+      "gloss": "za shaba"
     },
     {
       "surface": "חמשים",
@@ -30,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vlozi"
+      "marks": "kope hizo"
     },
     {
       "surface": "הקרסים",
-      "gloss": "vlozi"
+      "gloss": "kope hizo"
     },
     {
       "surface": "בללאת",
-      "gloss": "ndani ya vitanzi"
+      "gloss": "katika vitanzi"
     },
     {
       "surface": "וחברת",
@@ -55,13 +55,13 @@
     },
     {
       "surface": "והיה",
-      "gloss": "ili liwe"
+      "gloss": "na itakuwa"
     },
     {
       "surface": "אחד",
       "gloss": "moja"
     }
   ],
-  "timestamp": "2026-08-10T14:31:21.276442006Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:52.006149431Z",
+  "model": "glm-5.3"
 }

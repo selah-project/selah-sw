@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Siku saba utakula mikate yasiyo na chachu, na siku ya saba ⟨⟨ni⟩⟩ sikukuu kwa Yahweh.",
+  "translation": "Siku saba utakula mikate isiyotiwa chachu, na siku ya saba ⟨itakuwa⟩ sikukuu kwa Yahweh.",
   "tokens": [
     {
       "surface": "שבעת",
-      "gloss": "siku saba"
+      "gloss": "saba"
     },
     {
       "surface": "ימים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מצת",
-      "gloss": "mikate yasiyo na chachu"
+      "gloss": "mikate isiyotiwa chachu"
     },
     {
       "surface": "וביום",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "השביעי",
-      "gloss": "ya saba"
+      "gloss": "saba"
     },
     {
       "surface": "חג",
@@ -40,6 +40,6 @@
       "gloss": "kwa Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T10:21:11.312873347Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:52.979860883Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 19,
-  "translation": "Ikawa walipowatoa ⟨אתם⟩ nje, akasema: Jieokoe kwa ajili ya uhai wako; usitazame nyuma yako, wala usisimame popote katika tambarare; kwenye mlima jieokoe, usiangamie.",
+  "translation": "Ikawa walipowatoa ⟨את⟩ nje ⟨ya mji⟩, akasema: Jiokoe kwa uhai wako; usitazame nyuma yako, wala usisimame katika bonde lote; jiokoe mlimani, usiangamizwe.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ikawa"
+      "gloss": "Ikawa"
     },
     {
       "surface": "כהוציאם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "nje"
     },
     {
@@ -30,11 +30,11 @@
     },
     {
       "surface": "המלט",
-      "gloss": "jieokoe"
+      "gloss": "Jiokoe"
     },
     {
       "surface": "על",
-      "gloss": "kwa ajili ya"
+      "gloss": "kwa"
     },
     {
       "surface": "נפשך",
@@ -58,23 +58,23 @@
     },
     {
       "surface": "תעמד",
-      "gloss": "simame"
+      "gloss": "sisimame"
     },
     {
       "surface": "בכל",
-      "gloss": "popote katika"
+      "gloss": "katika bonde lote"
     },
     {
       "surface": "הככר",
-      "gloss": "tambarare"
+      "gloss": "bonde"
     },
     {
       "surface": "ההרה",
-      "gloss": "kwenye mlima"
+      "gloss": "mlimani"
     },
     {
       "surface": "המלט",
-      "gloss": "jieokoe"
+      "gloss": "jiokoe"
     },
     {
       "surface": "פן",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "תספה",
-      "gloss": "angamie"
+      "gloss": "angamizwe"
     }
   ],
-  "timestamp": "2026-08-10T10:05:29.882484178Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:29.421844660Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 20,
-  "translation": "Msizishike ⟨את⟩ amri zangu zote na ⟨את⟩ hukumu zangu zote, mkazitenda; nchi ile ambayo mimi nawaletena huko kwenye kudumu, isikutapeni.",
+  "translation": "Mtazihifadhi ⟨את⟩ amri zangu zote na ⟨את⟩ hukumu zangu zote, na mkizitenda, ili nchi ile ambayo mimi niwaleta huko kukaa humo isikutapwe nje.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "Msizishike"
+      "gloss": "mtazihifadhi"
     },
     {
       "surface": "את",
@@ -26,7 +26,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩"
+      "gloss": "na ⟨את⟩",
+      "marks": "hukumu zangu zote"
     },
     {
       "surface": "כל",
@@ -38,24 +39,24 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "mkazitenda"
+      "gloss": "na mkizitenda"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "hukumu zangu zote"
     },
     {
       "surface": "ולא",
-      "gloss": "isi"
+      "gloss": "ili isi"
     },
     {
       "surface": "תקיא",
-      "gloss": "kutapeni"
+      "gloss": "kutapwa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתם⟩",
-      "marks": "nchi"
+      "gloss": "⟨את⟩ ninyi"
     },
     {
       "surface": "הארץ",
@@ -71,7 +72,7 @@
     },
     {
       "surface": "מביא",
-      "gloss": "nawaletena"
+      "gloss": "niwaleta"
     },
     {
       "surface": "אתכם",
@@ -83,13 +84,13 @@
     },
     {
       "surface": "לשבת",
-      "gloss": "kwenye kudumu"
+      "gloss": "kukaa"
     },
     {
       "surface": "בה",
-      "gloss": "ndani yake"
+      "gloss": "humo"
     }
   ],
-  "timestamp": "2026-08-10T10:37:15.834268791Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.359789600Z",
+  "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 16,
-  "translation": "Kama vile Yahweh alivyomwagiza Moshe; na Aharon akakiweka ⟨hicho⟩ mbele za ⟨⟨the⟩⟩ ushahidi kwa ajili ya kuwekwa.",
+  "translation": "Kama alivyomruru Yahweh kwa Moshe, ndivyo Aharon aliweka ⟨את⟩ hiyo mbele ya ⟨ה⟩ Shuhuda, ihifadhiwe.",
   "tokens": [
     {
       "surface": "כאשר",
-      "gloss": "kama vile"
+      "gloss": "kama alivyo"
     },
     {
       "surface": "צוה",
-      "gloss": "alivyomwagiza"
+      "gloss": "aliruru"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויניחהו",
-      "gloss": "na akakiweka"
+      "gloss": "aliweka hiyo"
     },
     {
       "surface": "אהרן",
@@ -37,17 +37,17 @@
     },
     {
       "surface": "לפני",
-      "gloss": "mbele za"
+      "gloss": "mbele ya"
     },
     {
       "surface": "העדת",
-      "gloss": "ushahidi"
+      "gloss": "Shuhuda"
     },
     {
       "surface": "למשמרת",
-      "gloss": "kwa ajili ya kuwekwa"
+      "gloss": "ihifadhiwe"
     }
   ],
-  "timestamp": "2026-08-10T10:22:31.528360694Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:23.040300383Z",
+  "model": "glm-5.3"
 }

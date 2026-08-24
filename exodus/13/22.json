@@ -5,49 +5,49 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Hakukuwa na kutowekwa kwa nguzo ya wingu mchana, wala nguzo ya moto usiku, ⟨kutoka⟩ mbele za ⟨⟨העם⟩⟩.",
+  "translation": "Nguzo ya wingu mchana na nguzo ya moto usiku haikuondoka ⟨mbele ya⟩ watu.",
   "tokens": [
     {
-      "surface": "לֹֽא",
-      "gloss": "Hakukuwa na"
+      "surface": "לא",
+      "gloss": "haiku"
     },
     {
-      "surface": "יָמִ֞ישׁ",
-      "gloss": "kutowekwa"
+      "surface": "ימיש",
+      "gloss": "ondoka"
     },
     {
-      "surface": "עַמּ֤וּד",
-      "gloss": "kwa nguzo"
+      "surface": "עמוד",
+      "gloss": "nguzo"
     },
     {
-      "surface": "הֶֽעָנָן֙",
+      "surface": "הענן",
       "gloss": "ya wingu"
     },
     {
-      "surface": "יוֹמָ֔ם",
+      "surface": "יומם",
       "gloss": "mchana"
     },
     {
-      "surface": "וְעַמּ֥וּד",
-      "gloss": "wala nguzo"
+      "surface": "ועמוד",
+      "gloss": "na nguzo"
     },
     {
-      "surface": "הָאֵ֖שׁ",
+      "surface": "האש",
       "gloss": "ya moto"
     },
     {
-      "surface": "לָ֑יְלָה",
+      "surface": "לילה",
       "gloss": "usiku"
     },
     {
-      "surface": "לִפְנֵ֖י",
-      "gloss": "mbele za"
+      "surface": "לפני",
+      "gloss": "mbele ya"
     },
     {
-      "surface": "הָעָֽם",
-      "gloss": "⟨העם⟩"
+      "surface": "העם",
+      "gloss": "watu"
     }
   ],
-  "timestamp": "2026-08-10T15:52:03.817273240Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:02.622080570Z",
+  "model": "glm-5.3"
 }

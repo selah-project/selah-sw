@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 29,
-  "translation": "Na watame ⟨אתם⟩ zile ambazo zilitubuwa kwa njia yao, ili kujaza ⟨את⟩ mikono yao, ili kuwatakasa ⟨אתם⟩; na mgeni asile, kwa kuwa takaso ni ⟨hao⟩.",
+  "translation": "Nao watamla ⟨את⟩ hizo ambazo kwa njia yao ulifanyika upatanisho, kujaza ⟨את⟩ mikono yao, kuwatia utakatifu ⟨את⟩ wao; mgeni asiye na haki asile, kwa kuwa takatifu ni hao.",
   "tokens": [
     {
       "surface": "ואכלו",
-      "gloss": "na watame"
+      "gloss": "watamla"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "zile"
+      "gloss": "⟨את⟩",
+      "marks": "hizo (mambo ya kafara)"
     },
     {
       "surface": "אשר",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "כפר",
-      "gloss": "zilitubuwa"
+      "gloss": "upatanisho"
     },
     {
       "surface": "בהם",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "למלא",
-      "gloss": "ili kujaza"
+      "gloss": "kujaza"
     },
     {
       "surface": "את",
@@ -43,11 +43,11 @@
     },
     {
       "surface": "לקדש",
-      "gloss": "ili kuwatakasa"
+      "gloss": "kuwatia utakatifu"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "wao"
     },
     {
@@ -56,11 +56,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "asi"
+      "gloss": "si"
     },
     {
       "surface": "יאכל",
-      "gloss": "le"
+      "gloss": "ale"
     },
     {
       "surface": "כי",
@@ -68,13 +68,13 @@
     },
     {
       "surface": "קדש",
-      "gloss": "takaso"
+      "gloss": "takatifu"
     },
     {
       "surface": "הם",
-      "gloss": "ni hao"
+      "gloss": "hao"
     }
   ],
-  "timestamp": "2026-08-10T10:27:05.147663877Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:12.060987311Z",
+  "model": "glm-5.3"
 }

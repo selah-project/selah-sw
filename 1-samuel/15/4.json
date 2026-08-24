@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 15,
-  "translation": "Akawaita Shaul ⟨את⟩ watu, akawahesabu katika Telaimi: mia mbili elfu wa watu wa kutembea kwa miguu, na elfu kumi ⟨⟨את⟩⟩ wa watu wa Yehudah.",
+  "translation": "Naye Shaul aliita ⟨את⟩ watu, akawahesabu huko Telaimi: mia mbili elfu waendaji kwa miguu, na elfu kumi ⟨את⟩ watu wa Yehudah.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "Akawaita"
+      "gloss": "aliita"
     },
     {
       "surface": "שאול",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "בטלאים",
-      "gloss": "katika Telaimi"
+      "gloss": "huko Telaimi"
     },
     {
       "surface": "מאתים",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "רגלי",
-      "gloss": "wa watu wa kutembea kwa miguu"
+      "gloss": "waendaji kwa miguu"
     },
     {
       "surface": "ועשרת",
@@ -50,22 +50,22 @@
     },
     {
       "surface": "אלפים",
-      "gloss": "elfu"
+      "gloss": "elfu kumi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wa watu wa Yehudah"
+      "marks": "watu wa Yehudah"
     },
     {
       "surface": "איש",
-      "gloss": "wa watu wa"
+      "gloss": "watu"
     },
     {
       "surface": "יהודה",
       "gloss": "Yehudah"
     }
   ],
-  "timestamp": "2026-08-10T14:52:10.546490093Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:59.502782651Z",
+  "model": "glm-5.3"
 }

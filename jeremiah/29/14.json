@@ -5,19 +5,19 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 29,
-  "translation": "Nami nitapatikana kwenu, neno la Yahweh, nami nitawarudisha utumwa wenu, nami nitawakusanya ⟨אתכם⟩ kutoka mataifa yote na kutoka mahali pote nilipowafukuza ⟨אתכם⟩ huko, neno la Yahweh, nami nitakurudisheni ⟨אתכם⟩ mahali hapo nilipowafukuza ⟨אתכם⟩ kutoka huko.",
+  "translation": "Nami nitapatikana nanyi, asema Yahweh; nami nitawarudisha ⟨את⟩ mateka yenu, nami nitawakusanya ⟨את⟩ninyi kutoka mataifa yote na kutoka sehemu zote ambazo nimewasukumaiza huko, asema Yahweh; nami nitawarudisha ⟨את⟩ninyi tena ⟨kwenye⟩ mahali pale ambapo niliwahamishia kutoka huko.",
   "tokens": [
     {
       "surface": "ונמצאתי",
-      "gloss": "Nami nitapatikana"
+      "gloss": "nami nitapatikana"
     },
     {
       "surface": "לכם",
-      "gloss": "kwenu"
+      "gloss": "nanyi"
     },
     {
       "surface": "נאם",
-      "gloss": "neno la"
+      "gloss": "asema"
     },
     {
       "surface": "יהוה",
@@ -30,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "utumwa wenu"
+      "marks": "mateka yenu"
     },
     {
       "surface": "שביתכם",
-      "gloss": "utumwa wenu"
+      "gloss": "mateka yenu"
     },
     {
       "surface": "וקבצתי",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ninyi",
       "marks": "ninyi"
     },
     {
@@ -59,19 +59,19 @@
     },
     {
       "surface": "המקומות",
-      "gloss": "mahali"
+      "gloss": "sehemu"
     },
     {
       "surface": "אשר",
-      "gloss": "nilipo"
+      "gloss": "ambazo"
     },
     {
       "surface": "הדחתי",
-      "gloss": "wafukuza"
+      "gloss": "nimewasukumaiza"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ninyi",
       "marks": "ninyi"
     },
     {
@@ -80,7 +80,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "neno la"
+      "gloss": "asema"
     },
     {
       "surface": "יהוה",
@@ -88,32 +88,32 @@
     },
     {
       "surface": "והשבתי",
-      "gloss": "nami nitakurudisheni"
+      "gloss": "nami nitawarudisha tena"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ninyi",
       "marks": "ninyi"
     },
     {
       "surface": "אל",
-      "gloss": "mahali"
+      "gloss": "kwenye"
     },
     {
       "surface": "המקום",
-      "gloss": "hapo"
+      "gloss": "mahali"
     },
     {
       "surface": "אשר",
-      "gloss": "nilipo"
+      "gloss": "ambapo"
     },
     {
       "surface": "הגליתי",
-      "gloss": "wafukuza"
+      "gloss": "niliwahamishia"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ninyi",
       "marks": "ninyi"
     },
     {
@@ -121,6 +121,6 @@
       "gloss": "kutoka huko"
     }
   ],
-  "timestamp": "2026-08-10T12:19:15.442415291Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:22.068349156Z",
+  "model": "glm-5.3"
 }

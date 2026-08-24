@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "sw",
   "chapter": 11,
-  "translation": "Mbalimbali na ⟨the⟩ watatu, ⟨heshima yake⟩ ilikuwa kubwa kuliko ⟨hiyo ya⟩ wawili; naye akawa kuwa mkuu wao; lakini hadi ⟨kati ya⟩ watatu wa kwanza hakuja.",
+  "translation": "Kati ya ⟨wale⟩ watatu, kuliko wawili aliheshimiwa, akawa mkuu wao; lakini hakuwafikia ⟨hadie⟩ wale watatu ⟨wa kwanza⟩.",
   "tokens": [
     {
       "surface": "מן",
-      "gloss": "mbalimbali na"
+      "gloss": "kati ya"
     },
     {
       "surface": "השלושה",
-      "gloss": "⟨the⟩ watatu"
+      "gloss": "wale watatu"
     },
     {
       "surface": "בשנים",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "נכבד",
-      "gloss": "aliheshimika"
+      "gloss": "aliheshimiwa"
     },
     {
       "surface": "ויהי",
-      "gloss": "naye akawa"
+      "gloss": "akawa"
     },
     {
       "surface": "להם",
-      "gloss": "kwao"
+      "gloss": "wao"
     },
     {
       "surface": "לשר",
-      "gloss": "kuwa mkuu"
+      "gloss": "mkuu"
     },
     {
       "surface": "ועד",
@@ -41,17 +41,17 @@
     },
     {
       "surface": "השלושה",
-      "gloss": "⟨kati ya⟩ watatu wa kwanza"
+      "gloss": "wale watatu"
     },
     {
       "surface": "לא",
-      "gloss": "haku"
+      "gloss": "si"
     },
     {
       "surface": "בא",
-      "gloss": "ja"
+      "gloss": "alifika"
     }
   ],
-  "timestamp": "2026-08-10T14:07:23.976128280Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:31.787259757Z",
+  "model": "glm-5.3"
 }

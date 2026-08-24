@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Na jinsi ⟨the⟩ nchi ile walivyoishi humo — je, ⟨it is⟩ nzuri au mbaya? Na jinsi ⟨the⟩ miji walivyoishi humo — je, ni kambi, au ngome?",
+  "translation": "Na nichi ⟨ni⟩ ipi ambayo ⟨wao⟩ wanakaa humo — ⟨je,⟩ ni nzuri au mbaya? Na miji ni ipi ambayo ⟨wao⟩ wanakaa nayo — ⟨iko⟩ katika kambi au katika ngome?",
   "tokens": [
     {
       "surface": "ומה",
-      "gloss": "na jinsi"
+      "gloss": "na ... nini"
     },
     {
       "surface": "הארץ",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ile"
+      "gloss": "ambayo"
     },
     {
       "surface": "הוא",
-      "gloss": "wao"
+      "gloss": "yeye"
     },
     {
       "surface": "ישב",
-      "gloss": "walivyoishi"
+      "gloss": "anakaa"
     },
     {
       "surface": "בה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ומה",
-      "gloss": "na jinsi"
+      "gloss": "na ... ipi"
     },
     {
       "surface": "הערים",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ile"
+      "gloss": "ambayo"
     },
     {
       "surface": "הוא",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "יושב",
-      "gloss": "walivyoishi"
+      "gloss": "wanakaa"
     },
     {
       "surface": "בהנה",
-      "gloss": "humo"
+      "gloss": "nayo"
     },
     {
       "surface": "הבמחנים",
-      "gloss": "ni kambi"
+      "gloss": "katika kambi"
     },
     {
       "surface": "אם",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "במבצרים",
-      "gloss": "ngome"
+      "gloss": "katika ngome"
     }
   ],
-  "timestamp": "2026-08-10T14:37:40.633140320Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:38.384217416Z",
+  "model": "glm-5.3"
 }

@@ -5,28 +5,28 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Siku ya nane ⟨הוא⟩ aliwatumia ⟨את⟩ taifa, wakambariki ⟨את⟩ mfalme; wakaenda mahema pao, wenye furaha na moyo mzuri, juu ya wema wote alioutenda Yahweh kwa David mtumishi wake na kwa Yisrael taifa lake.",
+  "translation": "Siku ya nane ⟨alituma⟩ mbali ⟨את⟩ watu, nao wakambariki ⟨את⟩ mfalme, wakaenda kwenye hema zao, wenye furaha na wenye moyo mzuri, kwa wema wote alioutenda Yahweh kwa David mtumishi wake na kwa Yisraeli watu wake.",
   "tokens": [
     {
       "surface": "ביום",
-      "gloss": "Siku"
+      "gloss": "Siku ya"
     },
     {
       "surface": "השמיני",
-      "gloss": "ya nane"
+      "gloss": "nane"
     },
     {
       "surface": "שלח",
-      "gloss": "aliwatumia"
+      "gloss": "alituma mbali"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "taifa"
+      "marks": "watu"
     },
     {
       "surface": "העם",
-      "gloss": "taifa"
+      "gloss": "watu"
     },
     {
       "surface": "ויברכו",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "לאהליהם",
-      "gloss": "mahema pao"
+      "gloss": "kwenye hema zao"
     },
     {
       "surface": "שמחים",
@@ -55,15 +55,15 @@
     },
     {
       "surface": "וטובי",
-      "gloss": "na"
+      "gloss": "na wenye mzuri"
     },
     {
       "surface": "לב",
-      "gloss": "moyo mzuri"
+      "gloss": "moyo"
     },
     {
       "surface": "על",
-      "gloss": "juu ya"
+      "gloss": "kwa"
     },
     {
       "surface": "כל",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "alioutenda"
+      "gloss": "aliyo"
     },
     {
       "surface": "עשה",
-      "gloss": "alioutenda"
+      "gloss": "utenda"
     },
     {
       "surface": "יהוה",
@@ -95,13 +95,13 @@
     },
     {
       "surface": "ולישראל",
-      "gloss": "na kwa Yisrael"
+      "gloss": "na kwa Yisraeli"
     },
     {
       "surface": "עמו",
-      "gloss": "taifa lake"
+      "gloss": "watu wake"
     }
   ],
-  "timestamp": "2026-08-10T11:40:09.233285773Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:53.427011263Z",
+  "model": "glm-5.3"
 }

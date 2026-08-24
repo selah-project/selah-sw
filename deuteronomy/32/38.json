@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 32,
-  "translation": "Ambao mafuta ya dhabihu zao ⟨⟨⟩⟩ hula, hupomba mvinyo wa maputo yao — wasimame na kuwasaidieni! Na kuwe kingilio kwenu!",
+  "translation": "Ambao walikula mafuta ya dhabihu zao, na kunywa mvinyo wa mintiraji yao — na wainuke, wakuusaidieni; na ⟨ao⟩ yawe kufunika kwenu!",
   "tokens": [
     {
       "surface": "אשר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "יאכלו",
-      "gloss": "hula"
+      "gloss": "walikula"
     },
     {
       "surface": "ישתו",
-      "gloss": "hupomba"
+      "gloss": "na kunywa"
     },
     {
       "surface": "יין",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "נסיכם",
-      "gloss": "wa maputo yao"
+      "gloss": "wa mintiraji yao"
     },
     {
       "surface": "יקומו",
-      "gloss": "wasimame"
+      "gloss": "na wainuke"
     },
     {
       "surface": "ויעזרכם",
-      "gloss": "na kuwasaidieni"
+      "gloss": "wakuusaidieni"
     },
     {
       "surface": "יהי",
-      "gloss": "na kuwe"
+      "gloss": "na ⟨ao⟩ yawe"
     },
     {
       "surface": "עליכם",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "סתרה",
-      "gloss": "kingilio"
+      "gloss": "kufunika"
     }
   ],
-  "timestamp": "2026-08-10T11:03:46.765782241Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:31.032145612Z",
+  "model": "glm-5.3"
 }

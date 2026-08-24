@@ -5,24 +5,24 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 30,
-  "translation": "Na ikiwa amebatilisha, atabatilisha ⟨אתם⟩ baada ya kusikia kwake, basi ⟨weye⟩ atachukua ⟨את⟩ dhambi yake.",
+  "translation": "Na kama atavibatilisha baada ya kuyasikia, atabeba ⟨את⟩ hatia yake.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Na ikiwa"
+      "gloss": "Na kama"
     },
     {
       "surface": "הפר",
-      "gloss": "amebatilisha"
+      "gloss": "atavibatilisha"
     },
     {
       "surface": "יפר",
-      "gloss": "atabatilisha"
+      "gloss": "kubatilisha kabisa"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "nadhiri zake"
+      "marks": "viyo (ahadi zake)"
     },
     {
       "surface": "אחרי",
@@ -30,22 +30,22 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "kusikia kwake"
+      "gloss": "kuyasikia"
     },
     {
       "surface": "ונשא",
-      "gloss": "atachukua"
+      "gloss": "atabeba"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dhambi yake"
+      "marks": "hatia yake"
     },
     {
       "surface": "עונה",
-      "gloss": "dhambi yake"
+      "gloss": "hatia yake"
     }
   ],
-  "timestamp": "2026-08-10T10:51:45.167236002Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:14.550331556Z",
+  "model": "glm-5.3"
 }

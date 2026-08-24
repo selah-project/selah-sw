@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 12,
-  "translation": "Nami nitawabariki wanaokubariki, na yule akuhudhunikaye nitamlaani; na katika wewe watabarikiwa jamaa zote za ⟨ה⟩ ardhi.",
+  "translation": "Nami nitawabariki wanaokubariki, na yeye anakulaani wewe nitamlaani; na katika wewe watabarikiwa familia zote za ⟨⟩ nchi.",
   "tokens": [
     {
       "surface": "ואברכה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ומקללך",
-      "gloss": "na yule akuhudhunikaye"
+      "gloss": "na yeye anakulaani wewe"
     },
     {
       "surface": "אאר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ונברכו",
-      "gloss": "watabarikiwa"
+      "gloss": "na watabarikiwa"
     },
     {
       "surface": "בך",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "משפחת",
-      "gloss": "jamaa"
+      "gloss": "familia"
     },
     {
       "surface": "האדמה",
-      "gloss": "za ⟨the⟩ ardhi"
+      "gloss": "za nchi"
     }
   ],
-  "timestamp": "2026-08-10T10:04:05.821616220Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:22.529252921Z",
+  "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 12,
-  "translation": "Amani yaonekeni tu, mcheni ⟨את⟩ Yahweh, na mtumieni yeye kwa uaminifu kwa nyoyo zenu nzima; maana tazameni ⟨את⟩ yale aliyoakuweka pamoja nanyi.",
+  "translation": "Basi ogopeni ⟨את⟩ Yahweh, mkaabudu ⟨את⟩ yeye kwa uaminifu kwa moyo wenu wote, kwa maana mweni kuona ⟨את⟩ yale aliyoyatenda makubwa pamoja nanyi.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "tu"
+      "gloss": "basi"
     },
     {
       "surface": "יראו",
-      "gloss": "mcheni"
+      "gloss": "ogopeni"
     },
     {
       "surface": "את",
@@ -26,12 +26,11 @@
     },
     {
       "surface": "ועבדתם",
-      "gloss": "na mtumieni"
+      "gloss": "mkaabudu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩ yeye",
-      "marks": "yeye"
+      "gloss": "yeye ⟨את⟩"
     },
     {
       "surface": "באמת",
@@ -39,38 +38,38 @@
     },
     {
       "surface": "בכל",
-      "gloss": "kwa nzima"
+      "gloss": "kwa ... wote"
     },
     {
       "surface": "לבבכם",
-      "gloss": "nyoyo zenu"
+      "gloss": "moyo wenu"
     },
     {
       "surface": "כי",
-      "gloss": "maana"
+      "gloss": "kwa maana"
     },
     {
       "surface": "ראו",
-      "gloss": "tazameni"
+      "gloss": "mweni kuona"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yale aliyoakuweka"
+      "marks": "yale aliyoyatenda makubwa"
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "yale"
     },
     {
       "surface": "הגדל",
-      "gloss": "amekuza"
+      "gloss": "aliyozitenda makubwa"
     },
     {
       "surface": "עמכם",
       "gloss": "pamoja nanyi"
     }
   ],
-  "timestamp": "2026-08-10T14:51:53.938660488Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:27.307909095Z",
+  "model": "glm-5.3"
 }

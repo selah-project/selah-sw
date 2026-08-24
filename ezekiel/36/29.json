@@ -5,15 +5,16 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 36,
-  "translation": "Na nitiokoeni ⟨אתכם⟩ kutoka katika uchafu wenu wote; na nitaliita ⟨⟨את⟩⟩ nafaka, na nitaliongeza, wala sitaweka juu yakenjaa.",
+  "translation": "Nami nitawaokoa ⟨את⟩ ⟨אתכם⟩ kutoka katika uchafu wenu wote, nami nitaita ⟨the⟩ ngano na kuizidisha ⟨את⟩ ⟨אתו⟩, wala sitaweka juu yenu njaa.",
   "tokens": [
     {
       "surface": "והושעתי",
-      "gloss": "Na nitiokoeni"
+      "gloss": "nitawaokoa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "ninyi"
     },
     {
       "surface": "מכל",
@@ -25,7 +26,7 @@
     },
     {
       "surface": "וקראתי",
-      "gloss": "na nitaliita"
+      "gloss": "nami nitaita"
     },
     {
       "surface": "אל",
@@ -33,16 +34,16 @@
     },
     {
       "surface": "הדגן",
-      "gloss": "nafaka"
+      "gloss": "ngano"
     },
     {
       "surface": "והרביתי",
-      "gloss": "na nitaliongeza"
+      "gloss": "na kuizidisha"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "nafaka"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "ngano"
     },
     {
       "surface": "ולא",
@@ -61,6 +62,6 @@
       "gloss": "njaa"
     }
   ],
-  "timestamp": "2026-08-10T12:36:45.568564652Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.347019150Z",
+  "model": "glm-5.3"
 }

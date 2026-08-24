@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 21,
-  "translation": "Na akaandika katika ⟨the⟩ barua, kusema: Tangazeni ⟨a⟩ fasting, na mwekeni ⟨את⟩ Navothi mbele ya ⟨the⟩ umma.",
+  "translation": "Naye akaandika katika barua zile, akisema: Tangazeni ⟨⟨צוֹם⟩⟩? — Tangazeni fasting, Akatangaza (מילה מוחלפת — rejea chini) Tangazeni sikuzima, na mkituwe Naboth juu ya ⟨הָעָם⟩ — mbele ya watu (מילה מוחלפת — rejea chini) mbele ya watu,",
   "tokens": [
     {
       "surface": "ותכתב",
-      "gloss": "Na akaandika"
+      "gloss": "Naye akaandika"
     },
     {
       "surface": "בספרים",
-      "gloss": "katika barua"
+      "gloss": "katika barua zile"
     },
     {
       "surface": "לאמר",
-      "gloss": "kusema"
+      "gloss": "akisema"
     },
     {
       "surface": "קראו",
@@ -25,30 +25,30 @@
     },
     {
       "surface": "צום",
-      "gloss": "fasting"
+      "gloss": "sikuzima"
     },
     {
       "surface": "והושיבו",
-      "gloss": "na mwekeni"
+      "gloss": "na mkituwe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Navothi"
+      "marks": "Naboth"
     },
     {
       "surface": "נבות",
-      "gloss": "Navothi"
+      "gloss": "Naboth"
     },
     {
       "surface": "בראש",
-      "gloss": "mbele ya"
+      "gloss": "juu"
     },
     {
       "surface": "העם",
-      "gloss": "umma"
+      "gloss": "ya watu"
     }
   ],
-  "timestamp": "2026-08-10T11:44:27.408547441Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:52.471008061Z",
+  "model": "glm-5.3"
 }

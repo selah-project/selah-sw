@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 36,
-  "translation": "Akafanya mapazia ya nyusi za mbuzi kwa hema juu ya Maskani; mapazia kumi na moja aliyafanya ⟨אתם⟩.",
+  "translation": "Akawatengeneza mapazia ya nywele za mbuzi kuwa hema juu ya Mishkan; mapazia kumi na moja aliwatengeneza ⟨את⟩ ⟨אתם⟩.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "Akafanya"
+      "gloss": "Akawatengeneza"
     },
     {
       "surface": "יריעת",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "עזים",
-      "gloss": "za mbuzi"
+      "gloss": "ya nywele za mbuzi"
     },
     {
       "surface": "לאהל",
-      "gloss": "kwa hema"
+      "gloss": "kuwa hema"
     },
     {
       "surface": "על",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "Maskani"
+      "gloss": "Mishkan"
     },
     {
       "surface": "עשתי",
@@ -45,14 +45,14 @@
     },
     {
       "surface": "עשה",
-      "gloss": "aliyafanya"
+      "gloss": "aliwatengeneza"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "mapazia"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "mapazia kumi na moja"
     }
   ],
-  "timestamp": "2026-08-10T10:29:02.123277296Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.321365068Z",
+  "model": "glm-5.3"
 }

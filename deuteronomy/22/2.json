@@ -5,86 +5,86 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 22,
-  "translation": "Na ikiwa ndugu yako hakuwa karibu nawe wala humjui, basi utakusanya ⟨⟨ ndani ya nyumba yako, naye atakuwa pamoja nawe hadi ndugu yako atakapotafuta ⟨את⟩ hilo, na utamrudishia.",
+  "translation": "Na kama ndugu yako hakuwa karibu nawe, wala humjui, utaichukua ⟨את⟩ ndani ya nyumba yako, na itakuwa pamoja nawe hadi ndugu yako aitafute, ndipo utamrudishia.",
   "tokens": [
     {
-      "surface": "וְאִם",
-      "gloss": "Na ikiwa"
+      "surface": "ואם",
+      "gloss": "Na kama"
     },
     {
-      "surface": "לֹ֨א",
-      "gloss": "Hakuwa"
+      "surface": "לא",
+      "gloss": "si"
     },
     {
-      "surface": "קָר֥וֹב",
+      "surface": "קרוב",
       "gloss": "karibu"
     },
     {
-      "surface": "אָחִ֛יךָ",
+      "surface": "אחיך",
       "gloss": "ndugu yako"
     },
     {
-      "surface": "אֵלֶ֖יךָ",
-      "gloss": "nawe"
+      "surface": "אליך",
+      "gloss": "kwako"
     },
     {
-      "surface": "וְלֹ֣א",
+      "surface": "ולא",
       "gloss": "wala"
     },
     {
-      "surface": "יְדַעְתּ֑וֹ",
+      "surface": "ידעתו",
       "gloss": "humjui"
     },
     {
-      "surface": "וַאֲסַפְתֹּו֙",
-      "gloss": "basi utakusanya"
+      "surface": "ואספתו",
+      "gloss": "utaichukua"
     },
     {
-      "surface": "אֶל",
-      "gloss": "⟨ndani⟩"
+      "surface": "אל",
+      "gloss": "kwenda"
     },
     {
-      "surface": "תּ֣וֹךְ",
-      "gloss": "ndani"
+      "surface": "תוך",
+      "gloss": "ndani ya"
     },
     {
-      "surface": "בֵּיתֶ֔ךָ",
-      "gloss": "ya nyumba yako"
+      "surface": "ביתך",
+      "gloss": "nyumba yako"
     },
     {
-      "surface": "וְהָיָ֣ה",
-      "gloss": "naye atakuwa"
+      "surface": "והיה",
+      "gloss": "na itakuwa"
     },
     {
-      "surface": "עִמְּךָ֗",
+      "surface": "עמך",
       "gloss": "pamoja nawe"
     },
     {
-      "surface": "עַ֣ד",
+      "surface": "עד",
       "gloss": "hadi"
     },
     {
-      "surface": "דְּרֹ֤שׁ",
-      "gloss": "atakapotafuta"
+      "surface": "דרש",
+      "gloss": "ataitafuta"
     },
     {
-      "surface": "אָחִ֨יךָ֙",
+      "surface": "אחיך",
       "gloss": "ndugu yako"
     },
     {
-      "surface": "אֹתֹ֔וֹ",
+      "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "hilo"
+      "marks": "mnyama huo (kiitwacho)"
     },
     {
-      "surface": "וַהֲשֵׁבֹתֹ֖ו",
-      "gloss": "na utamrudishia"
+      "surface": "והשבתו",
+      "gloss": "utamrudishia"
     },
     {
-      "surface": "לֹֽו",
+      "surface": "לו",
       "gloss": "kwake"
     }
   ],
-  "timestamp": "2026-08-10T15:57:43.449507401Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:20.381148583Z",
+  "model": "glm-5.3"
 }

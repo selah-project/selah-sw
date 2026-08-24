@@ -5,19 +5,15 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Na mtumishi wangu Kalebu, kwa sababu ilikuwa ⟨⟨roho tofauti⟩ pamoja naye, naye akinitii kwa ukamilifu, basi nitamleta katika nchi ile ambayo aliingia huko, na mzao wake waitamiliki.",
+  "translation": "Lakini mtumwa wangu Kaleb, kwa sababu roho nyingine ilikuwa naye, na akafuata nyuma yangu kikamilifu, mimi nitamleta katika nchi aliyoingia huko, na kizazi chake kitairithi.",
   "tokens": [
     {
-      "surface": "ו",
-      "gloss": "Na"
-    },
-    {
-      "surface": "עבדי",
-      "gloss": "mtumishi wangu"
+      "surface": "ועבדי",
+      "gloss": "na mtumwa wangu"
     },
     {
       "surface": "כלב",
-      "gloss": "Kalebu"
+      "gloss": "Kaleb"
     },
     {
       "surface": "עקב",
@@ -33,23 +29,23 @@
     },
     {
       "surface": "אחרת",
-      "gloss": "tofauti"
+      "gloss": "nyingine"
     },
     {
       "surface": "עמו",
-      "gloss": "pamoja naye"
+      "gloss": "naye"
     },
     {
       "surface": "וימלא",
-      "gloss": "naye akinitii kwa ukamilifu"
+      "gloss": "na akafuata kikamilifu"
     },
     {
       "surface": "אחרי",
-      "gloss": "«nikimfuata»"
+      "gloss": "nyuma yangu"
     },
     {
       "surface": "והביאתיו",
-      "gloss": "nitamleta"
+      "gloss": "mimi nitamleta"
     },
     {
       "surface": "אל",
@@ -65,7 +61,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "aliingia"
+      "gloss": "aliyoingia"
     },
     {
       "surface": "שמה",
@@ -73,13 +69,13 @@
     },
     {
       "surface": "וזרעו",
-      "gloss": "na mzao wake"
+      "gloss": "na kizazi chake"
     },
     {
       "surface": "יורשנה",
-      "gloss": "waitamiliki"
+      "gloss": "kitairithi"
     }
   ],
-  "timestamp": "2026-08-10T10:44:28.478841501Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:01.288213119Z",
+  "model": "glm-5.3"
 }

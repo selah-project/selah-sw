@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 22,
-  "translation": "Kwa maana hivi amesema Yahweh kuhusu nyumba ya mfalme wa Yehudha: wewe u ⟨אתה⟩ Giladi kwangu, wewe u kichwa cha Lebanoni! Ikiwa sivyo nitakufanya uw.skip ukiwa, miji isiyokaliwa na mtu.",
+  "translation": "Maana hivi alisema Yahweh kuhusu nyumba ya mfalme wa Yehudah: Giladi wewe ni kwangu, kichwa cha Lebanoni — kama sivyo, nitakuweka jangwa, miji isiyoishi.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "kwa maana"
+      "gloss": "Maana"
     },
     {
       "surface": "כה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "amesema"
+      "gloss": "alisema"
     },
     {
       "surface": "יהוה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehudha"
+      "gloss": "Yehudah"
     },
     {
       "surface": "גלעד",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨אתה⟩"
+      "gloss": "wewe"
     },
     {
       "surface": "לי",
@@ -57,23 +57,23 @@
     },
     {
       "surface": "הלבנון",
-      "gloss": "Lebanoni"
+      "gloss": "cha Lebanoni"
     },
     {
       "surface": "אם",
-      "gloss": "ikiwa"
+      "gloss": "kama"
     },
     {
       "surface": "לא",
-      "gloss": "si"
+      "gloss": "sivyo"
     },
     {
       "surface": "אשיתך",
-      "gloss": "nitakufanya"
+      "gloss": "nitakuweka"
     },
     {
       "surface": "מדבר",
-      "gloss": "ukawa"
+      "gloss": "jangwa"
     },
     {
       "surface": "ערים",
@@ -81,13 +81,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "si"
+      "gloss": "isiyo-"
     },
     {
       "surface": "נושבה",
-      "gloss": "isiyokaliwa na mtu"
+      "gloss": "ishi"
     }
   ],
-  "timestamp": "2026-08-10T12:15:36.038401305Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:03.902692771Z",
+  "model": "glm-5.3"
 }

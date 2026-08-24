@@ -5,16 +5,16 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Na mpake mafuta ⟨אתו⟨ huko Tsadok kuhani na Natan nabii kuwa mfalme juu ya Yisra'eli, na pigeni baragumu na mwambieni: Aishi mfalme Shelomoh!",
+  "translation": "Na ampshe ⟨את⟩ yeye huko Tsadok kuhani na Natan nabii kuwa mfalme juu ya Yisraeli, na pigeni kwa tarumbeta, na mseme: Aishi mfalume Shelomoho.",
   "tokens": [
     {
       "surface": "ומשח",
-      "gloss": "Na mpake mafuta"
+      "gloss": "na ampshe"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "huko"
+      "gloss": "⟨את⟩",
+      "marks": "yeye (Shelomoho)"
     },
     {
       "surface": "שם",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'eli"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "ותקעתם",
@@ -54,25 +54,25 @@
     },
     {
       "surface": "בשופר",
-      "gloss": "baragumu"
+      "gloss": "kwa tarumbeta"
     },
     {
       "surface": "ואמרתם",
-      "gloss": "na mwambieni"
+      "gloss": "na mseme"
     },
     {
       "surface": "יחי",
-      "gloss": "Aishi"
+      "gloss": "aishi"
     },
     {
       "surface": "המלך",
-      "gloss": "mfalme"
+      "gloss": "mfalume"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomoh"
+      "gloss": "Shelomoho"
     }
   ],
-  "timestamp": "2026-08-10T14:58:30.772345438Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:14.872987990Z",
+  "model": "glm-5.3"
 }

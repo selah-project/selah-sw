@@ -5,38 +5,38 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 21,
-  "translation": "Wakatangaza fasting, na wakamweka ⟨את⟩ Navothi mbele ya ⟨the⟩ umma.",
+  "translation": "Walitangaza ⟨a⟩ kufunga, wakamketisha ⟨את⟩ Naboth mbele ya watu ⟨katika nafasi ya mwanzo⟩.",
   "tokens": [
     {
       "surface": "קראו",
-      "gloss": "Wakatangaza"
+      "gloss": "walitangaza"
     },
     {
       "surface": "צום",
-      "gloss": "fasting"
+      "gloss": "kufunga"
     },
     {
-      "surface": "והושיבו",
-      "gloss": "na wakamweka"
+      "surface": "והשיבו",
+      "gloss": "wakamketisha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Navothi"
+      "marks": "Naboth"
     },
     {
       "surface": "נבות",
-      "gloss": "Navothi"
+      "gloss": "Naboth"
     },
     {
       "surface": "בראש",
-      "gloss": "mbele ya"
+      "gloss": "mbele ya \/ katika nafasi ya mwanzo"
     },
     {
       "surface": "העם",
-      "gloss": "umma"
+      "gloss": "watu"
     }
   ],
-  "timestamp": "2026-08-10T11:44:27.409133128Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:49.502685218Z",
+  "model": "glm-5.3"
 }

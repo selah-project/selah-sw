@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 4,
-  "translation": "Na Elisha akarudi ⟨kwa⟩ HaGilgala, nja ⟨ilikuwepo⟩ katika nchi, na wana wa manabii walikuwa wameketi mbele zake, naye akamwambia mtumishi wake: Weka ⟨⟨את⟩⟩ sufuria kubwa, uwapikie wana wa manabii ⟨waliopikwa⟩.",
+  "translation": "Na Elisha alirudi Gilgala, nao njaa ilikuwa ⟨katika⟩ nchi, nao wana wa manabii waliketi mbele yake; naye akamwambia kijana wake: Weka stechi ⟨kubwa⟩, ukipikie wana wa manabii mchuzi.",
   "tokens": [
     {
       "surface": "ואלישע",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "שב",
-      "gloss": "akarudi"
+      "gloss": "alirudi"
     },
     {
       "surface": "הגלגלה",
-      "gloss": "HaGilgala"
+      "gloss": "Gilgala"
     },
     {
       "surface": "והרעב",
-      "gloss": "nja"
+      "gloss": "nao njaa"
     },
     {
       "surface": "בארץ",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ובני",
-      "gloss": "na wana wa"
+      "gloss": "nao wana wa"
     },
     {
       "surface": "הנביאים",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ישבים",
-      "gloss": "walikuwa wameketi"
+      "gloss": "waliketi"
     },
     {
       "surface": "לפניו",
-      "gloss": "mbele zake"
+      "gloss": "mbele yake"
     },
     {
       "surface": "ויאמר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לנערו",
-      "gloss": "mtumishi wake"
+      "gloss": "kijana wake"
     },
     {
       "surface": "שפת",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "הסיר",
-      "gloss": "sufuria"
+      "gloss": "stechi"
     },
     {
       "surface": "הגדולה",
@@ -65,21 +65,21 @@
     },
     {
       "surface": "ובשל",
-      "gloss": "uwapikie"
+      "gloss": "ukipikie"
     },
     {
       "surface": "נזיד",
-      "gloss": "waliopikwa"
+      "gloss": "mchuzi"
     },
     {
       "surface": "לבני",
-      "gloss": "kwa wana wa"
+      "gloss": "wana wa"
     },
     {
       "surface": "הנביאים",
       "gloss": "manabii"
     }
   ],
-  "timestamp": "2026-08-10T15:01:46.939712246Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:12.164807922Z",
+  "model": "glm-5.3"
 }

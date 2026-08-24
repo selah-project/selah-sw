@@ -5,31 +5,31 @@
   "book": "proverbs",
   "lang": "sw",
   "chapter": 12,
-  "translation": "Hakuna uovu unaomkia ⟨⟨kwa⟩⟩ mtu mwadilifu kabisa, lakini waovu wamejaa maovu.",
+  "translation": "Ovu lolote halimpati ⟨⟨ha-⟩⟩ mwenye haki, lakini wabaya wamejaa mabaya.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "Hakuna"
+      "gloss": "hai- (si)"
     },
     {
       "surface": "יאנה",
-      "gloss": "unaomkia"
+      "gloss": "-mpati (itamsibu)"
     },
     {
       "surface": "לצדיק",
-      "gloss": "⟨kwa⟩ mtu mwadilifu"
+      "gloss": "mwenye haki"
     },
     {
       "surface": "כל",
-      "gloss": "kabisa"
+      "gloss": "lolote (kutoka: yote)"
     },
     {
       "surface": "און",
-      "gloss": "uovu"
+      "gloss": "ovu"
     },
     {
       "surface": "ורשעים",
-      "gloss": "lakini waovu"
+      "gloss": "lakini wabaya"
     },
     {
       "surface": "מלאו",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "רע",
-      "gloss": "maovu"
+      "gloss": "mabaya"
     }
   ],
-  "timestamp": "2026-08-10T13:24:34.471861793Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:16.738653813Z",
+  "model": "glm-5.3"
 }

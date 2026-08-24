@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 50,
-  "translation": "Na mbingu zitatangaza haki yake, kwani Elohim ⟨⟨ni⟩⟩ mwamuzi, yeye. Sela.",
+  "translation": "Na mbingu zitatangaza haki yake, kwa kuwa Elohim ⟨ni⟩ mwamuzi yeyeewe. Selah.",
   "tokens": [
     {
       "surface": "ויגידו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "kwani"
+      "gloss": "kwa kuwa"
     },
     {
       "surface": "אלהים",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "הוא",
-      "gloss": "yeye"
+      "gloss": "yeyeewe"
     },
     {
       "surface": "סלה",
-      "gloss": "Sela"
+      "gloss": "Selah"
     }
   ],
-  "timestamp": "2026-08-10T13:02:30.894561530Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:26.645660886Z",
+  "model": "glm-5.3"
 }

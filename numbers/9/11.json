@@ -5,23 +5,23 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 9,
-  "translation": "Siku ya kumi na nne, mwezi wa pili, kati ya jioni watamfanya ⟨אתו⟩; kwa mikate isiyotiwa chachu na mimea ya uchungu watamla.",
+  "translation": "Mwezi wa pili, siku ya kumi na nne, kati ya jioni, watayaifanya ⟨את⟩; kwa mikate isiyochachuka na mimea ya chungu watayakula.",
   "tokens": [
     {
       "surface": "בחדש",
-      "gloss": "mwezi wa"
+      "gloss": "Mwezi"
     },
     {
       "surface": "השני",
-      "gloss": "pili"
+      "gloss": "wa pili"
     },
     {
       "surface": "בארבעה",
-      "gloss": "kwa nne"
+      "gloss": "kumi"
     },
     {
       "surface": "עשר",
-      "gloss": "kumi"
+      "gloss": "na nne"
     },
     {
       "surface": "יום",
@@ -37,12 +37,12 @@
     },
     {
       "surface": "יעשו",
-      "gloss": "watamfanya"
+      "gloss": "watayaifanya"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "Pasaka"
+      "marks": "Pesa (hiyo)"
     },
     {
       "surface": "על",
@@ -50,17 +50,17 @@
     },
     {
       "surface": "מצות",
-      "gloss": "mikate isiyotiwa chachu"
+      "gloss": "mikate isiyochachuka"
     },
     {
       "surface": "ומררים",
-      "gloss": "na mimea ya uchungu"
+      "gloss": "na mimea ya chungu"
     },
     {
       "surface": "יאכלהו",
-      "gloss": "watamla"
+      "gloss": "watayakula"
     }
   ],
-  "timestamp": "2026-08-10T10:43:17.972965166Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:54.353243884Z",
+  "model": "glm-5.3"
 }

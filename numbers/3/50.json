@@ -5,24 +5,23 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 3,
-  "translation": "⟨מאת⟩ mwanzilishi wa wana wa Yisra'el alichukua ⟨את⟩ fedha — tano na sitini na mia tatu na elfu, kwa shekeli ⟨ya⟩ patakatifu.",
+  "translation": "Kutoka ⟨kwa⟩ wazaliwa-wa-kwanza wa wana wa Yisraeli alichukua ⟨את⟩ fedha: elfu moja na mia tatu na sitini na tano ⟨shekeli⟩, kwa shekeli ya patakatifu.",
   "tokens": [
     {
       "surface": "מאת",
-      "gloss": "⟨מאת⟩",
-      "marks": "mwanzilishi"
+      "gloss": "⟨את⟩ kutoka kwa"
     },
     {
       "surface": "בכור",
-      "gloss": "mwanzilishi"
+      "gloss": "wazaliwa-wa-kwanza"
     },
     {
       "surface": "בני",
-      "gloss": "wa wana"
+      "gloss": "wana wa"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "לקח",
@@ -39,23 +38,23 @@
     },
     {
       "surface": "חמשה",
-      "gloss": "tano"
+      "gloss": "na tano"
     },
     {
       "surface": "וששים",
-      "gloss": "na sitini"
+      "gloss": "sitini"
     },
     {
       "surface": "ושלש",
-      "gloss": "na tatu"
+      "gloss": "na mia tatu"
     },
     {
       "surface": "מאות",
-      "gloss": "mia"
+      "gloss": "mia tatu"
     },
     {
       "surface": "ואלף",
-      "gloss": "na elfu"
+      "gloss": "elfu moja"
     },
     {
       "surface": "בשקל",
@@ -63,9 +62,9 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "patakatifu"
+      "gloss": "ya patakatifu"
     }
   ],
-  "timestamp": "2026-08-10T10:40:17.853074984Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:54.916430644Z",
+  "model": "glm-5.3"
 }

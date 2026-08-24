@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "sw",
   "chapter": 23,
-  "translation": "Maana mkirudi kabisa, mkashikamana na waliobaki wa mataifa haya, hawa waliobaki ⟨אתכם⟩, mkaingia ndoa nao, mkaingia kwao na wao kwenu:",
+  "translation": "Maana mkirudi nyuma kabisa, mkaambatana na mabaki ya mataifa haya waliobaki ⟨⟨את⟩⟩ nyinyi, mkaoa ndani yao, nao wakaingia ndani yenu, nanyi ndani yao —",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Maana"
+      "gloss": "maana"
     },
     {
       "surface": "אם",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "תשובו",
-      "gloss": "mkirudi"
+      "gloss": "mkirudi nyuma"
     },
     {
       "surface": "ודבקתם",
-      "gloss": "mkashikamana"
+      "gloss": "mkaambatana"
     },
     {
       "surface": "ביתר",
-      "gloss": "na waliobaki"
+      "gloss": "na mabaki ya"
     },
     {
       "surface": "הגוים",
-      "gloss": "wa mataifa"
+      "gloss": "mataifa"
     },
     {
       "surface": "האלה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הנשארים",
-      "gloss": "hawa waliobaki"
+      "gloss": "waliobaki"
     },
     {
       "surface": "האלה",
@@ -49,34 +49,34 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "pamoja nanyi"
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
     },
     {
       "surface": "והתחתנתם",
-      "gloss": "mkaingia ndoa"
+      "gloss": "mkaoa ndani yao"
     },
     {
       "surface": "בהם",
-      "gloss": "nao"
+      "gloss": "ndani yao"
     },
     {
       "surface": "ובאתם",
-      "gloss": "mkaingia"
+      "gloss": "nanyi mkaingia"
     },
     {
       "surface": "בהם",
-      "gloss": "kwao"
+      "gloss": "ndani yao"
     },
     {
       "surface": "והם",
-      "gloss": "na wao"
+      "gloss": "nao wao"
     },
     {
       "surface": "בכם",
-      "gloss": "kwenu"
+      "gloss": "ndani yenu"
     }
   ],
-  "timestamp": "2026-08-10T15:58:55.356438465Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:09.460769308Z",
+  "model": "glm-5.3"
 }

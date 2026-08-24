@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 15,
-  "translation": "na iwe hivi: mnapokula mkate wa nchi, mtainua ⟨⟨heave offering⟩⟩ teruma kwa Yahweh.",
+  "translation": "Na ⟨itakuwa⟩, mkila mkate wa ⟨⟩ nchi, mtainua teruma ⟨kwa⟩ Yahweh.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "na iwe"
+      "gloss": "na ⟨itakuwa⟩"
     },
     {
       "surface": "באכלכם",
-      "gloss": "mnapokula"
+      "gloss": "mkila"
     },
     {
       "surface": "מלחם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "wa nchi"
+      "gloss": "nchi"
     },
     {
       "surface": "תרימו",
@@ -36,6 +36,6 @@
       "gloss": "kwa Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T10:45:55.427365026Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:23.751048333Z",
+  "model": "glm-5.3"
 }

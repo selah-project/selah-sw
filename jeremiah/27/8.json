@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 27,
-  "translation": "Na ⟨litakuwa⟩ taifa na ufalme wowote ambalo hatawatumikia ⟨huyo⟩ ⟨את⟩ Nebukadnetsari mfalme wa Babeli, na ambalo hataweka ⟨את⟩ shingo yake chini ya nira ya mfalme wa Babeli, ⟨ndani⟩ ya upanga, na njaa, na tauni, nitawatembelea taifa hilo — neno la Yahweh — hadi nipopoteza ⟨⟨את⟩ ao⟩ kabisa mkononi mwake.",
+  "translation": "Na ⟨itakuwa⟩ taifa na ufalme ambao hawatamtumikia ⟨את⟩ Nevukhadnetstsar mfalme wa Bavel, na ambao hawataweka ⟨את⟩ shingo yake chini ya nira ya mfalme wa Bavel, kwa upanga na njaa na tauni nitawatembelea taifa hilo, ni utamkwi wa Yahweh, hadi nitakapotimiza kuwaangamiza ⟨את⟩ ⟨אתם⟩ kwa mkono wake.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Na ⟨litakuwa⟩"
+      "gloss": "na ⟨itakuwa⟩"
     },
     {
       "surface": "הגוי",
@@ -17,32 +17,33 @@
     },
     {
       "surface": "והממלכה",
-      "gloss": "na ufalme wowote"
+      "gloss": "na ufalme"
     },
     {
       "surface": "אשר",
-      "gloss": "ambalo"
+      "gloss": "ambao"
     },
     {
       "surface": "לא",
-      "gloss": "hata"
+      "gloss": "si"
     },
     {
       "surface": "יעבדו",
-      "gloss": "watumsikia"
+      "gloss": "watamtumikia"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ yeye"
+      "gloss": "⟨את⟩",
+      "marks": "Nevukhadnetstsar (yeye)"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Nebukadnetsari"
+      "marks": "Nevukhadnetstsar mfalme wa Bavel"
     },
     {
       "surface": "נבוכדנאצר",
-      "gloss": "Nebukadnetsari"
+      "gloss": "Nevukhadnetstsar"
     },
     {
       "surface": "מלך",
@@ -50,23 +51,24 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babeli"
+      "gloss": "Bavel"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ na ⟨ambalo⟩"
+      "gloss": "na ⟨את⟩",
+      "marks": "ambao (hawataweka shingo yake)"
     },
     {
       "surface": "אשר",
-      "gloss": "ambalo"
+      "gloss": "ambao"
     },
     {
       "surface": "לא",
-      "gloss": "hata"
+      "gloss": "si"
     },
     {
       "surface": "יתן",
-      "gloss": "weka"
+      "gloss": "ataweka"
     },
     {
       "surface": "את",
@@ -79,7 +81,7 @@
     },
     {
       "surface": "בעל",
-      "gloss": "chini ya"
+      "gloss": "chini ya nira ya"
     },
     {
       "surface": "מלך",
@@ -87,7 +89,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babeli"
+      "gloss": "Bavel"
     },
     {
       "surface": "בחרב",
@@ -119,7 +121,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "neno la"
+      "gloss": "utamkwi"
     },
     {
       "surface": "יהוה",
@@ -131,17 +133,18 @@
     },
     {
       "surface": "תמי",
-      "gloss": "kutimia"
+      "gloss": "nitakapotimiza kuwaangamiza"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ao"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "kwa mkono wake"
     },
     {
       "surface": "בידו",
-      "gloss": "mkononi mwake"
+      "gloss": "kwa mkono wake"
     }
   ],
-  "timestamp": "2026-08-10T12:18:08.531513560Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.312403200Z",
+  "model": "glm-5.3"
 }

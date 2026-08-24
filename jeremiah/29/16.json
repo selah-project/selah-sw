@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 29,
-  "translation": "Kwa kuwa vivyo hivi amesema Yahweh kumhusu mfalme anayeketi kwenye kiti cha enzi cha David, na kwa taifa lote linakalo mjini hii, ndugu zenu ambao hawakutoka pamoja nanyi ⟨אתכם⟩ uhamishoni.",
+  "translation": "Kwa kuwa hivi amesema Yahweh kuhusu mfalme ⟨aliye⟩kaa kwenye kiti cha enzi cha David, na kuhusu watu wote wanaokaa katika mji huu — ndugu zenu ambao hawakutoka pamoja nanyi ⟨את⟩ uhamishoni.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kwa kuwa"
+      "gloss": "kwa kuwa"
     },
     {
       "surface": "כה",
-      "gloss": "vivyo hivi"
+      "gloss": "hivi"
     },
     {
       "surface": "אמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "kumhusu"
+      "gloss": "kuhusu"
     },
     {
       "surface": "המלך",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "היושב",
-      "gloss": "anayeketi"
+      "gloss": "⟨aliye⟩kaa"
     },
     {
       "surface": "אל",
-      "gloss": "kwenye"
+      "gloss": "kuhusu"
     },
     {
       "surface": "כסא",
@@ -49,27 +49,27 @@
     },
     {
       "surface": "ואל",
-      "gloss": "na kwa"
+      "gloss": "na kuhusu"
     },
     {
       "surface": "כל",
-      "gloss": "lote"
+      "gloss": "wote"
     },
     {
       "surface": "העם",
-      "gloss": "taifa"
+      "gloss": "watu"
     },
     {
       "surface": "היושב",
-      "gloss": "linakalo"
+      "gloss": "wanaokaa"
     },
     {
       "surface": "בעיר",
-      "gloss": "mjini"
+      "gloss": "katika mji"
     },
     {
       "surface": "הזאת",
-      "gloss": "hii"
+      "gloss": "huu"
     },
     {
       "surface": "אחיכם",
@@ -81,15 +81,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "hawa"
+      "gloss": "si"
     },
     {
       "surface": "יצאו",
-      "gloss": "kutoka"
+      "gloss": "waliotoka"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩",
       "marks": "pamoja nanyi"
     },
     {
@@ -97,6 +97,6 @@
       "gloss": "uhamishoni"
     }
   ],
-  "timestamp": "2026-08-10T12:19:15.442701041Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:24.118392033Z",
+  "model": "glm-5.3"
 }

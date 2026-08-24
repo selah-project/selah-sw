@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 25,
-  "translation": "Na mtumwa wako na mtumwa wako wa kike, ambao watakuwa kwako, ⟨ni⟩ kutoka ⟨את mataifa ambayo yawezungukeni, kutoka kwao mnunue mtumwa na mtumwa wa kike.",
+  "translation": "Na mtumwa wako wa kiume na mtumwa wako wa kike, ambao watakuwa wako, ⟨ni⟩ kutoka ⟨את⟩ mataifa yanayozunguka mnene; kutoka kwao mtanunua mtumwa wa kiume na mtumwa wa kike.",
   "tokens": [
     {
       "surface": "ועבדך",
-      "gloss": "Na mtumwa wako"
+      "gloss": "Na mtumwa wako wa kiume"
     },
     {
       "surface": "ואמתך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "kwako"
+      "gloss": "wako"
     },
     {
       "surface": "מאת",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "yanayozunguka"
     },
     {
       "surface": "סביבתיכם",
-      "gloss": "yawezungukeni"
+      "gloss": "mnene"
     },
     {
       "surface": "מהם",
@@ -50,17 +50,17 @@
     },
     {
       "surface": "תקנו",
-      "gloss": "mnunue"
+      "gloss": "mtanunua"
     },
     {
       "surface": "עבד",
-      "gloss": "mtumwa"
+      "gloss": "mtumwa wa kiume"
     },
     {
       "surface": "ואמה",
       "gloss": "na mtumwa wa kike"
     }
   ],
-  "timestamp": "2026-08-10T10:38:53.440176923Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:57.333892868Z",
+  "model": "glm-5.3"
 }

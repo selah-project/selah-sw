@@ -5,48 +5,48 @@
   "book": "job",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Wakakaa ⟨pamoja⟩ naye ⟨kwenye⟩ ardhi siku saba na usiku saba, wala hakukuwa na mtu akiongea neno kwake, maana waliona ya kwamba maumivu yalikuwa makubwa sana.",
+  "translation": "Nao wakakaa ⟨את⟩ ⟨אתו⟩ naye ardhini siku saba na siku za usiku saba, wala hapana aliyenena naye neno lolote, maana walikuwa wameona ya kwamba uchungu ulikuwa mkubwa mno.",
   "tokens": [
     {
       "surface": "וישבו",
-      "gloss": "Wakakaa"
+      "gloss": "wakakaa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "naye"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "naye (Iyovu)"
     },
     {
       "surface": "לארץ",
-      "gloss": "⟨kwenye⟩ ardhi"
+      "gloss": "ardhini"
     },
     {
       "surface": "שבעת",
-      "gloss": "siku saba"
+      "gloss": "saba"
     },
     {
       "surface": "ימים",
-      "gloss": ""
+      "gloss": "siku"
     },
     {
       "surface": "ושבעת",
-      "gloss": "na saba"
+      "gloss": "na siku za"
     },
     {
       "surface": "לילות",
-      "gloss": "usiku"
+      "gloss": "usiku saba"
     },
     {
       "surface": "ואין",
-      "gloss": "wala hakukuwa na"
+      "gloss": "wala hapana"
     },
     {
       "surface": "דבר",
-      "gloss": "akiongea"
+      "gloss": "aliyenena"
     },
     {
       "surface": "אליו",
-      "gloss": "kwake"
+      "gloss": "naye"
     },
     {
       "surface": "דבר",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ראו",
-      "gloss": "waliona"
+      "gloss": "walikuwa wameona"
     },
     {
       "surface": "כי",
@@ -66,17 +66,17 @@
     },
     {
       "surface": "גדל",
-      "gloss": "yalikuwa makubwa"
+      "gloss": "mkubwa"
     },
     {
       "surface": "הכאב",
-      "gloss": "maumivu"
+      "gloss": "uchungu"
     },
     {
       "surface": "מאד",
-      "gloss": "sana"
+      "gloss": "mno"
     }
   ],
-  "timestamp": "2026-08-10T15:32:35.786640422Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.335378233Z",
+  "model": "glm-5.3"
 }

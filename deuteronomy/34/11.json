@@ -5,65 +5,65 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 34,
-  "translation": "kwa ⟨the⟩ ishara zote na miujiza ile ambayo Yahweh alimtuma kufanya katika nchi ya Mitsrayim, kwa Parohu na kwa watumishi wake wote na kwa nchi yake yote.",
+  "translation": "Kwa ⟨alama⟩ zote na mafumbo yale yote ambayo Yahweh alimtuma kuyafanya katika nchi ya Mitsrayim, kwa Paroh na kwa watumishi wake wote na kwa nchi yake yote,",
   "tokens": [
     {
-      "surface": "לְכָל",
-      "gloss": "kwa"
+      "surface": "לכל",
+      "gloss": "kwa zote"
     },
     {
-      "surface": "הָ֨אֹת֜וֹת",
-      "gloss": "ishara zote"
+      "surface": "האתות",
+      "gloss": "⟨alama⟩ zote"
     },
     {
-      "surface": "וְהַמּוֹפְתִ֗ים",
-      "gloss": "na miujiza ile"
+      "surface": "והמופתים",
+      "gloss": "na mafumbo yale yote"
     },
     {
-      "surface": "אֲשֶׁ֤ר",
+      "surface": "אשר",
       "gloss": "ambayo"
     },
     {
-      "surface": "שְׁלָחוֹ֙",
+      "surface": "שלחו",
       "gloss": "alimtuma"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "לַעֲשׂ֖וֹת",
-      "gloss": "kufanya"
+      "surface": "לעשות",
+      "gloss": "kuyafanya"
     },
     {
-      "surface": "בְּאֶ֣רֶץ",
+      "surface": "בארץ",
       "gloss": "katika nchi"
     },
     {
-      "surface": "מִצְרָ֑יִם",
+      "surface": "מצרים",
       "gloss": "ya Mitsrayim"
     },
     {
-      "surface": "לְפַרְעֹ֥ה",
-      "gloss": "kwa Parohu"
+      "surface": "לפרעה",
+      "gloss": "kwa Paroh"
     },
     {
-      "surface": "וּלְכָל",
-      "gloss": "na kwa"
+      "surface": "ולכל",
+      "gloss": "na kwa wote"
     },
     {
-      "surface": "עֲבָדָ֖יו",
-      "gloss": "watumishi wake wote"
+      "surface": "עבדיו",
+      "gloss": "watumishi wake"
     },
     {
-      "surface": "וּלְכָל",
-      "gloss": "na kwa"
+      "surface": "ולכל",
+      "gloss": "na kwa yote"
     },
     {
-      "surface": "אַרְצֽוֹ",
-      "gloss": "nchi yake yote"
+      "surface": "ארצו",
+      "gloss": "nchi yake"
     }
   ],
-  "timestamp": "2026-08-10T11:05:27.290309789Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:23.500370958Z",
+  "model": "glm-5.3"
 }

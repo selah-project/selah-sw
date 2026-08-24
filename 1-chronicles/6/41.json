@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "sw",
   "chapter": 6,
-  "translation": "Na ⟨את⟩ shamba la ⟨the⟩ mji na ⟨את⟩ viwanja vyake walimpa Kalev mwana wa Yefune.",
+  "translation": "Na ⟨את⟩ shamba la ⟨⟨the⟩⟩ mji na ⟨את⟩ viwanja vyake walitoa kwa Kalev mwana wa Yefune.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Na ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "shamba"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "viwanja vyake"
     },
     {
@@ -31,11 +31,11 @@
     },
     {
       "surface": "נתנו",
-      "gloss": "walimpa"
+      "gloss": "walitoa"
     },
     {
       "surface": "לכלב",
-      "gloss": "Kalev"
+      "gloss": "kwa Kalev"
     },
     {
       "surface": "בן",
@@ -46,6 +46,6 @@
       "gloss": "wa Yefune"
     }
   ],
-  "timestamp": "2026-08-10T14:05:32.984101066Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:19.322956560Z",
+  "model": "glm-5.3"
 }

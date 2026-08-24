@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 22,
-  "translation": "Hasira ya Elohim ikawaka kwa sababu ⟨⟨yeye⟩⟩ alikuwa akienda; mjumbe wa Yahweh akasimama njiani kuwa mpingani wake. Naye alikuwa akimpanda punda wake wake, na Vijana wake wawili walikuwa pamoja naye.",
+  "translation": "Nao hasira ya Elohim iliwaka kwa sababu yeye alikuwa akienda, na mjumbe wa Yahweh akasimama njiani kuwa mwasi dhidi yake; naye alikuwa akipanda punda wake wake, na vijana wake wawili walikuwa pamoja naye.",
   "tokens": [
     {
       "surface": "ויחר",
-      "gloss": "ikawaka"
+      "gloss": "iliwaka hasira"
     },
     {
       "surface": "אף",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הולך",
-      "gloss": "akienda"
+      "gloss": "alikuwa akienda"
     },
     {
       "surface": "הוא",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "לשטן",
-      "gloss": "kuwa mpingani"
+      "gloss": "kuwa mwasi dhidi"
     },
     {
       "surface": "לו",
-      "gloss": "wake"
+      "gloss": "yake"
     },
     {
       "surface": "והוא",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "רכב",
-      "gloss": "akimpanda"
+      "gloss": "alikuwa akipanda"
     },
     {
       "surface": "על",
-      "gloss": "juu"
+      "gloss": "juu ya"
     },
     {
       "surface": "אתנו",
@@ -73,17 +73,17 @@
     },
     {
       "surface": "ושני",
-      "gloss": "na wawili"
+      "gloss": "wawili"
     },
     {
       "surface": "נעריו",
-      "gloss": "Vijana wake"
+      "gloss": "vijana wake"
     },
     {
       "surface": "עמו",
       "gloss": "pamoja naye"
     }
   ],
-  "timestamp": "2026-08-10T10:47:27.977499191Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:27.281825127Z",
+  "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 11,
-  "translation": "Na ikawa mwishoni wa miezi miwili akarudi kwa baba yake, naye akamtendea ⟨את⟩ nadhiri yake aliyoahidi, naye hakuwahi kumjua mwanaume; ikawa ⟨⟨ni⟩⟩ desturi katika Yisra'el.",
+  "translation": "Ikawa mwisho wa miezi miwili, akarudi kwa baba yake, naye akamtimizia nadhiri yake aliyoahidi ⟨את⟩ nayo. Yeye hakuwahi kumjua mwanaume; ikawa desturi ⟨katika⟩ Yisrael.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Na ikawa"
+      "gloss": "Ikawa"
     },
     {
       "surface": "מקץ",
-      "gloss": "mwishoni wa"
+      "gloss": "mwisho wa"
     },
     {
       "surface": "שנים",
@@ -37,40 +37,40 @@
     },
     {
       "surface": "ויעש",
-      "gloss": "naye akamtendea"
+      "gloss": "akamtimizia"
     },
     {
       "surface": "לה",
-      "gloss": "kwake"
+      "gloss": "mw"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nadhiri yake"
+      "marks": "nadhiria yake"
     },
     {
       "surface": "נדרו",
-      "gloss": "nadhiri yake"
+      "gloss": "nadhiria yake"
     },
     {
       "surface": "אשר",
-      "gloss": "aliyo"
+      "gloss": "aliyoahidi"
     },
     {
       "surface": "נדר",
-      "gloss": "ahidi"
+      "gloss": "kuahidi"
     },
     {
       "surface": "והיא",
-      "gloss": "naye"
+      "gloss": "yeye"
     },
     {
       "surface": "לא",
-      "gloss": "hakuwahi"
+      "gloss": "sio"
     },
     {
       "surface": "ידעה",
-      "gloss": "kumjua"
+      "gloss": "alimjua"
     },
     {
       "surface": "איש",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "בישראל",
-      "gloss": "katika Yisra'el"
+      "gloss": "katika Yisrael"
     }
   ],
-  "timestamp": "2026-08-10T14:49:53.708149677Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:00.733831619Z",
+  "model": "glm-5.3"
 }

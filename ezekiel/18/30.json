@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 18,
-  "translation": "Kwa hiyo, kila mmoja kwa njia zake nitawahukumu ⟨אתכם⟩, nyumba ya Yisra'eli, — maneno ya Adonai Yahweh. Rudi na mrejee kutoka katika mapinduzi yenu yote, na hatatatimia kuwa kwenu kwa kuwakwaza, uovu.",
+  "translation": "Kwa hiyo, kila mtu kwa njia zake mimi nitawahukumu nyinyi, nyumba ya Yisrael, neno la Adonai Yahweh: Reheni, mkarehe kutoka kabisa miASI yote yenu, na <0> haitakuwa kwenu kwa kuwawekea",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "mtu"
+      "gloss": "kila mtu"
     },
     {
       "surface": "כדרכיו",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "אשפט",
-      "gloss": "nitawahukumu"
+      "gloss": "nitahukumu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "nyumba ya Yisra'eli"
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
     },
     {
       "surface": "בית",
-      "gloss": "nyumba ya"
+      "gloss": "nyumba"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'eli"
+      "gloss": "ya Yisrael"
     },
     {
       "surface": "נאם",
-      "gloss": "maneno ya"
+      "gloss": "neno la"
     },
     {
       "surface": "אדני",
@@ -50,27 +50,27 @@
     },
     {
       "surface": "שובו",
-      "gloss": "rudi"
+      "gloss": "reheni"
     },
     {
       "surface": "והשיבו",
-      "gloss": "na mrejee"
+      "gloss": "mkarehe"
     },
     {
       "surface": "מכל",
-      "gloss": "kutoka yote"
+      "gloss": "kutoka kabisa"
     },
     {
       "surface": "פשעיכם",
-      "gloss": "mapinduzi yenu"
+      "gloss": "uasi wenu"
     },
     {
       "surface": "ולא",
-      "gloss": "na la"
+      "gloss": "na <0>"
     },
     {
       "surface": "יהיה",
-      "gloss": "itatimia"
+      "gloss": "haitakuwa"
     },
     {
       "surface": "לכם",
@@ -78,13 +78,13 @@
     },
     {
       "surface": "למכשול",
-      "gloss": "kwa kuwakwaza"
+      "gloss": "kwa kuwawekea"
     },
     {
       "surface": "עון",
-      "gloss": "uovu"
+      "gloss": "<0>"
     }
   ],
-  "timestamp": "2026-08-10T15:16:43.097559780Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:06.147037935Z",
+  "model": "glm-5.3"
 }

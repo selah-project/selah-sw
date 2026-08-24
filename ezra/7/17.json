@@ -5,15 +5,15 @@
   "book": "ezra",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Kwa sababu hiyo, kwa bidii ununue kwa fedha hii: ng'ombe, kondoo dume, wanakondoo, pamoja na ⟨Aya haina את⟩ sadaka zao za nafaka na sadaka zao za vimiminika, na uzitolee karibu madhabahuni ya nyumba ya Elohim-kenu iliyo Yerushalayim.",
+  "translation": "Kwa sababu ya hii, kwa bidii ununue kwa fedha hii ng'ombe, kondoo dume, wanakondoo, pamoja na nafaka zao za sadaka na zawadi zao za kumwagwa, na uzitolee ⟨hiyo⟩ juu ya madhabahu ya nyumba ya Mungu wenu iliyo ⟨ipo⟩ Yerushalayim.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "kwa sababu"
+      "gloss": "kwa sababu ya"
     },
     {
       "surface": "קבל",
-      "gloss": "hiyo"
+      "gloss": "kwa sababu ya"
     },
     {
       "surface": "דנה",
@@ -49,23 +49,23 @@
     },
     {
       "surface": "ומנחתהון",
-      "gloss": "na sadaka zao za nafaka"
+      "gloss": "na nafaka zao za sadaka"
     },
     {
       "surface": "ונסכיהון",
-      "gloss": "na sadaka zao za vimiminika"
+      "gloss": "na zawadi zao za kumwagwa"
     },
     {
       "surface": "ותקרב",
-      "gloss": "na uzitolee karibu"
+      "gloss": "na uzitolee"
     },
     {
       "surface": "המו",
-      "gloss": "zina"
+      "gloss": "⟨hiyo⟩"
     },
     {
       "surface": "על",
-      "gloss": "katika"
+      "gloss": "juu ya"
     },
     {
       "surface": "מדבחה",
@@ -73,25 +73,25 @@
     },
     {
       "surface": "די",
-      "gloss": "ya"
+      "gloss": "iliyo ⟨ipo⟩"
     },
     {
       "surface": "בית",
-      "gloss": "nyumba"
+      "gloss": "nyumba ya"
     },
     {
       "surface": "אלהכם",
-      "gloss": "Elohim-kenu"
+      "gloss": "Mungu wenu"
     },
     {
       "surface": "די",
-      "gloss": "iliyo"
+      "gloss": "iliyo ⟨ipo⟩"
     },
     {
       "surface": "בירושלם",
       "gloss": "Yerushalayim"
     }
   ],
-  "timestamp": "2026-08-10T15:40:32.469247504Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:04.490290637Z",
+  "model": "glm-5.3"
 }

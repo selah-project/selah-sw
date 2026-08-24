@@ -5,29 +5,8 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 119,
-  "translation": "Niunionee msaada nami niokolewe, nami nitalitazama ⟨⟨⟩⟩ amri yako daima.",
-  "tokens": [
-    {
-      "surface": "סְעָדֵ֥נִי",
-      "gloss": "niunionee msaada"
-    },
-    {
-      "surface": "וְאִוָּשֵׁ֑עָה",
-      "gloss": "nami niokolewe"
-    },
-    {
-      "surface": "וְאֶשְׁעָ֖ה",
-      "gloss": "nami nitalitazama"
-    },
-    {
-      "surface": "בְחֻקֶּ֣יךָ",
-      "gloss": "amri yako"
-    },
-    {
-      "surface": "תָמִֽיד",
-      "gloss": "daima"
-    }
-  ],
-  "timestamp": "2026-08-10T15:29:41.526218323Z",
-  "model": "glm-5.2"
+  "translation": "Iniunge, nami nitaokolewa, na nitazige < ⟨tazo⟩ > amri zako < ⟨zako⟩ > < ⟨daima⟩ > < ⟨za⟩ > < ⟨mara zote⟩ > daima.",
+  "tokens": [],
+  "timestamp": "2026-08-24T18:12:12.459736919Z",
+  "model": "glm-5.3"
 }

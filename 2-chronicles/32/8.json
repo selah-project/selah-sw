@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 32,
-  "translation": "Pamoja naye ⟨⟨yupo⟩⟩ mkono wa mwili; bali pamoja nasi ⟨⟨yupo⟩⟩ Yahweh Elohim wetu, kusaidiana nasi na kupigana vita vyetu. Nayo taifa likajitegemeza juu ya maneno ya Yechizqiyahu, mfalme wa Yehudah.",
+  "translation": "Naye ⟨ni⟩ mkono wa mwili, bali pamoja nasi ⟨ni⟩ Yahweh Elohim wetu, kutusaidia na kupigana vita zetu. Nao watu walijikaza kwa maneno ya Yechizkiyahu mfalme wa Yehuda.",
   "tokens": [
     {
       "surface": "עמו",
-      "gloss": "Pamoja naye"
+      "gloss": "naye"
     },
     {
       "surface": "זרוע",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לעזרנו",
-      "gloss": "kusaidiana nasi"
+      "gloss": "kutusaidia"
     },
     {
       "surface": "ולהלחם",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "מלחמתנו",
-      "gloss": "vita vyetu"
+      "gloss": "vita zetu"
     },
     {
       "surface": "ויסמכו",
-      "gloss": "Nayo taifa likajitegemeza"
+      "gloss": "nawe walijikaza"
     },
     {
       "surface": "העם",
-      "gloss": "taifa"
+      "gloss": "watu"
     },
     {
       "surface": "על",
-      "gloss": "juu ya"
+      "gloss": "kwa"
     },
     {
       "surface": "דברי",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "יחזקיהו",
-      "gloss": "Yechizqiyahu"
+      "gloss": "ya Yechizkiyahu"
     },
     {
       "surface": "מלך",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehudah"
+      "gloss": "wa Yehuda"
     }
   ],
-  "timestamp": "2026-08-10T14:19:52.563730206Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:52.373618014Z",
+  "model": "glm-5.3"
 }

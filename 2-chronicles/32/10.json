@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 32,
-  "translation": "«Hivi anasema Sancherib mfalme wa Ashur: Ni nini mnategemea, nanyi mnapumzika katika <-mzozio> ndani ya Yerushalayima?»",
+  "translation": "Hivi amesema Sancherib, mfalme wa Ashur: Nini mnategemea, nanyi mnakaa katika mzingiro huko Yerushalayim?",
   "tokens": [
     {
       "surface": "כה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "anasema"
+      "gloss": "amesema"
     },
     {
       "surface": "סנחריב",
@@ -25,37 +25,37 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Ashur"
+      "gloss": "wa Ashur"
     },
     {
       "surface": "על",
-      "gloss": "Ni"
+      "gloss": "⟨juu ya⟩"
     },
     {
       "surface": "מה",
-      "gloss": "nini"
+      "gloss": "Nini"
     },
     {
       "surface": "אתם",
-      "gloss": "mnategemea"
+      "gloss": "nyinyi"
     },
     {
       "surface": "בטחים",
-      "gloss": "nanyi"
+      "gloss": "mnategemea"
     },
     {
       "surface": "וישבים",
-      "gloss": "mnapumzika"
+      "gloss": "nanyi mnakaa"
     },
     {
       "surface": "במצור",
-      "gloss": "katika mzozio"
+      "gloss": "katika mzingiro"
     },
     {
       "surface": "בירושלם",
-      "gloss": "ndani ya Yerushalayima"
+      "gloss": "huko Yerushalayim"
     }
   ],
-  "timestamp": "2026-08-10T14:20:01.109993049Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:59.140964016Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Usimwambie jirani yako: «Nenda, rudi, na kesho nitatoa», wakati ⟨kuna⟩ ⟨kile cha kumpa⟩ ⟨⟨את⟩⟩ ⟨את⟩ pamoja nawe.",
+  "translation": "Usimwambie rafikiyako ⟨את⟩ neno ⟨la⟩ kwamba \"Nenda, uje tena tena, na kesho nitatoa\", wakati unacho (kitu) ⟨את⟩ pamoja nawe.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "Usi"
+      "gloss": "Usi-"
     },
     {
       "surface": "תאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לרעיך",
-      "gloss": "jirani yako"
+      "gloss": "rafikiyako"
     },
     {
       "surface": "לך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ושוב",
-      "gloss": "rudi"
+      "gloss": "uje tena tena"
     },
     {
       "surface": "ומחר",
@@ -37,14 +37,13 @@
     },
     {
       "surface": "ויש",
-      "gloss": "wakati ⟨kuna⟩"
+      "gloss": "na unacho"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ pamoja nawe",
-      "marks": "⟨kile cha kumpa⟩"
+      "gloss": "⟨את⟩ pamoja nawe"
     }
   ],
-  "timestamp": "2026-08-10T13:22:10.872172956Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:17.469937060Z",
+  "model": "glm-5.3"
 }

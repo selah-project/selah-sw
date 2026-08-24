@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 17,
-  "translation": "Yahweh alifanya ⟨אתם⟩ agano, naye aliwaamuru, akisema: Msiope miungu mingine, wala msisujudie kwao, wala msitumikie, wala msitoe sadaka kwao.",
+  "translation": "Yahweh alifunga ⟨את⟩ nao agano, akawaamrisha akisema: Msikhofu Elohim wengine, wala msijisujudie kwao, wala msitumikie, wala msitoe dhabihu kwao.",
   "tokens": [
     {
       "surface": "ויכרת",
-      "gloss": "alifanya"
+      "gloss": "alifunga"
     },
     {
       "surface": "יהוה",
@@ -17,8 +17,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "agano"
+      "gloss": "⟨את⟩",
+      "marks": "nao"
     },
     {
       "surface": "ברית",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ויצום",
-      "gloss": "naye aliwaamuru"
+      "gloss": "akawaamrisha"
     },
     {
       "surface": "לאמר",
@@ -34,19 +34,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "Msio"
+      "gloss": "msi"
     },
     {
       "surface": "תיראו",
-      "gloss": "pe"
+      "gloss": "khofu"
     },
     {
       "surface": "אלהים",
-      "gloss": "miungu"
+      "gloss": "Elohim"
     },
     {
       "surface": "אחרים",
-      "gloss": "mingine"
+      "gloss": "wengine"
     },
     {
       "surface": "ולא",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "תשתחוו",
-      "gloss": "sujudie"
+      "gloss": "jisujudie"
     },
     {
       "surface": "להם",
@@ -74,13 +74,13 @@
     },
     {
       "surface": "תזבחו",
-      "gloss": "toe sadaka"
+      "gloss": "toe dhabihu"
     },
     {
       "surface": "להם",
       "gloss": "kwao"
     }
   ],
-  "timestamp": "2026-08-10T15:03:14.803077410Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:25.031431377Z",
+  "model": "glm-5.3"
 }

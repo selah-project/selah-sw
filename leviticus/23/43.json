@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 23,
-  "translation": "Ili vizazi vyenu zijue kwamba katika vibanda niliwakaa ⟨את⟩ wana wa Yisra'el katika kuwatoa ⟨אתם⟩ kutoka nchi ya Mitsrayim; mimi Yahweh Elohim wenu.",
+  "translation": "Ili kizazi zenu zijue ya kwamba katika vibanda niliwakaza ⟨את⟩ wanaisraeli pale nilipowatoa kutoka nchi ya Mitsrayim; mimi Yahweh Elohim wenu.",
   "tokens": [
     {
       "surface": "למען",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "דרתיכם",
-      "gloss": "vizazi vyenu"
+      "gloss": "kizazi zenu"
     },
     {
       "surface": "כי",
-      "gloss": "kwamba"
+      "gloss": "ya kwamba"
     },
     {
       "surface": "בסכות",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "הושבתי",
-      "gloss": "niliwakaa"
+      "gloss": "niwakaza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wana wa Yisra'el"
+      "marks": "wanaisraeli"
     },
     {
       "surface": "בני",
@@ -42,16 +42,16 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "wa Yisra'el"
+      "gloss": "israeli"
     },
     {
       "surface": "בהוציאי",
-      "gloss": "katika kuwatoa"
+      "gloss": "pale nilipowatoa"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
-      "marks": "(wao)"
+      "gloss": "⟨את⟩",
+      "marks": "wao"
     },
     {
       "surface": "מארץ",
@@ -74,6 +74,6 @@
       "gloss": "Elohim wenu"
     }
   ],
-  "timestamp": "2026-08-10T10:37:46.022444296Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:36.706493585Z",
+  "model": "glm-5.3"
 }

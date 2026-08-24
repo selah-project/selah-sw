@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Akapanda mjumbe wa Yahweh kutoka HaGilgali hadi HaBochimi, akasema: Nilikunyanyueni ⟨אתכם⟩ kutoka Mitsrayim, nikakuleteni ⟨אתכם⟩ ⟨⟨kwenye⟩⟩ nchi ile niliyoapa kwa baba zenu, nikaambia: sitavunja ⟨⟨⟩⟩ beriti yangu ⟨אתכם⟩ hata milele.",
+  "translation": "Mjumbe wa Yahweh alipanda kutoka HaGilgali hadi HaBokimu, akasema: Nilikuweeneza ⟨את⟩ ninyi kutoka Mitsrayim, na nikawaleta ⟨את⟩ ninyi katika nchi aliyoapa kwa baba zenu, nikasema: Sitavunja agano langu ⟨את⟩ pamoja nanyi milele.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "akapanda"
+      "gloss": "alipanda"
     },
     {
       "surface": "מלאך",
-      "gloss": "mjumbe"
+      "gloss": "Mjumbe"
     },
     {
       "surface": "יהוה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הבכים",
-      "gloss": "HaBochimi"
+      "gloss": "HaBokimu"
     },
     {
       "surface": "ויאמר",
@@ -41,29 +41,29 @@
     },
     {
       "surface": "אעלה",
-      "gloss": "nikikunyanyua"
+      "gloss": "Nilikuweeneza"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ninyi (kutoka Mitsrayim)"
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
     },
     {
       "surface": "ממצרים",
-      "gloss": "kutoka Mitsrayim"
+      "gloss": "Mitsrayim"
     },
     {
       "surface": "ואביא",
-      "gloss": "nikakuleta"
+      "gloss": "nikawaleta"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ninyi (kwenye nchi)"
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
     },
     {
       "surface": "אל",
-      "gloss": "kwenye"
+      "gloss": "katika"
     },
     {
       "surface": "הארץ",
@@ -71,11 +71,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ile"
+      "gloss": "aliyoapa"
     },
     {
       "surface": "נשבעתי",
-      "gloss": "niliyoapa"
+      "gloss": "niliapo"
     },
     {
       "surface": "לאבתיכם",
@@ -83,30 +83,30 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "nikaambia"
+      "gloss": "nikasema"
     },
     {
       "surface": "לא",
-      "gloss": "sitavunja"
+      "gloss": "Si"
     },
     {
       "surface": "אפר",
-      "gloss": "(vitendo vya kuvunja)"
+      "gloss": "tavunja"
     },
     {
       "surface": "בריתי",
-      "gloss": "beriti yangu"
+      "gloss": "agano langu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "pamoja ninyi"
+      "gloss": "⟨את⟩",
+      "marks": "pamoja nanyi"
     },
     {
       "surface": "לעולם",
-      "gloss": "hata milele"
+      "gloss": "milele"
     }
   ],
-  "timestamp": "2026-08-10T11:12:31.169410491Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:37.216169227Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Akasema Amnoni kwa Tamari: Leta ⟨ה⟩ chakula hiki chumbani, nami nile kutoka mkononi mwako. Basi Tamari akachukua ⟨את⟩ vibiryani alivyokuwa amevipika, akaleta kwa Amnoni ndugu yake, chumbani.",
+  "translation": "Na Amnoni akamwambia Tamar: Leta ⟨הַ⟩ chakula chumbani, ili nile kutoka mkononi mwako. Na Tamar akachukua ⟨את⟩ ile mikate ya moyo aliyoitengeneza, akaileta kwa Amnoni ndugu yake, ndani ya chumba.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Akasema"
+      "gloss": "na akamwambia"
     },
     {
       "surface": "אמנון",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "תמר",
-      "gloss": "Tamari"
+      "gloss": "Tamar"
     },
     {
       "surface": "הביאי",
-      "gloss": "Leta"
+      "gloss": "leta"
     },
     {
       "surface": "הבריה",
-      "gloss": "chakula hiki"
+      "gloss": "chakula"
     },
     {
       "surface": "החדר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ואברה",
-      "gloss": "nami nile"
+      "gloss": "ili nile"
     },
     {
       "surface": "מידך",
@@ -45,32 +45,32 @@
     },
     {
       "surface": "ותקח",
-      "gloss": "Basi akachukua"
+      "gloss": "na akachukua"
     },
     {
       "surface": "תמר",
-      "gloss": "Tamari"
+      "gloss": "Tamar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vibiryani"
+      "marks": "mikate ya moyo"
     },
     {
       "surface": "הלבבות",
-      "gloss": "vibiryani"
+      "gloss": "mikate ya moyo"
     },
     {
       "surface": "אשר",
-      "gloss": "alivyokuwa"
+      "gloss": "aliyo"
     },
     {
       "surface": "עשתה",
-      "gloss": "amevipika"
+      "gloss": "itengeneza"
     },
     {
       "surface": "ותבא",
-      "gloss": "akaleta"
+      "gloss": "na akaileta"
     },
     {
       "surface": "לאמנון",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "החדרה",
-      "gloss": "chumbani"
+      "gloss": "ndani ya chumba"
     }
   ],
-  "timestamp": "2026-08-10T18:30:12.282437049Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:07.032202994Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 56,
-  "translation": "Nami nitawapa ⟨⟨ao⟩⟩ katika nyumba yangu na katika kuta zangu mkono na jina bora kuliko ⟨waliyezaliwa⟩ wana na kuliko binti; jina la milele nitampa yule ambalo halitatokatwa.",
+  "translation": "Nitawapa katika nyumba yangu na katika ngome zangu mkono ⟨na⟩ jina zuri kuliko wana ⟨na⟩ kuliko binti; jina la milele nitampa yule ambalo halitakatwa.",
   "tokens": [
     {
       "surface": "ונתתי",
-      "gloss": "nami nitawapa"
+      "gloss": "nitawapa"
     },
     {
       "surface": "להם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ובחומתי",
-      "gloss": "na katika kuta zangu"
+      "gloss": "na katika ngome zangu"
     },
     {
       "surface": "יד",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "טוב",
-      "gloss": "bora"
+      "gloss": "zuri"
     },
     {
       "surface": "מבנים",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "יכרת",
-      "gloss": "tokatwa"
+      "gloss": "katwa"
     }
   ],
-  "timestamp": "2026-08-10T12:07:56.477637362Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:21.514225690Z",
+  "model": "glm-5.3"
 }

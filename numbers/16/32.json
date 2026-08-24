@@ -5,37 +5,37 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 16,
-  "translation": "Nayo ⟨the⟩ nchi ilifungua ⟨את⟩ kinywa chake nao wamelezwa, na ⟨את⟩ nyumba zao, na ⟨את⟩ ⟨the⟩ watu wote ambao ni wa Korahi, na ⟨את⟩ ⟨the⟩ mali yote.",
+  "translation": "Nchi ilifungua ⟨את⟩ mdomo wake, ikawala ⟨את⟩ hao pamoja na ⟨את⟩ nyumba zao, na ⟨את⟩ watu wote walio wa Korah, na ⟨את⟩ mali yao yote.",
   "tokens": [
     {
       "surface": "ותפתח",
-      "gloss": "nayo ilifungua"
+      "gloss": "ilifungua"
     },
     {
       "surface": "הארץ",
-      "gloss": "nchi"
+      "gloss": "Nchi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kinywa chake"
+      "marks": "mdomo wake"
     },
     {
       "surface": "פיה",
-      "gloss": "kinywa chake"
+      "gloss": "mdomo wake"
     },
     {
       "surface": "ותבלע",
-      "gloss": "nao wamelezwa"
+      "gloss": "ikawala"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "wamelezwa"
+      "marks": "hao"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "nyumba zao"
     },
     {
@@ -44,8 +44,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "the watu wote ambao ni wa Korahi"
+      "gloss": "⟨את⟩",
+      "marks": "watu wote walio wa Korah"
     },
     {
       "surface": "כל",
@@ -57,16 +57,16 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambao"
+      "gloss": "walio"
     },
     {
       "surface": "לקרח",
-      "gloss": "ni wa Korahi"
+      "gloss": "wa Korah"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "the mali yote"
+      "gloss": "⟨את⟩",
+      "marks": "mali yao yote"
     },
     {
       "surface": "כל",
@@ -77,6 +77,6 @@
       "gloss": "mali"
     }
   ],
-  "timestamp": "2026-08-10T10:46:46.106985797Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:10.671424779Z",
+  "model": "glm-5.3"
 }

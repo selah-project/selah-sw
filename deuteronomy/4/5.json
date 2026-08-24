@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 4,
-  "translation": "Angalia, mimi nimewafundisha ⟨אתכם⟩ amri na hukumu, kama alivyoniamuru Yahweh Elohim wangu, kuzitenda hivyo katikati ya nchi ambayo nyinyi mnaingia huko ili kuimiliki.",
+  "translation": "Angalieni, nimewafundisha ⟨את⟩ ⟨אתכם⟩ amri na hukumu, kama Yahweh Elohim wangu alivyoniamuru mimi, kuzitenda vivyo hivyo katikati ya nchi ambayo nyinyi mnaingia humo kuimiliki.",
   "tokens": [
     {
       "surface": "ראה",
-      "gloss": "Angalia"
+      "gloss": "Angalieni"
     },
     {
       "surface": "למדתי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "amri na hukumu"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "hivyo"
+      "gloss": "vivyo hivyo"
     },
     {
       "surface": "בקרב",
@@ -74,13 +74,13 @@
     },
     {
       "surface": "שמה",
-      "gloss": "huko"
+      "gloss": "humo"
     },
     {
       "surface": "לרשתה",
-      "gloss": "ili kuimiliki"
+      "gloss": "kuimiliki"
     }
   ],
-  "timestamp": "2026-08-10T10:54:55.210578208Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.344767880Z",
+  "model": "glm-5.3"
 }

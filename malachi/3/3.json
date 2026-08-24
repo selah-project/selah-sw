@@ -5,79 +5,79 @@
   "book": "malachi",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Naye ataketi kama mwenye kuyeyusha na kusafisha fedwa, naye ata safisha ⟨wana⟩ wa Levi, na kuwafuta ⟨ao⟩ kama dhahabu na kama fedha; nao watakuwa kwa Yahweh wanaotoa mnoffa katika haki.",
+  "translation": "Naye atakaa ⟨akiwa⟩ mwenye kuyeyusha na kutakasa fedha, nayo atatakasa ⟨את⟩ wana wa Levi, na kuwasafisha kama dhahabu na kama fedha, nao watakuwa kwa Yahweh wanaotoa sadaka ya nafaka kwa haki.",
   "tokens": [
     {
-      "surface": "וְיָשַׁ֨ב",
-      "gloss": "naye ataketi"
+      "surface": "וישב",
+      "gloss": "atakaa"
     },
     {
-      "surface": "מְצָרֵ֤ף",
-      "gloss": "kama mwenye kuyeyusha"
+      "surface": "מצרף",
+      "gloss": "mwenye kuyeyusha"
     },
     {
-      "surface": "וּמְטַהֵר֙",
-      "gloss": "na kusafisha"
+      "surface": "ומטהר",
+      "gloss": "na kutakasa"
     },
     {
-      "surface": "כֶּ֔סֶף",
-      "gloss": "fedwa"
+      "surface": "כסף",
+      "gloss": "fedha"
     },
     {
-      "surface": "וְטִהַ֤ר",
-      "gloss": "naye ata safisha"
+      "surface": "וטהר",
+      "gloss": "atatakasa"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "wana wa Levi"
     },
     {
-      "surface": "בְּנֵֽי",
+      "surface": "בני",
       "gloss": "wana"
     },
     {
-      "surface": "לֵוִי֙",
-      "gloss": "wa Levi"
+      "surface": "לוי",
+      "gloss": "Levi"
     },
     {
-      "surface": "וְזִקַּ֣ק",
-      "gloss": "na kuwafuta"
+      "surface": "וזקק",
+      "gloss": "na kuwasafisha"
     },
     {
-      "surface": "אֹתָ֔ם",
-      "gloss": "⟨אתם⟩",
-      "marks": "ao"
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wao (wana wa Levi)"
     },
     {
-      "surface": "כַּזָּהָ֖ב",
+      "surface": "כזהב",
       "gloss": "kama dhahabu"
     },
     {
-      "surface": "וְכַכָּ֑סֶף",
-      "gloss": "na kama fedwa"
+      "surface": "וככסף",
+      "gloss": "na kama fedha"
     },
     {
-      "surface": "וְהָיוּ֙",
-      "gloss": "nao watakuwa"
+      "surface": "והיו",
+      "gloss": "watakuwa"
     },
     {
-      "surface": "לַֽיהוָ֔ה",
+      "surface": "ליהוה",
       "gloss": "kwa Yahweh"
     },
     {
-      "surface": "מַגִּישֵׁ֥י",
+      "surface": "מגישי",
       "gloss": "wanaotoa"
     },
     {
-      "surface": "מִנְחָ֖ה",
-      "gloss": "mnoffa"
+      "surface": "מנחה",
+      "gloss": "sadaka ya nafaka"
     },
     {
-      "surface": "בִּצְדָקָֽה",
-      "gloss": "katika haki"
+      "surface": "בצדקה",
+      "gloss": "kwa haki"
     }
   ],
-  "timestamp": "2026-08-10T12:55:10.811944508Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:03.600138977Z",
+  "model": "glm-5.3"
 }

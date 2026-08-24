@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "sw",
   "chapter": 32,
-  "translation": "Elihu mwana wa Barakel Mzuzi akajibu akasema: Mimi ni mdogo kwa siku, nanyi ni wazeewayee; kwa hiyo nilijitetea nikaogopa kuonyesha ⟨אתם⟩ maarifa yangu kwenu.",
+  "translation": "Na Elihu mwana wa Barakel Mbuzzi akajibu akasema: Mimi ni mchanga kwa siku, nanyi ni wazee; kwa hiyo niliogopa, na kuogopa kufunua maarifa yangu ⟨את⟩ kwenu.",
   "tokens": [
     {
       "surface": "ויען",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ברכאל",
-      "gloss": "wa Barakel"
+      "gloss": "Barakel"
     },
     {
       "surface": "הבוזי",
-      "gloss": "Mzuzi"
+      "gloss": "Mbuzzi"
     },
     {
       "surface": "ויאמר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "צעיר",
-      "gloss": "ni mdogo"
+      "gloss": "mchanga"
     },
     {
       "surface": "אני",
-      "gloss": "Mimi"
+      "gloss": "mimi"
     },
     {
       "surface": "לימים",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "ישישים",
-      "gloss": "ni wazeewayee"
+      "gloss": "wazee"
     },
     {
       "surface": "על",
-      "gloss": "—"
+      "gloss": "kwa hiyo ⟨kwa⟩"
     },
     {
       "surface": "כן",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "זחלתי",
-      "gloss": "nilijitetea"
+      "gloss": "niliogopa"
     },
     {
       "surface": "ואירא",
-      "gloss": "nikaogopa"
+      "gloss": "na kuogopa"
     },
     {
       "surface": "מחות",
-      "gloss": "kuonyesha"
+      "gloss": "kufunua"
     },
     {
       "surface": "דעי",
@@ -77,10 +77,9 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתם⟩",
-      "marks": "kwenu"
+      "gloss": "⟨את⟩ kwenu"
     }
   ],
-  "timestamp": "2026-08-10T16:23:05.912147433Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:41.657884457Z",
+  "model": "glm-5.3"
 }

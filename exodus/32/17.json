@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 32,
-  "translation": "Na Yehoshua akasikia ⟨את⟩ sauti ya watu katika kushangilia, na akamwambia Moshe: Sauti ya vita ⟨⟨ipo⟩⟩ katika kambi!",
+  "translation": "Na Yehoshua akasikia ⟨את⟩ sauti ya watu walipofoka, akamwambia Moshe: ⟨⟨sauti⟩⟩ ya vita ⟨ipo⟩ katika kambi.",
   "tokens": [
     {
       "surface": "וישמע",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "ברעה",
-      "gloss": "katika kushangilia"
+      "gloss": "walipofoka"
     },
     {
       "surface": "ויאמר",
-      "gloss": "na akamwambia"
+      "gloss": "akamwambia"
     },
     {
       "surface": "אל",
@@ -57,6 +57,6 @@
       "gloss": "katika kambi"
     }
   ],
-  "timestamp": "2026-08-10T14:31:48.105280833Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:47.232383240Z",
+  "model": "glm-5.3"
 }

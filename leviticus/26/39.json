@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 26,
-  "translation": "Na waliobaki miongoni mwenu watayeyuka katika uovu wao, katika nchi za maadui zenu; na pia katika maovu ya baba zao, pamoja nao ⟨אתם⟩ watayeyuka.",
+  "translation": "Na waliobaki miongoni mwenu watayeyuka katika uovu wao, katika nchi za adui zenu; na hata katika uovu wa baba zao ⟨את⟩ pamoja nao watayeyuka.",
   "tokens": [
     {
       "surface": "והנשארים",
-      "gloss": "Na waliobaki"
+      "gloss": "na waliobaki"
     },
     {
       "surface": "בכם",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "איביכם",
-      "gloss": "maadui zenu"
+      "gloss": "adui zenu"
     },
     {
       "surface": "ואף",
-      "gloss": "na pia"
+      "gloss": "na hata"
     },
     {
       "surface": "בעונת",
-      "gloss": "katika maovu ya"
+      "gloss": "katika uovu wa"
     },
     {
       "surface": "אבתם",
@@ -45,14 +45,14 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "pamoja nao"
+      "gloss": "⟨את⟩ pamoja nao",
+      "marks": "waliobaki"
     },
     {
       "surface": "ימקו",
       "gloss": "watayeyuka"
     }
   ],
-  "timestamp": "2026-08-10T14:36:10.217726984Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:46.976281192Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 50,
-  "translation": "Wimbo wa Asaph. El, Elohim, Yahweh, ameongea na kuita ⟨את⟩ nchi, kutoka machizio ya jua hadi mlangoni kwake.",
+  "translation": "Wimbo wa Asaph. El, Elohim, Yahweh, ameongea na kuita nchi, kutoka machizio ya jua hadi mlangoni kwake.",
   "tokens": [
     {
       "surface": "מזמור",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "⟨את⟩ nchi",
+      "gloss": "nchi",
       "marks": "nchi"
     },
     {
@@ -57,6 +57,6 @@
       "gloss": "mlangoni kwake"
     }
   ],
-  "timestamp": "2026-08-10T13:02:56.443768751Z",
+  "timestamp": "2026-08-24T19:06:27.316713876Z",
   "model": "glm-5.2"
 }

@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 41,
-  "translation": "Na akapima ukuta wa ⟨the⟩ nyumba, dhiraa sita; na upana wa ubavu, dhiraa nne, kuzunguka kuzunguka kwa ⟨the⟩ nyumba kuzunguka.",
+  "translation": "Akapima ukuta wa nyumba, Ama sita; na upana wa chumba cha ubavu, Ama nne, kuzunguka ⟨kuzunguka⟩ nyumba pande zote ⟨kuzunguka⟩.",
   "tokens": [
     {
       "surface": "וימד",
-      "gloss": "Na akapima"
+      "gloss": "Akapima"
     },
     {
       "surface": "קיר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אמות",
-      "gloss": "dhiraa"
+      "gloss": "Ama"
     },
     {
       "surface": "ורחב",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הצלע",
-      "gloss": "wa ubavu"
+      "gloss": "wa chumba cha ubavu"
     },
     {
       "surface": "ארבע",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אמות",
-      "gloss": "dhiraa"
+      "gloss": "Ama"
     },
     {
       "surface": "סביב",
@@ -49,17 +49,17 @@
     },
     {
       "surface": "סביב",
-      "gloss": "kuzunguka"
+      "gloss": "⟨kuzunguka⟩"
     },
     {
       "surface": "לבית",
-      "gloss": "kwa nyumba"
+      "gloss": "nyumba"
     },
     {
       "surface": "סביב",
-      "gloss": "kuzunguka"
+      "gloss": "⟨pande zote kuzunguka⟩"
     }
   ],
-  "timestamp": "2026-08-10T12:38:08.467242926Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:28.337492975Z",
+  "model": "glm-5.3"
 }

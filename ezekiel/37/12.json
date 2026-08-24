@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 37,
-  "translation": "Kwa hiyo toa unabii, na uwaambie: Hivyo amesema Adonai Yahweh: Tazama, mimi ninafungua ⟨את⟩ makaburi yenu, nami nitawatoa kutoka makaburi yenu, enyi watu wangu, nami nitawaleta ⟨אתכם⟩ hadi nchi ya Yisra'el.",
+  "translation": "Kwa hiyo nabii, na uwaambie: Ndivyo alivyosema Adonai Yahweh: Tazama, mimi ninafungua ⟨את⟩ makaburi yenu, na nitawatoa nyinyi makaburi yenu, enyi watu wangu, na nitawaingiza nyinyi ⟨hadi⟩ katika nchi ya Yisrael.",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "toa unabii"
+      "gloss": "nabii"
     },
     {
       "surface": "ואמרת",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "hivyo"
+      "gloss": "ndivyo"
     },
     {
       "surface": "אמר",
@@ -62,29 +62,27 @@
     },
     {
       "surface": "והעליתי",
-      "gloss": "nami nitawatoa"
+      "gloss": "na nitawatoa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "nyinyi"
+      "gloss": "⟨את⟩ nyinyi"
     },
     {
       "surface": "מקברותיכם",
-      "gloss": "kutoka makaburi yenu"
+      "gloss": "makaburi yenu"
     },
     {
       "surface": "עמי",
-      "gloss": "enyi watu wangu"
+      "gloss": "watu wangu"
     },
     {
       "surface": "והבאתי",
-      "gloss": "nami nitawaleta"
+      "gloss": "na nitawaingiza"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "nyinyi"
+      "gloss": "⟨את⟩ nyinyi"
     },
     {
       "surface": "אל",
@@ -96,9 +94,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-10T15:20:02.036432440Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:08.218326288Z",
+  "model": "glm-5.3"
 }

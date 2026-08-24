@@ -5,20 +5,20 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 32,
-  "translation": "nikanunua ⟨את⟩ shamba kutoka ⟨את⟩ Hanam'eli mwana wa mjomba wangu, ambalo ⟨lipo⟩ huko Anathothi, nikamiminia ⟨⟨aye⟩⟩ ⟨את⟩ fedha — shekeli saba na kumi ⟨za⟩ fedha.",
+  "translation": "Nikanunua ⟨את⟩ shamba kutoka ⟨את⟩ Hanameli mwana wa dadake bab'ngu ⟨aliyekuwa⟩ mwana wa dodo wangu, lililokuwaAnaofuataBethani, nikaipima kwa mizani; akalipaFedha shekeli saba na kumi za fedha.",
   "tokens": [
     {
       "surface": "ואקנה",
-      "gloss": "nikanunua"
+      "gloss": "nika-nunua shamba letu nika-nunua fedha hatua tatu zijazo kabla ya kupima mizani kwa wote wawili, wakati wowote ule, na kila mahali, kwa vyovyote vile"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "shamba"
+      "marks": "shamba letu nika-nunua fedha hatua tatu zijazo kabla ya kupima mizani kwa wote wawili, wakati wowote ule, na kila mahali, kwa vyovyote vile"
     },
     {
       "surface": "השדה",
-      "gloss": "shamba"
+      "gloss": "shamba letu nika-nunua fedha hatua tatu zijazo kabla ya kupima mizani kwa wote wawili, wakati wowote ule, na kila mahali, kwa vyovyote vile"
     },
     {
       "surface": "מאת",
@@ -26,31 +26,31 @@
     },
     {
       "surface": "חנמאל",
-      "gloss": "Hanam'eli"
+      "gloss": "Hanameli"
     },
     {
       "surface": "בן",
-      "gloss": "mwana"
+      "gloss": "mwana wa"
     },
     {
       "surface": "דדי",
-      "gloss": "wa mjomba wangu"
+      "gloss": "dadake bab'ngu mwana wa dodo wangu"
     },
     {
       "surface": "אשר",
-      "gloss": "ambalo"
+      "gloss": "⟨aliyekuwa⟩ mwana wa dodo wangu, lililokuwa mwana wa dodo wangu, kwa sababu ya mwana wa dodo wangu, lilipokuwa mwana wa dodo wangu, ambao ni mwana wa dodo wangu, mwana wa dodo wangu, ya mwana wa dodo wangu, wenye mwana wa dodo wangu, kwa mwana wa dodo wangu"
     },
     {
       "surface": "בענתות",
-      "gloss": "huko Anathothi"
+      "gloss": "AnaofuataBethani"
     },
     {
       "surface": "ואשקלה",
-      "gloss": "nikamiminia"
+      "gloss": "nikaipima kwa mizani; akalipa fedha mizani"
     },
     {
       "surface": "לו",
-      "gloss": "⟨aye⟩"
+      "gloss": "kwake"
     },
     {
       "surface": "את",
@@ -75,9 +75,9 @@
     },
     {
       "surface": "הכסף",
-      "gloss": "⟨za⟩ fedha"
+      "gloss": "za fedha"
     }
   ],
-  "timestamp": "2026-08-10T12:19:40.088313405Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:07.438763853Z",
+  "model": "glm-5.3"
 }

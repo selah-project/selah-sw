@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Nami nitawapa wachungaji kulingana na moyo wangu, nao watawachunga ⟨⟨אתכם⟩⟩ kwa maarifa na ufahamu.",
+  "translation": "Nami nitawapawachungaji sawa na moyo wangu, nao watawachunga ⟨את⟩ ninyi kwa elimu na ufahamu.",
   "tokens": [
     {
       "surface": "ונתתי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "לכם",
-      "gloss": "kwenu"
+      "gloss": "ninyi"
     },
     {
       "surface": "רעים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "כלבי",
-      "gloss": "kulingana na moyo wangu"
+      "gloss": "sawa na moyo wangu"
     },
     {
       "surface": "ורעו",
@@ -29,18 +29,18 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "nyinyi"
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
     },
     {
       "surface": "דעה",
-      "gloss": "kwa maarifa"
+      "gloss": "kwa elimu"
     },
     {
       "surface": "והשכיל",
       "gloss": "na ufahamu"
     }
   ],
-  "timestamp": "2026-08-10T12:11:12.652980488Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:39.417529810Z",
+  "model": "glm-5.3"
 }

@@ -5,57 +5,57 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 40,
-  "translation": "Je, hamjui? Je, hamjasikia? Je, hukutangazwa kutoka mwanzo kwenu? Je, hamjafahamu misingi ya ⟨הָאָרֶץ⟩ nchi?",
+  "translation": "Je, hamjui? Je, hamkusikia? Je, hakuhubiriwa kwenu tangu mwanzoni? Je, hamkuelimika ⟨kutoka⟩ katika misingi ya ⟨⟩ nchi?",
   "tokens": [
     {
-      "surface": "הֲל֤וֹא",
-      "gloss": "je, je"
+      "surface": "הלוא",
+      "gloss": "Je, haku-"
     },
     {
-      "surface": "תֵֽדְעוּ֙",
-      "gloss": "hamjui"
+      "surface": "תדעו",
+      "gloss": "jui"
     },
     {
-      "surface": "הֲל֣וֹא",
-      "gloss": "je, je"
+      "surface": "הלוא",
+      "gloss": "Je, haku-"
     },
     {
-      "surface": "תִשְׁמָ֔עוּ",
-      "gloss": "hamjasikia"
+      "surface": "תשמעו",
+      "gloss": "mkusikia"
     },
     {
-      "surface": "הֲל֛וֹא",
-      "gloss": "je, je"
+      "surface": "הלוא",
+      "gloss": "Je, si"
     },
     {
-      "surface": "הֻגַּ֥ד",
-      "gloss": "hukutangazwa"
+      "surface": "הגד",
+      "gloss": "kuhubiriwa"
     },
     {
-      "surface": "מֵרֹ֖אשׁ",
-      "gloss": "kutoka mwanzo"
+      "surface": "מראש",
+      "gloss": "tangu mwanzoni"
     },
     {
-      "surface": "לָכֶ֑ם",
+      "surface": "לכם",
       "gloss": "kwenu"
     },
     {
-      "surface": "הֲלוֹא֙",
-      "gloss": "je, je"
+      "surface": "הלוא",
+      "gloss": "Je, haku-"
     },
     {
-      "surface": "הֲבִ֣ינֹתֶ֔ם",
-      "gloss": "hamjafahamu"
+      "surface": "הבינתם",
+      "gloss": "mkuelimika"
     },
     {
-      "surface": "מוֹסְד֖וֹת",
+      "surface": "מוסדות",
       "gloss": "misingi"
     },
     {
-      "surface": "הָאָֽרֶץ",
-      "gloss": "nchi"
+      "surface": "הארץ",
+      "gloss": "ya nchi"
     }
   ],
-  "timestamp": "2026-08-10T17:48:48.686970523Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:03.326037019Z",
+  "model": "glm-5.3"
 }

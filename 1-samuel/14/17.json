@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Shaul akasema kwa ⟨⟨watu⟩⟩ walio ⟨את⟩ pamoja naye: \"Hesabuni tafadhali, na uone ni nani aliyeondoka kutoka pamoja nasi.\" Wakawahesabu, na tazama, Yonathani na abebaye ⟨את⟩ silaha zake hawapo.",
+  "translation": "Na Shaul aliwaambia watu walio ⟨את⟩ pamoja naye: Hesabuni ⟨tafadhali⟩, na uone ni nani ameondoka miongoni mwetu. Wakahesabu, na tazama, Yonatan na mbeba zana zake hawakuwapo.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "akasema"
+      "gloss": "Na aliwaambia"
     },
     {
       "surface": "שאול",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לעם",
-      "gloss": "kwa ⟨⟨watu⟩⟩"
+      "gloss": "kwa watu"
     },
     {
       "surface": "אשר",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ pamoja naye",
       "marks": "pamoja naye"
     },
     {
       "surface": "פקדו",
-      "gloss": "hesabuni"
+      "gloss": "Hesabuni"
     },
     {
       "surface": "נא",
-      "gloss": "tafadhali"
+      "gloss": "⟨tafadhali⟩"
     },
     {
       "surface": "וראו",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "הלך",
-      "gloss": "aliyeondoka"
+      "gloss": "ameondoka"
     },
     {
       "surface": "מעמנו",
-      "gloss": "kutoka pamoja nasi"
+      "gloss": "miongoni mwetu"
     },
     {
       "surface": "ויפקדו",
-      "gloss": "Wakawahesabu"
+      "gloss": "Wakahesabu"
     },
     {
       "surface": "והנה",
@@ -62,22 +62,21 @@
     },
     {
       "surface": "אין",
-      "gloss": "hawapo"
+      "gloss": "hawakuwapo"
     },
     {
       "surface": "יונתן",
-      "gloss": "Yonathani"
+      "gloss": "Yonatan"
     },
     {
       "surface": "ונשא",
-      "gloss": "na abebaye"
+      "gloss": "na mbeba"
     },
     {
       "surface": "כליו",
-      "gloss": "⟨את⟩ silaha zake",
-      "marks": "silaha zake"
+      "gloss": "zana zake"
     }
   ],
-  "timestamp": "2026-08-10T16:00:19.252835426Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:50.229455344Z",
+  "model": "glm-5.3"
 }

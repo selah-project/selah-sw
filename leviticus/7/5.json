@@ -5,42 +5,42 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Na kuhani atawateketeza ⟨אתם⟩ juu ya madhabahu, kwa sadaka ya moto kwa Yahweh; ⟨hiyo ni⟩ sadaka ya makosa.",
+  "translation": "Na kuhani atawateketeza ⟨את⟩ vyao juu ya madhabahu, sadaka ya moto kwa Yahweh; ni sadaka ya makosa.",
   "tokens": [
     {
-      "surface": "והקטיר",
+      "surface": "וְהִקְטִ֨יר",
       "gloss": "na atawateketeza"
     },
     {
-      "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "kuhani"
+      "surface": "אֹתָ֤ם",
+      "gloss": "⟨את⟩",
+      "marks": "vyao"
     },
     {
-      "surface": "הכהן",
+      "surface": "הַכֹּהֵן֙",
       "gloss": "kuhani"
     },
     {
-      "surface": "המזבחה",
+      "surface": "הַמִּזְבֵּ֔חָה",
       "gloss": "juu ya madhabahu"
     },
     {
-      "surface": "אשה",
-      "gloss": "kwa sadaka ya moto"
+      "surface": "אִשֶּׁ֖ה",
+      "gloss": "sadaka ya moto"
     },
     {
-      "surface": "ליהוה",
+      "surface": "לַיהוָ֑ה",
       "gloss": "kwa Yahweh"
     },
     {
-      "surface": "אשם",
+      "surface": "אָשָׁ֖ם",
       "gloss": "sadaka ya makosa"
     },
     {
-      "surface": "הוא",
-      "gloss": "hiyo ni"
+      "surface": "הֽוּא",
+      "gloss": "ni"
     }
   ],
-  "timestamp": "2026-08-10T10:31:57.465806869Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:48.887604391Z",
+  "model": "glm-5.3"
 }

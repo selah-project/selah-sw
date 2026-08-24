@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 24,
-  "translation": "Nawaonekano wa utukufu wa Yahweh ulikuwa kama moto unaomeza kichwani mwa ⟨the⟩ mlima, mbele ya macho ya wana wa Yisra'el.",
+  "translation": "Na mwonekano wa utukufu wa Yahweh ulikuwa kama moto unaomeza juu ya ⟨the⟩ mlima, mbele ya macho ya wana wa Yisraeli.",
   "tokens": [
     {
       "surface": "ומראה",
-      "gloss": "nawaonekano wa"
+      "gloss": "Na mwonekano"
     },
     {
       "surface": "כבוד",
-      "gloss": "utukufu wa"
+      "gloss": "wa utukufu"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "wa Yahweh"
     },
     {
       "surface": "כאש",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "בראש",
-      "gloss": "kichwani mwa"
+      "gloss": "juu ya"
     },
     {
       "surface": "ההר",
-      "gloss": "mlima"
+      "gloss": "⟨the⟩ mlima"
     },
     {
       "surface": "לעיני",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisraeli"
     }
   ],
-  "timestamp": "2026-08-10T10:24:46.337666210Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:22.020977467Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 35,
-  "translation": "Basi huduma yote ya Yahweh ikaezekwa siku hiyo, ili kufanya Pasaka na kutoa ⟨⟨the⟩⟩ dhabihu za kuchomwa juu ya madhabahu ya Yahweh, kama amri ya mfalme Yoshiyahu.",
+  "translation": "Tena huduma yote ya Yahweh iliandaliwa siku hiyo, kufanya Pasaka na kutoa sadaka za kuchomwa juu ya madhabahu ya Yahweh, kufuatana na amri ya mfalme Yoshiyahu.",
   "tokens": [
     {
       "surface": "ותכון",
-      "gloss": "ikaezekwa"
+      "gloss": "iliandaliwa"
     },
     {
       "surface": "כל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "ביום",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "ili kufanya"
+      "gloss": "kufanya"
     },
     {
       "surface": "הפסח",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "עלות",
-      "gloss": "dhabihu za kuchomwa"
+      "gloss": "sadaka za kuchomwa"
     },
     {
       "surface": "על",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "כמצות",
-      "gloss": "kama amri ya"
+      "gloss": "kufuatana na amri"
     },
     {
       "surface": "המלך",
@@ -72,6 +72,6 @@
       "gloss": "Yoshiyahu"
     }
   ],
-  "timestamp": "2026-08-10T15:47:35.763338498Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:54.655131925Z",
+  "model": "glm-5.3"
 }

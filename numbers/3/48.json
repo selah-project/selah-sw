@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Na utampa ⟨the⟩ fedaha Aharoni na kwa wana wake, ⟨hiyo ya⟩ wa kuombwa fidia ziada miongoni mwao.",
+  "translation": "Nawe utampa ⟨את⟩ fedha hiyo Aharoni na wana wake, ni fidia ya waliokithidi miongoni mwao.",
   "tokens": [
     {
       "surface": "ונתתה",
-      "gloss": "Na utampa"
+      "gloss": "utampa"
     },
     {
       "surface": "הכסף",
-      "gloss": "fedaha"
+      "gloss": "fedha hiyo"
     },
     {
       "surface": "לאהרן",
@@ -21,21 +21,21 @@
     },
     {
       "surface": "ולבניו",
-      "gloss": "na kwa wana wake"
+      "gloss": "na wana wake"
     },
     {
       "surface": "פדויי",
-      "gloss": "wa kuombwa fidia"
+      "gloss": "fidia ya"
     },
     {
       "surface": "העדפים",
-      "gloss": "ziada"
+      "gloss": "waliokithidi"
     },
     {
       "surface": "בהם",
       "gloss": "miongoni mwao"
     }
   ],
-  "timestamp": "2026-08-10T10:40:40.348870583Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:54.916024789Z",
+  "model": "glm-5.3"
 }

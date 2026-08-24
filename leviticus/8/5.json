@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Na Moshe akamwambia ⟨העדה⟩: Hili ndilo neno ambalo Yahweh ameamrisha kufanywa.",
+  "translation": "Na Moshe akasema kwa ⟨wahudhuriaji⟩: Hili ni neno ambalo Yahweh ameamuru lifanywe.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na akamwambia"
+      "gloss": "akasema"
     },
     {
       "surface": "משה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "העדה",
-      "gloss": "⟨jumuiya⟩"
+      "gloss": "⟨wahudhuriaji⟩"
     },
     {
       "surface": "זה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "ndilo neno"
+      "gloss": "ni neno"
     },
     {
       "surface": "אשר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "ameamrisha"
+      "gloss": "ameamuru"
     },
     {
       "surface": "יהוה",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "kufanywa"
+      "gloss": "lifanywe"
     }
   ],
-  "timestamp": "2026-08-10T10:33:06.706831878Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:22.802532517Z",
+  "model": "glm-5.3"
 }

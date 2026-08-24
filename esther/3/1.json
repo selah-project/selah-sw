@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Baada ya mambo haya mfalume Achashverosh alimkuza ⟨את⟩ Haman mwana wa Hamdata Mwagagi, akamwinua, akaweka kiti chake juu ya wakuu wote walio pamoja naye.",
+  "translation": "Baada ya mambo haya mfalme Achashverosh alimkuza Haman mwana wa Hamedata Mwagagi, akamwinua, akaweka kiti chake juu ya wakuu wote waliokuwa ⟨את⟩ pamoja naye.",
   "tokens": [
     {
       "surface": "אחר",
-      "gloss": "Baada ya"
+      "gloss": "baada ya"
     },
     {
       "surface": "הדברים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "mfalume"
+      "gloss": "mfalme"
     },
     {
       "surface": "אחשורוש",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "המדתא",
-      "gloss": "Hamdata"
+      "gloss": "Hamedata"
     },
     {
       "surface": "האגגי",
@@ -83,13 +83,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "walio"
+      "gloss": "aliokuwa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩ pamoja naye"
+      "gloss": "⟨את⟩ pamoja naye"
     }
   ],
-  "timestamp": "2026-08-10T16:25:03.609366504Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:04.193942338Z",
+  "model": "glm-5.3"
 }

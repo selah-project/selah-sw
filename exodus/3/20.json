@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Nami nitaunyosha mkono wangu ⟨⟨את⟩⟩, nikipiga Mitsrayim kwa ⟨⟨את⟩⟩ ajabu zangu zote nitakazozifanya kati yake; na baada ya hayo atakuwaacheni.",
+  "translation": "Nami nitanyoosha ⟨את⟩ mkono wangu, nikipiga ⟨את⟩ Mitsrayim kwa maajabu yangu yote nitakayoyafanya katikati yake; na baada ya hayo atawatuma ⟨את⟩ nyinyi mwende.",
   "tokens": [
     {
       "surface": "ושלחתי",
-      "gloss": "Nami nitaunyosha"
+      "gloss": "nami nitanyoosha"
     },
     {
       "surface": "את",
@@ -35,42 +35,42 @@
     },
     {
       "surface": "בכל",
-      "gloss": "kwa"
+      "gloss": "kwa yote"
     },
     {
       "surface": "נפלאתי",
-      "gloss": "ajabu zangu"
+      "gloss": "maajabu yangu"
     },
     {
       "surface": "אשר",
-      "gloss": "zote"
+      "gloss": "nitakayoyafanya"
     },
     {
       "surface": "אעשה",
-      "gloss": "nitakazozifanya"
+      "gloss": "nitakayoyafanya"
     },
     {
       "surface": "בקרבו",
-      "gloss": "kati yake"
+      "gloss": "katikati yake"
     },
     {
       "surface": "ואחרי",
-      "gloss": "na baada"
+      "gloss": "na baada ya"
     },
     {
       "surface": "כן",
-      "gloss": "ya hayo"
+      "gloss": "hayo"
     },
     {
       "surface": "ישלח",
-      "gloss": "atakuwaacheni"
+      "gloss": "atawatuma"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩ nyinyi",
+      "marks": "nyinyi"
     }
   ],
-  "timestamp": "2026-08-10T10:19:00.229764858Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:49.873083488Z",
+  "model": "glm-5.3"
 }

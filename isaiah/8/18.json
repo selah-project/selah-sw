@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Tazama, mimi na watoto ambao Yahweh amewapa ⟨⟨את⟩⟩ mimi, kwa alama na maajabu ndani ya Yisrael, kutoka kwa Yahweh Tzevaot, anayekaa katika mlima Tziyon.",
+  "translation": "Tazama, mimi na watoto ambao Yahweh amenipa ni ishara na maajabu katika Yisrael, kutoka kwa Yahweh Tsevaot, anayekaa katika mlima wa Tsiyoni.",
   "tokens": [
     {
       "surface": "הנה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "נתן",
-      "gloss": "amewapa"
+      "gloss": "amenipa"
     },
     {
       "surface": "לי",
-      "gloss": "mimi"
+      "gloss": "⟨ni⟩"
     },
     {
       "surface": "יהוה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לאתות",
-      "gloss": "kwa alama"
+      "gloss": "ni ishara"
     },
     {
       "surface": "ולמופתים",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "בישראל",
-      "gloss": "ndani ya Yisrael"
+      "gloss": "katika Yisrael"
     },
     {
       "surface": "מעם",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tzevaot"
+      "gloss": "Tsevaot"
     },
     {
       "surface": "השכן",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "ציון",
-      "gloss": "Tziyon"
+      "gloss": "wa Tsiyoni"
     }
   ],
-  "timestamp": "2026-08-10T11:55:27.854075526Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:31.005069044Z",
+  "model": "glm-5.3"
 }

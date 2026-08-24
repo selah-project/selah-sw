@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 36,
-  "translation": "Hata nifikapo, nami nikawachukueni ⟨אתכם⟩ kwenda nchi kama nchi yenu, nchi ya nafaka na divai mpya, nchi ya mkate na mashamba ya mizabibu.",
+  "translation": "Hata nitakapokuja nikawachukueni ⟨את⟩ ninyi kwenda nchi kama nchi yenu, nchi ya nafaka na divai mpya, nchi ya mkate na mizabibu.",
   "tokens": [
     {
       "surface": "עד",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "באי",
-      "gloss": "nikifika"
+      "gloss": "nitakapokuja"
     },
     {
       "surface": "ולקחתי",
-      "gloss": "nami nikawachukueni"
+      "gloss": "nikawachukueni"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩",
       "marks": "ninyi"
     },
     {
@@ -58,9 +58,9 @@
     },
     {
       "surface": "וכרמים",
-      "gloss": "na mashamba ya mizabibu"
+      "gloss": "na mizabibu"
     }
   ],
-  "timestamp": "2026-08-10T16:07:16.758635077Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:40.452718815Z",
+  "model": "glm-5.3"
 }

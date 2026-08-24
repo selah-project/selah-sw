@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 25,
-  "translation": "Na ⟨itakuwa⟩, kwa kumalizika kwake miaka sabini, nitamtembelea mfalme wa Bavel na taifa hilo — neno la Yahweh — ⟨kwa⟩ ⟨את⟩ uovu wao, na ⟨kwa⟩ nchi ya Washalde; nami nitaiweza ⟨אתו⟩ kwa maporomoko ya milele.",
+  "translation": "Na itakuwa, mikamilipo miaka sabini, nitawatahadhari ⟨את⟩ makosa yao mfalme wa Baveli na taifa hilo, ninena Yahweh, na ⟨mimi⟩ nitalitenda hiyo nchi ya Wakashdi, na nitaweka ⟨את⟩ hiyo ⟨kuwa⟩ ukiwa wa milele.",
   "tokens": [
     {
       "surface": "והיה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "כמלאות",
-      "gloss": "kwa kumalizika kwake"
+      "gloss": "mikamilipo"
     },
     {
       "surface": "שבעים",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אפקד",
-      "gloss": "nitamtembelea"
+      "gloss": "nitawatahadhari"
     },
     {
       "surface": "על",
-      "gloss": "(kwa)"
+      "gloss": "juu ya"
     },
     {
       "surface": "מלך",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Bavel"
+      "gloss": "Baveli"
     },
     {
       "surface": "ועל",
-      "gloss": "na kwa"
+      "gloss": "na juu ya"
     },
     {
       "surface": "הגוי",
-      "gloss": "taifa"
+      "gloss": "taifa hilo"
     },
     {
       "surface": "ההוא",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "neno la"
+      "gloss": "ninena"
     },
     {
       "surface": "יהוה",
@@ -62,42 +62,42 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uovu wao"
+      "marks": "makosa yao"
     },
     {
       "surface": "עונם",
-      "gloss": "uovu wao"
+      "gloss": "makosa yao"
     },
     {
       "surface": "ועל",
-      "gloss": "na kwa"
+      "gloss": "na juu ya"
     },
     {
       "surface": "ארץ",
-      "gloss": "nchi"
+      "gloss": "nchi ya"
     },
     {
       "surface": "כשדים",
-      "gloss": "Washalde"
+      "gloss": "Wakashdi"
     },
     {
       "surface": "ושמתי",
-      "gloss": "nami nitaiweza"
+      "gloss": "na nitaweka"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "maporomoko ya milele"
+      "gloss": "⟨את⟩",
+      "marks": "hiyo (nchi)"
     },
     {
       "surface": "לשממות",
-      "gloss": "kwa maporomoko"
+      "gloss": "kuwa ukiwa"
     },
     {
       "surface": "עולם",
-      "gloss": "ya milele"
+      "gloss": "wa milele"
     }
   ],
-  "timestamp": "2026-08-10T16:09:59.804980337Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:16.035554795Z",
+  "model": "glm-5.3"
 }

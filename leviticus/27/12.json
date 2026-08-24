@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 27,
-  "translation": "Naye kuhani atamthamini ⟨אתה⟩ kati ya jema na kati ya baya; kama ithibati yako, ee kuhani, ndivyo itakavyokuwa.",
+  "translation": "Na kuhani ataihakiki ⟨את⟩ kati ya ⟨⟨⟩⟩iyo nzuri na iyo mbaya; kama ihaki yako, ewe kuhani, ndivyo itakavyokuwa.",
   "tokens": [
     {
       "surface": "והעריך",
-      "gloss": "Naye atamthamini"
+      "gloss": "nayahakiki"
     },
     {
       "surface": "הכהן",
@@ -18,7 +18,7 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "kati ya jema na baya"
+      "marks": "iyo (mnyama)"
     },
     {
       "surface": "בין",
@@ -26,23 +26,23 @@
     },
     {
       "surface": "טוב",
-      "gloss": "jema"
+      "gloss": "iyo nzuri"
     },
     {
       "surface": "ובין",
-      "gloss": "na kati ya"
+      "gloss": "na"
     },
     {
       "surface": "רע",
-      "gloss": "baya"
+      "gloss": "iyo mbaya"
     },
     {
       "surface": "כערכך",
-      "gloss": "kama ithibati yako"
+      "gloss": "kama ihaki yako"
     },
     {
       "surface": "הכהן",
-      "gloss": "ee kuhani"
+      "gloss": "ewe kuhani"
     },
     {
       "surface": "כן",
@@ -53,6 +53,6 @@
       "gloss": "itakavyokuwa"
     }
   ],
-  "timestamp": "2026-08-10T14:36:31.979463008Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:31.181237307Z",
+  "model": "glm-5.3"
 }

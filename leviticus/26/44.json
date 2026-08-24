@@ -5,27 +5,27 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 26,
-  "translation": "Lakini hata hivyo, wakati wao wanakuwa nchi ya maadui zao, sikukataa wala sikuchukia kuwatelekeza kabisa, ili kuvunja agano langu ⟨אתם⟩, kwa maana mimi Yahweh Elohim wao.",
+  "translation": "Na hata pamoja na hayo, watakapokuwa katika nchi ya maadui zao, siwatachuki wala siwakatai hata kuwamaliza kabisa wala kuvunja agano langu ⟨אתם⟩ pamoja nao; kwa maana mimi ndimi Yahweh Elohim wao.",
   "tokens": [
     {
       "surface": "ואף",
-      "gloss": "Lakini"
+      "gloss": "Na hata pamoja na hayo"
     },
     {
       "surface": "גם",
-      "gloss": "hata"
+      "gloss": "pia"
     },
     {
       "surface": "זאת",
-      "gloss": "hivyo"
+      "gloss": "hizo"
     },
     {
       "surface": "בהיותם",
-      "gloss": "wakati wao wanakuwa"
+      "gloss": "watakapokuwa"
     },
     {
       "surface": "בארץ",
-      "gloss": "nchi"
+      "gloss": "katika nchi"
     },
     {
       "surface": "איביהם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מאסתים",
-      "gloss": "kukataa"
+      "gloss": "siwatachuki"
     },
     {
       "surface": "ולא",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "געלתים",
-      "gloss": "kuchukia"
+      "gloss": "siwakatai"
     },
     {
       "surface": "לכלתם",
-      "gloss": "kuwatelekeza kabisa"
+      "gloss": "hata kuwamaliza kabisa"
     },
     {
       "surface": "להפר",
-      "gloss": "ili kuvunja"
+      "gloss": "wala kuvunja"
     },
     {
       "surface": "בריתי",
@@ -61,8 +61,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "agano langu"
+      "gloss": "⟨את⟩",
+      "marks": "pamoja nao (agano langu)"
     },
     {
       "surface": "כי",
@@ -81,6 +81,6 @@
       "gloss": "Elohim wao"
     }
   ],
-  "timestamp": "2026-08-10T14:37:20.066268885Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:57.727491247Z",
+  "model": "glm-5.3"
 }

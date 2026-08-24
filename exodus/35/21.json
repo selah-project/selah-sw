@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 35,
-  "translation": "Wakaja kila mtu ambaye moyo wake ulimuinua, na kila ⟨aliye⟩ ambaye roho yake ilimtia ⟨shauku⟩ ⟨⟨את⟩ alilete⟩: wakileta ⟨את⟩ toleo la Yahweh kwa ajili ya kazi ya hema ya mkutano, na kwa ajili ya kazi yake yote, na kwa ajili ya nguo za kitakatifu.",
+  "translation": "Wakaja kila mtu ambaye moyo wake ulimwinua, na kila mtu ambaye roho yake ilimtia moyo wa hiari, wakileta ⟨את⟩ toleo la Yahweh kwa kazi ya hema ya mkutano, na kwa kazi yake yote, na kwa mavazi ya ⟨holinessi⟩ yote ya patakatifu.",
   "tokens": [
     {
       "surface": "ויבאו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נשאו",
-      "gloss": "uliinua"
+      "gloss": "ulimwinua"
     },
     {
       "surface": "לבו",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נדבה",
-      "gloss": "ilimtia shauku"
+      "gloss": "ilimtia moyo wa hiari"
     },
     {
       "surface": "רוחו",
@@ -49,7 +49,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ alilete"
+      "gloss": "⟨את⟩",
+      "marks": "yule mtu (aliyewekwa alama)"
     },
     {
       "surface": "הביאו",
@@ -58,7 +59,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "toleo"
+      "marks": "toleo la Yahweh"
     },
     {
       "surface": "תרומת",
@@ -66,15 +67,15 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "la Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "למלאכת",
-      "gloss": "kwa ajili ya kazi"
+      "gloss": "kwa kazi ya"
     },
     {
       "surface": "אהל",
-      "gloss": "ya hema"
+      "gloss": "hema"
     },
     {
       "surface": "מועד",
@@ -82,21 +83,21 @@
     },
     {
       "surface": "ולכל",
-      "gloss": "na kwa ajili ya"
+      "gloss": "na kwa kazi yote"
     },
     {
       "surface": "עבדתו",
-      "gloss": "kazi yake yote"
+      "gloss": "yake"
     },
     {
       "surface": "ולבגדי",
-      "gloss": "na kwa ajili ya nguo"
+      "gloss": "na kwa mavazi ya"
     },
     {
       "surface": "הקדש",
-      "gloss": "za kitakatifu"
+      "gloss": "patakatifu"
     }
   ],
-  "timestamp": "2026-08-10T14:33:08.913548740Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:49.529035231Z",
+  "model": "glm-5.3"
 }

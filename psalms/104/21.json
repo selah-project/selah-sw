@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 104,
-  "translation": "⟨The⟩ simba dume wananguruma kwa mawindo, na kutafuta chakula chao kutoka kwa ⟨עֵל⟩ El.",
+  "translation": "Wakubwa-kundu wananguruma kwa mawindo yao, na kutafuta chakula chao kutoka kwa El.",
   "tokens": [
     {
       "surface": "הכפירים",
-      "gloss": "simba dume"
+      "gloss": "wakubwa-kundu"
     },
     {
       "surface": "שאגים",
@@ -32,6 +32,6 @@
       "gloss": "chakula chao"
     }
   ],
-  "timestamp": "2026-08-10T13:13:03.512505225Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:25.757805837Z",
+  "model": "glm-5.3"
 }

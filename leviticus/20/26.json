@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 20,
-  "translation": "Na mtakuwa wakfu kwangu; maana mimi ni mtakatifu, mimi Yahweh; nami nimetengueni ⟨אתכם⟩ kutoka mataifa kuwa ⟨ninyi⟩ wangu.",
+  "translation": "Nanyi mtakuwa watakatifu kwangu, kwa maana mimi ni mtakatifu, mimi Yahweh; nami niliwatenganisha nyinyi ⟨אתכם⟩ kutoka mataifa ili muwe wangu.",
   "tokens": [
     {
       "surface": "והייתם",
-      "gloss": "na mtakuwa"
+      "gloss": "nanyi mtakuwa"
     },
     {
       "surface": "לי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "קדשים",
-      "gloss": "wakfu"
+      "gloss": "watakatifu"
     },
     {
       "surface": "כי",
-      "gloss": "maana"
+      "gloss": "kwa maana"
     },
     {
       "surface": "קדוש",
@@ -37,12 +37,12 @@
     },
     {
       "surface": "ואבדל",
-      "gloss": "nami nimetengueni"
+      "gloss": "nami niliwatenganisha"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
     },
     {
       "surface": "מן",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "להיות",
-      "gloss": "kuwa"
+      "gloss": "ili muwe"
     },
     {
       "surface": "לי",
       "gloss": "wangu"
     }
   ],
-  "timestamp": "2026-08-10T14:35:13.159601796Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:10.133065381Z",
+  "model": "glm-5.3"
 }

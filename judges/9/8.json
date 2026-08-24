@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 9,
-  "translation": "Walikuwa wakitembea, miti ile, kwenda kumpaka ⟨⟨mfalme juu yao, wakamwambia mzeituni: \"Ufalme juu yetu!\"",
+  "translation": "Kwenda walikwenda miti, kulipaka juu yao mfalme; nao wakamwambia mzeituni: «Ufalme juu yetu.»",
   "tokens": [
     {
       "surface": "הלוך",
-      "gloss": "Walikuwa wakitembea"
+      "gloss": "Kwenda"
     },
     {
       "surface": "הלכו",
-      "gloss": "wakatembea"
+      "gloss": "walikwenda"
     },
     {
       "surface": "העצים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "למשח",
-      "gloss": "kwenda kumpaka"
+      "gloss": "kulipaka"
     },
     {
       "surface": "עליהם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "⟨mfalme⟩"
+      "gloss": "mfalme"
     },
     {
       "surface": "ויאמרו",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "מלוכה",
-      "gloss": "\"Ufalme"
+      "gloss": "Ufalme"
     },
     {
       "surface": "עלינו",
-      "gloss": "juu yetu!\""
+      "gloss": "juu yetu"
     }
   ],
-  "timestamp": "2026-08-10T11:14:45.905643335Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:03.073484041Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Rudini, enye wana wa kupotoka, nellamu ya Yahweh, maana mimi nimekuwa bwana harusi wenu, na nitawachukua ⟨⟨אתכם⟩⟩ mmoja kutoka mji, na wawili kutoka familia, na nitawaleta ⟨⟨אתכם⟩⟩ Tsiyoni.",
+  "translation": "Rudini, enyi wana waliopotoka, ni utamkazo wa Yahweh, kwa maana mimi nimewaoa ⟨את⟩ ninyi; nami nitawachukua ⟨את⟩ ninyi, mmoja kutoka mji, na wawili kutoka familia, nami nitawaleta ⟨את⟩ ninyi Tzioni.",
   "tokens": [
     {
       "surface": "שובו",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "בנים",
-      "gloss": "enye wana"
+      "gloss": "enyi wana"
     },
     {
       "surface": "שובבים",
-      "gloss": "wa kupotoka"
+      "gloss": "waliopotoka"
     },
     {
       "surface": "נאם",
-      "gloss": "nellamu ya"
+      "gloss": "ni utamkaso wa"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "maana"
+      "gloss": "kwa maana"
     },
     {
       "surface": "אנכי",
@@ -37,20 +37,20 @@
     },
     {
       "surface": "בעלתי",
-      "gloss": "nimekuwa bwana harusi"
+      "gloss": "nimewaoa"
     },
     {
       "surface": "בכם",
-      "gloss": "wenu"
+      "gloss": "ninyi"
     },
     {
       "surface": "ולקחתי",
-      "gloss": "na nitawachukua"
+      "gloss": "nami nitawachukua"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "mmoja…wawili"
+      "gloss": "⟨את⟩",
+      "marks": "ninyi (mmoja kutoka mji na wawili kutoka familia)"
     },
     {
       "surface": "אחד",
@@ -70,18 +70,18 @@
     },
     {
       "surface": "והבאתי",
-      "gloss": "na nitawaleta"
+      "gloss": "nami nitawaleta"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "Tsiyoni"
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
     },
     {
       "surface": "ציון",
-      "gloss": "Tsiyoni"
+      "gloss": "Tzioni"
     }
   ],
-  "timestamp": "2026-08-10T12:11:12.652825925Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:39.417296967Z",
+  "model": "glm-5.3"
 }

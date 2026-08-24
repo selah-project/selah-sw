@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 19,
-  "translation": "Na sasa ⟨⟨ame⟩⟩pandishwa jangwani, katika nchi ya ukame na kiu.",
+  "translation": "Na sasa ⟨ime⟩pandwa ⟨katika⟩ jangwa, katika nchi ya ukame na kiu.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "שתולה",
-      "gloss": "⟨ame⟩pandishwa"
+      "gloss": "⟨ime⟩pandwa"
     },
     {
       "surface": "במדבר",
-      "gloss": "jangwani"
+      "gloss": "⟨katika⟩ jangwa"
     },
     {
       "surface": "בארץ",
@@ -32,6 +32,6 @@
       "gloss": "na kiu"
     }
   ],
-  "timestamp": "2026-08-10T12:30:43.110474260Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:03.326571600Z",
+  "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 89,
-  "translation": "Heri ni ⟨ya⟩ ⟨⟨the⟩⟩ watu wanaojua mlio wa shangwe; Yahweh, katika nuru ya uso wako ⟨wao⟩ huenda.",
+  "translation": "Heri ya ⟨the⟩ watu wanaojua kelele ⟨la⟩ shangwe; Yahweh, katika nuru ya uso wako wanatembea.",
   "tokens": [
     {
       "surface": "אשרי",
-      "gloss": "Heri"
+      "gloss": "Heri ya"
     },
     {
       "surface": "העם",
-      "gloss": "ya watu"
+      "gloss": "⟨the⟩ watu"
     },
     {
       "surface": "יודעי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תרועה",
-      "gloss": "mlio wa shangwe"
+      "gloss": "kelele ⟨la⟩ shangwe"
     },
     {
       "surface": "יהוה",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "באור",
-      "gloss": "katika nuru"
+      "gloss": "katika nuru ya"
     },
     {
       "surface": "פניך",
-      "gloss": "ya uso wako"
+      "gloss": "uso wako"
     },
     {
       "surface": "יהלכון",
-      "gloss": "huenda"
+      "gloss": "wanatembea"
     }
   ],
-  "timestamp": "2026-08-10T16:18:31.778743906Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:38.299678991Z",
+  "model": "glm-5.3"
 }

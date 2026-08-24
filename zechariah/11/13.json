@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "sw",
   "chapter": 11,
-  "translation": "Akaniambia Yahweh: Kitupe kile cha kupiga chuma, ⟨thamani⟩ ya heshima niliyopewa nao. Basi nikachukua thelathini ⟨vya⟩ fedha, nikavitupa ⟨את⟩ ⟨הן⟩ ndani ya nyumba ya Yahweh, kile cha kupiga chuma.",
+  "translation": "Naye Yahweh akaniambia: Itupe hiyo kwa mfinyanzi — ndoano ya thamani ambayo nilithaminiwa nao — nikachukua thelathini ⟨shekeli⟩ za fedha, nikazitupa ⟨את⟩ nyumbani mwa Yahweh, kwa mfinyanzi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Akaniambia"
+      "gloss": "akaniambia"
     },
     {
       "surface": "יהוה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אלי",
-      "gloss": "kwamba"
+      "gloss": "kwamba mimi"
     },
     {
       "surface": "השליכהו",
-      "gloss": "kitupe"
+      "gloss": "Itupe"
     },
     {
       "surface": "אל",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "היוצר",
-      "gloss": "kile cha kupiga chuma"
+      "gloss": "mfinyanzi"
     },
     {
       "surface": "אדר",
-      "gloss": "⟨thamani⟩"
+      "gloss": "hiyo"
     },
     {
       "surface": "היקר",
-      "gloss": "ya heshima"
+      "gloss": "ndoano ya thamani"
     },
     {
       "surface": "אשר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "יקרתי",
-      "gloss": "niliyopewa"
+      "gloss": "nilithaminiwa"
     },
     {
       "surface": "מעליהם",
@@ -61,24 +61,24 @@
     },
     {
       "surface": "הכסף",
-      "gloss": "⟨vya⟩ fedha"
+      "gloss": "za fedha"
     },
     {
       "surface": "ואשליך",
-      "gloss": "nikavitupa"
+      "gloss": "nikazitupa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨הן⟩",
-      "marks": "vya fedha"
+      "gloss": "⟨את⟩",
+      "marks": "hiyo (thelathini za fedha)"
     },
     {
       "surface": "בית",
-      "gloss": "ndani ya nyumba"
+      "gloss": "nyumbani mwa"
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אל",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "היוצר",
-      "gloss": "kile cha kupiga chuma"
+      "gloss": "mfinyanzi"
     }
   ],
-  "timestamp": "2026-08-10T12:53:31.262056546Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.306972480Z",
+  "model": "glm-5.3"
 }

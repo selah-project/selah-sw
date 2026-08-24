@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "sw",
   "chapter": 24,
-  "translation": "Lakini sikutaka kusikiliza Bileamu, naye akawabariki, ndipo nikawatoa ⟨את׾enu⟩ katika mkono wake.",
+  "translation": "Lakini mimi sikutaka kusikiliza Bileam, naye akawabariki ⟨אתכם⟩ tena na tena, nikawatoa ⟨אתכם⟩ katika mkono wake.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Lakini si"
+      "gloss": "Lakini... si"
     },
     {
       "surface": "אביתי",
@@ -21,35 +21,35 @@
     },
     {
       "surface": "לבלעם",
-      "gloss": "Bileamu"
+      "gloss": "Bileam"
     },
     {
       "surface": "ויברך",
-      "gloss": "naye akawabariki"
+      "gloss": "akawabariki"
     },
     {
       "surface": "ברוך",
-      "gloss": "kwa kukujuza"
+      "gloss": "tena na tena"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את׾enu⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "ninyi (kiwango cha baraka)"
     },
     {
       "surface": "ואצל",
-      "gloss": "ndipo nikawatoa"
+      "gloss": "nikawatoa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את׾enu⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "ninyi (waliookotwa)"
     },
     {
       "surface": "מידו",
       "gloss": "katika mkono wake"
     }
   ],
-  "timestamp": "2026-08-10T15:59:17.703346492Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.384500544Z",
+  "model": "glm-5.3"
 }

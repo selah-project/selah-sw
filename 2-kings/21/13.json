@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 21,
-  "translation": "Nami nitanyosha juu ya Yerushalayim ⟨את kamba ya⟩ Shomeron, na ⟨את tufe la⟩ nyumba ya Achav; na nitafuta ⟨את⟩ Yerushalayim kama mtu anavyofuta ⟨את⟩ sahani — akifuta na kuigeuza uso wake chini.",
+  "translation": "Nami nitalainisha juu ya Yerushalayim ⟨את⟩ kamba ya Shomron na ⟨את⟩ plamu ya nyumba ya Ahav, na nitafuta ⟨את⟩ Yerushalayim kama mtu anavyofuta ⟨את⟩ bakuli — akilifuta na kuligeuza juu chini.",
   "tokens": [
     {
       "surface": "ונטיתי",
-      "gloss": "nami nitanyosha"
+      "gloss": "nitalainisha"
     },
     {
       "surface": "על",
@@ -22,24 +22,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kamba ya Shomeron"
+      "marks": "kamba ya Shomron"
     },
     {
       "surface": "קו",
-      "gloss": "kamba ya"
+      "gloss": "kamba ya kipimo"
     },
     {
       "surface": "שמרון",
-      "gloss": "Shomeron"
+      "gloss": "Shomron"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "tufe la nyumba ya Achav"
+      "marks": "plamu ya nyumba ya Ahav"
     },
     {
       "surface": "משקלת",
-      "gloss": "tufe la"
+      "gloss": "plamu"
     },
     {
       "surface": "בית",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "אחאב",
-      "gloss": "Achav"
+      "gloss": "Ahav"
     },
     {
       "surface": "ומחיתי",
@@ -73,29 +73,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sahani"
+      "marks": "bakuli"
     },
     {
       "surface": "הצלחת",
-      "gloss": "sahani"
+      "gloss": "bakuli"
     },
     {
       "surface": "מחה",
-      "gloss": "akifuta"
+      "gloss": "akilifuta"
     },
     {
       "surface": "והפך",
-      "gloss": "na kuigeuza"
+      "gloss": "na kuligeuza"
     },
     {
       "surface": "על",
-      "gloss": "uso"
+      "gloss": "juu chini"
     },
     {
       "surface": "פניה",
-      "gloss": "wake chini"
+      "gloss": "uso wake"
     }
   ],
-  "timestamp": "2026-08-10T17:47:57.342446529Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:08.137763382Z",
+  "model": "glm-5.3"
 }

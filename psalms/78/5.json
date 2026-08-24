@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 78,
-  "translation": "Akaiinua ⟨⟨shahidi⟩⟩ mashahidi katika Yaakov, na torati akaiweka katika Yisrael, aliyoiamuru ⟨את⟩ baba zetu, ili kuwajulisha wao kwa wana wao.",
+  "translation": "Maana aliweka shahada ⟨the⟩ ya Yahweh katika Yaakov, na torati aliweka ⟨pia⟩ katika Yisrael, aliyoiamuru ⟨את⟩ kwa baba zetu, ili wawafundishe wanawe.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "akaiinua"
+      "gloss": "aliweka"
     },
     {
       "surface": "עדות",
-      "gloss": "mashahidi"
+      "gloss": "shahada"
     },
     {
       "surface": "ביעקב",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "akaiweka"
+      "gloss": "aliweka"
     },
     {
       "surface": "בישראל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "aliagiza"
+      "gloss": "aliyoiamuru ⟨pia⟩"
     },
     {
       "surface": "את",
@@ -50,13 +50,13 @@
     },
     {
       "surface": "להודיעם",
-      "gloss": "ili kuwajulisha wao"
+      "gloss": "ili wawafundishe"
     },
     {
       "surface": "לבניהם",
-      "gloss": "kwa wana wao"
+      "gloss": "wanawe"
     }
   ],
-  "timestamp": "2026-08-10T13:08:11.528635388Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:50.586677069Z",
+  "model": "glm-5.3"
 }

@@ -5,57 +5,67 @@
   "book": "amos",
   "lang": "sw",
   "chapter": 5,
-  "translation": "Hata mkitolea ⟨⟨kwangu⟩⟩ sadaka za kuchomwa na toleo zenu, sitazipokea; wala ⟨⟨sitaangalia⟩⟩ toleo za amani za ng'ombe wenu wa kulevyo sitaangalia.",
+  "translation": "Kwa maana mjapo kuinua kwangu ⟨את⟩ dhabihu za kuchoma na ⟨את⟩ toleo lenu la nafaka, sitakubali; na sadaka ya amani ya ng'ombe wenu wanenopwa sitazitazama.",
   "tokens": [
     {
-      "surface": "כִּ֣י",
-      "gloss": "Hata"
+      "surface": "כי",
+      "gloss": "Kwa maana"
     },
     {
-      "surface": "אִם",
-      "gloss": "ikiwa"
+      "surface": "אם",
+      "gloss": "japo"
     },
     {
-      "surface": "תַּעֲלוּ",
-      "gloss": "mkitolea"
+      "surface": "תעלו",
+      "gloss": "kuinua"
     },
     {
-      "surface": "לִ֥י",
+      "surface": "לי",
       "gloss": "kwangu"
     },
     {
-      "surface": "עֹל֛וֹת",
-      "gloss": "sadaka za kuchomwa"
+      "surface": "עלות",
+      "gloss": "dhabihu za kuchoma"
     },
     {
-      "surface": "וּמִנְחֹתֵיכֶ֖ם",
-      "gloss": "na toleo zenu"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhabihu za kuchoma"
     },
     {
-      "surface": "לֹ֣א",
-      "gloss": "sitazipokea"
+      "surface": "ומנחתיכם",
+      "gloss": "na toleo lenu la nafaka"
     },
     {
-      "surface": "אֶרְצֶ֑ה",
-      "gloss": "sitazipokea"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toleo lenu la nafaka"
     },
     {
-      "surface": "וְשֶׁ֥לֶם",
-      "gloss": "na toleo za amani"
+      "surface": "לא",
+      "gloss": "si"
     },
     {
-      "surface": "מְרִיאֵיכֶ֖ם",
-      "gloss": "za ng'ombe wenu wa kulevyo"
+      "surface": "ארצה",
+      "gloss": "takubali"
     },
     {
-      "surface": "לֹ֥א",
-      "gloss": "sitaangalia"
+      "surface": "ושלם",
+      "gloss": "na sadaka ya amani"
     },
     {
-      "surface": "אַבִּֽיט",
-      "gloss": "sitaangalia"
+      "surface": "מריאיכם",
+      "gloss": "ya ng'ombe wenu wanenopwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "tazama"
     }
   ],
-  "timestamp": "2026-08-10T12:45:42.384431179Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:20.269222361Z",
+  "model": "glm-5.3"
 }

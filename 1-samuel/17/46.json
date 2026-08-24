@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 17,
-  "translation": "Siku hii Yahweh atakukabidhi ⟨⟨את⟩⟩ mkononi mwangu, nami nitakupiga, nami nitaondoa kichwa chako kutoka juu yako, nami nitawapa maiti ya kambi ya Wapelishti siku hii ndege wa mbinguni na wanyama wa nchi; watajua nchi yote kwamba kuna Elohim kwa Yisrael.",
+  "translation": "Siku hii Yahweh atakutia mkononi mwangu, nami nitakupiga, na nitowa ⟨את⟩ kichwa chako kutoka juu yako, nami nitawapa maiti ya kambi ya Wafilisti siku hii ndege wa mbingu na wanyama wa nchi; na nchi yote ijue kwamba kuna Elohim kwa Yisrael.",
   "tokens": [
     {
       "surface": "היום",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יסגרך",
-      "gloss": "atakukabidhi"
+      "gloss": "atakutia"
     },
     {
       "surface": "יהוה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "והסרתי",
-      "gloss": "nami nitaondoa"
+      "gloss": "na nitowa"
     },
     {
       "surface": "את",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "מחנה",
-      "gloss": "ya kambi"
+      "gloss": "kambi"
     },
     {
       "surface": "פלשתים",
-      "gloss": "ya Wapelishti"
+      "gloss": "ya Wafilisti"
     },
     {
       "surface": "היום",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "השמים",
-      "gloss": "mbinguni"
+      "gloss": "mbingu"
     },
     {
       "surface": "ולחית",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "וידעו",
-      "gloss": "watajua"
+      "gloss": "na ijue"
     },
     {
       "surface": "כל",
@@ -117,6 +117,6 @@
       "gloss": "kwa Yisrael"
     }
   ],
-  "timestamp": "2026-08-10T14:53:04.829463356Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:44.378496675Z",
+  "model": "glm-5.3"
 }

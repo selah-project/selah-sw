@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 27,
-  "translation": "Nami niliwaambia pia ⟨⟨kwa⟩⟩ makuhani na kwa taifa lote hili, nikisema: Hivi anasema Yahweh: Msisikilize maneno ya manabii zenu wanaotabiri kwenu, wakisema: Tazama, vyombo vya nyumba ya Yahweh vinarudishwa kutoka Bavel sasa upesi; kwa maana uongo, wao wanatabiri kwenu.",
+  "translation": "Na kwa makuhani na kwa watu wote hawa nimezungumza, nisema: Ndivivo alivyosema Yahweh: Msikilize maneno ya manabii wenu wanaotabiri kwenu, wakisema: Tazama, vyombo vya nyumba ya Yahweh vitarudishwa kutoka Baveli sasa hivi haraka; kwa maana uongo ndiyo wanawatabiria.",
   "tokens": [
     {
       "surface": "ואל",
@@ -21,31 +21,31 @@
     },
     {
       "surface": "כל",
-      "gloss": "lote"
+      "gloss": "wote"
     },
     {
       "surface": "העם",
-      "gloss": "taifa"
+      "gloss": "watu"
     },
     {
       "surface": "הזה",
-      "gloss": "hili"
+      "gloss": "hawa"
     },
     {
       "surface": "דברתי",
-      "gloss": "nilisema"
+      "gloss": "nimezungumza"
     },
     {
       "surface": "לאמר",
-      "gloss": "nikisema"
+      "gloss": "nisema"
     },
     {
       "surface": "כה",
-      "gloss": "hivi"
+      "gloss": "ndivivo"
     },
     {
       "surface": "אמר",
-      "gloss": "anasema"
+      "gloss": "alivyosema"
     },
     {
       "surface": "יהוה",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "msi"
+      "gloss": "msi-"
     },
     {
       "surface": "תשמעו",
-      "gloss": "sisikilize"
+      "gloss": "sikilize"
     },
     {
       "surface": "אל",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "דברי",
-      "gloss": "maneno"
+      "gloss": "maneno ya"
     },
     {
       "surface": "נביאיכם",
-      "gloss": "ya manabii zenu"
+      "gloss": "manabii wenu"
     },
     {
       "surface": "הנבאים",
@@ -93,27 +93,27 @@
     },
     {
       "surface": "בית",
-      "gloss": "vya nyumba"
+      "gloss": "vya nyumba ya"
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "מושבים",
-      "gloss": "vinarudishwa"
+      "gloss": "vitarudishwa"
     },
     {
       "surface": "מבבלה",
-      "gloss": "kutoka Babel"
+      "gloss": "kutoka Baveli"
     },
     {
       "surface": "עתה",
-      "gloss": "sasa"
+      "gloss": "sasa hivi"
     },
     {
       "surface": "מהרה",
-      "gloss": "upesi"
+      "gloss": "haraka"
     },
     {
       "surface": "כי",
@@ -125,17 +125,17 @@
     },
     {
       "surface": "המה",
-      "gloss": "wao"
+      "gloss": "ndiyo"
     },
     {
       "surface": "נבאים",
-      "gloss": "wanatabiri"
+      "gloss": "wanawatabiria"
     },
     {
       "surface": "לכם",
-      "gloss": "kwenu"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-08-10T12:18:02.863535222Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:22.047868380Z",
+  "model": "glm-5.3"
 }

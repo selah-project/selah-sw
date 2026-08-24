@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Na akasema: Nzuri. Mimi nakata ⟨na⟩ agano ⟨אתך⟩, lakini neno moja mimi naombacho ⟨מאתך⟩, kusema: Hutauona uso wangu, isipokuwa kabla ya kuleta ⟨את⟩ Mikal binti Shaul, unapokuja kuona uso wangu.",
+  "translation": "Naye akasema, Vizuri, mimi nitakata ⟨את⟩ nawe ⟨את⟩ agano; lakini jambo moja mimi niombacho kutoka kwako ⟨את⟩, kusema: Hutauona ⟨את⟩ uso wangu, ikiwa huja ⟨את⟩ Mikhali binti Shaul mbele yako kuja kuona ⟨את⟩ uso wangu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na akasema"
+      "gloss": "Naye akasema"
     },
     {
       "surface": "טוב",
-      "gloss": "Nzuri"
+      "gloss": "Vizuri"
     },
     {
       "surface": "אני",
@@ -21,12 +21,11 @@
     },
     {
       "surface": "אכרת",
-      "gloss": "nakata"
+      "gloss": "nitakata"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩",
-      "marks": "na wewe"
+      "gloss": "⟨את⟩ nawe"
     },
     {
       "surface": "ברית",
@@ -38,7 +37,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "neno"
+      "gloss": "jambo"
     },
     {
       "surface": "אחד",
@@ -50,12 +49,11 @@
     },
     {
       "surface": "שאל",
-      "gloss": "naombacho"
+      "gloss": "niombacho"
     },
     {
       "surface": "מאתך",
-      "gloss": "⟨מאתך⟩",
-      "marks": "kwako"
+      "gloss": "kutoka kwako ⟨את⟩"
     },
     {
       "surface": "לאמר",
@@ -63,11 +61,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "si"
+      "gloss": "Hata"
     },
     {
       "surface": "תראה",
-      "gloss": "utaona"
+      "gloss": "hutauona"
     },
     {
       "surface": "את",
@@ -80,15 +78,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "isipokuwa"
+      "gloss": "ikiwa"
     },
     {
       "surface": "אם",
-      "gloss": " iki"
+      "gloss": "huja"
     },
     {
       "surface": "לפני",
-      "gloss": "kabla ya"
+      "gloss": "mbele yako"
     },
     {
       "surface": "הביאך",
@@ -97,11 +95,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mikal"
+      "marks": "Mikhali binti Shaul"
     },
     {
       "surface": "מיכל",
-      "gloss": "Mikal"
+      "gloss": "Mikhali"
     },
     {
       "surface": "בת",
@@ -113,7 +111,7 @@
     },
     {
       "surface": "בבאך",
-      "gloss": "unapokuja"
+      "gloss": "wakati waja"
     },
     {
       "surface": "לראות",
@@ -129,6 +127,6 @@
       "gloss": "uso wangu"
     }
   ],
-  "timestamp": "2026-08-10T14:55:59.748728084Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:22.353304243Z",
+  "model": "glm-5.3"
 }

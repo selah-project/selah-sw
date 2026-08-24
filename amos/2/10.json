@@ -5,20 +5,20 @@
   "book": "amos",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Nami niliwapandisha ⟨אתכם⟩ kutoka nchi ya Mitsrayim, nikaongoza ⟨אתכם⟩ jangwani miaka arobaini, ili kurithi ⟨את⟩ nchi ya waemori.",
+  "translation": "Nami mimi nikawapandisha nyinyi kutoka nchi ya Mitsrayim, na kuwaongoza nyinyi jangwani miaka arobaini, ili mkae ⟨את⟩ nchi ya HaEmori.",
   "tokens": [
     {
       "surface": "ואנכי",
-      "gloss": "nami"
+      "gloss": "Nami mimi"
     },
     {
       "surface": "העליתי",
-      "gloss": "niliwapandisha"
+      "gloss": "nikawapandisha"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩ nyinyi",
+      "marks": "nyinyi"
     },
     {
       "surface": "מארץ",
@@ -30,12 +30,12 @@
     },
     {
       "surface": "ואולך",
-      "gloss": "nikaongoza"
+      "gloss": "na kuwaongoza"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩ nyinyi",
+      "marks": "nyinyi"
     },
     {
       "surface": "במדבר",
@@ -51,12 +51,12 @@
     },
     {
       "surface": "לרשת",
-      "gloss": "ili kurithi"
+      "gloss": "ili mkae"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nchi"
+      "marks": "nchi ya HaEmori"
     },
     {
       "surface": "ארץ",
@@ -64,9 +64,9 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "ya waemori"
+      "gloss": "ya HaEmori"
     }
   ],
-  "timestamp": "2026-08-10T17:52:48.422440427Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:36.833747359Z",
+  "model": "glm-5.3"
 }

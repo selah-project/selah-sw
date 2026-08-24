@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 19,
-  "translation": "Ninyi mmeona yale niliyoyafanya kwa Mitsrayim, nami nikawabeba ⟨אתכם⟩ juu ya mabawa ya tai, nikawaleta ⟨אתכם⟩ kwangu.",
+  "translation": "Nyinyi mmeona yale niliyoyafanya kwa Mitsrayim, na niliubebea ⟨את⟩ mlio juu ya mabawa ya tai, na nikawaleta ⟨את⟩ nyinyi kwangu.",
   "tokens": [
     {
       "surface": "אתם",
-      "gloss": "Ninyi"
+      "gloss": "Nyinyi"
     },
     {
       "surface": "ראיתם",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "ואשא",
-      "gloss": "nami nikawabeba"
+      "gloss": "na niliubebea"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩ mlio",
+      "marks": "mlio"
     },
     {
       "surface": "על",
@@ -42,26 +42,26 @@
     },
     {
       "surface": "כנפי",
-      "gloss": "mabawa ya"
+      "gloss": "mabawa"
     },
     {
       "surface": "נשרים",
-      "gloss": "tai"
+      "gloss": "ya tai"
     },
     {
       "surface": "ואבא",
-      "gloss": "nikawaleta"
+      "gloss": "na nikawaleta"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
     },
     {
       "surface": "אלי",
       "gloss": "kwangu"
     }
   ],
-  "timestamp": "2026-08-10T10:23:01.959466149Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:00.120517717Z",
+  "model": "glm-5.3"
 }

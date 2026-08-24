@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 26,
-  "translation": "Mimi pia nitatembea nao kwa upinzani, nami nitawaleta ⟨אתם⟩ nchi ya maadui zao; au wakati huo moyo wao usiotahiriwa utainamishwa, na wakati huo watakubali adhabu ya ⟨את⟩ uovu wao.",
+  "translation": "Hata mimi nitatembea nao kwa mkinzano, na nitawaleta ⟨את⟩ wao katika nchi ya maadui zao; au ndipo moyo wao usiotahiriwa utainamishwa, na ndipo watamilia thamani ya uovu wao",
   "tokens": [
     {
       "surface": "אף",
-      "gloss": "pia"
+      "gloss": "hata"
     },
     {
       "surface": "אני",
@@ -25,20 +25,20 @@
     },
     {
       "surface": "בקרי",
-      "gloss": "kwa upinzani"
+      "gloss": "kwa mkinzano"
     },
     {
       "surface": "והבאתי",
-      "gloss": "nami nitawaleta"
+      "gloss": "na nitawaleta"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "nchi ya maadui zao"
+      "gloss": "⟨את⟩",
+      "marks": "wao"
     },
     {
       "surface": "בארץ",
-      "gloss": "nchi"
+      "gloss": "katika nchi"
     },
     {
       "surface": "איביהם",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אז",
-      "gloss": "wakati huo"
+      "gloss": "ndipo"
     },
     {
       "surface": "יכנע",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "ואז",
-      "gloss": "na wakati huo"
+      "gloss": "na ndipo"
     },
     {
       "surface": "ירצו",
-      "gloss": "watakubali adhabu ya"
+      "gloss": "watamilia thamani"
     },
     {
       "surface": "את",
@@ -82,6 +82,6 @@
       "gloss": "uovu wao"
     }
   ],
-  "timestamp": "2026-08-10T14:37:20.065635235Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:30.145616439Z",
+  "model": "glm-5.3"
 }

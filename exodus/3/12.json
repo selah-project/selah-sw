@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 3,
-  "translation": "⟨⟨Akasema⟩⟩: Kwa sababu mimi nitakuwa pamoja nawe, na hii itakuwa alama kwamba mimi nikikutuma: wakati utakapowatoa ⟨את⟩ ⟨⟨taifa⟩⟩ kutoka Mitsrayim, mtamtumikia ⟨את⟩ Elohim juu ya mlima huu.",
+  "translation": "Naye akasema: Kwa maana mimi nitakuwa pamoja nawe, na hii itakuwa ⟨ni⟩ ishara kwamba ni mimi niliyekutuma: upowe ⟨את⟩ watu kutoka Mitsrayim, mtatumikia ⟨את⟩ Elohim juu ya mlima huu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "⟨akasema⟩"
+      "gloss": "naye akasema"
     },
     {
       "surface": "כי",
-      "gloss": "kwa sababu"
+      "gloss": "kwa maana"
     },
     {
       "surface": "אהיה",
-      "gloss": "mimi nitakuwa"
+      "gloss": "nitakuwa"
     },
     {
       "surface": "עמך",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "האות",
-      "gloss": "alama"
+      "gloss": "ishara"
     },
     {
       "surface": "כי",
@@ -41,24 +41,24 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "mimi"
+      "gloss": "ni mimi"
     },
     {
       "surface": "שלחתיך",
-      "gloss": "nikikutuma"
+      "gloss": "niliyekutuma"
     },
     {
       "surface": "בהוציאך",
-      "gloss": "wakati utakapowatoa"
+      "gloss": "upowe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "taifa"
+      "marks": "watu"
     },
     {
       "surface": "העם",
-      "gloss": "taifa"
+      "gloss": "watu"
     },
     {
       "surface": "ממצרים",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "תעבדון",
-      "gloss": "mtamtumikia"
+      "gloss": "mtatumikia"
     },
     {
       "surface": "את",
@@ -87,9 +87,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "huu"
+      "gloss": "hui"
     }
   ],
-  "timestamp": "2026-08-10T10:19:09.152620459Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:05.512026966Z",
+  "model": "glm-5.3"
 }

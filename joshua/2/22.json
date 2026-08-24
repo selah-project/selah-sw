@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Nao wakaenda, wakapanda ⟨⟨kwenye⟩⟩ mlima, wakakaa huku siku tatu, hata wakaokoka wanaofuatilia; nao wanaofuatilia wakatafuta katika njia yote, wala hawakupata.",
+  "translation": "Wakaenda, wakafika ⟨kwenye⟩ mlima, wakakaa huko siku tatu, mpaka wafuataji waliporudi; nao wafuataji wakatafuta njiani kote, wala hawakuwapata.",
   "tokens": [
     {
       "surface": "וילכו",
-      "gloss": "nao wakaenda"
+      "gloss": "wakaenda"
     },
     {
       "surface": "ויבאו",
-      "gloss": "wakapanda"
+      "gloss": "wakafika"
     },
     {
       "surface": "ההרה",
@@ -25,53 +25,53 @@
     },
     {
       "surface": "שם",
-      "gloss": "huku"
+      "gloss": "huko"
     },
     {
       "surface": "שלשת",
-      "gloss": "siku tatu"
+      "gloss": "tatu"
     },
     {
       "surface": "ימים",
-      "gloss": ""
+      "gloss": "siku"
     },
     {
       "surface": "עד",
-      "gloss": "hata"
+      "gloss": "mpaka"
     },
     {
       "surface": "שבו",
-      "gloss": "wakaokoka"
+      "gloss": "waliporudi"
     },
     {
       "surface": "הרדפים",
-      "gloss": "wanaofuatilia"
+      "gloss": "wafuataji"
     },
     {
       "surface": "ויבקשו",
-      "gloss": "nao wakatafuta"
+      "gloss": "wakatafuta"
     },
     {
       "surface": "הרדפים",
-      "gloss": "wanaofuatilia"
+      "gloss": "wafuataji"
     },
     {
       "surface": "בכל",
-      "gloss": "katika yote"
+      "gloss": "kote"
     },
     {
       "surface": "הדרך",
-      "gloss": "njia"
+      "gloss": "njiani"
     },
     {
       "surface": "ולא",
-      "gloss": "wala hawakupata"
+      "gloss": "wala hawaku-"
     },
     {
       "surface": "מצאו",
-      "gloss": ""
+      "gloss": "-wapata"
     }
   ],
-  "timestamp": "2026-08-10T11:05:11.728454312Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:01.934326583Z",
+  "model": "glm-5.3"
 }

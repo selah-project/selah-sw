@@ -5,24 +5,24 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 23,
-  "translation": "Na akatoa ⟨את⟩ Asherah kutoka nyumbani mwa Yahweh, nje ya Yerushalayim, mpaka mtoni Qidroni, na akaichoma ⟨את⟩ kwenye mto wa Qidroni, na kuitia ungani, na akaitupa ⟨את⟩ vumbi lake juu ya makaburi ya wana wa ⟨⟨the⟩⟩ watu.",
+  "translation": "Naye akatoa ⟨את⟩ Ashera kutoka nyumbani ya Yahweh, nje ya Yerushalayim, hadi bonde la Kidroni, akaiunguza katika bonde la Kidroni, akaisaga hadi kuwa mavumbi, akavumbi vyake kutupa juu ya makaburi ya wana wa ⟨ה⟩ watu wa kawaida.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "na akatoa"
+      "gloss": "akatoa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Asherah"
+      "marks": "Ashera"
     },
     {
       "surface": "האשרה",
-      "gloss": "Asherah"
+      "gloss": "Ashera"
     },
     {
       "surface": "מבית",
-      "gloss": "kutoka nyumbani mwa"
+      "gloss": "kutoka nyumbani"
     },
     {
       "surface": "יהוה",
@@ -38,53 +38,53 @@
     },
     {
       "surface": "אל",
-      "gloss": "mpaka"
+      "gloss": "hadi"
     },
     {
       "surface": "נחל",
-      "gloss": "mtoni"
+      "gloss": "bonde"
     },
     {
       "surface": "קדרון",
-      "gloss": "Qidroni"
+      "gloss": "la Kidroni"
     },
     {
       "surface": "וישרף",
-      "gloss": "na akaichoma"
+      "gloss": "akaiunguza"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ kwenye",
-      "marks": "mto wa Qidroni"
+      "gloss": "⟨את⟩",
+      "marks": "katika bonde la Kidroni"
     },
     {
       "surface": "בנחל",
-      "gloss": "mto wa"
+      "gloss": "katika bonde"
     },
     {
       "surface": "קדרון",
-      "gloss": "Qidroni"
+      "gloss": "la Kidroni"
     },
     {
       "surface": "וידק",
-      "gloss": "na kuitia"
+      "gloss": "akaisaga"
     },
     {
       "surface": "לעפר",
-      "gloss": "ungani"
+      "gloss": "hadi kuwa mavumbi"
     },
     {
       "surface": "וישלך",
-      "gloss": "na akaitupa"
+      "gloss": "akavitupa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vumbi lake"
+      "marks": "vumbi vyake"
     },
     {
       "surface": "עפרה",
-      "gloss": "vumbi lake"
+      "gloss": "vumbi vyake"
     },
     {
       "surface": "על",
@@ -92,17 +92,17 @@
     },
     {
       "surface": "קבר",
-      "gloss": "makaburi ya"
+      "gloss": "makaburi"
     },
     {
       "surface": "בני",
-      "gloss": "wana wa"
+      "gloss": "ya wana wa"
     },
     {
       "surface": "העם",
-      "gloss": "watu"
+      "gloss": "watu wa kawaida"
     }
   ],
-  "timestamp": "2026-08-10T11:52:43.097781390Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:13.655418959Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 35,
-  "translation": "Na ukivute mkuki, na ufunge njia kwa ajili ya kuwaita wanaonikimbilia, umimi kwa nafsi yangu: '⟨⟨Mimi⟩⟩ ni wokovu wako.'",
+  "translation": "Na nyofua mkuki, na zuia ⟨njia⟩ mbele ya wanaonizulia; sema kwa nafsi yangu: Mimi ni wokovu wako.",
   "tokens": [
     {
       "surface": "והרק",
-      "gloss": "Na ukivute"
+      "gloss": "na nyofua"
     },
     {
       "surface": "חנית",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "וסגר",
-      "gloss": "na ufunge"
+      "gloss": "na zuia"
     },
     {
       "surface": "לקראת",
-      "gloss": "kwa ajili ya kuwaita"
+      "gloss": "mbele ya"
     },
     {
       "surface": "רדפי",
-      "gloss": "wanaonikimbilia"
+      "gloss": "wanaonizulia"
     },
     {
       "surface": "אמר",
-      "gloss": "umimi"
+      "gloss": "sema"
     },
     {
       "surface": "לנפשי",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "אני",
-      "gloss": "Mimi"
+      "gloss": "mimi"
     }
   ],
-  "timestamp": "2026-08-10T12:59:51.895100109Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:57.466448506Z",
+  "model": "glm-5.3"
 }

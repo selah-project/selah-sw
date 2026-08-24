@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Na Elohim akaiita ⟨the⟩ ukumbi 'mbingu'. Ikawa jioni, ikawa asubuhi, siku ya pili.",
+  "translation": "Elohim akaita ⟨את⟩ ngao ya anga Mbingu; ikawa jioni, ikawa asubuhi — siku ya pili.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "Na akaiita"
+      "gloss": "akaita"
     },
     {
       "surface": "אלהים",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לרקיע",
-      "gloss": "ukumbi"
+      "gloss": "ngao ya anga"
     },
     {
       "surface": "שמים",
-      "gloss": "mbingu"
+      "gloss": "Mbingu"
     },
     {
       "surface": "ויהי",
@@ -48,6 +48,6 @@
       "gloss": "ya pili"
     }
   ],
-  "timestamp": "2026-08-10T10:01:05.600539530Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:16.666559705Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 25,
-  "translation": "Ikawa yule ⟨anapokuwa⟩ akikipanda punda, na kushuka kwa kificho cha mlima, na tazama, David na watu wake wanashuka kumlaki; akawakuta ⟨אתם⟩.",
+  "translation": "Ikawa yule ⟨aliyekuwa⟩ akipanda juu ya punda, akishuka katika sehemu ya kufichwa ya ⟨⟩ mlima, na tazama, David na watu wake walikuwa wakishuka kumlaki, akawakuta ⟨את⟩ wao.",
   "tokens": [
     {
       "surface": "והיה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "רכבת",
-      "gloss": "akikipanda"
+      "gloss": "akipanda"
     },
     {
       "surface": "על",
-      "gloss": "⟨anapokuwa juu ya⟩"
+      "gloss": "juu ya"
     },
     {
       "surface": "החמור",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "וירדת",
-      "gloss": "na kushuka"
+      "gloss": "akashuka"
     },
     {
       "surface": "בסתר",
-      "gloss": "kwa kificho cha"
+      "gloss": "katika sehemu ya kufichwa"
     },
     {
       "surface": "ההר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ירדים",
-      "gloss": "wanashuka"
+      "gloss": "wakishuka"
     },
     {
       "surface": "לקראתה",
@@ -65,10 +65,10 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "ao"
+      "gloss": "⟨את⟩",
+      "marks": "wao"
     }
   ],
-  "timestamp": "2026-08-10T11:27:03.017724605Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:07.254256587Z",
+  "model": "glm-5.3"
 }

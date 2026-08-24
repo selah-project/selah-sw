@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 34,
-  "translation": "Na baada ya hayo, wanane wote wa Yisraeli wakakaribia; naye akawapa amri ⟨את⟩ kila waliyoambiwa na Yahweh pamoja naye ⟨אתו⟩ katika mlima Sinai.",
+  "translation": "Na baada ya hayo walikaribu wanawa wote wa Yisraeli, naye aliwaamuru ⟨את⟩ kila kitu ambacho Yahweh alikuwa amesema ⟨את⟩ naye katika mlima wa Sinai.",
   "tokens": [
     {
       "surface": "ואחרי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נגשו",
-      "gloss": "wakakaribia"
+      "gloss": "walikaribu"
     },
     {
       "surface": "כל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "wa wanane"
+      "gloss": "wanawa"
     },
     {
       "surface": "ישראל",
@@ -33,12 +33,12 @@
     },
     {
       "surface": "ויצום",
-      "gloss": "naye akawapa amri"
+      "gloss": "naye aliwaamuru"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kila"
+      "marks": "kila kitu"
     },
     {
       "surface": "כל",
@@ -46,30 +46,29 @@
     },
     {
       "surface": "אשר",
-      "gloss": "waliyoambiwa"
+      "gloss": "ambacho"
     },
     {
       "surface": "דבר",
-      "gloss": "yale"
+      "gloss": "alisema"
     },
     {
       "surface": "יהוה",
-      "gloss": "na Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "pamoja naye"
+      "gloss": "⟨את⟩ naye"
     },
     {
       "surface": "בהר",
-      "gloss": "katika mlima"
+      "gloss": "katika mlima wa"
     },
     {
       "surface": "סיני",
       "gloss": "Sinai"
     }
   ],
-  "timestamp": "2026-08-10T10:28:52.311137126Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:09.500259269Z",
+  "model": "glm-5.3"
 }

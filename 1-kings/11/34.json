@@ -5,20 +5,20 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 11,
-  "translation": "Lakini sitaichukua ⟨את⟩ ufalma wote kutoka mkononi mwake, bali nitamfanya kiongozi siku zote za maisha yake, kwa ajili ya David mtumishi wangu niliyemchagua ⟨אתו⟩, ambaye alishika amri zangu na falme zangu.",
+  "translation": "Lakini sitaicha ⟨את⟩ ufalme wote kutoka mkononi mwake, kwa maana nitamweka awe nawazi siku zote za maisha yake, kwa ajili ya David mtumishi wangu, ambaye nimchagua ⟨את⟩ ⟨אתו⟩, ambye alishika amri zangu na sheria zangu.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "lakini sita"
+      "gloss": "na si"
     },
     {
       "surface": "אקח",
-      "gloss": "ichukua"
+      "gloss": "nitaicha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ufalma wote"
+      "marks": "ufalme wote"
     },
     {
       "surface": "כל",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "הממלכה",
-      "gloss": "ufalma"
+      "gloss": "ufalme"
     },
     {
       "surface": "מידו",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "bali"
+      "gloss": "kwa maana"
     },
     {
       "surface": "נשיא",
-      "gloss": "kiongozi"
+      "gloss": "nawazi"
     },
     {
       "surface": "אשתנו",
-      "gloss": "nitamfanya"
+      "gloss": "nitamweka awe"
     },
     {
       "surface": "כל",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "ימי",
-      "gloss": "siku"
+      "gloss": "siku za"
     },
     {
       "surface": "חייו",
-      "gloss": "za maisha yake"
+      "gloss": "maisha yake"
     },
     {
       "surface": "למען",
@@ -74,16 +74,16 @@
     },
     {
       "surface": "בחרתי",
-      "gloss": "niliyemchagua"
+      "gloss": "nimchagua"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "ambaye (David)"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "David mtumishi wangu"
     },
     {
       "surface": "אשר",
-      "gloss": "ambaye"
+      "gloss": "ambye"
     },
     {
       "surface": "שמר",
@@ -95,9 +95,9 @@
     },
     {
       "surface": "וחקתי",
-      "gloss": "na falme zangu"
+      "gloss": "na sheria zangu"
     }
   ],
-  "timestamp": "2026-08-10T14:59:50.523243319Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.385961817Z",
+  "model": "glm-5.3"
 }

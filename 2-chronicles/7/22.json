@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Nao watajibu: Kwa sababu waliacha ⟨את⟩ Yahweh, Elohim wa baba zao, aliyewatoa katika nchi ya Mitsrayim, wakashikamana na elohim wengine, kusujudia kwao na kuwatumikia; kwa hiyo ⟨⟨yeye⟩⟩ aliwaletia juu yao ⟨את⟩ maovu yote haya.",
+  "translation": "Nao watasema: Ni kwa sababu waliacha ⟨את⟩ Yahweh, Elohim wa baba zao, aliwatoa nchi ya Mitsrayim, wakashikamana na miungu mingine, kusujudulia nao, kuwatumikia; kwa hiyo aliwaletea ⟨את⟩ mabaya yote haya.",
   "tokens": [
     {
       "surface": "ואמרו",
-      "gloss": "Nao watajibu"
+      "gloss": "watasema"
     },
     {
       "surface": "על",
-      "gloss": "Kwa sababu"
+      "gloss": "kwa sababu"
     },
     {
       "surface": "אשר",
@@ -34,27 +34,27 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "Elohim wa"
     },
     {
       "surface": "אבתיהם",
-      "gloss": "wa baba zao"
+      "gloss": "baba zao"
     },
     {
       "surface": "אשר",
-      "gloss": "aliye"
+      "gloss": "aliyewatoa"
     },
     {
       "surface": "הוציאם",
-      "gloss": "watoa"
+      "gloss": "aliwatoa"
     },
     {
       "surface": "מארץ",
-      "gloss": "katika nchi"
+      "gloss": "nchi ya"
     },
     {
       "surface": "מצרים",
-      "gloss": "ya Mitsrayim"
+      "gloss": "Mitsrayim"
     },
     {
       "surface": "ויחזיקו",
@@ -62,35 +62,35 @@
     },
     {
       "surface": "באלהים",
-      "gloss": "na elohim"
+      "gloss": "na miungu"
     },
     {
       "surface": "אחרים",
-      "gloss": "wengine"
+      "gloss": "mingine"
     },
     {
       "surface": "וישתחוו",
-      "gloss": "kusujudia"
+      "gloss": "kusujudulia"
     },
     {
       "surface": "להם",
-      "gloss": "kwao"
+      "gloss": "wao"
     },
     {
       "surface": "ויעבדום",
-      "gloss": "na kuwatumikia"
+      "gloss": "kuwatumikia"
     },
     {
       "surface": "על",
-      "gloss": "Kwa hiyo"
+      "gloss": "kwa"
     },
     {
       "surface": "כן",
-      "gloss": "hakika"
+      "gloss": "hiyo"
     },
     {
       "surface": "הביא",
-      "gloss": "aliwaletia"
+      "gloss": "aliwaletea"
     },
     {
       "surface": "עליהם",
@@ -99,7 +99,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "maovu yote haya"
+      "marks": "mabaya yote haya"
     },
     {
       "surface": "כל",
@@ -107,13 +107,13 @@
     },
     {
       "surface": "הרעה",
-      "gloss": "maovu"
+      "gloss": "mabaya"
     },
     {
       "surface": "הזאת",
       "gloss": "haya"
     }
   ],
-  "timestamp": "2026-08-10T14:13:54.050965081Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:47.184560942Z",
+  "model": "glm-5.3"
 }

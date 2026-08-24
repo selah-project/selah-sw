@@ -5,11 +5,11 @@
   "book": "jonah",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Nilishuka mpaka mizizi ya milima, ⟨ארץ⟩ pamoja na mlango wake ilinifunga milele, lakini wewe uliinua uhai wangu kutoka shimoni, Elohai Yahweh.",
+  "translation": "Nilishuka hadi mizizi ya milima; nchi kwa migate yake ⟨ilinifunga⟩ nyuma yangu milele; lakini wewe uliinua uhai wangu kutoka shimoni, Yahweh Elohim wangu.",
   "tokens": [
     {
       "surface": "לקצבי",
-      "gloss": "mpaka mizizi ya"
+      "gloss": "hadi mizizi ya"
     },
     {
       "surface": "הרים",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ardhi"
+      "gloss": "nchi"
     },
     {
       "surface": "ברחיה",
-      "gloss": "milango yake"
+      "gloss": "kwa migate yake"
     },
     {
       "surface": "בעדי",
-      "gloss": "ilinifunga"
+      "gloss": "nyuma yangu"
     },
     {
       "surface": "לעולם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ותעל",
-      "gloss": "na uliinua"
+      "gloss": "lakini uliinua"
     },
     {
       "surface": "משחת",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohai"
+      "gloss": "Elohim wangu"
     }
   ],
-  "timestamp": "2026-08-10T17:53:12.886532278Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:48.509599729Z",
+  "model": "glm-5.3"
 }

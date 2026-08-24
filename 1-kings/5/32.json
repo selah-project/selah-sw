@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 5,
-  "translation": "Na wajenzi wa Shelomoh na wajenzi wa Chiram na Wagvali wakapiga nakshi; wakaandaa miti na mawe kwa ajili ya kujenga ⟨the⟩ nyumba.",
+  "translation": "Nao wajengaji wa Shelomoh na wajengaji wa Chiromu na Wagabali wakazipanga, wakaandaa magogo na mawe ya kujenga nyumba.",
   "tokens": [
     {
       "surface": "ויפסלו",
-      "gloss": "wakapiga nakshi"
+      "gloss": "wakazipanga"
     },
     {
       "surface": "בני",
-      "gloss": "wajenzi wa"
+      "gloss": "wajengaji wa"
     },
     {
       "surface": "שלמה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "ובני",
-      "gloss": "na wajenzi wa"
+      "gloss": "na wajengaji wa"
     },
     {
       "surface": "חירום",
-      "gloss": "Chiram"
+      "gloss": "Chiromu"
     },
     {
       "surface": "והגבלים",
-      "gloss": "na Wagvali"
+      "gloss": "na Wagabali"
     },
     {
       "surface": "ויכינו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "העצים",
-      "gloss": "miti"
+      "gloss": "magogo"
     },
     {
       "surface": "והאבנים",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "לבנות",
-      "gloss": "kwa ajili ya kujenga"
+      "gloss": "ya kujenga"
     },
     {
       "surface": "הבית",
       "gloss": "nyumba"
     }
   ],
-  "timestamp": "2026-08-10T11:38:33.691522220Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:35.275525913Z",
+  "model": "glm-5.3"
 }

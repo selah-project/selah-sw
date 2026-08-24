@@ -5,15 +5,15 @@
   "book": "ruth",
   "lang": "sw",
   "chapter": 4,
-  "translation": "Na jirani wake wakamwitia ⟨⟨jirani⟩⟩ jina, wakisema, ⟨⟀amezaliwa⟩⟩ mtoto kwa Naomi; na wakamwitia jina lake Obed; yeye ⟨ni⟩ baba wa Yishai, baba wa David.",
+  "translation": "Na jirani wake waliita ⟨lui⟩ jina, wakisema: Amezaliwa mwana kwa Naomi; nao wakaita jina lake Obedi; yeye ni baba wa Yishai, baba wa David.",
   "tokens": [
     {
       "surface": "ותקראנה",
-      "gloss": "wakamwitia"
+      "gloss": "wakaita"
     },
     {
       "surface": "לו",
-      "gloss": "⟨⟨yeye⟩⟩"
+      "gloss": "⟨lui⟩"
     },
     {
       "surface": "השכנות",
@@ -24,7 +24,7 @@
       "gloss": "jina"
     },
     {
-      "surface": "לאמר",
+      "surface": "lאמר",
       "gloss": "wakisema"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "mtoto"
+      "gloss": "mwana"
     },
     {
       "surface": "לנעמי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ותקראנה",
-      "gloss": "wakamwitia"
+      "gloss": "wakaita"
     },
     {
       "surface": "שמו",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "עובד",
-      "gloss": "Obed"
+      "gloss": "Obedi"
     },
     {
       "surface": "הוא",
@@ -72,6 +72,6 @@
       "gloss": "David"
     }
   ],
-  "timestamp": "2026-08-10T13:42:59.858978620Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:37.780740601Z",
+  "model": "glm-5.3"
 }

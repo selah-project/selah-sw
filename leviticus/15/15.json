@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 15,
-  "translation": "Na kuhani atazifanya ⟨אתם⟩, moja dhabihu ya dhambi na moja chombo cha kuteketezwa, na kuhani atafanya upatanisho kwa ajili yake mbele za Yahweh kwa ajili ya tokwa lake.",
+  "translation": "Na kuhani atazitoa ⟨את⟩ ⟨אתם⟩ zikiwa moja sadaka ya dhambi na ⟨⟨the⟩ nyingine⟩ sadaka ya kuchomwa; na kuhani atamfanya upatanisho kwa ajili yake mbele za Yahweh kwa sababu ya kutokwa kwake.",
   "tokens": [
     {
       "surface": "ועשה",
-      "gloss": "Na kuhani atazifanya"
+      "gloss": "na atazitoa"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "zile (towaji\/njiwa)"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "zikiwa moja sadaka ya dhambi na nyingine sadaka ya kuchomwa"
     },
     {
       "surface": "הכהן",
@@ -26,19 +26,19 @@
     },
     {
       "surface": "חטאת",
-      "gloss": "dhabihu ya dhambi"
+      "gloss": "sadaka ya dhambi"
     },
     {
       "surface": "והאחד",
-      "gloss": "na moja"
+      "gloss": "na ⟨the⟩ nyingine"
     },
     {
       "surface": "עלה",
-      "gloss": "chombo cha kuteketezwa"
+      "gloss": "sadaka ya kuchomwa"
     },
     {
       "surface": "וכפר",
-      "gloss": "na kuhani atafanya upatanisho"
+      "gloss": "na atamfanya upatanisho"
     },
     {
       "surface": "עליו",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "מזובו",
-      "gloss": "kwa ajili ya tokwa lake"
+      "gloss": "kwa sababu ya kutokwa kwake"
     }
   ],
-  "timestamp": "2026-08-10T10:35:28.611994059Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.364337040Z",
+  "model": "glm-5.3"
 }

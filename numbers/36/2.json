@@ -5,24 +5,24 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 36,
-  "translation": "Wakasema: ⟨⟨⟩⟩ Adonai aliyeagiza Yahweh kutoa ⟨את⟩ nchi ⟨kama⟩ urithi kwa kura kwa wana wa Yisraeli, na Adonai aliyeagizwa na Yahweh kutoa ⟨את⟩ urithi wa Tselofchadi ndugu yetu kwa binti zake.",
+  "translation": "Wakasema: Yahweh aliamuru Adonai wangu ⟨את⟩, kutoa ⟨את⟩ ⟨the⟩ nchi kwa urithi kwa kura kwa wana wa Yisraeli; na Adonai wangu aliamuriwa na Yahweh kutoa ⟨את⟩ urithi wa Tselofchad, ndugu yetu, kwa binti zake.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "Wakasema"
+      "gloss": "wakasema"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Adonai"
+      "marks": "Adonai wangu"
     },
     {
       "surface": "אדני",
-      "gloss": "Adonai"
+      "gloss": "Adonai wangu"
     },
     {
       "surface": "צוה",
-      "gloss": "aliyeagiza"
+      "gloss": "aliamuru"
     },
     {
       "surface": "יהוה",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "בנחלה",
-      "gloss": "⟨kama⟩ urithi"
+      "gloss": "kwa urithi"
     },
     {
       "surface": "בגורל",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "ואדני",
-      "gloss": "na Adonai"
+      "gloss": "na Adonai wangu"
     },
     {
       "surface": "צוה",
-      "gloss": "aliyeagizwa"
+      "gloss": "aliamuriwa"
     },
     {
       "surface": "ביהוה",
@@ -76,7 +76,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "urithi"
+      "marks": "urithi wa Tselofchad"
     },
     {
       "surface": "נחלת",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "צלפחד",
-      "gloss": "Tselofchadi"
+      "gloss": "Tselofchad"
     },
     {
       "surface": "אחינו",
@@ -95,6 +95,6 @@
       "gloss": "kwa binti zake"
     }
   ],
-  "timestamp": "2026-08-10T10:53:14.434124514Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:22.408687083Z",
+  "model": "glm-5.3"
 }

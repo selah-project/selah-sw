@@ -5,43 +5,43 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Na Yarav'am akamwambia mkewe: Amka tafadhali, na jifanye ⟨kuwa⟩ mwingine, wasijue ya kuwa wewe ⟨ni⟩ mke wa Yarav'am, na uende Shilo; tazama, pale ⟨yuko⟩ Achiyah nabii; yeye alinena juu yangu kuhusu kufanywa mfalme juu ya ⟨העם⟩ watu hawa.",
+  "translation": "Naye Yerobeam aliwaambia mke wake: Amka, tafadhali, na jibadilishe, wasijue ya kwamba ⟨wewe⟩ ni mke wa Yerobeam, nenda Shiloh; tazama, pale ⟨yupo⟩ Achiya nabii; yeye ndiye aliyenena juu yangu ⟨kuwa nitakuwa⟩ mfalme juu ya watu huu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na akamwambia"
+      "gloss": "aliwaambia"
     },
     {
       "surface": "ירבעם",
-      "gloss": "Yarav'am"
+      "gloss": "Yerobeam"
     },
     {
       "surface": "לאשתו",
-      "gloss": "mkewe"
+      "gloss": "mke wake"
     },
     {
       "surface": "קומי",
-      "gloss": "Amka"
+      "gloss": "amka"
     },
     {
       "surface": "נא",
-      "gloss": "tafadhali"
+      "gloss": "tafadhalı"
     },
     {
       "surface": "והשתנית",
-      "gloss": "na jifanye mwingine"
+      "gloss": "jibadilishe"
     },
     {
       "surface": "ולא",
       "gloss": "wasijue"
     },
     {
-      "surface": "יֵֽדְעוּ",
-      "gloss": "wasijue"
+      "surface": "ידעו",
+      "gloss": ""
     },
     {
       "surface": "כי",
-      "gloss": "ya kuwa"
+      "gloss": "ya kwamba"
     },
     {
       "surface": "אתי",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "wa Yarav'am"
+      "gloss": "Yerobeam"
     },
     {
       "surface": "והלכת",
-      "gloss": "na uende"
+      "gloss": "nenda"
     },
     {
       "surface": "שלה",
-      "gloss": "Shilo"
+      "gloss": "Shiloh"
     },
     {
       "surface": "הנה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אחיה",
-      "gloss": "Achiyah"
+      "gloss": "Achiya"
     },
     {
       "surface": "הנביא",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "למלך",
-      "gloss": "kuhusu kufanywa mfalme"
+      "gloss": "kuwa mfalme"
     },
     {
       "surface": "על",
@@ -101,13 +101,13 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨העם⟩ watu"
+      "gloss": "watuu"
     },
     {
       "surface": "הזה",
-      "gloss": "hawa"
+      "gloss": "huu"
     }
   ],
-  "timestamp": "2026-08-10T11:42:07.458903746Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:14.624986803Z",
+  "model": "glm-5.3"
 }

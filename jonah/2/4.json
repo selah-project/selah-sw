@@ -5,15 +5,15 @@
   "book": "jonah",
   "lang": "sw",
   "chapter": 2,
-  "translation": "⟨⟨ewe⟩⟩ ulinitupa kilindi katikati ya bahari, na mto ukazunguka mimi; wang'ang'ania wako wote na mawimbi yako yalinipita.",
+  "translation": "Ndiwe uliyonirusha katika vilindi, katikati ya bahari, na mkondo ukazunguka nilipo, mawimbi yako yote na mawazo yako yalinipita juu yangu.",
   "tokens": [
     {
       "surface": "ותשליכני",
-      "gloss": "⟨ewe⟩ ulinitupa"
+      "gloss": "uliyonirusha"
     },
     {
       "surface": "מצולה",
-      "gloss": "kilindi"
+      "gloss": "katika vilindi"
     },
     {
       "surface": "בלבב",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "ונהר",
-      "gloss": "na mto"
+      "gloss": "na mkondo"
     },
     {
       "surface": "יסבבני",
-      "gloss": "ukazunguka mimi"
+      "gloss": "ukazunguka nilipo"
     },
     {
       "surface": "כל",
-      "gloss": "wote"
+      "gloss": "yote"
     },
     {
       "surface": "משבריך",
-      "gloss": "wang'ang'ania wako"
+      "gloss": "mawimbi yako"
     },
     {
       "surface": "וגליך",
-      "gloss": "na mawimbi yako"
+      "gloss": "na mawazo yako"
     },
     {
       "surface": "עלי",
@@ -52,6 +52,6 @@
       "gloss": "yalinipita"
     }
   ],
-  "timestamp": "2026-08-10T15:21:39.179682407Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:44.240361518Z",
+  "model": "glm-5.3"
 }

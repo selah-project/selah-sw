@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Neno ambalo lilikuja kwa Yirmeyahu ⟨mteule⟩ kutoka kwa Yahweh, kusema:",
+  "translation": "Neno lililokuja kwa Yirmeyahu ⟨את⟩ kutoka kwa Yahweh, kusema:",
   "tokens": [
     {
       "surface": "הדבר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambalo"
+      "gloss": "lililo"
     },
     {
       "surface": "היה",
-      "gloss": "lilikuja"
+      "gloss": "kuja"
     },
     {
       "surface": "אל",
@@ -29,8 +29,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨מאת⟩",
-      "marks": "kwa Yahweh"
+      "gloss": "⟨את⟩ kutoka kwa",
+      "marks": "Yahweh"
     },
     {
       "surface": "יהוה",
@@ -41,6 +41,6 @@
       "gloss": "kusema"
     }
   ],
-  "timestamp": "2026-08-10T15:10:38.956663973Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:48.517817922Z",
+  "model": "glm-5.3"
 }

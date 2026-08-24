@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "sw",
   "chapter": 11,
-  "translation": "Nikasema: Sitawachunga ⟨אתכם⟩; ife iyaliyokufa, na zisitishwe zilizositiwa, na waliobaki wale, kila mmoja nyama ya mwenzake.",
+  "translation": "Nikasema: Sitawachunga ⟨את⟩ ⟨אתכם⟩; ifayo naife, na iliyofichwa ifichwe, na waliobaki wale; kila mmoja ⟨את⟩ nyama ya mwenzake.",
   "tokens": [
     {
       "surface": "ואמר",
@@ -17,28 +17,28 @@
     },
     {
       "surface": "ארעה",
-      "gloss": "watachunga"
+      "gloss": "tawachunga"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "nyinyi"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "nyinyi (waliotawachungwa)"
     },
     {
       "surface": "המתה",
-      "gloss": "iyaliyokufa"
+      "gloss": "ifayo"
     },
     {
       "surface": "תמות",
-      "gloss": "ife"
+      "gloss": "naife"
     },
     {
       "surface": "והנכחדת",
-      "gloss": "na zilizositiwa"
+      "gloss": "na iliyofichwa"
     },
     {
       "surface": "תכחד",
-      "gloss": "zisitishwe"
+      "gloss": "ifichwe"
     },
     {
       "surface": "והנשארות",
@@ -66,6 +66,6 @@
       "gloss": "ya mwenzake"
     }
   ],
-  "timestamp": "2026-08-10T12:53:13.582845910Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.307799541Z",
+  "model": "glm-5.3"
 }

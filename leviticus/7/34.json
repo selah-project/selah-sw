@@ -5,104 +5,104 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Kwa maana ⟨את⟩ kifua cha kutingishwa na ⟨את⟩ shingo ya kuinuliwa, nilizichukua kutoka kwa wana wa Yisrael, kutoka sadaka za amani zao, n nikawapa ⟨אתם⟩ kwa Aharon kuhani na kwa wana wake, kama amri ya milele, kutoka kwa wana wa Yisrael.",
+  "translation": "Kwa maana ⟨את⟩ kifua cha kutikiswa na ⟨את⟩ mguu wa kupaliliwa nimewachukua ⟨⟨kutoka⟩⟩ kwa wana wa Yisraeli, kutoka sadaka zao za amani, nikawapa ⟨את⟩ Aharoni kuhani na wana wake, kama amri ya milele ⟨⟨kutoka⟩⟩ kwa wana wa Yisraeli.",
   "tokens": [
     {
-      "surface": "כִּי֩",
+      "surface": "כי",
       "gloss": "kwa maana"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "kifua"
     },
     {
-      "surface": "חֲזֵ֨ה",
+      "surface": "חזה",
       "gloss": "kifua"
     },
     {
-      "surface": "הַתְּנוּפָ֜ה",
-      "gloss": "cha kutingishwa"
+      "surface": "התנופה",
+      "gloss": "cha kutikiswa"
     },
     {
-      "surface": "וְאֵ֣ת",
-      "gloss": "na ⟨את⟩",
-      "marks": "shingo"
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mguu"
     },
     {
-      "surface": "שׁ֣וֹק",
-      "gloss": "shingo"
+      "surface": "שוק",
+      "gloss": "mguu"
     },
     {
-      "surface": "הַתְּרוּמָ֗ה",
-      "gloss": "ya kuinuliwa"
+      "surface": "התרומה",
+      "gloss": "wa kupaliliwa"
     },
     {
-      "surface": "לָקַ֨חְתִּי֙",
-      "gloss": "nilizichukua"
+      "surface": "לקחתי",
+      "gloss": "nimewachukua"
     },
     {
-      "surface": "מֵאֵ֣ת",
-      "gloss": "kutoka ⟨את⟩"
+      "surface": "מאת",
+      "gloss": "⟨את⟩ kutoka"
     },
     {
-      "surface": "בְּנֵֽי",
-      "gloss": "wana wa"
+      "surface": "בני",
+      "gloss": "wana"
     },
     {
-      "surface": "יִשְׂרָאֵ֔ל",
-      "gloss": "Yisrael"
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
     },
     {
-      "surface": "מִזִּבְחֵ֖י",
-      "gloss": "kutoka sadaka za"
+      "surface": "מזבחי",
+      "gloss": "kutoka sadaka"
     },
     {
-      "surface": "שַׁלְמֵיהֶ֑ם",
-      "gloss": "amani zao"
+      "surface": "שלמיהם",
+      "gloss": "zao za amani"
     },
     {
-      "surface": "וָאֶתֵּ֣ן",
-      "gloss": "n nikawapa"
+      "surface": "ואתן",
+      "gloss": "nikawapa"
     },
     {
-      "surface": "אֹ֠תָם",
-      "gloss": "⟨אתם⟩",
-      "marks": "kwa Aharon"
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
     },
     {
-      "surface": "לְאַהֲרֹ֨ן",
-      "gloss": "kwa Aharon"
+      "surface": "לאהרן",
+      "gloss": "Aharoni"
     },
     {
-      "surface": "הַכֹּהֵ֤ן",
+      "surface": "הכהן",
       "gloss": "kuhani"
     },
     {
-      "surface": "וּלְבָנָיו֙",
-      "gloss": "na kwa wana wake"
+      "surface": "ולבניו",
+      "gloss": "na wana wake"
     },
     {
-      "surface": "לְחָק",
+      "surface": "לחק",
       "gloss": "kama amri"
     },
     {
-      "surface": "עוֹלָ֔ם",
+      "surface": "עולם",
       "gloss": "ya milele"
     },
     {
-      "surface": "מֵאֵ֖ת",
-      "gloss": "kutoka ⟨את⟩"
+      "surface": "מאת",
+      "gloss": "⟨את⟩ kutoka"
     },
     {
-      "surface": "בְּנֵ֥י",
-      "gloss": "wana wa"
+      "surface": "בני",
+      "gloss": "wana"
     },
     {
-      "surface": "יִשְׂרָאֵֽל",
-      "gloss": "Yisrael"
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
     }
   ],
-  "timestamp": "2026-08-10T10:32:30.757288777Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:32.851738838Z",
+  "model": "glm-5.3"
 }

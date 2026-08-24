@@ -5,19 +5,19 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 5,
-  "translation": "Lakini hata siku zile, neno la Yahweh, sitafanya ⟨אתם⟩ ukiwa mwisho.",
+  "translation": "Hata katika siku hizo, neno la Yahweh, sitawafanya nyinyi ⟨את⟩ umalizwe kabisa.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "lakini hata"
+      "gloss": "Hata"
     },
     {
       "surface": "בימים",
-      "gloss": "siku"
+      "gloss": "katika siku"
     },
     {
       "surface": "ההמה",
-      "gloss": "zile"
+      "gloss": "hizo"
     },
     {
       "surface": "נאם",
@@ -29,22 +29,22 @@
     },
     {
       "surface": "לא",
-      "gloss": "sita"
+      "gloss": "si"
     },
     {
       "surface": "אעשה",
-      "gloss": "fanya"
+      "gloss": "nitawafanya"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "enyu"
+      "marks": "nyinyi"
     },
     {
       "surface": "כלה",
-      "gloss": "ukiwilishi"
+      "gloss": "umalizwe kabisa"
     }
   ],
-  "timestamp": "2026-08-10T12:11:43.917841857Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:29.553442001Z",
+  "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 24,
-  "translation": "Na nitawatuma ⟨בם⟩ ⟨את⟩ upanga, ⟨את⟩ njaa, na ⟨את⟩ tauni, hadi kutimia kuangamia kwao kutoka juu ya ardhi ⟨ambayo⟩ niliwapagua na kwa baba zao.",
+  "translation": "Nami nitawatuma ⟨juu yao⟩ ⟨את⟩ upanga, ⟨את⟩ njaa na ⟨את⟩ tauni, mpaka watakapotoweka kabisa katika nchi niliyowapa wao na baba zao.",
   "tokens": [
     {
       "surface": "ושלחתי",
-      "gloss": "Na nitawatuma"
+      "gloss": "nitawatuma"
     },
     {
       "surface": "בם",
-      "gloss": "⟨בם⟩"
+      "gloss": "juu yao"
     },
     {
       "surface": "את",
@@ -44,19 +44,19 @@
     },
     {
       "surface": "עד",
-      "gloss": "hadi"
+      "gloss": "mpaka"
     },
     {
       "surface": "תמם",
-      "gloss": "kutimia kuangamia"
+      "gloss": "watakapotoweka kabisa"
     },
     {
       "surface": "מעל",
-      "gloss": "kutoka juu ya"
+      "gloss": "katika"
     },
     {
       "surface": "האדמה",
-      "gloss": "ardhi"
+      "gloss": "nchi"
     },
     {
       "surface": "אשר",
@@ -64,17 +64,17 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "niliwapagua"
+      "gloss": "niliyowapa"
     },
     {
       "surface": "להם",
-      "gloss": "na"
+      "gloss": "wao"
     },
     {
       "surface": "ולאבותיהם",
-      "gloss": "kwa baba zao"
+      "gloss": "na baba zao"
     }
   ],
-  "timestamp": "2026-08-10T12:16:29.624108580Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:29.897673797Z",
+  "model": "glm-5.3"
 }

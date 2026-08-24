@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Na baba yake na mama yake wakamwambia: «Je, hakuna ⟨miongoni mwa⟩ binti za ndugu zako, na katika taifa langu lo lote, mwanamke, kwamba wewe unaenda kuchukua mke miongoni mwa Pelishtim watu wa kutahiriwa?» Na Shimshon akamwambia baba yake: «Hiyo ⟨⟨את⟩⟩ nichukue, kwa maana yeye ⟨ni⟩ sawa machoni pangu.»",
+  "translation": "Na baba yake na mama yake wakamwambia: Je, hamna mwanamke miongoni mwa binti za ndugu zako, wala katika watu wangu wote, kwamba wewe unaenda kuchukua mke kwa Wafilisti wasio na tohara? Shimshon akamwambia baba yake: Yule ⟨את⟩ mchukue kwa ajili yangu, kwa maana yeye ⟨ni⟩ mwema miongoni mwa macho yangu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na wakamwambia"
+      "gloss": "wakamwambia"
     },
     {
       "surface": "לו",
-      "gloss": "yeye"
+      "gloss": "kwake"
     },
     {
       "surface": "אביו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "האין",
-      "gloss": "Je, hakuna"
+      "gloss": "Je, hamna"
     },
     {
       "surface": "בבנות",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ובכל",
-      "gloss": "na katika"
+      "gloss": "wala katika wote"
     },
     {
       "surface": "עמי",
-      "gloss": "taifa langu lo lote"
+      "gloss": "watu wangu"
     },
     {
       "surface": "אשה",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "מפלשתים",
-      "gloss": "miongoni mwa Pelishtim"
+      "gloss": "kwa Wafilisti"
     },
     {
       "surface": "הערלים",
-      "gloss": "watu wa kutahiriwa"
+      "gloss": "wasio na tohara"
     },
     {
       "surface": "ויאמר",
-      "gloss": "Na akamwambia"
+      "gloss": "akamwambia"
     },
     {
       "surface": "שמשון",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": "kwamba"
     },
     {
       "surface": "אביו",
@@ -94,15 +94,15 @@
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "nichukue (hiyo)"
+      "marks": "yule mwanamke"
     },
     {
       "surface": "קח",
-      "gloss": "nichukue"
+      "gloss": "mchukue"
     },
     {
       "surface": "לי",
-      "gloss": "ni"
+      "gloss": "kwa ajili yangu"
     },
     {
       "surface": "כי",
@@ -114,13 +114,13 @@
     },
     {
       "surface": "ישרה",
-      "gloss": "sawa"
+      "gloss": "ni mwema"
     },
     {
       "surface": "בעיני",
-      "gloss": "machoni pangu"
+      "gloss": "miongoni mwa macho yangu"
     }
   ],
-  "timestamp": "2026-08-10T11:16:49.570861970Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:32.060924642Z",
+  "model": "glm-5.3"
 }

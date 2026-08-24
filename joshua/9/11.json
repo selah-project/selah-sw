@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "sw",
   "chapter": 9,
-  "translation": "Basi wazee wetu na wakaaji wote wa nchi yetu wakatuambia, wakisema: Chukueni mkononi chakula cha njia, nendeni mkakutane nao, mwambieni, sisi ni waja wenu; na sasa tigeni nasi ⟨⟨agano⟩.",
+  "translation": "Na wazee wetu na wakaazi wote wa nchi yetu walisema kwetu, wakisema: Chukueni chakula mkononi mwenu kwa safari, nendeni kukutana nao, niambieni: Sisi ni watumwa wenu; na sasa sasaungeni na sisi ⟨את⟩ agano.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "Basi wakatuambia"
+      "gloss": "walisema"
     },
     {
       "surface": "אלינו",
-      "gloss": "sisi"
+      "gloss": "kwetu"
     },
     {
       "surface": "זקינינו",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "וכל",
-      "gloss": "na wote"
+      "gloss": "na wakaazi wote"
     },
     {
       "surface": "ישבי",
-      "gloss": "wakaaji"
+      "gloss": "wakaazi"
     },
     {
       "surface": "ארצנו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "wakisema"
+      "gloss": "wakisema:"
     },
     {
       "surface": "קחו",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "בידכם",
-      "gloss": "mkononi"
+      "gloss": "mkononi mwenu"
     },
     {
       "surface": "צידה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לדרך",
-      "gloss": "cha njia"
+      "gloss": "kwa safari"
     },
     {
       "surface": "ולכו",
@@ -57,23 +57,23 @@
     },
     {
       "surface": "לקראתם",
-      "gloss": "mkakutane nao"
+      "gloss": "kukutana nao"
     },
     {
       "surface": "ואמרתם",
-      "gloss": "mwambieni"
+      "gloss": "niambieni:"
     },
     {
       "surface": "אליהם",
-      "gloss": "wao"
+      "gloss": "kwao"
     },
     {
       "surface": "עבדיכם",
-      "gloss": "waja wenu"
+      "gloss": "watumwa wenu"
     },
     {
       "surface": "אנחנו",
-      "gloss": "sisi"
+      "gloss": "Sisi ni"
     },
     {
       "surface": "ועתה",
@@ -81,17 +81,17 @@
     },
     {
       "surface": "כרתו",
-      "gloss": "tigeni"
+      "gloss": "sasaungeni"
     },
     {
       "surface": "לנו",
-      "gloss": "nasi"
+      "gloss": "na sisi"
     },
     {
       "surface": "ברית",
-      "gloss": "⟨agano⟩"
+      "gloss": "agano"
     }
   ],
-  "timestamp": "2026-08-10T11:07:11.534899727Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:17.984635684Z",
+  "model": "glm-5.3"
 }

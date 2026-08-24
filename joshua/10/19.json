@@ -5,23 +5,23 @@
   "book": "joshua",
   "lang": "sw",
   "chapter": 10,
-  "translation": "Ninyi msisimame; wafuateni maadui zenu na kuwashika nyuma yao; msiwaache kuingia katika miji yao, kwa kuwa Yahweh Elohim wenu amewapa ⟨⟨ katika ⟩⟩ mikono yenu.",
+  "translation": "Nanyi msiisimame; lazimisheni nyuma ya adui zenu, mkatize nyuma yao ⟨את⟩, msiruhusu waingie katika miji yao, kwa kuwa Yahweh, Elohim wenu, amewaweka mkononi mwenu.",
   "tokens": [
     {
       "surface": "ואתם",
-      "gloss": "ninyi"
+      "gloss": "nanyi"
     },
     {
       "surface": "אל",
-      "gloss": "msi"
+      "gloss": "si-"
     },
     {
       "surface": "תעמדו",
-      "gloss": "sisimame"
+      "gloss": "misimame"
     },
     {
       "surface": "רדפו",
-      "gloss": "wafuateni"
+      "gloss": "lazimisheni"
     },
     {
       "surface": "אחרי",
@@ -29,28 +29,28 @@
     },
     {
       "surface": "איביכם",
-      "gloss": "maadui zenu"
+      "gloss": "adui zenu"
     },
     {
       "surface": "וזנבתם",
-      "gloss": "na kuwashika nyuma"
+      "gloss": "mkatize nyuma yao"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "maadui"
+      "marks": "wao (adui zenu)"
     },
     {
       "surface": "אל",
-      "gloss": "msi"
+      "gloss": "si-"
     },
     {
       "surface": "תתנום",
-      "gloss": "waache"
+      "gloss": "msiruhusu"
     },
     {
       "surface": "לבוא",
-      "gloss": "kuingia"
+      "gloss": "waingie"
     },
     {
       "surface": "אל",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "נתנם",
-      "gloss": "amewapa"
+      "gloss": "amewaweka"
     },
     {
       "surface": "יהוה",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "בידכם",
-      "gloss": "katika mikono yenu"
+      "gloss": "mkononi mwenu"
     }
   ],
-  "timestamp": "2026-08-10T11:07:09.837117682Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:12.005985250Z",
+  "model": "glm-5.3"
 }

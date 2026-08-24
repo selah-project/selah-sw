@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 22,
-  "translation": "Na kwa msichana hamtendi kitu; ⟨⟨hakuna⟩⟩ kwa msichana kosa la kifo, kama vile mtu anavyo mwanya jirani wake na kumuua ⟨⟨nafsi⟩⟩ — vivyo hivyo jambo hili.",
+  "translation": "Na kwa msichana hutamfanyia kitu; msichana hana dhambi ya kufa kupatiliza; kwa kuwa kama mtu anapoinuka dhidi ya jirani yake na kumuua ⟨s⟩ nafsi yake, ndivyo ilivyo jambo hili.",
   "tokens": [
     {
       "surface": "ולנער",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "ha"
+      "gloss": "si"
     },
     {
       "surface": "תעשה",
-      "gloss": "tendi"
+      "gloss": "kumfanyia kitu"
     },
     {
       "surface": "דבר",
@@ -25,31 +25,31 @@
     },
     {
       "surface": "אין",
-      "gloss": "⟨hakuna⟩"
+      "gloss": "hana"
     },
     {
       "surface": "לנער",
-      "gloss": "kwa msichana"
+      "gloss": "msichana"
     },
     {
       "surface": "חטא",
-      "gloss": "kosa"
+      "gloss": "dhambi"
     },
     {
       "surface": "מות",
-      "gloss": "la kifo"
+      "gloss": "ya kifo"
     },
     {
       "surface": "כי",
-      "gloss": "kama vile"
+      "gloss": "kwa kuwa"
     },
     {
       "surface": "כאשר",
-      "gloss": "anavyo"
+      "gloss": "kama"
     },
     {
       "surface": "יקום",
-      "gloss": "mwanya"
+      "gloss": "anapoinuka"
     },
     {
       "surface": "איש",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "dhidi ya"
     },
     {
       "surface": "רעהו",
-      "gloss": "jirani wake"
+      "gloss": "jirani yake"
     },
     {
       "surface": "ורצחו",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "נפש",
-      "gloss": "⟨nafsi⟩"
+      "gloss": "nafsi yake"
     },
     {
       "surface": "כן",
-      "gloss": "vivyo hivyo"
+      "gloss": "ndivyo"
     },
     {
       "surface": "הדבר",
@@ -84,6 +84,6 @@
       "gloss": "hili"
     }
   ],
-  "timestamp": "2026-08-10T15:57:37.918090769Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:41.014402371Z",
+  "model": "glm-5.3"
 }

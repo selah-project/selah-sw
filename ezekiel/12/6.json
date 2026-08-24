@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 12,
-  "translation": "Macho yao, juu ya begawa utachukua; kwenye giza utatoa; uso wako utafunika, na hutaweza ⟨kuona את⟩ nchi; kwa kuwa Ishara nilikupa kwa nyumba ya Yisrael.",
+  "translation": "Macho yao yakitazama, utaibeba juu ya mabega yako, gizani utatoa, utafunika uso wako, wala hutaona ⟨את⟩ nchi, kwa maana nimeweka wewe kuwa ishara kwa nyumba ya Yisrael.",
   "tokens": [
     {
       "surface": "לעיניהם",
-      "gloss": "macho yao"
+      "gloss": "macho yao yakitazama"
     },
     {
       "surface": "על",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "כתף",
-      "gloss": "begawa"
+      "gloss": "mabega"
     },
     {
       "surface": "תשא",
-      "gloss": "utachukua"
+      "gloss": "utaibeba"
     },
     {
       "surface": "בעלטה",
-      "gloss": "kwenye giza"
+      "gloss": "gizani"
     },
     {
       "surface": "תוציא",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "na hutaweza"
+      "gloss": "wala huta"
     },
     {
       "surface": "תראה",
-      "gloss": "kuona"
+      "gloss": "hutaona"
     },
     {
       "surface": "את",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "kwa kuwa"
+      "gloss": "kwa maana"
     },
     {
       "surface": "מופת",
@@ -66,17 +66,17 @@
     },
     {
       "surface": "נתתיך",
-      "gloss": "nilikupa"
+      "gloss": "nimeweka wewe"
     },
     {
       "surface": "לבית",
-      "gloss": "kwa nyumba ya"
+      "gloss": "kwa nyumba"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "ya Yisrael"
     }
   ],
-  "timestamp": "2026-08-10T12:29:11.050024521Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:56.548577202Z",
+  "model": "glm-5.3"
 }

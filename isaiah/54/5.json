@@ -5,19 +5,19 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 54,
-  "translation": "Kwa maana mumé wako ⟨ni⟩ mmonyofu wako; Yahweh wa majeshi ⟨ni⟩ jina lake; na mkombozi wako ⟨ni⟩ Qadosh wa Yisra'el; Elohim wa ⟨the⟩ nchi yote ataitwa.",
+  "translation": "Kwa kuwa mumewe ⟨ni⟩ Mwenumba wako — Yahweh Tzevaot ndiye jina lake; na Mkombozi wako ⟨ni⟩ Mtakatifu wa Yisraeli, Elohim wa ⟨את⟩ dunia yote ataitwa.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "kwa maana"
+      "gloss": "kwa kuwa"
     },
     {
       "surface": "בעליך",
-      "gloss": "mumé wako"
+      "gloss": "mumewe"
     },
     {
       "surface": "עשיך",
-      "gloss": "mmonyofu wako"
+      "gloss": "Mwenumba wako"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "wa majeshi"
+      "gloss": "Tzevaot"
     },
     {
       "surface": "שמו",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "וגאלך",
-      "gloss": "na mkombozi wako"
+      "gloss": "na Mkombozi wako"
     },
     {
       "surface": "קדוש",
-      "gloss": "Qadosh"
+      "gloss": "Mtakatifu"
     },
     {
       "surface": "ישראל",
-      "gloss": "wa Yisra'el"
+      "gloss": "wa Yisraeli"
     },
     {
       "surface": "אלהי",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "nchi"
+      "gloss": "dunia"
     },
     {
       "surface": "יקרא",
       "gloss": "ataitwa"
     }
   ],
-  "timestamp": "2026-08-10T15:08:16.328181522Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:14.145299481Z",
+  "model": "glm-5.3"
 }

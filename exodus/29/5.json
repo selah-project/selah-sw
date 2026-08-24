@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 29,
-  "translation": "Na utachukua ⟨את⟩ nguo, na umvae Aharon ⟨⟨⟩⟩ ⟨את⟩ shati, na ⟨את⟩ joho la efodi, na ⟨את⟩ efodi, na ⟨את⟩ kifuduo, na utakifunga ⟨kwa⟩ kitambaa cha ufundi cha efodi.",
+  "translation": "Utakea ⟨את⟩ nguo, umvue Aharoni kwa ⟨את⟩ kanzu, na ⟨את⟩ jeshi la efodi, na ⟨את⟩ efodi, na ⟨את⟩ kifua-plate; umfungie kwa mkanda wa kazi-bora wa efodi.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "na utachukua"
+      "gloss": "Utakapo"
     },
     {
       "surface": "את",
@@ -22,34 +22,34 @@
     },
     {
       "surface": "והלבשת",
-      "gloss": "na umvae"
+      "gloss": "umvue"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Aharon"
+      "marks": "Aharoni"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharon"
+      "gloss": "Aharoni"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "shati"
+      "marks": "kanzu"
     },
     {
       "surface": "הכתנת",
-      "gloss": "shati"
+      "gloss": "kanzu"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "joho"
+      "marks": "jeshi la efodi"
     },
     {
       "surface": "מעיל",
-      "gloss": "joho"
+      "gloss": "jeshi"
     },
     {
       "surface": "האפד",
@@ -67,29 +67,29 @@
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "kifuduo"
+      "marks": "kifua-plate"
     },
     {
       "surface": "החשן",
-      "gloss": "kifuduo"
+      "gloss": "kifua-plate"
     },
     {
       "surface": "ואפדת",
-      "gloss": "na utakifunga"
+      "gloss": "umfungie"
     },
     {
       "surface": "לו",
-      "gloss": "yeye"
+      "gloss": "yake"
     },
     {
       "surface": "בחשב",
-      "gloss": "kwa kitambaa cha ufundi"
+      "gloss": "kwa mkanda wa kazi-bora"
     },
     {
       "surface": "האפד",
-      "gloss": "cha efodi"
+      "gloss": "wa efodi"
     }
   ],
-  "timestamp": "2026-08-10T10:26:36.214177324Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:52.506781833Z",
+  "model": "glm-5.3"
 }

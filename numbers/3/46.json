@@ -5,24 +5,24 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Na ⟨את⟩ wa kuombwa fidia wa ⟨the⟩ mia mbili na ⟨the⟩ sabini na watatu, wao ziada kuliko Walawi, miongoni mwa wazaliwa wa kwanza wa wana wa Yisra'el.",
+  "translation": "Na ⟨את⟩ waliokombolewa — ⟨ni⟩ mia mbili na sabini na watatu — ao waliozidi Walawi, miongoni mwa wazaliwa-wa-kwanza wa wana wa Yisraeli.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Na ⟨את⟩",
-      "marks": "wa kuombwa fidia"
+      "gloss": "⟨את⟩",
+      "marks": "waliokombolewa"
     },
     {
       "surface": "פדויי",
-      "gloss": "wa kuombwa fidia"
+      "gloss": "waliokombolewa"
     },
     {
       "surface": "השלשה",
-      "gloss": "watatu"
+      "gloss": "na watatu"
     },
     {
       "surface": "והשבעים",
-      "gloss": "na sabini"
+      "gloss": "sabini"
     },
     {
       "surface": "והמאתים",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "העדפים",
-      "gloss": "ziada"
+      "gloss": "waliozidi"
     },
     {
       "surface": "על",
-      "gloss": "kuliko"
+      "gloss": "zaidi ya"
     },
     {
       "surface": "הלוים",
@@ -42,17 +42,17 @@
     },
     {
       "surface": "מבכור",
-      "gloss": "miongoni mwa wazaliwa wa kwanza"
+      "gloss": "wazaliwa-wa-kwanza"
     },
     {
       "surface": "בני",
-      "gloss": "wa wana wa"
+      "gloss": "wana wa"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisraeli"
     }
   ],
-  "timestamp": "2026-08-10T10:40:40.348603331Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:25.577965892Z",
+  "model": "glm-5.3"
 }

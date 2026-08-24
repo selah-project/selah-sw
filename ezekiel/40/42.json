@@ -5,27 +5,27 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 40,
-  "translation": "Na meza nne za whollyombewe zilikuwa za mawe ya mawe ya kukatwa; urefu wa shimoimoja na nusu, na upana wa shimoimoja na nusu, na kimo cha shimoimoja; kwao; na watatia ⟨את⟩ zana ambazo <⟨את⟩ whollyombewe<\/⟨את⟩> huchinjwa, na dhabihu.",
+  "translation": "Na mezane manne ya ⟨את⟩ sadaka ya kuchomwa ⟨yalikuwa⟩ ya mawe ya kuchongwa: urefu wa dhiraa moja na nusu, na upana wa dhiraa moja na nusu, na kimo cha dhiraa moja; juu yao wataweka ⟨את⟩ vyombo ambavyo wanachinja kwa vitu ⟨את⟩ sadaka ya kuchomwa juu yake, na ⟨את⟩ sadaka ya chinjwa.",
   "tokens": [
     {
       "surface": "וארבעה",
-      "gloss": "na nne"
+      "gloss": "na manne"
     },
     {
       "surface": "שלחנות",
-      "gloss": "meza"
+      "gloss": "mezane"
     },
     {
       "surface": "לעולה",
-      "gloss": "za whollyombewe"
+      "gloss": "ya sadaka ya kuchomwa"
     },
     {
       "surface": "אבני",
-      "gloss": "za mawe"
+      "gloss": "ya mawe"
     },
     {
       "surface": "גזית",
-      "gloss": "ya kukatwa"
+      "gloss": "ya kuchongwa"
     },
     {
       "surface": "ארך",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אמה",
-      "gloss": "shimo"
+      "gloss": "dhiraa"
     },
     {
       "surface": "אחת",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אמה",
-      "gloss": "shimo"
+      "gloss": "dhiraa"
     },
     {
       "surface": "אחת",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אמה",
-      "gloss": "shimo"
+      "gloss": "dhiraa"
     },
     {
       "surface": "אחת",
@@ -73,47 +73,47 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "kwao"
+      "gloss": "juu yao"
     },
     {
       "surface": "ויניחו",
-      "gloss": "na watatia"
+      "gloss": "wataweka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zana"
+      "marks": "vyombo"
     },
     {
       "surface": "הכלים",
-      "gloss": "zana"
+      "gloss": "vyombo"
     },
     {
       "surface": "אשר",
-      "gloss": "ambazo"
+      "gloss": "ambavyo"
     },
     {
       "surface": "ישחטו",
-      "gloss": "huchinjwa"
+      "gloss": "wanachinja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "whollyombewe"
+      "marks": "sadaka ya kuchomwa"
     },
     {
       "surface": "העולה",
-      "gloss": "whollyombewe"
+      "gloss": "sadaka ya kuchomwa"
     },
     {
       "surface": "בם",
-      "gloss": "ndani yake"
+      "gloss": "juu yake"
     },
     {
       "surface": "והזבח",
-      "gloss": "na dhabihu"
+      "gloss": "na sadaka ya chinjwa"
     }
   ],
-  "timestamp": "2026-08-10T15:20:05.031471282Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:54.921288794Z",
+  "model": "glm-5.3"
 }

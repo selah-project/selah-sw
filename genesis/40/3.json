@@ -5,44 +5,44 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 40,
-  "translation": "Akawaweka ⟨אתם⟩ chini ya ulinzi wa nyumba ya mwandamizi wa wauaji, ndani ya jela ya kifungo, mahali ambapo Yosefu alikuwa amefungwa huko.",
+  "translation": "Akawaweka ⟨את⟩ wote wawili katika mahali pa kufungiwa, nyumbani mwa mkuu wa wapikaaji, gerezani, mahali ambapo Yosef alifungwa ⟨huko⟩.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "Akawaweka"
+      "gloss": "akawaweka"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "wao"
+      "marks": "wote wawili"
     },
     {
       "surface": "במשמר",
-      "gloss": "chini ya ulinzi"
+      "gloss": "katika mahali pa kufungiwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumbani mwa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mkuu wa"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "wapikaaji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gerezani"
     },
     {
       "surface": "בית",
       "gloss": "nyumba ya"
     },
     {
-      "surface": "שר",
-      "gloss": "mwandamizi"
-    },
-    {
-      "surface": "הטבחים",
-      "gloss": "wa wauaji"
-    },
-    {
-      "surface": "אל",
-      "gloss": "ndani ya"
-    },
-    {
-      "surface": "בית",
-      "gloss": "jela"
-    },
-    {
       "surface": "הסהר",
-      "gloss": "ya kifungo"
+      "gloss": "gereza"
     },
     {
       "surface": "מקום",
@@ -54,17 +54,17 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Yosefu"
+      "gloss": "Yosef"
     },
     {
       "surface": "אסור",
-      "gloss": "amefungwa"
+      "gloss": "alifungwa"
     },
     {
       "surface": "שם",
-      "gloss": "huko"
+      "gloss": "⟨huko⟩"
     }
   ],
-  "timestamp": "2026-08-10T10:13:35.511232384Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:16.810132898Z",
+  "model": "glm-5.3"
 }

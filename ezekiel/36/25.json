@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 36,
-  "translation": "Nami nitanyunyuzia juu yenu maji safi, nanyi mtak-clean; kutoka unajisi wenu wote, na kutoka sanamu zenu zote nitawatakasa ⟨אתם⟩.",
+  "translation": "Nami nitamwagia juu yenu maji safi, nanyi mtasafishwa; kutoka machafu yenu yote na kutoka sanamu zenu zote nitawasafisha ninyi ⟨את⟩ ⟨אתכם⟩.",
   "tokens": [
     {
       "surface": "וזרקתי",
-      "gloss": "nami nitanyunyuzia"
+      "gloss": "nitamwagia"
     },
     {
       "surface": "עליכם",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "וטהרתם",
-      "gloss": "nanyi mtak-clean"
+      "gloss": "nanyi mtasafishwa"
     },
     {
       "surface": "מכל",
-      "gloss": "kutoka wote"
+      "gloss": "kutoka yote"
     },
     {
       "surface": "טמאותיכם",
-      "gloss": "unajisi wenu"
+      "gloss": "machafu yenu"
     },
     {
       "surface": "ומכל",
@@ -45,14 +45,14 @@
     },
     {
       "surface": "אטהר",
-      "gloss": "nitawatakasa"
+      "gloss": "nitawasafisha"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "ninyi"
     }
   ],
-  "timestamp": "2026-08-10T12:36:19.812071744Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.347751966Z",
+  "model": "glm-5.3"
 }

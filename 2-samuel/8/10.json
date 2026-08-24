@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "sw",
   "chapter": 8,
-  "translation": "na Toi akamtuma ⟨את⟩ Yoram mwanae kwa mfalme David, kumsalimia kwa amani, na kumbariki, kwa sababu alipigana na Hadadezer na kumshinda; maana Hadadezer alikuwa mtu wa vita ⟨⟨wa⟩⟩ Toi. Na mkononi mwake palikuwa na vyombo vya fedha na vyombo vya dhahabu na vyombo vya shaba.",
+  "translation": "Toi akamtuma ⟨את⟩ Yoram mwanae kumwuliza mfalme David kuhusu amani yake na kumbariki, kwa sababu alipigana na Hadadezer na kumwangua; kwa kuwa Hadadezer alikuwa mtu wa vita ⟨na⟩ Toi; na mkononi mwake vilikuwepo vyombo vya fedha na vyombo vya dhahabu na vyombo vya shaba.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "na ... akamtuma"
+      "gloss": "akamtuma"
     },
     {
       "surface": "תעי",
@@ -42,23 +42,23 @@
     },
     {
       "surface": "לשאל",
-      "gloss": "kumsalimia"
+      "gloss": "kumwuliza"
     },
     {
       "surface": "לו",
-      "gloss": "yeye"
+      "gloss": "yake"
     },
     {
       "surface": "לשלום",
-      "gloss": "kwa amani"
+      "gloss": "kuhusu amani"
     },
     {
-      "surface": "ולברכו",
+      "surface": "ו לברכו",
       "gloss": "na kumbariki"
     },
     {
       "surface": "על",
-      "gloss": "kwa sababu"
+      "gloss": "kwa sababu ya"
     },
     {
       "surface": "אשר",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "ויכהו",
-      "gloss": "na kumshinda"
+      "gloss": "na kumwangua"
     },
     {
       "surface": "כי",
-      "gloss": "maana"
+      "gloss": "kwa kuwa"
     },
     {
       "surface": "איש",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "היו",
-      "gloss": "palikuwa na"
+      "gloss": "vilikuwepo"
     },
     {
       "surface": "כלי",
@@ -133,6 +133,6 @@
       "gloss": "vya shaba"
     }
   ],
-  "timestamp": "2026-08-10T11:30:12.421244604Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:59.094951792Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Yahweh akawaneemesha, akawahurumia, akawaelekea kwa ajili ya berit yake ⟨את⟩ ⟨pamoja na⟩ Avraham, Yitsaki, na Yaakov; wala hakutaka kuwaangamiza, wala hatukuwatuaga kutoka mbele za uso wake hata sasa.",
+  "translation": "Ndiyo Yahweh aliwaneemesha ⟨אתם⟩ akawahurumia, akawageukia kwa ajili ya agano lake ⟨את⟩ Avraham, Yitschak na Yaakov; hakutaka kuwaharibu, wala kuwatupa mbali na uso wake hata sasa.",
   "tokens": [
     {
       "surface": "ויחן",
-      "gloss": "akawaneemesha"
+      "gloss": "aliwaneemesha"
     },
     {
       "surface": "יהוה",
@@ -17,8 +17,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "(walioneemeshwa)"
+      "gloss": "⟨את⟩",
+      "marks": "wao (Israeli)"
     },
     {
       "surface": "וירחמם",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ויפן",
-      "gloss": "akawaelekea"
+      "gloss": "akawageukia"
     },
     {
       "surface": "אליהם",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "בריתו",
-      "gloss": "berit yake"
+      "gloss": "agano lake"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ⟨pamoja na⟩",
+      "gloss": "⟨את⟩",
       "marks": "Avraham"
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "surface": "יצחק",
-      "gloss": "Yitsaki"
+      "gloss": "Yitschak"
     },
     {
       "surface": "ויעקב",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "השחיתם",
-      "gloss": "kuwaangamiza"
+      "gloss": "kuwaharibu"
     },
     {
       "surface": "ולא",
@@ -75,15 +75,15 @@
     },
     {
       "surface": "השליכם",
-      "gloss": "hatukuwatuaga"
+      "gloss": "kuwatupa"
     },
     {
       "surface": "מעל",
-      "gloss": "kutoka"
+      "gloss": "mbali na"
     },
     {
       "surface": "פניו",
-      "gloss": "mbele za uso wake"
+      "gloss": "uso wake"
     },
     {
       "surface": "עד",
@@ -94,6 +94,6 @@
       "gloss": "sasa"
     }
   ],
-  "timestamp": "2026-08-10T15:02:35.609710243Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:10.844618373Z",
+  "model": "glm-5.3"
 }

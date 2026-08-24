@@ -5,27 +5,27 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 16,
-  "translation": "na akapiga ⟨⟨kwa⟩⟩ mnara, na akamwambia: \"Wafilistim ⟨wako⟩ juu yako, Shimshon!\" Naye akaamka katika usingizini mwake, akaondoka na ⟨את⟩ mnara wa kinu na ⟨את⟩ tishu ya ubao.",
+  "translation": "Akai Pigia nayo fito, akamwambia: Wafilisti ⟨wanakuja⟩ juu yako, Shimshon! Naye akaamka kutoka usingizini, akatoa ⟨את⟩ fito ya ui na ⟨את⟩ utando.",
   "tokens": [
     {
       "surface": "ותתקע",
-      "gloss": "na akapiga"
+      "gloss": "akaipigia"
     },
     {
       "surface": "ביתד",
-      "gloss": "⟨⟨kwa⟩⟩ mnara"
+      "gloss": "na fito"
     },
     {
       "surface": "ותאמר",
-      "gloss": "na akamwambia"
+      "gloss": "akamwambia"
     },
     {
       "surface": "אליו",
-      "gloss": "mw"
+      "gloss": "kwake"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Wafilistim"
+      "gloss": "Wafilisti"
     },
     {
       "surface": "עליך",
@@ -37,39 +37,39 @@
     },
     {
       "surface": "וייקץ",
-      "gloss": "Naye akaamka"
+      "gloss": "akaamka"
     },
     {
       "surface": "משנתו",
-      "gloss": "katika usingizini mwake"
+      "gloss": "kutoka usingizini"
     },
     {
       "surface": "ויסע",
-      "gloss": "akaondoka na"
+      "gloss": "akatoa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mnara wa kinu"
+      "marks": "fito ya ui"
     },
     {
       "surface": "היתד",
-      "gloss": "mnara"
+      "gloss": "fito"
     },
     {
       "surface": "הארג",
-      "gloss": "wa kinu"
+      "gloss": "ya ui"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "tishu ya ubao"
+      "gloss": "⟨את⟩",
+      "marks": "utando"
     },
     {
       "surface": "המסכת",
-      "gloss": "tishu ya ubao"
+      "gloss": "utando"
     }
   ],
-  "timestamp": "2026-08-10T15:59:40.040970101Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:06.187563606Z",
+  "model": "glm-5.3"
 }

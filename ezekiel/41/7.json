@@ -5,23 +5,23 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 41,
-  "translation": "Na ilipanuka na ilizunguka kuelea juu, kuelea juu, kwa ⟨the⟩ vyumba vya ubavu; kwa maana kuzunguka kwa ⟨the⟩ nyumba kuelea juu, kuelea juu, kuzunguka kuzunguka kwa ⟨the⟩ nyumba; kwa hiyo ⟨kulikuwa na⟩ upana kwa ⟨the⟩ nyumba kuelea juu; na hivyo ya chini ilipanda juu ya ya juu kwa ⟨the⟩ ya kati.",
+  "translation": "Napo ilipanuka na kuzungukwa juu ⟨na juu tena⟩ kwa vyumba vya ubavu, kwa sababu mzunguko wa nyumba ulikuwa juu ⟨na juu tena⟩ kuzunguka ⟨kuzunguka⟩ nyumba; kwa hiyo upana wa nyumba ⟨ulikuwa⟩ juu, na hivyo ya chini kabisa ilipanda juu ya ya juu kabisa hadi ya katikati.",
   "tokens": [
     {
       "surface": "ורחבה",
-      "gloss": "Na ilipanuka"
+      "gloss": "Napo ilipanuka"
     },
     {
       "surface": "ונסבה",
-      "gloss": "na ilizunguka"
+      "gloss": "na kuzungukwa"
     },
     {
       "surface": "למעלה",
-      "gloss": "kuelea juu"
+      "gloss": "juu"
     },
     {
       "surface": "למעלה",
-      "gloss": "kuelea juu"
+      "gloss": "⟨na juu tena⟩"
     },
     {
       "surface": "לצלעות",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "כי",
-      "gloss": "kwa maana"
+      "gloss": "kwa sababu"
     },
     {
       "surface": "מוסב",
-      "gloss": "kuzunguka kwa"
+      "gloss": "mzunguko"
     },
     {
       "surface": "הבית",
-      "gloss": "nyumba"
+      "gloss": "wa nyumba"
     },
     {
       "surface": "למעלה",
-      "gloss": "kuelea juu"
+      "gloss": "juu"
     },
     {
       "surface": "למעלה",
-      "gloss": "kuelea juu"
+      "gloss": "⟨na juu tena⟩"
     },
     {
       "surface": "סביב",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "סביב",
-      "gloss": "kuzunguka"
+      "gloss": "⟨kuzunguka⟩"
     },
     {
       "surface": "לבית",
-      "gloss": "kwa nyumba"
+      "gloss": "nyumba"
     },
     {
       "surface": "על",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "hivyo"
+      "gloss": "⟨hiyo⟩"
     },
     {
       "surface": "רחב",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "לבית",
-      "gloss": "kwa nyumba"
+      "gloss": "wa nyumba"
     },
     {
       "surface": "למעלה",
-      "gloss": "kuelea juu"
+      "gloss": "juu"
     },
     {
       "surface": "וכן",
@@ -85,11 +85,11 @@
     },
     {
       "surface": "התחתונה",
-      "gloss": "ya chini"
+      "gloss": "ya chini kabisa"
     },
     {
       "surface": "יעלה",
-      "gloss": "ilipanda juu ya"
+      "gloss": "ilipanda"
     },
     {
       "surface": "על",
@@ -97,13 +97,13 @@
     },
     {
       "surface": "העליונה",
-      "gloss": "ya juu"
+      "gloss": "ya juu kabisa"
     },
     {
       "surface": "לתיכונה",
-      "gloss": "kwa ya kati"
+      "gloss": "hadi ya katikati"
     }
   ],
-  "timestamp": "2026-08-10T12:38:08.467758977Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:28.338016035Z",
+  "model": "glm-5.3"
 }

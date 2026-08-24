@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 5,
-  "translation": "Kutoka Efrayimu mizizi yao ⟨i⟩lio ⟨⟨kati⟩⟩ ya Amaleki; nyuma yako Biniamini, kati ya makabila yako; kutoka Makiri walishuka waku; na kutoka Zebuluni wanaobeba fimbo ya mwandishi.",
+  "translation": "Kutoka Efrayimu mizizi yao ilienea katika Amaleki; nyuma yako, Binyamin, miongoni mwa makabila yako; kutoka Makiri walishuka washonaji-sheria, na kutoka Zevuluni wanaovuta kijiti cha mwandishi.",
   "tokens": [
     {
       "surface": "מני",
-      "gloss": "Kutoka"
+      "gloss": "kutoka"
     },
     {
       "surface": "אפרים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בעמלק",
-      "gloss": "kati ya Amaleki"
+      "gloss": "katika Amaleki"
     },
     {
       "surface": "אחריך",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "בנימין",
-      "gloss": "Biniamini"
+      "gloss": "Binyamin"
     },
     {
       "surface": "בעממיך",
-      "gloss": "kati ya makabila yako"
+      "gloss": "miongoni mwa makabila yako"
     },
     {
       "surface": "מני",
@@ -49,25 +49,25 @@
     },
     {
       "surface": "מחקקים",
-      "gloss": "waku"
+      "gloss": "washonaji-sheria"
     },
     {
       "surface": "ומזבולן",
-      "gloss": "na kutoka Zebuluni"
+      "gloss": "na kutoka Zevuluni"
     },
     {
       "surface": "משכים",
-      "gloss": "wanaobeba"
+      "gloss": "wanaovuta"
     },
     {
       "surface": "בשבט",
-      "gloss": "fimbo ya"
+      "gloss": "kijiti cha"
     },
     {
       "surface": "ספר",
       "gloss": "mwandishi"
     }
   ],
-  "timestamp": "2026-08-10T11:13:25.195512667Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:23.230053752Z",
+  "model": "glm-5.3"
 }

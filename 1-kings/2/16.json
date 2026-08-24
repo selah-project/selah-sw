@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Na sasa, ombi moja mimi naomba kutoka ⟨את⟩ kwako; usirudishe ⟨⟨nyonga⟩⟩ ⟨את⟩ nyuso zangu. Akamwambia, Ona.",
+  "translation": "Na sasa ombi moja ninaomba ⟨את⟩ ⟨מאתך⟩ kwako; usirudishi ⟨את⟩ uso wangu. Naye akamwambia: Sema.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Na sasa"
+      "gloss": "na sasa"
     },
     {
       "surface": "שאלה",
@@ -29,28 +29,28 @@
     },
     {
       "surface": "מאתך",
-      "gloss": "⟨את⟩ kutoka kwako"
+      "gloss": "⟨את⟩ ⟨מאתך⟩ kwako"
     },
     {
       "surface": "אל",
-      "gloss": "usirudishe"
+      "gloss": "usi-"
     },
     {
       "surface": "תשבי",
-      "gloss": "usirudishe"
+      "gloss": "rirudishi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nyuso zangu"
+      "marks": "uso wangu"
     },
     {
       "surface": "פני",
-      "gloss": "nyuso zangu"
+      "gloss": "uso wangu"
     },
     {
       "surface": "ותאמר",
-      "gloss": "Akasema"
+      "gloss": "naye akamwambia"
     },
     {
       "surface": "אליו",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "דבר",
-      "gloss": "Ona"
+      "gloss": "sema"
     }
   ],
-  "timestamp": "2026-08-10T11:37:09.415092352Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.386678481Z",
+  "model": "glm-5.3"
 }

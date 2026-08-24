@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 29,
-  "translation": "Na utafanya kwa Aharon na kwa wanawe vivyo hivyo; kulingana na yote nilivyokuamria ⟨⟨את⟩ wewe⟩; siku saba utawajaza mikono.",
+  "translation": "Na utafanya hivi kwa Aharon na kwa wanawe, kwa kadiri ya yote niliyokuamuru ⟨את⟩ wewe: siku saba utawajaza mikono yao.",
   "tokens": [
     {
       "surface": "ועשית",
@@ -21,23 +21,24 @@
     },
     {
       "surface": "ככה",
-      "gloss": "vivyo hivyo"
+      "gloss": "hivi"
     },
     {
       "surface": "ככל",
-      "gloss": "kulingana na yote"
+      "gloss": "kwa kadiri ya yote"
     },
     {
       "surface": "אשר",
-      "gloss": "nilivyo"
+      "gloss": "ambayo"
     },
     {
       "surface": "צויתי",
-      "gloss": "kuamria"
+      "gloss": "niliyokuamuru"
     },
     {
       "surface": "אתכה",
-      "gloss": "⟨את⟩ wewe"
+      "gloss": "⟨את⟩ wewe",
+      "marks": "wewe"
     },
     {
       "surface": "שבעת",
@@ -53,9 +54,9 @@
     },
     {
       "surface": "ידם",
-      "gloss": "mikono"
+      "gloss": "mikono yao"
     }
   ],
-  "timestamp": "2026-08-10T10:27:05.148091088Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:00.877135408Z",
+  "model": "glm-5.3"
 }

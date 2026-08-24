@@ -5,46 +5,46 @@
   "book": "job",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Je, ni heri kwa kuwa ⟨⟨ye⟩⟩ atawachunguza ⟨אתכם⟩? Au kama mtu anavyomdhihaki mwanadamu, je, nyinyi mnamdhihaki?",
+  "translation": "Je, ni vyema kwamba atachunguza ⟨את⟩ ninyi? Au kama anavyodhihaki mwanadamu, ndivyo mnamdhihaki yeye?",
   "tokens": [
     {
-      "surface": "הֲ֭טוֹב",
-      "gloss": "Je, ni heri"
+      "surface": "הטוב",
+      "gloss": "ni vyema"
     },
     {
-      "surface": "כִּֽי",
-      "gloss": "kwa kuwa"
+      "surface": "כי",
+      "gloss": "kwamba"
     },
     {
-      "surface": "יַחְקֹ֣ר",
-      "gloss": "atawachunguza"
+      "surface": "יחקר",
+      "gloss": "atachunguza"
     },
     {
-      "surface": "אֶתְכֶ֑ם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "nyinyi"
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
     },
     {
-      "surface": "אִם",
-      "gloss": "Au"
+      "surface": "אם",
+      "gloss": "au"
     },
     {
-      "surface": "כְּהָתֵ֥ל",
-      "gloss": "anavyomdhihaki"
+      "surface": "כהתל",
+      "gloss": "kama anavyodhihaki"
     },
     {
-      "surface": "בֶּ֝אֱנ֗וֹשׁ",
+      "surface": "באנוש",
       "gloss": "mwanadamu"
     },
     {
-      "surface": "תְּהָתֵ֥לּוּ",
+      "surface": "תהתלו",
       "gloss": "mnamdhihaki"
     },
     {
-      "surface": "בֽוֹ",
-      "gloss": "ye"
+      "surface": "בו",
+      "gloss": "yeye"
     }
   ],
-  "timestamp": "2026-08-10T16:22:14.244752199Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:38.414135330Z",
+  "model": "glm-5.3"
 }

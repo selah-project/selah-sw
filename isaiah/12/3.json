@@ -5,29 +5,29 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 12,
-  "translation": "Na mtavuta maji kwa shangwe, kutoka chemchem za ⟨הַ⟩ ukombozi.",
+  "translation": "Nanyi mtachota maji kwa shangwe kutoka mashimo ya wokovu — ממעיני הישועה.",
   "tokens": [
     {
-      "surface": "וּשְׁאַבְתֶּם",
-      "gloss": "Na mtavuta"
+      "surface": "ושאבתם",
+      "gloss": "mtachota"
     },
     {
-      "surface": "מַ֖יִם",
+      "surface": "מים",
       "gloss": "maji"
     },
     {
-      "surface": "בְּשָׂשׂ֑וֹן",
+      "surface": "בששון",
       "gloss": "kwa shangwe"
     },
     {
-      "surface": "מִמַּעַיְנֵ֖י",
-      "gloss": "kutoka chemchem za"
+      "surface": "ממעיני",
+      "gloss": "kutoka mashimo ya"
     },
     {
-      "surface": "הַיְשׁוּעָֽה",
-      "gloss": "⟨הַ⟩ ukombozi"
+      "surface": "הישועה",
+      "gloss": "wokovu"
     }
   ],
-  "timestamp": "2026-08-10T16:06:41.243863086Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:00.674507135Z",
+  "model": "glm-5.3"
 }

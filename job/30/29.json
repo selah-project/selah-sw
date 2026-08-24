@@ -5,33 +5,33 @@
   "book": "job",
   "lang": "sw",
   "chapter": 30,
-  "translation": "ndugu wa ⟨כְּ⟩ wyveri nilikuwa, na rafiki wa binti-zibu.",
+  "translation": "Ndugu wa mbwa-mwitu nimekuwa, na rafiki wa binti-wa-tayari.",
   "tokens": [
     {
-      "surface": "אָ֭ח",
+      "surface": "אח",
       "gloss": "ndugu"
     },
     {
-      "surface": "הָיִ֣יתִי",
-      "gloss": "nilikuwa"
+      "surface": "הייתי",
+      "gloss": "nimekuwa"
     },
     {
-      "surface": "לְתַנִּ֑ים",
-      "gloss": "wa ⟨כְּ⟩ wyveri"
+      "surface": "לתנים",
+      "gloss": "wa mbwa-mwitu"
     },
     {
-      "surface": "וְ֝רֵ֗עַ",
+      "surface": "ורע",
       "gloss": "na rafiki"
     },
     {
-      "surface": "לִבְנ֥וֹת",
-      "gloss": "wa binti-"
+      "surface": "לבנות",
+      "gloss": "wa binti"
     },
     {
-      "surface": "יַעֲנָֽה",
-      "gloss": "zibu"
+      "surface": "יענה",
+      "gloss": "tayari"
     }
   ],
-  "timestamp": "2026-08-10T15:34:27.703265939Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:09.981171500Z",
+  "model": "glm-5.3"
 }

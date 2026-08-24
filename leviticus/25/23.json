@@ -5,57 +5,57 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 25,
-  "translation": "Na nchi isiuZwe kwa kutoweza kurejeshwa, kwa maana ni yangu ⟨⟨nchi⟩⟩; kwa maanaageni na wakazi ninyepamoja nami.",
+  "translation": "Na ⟨the⟩ nchi isiuzwe kwa makusudi ya kupotea kabisa, maana nchi ni yangu mimi; kwa maana ninyi ni wageni na wakazi pamoja nami.",
   "tokens": [
     {
-      "surface": "וְהָאָ֗רֶץ",
-      "gloss": "Na nchi"
+      "surface": "והארץ",
+      "gloss": "Na ⟨the⟩ nchi"
     },
     {
-      "surface": "לֹ֤א",
-      "gloss": "isiuzwe"
+      "surface": "לא",
+      "gloss": "si"
     },
     {
-      "surface": "תִמָּכֵר֙",
-      "gloss": "kwa kutoweza kurejeshwa"
+      "surface": "תמכר",
+      "gloss": "iuzwe"
     },
     {
-      "surface": "לִצְמִתֻ֔ת",
+      "surface": "לצמתת",
+      "gloss": "kwa makusudi ya kupotea kabisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ni yangu mimi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nchi"
+    },
+    {
+      "surface": "כי",
       "gloss": "kwa maana"
     },
     {
-      "surface": "כִּי",
-      "gloss": "ni yangu"
-    },
-    {
-      "surface": "לִ֖י",
-      "gloss": "⟨nhi⟩"
-    },
-    {
-      "surface": "הָאָ֑רֶץ",
-      "gloss": "kwa maana"
-    },
-    {
-      "surface": "כִּֽי",
+      "surface": "גרים",
       "gloss": "wageni"
     },
     {
-      "surface": "גֵרִ֧ים",
+      "surface": "ותושבים",
       "gloss": "na wakazi"
     },
     {
-      "surface": "וְתוֹשָׁבִ֛ים",
-      "gloss": "ninye"
+      "surface": "אתם",
+      "gloss": "ninyi"
     },
     {
-      "surface": "אַתֶּ֖ם",
-      "gloss": "pamoja"
-    },
-    {
-      "surface": "עִמָּדִֽי",
-      "gloss": "nami"
+      "surface": "עמדי",
+      "gloss": "pamoja nami"
     }
   ],
-  "timestamp": "2026-08-10T14:36:07.755764024Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:51.732322050Z",
+  "model": "glm-5.3"
 }

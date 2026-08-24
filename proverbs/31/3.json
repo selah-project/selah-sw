@@ -5,37 +5,37 @@
   "book": "proverbs",
   "lang": "sw",
   "chapter": 31,
-  "translation": "Usiweke nguvu zako kwa wanawake, wala njia zako kwa ⟨⟨wale wanao⟩⟩ waangamiza wafalme.",
+  "translation": "Usiipe nguvu yako wanawake, wala njia zako kwa wanaoharibu wafalme.",
   "tokens": [
     {
-      "surface": "אַל",
-      "gloss": "Usiweke"
+      "surface": "אל",
+      "gloss": "usi"
     },
     {
-      "surface": "תִּתֵּ֣ן",
-      "gloss": "⟨usiweke⟩"
+      "surface": "תתן",
+      "gloss": "ipe"
     },
     {
-      "surface": "לַנָּשִׁ֣ים",
-      "gloss": "kwa wanawake"
+      "surface": "לנשים",
+      "gloss": "wanawake"
     },
     {
-      "surface": "חֵילֶ֑ךָ",
-      "gloss": "nguvu zako"
+      "surface": "חילך",
+      "gloss": "nguvu yako"
     },
     {
-      "surface": "וּ֝דְרָכֶ֗יךָ",
+      "surface": "ודרכיך",
       "gloss": "wala njia zako"
     },
     {
-      "surface": "לַֽמְח֥וֹת",
-      "gloss": "kwa ⟨wanao⟩waangamiza"
+      "surface": "למחות",
+      "gloss": "kwa wanaoharibu"
     },
     {
-      "surface": "מְלָכִֽין",
+      "surface": "מלכין",
       "gloss": "wafalme"
     }
   ],
-  "timestamp": "2026-08-10T15:32:59.041455866Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:31.557501770Z",
+  "model": "glm-5.3"
 }

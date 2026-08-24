@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 5,
-  "translation": "Na mfalme akaamuru, wakasafirisha mawe makubwa, mawe ya thamani, kwa ajili ya kuiweka msingi wa ⟨the⟩ nyumba — mawe ya kukata.",
+  "translation": "Na mfalme aliamrisha, nao wakachukua mawe makubwa, mawe ya thamani, kukiweka msingi wa nyumba, mawe ya kudongorwa.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "na akaamuru"
+      "gloss": "aliamrisha"
     },
     {
       "surface": "המלך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ויסעו",
-      "gloss": "wakasafirisha"
+      "gloss": "wakachukua"
     },
     {
       "surface": "אבנים",
@@ -37,21 +37,21 @@
     },
     {
       "surface": "ליסד",
-      "gloss": "kwa ajili ya kuweka msingi"
+      "gloss": "kukiweka msingi"
     },
     {
       "surface": "הבית",
-      "gloss": "wa nyumba"
+      "gloss": "nyumba"
     },
     {
       "surface": "אבני",
-      "gloss": "mawe ya"
+      "gloss": "mawe"
     },
     {
       "surface": "גזית",
-      "gloss": "kukata"
+      "gloss": "ya kudongorwa"
     }
   ],
-  "timestamp": "2026-08-10T11:38:33.691369852Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:35.275302087Z",
+  "model": "glm-5.3"
 }

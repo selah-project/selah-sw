@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 58,
-  "translation": "Mwenye haki atafurahi kwa sababu ⟨⟨ame⟩ona⟩ kisasi; hatua zake ⟨zitaoshwa⟩ katika damu ya mtenda mabaya.",
+  "translation": "Mwenye haki atafurahi ataonapo malipo ⟨ya⟩ khasiara; hatua zake zitasafishwa katika damu ya mwovu.",
   "tokens": [
     {
       "surface": "ישמח",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "kwa sababu"
+      "gloss": "ataonapo"
     },
     {
       "surface": "חזה",
-      "gloss": "⟨⟨ame⟩ona⟩"
+      "gloss": "ataona"
     },
     {
       "surface": "נקם",
-      "gloss": "kisasi"
+      "gloss": "malipo ya khasiara"
     },
     {
       "surface": "פעמיו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ירחץ",
-      "gloss": "⟨zitaoshwa⟩"
+      "gloss": "zitasafishwa"
     },
     {
       "surface": "בדם",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "הרשע",
-      "gloss": "ya mtenda mabaya"
+      "gloss": "ya mwovu"
     }
   ],
-  "timestamp": "2026-08-10T13:03:55.526397297Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:45.743334311Z",
+  "model": "glm-5.3"
 }

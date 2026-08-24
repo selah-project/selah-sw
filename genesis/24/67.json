@@ -5,10 +5,10 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 24,
-  "translation": "Yitschak akamleta ⟨אֹתָהּ⟩ hema la Sara mama yake; akamchukua ⟨את⟩ Rivka, naye akawa mke wake, akampenda; Yitschak akafarijwa baada ya mama yake.",
+  "translation": "Yitschak akamleta ⟨את⟩ Rivka hema ya Sarah mama yake, akamchukua, naye akawa mke wake, akampenda; na Yitschak akafarijika baada ya mama yake.",
   "tokens": [
     {
-      "surface": "וביאה",
+      "surface": "ויבאה",
       "gloss": "akamleta"
     },
     {
@@ -17,11 +17,11 @@
     },
     {
       "surface": "האהלה",
-      "gloss": "hema la"
+      "gloss": "hema"
     },
     {
       "surface": "שרה",
-      "gloss": "Sara"
+      "gloss": "Sarah"
     },
     {
       "surface": "אמו",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "וינחם",
-      "gloss": "akafarijwa"
+      "gloss": "akafarijika"
     },
     {
       "surface": "יצחק",
@@ -73,6 +73,6 @@
       "gloss": "mama yake"
     }
   ],
-  "timestamp": "2026-08-10T14:25:11.458773307Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:25.947035133Z",
+  "model": "glm-5.3"
 }

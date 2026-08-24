@@ -5,7 +5,7 @@
   "book": "ruth",
   "lang": "sw",
   "chapter": 4,
-  "translation": "Akamwambia mkombozi, ``Sehemu ya shamba ambayo ⟨⟨ilikuwa⟩⟩ ya kaka yetu Elimeleki — yaiuzuye Naomi, arudiye kutoka shambani mwa Moabu:",
+  "translation": "Akamwambia goel: Sehemu ya ⟨⟨shamba⟩⟩ iliyo ya ndugu yetu, ya Elimelech, Naomi aliyerudi kutoka mashambani wa Moav anaiuza.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,31 +13,31 @@
     },
     {
       "surface": "לגאל",
-      "gloss": "mkombozi"
+      "gloss": "goel"
     },
     {
       "surface": "חלקת",
-      "gloss": "Sehemu"
+      "gloss": "Sehemu ya"
     },
     {
       "surface": "השדה",
-      "gloss": "ya shamba"
+      "gloss": "shamba"
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "iliyo"
     },
     {
       "surface": "לאחינו",
-      "gloss": "ya kaka yetu"
+      "gloss": "ya ndugu yetu"
     },
     {
       "surface": "לאלימלך",
-      "gloss": "Elimeleki"
+      "gloss": "ya Elimelech"
     },
     {
       "surface": "מכרה",
-      "gloss": "yaiuzuye"
+      "gloss": "anaiuza"
     },
     {
       "surface": "נעמי",
@@ -45,17 +45,17 @@
     },
     {
       "surface": "השבה",
-      "gloss": "arudiye"
+      "gloss": "aliyerudi"
     },
     {
       "surface": "משדה",
-      "gloss": "kutoka shambani mwa"
+      "gloss": "kutoka mashambani wa"
     },
     {
       "surface": "מואב",
-      "gloss": "Moabu"
+      "gloss": "Moav"
     }
   ],
-  "timestamp": "2026-08-10T15:36:57.090215919Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:09.668327250Z",
+  "model": "glm-5.3"
 }

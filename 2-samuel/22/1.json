@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "sw",
   "chapter": 22,
-  "translation": "David akamwambia Yahweh maneno ⟨את⟩ ya wimbo huu siku ile Yahweh alipomwokoa ⟨אתו⟩ kutoka mkononi mwa adui zake wote na kutoka mkononi mwa Shaul.",
+  "translation": "Daudi alinena kwa Yahweh ⟨את⟩ maneno ya wimbo huu, siku ile Yahweh alipomwokoa yeye ⟨את⟩ ⟨אתו⟩ katika mkono wa adui zake wote, na katika mkono wa Shaul.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "akamwambia"
+      "gloss": "alinena"
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "Daudi"
     },
     {
       "surface": "ליהוה",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "דברי",
-      "gloss": "maneno ya"
+      "gloss": "maneno"
     },
     {
       "surface": "השירה",
-      "gloss": "wimbo"
+      "gloss": "ya wimbo"
     },
     {
       "surface": "הזאת",
@@ -50,12 +50,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "yeye"
     },
     {
       "surface": "מכף",
-      "gloss": "kutoka mkononi mwa"
+      "gloss": "katika mkono wa"
     },
     {
       "surface": "כל",
@@ -67,13 +67,13 @@
     },
     {
       "surface": "ומכף",
-      "gloss": "na kutoka mkononi mwa"
+      "gloss": "na katika mkano wa"
     },
     {
       "surface": "שאול",
       "gloss": "Shaul"
     }
   ],
-  "timestamp": "2026-08-10T11:34:50.027816559Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.294856392Z",
+  "model": "glm-5.3"
 }

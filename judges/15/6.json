@@ -5,19 +5,19 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 15,
-  "translation": "Wapelishti wakasema: Nani alifanya jambo hili? Wakasema: Shimshoni, mkwe wa mtu wa Timna, kwa sababu alitwaa ⟨את⟩ mke wake, akampa mwenziwe. Basi Wapelishti wakapanda, wakamchoma ⟨את⟩ yeye ⟨וְאֶת⟩ baba yake kwa moto.",
+  "translation": "Nao Wafilisti walisema, Nani alifanya hii? Nao walisema, Shimshon, mkwe wa Mtitimni, kwa maana alitakea ⟨את⟩ mkewe, akampa mwenziwe. Ndio Wafilisti wakapanda, wakamwunguza ⟨את⟩ yeye na ⟨את⟩ baba yake kwa moto.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "wakasema"
+      "gloss": "walisema"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Wapelishti"
+      "gloss": "Wafilisti"
     },
     {
       "surface": "מי",
-      "gloss": "nani"
+      "gloss": "Nani"
     },
     {
       "surface": "עשה",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "זאת",
-      "gloss": "jambo hili"
+      "gloss": "hii"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "wakasema"
+      "gloss": "walisema"
     },
     {
       "surface": "שמשון",
-      "gloss": "Shimshoni"
+      "gloss": "Shimshon"
     },
     {
       "surface": "חתן",
@@ -41,24 +41,24 @@
     },
     {
       "surface": "התמני",
-      "gloss": "wa mtu wa Timna"
+      "gloss": "wa Mtitimni"
     },
     {
       "surface": "כי",
-      "gloss": "kwa sababu"
+      "gloss": "kwa maana"
     },
     {
       "surface": "לקח",
-      "gloss": "alitwaa"
+      "gloss": "alitakea"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mke wake"
+      "marks": "mkewe"
     },
     {
       "surface": "אשתו",
-      "gloss": "mke wake"
+      "gloss": "mkewe"
     },
     {
       "surface": "ויתנה",
@@ -74,19 +74,20 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Wapelishti"
+      "gloss": "Wafilisti"
     },
     {
       "surface": "וישרפו",
-      "gloss": "wakamchoma"
+      "gloss": "wakamwunguza"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ yeye"
+      "gloss": "⟨את⟩ yeye",
+      "marks": "yeye (mke)"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "na ⟨את⟩",
       "marks": "baba yake"
     },
     {
@@ -98,6 +99,6 @@
       "gloss": "kwa moto"
     }
   ],
-  "timestamp": "2026-08-10T11:17:03.616673275Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:09.027627645Z",
+  "model": "glm-5.3"
 }

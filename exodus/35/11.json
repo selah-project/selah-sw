@@ -5,43 +5,43 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 35,
-  "translation": "⟨את⟩ hema, ⟨את⟩ hema lake na ⟨את⟩ kifunio chake, ⟨את⟩ vibanio vyake na ⟨את⟩ mbao zake, ⟨את⟩ mihimili yake, ⟨את nguzo zake na ⟨את⟩ misingi yake.",
+  "translation": "⟨את⟩ Maskani, ⟨את⟩ hema yake na ⟨את⟩ funiko lake, ⟨את⟩ tezi zake na ⟨את⟩ mbao zake, ⟨את⟩ ming'aro yake, ⟨את⟩ nguzo zake na ⟨את⟩ misingi yake",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hema"
+      "marks": "Maskani"
     },
     {
       "surface": "המשכן",
-      "gloss": "hema"
+      "gloss": "Maskani"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hema lake"
+      "marks": "hema yake"
     },
     {
       "surface": "אהלו",
-      "gloss": "hema lake"
+      "gloss": "hema yake"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "kifunio chake"
+      "marks": "funiko lake"
     },
     {
       "surface": "מכסהו",
-      "gloss": "kifunio chake"
+      "gloss": "funiko lake"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vibanio vyake"
+      "marks": "tezi zake"
     },
     {
       "surface": "קרסיו",
-      "gloss": "vibanio vyake"
+      "gloss": "tezi zake"
     },
     {
       "surface": "ואת",
@@ -55,11 +55,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mihimili yake"
+      "marks": "ming'aro yake"
     },
     {
       "surface": "בריחו",
-      "gloss": "mihimili yake"
+      "gloss": "ming'aro yake"
     },
     {
       "surface": "את",
@@ -71,7 +71,7 @@
       "gloss": "nguzo zake"
     },
     {
-      "surface": "ואת",
+      "surface": "ות",
       "gloss": "na ⟨את⟩",
       "marks": "misingi yake"
     },
@@ -80,6 +80,6 @@
       "gloss": "misingi yake"
     }
   ],
-  "timestamp": "2026-08-10T14:31:49.417238705Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:49.875474948Z",
+  "model": "glm-5.3"
 }

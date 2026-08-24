@@ -5,83 +5,82 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 12,
-  "translation": "Wakasahau ⟨את⟩ Yahweh Elohim wao, naye akawauza ⟨אתם⟩ kwenye mkono wa Sisera, jeshi la Hazor, na kwenye mkono wa Wapelishti, na kwenye mkono wa mfalme wa Moabu, nao wakapigana nao.",
+  "translation": "Wakasahau ⟨את⟩ Yahweh Elohim wao, naye akawa⟨את⟩uza katika mkono wa Sisera, mkuu wa jeshi la Ḥatsor, na katika mkono wa Wafilisti, na katika mkono wa mfalme wa Moabu, nao wakawapigana.",
   "tokens": [
     {
-      "surface": "וַֽיִּשְׁכְּח֖וּ",
-      "gloss": "Wakasahau"
+      "surface": "וישכחו",
+      "gloss": "wakasahau"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "Yahweh"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "אֱלֹהֵיהֶ֑ם",
+      "surface": "אלהיהם",
       "gloss": "Elohim wao"
     },
     {
-      "surface": "וַיִּמְכֹּ֣ר",
+      "surface": "וימכר",
       "gloss": "naye akauza"
     },
     {
-      "surface": "אֹתָ֡ם",
-      "gloss": "⟨אתם⟩",
-      "marks": "wao"
+      "surface": "אתם",
+      "gloss": "⟨את⟩wao"
     },
     {
-      "surface": "בְּיַ֣ד",
-      "gloss": "kwenye mkono wa"
+      "surface": "ביד",
+      "gloss": "katika mkono wa"
     },
     {
-      "surface": "סִֽיסְרָא֩",
+      "surface": "סיסרא",
       "gloss": "Sisera"
     },
     {
-      "surface": "שַׂר",
-      "gloss": "jeshi"
+      "surface": "שר",
+      "gloss": "mkuu"
     },
     {
-      "surface": "צְבָ֨א",
-      "gloss": "la"
+      "surface": "צבא",
+      "gloss": "wa jeshi"
     },
     {
-      "surface": "חָצ֜וֹר",
-      "gloss": "Hatzor"
+      "surface": "חצור",
+      "gloss": "Ḥatsor"
     },
     {
-      "surface": "וּבְיַד",
-      "gloss": "na kwenye mkono wa"
+      "surface": "וביד",
+      "gloss": "na katika mkono wa"
     },
     {
-      "surface": "פְּלִשְׁתִּ֗ים",
-      "gloss": "Wapelishti"
+      "surface": "פלשתים",
+      "gloss": "Wafilisti"
     },
     {
-      "surface": "וּבְיַד֙",
-      "gloss": "na kwenye mkono wa"
+      "surface": "וביד",
+      "gloss": "na katika mkono wa"
     },
     {
-      "surface": "מֶ֣לֶךְ",
+      "surface": "מלך",
       "gloss": "mfalme"
     },
     {
-      "surface": "מוֹאָ֔ב",
+      "surface": "מואב",
       "gloss": "wa Moabu"
     },
     {
-      "surface": "וַיִּֽלָּחֲמ֖וּ",
-      "gloss": "nao wakapigana"
+      "surface": "וילחמו",
+      "gloss": "wakawapigana"
     },
     {
-      "surface": "בָּֽם",
-      "gloss": "nao"
+      "surface": "בם",
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-08-10T18:03:01.261160635Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:00.533150970Z",
+  "model": "glm-5.3"
 }

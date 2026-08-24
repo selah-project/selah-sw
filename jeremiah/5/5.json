@@ -5,90 +5,90 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 5,
-  "translation": "Nitaenda mimi kwa ⟨הַ⟩ wakuu, nami nitaongea nao, maana hao walijua njia ya Yahweh, mashauri ya Elohim wao; lakini hao pamoja wamevunja ⟨את⟩ nira, wamekata kamba ⟨za⟩ kufunga.",
+  "translation": "Nitakwenda ⟨mimi⟩ kwenda kwa wakubwa, nami nitasema nao ⟨את⟩ ⟨אתם⟩, kwa kuwa wao wanajua njia ya Yahweh, mashauri ya Elohim wao; lakini hao pamoja waliivunja nira, waliizikata kamba ⟨za kufunga⟩.",
   "tokens": [
     {
-      "surface": "אֵֽלֲכָה",
-      "gloss": "nitaenda"
+      "surface": "אלכה",
+      "gloss": "nitakwenda"
     },
     {
-      "surface": "לִּ֤י",
-      "gloss": "mimi"
+      "surface": "לי",
+      "gloss": "⟨mimi⟩"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "kwa"
     },
     {
-      "surface": "הַגְּדֹלִים֙",
-      "gloss": "wakuu"
+      "surface": "הגדלים",
+      "gloss": "wakubwa"
     },
     {
-      "surface": "וַאֲדַבְּרָ֣ה",
-      "gloss": "nami nitaongea"
+      "surface": "ואדברה",
+      "gloss": "nami nitasema"
     },
     {
-      "surface": "אוֹתָ֔ם",
-      "gloss": "⟨את⟩",
-      "marks": "wakuu"
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "wakubwa"
     },
     {
-      "surface": "כִּ֣י",
-      "gloss": "maana"
+      "surface": "כי",
+      "gloss": "kwa kuwa"
     },
     {
-      "surface": "הֵ֗מָּה",
-      "gloss": "hao"
+      "surface": "המה",
+      "gloss": "wao"
     },
     {
-      "surface": "יָדְעוּ֙",
-      "gloss": "walijua"
+      "surface": "ידעו",
+      "gloss": "wanajua"
     },
     {
-      "surface": "דֶּ֣רֶךְ",
+      "surface": "דרך",
       "gloss": "njia"
     },
     {
-      "surface": "יְהוָ֔ה",
-      "gloss": "ya Yahweh"
+      "surface": "יהוה",
+      "gloss": "Yahweh"
     },
     {
-      "surface": "מִשְׁפַּ֖ט",
+      "surface": "משפט",
       "gloss": "mashauri"
     },
     {
-      "surface": "אֱלֹהֵיהֶ֑ם",
-      "gloss": "ya Elohim wao"
+      "surface": "אלהיהם",
+      "gloss": "Elohim wao"
     },
     {
-      "surface": "אַ֣ךְ",
+      "surface": "אך",
       "gloss": "lakini"
     },
     {
-      "surface": "הֵ֤מָּה",
+      "surface": "המה",
       "gloss": "hao"
     },
     {
-      "surface": "יַחְדָּו֙",
-      "gloss": "pano"
+      "surface": "יחדו",
+      "gloss": "panoja"
     },
     {
-      "surface": "שָׁ֣בְרוּ",
-      "gloss": "wamevunja"
+      "surface": "שברו",
+      "gloss": "waliivunja"
     },
     {
-      "surface": "עֹ֔ל",
+      "surface": "על",
       "gloss": "nira"
     },
     {
-      "surface": "נִתְּק֖וּ",
-      "gloss": "wamekata"
+      "surface": "נתקו",
+      "gloss": "walizikata"
     },
     {
-      "surface": "מוֹסֵרֽוֹת",
+      "surface": "מוסרות",
       "gloss": "kamba za kufunga"
     }
   ],
-  "timestamp": "2026-08-10T12:11:33.359528472Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.310541463Z",
+  "model": "glm-5.3"
 }

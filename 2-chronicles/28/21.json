@@ -5,75 +5,75 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 28,
-  "translation": "Kwa maana Achaazi aligawa ⟨את⟩ nyumba ya Yahweh na ⟨את⟩ nyumba ya mfalme na ⟨⟨wa⟩⟩ wakuu, akampa mfalme wa Ashuru, lakini haikumsaidia.",
+  "translation": "Kwa maana Achaz alichukua sehemu kutoka nyumbani mwa Yahweh, na kutoka nyumbani mwa mfalme, na ⟨za⟩ wakuu, akampa mfalme wa Ashshur; lakini haikumsaidia yeye.",
   "tokens": [
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "kwa maana"
     },
     {
-      "surface": "חָלַ֤ק",
-      "gloss": "aligawa"
+      "surface": "חלק",
+      "gloss": "alichukua sehemu"
     },
     {
-      "surface": "אָחָז֙",
-      "gloss": "Achaazi"
+      "surface": "אחז",
+      "gloss": "Achaz"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nyumba ya Yahweh"
+      "marks": "nyumba"
     },
     {
-      "surface": "בֵּ֣ית",
-      "gloss": "nyumba ya"
+      "surface": "בית",
+      "gloss": "nyumba"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "וְאֶת",
-      "gloss": "na ⟨את⟩",
-      "marks": "nyumba ya mfalme"
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba"
     },
     {
-      "surface": "בֵּ֥ית",
-      "gloss": "nyumba ya"
+      "surface": "בית",
+      "gloss": "nyumba"
     },
     {
-      "surface": "הַמֶּ֖לֶךְ",
-      "gloss": "mfalme"
+      "surface": "המלך",
+      "gloss": "ya mfalme"
     },
     {
-      "surface": "וְהַשָּׂרִ֑ים",
+      "surface": "והשרים",
       "gloss": "na wakuu"
     },
     {
-      "surface": "וַיִּתֵּן֙",
+      "surface": "ויתן",
       "gloss": "akampa"
     },
     {
-      "surface": "לְמֶ֣לֶךְ",
-      "gloss": "mfalme wa"
+      "surface": "למלך",
+      "gloss": "mfalme"
     },
     {
-      "surface": "אַשּׁ֔וּר",
-      "gloss": "Ashuru"
+      "surface": "אשור",
+      "gloss": "Ashshur"
     },
     {
-      "surface": "וְלֹ֥א",
-      "gloss": "lakini si"
+      "surface": "ולא",
+      "gloss": "lakini haikuwa"
     },
     {
-      "surface": "לְעֶזְרָ֖ה",
-      "gloss": "kusaidia"
+      "surface": "לעזרה",
+      "gloss": "ksaidia"
     },
     {
-      "surface": "לֽוֹ",
+      "surface": "לו",
       "gloss": "yeye"
     }
   ],
-  "timestamp": "2026-08-10T14:18:41.237497669Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:31.326406383Z",
+  "model": "glm-5.3"
 }

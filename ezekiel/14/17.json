@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Au nikileta upanga juu ya nchi hiyo, na kusema, Upanga upite katika ⟨הארץ⟩, nami nikatie kati yake ⟨את⟩ binadamu na ⟨את⟩ mnyama.",
+  "translation": "Au kama nitaleta upanga juu ya nchi hiyo, na niseme: Upanga, upite katika ⟨nchi⟩, nami nikate katika ⟨hiyo⟩ mwanadamu na mnyama.",
   "tokens": [
     {
       "surface": "או",
-      "gloss": "au"
+      "gloss": "Au"
     },
     {
       "surface": "חרב",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אביא",
-      "gloss": "nikileta"
+      "gloss": "nitaleta"
     },
     {
       "surface": "על",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ואמרתי",
-      "gloss": "na kusema"
+      "gloss": "na niseme"
     },
     {
       "surface": "חרב",
-      "gloss": "upanga"
+      "gloss": "Upanga"
     },
     {
       "surface": "תעבר",
@@ -45,25 +45,25 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "katika"
+      "gloss": "katika ⟨nchi⟩"
     },
     {
       "surface": "והכרתי",
-      "gloss": "nami nikatie"
+      "gloss": "nami nikate"
     },
     {
       "surface": "ממנה",
-      "gloss": "kati yake"
+      "gloss": "katika ⟨hiyo⟩"
     },
     {
       "surface": "אדם",
-      "gloss": "binadamu"
+      "gloss": "mwanadamu"
     },
     {
       "surface": "ובהמה",
       "gloss": "na mnyama"
     }
   ],
-  "timestamp": "2026-08-10T18:00:34.340349215Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:45.491504140Z",
+  "model": "glm-5.3"
 }

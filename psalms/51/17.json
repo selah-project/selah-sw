@@ -5,33 +5,33 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 51,
-  "translation": "Adonai, ⟨⟨את⟩⟩ midomo yangu ufungue, na kinywa chaki ⟨ki⟩litangaza sifa yako.",
+  "translation": "Adonai, ⟨unafungue⟩ midomo yangu, na mdomo wangu utatangaza sifa zako.",
   "tokens": [
     {
-      "surface": "אֲ֭דֹנָי",
+      "surface": "אדני",
       "gloss": "Adonai"
     },
     {
-      "surface": "שְׂפָתַ֣י",
+      "surface": "שפתי",
       "gloss": "midomo yangu"
     },
     {
-      "surface": "תִּפְתָּ֑ח",
-      "gloss": "ufungue"
+      "surface": "תפתח",
+      "gloss": "⟨unafungue⟩"
     },
     {
-      "surface": "וּ֝פִ֗י",
-      "gloss": "na kinywa chaki"
+      "surface": "ופי",
+      "gloss": "na mdomo wangu"
     },
     {
-      "surface": "יַגִּ֥יד",
-      "gloss": "litangaza"
+      "surface": "יגיד",
+      "gloss": "utatangaza"
     },
     {
-      "surface": "תְּהִלָּתֶֽךָ",
-      "gloss": "sifa yako"
+      "surface": "תהלתך",
+      "gloss": "sifa zako"
     }
   ],
-  "timestamp": "2026-08-10T17:53:47.230230142Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:35.773138211Z",
+  "model": "glm-5.3"
 }

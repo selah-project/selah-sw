@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 19,
-  "translation": "Moshe akashuka kwa ⟨the⟩ watu, akawaambia.",
+  "translation": "Moshe akashuka kwenda kwa ⟨את⟩ watu, akawaambia.",
   "tokens": [
     {
       "surface": "וירד",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": "kwenda kwa"
     },
     {
       "surface": "העם",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "אלהם",
-      "gloss": ""
+      "gloss": "wao"
     }
   ],
-  "timestamp": "2026-08-10T10:21:57.976047983Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:47.202552087Z",
+  "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 10,
-  "translation": "Hasira ya Yahweh ikawaka juu ya Yisrael, akawauza ⟨⟨⟩⟩ mkononi mwa Wapelishti na mkononi mwa wana wa Amoni.",
+  "translation": "Nasi hasira ya Yahweh iliwaka dhidi ya Yisra'el, akawauza ⟨wao⟩ mkononi mwa Wafilisti na mkononi mwa wana wa Ammon.",
   "tokens": [
     {
       "surface": "ויחר",
-      "gloss": "ikawaka"
+      "gloss": "iliwaka"
     },
     {
       "surface": "אף",
-      "gloss": "Hasira ya"
+      "gloss": "hasira"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בישראל",
-      "gloss": "juu ya Yisrael"
+      "gloss": "dhidi ya Yisra'el"
     },
     {
       "surface": "וימכרם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Wapelishti"
+      "gloss": "Wafilisti"
     },
     {
       "surface": "וביד",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "עמון",
-      "gloss": "Amoni"
+      "gloss": "Ammon"
     }
   ],
-  "timestamp": "2026-08-10T11:15:28.490162886Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:47.700180825Z",
+  "model": "glm-5.3"
 }

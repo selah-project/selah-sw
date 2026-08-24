@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 16,
-  "translation": "Ukalitegemea uzuri wako, ukazini kwa ajili ya jina lako, ukamimina ⟨את⟩ uasherati wako juu ya kila apitaye — wake wake ⟨⟨kuwa⟩⟩.",
+  "translation": "Ukategemee uzuri wako, ukazinii kwa ajili ya jina lako, ukamimina ⟨את⟩ uzinzi wako juu ya kila mpitaaye; wake ⟨hiyo⟩ ilikuwa.",
   "tokens": [
     {
       "surface": "ותבטחי",
-      "gloss": "ukalitegemea"
+      "gloss": "ukategemee"
     },
     {
       "surface": "ביפיך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ותזני",
-      "gloss": "ukazini"
+      "gloss": "ukazinii"
     },
     {
       "surface": "על",
@@ -34,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uasherati wako"
+      "marks": "uzinzi wako"
     },
     {
       "surface": "תזנותיך",
-      "gloss": "uasherati wako"
+      "gloss": "uzinzi wako"
     },
     {
       "surface": "על",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "עובר",
-      "gloss": "apitaye"
+      "gloss": "mpitaaye"
     },
     {
       "surface": "לו",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "יהי",
-      "gloss": "⟨kuwa⟩"
+      "gloss": "ilikuwa"
     }
   ],
-  "timestamp": "2026-08-10T16:12:59.378516905Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:56.225553736Z",
+  "model": "glm-5.3"
 }

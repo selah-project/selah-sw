@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Ikiwa mtu atatenda dhambi dhidi ya mtu, ⟨אלהים⟩ atamhukumu; lakini ikiwa mtu atatenda dhambi dhidi ya Yahweh, ni nani atakayemwombea? Lakini hawakusikiliza sauti ya baba yao, kwa maana Yahweh alipenda kuwaua.",
+  "translation": "Mtu akikosa dhidi ya mtu mwingine, Elohim atamwombea; lakini mtu akikosa dhidi ya Yahweh, nani atamwombea? Nao hawakusikiliza sauti ya baba yao, kwa kuwa Yahweh alitaka kuwaua.",
   "tokens": [
     {
       "surface": "אם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יחטא",
-      "gloss": "atatenda dhambi"
+      "gloss": "atakosa dhidi"
     },
     {
       "surface": "איש",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "dhidi ya mtu"
+      "gloss": "ya mtu mwingine"
     },
     {
       "surface": "ופללו",
-      "gloss": "atamhukumu"
+      "gloss": "na Elohim atamwombea"
     },
     {
       "surface": "אלהים",
-      "gloss": "⟨אלהים⟩"
+      "gloss": "Elohim"
     },
     {
       "surface": "ואם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "יחטא",
-      "gloss": "atatenda dhambi"
+      "gloss": "atakosa"
     },
     {
       "surface": "איש",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "מי",
-      "gloss": "ni nani"
+      "gloss": "nani"
     },
     {
       "surface": "יתפלל",
-      "gloss": "atakayemwombea"
+      "gloss": "atamwombea"
     },
     {
       "surface": "לו",
-      "gloss": "kwa ajili yake"
+      "gloss": "yeye"
     },
     {
-      "surface": "וולא",
-      "gloss": "lakini hawaku"
+      "surface": "ולא",
+      "gloss": "na hawaku-"
     },
     {
       "surface": "ישמעו",
@@ -69,19 +69,19 @@
     },
     {
       "surface": "לקול",
-      "gloss": "sauti"
+      "gloss": "sauti ya"
     },
     {
       "surface": "אביהם",
-      "gloss": "ya baba yao"
+      "gloss": "baba yao"
     },
     {
       "surface": "כי",
-      "gloss": "kwa maana"
+      "gloss": "kwa kuwa"
     },
     {
       "surface": "חפץ",
-      "gloss": "alipenda"
+      "gloss": "alitaka"
     },
     {
       "surface": "יהוה",
@@ -92,6 +92,6 @@
       "gloss": "kuwaua"
     }
   ],
-  "timestamp": "2026-08-10T14:51:07.112131675Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:13.462313225Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Na Avshalom akamsisitiza, naye akatuma ⟨⟨את⟩ pamoja naye⟩ ⟨את⟩ Amoni na ⟨את⟩ wana wote wa mfalme.",
+  "translation": "Lakini Avshalom akamsisitiza, naye akatuma pamoja naye ⟨את⟩ Amnon na ⟨את⟩ wana wote wa mfalme.",
   "tokens": [
     {
       "surface": "ויפרץ",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בו",
-      "gloss": "yeye"
+      "gloss": "mwake"
     },
     {
       "surface": "אבשלום",
@@ -25,22 +25,21 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ pamoja naye",
-      "marks": "Amoni na wana wote wa mfalme"
+      "gloss": "⟨את⟩ pamoja naye"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Amoni"
+      "marks": "Amnon"
     },
     {
       "surface": "אמנון",
-      "gloss": "Amoni"
+      "gloss": "Amnon"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "wana wote"
+      "marks": "wana wote wa mfalme"
     },
     {
       "surface": "כל",
@@ -55,6 +54,6 @@
       "gloss": "wa mfalme"
     }
   ],
-  "timestamp": "2026-08-10T11:31:46.383243556Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:22.611000128Z",
+  "model": "glm-5.3"
 }

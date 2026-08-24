@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Akaenda, akamtuma Yehoshafati mfalme wa Yehuda, akisema: Mfalme wa Moabu amesinih dhidi yangu; je, utaenda na mimi ⟨אתי⟩ kwenda Moabu vita? Akasema: Nitaenda; kama nilivyo wewe, kama taifu langu taifa lako, kama farasi wangu farasi wako.",
+  "translation": "Akenda, akatuma ⟨habari⟩ kwa Yehoshafat mfalme wa Yehudah, akisema: Mfalme wa Moabu asiwe wangu; utakwenda ⟨nami⟩ (אתי) mpaka Moabu kupigana vita? Naye akajibu: Nitapanda; kama mimi, ndivyo wewe; kama watu wangu, ndivyo watu wako; kama farasi zangu, ndivyo farasi zako.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "akaenda"
+      "gloss": "akenda"
     },
     {
       "surface": "וישלח",
-      "gloss": "akamtuma"
+      "gloss": "akatuma"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יהושפט",
-      "gloss": "Yehoshafati"
+      "gloss": "Yehoshafat"
     },
     {
       "surface": "מלך",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "wa Yehuda"
+      "gloss": "Yehudah"
     },
     {
       "surface": "לאמר",
@@ -41,28 +41,28 @@
     },
     {
       "surface": "מואב",
-      "gloss": "wa Moabu"
+      "gloss": "Moabu"
     },
     {
       "surface": "פשע",
-      "gloss": "amesinih"
+      "gloss": "asiwe"
     },
     {
       "surface": "בי",
-      "gloss": "dhidi yangu"
+      "gloss": "wangu"
     },
     {
       "surface": "התלך",
-      "gloss": "je, utaenda"
+      "gloss": "utakwenda"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨אתי⟩",
-      "marks": "na mimi"
+      "gloss": "⟨את⟩ nami",
+      "marks": "אתי = pamoja nami"
     },
     {
       "surface": "אל",
-      "gloss": "kwenda"
+      "gloss": "mpaka"
     },
     {
       "surface": "מואב",
@@ -70,41 +70,41 @@
     },
     {
       "surface": "למלחמה",
-      "gloss": "vita"
+      "gloss": "kupigana vita"
     },
     {
       "surface": "ויאמר",
-      "gloss": "akasema"
+      "gloss": "akajibu"
     },
     {
       "surface": "אעלה",
-      "gloss": "nitaenda"
+      "gloss": "nitapanda"
     },
     {
       "surface": "כמוני",
-      "gloss": "kama nilivyo"
+      "gloss": "kama mimi"
     },
     {
       "surface": "כמוך",
-      "gloss": "wewe"
+      "gloss": "ndivyo wewe"
     },
     {
       "surface": "כעמי",
-      "gloss": "kama taifu langu"
+      "gloss": "kama watu wangu"
     },
     {
       "surface": "כעמך",
-      "gloss": "taifa lako"
+      "gloss": "ndivyo watu wako"
     },
     {
-      "surface": "כסוסי",
-      "gloss": "kama farasi wangu"
+      "surface": "סוסי",
+      "gloss": "farasi zangu"
     },
     {
       "surface": "כסוסיך",
-      "gloss": "farasi wako"
+      "gloss": "kama farasi zako"
     }
   ],
-  "timestamp": "2026-08-10T11:45:59.807283182Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:24.049379675Z",
+  "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 22,
-  "translation": "Naye akawaambia: Ndivo alivyosema Yahweh, Elohim wa Yisra'el: Mwambieni ⟨the⟩ mtu ⟨ambaye⟩ aliwatumieni kwangu:",
+  "translation": "Naye akawaambia: Ndivyo alivyosema Yahweh, Elohim wa Yisraeli: Mwambieni ⟨את⟩ yule mtu aliyejawatuma kwangu.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "Naye akawaambia"
+      "gloss": "akawaambia"
     },
     {
       "surface": "אליהם",
-      "gloss": "↤"
+      "gloss": "kwao"
     },
     {
       "surface": "כה",
-      "gloss": "Ndivo"
+      "gloss": "ndivyo"
     },
     {
       "surface": "אמר",
-      "gloss": "alivyosema"
+      "gloss": "amesema"
     },
     {
       "surface": "יהוה",
@@ -33,33 +33,34 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "אמרו",
-      "gloss": "Mwambieni"
+      "gloss": "mwambieni"
     },
     {
       "surface": "לאיש",
-      "gloss": "⟨the⟩ mtu"
+      "gloss": "yule mtu"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨ambaye⟩"
+      "gloss": "aliye"
     },
     {
       "surface": "שלח",
-      "gloss": "aliwatumia"
+      "gloss": "watuma"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ eni"
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi (kama kielelezo cha neno 'watuma' — אתכם ni kawaida ya pluri)"
     },
     {
       "surface": "אלי",
       "gloss": "kwangu"
     }
   ],
-  "timestamp": "2026-08-10T11:53:24.458812119Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:47.405894800Z",
+  "model": "glm-5.3"
 }

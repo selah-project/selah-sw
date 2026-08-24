@@ -5,19 +5,19 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 12,
-  "translation": "Kwa kuwa Yahweh hatamwacha ⟨את⟩ watu wake kwa ajili ya jina lake kuu, kwa kuwa ilimpendezua Yahweh kuwafanya nyinyi kuwa watu wake.",
+  "translation": "Kwa maana Yahweh hatawacha ⟨את⟩ watu wake kwa ajili ya jina lake kubwa, kwa maana Yahweh alipendezwa kuwafanya ⟨את⟩ nyinyi kuwa watu wake.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "kwa kuwa"
+      "gloss": "kwa maana"
     },
     {
       "surface": "לא",
-      "gloss": "hatamsi"
+      "gloss": "si"
     },
     {
       "surface": "יטש",
-      "gloss": "acha"
+      "gloss": "hatawacha"
     },
     {
       "surface": "יהוה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "עמו",
-      "gloss": "watú wake"
+      "gloss": "watu wake"
     },
     {
       "surface": "בעבור",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "הגדול",
-      "gloss": "kùu"
+      "gloss": "kubwa"
     },
     {
       "surface": "כי",
-      "gloss": "kwa kuwa"
+      "gloss": "kwa maana"
     },
     {
       "surface": "הואיל",
-      "gloss": "ilimpendezua"
+      "gloss": "alipendezwa"
     },
     {
       "surface": "יהוה",
@@ -62,17 +62,17 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩ nyinyi"
+      "gloss": "⟨את⟩ nyinyi"
     },
     {
       "surface": "לו",
-      "gloss": "kuwa ⟨wake⟩"
+      "gloss": "wake"
     },
     {
       "surface": "לעם",
-      "gloss": "kuwa watú wake"
+      "gloss": "kuwa watu"
     }
   ],
-  "timestamp": "2026-08-10T14:51:53.938308799Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:27.307483712Z",
+  "model": "glm-5.3"
 }

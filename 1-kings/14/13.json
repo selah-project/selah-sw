@@ -5,114 +5,106 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Na wataomboleza yeye ⟨wataomboleza⟩ Israeli yote, ⟨את⟩ na watamzika ⟨אתו⟩, kwa sababu yeye peke yake atakuja ⟨atamwendea⟩ Yerav'am mpaka kabrini, kwa sababu limempatikana ndani yake jambo jema mbele ya Yahweh, Elohim wa Israeli, nyumbani mwa Yerav'am.",
+  "translation": "Na wote Israeli wataomboleza kwa ajili yake, na watamzika ⟨את⟩ yeye, kwa sababu huyu peke yake ndiye atakayeingia kwa Yaroveamu mpaka kabrini, kwa maana mumepatikana ndani yake jambo jema mbele za Yahweh, Elohim wa Israeli, katika nyumba ya Yaroveamu.",
   "tokens": [
     {
-      "surface": "וְסָֽפְדוּ",
-      "gloss": "Na wataomboleza"
+      "surface": "וספדו",
+      "gloss": "wataomboleza"
     },
     {
-      "surface": "ל֤וֹ",
-      "gloss": "yeye"
+      "surface": "לו",
+      "gloss": "kwa ajili yake"
     },
     {
-      "surface": "כָל",
-      "gloss": "⟨wataomboleza⟩"
+      "surface": "כל",
+      "gloss": "wote"
     },
     {
-      "surface": "יִשְׂרָאֵל֙",
+      "surface": "ישראל",
       "gloss": "Israeli"
     },
     {
-      "surface": "יִשְׂרָאֵל֙",
-      "gloss": "yote"
+      "surface": "וקברו",
+      "gloss": "watamzika"
     },
     {
-      "surface": "וְקָבְר֣וּ",
-      "gloss": "⟨את⟩ na watamzika"
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
     },
     {
-      "surface": "אֹת֔וֹ",
-      "gloss": "⟨אתו⟩",
-      "marks": "Yerav'am (mtoto)"
-    },
-    {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "gloss": "kwa sababu"
     },
     {
-      "surface": "זֶ֣ה",
-      "gloss": "yeye"
+      "surface": "זה",
+      "gloss": "huyu"
     },
     {
-      "surface": "לְבַדּ֔וֹ",
+      "surface": "לבדו",
       "gloss": "peke yake"
     },
     {
-      "surface": "יָבֹ֥א",
-      "gloss": "atakuja"
+      "surface": "יבא",
+      "gloss": "atakayeingia"
     },
     {
-      "surface": "לְיָרָבְעָ֖ם",
-      "gloss": "⟨atamwendea⟩"
+      "surface": "לירבעם",
+      "gloss": "kwa Yaroveamu"
     },
     {
-      "surface": "לְיָרָבְעָ֖ם",
-      "gloss": "Yerav'am"
-    },
-    {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "mpaka"
     },
     {
-      "surface": "קָ֑בֶר",
+      "surface": "קבר",
       "gloss": "kabrini"
     },
     {
-      "surface": "יַ֣עַן",
-      "gloss": "kwa sababu"
+      "surface": "יען",
+      "gloss": "kwa maana"
     },
     {
-      "surface": "נִמְצָא",
-      "gloss": "limempatikana"
+      "surface": "נמצא",
+      "gloss": "mumepatikana"
     },
     {
-      "surface": "ב֞וֹ",
+      "surface": "בו",
       "gloss": "ndani yake"
     },
     {
-      "surface": "דָּבָ֣ר",
+      "surface": "דבר",
       "gloss": "jambo"
     },
     {
-      "surface": "ט֗וֹב",
+      "surface": "טוב",
       "gloss": "jema"
     },
     {
-      "surface": "אֶל",
-      "gloss": "mbele ya"
+      "surface": "אל",
+      "gloss": "mbele za"
     },
     {
-      "surface": "יְהוָ֛ה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "אֱלֹהֵ֥י",
+      "surface": "אלהי",
       "gloss": "Elohim wa"
     },
     {
-      "surface": "יִשְׂרָאֵ֖ל",
+      "surface": "ישראל",
       "gloss": "Israeli"
     },
     {
-      "surface": "בְּבֵ֥ית",
-      "gloss": "nyumbani mwa"
+      "surface": "בבית",
+      "gloss": "katika nyumba ya"
     },
     {
-      "surface": "יָרָבְעָֽם",
-      "gloss": "Yerav'am"
+      "surface": "ירבעם",
+      "gloss": "Yaroveamu"
     }
   ],
-  "timestamp": "2026-08-10T15:00:06.618844821Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:14.162241741Z",
+  "model": "glm-5.3"
 }

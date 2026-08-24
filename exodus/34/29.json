@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 34,
-  "translation": "Ikawa katika kushuka kwake Moshe kutoka mlima Sinai, na loh mbili za ushahidi zilikono mkononi mwa Moshe, katika kushusha kwake kutoka mlima, na Moshe hakujua ya kwamba ngozi ya uso wake ilipata pembe ⟨ya nuru⟩ katika kusema kwake ⟨na⟩ Yeye ⟨אתו⟩.",
+  "translation": "Ikawa, Moshe aliposhuka kutoka mlima wa Sayina, na mbili za mabano ya ushahidi zilikuwa mkononi mwa Moshe aliposhuka kutoka ⟨kwenye⟩ mlima, naye Moshe hakujua kwamba ngozi ya uso wake ilikuwa imeng'aa kwa mipasho ⟨ya nuru⟩ alipozungumza ⟨את⟩ naye.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ikawa"
+      "gloss": "Ikawa"
     },
     {
       "surface": "ברדת",
-      "gloss": "katika kushuka kwake"
+      "gloss": "aliposhuka"
     },
     {
       "surface": "משה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "סיני",
-      "gloss": "Sinai"
+      "gloss": "wa Sayina"
     },
     {
       "surface": "ושני",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "לחת",
-      "gloss": "loh"
+      "gloss": "za mabano"
     },
     {
       "surface": "העדת",
-      "gloss": "za ushahidi"
+      "gloss": "ya ushahidi"
     },
     {
       "surface": "ביד",
-      "gloss": "zilikono mkononi mwa"
+      "gloss": "mkononi"
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "mwa Moshe"
     },
     {
       "surface": "ברדתו",
-      "gloss": "katika kushusha kwake"
+      "gloss": "aliposhuka"
     },
     {
       "surface": "מן",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ומשה",
-      "gloss": "na Moshe"
+      "gloss": "naye Moshe"
     },
     {
       "surface": "לא",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "ya kwamba"
+      "gloss": "kwamba"
     },
     {
       "surface": "קרן",
-      "gloss": "ilipata pembe"
+      "gloss": "ilikuwa imeng'aa kwa mipasho"
     },
     {
       "surface": "עור",
@@ -89,14 +89,14 @@
     },
     {
       "surface": "בדברו",
-      "gloss": "katika kusema kwake"
+      "gloss": "alipozungumza"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "na Yeye"
+      "gloss": "⟨את⟩ naye",
+      "marks": "naye (Yahweh)"
     }
   ],
-  "timestamp": "2026-08-10T10:28:52.310603116Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:11.085828102Z",
+  "model": "glm-5.3"
 }

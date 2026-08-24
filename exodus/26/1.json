@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 26,
-  "translation": "Na ⟨את⟩ maskani utatengeneza kwa mapazia kumi; shashi iliyosokotwa na buluu na zambarau na nyuzi za kinamasi; kikerubi, kazi ya mchoraji, ndiyo utakayotengeneza ⟨אתם⟩.",
+  "translation": "Na ⟨את⟩ Maskani utaifanya kwa mapazia kumi; shashi iliyosokotwa, na samawi, na zambari, na nyekundu ya kunguni; kwaakerubi, kazi ya mjanja, utaifanya.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Na ⟨את⟩",
-      "marks": "maskani"
+      "gloss": "⟨את⟩",
+      "marks": "Maskani"
     },
     {
       "surface": "המשכן",
-      "gloss": "maskani"
+      "gloss": "Maskani"
     },
     {
       "surface": "תעשה",
-      "gloss": "utatengeneza"
+      "gloss": "utaifanya"
     },
     {
       "surface": "עשר",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "יריעת",
-      "gloss": "kwa mapazia"
+      "gloss": "mapazia"
     },
     {
       "surface": "שש",
@@ -38,42 +38,42 @@
     },
     {
       "surface": "ותכלת",
-      "gloss": "na buluu"
+      "gloss": "na samawi"
     },
     {
       "surface": "וארגמן",
-      "gloss": "na zambarau"
+      "gloss": "na zambari"
     },
     {
       "surface": "ותלעת",
-      "gloss": "na nyuzi za"
+      "gloss": "na kunguni"
     },
     {
       "surface": "שני",
-      "gloss": "kinamasi"
+      "gloss": "nyekundu"
     },
     {
       "surface": "כרבים",
-      "gloss": "kikerubi"
+      "gloss": "akerubi"
     },
     {
       "surface": "מעשה",
-      "gloss": "kazi ya"
+      "gloss": "kazi"
     },
     {
       "surface": "חשב",
-      "gloss": "mchoraji"
+      "gloss": "ya mjanja"
     },
     {
       "surface": "תעשה",
-      "gloss": "utatengeneza"
+      "gloss": "utaifanya"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "mapazia"
+      "gloss": "⟨את⟩",
+      "marks": "(ao ni mapazia yenyewe)"
     }
   ],
-  "timestamp": "2026-08-10T10:26:07.106996896Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:50.979064989Z",
+  "model": "glm-5.3"
 }

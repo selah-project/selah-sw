@@ -5,7 +5,7 @@
   "book": "haggai",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Yangu ni ⟨⟨the⟩⟩ fedha, na yangu ni dhahabu, hotuba ya Yahweh wa majeshi.",
+  "translation": "Yangu ni fedha, na yangu ni dhahabu, ndiyo maneno ya Yahweh Tzevaot.",
   "tokens": [
     {
       "surface": "לי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "hotuba"
+      "gloss": "ndiyo maneno ya (neno la)"
     },
     {
       "surface": "יהוה",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "wa majeshi"
+      "gloss": "Tzevaot"
     }
   ],
-  "timestamp": "2026-08-10T12:50:08.551212176Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:35.900552909Z",
+  "model": "glm-5.3"
 }

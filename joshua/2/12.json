@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Na sasa, apaeni kwa Yahweh, kwa kuwa mimi nimewatendea chesed, nanyi pia mfanye chesed na nyumba ya baba yangu, mpe ⟨⟨⟩⟩ ishara ya uhakika.",
+  "translation": "Na sasa jiapieni kwa Yahweh, tafadhali, kwa kuwa mimi nimewatendea chesed (fadhili ya kweli), nanyi nanyi mtende chesed na nyumba ya baba yangu, na munipe ishara ya uhakika.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "na sasa"
+      "gloss": "Na sasa"
     },
     {
       "surface": "השבעו",
-      "gloss": "apaeni"
+      "gloss": "jiapieni"
     },
     {
       "surface": "נא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "kwangu"
+      "gloss": "kwa mimi"
     },
     {
       "surface": "ביהוה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "עמכם",
-      "gloss": "pamoja nanyi"
+      "gloss": "kwenu"
     },
     {
       "surface": "חסד",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "nanyi mfanye"
+      "gloss": "nanyi mtende"
     },
     {
       "surface": "גם",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "ninyi"
+      "gloss": "nanyi"
     },
     {
       "surface": "עם",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "nyumba ya"
+      "gloss": "nyumba"
     },
     {
       "surface": "אבי",
-      "gloss": "baba yangu"
+      "gloss": "ya baba yangu"
     },
     {
       "surface": "חסד",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "ונתתם",
-      "gloss": "mpe"
+      "gloss": "na munipe"
     },
     {
       "surface": "לי",
-      "gloss": "kwangu"
+      "gloss": "mimi"
     },
     {
       "surface": "אות",
@@ -88,6 +88,6 @@
       "gloss": "ya uhakika"
     }
   ],
-  "timestamp": "2026-08-10T11:06:11.629354710Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:23.322717679Z",
+  "model": "glm-5.3"
 }

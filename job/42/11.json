@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "sw",
   "chapter": 42,
-  "translation": "Ndege wakaja kwake ndugu zake wote na dada zake wote na walomjua wote kabla, wakala ⟨nae⟩ mkate nyumbani mwake; wakaitikia kwa kumteteza, wakamfariji ⟨אתו⟩ kwa ajili ya uovu wote ambao Yahweh ulikuwa umeuleta juu yake; na kila mtu akamupa kipande ⟨kimoja⟩ cha fedha na kila mtu pete ⟨moja⟩ ya dhahabu.",
+  "translation": "Ndaka wake wote na dada zake wote na wote waliojua kabla walimjia, wakala ⟨naye⟩ mkate nyumbani kwake, wakasikiliza kwa huzuni na kumfariji kuhusu uovu wote ambao Yahweh alikuwa ameuleta juu yake; na kila mmoja akamipa ⟨את⟩ keshitah moja na kila mmoja pete moja ya dhahabu.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "wakaja"
+      "gloss": "walimjia"
     },
     {
       "surface": "אליו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "ndugu zake"
+      "gloss": "ndaka zake"
     },
     {
       "surface": "וכל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ידעיו",
-      "gloss": "walomjua"
+      "gloss": "waliojua"
     },
     {
       "surface": "לפנים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "עמו",
-      "gloss": "nae"
+      "gloss": "⟨naye⟩"
     },
     {
       "surface": "לחם",
@@ -57,32 +57,32 @@
     },
     {
       "surface": "בביתו",
-      "gloss": "nyumbani mwake"
+      "gloss": "nyumbani kwake"
     },
     {
       "surface": "וינדו",
-      "gloss": "wakaitikia"
+      "gloss": "wakasikiliza kwa huzuni"
     },
     {
       "surface": "לו",
-      "gloss": "kwa"
+      "gloss": "yake"
     },
     {
-      "surface": "ונחמוהו",
+      "surface": "וינחמו",
       "gloss": "wakamfariji"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "yeye"
+      "gloss": "⟨את⟩",
+      "marks": "yake"
     },
     {
       "surface": "על",
-      "gloss": "kwa ajili"
+      "gloss": "kuhusu"
     },
     {
       "surface": "כל",
-      "gloss": "ya wote"
+      "gloss": "wote"
     },
     {
       "surface": "הרעה",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "ויתנו",
-      "gloss": "wakamupa"
+      "gloss": "wakamipa"
     },
     {
       "surface": "לו",
@@ -114,19 +114,19 @@
     },
     {
       "surface": "איש",
-      "gloss": "kila mtu"
+      "gloss": "kila mmoja"
     },
     {
       "surface": "קשיטה",
-      "gloss": "kipande cha fedha"
+      "gloss": "keshitah"
     },
     {
       "surface": "אחת",
-      "gloss": "kimoja"
+      "gloss": "moja"
     },
     {
       "surface": "ואיש",
-      "gloss": "na kila mtu"
+      "gloss": "na kila mmoja"
     },
     {
       "surface": "נזם",
@@ -141,6 +141,6 @@
       "gloss": "moja"
     }
   ],
-  "timestamp": "2026-08-10T15:36:45.450696874Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:58.457609118Z",
+  "model": "glm-5.3"
 }

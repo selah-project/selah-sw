@@ -5,19 +5,19 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 19,
-  "translation": "Wakamwita Lot, wakamwambia, \"Wako wapi hao watu waliokuja kwako usiku huu? Watoe nje kwetu tuwajue ⟨אתם⟩.\"",
+  "translation": "Wakamwita Loti, wakamwambia: Wako wapi ⟨wale⟩ watu walioingia kwako usiku huu? Watoe ⟨את⟩ hao kwetu ili tuwajue.",
   "tokens": [
     {
       "surface": "ויקראו",
-      "gloss": "Wakamwita"
+      "gloss": "wakamwita"
     },
     {
       "surface": "אל",
-      "gloss": "kwenda"
+      "gloss": "kwa"
     },
     {
       "surface": "לוט",
-      "gloss": "Lot"
+      "gloss": "Loti"
     },
     {
       "surface": "ויאמרו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "yeye"
+      "gloss": "yake"
     },
     {
       "surface": "איה",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "hao watu"
+      "gloss": "watu"
     },
     {
       "surface": "אשר",
-      "gloss": "ambao"
+      "gloss": "walio"
     },
     {
       "surface": "באו",
-      "gloss": "waliokuja"
+      "gloss": "walioingia"
     },
     {
       "surface": "אליך",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "הוציאם",
-      "gloss": "Watoe nje"
+      "gloss": "watoe hao"
     },
     {
       "surface": "אלינו",
@@ -61,14 +61,14 @@
     },
     {
       "surface": "ונדעה",
-      "gloss": "tuwajue"
+      "gloss": "ili tuwajue"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "hao watu"
+      "marks": "hao"
     }
   ],
-  "timestamp": "2026-08-10T15:49:17.088260855Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:14.870365481Z",
+  "model": "glm-5.3"
 }

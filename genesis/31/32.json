@@ -5,93 +5,94 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 31,
-  "translation": "Ambaye utampata ⟨את⟩ ⟨na⟩ Elohim wako, hatatawillika; mbele ya ndugu zetu tambua wewe ni nini kinichoro nawe, ukajichukue. Lakini Ya'akov hakujua kwamba Rachel aliiba ⟨⟨את⟩⟩.",
+  "translation": "Yule ambaye utamwuta naye ⟨את⟩ elohe zako hatakuwa hai; mbele ya ndugu zetu tambua wewe nini kilicho ⟨pamoja⟩ nami, uchukue ⟨kwa⟩ wewe. Nayo Yakov hakujua kwamba Rachel aliwiba.",
   "tokens": [
     {
-      "surface": "עִ֠ם",
+      "surface": "עם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "אשר",
       "gloss": "ambaye"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
-      "gloss": "⟨ambaye⟩"
+      "surface": "תמצא",
+      "gloss": "utamwuta"
     },
     {
-      "surface": "תִּמְצָ֣א",
-      "gloss": "utampata"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elohe zako"
     },
     {
-      "surface": "אֶת",
-      "gloss": "⟨את⟩ ⟨na⟩"
+      "surface": "אלהיך",
+      "gloss": "elohe zako"
     },
     {
-      "surface": "אֱלֹהֶיךָ֮",
-      "gloss": "Elohim wako"
+      "surface": "לא",
+      "gloss": "hatakuwa"
     },
     {
-      "surface": "לֹ֣א",
-      "gloss": "ha"
+      "surface": "יחיה",
+      "gloss": "hai"
     },
     {
-      "surface": "יִֽחְיֶה֒",
-      "gloss": "tatawillika"
-    },
-    {
-      "surface": "נֶ֣גֶד",
+      "surface": "נגד",
       "gloss": "mbele ya"
     },
     {
-      "surface": "אַחֵ֧ינוּ",
+      "surface": "אחינו",
       "gloss": "ndugu zetu"
     },
     {
-      "surface": "הַכֶּר",
+      "surface": "הכר",
       "gloss": "tambua"
     },
     {
-      "surface": "לְךָ֛",
+      "surface": "לך",
       "gloss": "wewe"
     },
     {
-      "surface": "מָ֥ה",
-      "gloss": "ni nini"
+      "surface": "מה",
+      "gloss": "nini"
     },
     {
-      "surface": "עִמָּדִ֖י",
-      "gloss": "kinichoro nawe"
+      "surface": "עמדי",
+      "gloss": "kilicho pamoja nami"
     },
     {
-      "surface": "וְקַֽח",
-      "gloss": "ukajichukue"
+      "surface": "וקח",
+      "gloss": "uchukue"
     },
     {
-      "surface": "לָ֑ךְ",
-      "gloss": "⟨wewe⟩"
+      "surface": "לך",
+      "gloss": "kwa wewe"
     },
     {
-      "surface": "וְלֹֽא",
-      "gloss": "lakini ha"
+      "surface": "ולא",
+      "gloss": "nayo haku"
     },
     {
-      "surface": "יָדַ֣ע",
-      "gloss": "kujua"
+      "surface": "ידע",
+      "gloss": "jua"
     },
     {
-      "surface": "יַעֲקֹ֔ב",
-      "gloss": "Ya'akov"
+      "surface": "יעקב",
+      "gloss": "Yakov"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "kwamba"
     },
     {
-      "surface": "רָחֵ֖ל",
+      "surface": "רחל",
       "gloss": "Rachel"
     },
     {
-      "surface": "גְּנָבָֽתַם",
-      "gloss": "aliiba"
+      "surface": "גנבתם",
+      "gloss": "aliwiba"
     }
   ],
-  "timestamp": "2026-08-10T10:10:22.241233768Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:42.975432937Z",
+  "model": "glm-5.3"
 }

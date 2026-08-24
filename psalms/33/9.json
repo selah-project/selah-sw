@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 33,
-  "translation": "Kwa maana yeye alisema, ⟨⟨⟩⟩ ikawa; yeye aliamuru, ⟨⟨⟩⟩ ikasimama.",
+  "translation": "Kwa maana yeye alisema, na ⟨ikawa⟩; yeye aliagiza, na ⟨ikasimama⟩.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kwa maana"
+      "gloss": "kwa maana"
     },
     {
       "surface": "הוא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "ikawa"
+      "gloss": "na ikawa"
     },
     {
       "surface": "הוא",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "צוה",
-      "gloss": "aliamuru"
+      "gloss": "aliagiza"
     },
     {
       "surface": "ויעמד",
-      "gloss": "ikasimama"
+      "gloss": "na ikasimama"
     }
   ],
-  "timestamp": "2026-08-10T12:59:21.389045444Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:51.245868585Z",
+  "model": "glm-5.3"
 }

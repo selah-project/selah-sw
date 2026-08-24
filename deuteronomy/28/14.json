@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 28,
-  "translation": "Wala hutatengwa na maneno yote ambayo mimi nakuamuru ⟨אתכם⟩ leo, kulia au kushoto, ili kuufuata mungu mwingine kumtumikia.",
+  "translation": "wala msirudi nyuma kutoka maneno yoyote ninayokuamuru ⟨את⟩ ninyi leo, kwenda kulia au kwenda kushoto, kufuata miungu mingine ili kuwatumikia.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Wala"
+      "gloss": "wala"
     },
     {
       "surface": "תסור",
-      "gloss": "hutatengwa"
+      "gloss": "msirudi nyuma"
     },
     {
       "surface": "מכל",
-      "gloss": "na yote"
+      "gloss": "kutoka yoyote"
     },
     {
       "surface": "הדברים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": ""
     },
     {
       "surface": "אנכי",
@@ -33,12 +33,11 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "nakuamuru"
+      "gloss": "ninayokuamuru"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩ ninyi"
     },
     {
       "surface": "היום",
@@ -54,25 +53,25 @@
     },
     {
       "surface": "ללכת",
-      "gloss": "ili kuufuata"
+      "gloss": "kwenda"
     },
     {
       "surface": "אחרי",
-      "gloss": "ufuate"
+      "gloss": "kufuata"
     },
     {
       "surface": "אלהים",
-      "gloss": "mungu"
+      "gloss": "miungu"
     },
     {
       "surface": "אחרים",
-      "gloss": "mwingine"
+      "gloss": "mingine"
     },
     {
       "surface": "לעבדם",
-      "gloss": "kumtumikia"
+      "gloss": "ili kuwatumikia"
     }
   ],
-  "timestamp": "2026-08-10T15:58:00.119759204Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:03.908858065Z",
+  "model": "glm-5.3"
 }

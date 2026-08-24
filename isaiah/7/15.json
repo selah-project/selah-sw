@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Jibini na asali atakula, ili ajue kukataa ⟨⟨kilicho⟩⟩ baya na kuchagua ⟨⟨kilicho⟩⟩ chema.",
+  "translation": "Maziwa yanayoganda na asali atakula, ⟨ili⟩ ajue kumwacha baya na kuchagua jema.",
   "tokens": [
     {
       "surface": "חמאה",
-      "gloss": "Jibini"
+      "gloss": "Maziwa yanayoganda"
     },
     {
       "surface": "ודבש",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מאוס",
-      "gloss": "kukataa"
+      "gloss": "kumwacha"
     },
     {
       "surface": "ברע",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "בטוב",
-      "gloss": "chema"
+      "gloss": "jema"
     }
   ],
-  "timestamp": "2026-08-10T15:03:41.692283350Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:15.779250540Z",
+  "model": "glm-5.3"
 }

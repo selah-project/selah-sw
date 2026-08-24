@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 72,
-  "translation": "Watakuchagua pamoja na ⟨the⟩ jua, na mbele ya mwezi, vizazi vya vizazi.",
+  "translation": "Watakuhofu ⟨wewe⟩ pamoja na jua, na mbele ya mwezi, kizazi wa vizazi.",
   "tokens": [
     {
-      "surface": "יִֽירָא֥וּךָ",
-      "gloss": "watakuchagua"
+      "surface": "ייראוך",
+      "gloss": "watakuhofu ⟨wewe⟩"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "gloss": "pamoja na"
     },
     {
-      "surface": "שָׁ֑מֶשׁ",
+      "surface": "שמש",
       "gloss": "jua"
     },
     {
-      "surface": "וְלִפְנֵ֥י",
+      "surface": "ולפני",
       "gloss": "na mbele ya"
     },
     {
-      "surface": "יָ֝רֵ֗חַ",
+      "surface": "ירח",
       "gloss": "mwezi"
     },
     {
-      "surface": "דּ֣וֹר",
-      "gloss": "vizazi"
+      "surface": "דור",
+      "gloss": "kizazi"
     },
     {
-      "surface": "דּוֹרִֽים",
-      "gloss": "vya vizazi"
+      "surface": "דורים",
+      "gloss": "wa vizazi"
     }
   ],
-  "timestamp": "2026-08-10T13:06:24.039903883Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:46.150147290Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Na kuhani atatazama ⟨את⟩ ndui hiyo katika ngozi ya mwili, na nywele zenye ndui zimegeuka kuwa nyeupe, na mwonekano wa ndui hiyo ni wa kina kuliko ngozi ya mwili wake — ni ndui ya ukoma; na kuhani atamwona na kumtangaza mchafu.",
+  "translation": "Na kuhani atakuona ⟨את⟩ maumivu katika ngozi ya nyama, na nywele katika maumivu yamegeuka kuwa nyeupe, na mwonekano wa maumivu ni mrefu zaidi kuliko ngozi ya nyama yake — ni maumivu ya tsaraat; na kuhani atakapomwona ⟨את⟩ yeye, atamtangaza mwenye unajisi.",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "na atatazama"
+      "gloss": "na kuhani atakuona"
     },
     {
       "surface": "הכהן",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ndui hiyo"
+      "marks": "maumivu"
     },
     {
       "surface": "הנגע",
-      "gloss": "ndui hiyo"
+      "gloss": "maumivu"
     },
     {
       "surface": "בעור",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "הבשר",
-      "gloss": "ya mwili"
+      "gloss": "ya nyama"
     },
     {
       "surface": "ושער",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "בנגע",
-      "gloss": "zenye ndui"
+      "gloss": "katika maumivu"
     },
     {
       "surface": "הפך",
-      "gloss": "zimegeuka"
+      "gloss": "yamegeuka"
     },
     {
       "surface": "לבן",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "wa ndui hiyo"
+      "gloss": "wa maumivu"
     },
     {
       "surface": "עמק",
-      "gloss": "ni wa kina"
+      "gloss": "ni mrefu zaidi"
     },
     {
       "surface": "מעור",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "בשרו",
-      "gloss": "ya mwili wake"
+      "gloss": "ya nyama yake"
     },
     {
       "surface": "נגע",
-      "gloss": "ndui"
+      "gloss": "maumivu"
     },
     {
       "surface": "צרעת",
-      "gloss": "ya ukoma"
+      "gloss": "ya tsaraat"
     },
     {
       "surface": "הוא",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "וראהו",
-      "gloss": "na kuhani atamwona"
+      "gloss": "na kuhani atakapomwona yeye"
     },
     {
       "surface": "הכהן",
@@ -90,14 +90,14 @@
     },
     {
       "surface": "וטמא",
-      "gloss": "na kumtangaza mchafu"
+      "gloss": "atamtangaza mwenye unajisi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "yeye"
     }
   ],
-  "timestamp": "2026-08-10T10:34:20.198761772Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:58.270873860Z",
+  "model": "glm-5.3"
 }

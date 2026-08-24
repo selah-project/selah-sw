@@ -5,90 +5,90 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Na hakohani amtazame ⟨אתו⟩ siku ya saba kwa mara ya pili, na tazama, kama neno hilo limefifia, na neno hilo halijatenea katika ngozi, naye hakohani amtangaze ⟨kuwa⟩ safi: ni msafaka; naye afue nguo zake, na ⟨ye⟩ ⟨we⟩ safi.",
+  "translation": "Na kuhani atamw ⟨את⟩ ⟨אתו⟩ siku ya saba kwa mara ya pili, na tazama, kama ngozi hiyo imepwa kuwa hafifu, na maumivu hayaenea katika ngozi, basi kuhani atamtakasa; niupele wa ngozi tu; na atafulia nguo zake, naye atakuwa mtakaso.",
   "tokens": [
     {
-      "surface": "וראה",
-      "gloss": "Na amtazame"
+      "surface": "וְרָאָה֩",
+      "gloss": "na atamw"
     },
     {
-      "surface": "הכהן",
-      "gloss": "hakohani"
+      "surface": "הַכֹּהֵ֨ן",
+      "gloss": "kuhani"
     },
     {
-      "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "yeye"
+      "surface": "אֹת֜וֹ",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "yule aliyeathiriwa"
     },
     {
-      "surface": "ביום",
+      "surface": "בַּיּ֣וֹם",
       "gloss": "siku ya"
     },
     {
-      "surface": "השביעי",
-      "gloss": "ya saba"
+      "surface": "הַשְּׁבִיעִי֮",
+      "gloss": "saba"
     },
     {
-      "surface": "שנית",
+      "surface": "שֵׁנִית",
       "gloss": "kwa mara ya pili"
     },
     {
-      "surface": "והנה",
+      "surface": "וְהִנֵּה֙",
       "gloss": "na tazama"
     },
     {
-      "surface": "כהה",
-      "gloss": "kama limefifia"
+      "surface": "כֵּהָ֣ה",
+      "gloss": "imepwa kuwa hafifu"
     },
     {
-      "surface": "הנגע",
-      "gloss": "neno hilo"
+      "surface": "הַנֶּ֔גַע",
+      "gloss": "ngozi hiyo"
     },
     {
-      "surface": "ולא",
-      "gloss": "na halija"
+      "surface": "וְלֹא",
+      "gloss": "na maumivu hayaenea"
     },
     {
-      "surface": "פשה",
-      "gloss": "tenea"
+      "surface": "פָשָׂ֥ה",
+      "gloss": "hayaelee"
     },
     {
-      "surface": "הנגע",
-      "gloss": "neno hilo"
+      "surface": "הַנֶּ֖גַע",
+      "gloss": "yale"
     },
     {
-      "surface": "בעור",
+      "surface": "בָּע֑וֹר",
       "gloss": "katika ngozi"
     },
     {
-      "surface": "וטהרו",
-      "gloss": "naye amtangaze safi"
+      "surface": "וְטִהֲר֤וֹ",
+      "gloss": "na kuhani atamtakasa"
     },
     {
-      "surface": "הכהן",
-      "gloss": "hakohani"
+      "surface": "הַכֹּהֵן֙",
+      "gloss": "kuhani"
     },
     {
-      "surface": "מספחת",
-      "gloss": "msafaka"
+      "surface": "מִסְפַּ֣חַת",
+      "gloss": "upele wa ngozi"
     },
     {
-      "surface": "היא",
-      "gloss": "ni"
+      "surface": "הִ֔יא",
+      "gloss": "ni (moyo wa neno) tu"
     },
     {
-      "surface": "וכבס",
-      "gloss": "naye afue"
+      "surface": "וְכִבֶּ֥ס",
+      "gloss": "na atafulia"
     },
     {
-      "surface": "בגדיו",
+      "surface": "בְּגָדָ֖יו",
       "gloss": "nguo zake"
     },
     {
-      "surface": "וטהר",
-      "gloss": "na safi"
+      "surface": "וְטָהֵֽר",
+      "gloss": "na atakuwa mtakaso"
     }
   ],
-  "timestamp": "2026-08-10T17:43:05.429152310Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.369710418Z",
+  "model": "glm-5.3"
 }

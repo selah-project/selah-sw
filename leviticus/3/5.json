@@ -5,24 +5,24 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Na wakauteketeza ⟨את⟩ wake wana wa Aharon juu ya madhabahu, juu ya ⟨the⟩ toleo jumuishi ambalo juu ya kuni ambazo juu ya moto — toleo la moto, harufu ya kupendeza kwa Yahweh.",
+  "translation": "Na wanawe Aharon watavuta moshi ⟨את⟩ huo juu ya madhabahu, juu ya sadaka ya kuchomaizika iliyo juu ya kuni zilizo juu ya moto — ⟨ni⟩ sadaka ya kwa moto, harufu ya kupendeza kwa Yahweh.",
   "tokens": [
     {
       "surface": "והקטירו",
-      "gloss": "na wakauteketeza"
+      "gloss": "watavuta moshi"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "wake"
+      "marks": "huo (mafuta)"
     },
     {
       "surface": "בני",
-      "gloss": "wana"
+      "gloss": "wanawe"
     },
     {
       "surface": "אהרן",
-      "gloss": "wa Aharon"
+      "gloss": "Aharon"
     },
     {
       "surface": "המזבחה",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "העלה",
-      "gloss": "toléo jumuishi"
+      "gloss": "sadaka ya kuchomaizika"
     },
     {
       "surface": "אשר",
-      "gloss": "ambalo"
+      "gloss": "iliyo"
     },
     {
       "surface": "על",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambazo"
+      "gloss": "zilizo"
     },
     {
       "surface": "על",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "אשה",
-      "gloss": "toléo la moto"
+      "gloss": "sadaka ya kwa moto"
     },
     {
       "surface": "ריח",
@@ -77,6 +77,6 @@
       "gloss": "kwa Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T10:31:00.490992572Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:02.854275255Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 21,
-  "translation": "Akish akawaambia watumishi wake: \"Tazameni, mwone mtu anayefanya kama mwendawazimu; mbona mumleta ⟨אתו⟩ kwangu?",
+  "translation": "Akish akasema kwenda watumishi wake: Tazameni, mniona mtu anayejigeuza kuwa mwendawazimu; kwa nini mnamleta ⟨את⟩ yeye kwangu mimi?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "akawaambia"
+      "gloss": "akasema"
     },
     {
       "surface": "אכיש",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": "kwenda"
     },
     {
       "surface": "עבדיו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "תראו",
-      "gloss": "mwone"
+      "gloss": "mniona"
     },
     {
       "surface": "איש",
@@ -37,26 +37,26 @@
     },
     {
       "surface": "משתגע",
-      "gloss": "anayefanya kama mwendawazimu"
+      "gloss": "anayejigeuza kuwa mwendawazimu"
     },
     {
       "surface": "למה",
-      "gloss": "mbona"
+      "gloss": "kwa nini"
     },
     {
       "surface": "תביאו",
-      "gloss": "mumleta"
+      "gloss": "mnamleta"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "mtu huyu"
+      "gloss": "⟨את⟩ yeye",
+      "marks": "yeye (mtu yule)"
     },
     {
       "surface": "אלי",
-      "gloss": "kwangu"
+      "gloss": "kwangu mimi"
     }
   ],
-  "timestamp": "2026-08-10T11:26:37.382675986Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:15.055793523Z",
+  "model": "glm-5.3"
 }

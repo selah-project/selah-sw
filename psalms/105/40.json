@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 105,
-  "translation": "Waliomba, na ⟨⟨yeye⟩ akaleta⟩ selav, na mkate wa mbingu akawashibisha.",
+  "translation": "Waliomba, akawaleta ⟨את⟩ selavu (ndege wa kuuliwa), na ⟨את⟩ chakula cha mbingu akawashibisha.",
   "tokens": [
     {
       "surface": "שאל",
@@ -13,25 +13,30 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "na akileta"
+      "gloss": "akawaleta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selavu"
     },
     {
       "surface": "שלו",
-      "gloss": "selav"
+      "gloss": "selavu"
     },
     {
       "surface": "ולחם",
-      "gloss": "na mkate"
+      "gloss": "na chakula"
     },
     {
       "surface": "שמים",
-      "gloss": "wa mbingu"
+      "gloss": "cha mbingu"
     },
     {
       "surface": "ישביעם",
       "gloss": "akawashibisha"
     }
   ],
-  "timestamp": "2026-08-10T16:19:46.120672239Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:33.998914013Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Utajiri na utukufu ⟨ni⟩ ⟨אתי⟩ pamoja nami, mali ya kale na haki.",
+  "translation": "Mali na utukufu ⟨את⟩ pamoja nami; mali ya kale ya thamani ⟨ni⟩ pamoja nami, na hatua.",
   "tokens": [
     {
       "surface": "עשר",
-      "gloss": "Utajiri"
+      "gloss": "Mali"
     },
     {
       "surface": "וכבוד",
@@ -17,21 +17,22 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩ pamoja nami",
+      "marks": "Mali na utukufu"
     },
     {
       "surface": "הון",
-      "gloss": "mali"
+      "gloss": "mali ya kale ya thamani"
     },
     {
       "surface": "עתק",
-      "gloss": "ya kale"
+      "gloss": "ya kudumu"
     },
     {
       "surface": "וצדקה",
       "gloss": "na haki"
     }
   ],
-  "timestamp": "2026-08-10T13:23:38.017709339Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:30.824293937Z",
+  "model": "glm-5.3"
 }

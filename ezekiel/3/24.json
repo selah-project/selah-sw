@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Roho iliingia ndani yangu, ikaniinua kusimama juu ya miguu yangu, ⟨וידבר⟩ ⟨אתי⟩ akanena nami, nikaambiwa, Njoo, jifunge ndani ya nyumba yako.",
+  "translation": "Ndipo roho iliingia ndani yangu, ikaniweka imara juu ya miguu yangu, naye akasema ⟨nami⟩, akaniambia: Ingia, ujifunge ndani ya nyumba yako.",
   "tokens": [
     {
       "surface": "ותבא",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "רוח",
-      "gloss": "Roho"
+      "gloss": "roho"
     },
     {
       "surface": "ותעמדני",
-      "gloss": "ikaniinua kusimama"
+      "gloss": "ikaniweka imara"
     },
     {
       "surface": "על",
@@ -33,28 +33,28 @@
     },
     {
       "surface": "וידבר",
-      "gloss": "⟨וידבר⟩"
+      "gloss": "akasema"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨אתי⟩",
-      "marks": "akanena nami"
+      "gloss": "⟨את⟩ nami",
+      "marks": "nami"
     },
     {
       "surface": "ויאמר",
-      "gloss": "nikambiwa"
+      "gloss": "akaniambia"
     },
     {
       "surface": "אלי",
-      "gloss": "nami"
+      "gloss": "kwangu"
     },
     {
       "surface": "בא",
-      "gloss": "Njoo"
+      "gloss": "Ingia"
     },
     {
       "surface": "הסגר",
-      "gloss": "jifunge"
+      "gloss": "ujifunge"
     },
     {
       "surface": "בתוך",
@@ -65,6 +65,6 @@
       "gloss": "nyumba yako"
     }
   ],
-  "timestamp": "2026-08-10T16:11:46.078912394Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:55.687242556Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Maana piteni ⟨⟨ visiwa vya Kitim⟩⟩, na taangalieni; na mtume ⟨⟨ Kedari⟩⟩, na zingatieni sana, na taangalieni — ⟨hakika⟩ hivi imekuwa!",
+  "translation": "Maana vukeni visiwa vya Kittim mwoneni, na mtumeni kwa Kedar, na tafakari sana, mwoneni — <haipo> ⟨hii⟩ kama hivi;",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "עברו",
-      "gloss": "piteni"
+      "gloss": "vukeni"
     },
     {
       "surface": "איי",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "כתיים",
-      "gloss": "Kitim"
+      "gloss": "Kittim"
     },
     {
       "surface": "וראו",
-      "gloss": "na taangalieni"
+      "gloss": "mwoneni"
     },
     {
       "surface": "וקדר",
-      "gloss": "na Kedari"
+      "gloss": "na kwa Kedar"
     },
     {
       "surface": "שלחו",
-      "gloss": "mtume"
+      "gloss": "mtumeni"
     },
     {
       "surface": "והתבוננו",
-      "gloss": "na zingatieni"
+      "gloss": "na tafakari"
     },
     {
       "surface": "מאד",
@@ -45,21 +45,21 @@
     },
     {
       "surface": "וראו",
-      "gloss": "na taangalieni"
+      "gloss": "mwoneni"
     },
     {
       "surface": "הן",
-      "gloss": "⟨hakika⟩"
+      "gloss": "— <haipo>"
     },
     {
       "surface": "היתה",
-      "gloss": "imekuwa"
+      "gloss": "⟨hii⟩ kama hivi imekuwako"
     },
     {
       "surface": "כזאת",
-      "gloss": "hivi"
+      "gloss": "kama hivi"
     }
   ],
-  "timestamp": "2026-08-10T15:10:05.662829470Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:30.942238166Z",
+  "model": "glm-5.3"
 }

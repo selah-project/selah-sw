@@ -5,27 +5,27 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 22,
-  "translation": "Na mtu wa kigeni asile ⟨⟨ kilicho takatifu; mwenyeji wa kuhani na mjeshi wa kukodiwa asile ⟨⟨ kilicho takatifu.",
+  "translation": "Na mkubwa yeyote asiye wa familia ya kuhani ⟨hataweza⟩ kula ⟨את⟩ kitu kitakatifu; mwenyeji wa kuhani na mwajiriwa hawatakula kitu kitakatifu.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "na mtu wa kigeni"
+      "gloss": "Na mkubwa yeyote"
     },
     {
       "surface": "זר",
-      "gloss": "kigeni"
+      "gloss": "asiye wa familia"
     },
     {
       "surface": "לא",
-      "gloss": "asi"
+      "gloss": "hataweza"
     },
     {
       "surface": "יאכל",
-      "gloss": "le"
+      "gloss": "kula"
     },
     {
       "surface": "קדש",
-      "gloss": "kilicho takatifu"
+      "gloss": "kitu kitakatifu"
     },
     {
       "surface": "תושב",
@@ -37,21 +37,21 @@
     },
     {
       "surface": "ושכיר",
-      "gloss": "na mjeshi wa kukodiwa"
+      "gloss": "na mwajiriwa"
     },
     {
       "surface": "לא",
-      "gloss": "asi"
+      "gloss": "hawata"
     },
     {
       "surface": "יאכל",
-      "gloss": "le"
+      "gloss": "kula"
     },
     {
       "surface": "קדש",
-      "gloss": "kilicho takatifu"
+      "gloss": "kitu kitakatifu"
     }
   ],
-  "timestamp": "2026-08-10T15:54:19.373744932Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:55.649357977Z",
+  "model": "glm-5.3"
 }

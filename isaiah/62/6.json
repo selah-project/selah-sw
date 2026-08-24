@@ -5,82 +5,82 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 62,
-  "translation": "Ju ya kuta zako, Yerushalayim, nimeweka waalinzi; siku yote na usiku kucha daima hawatanyamaza. ⟨⟨Wale wanaomkumbusha⟩⟩ ⟨את⟩ Yahweh, msikae kimyakimya.",
+  "translation": "Juu ya kuta zako, ewe Yerushalayim, nimeweka walinzi; siku nzima na usiku nzima, daima hawataketi kimya. Ninyi mnaomkumbusha ⟨את⟩ Yahweh, msikae kimya ⟨kwa ajili yenu⟩.",
   "tokens": [
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "juu ya"
     },
     {
-      "surface": "חוֹמֹתַ֣יִךְ",
+      "surface": "חומתיך",
       "gloss": "kuta zako"
     },
     {
-      "surface": "יְרוּשָׁלִַ֗ם",
+      "surface": "ירושלם",
       "gloss": "Yerushalayim"
     },
     {
-      "surface": "הִפְקַ֨דְתִּי֙",
+      "surface": "הפקדתי",
       "gloss": "nimeweka"
     },
     {
-      "surface": "שֹֽׁמְרִ֔ים",
-      "gloss": "waalinzi"
+      "surface": "שמרים",
+      "gloss": "walinzi"
     },
     {
-      "surface": "כָּל",
-      "gloss": "yote"
+      "surface": "כל",
+      "gloss": "nzima"
     },
     {
-      "surface": "הַיּ֧וֹם",
+      "surface": "היום",
       "gloss": "siku"
     },
     {
-      "surface": "וְכָל",
-      "gloss": "na yote"
+      "surface": "וכל",
+      "gloss": "na usiku nzima"
     },
     {
-      "surface": "הַלַּ֛יְלָה",
+      "surface": "הלילה",
       "gloss": "usiku"
     },
     {
-      "surface": "תָּמִ֖יד",
+      "surface": "תמיד",
       "gloss": "daima"
     },
     {
-      "surface": "לֹ֣א",
-      "gloss": "sio"
+      "surface": "לא",
+      "gloss": "si"
     },
     {
-      "surface": "יֶחֱשׁ֑וּ",
-      "gloss": "watanyamaza"
+      "surface": "יחשו",
+      "gloss": "hawataketi kimya"
     },
     {
-      "surface": "הַמַּזְכִּרִים֙",
-      "gloss": "wanaomkumbusha"
+      "surface": "המזכרים",
+      "gloss": "mnaomkumbusha"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "Yahweh"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "אַל",
-      "gloss": "msi"
+      "surface": "אל",
+      "gloss": "msikae"
     },
     {
-      "surface": "דֳּמִ֖י",
-      "gloss": "kimyakimya"
+      "surface": "דמי",
+      "gloss": "kimya"
     },
     {
-      "surface": "לָכֶֽם",
-      "gloss": "nafsi yenu"
+      "surface": "לכם",
+      "gloss": "kwa ajili yenu"
     }
   ],
-  "timestamp": "2026-08-10T12:09:07.751146696Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:35.724202969Z",
+  "model": "glm-5.3"
 }

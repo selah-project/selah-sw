@@ -5,28 +5,28 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 38,
-  "translation": "Akaunda ⟨את⟩ mifumo ya mbao za mshita, akazifunika ⟨אתם⟩ shaba.",
+  "translation": "Akatengeneza ⟨את⟩ fimbo za ubao wa shitimu, akazifunika ⟨na⟩ shaba.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "Akaunda"
+      "gloss": "Akatengeneza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mifumo"
+      "marks": "fimbo"
     },
     {
       "surface": "הבדים",
-      "gloss": "mifumo"
+      "gloss": "fimbo"
     },
     {
       "surface": "עצי",
-      "gloss": "ya mbao"
+      "gloss": "ubao"
     },
     {
       "surface": "שטים",
-      "gloss": "za mshita"
+      "gloss": "shitimu"
     },
     {
       "surface": "ויצף",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨na⟩ zake",
       "marks": "shaba"
     },
     {
@@ -42,6 +42,6 @@
       "gloss": "shaba"
     }
   ],
-  "timestamp": "2026-08-10T10:29:23.658762001Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:58.705794165Z",
+  "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 41,
-  "translation": "Wakaribishe na watangazeni sisi ⟨⟨את⟩⟩ yale ambayo yatatokea; ⟨mambo⟩ ya kwanza ni yapi? Yatangazeni ili tuweke moyo wetu, ili tujue mwisho wake, au mambo yajayo yatujulisheni.",
+  "translation": "Watilete karibu, na watuambie sisi ⟨את⟩ yale yatakayotukia; watangaze mambo ya kwanza, ni yapi? Tangazeni, ili sisi tuweke mioyo yetu, na tujue mwisho wake, au yajayo yatujulishe sisi.",
   "tokens": [
     {
       "surface": "יגישו",
-      "gloss": "wakaribishe"
+      "gloss": "Watilete karibu"
     },
     {
       "surface": "ויגידו",
-      "gloss": "na watangazeni"
+      "gloss": "na watuambie"
     },
     {
       "surface": "לנו",
@@ -22,19 +22,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yale ambayo yatatokea"
+      "marks": "yale yatakayotukia"
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "yale"
     },
     {
       "surface": "תקרינה",
-      "gloss": "yatatokea"
+      "gloss": "yatakayotukia"
     },
     {
       "surface": "הראשנות",
-      "gloss": "⟨mambo⟩ ya kwanza"
+      "gloss": "mambo ya kwanza"
     },
     {
       "surface": "מה",
@@ -42,23 +42,23 @@
     },
     {
       "surface": "הנה",
-      "gloss": "hizi"
+      "gloss": "yapi"
     },
     {
       "surface": "הגידו",
-      "gloss": "yatangazeni"
+      "gloss": "Tangazeni"
     },
     {
       "surface": "ונשימה",
-      "gloss": "ili tuweke"
+      "gloss": "ili sisi tuweke"
     },
     {
       "surface": "לבנו",
-      "gloss": "moyo wetu"
+      "gloss": "mioyo yetu"
     },
     {
       "surface": "ונדעה",
-      "gloss": "ili tujue"
+      "gloss": "na tujue"
     },
     {
       "surface": "אחריתן",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "הבאות",
-      "gloss": "mambo yajayo"
+      "gloss": "yajayo"
     },
     {
       "surface": "השמיענו",
-      "gloss": "yatujulisheni"
+      "gloss": "yatujulishe sisi"
     }
   ],
-  "timestamp": "2026-08-10T12:04:39.946962924Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:13.987206995Z",
+  "model": "glm-5.3"
 }

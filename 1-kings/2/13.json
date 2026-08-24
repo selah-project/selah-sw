@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Akaja Adonijahu mwana wa Chagiti kwa Bath-Sheba mama Shelomoho, akasema ⟨⟨niambie⟩⟩, ⟨Je⟩, ni amani koo? Akasema, Amani.",
+  "translation": "Naye Adonijahu mwana wa Chagithi akamwendea Bat-Sheba mama wa Shelomoho, naye akasema, ⟨Je⟩, kuja kwako ni kwa shalomu? Naye akasema, Ni shalomu.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "חגית",
-      "gloss": "wa Chagiti"
+      "gloss": "wa Chagithi"
     },
     {
       "surface": "אל",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "בת",
-      "gloss": "Bath-Sheba"
+      "gloss": "Bat-"
     },
     {
       "surface": "שבע",
-      "gloss": ""
+      "gloss": "Sheba"
     },
     {
       "surface": "אם",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "השלום",
-      "gloss": "Je, ⟨ni⟩ amani"
+      "gloss": "je, ni shalomu?"
     },
     {
       "surface": "באך",
-      "gloss": "koo"
+      "gloss": "kuja kwako"
     },
     {
       "surface": "ויאמר",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "שלום",
-      "gloss": "Amani"
+      "gloss": "shalomu"
     }
   ],
-  "timestamp": "2026-08-10T11:37:09.414517125Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:52.207788512Z",
+  "model": "glm-5.3"
 }

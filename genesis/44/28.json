@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 44,
-  "translation": "Na mmoja akatoka ⟨אתנו⟩ kwangu, nami nikasema: Hakika ameraruliwa-raruliwa, wala sikumwona tangu wakati uo huo.",
+  "translation": "Na mmoja akatoka ⟨את⟩ kwangu, nikasema: hakika ameraruliwa-raruliwa; wala sikumwona tangu hapo hata sasa.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "na akatoka"
+      "gloss": "akatoka"
     },
     {
       "surface": "האחד",
@@ -17,8 +17,8 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "⟨אתנו⟩",
-      "marks": "mimi"
+      "gloss": "⟨את⟩ kwangu",
+      "marks": "mmoja"
     },
     {
       "surface": "ואמר",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "wala"
+      "gloss": "wala si"
     },
     {
       "surface": "ראיתיו",
-      "gloss": "nikamwona"
+      "gloss": "kumwona"
     },
     {
       "surface": "עד",
@@ -50,9 +50,9 @@
     },
     {
       "surface": "הנה",
-      "gloss": "wakati uo huo"
+      "gloss": "hapo hata sasa"
     }
   ],
-  "timestamp": "2026-08-10T10:15:51.233545472Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:10.064789318Z",
+  "model": "glm-5.3"
 }

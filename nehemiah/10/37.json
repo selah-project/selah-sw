@@ -5,20 +5,20 @@
   "book": "nehemiah",
   "lang": "sw",
   "chapter": 10,
-  "translation": "Na ⟨את⟩ vizazi vya kwanza vya wana wetu na wanyama wetu, kama ilivyoandikwa katika tora, na ⟨את⟩ wa kwanza kuzaliwa wa ng'ombe wetu na kondoo wetu, ili kuleta ⟨⟨hayo⟩⟩ kwenye nyumba ya Elohim wetu, kwa makuhani wanaohudumu katika nyumba ya Elohim wetu.",
+  "translation": "Na ⟨את⟩ wazaliwa-wa-kwanza wa wanetu na ⟨את⟩ wanyama wetu, kama ilivyoandikwa katika Torati, na ⟨את⟩ wa-kwanza wa kuzaliwa wa ng'ombe wetu na kondoo zetu, ili kuleta nyumba ya Elohim wetu, kwa makuhani wanaohudumu katika nyumba ya Elohim wetu.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Na ⟨את⟩",
-      "marks": "vizazi vya kwanza"
+      "gloss": "⟨את⟩",
+      "marks": "wazaliwa-wa-kwanza wa wanetu"
     },
     {
       "surface": "בכרות",
-      "gloss": "vizazi vya kwanza"
+      "gloss": "wazaliwa-wa-kwanza"
     },
     {
       "surface": "בנינו",
-      "gloss": "wana wetu"
+      "gloss": "wa wanetu"
     },
     {
       "surface": "ובהמתינו",
@@ -30,24 +30,24 @@
     },
     {
       "surface": "בתורה",
-      "gloss": "katika tora"
+      "gloss": "katika Torati"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "wa kwanza kuzaliwa"
+      "gloss": "⟨את⟩",
+      "marks": "wa-kwanza wa kuzaliwa wa ng'ombe wetu"
     },
     {
       "surface": "בכורי",
-      "gloss": "wa kwanza kuzaliwa"
+      "gloss": "wa-kwanza wa kuzaliwa"
     },
     {
       "surface": "בקרינו",
-      "gloss": "ng'ombe wetu"
+      "gloss": "wa ng'ombe wetu"
     },
     {
       "surface": "וצאנינו",
-      "gloss": "na kondoo wetu"
+      "gloss": "na kondoo zetu"
     },
     {
       "surface": "להביא",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "לבית",
-      "gloss": "kwenye nyumba"
+      "gloss": "nyumba ya"
     },
     {
       "surface": "אלהינו",
-      "gloss": "ya Elohim wetu"
+      "gloss": "Elohim wetu"
     },
     {
       "surface": "לכהנים",
@@ -71,13 +71,13 @@
     },
     {
       "surface": "בבית",
-      "gloss": "katika nyumba"
+      "gloss": "katika nyumba ya"
     },
     {
       "surface": "אלהינו",
-      "gloss": "ya Elohim wetu"
+      "gloss": "Elohim wetu"
     }
   ],
-  "timestamp": "2026-08-10T14:01:51.277791194Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:22.050095197Z",
+  "model": "glm-5.3"
 }

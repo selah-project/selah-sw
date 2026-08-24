@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 20,
-  "translation": "Nanyi mtajua kwamba mimi ni Yahweh, katika kuwaleteni ⟨⟨kwenda⟩⟩ ardhini ya Yisraeli, ⟨⟀kwenda⟩⟩ nchi ile ambayo niliiwekea ⟨את⟩ mkono wangu ili kuiipa kwa baba zenu.",
+  "translation": "Nanyi mtajua kwamba mimi ni Yahweh, nitakapoleta ⟨את⟩ ninyi kwenda katika ardhi ya Yisra'el, kwenda katika ⟨ה⟩nchi ambayo niliinua ⟨את⟩ mkono wangu kuitoa kwenda kwa baba zenu.",
   "tokens": [
     {
       "surface": "וידעתם",
-      "gloss": "nanyi mtajua"
+      "gloss": "mtajua"
     },
     {
       "surface": "כי",
@@ -25,32 +25,32 @@
     },
     {
       "surface": "בהביאי",
-      "gloss": "katika kuwaleta"
+      "gloss": "nitakapoleta"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "nyinyi"
+      "gloss": "⟨את⟩ ninyi",
+      "marks": "ninyi"
     },
     {
       "surface": "אל",
-      "gloss": "⟨kwenda⟩ ardhini"
+      "gloss": "kwenda katika"
     },
     {
       "surface": "אדמת",
-      "gloss": "ya"
+      "gloss": "ardhi ya"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraeli"
+      "gloss": "Yisra'el"
     },
     {
       "surface": "אל",
-      "gloss": "⟀kwendo⟩ nchi"
+      "gloss": "kwenda katika"
     },
     {
       "surface": "הארץ",
-      "gloss": "ile"
+      "gloss": "⟨ה⟩nchi"
     },
     {
       "surface": "אשר",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "נשאתי",
-      "gloss": "niliiwekea"
+      "gloss": "niliinua"
     },
     {
       "surface": "את",
@@ -71,18 +71,18 @@
     },
     {
       "surface": "לתת",
-      "gloss": "ili kuiipa"
+      "gloss": "kuitoa kwenda kwa"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩",
-      "marks": "kwa baba zenu"
+      "gloss": "⟨את⟩ nayo",
+      "marks": "baba zenu \/ nchi"
     },
     {
       "surface": "לאבותיכם",
-      "gloss": "kwa baba zenu"
+      "gloss": "baba zenu"
     }
   ],
-  "timestamp": "2026-08-10T12:31:50.386810383Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:37.827522072Z",
+  "model": "glm-5.3"
 }

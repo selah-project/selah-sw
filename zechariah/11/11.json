@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "sw",
   "chapter": 11,
-  "translation": "Ikatanguliwa siku hiyo; nao wakajua vivyo hivyo wanyenyekevu wa kundi, walionizihifadhi, kwamba ⟨huu⟩ ni neno la Yahweh.",
+  "translation": "Ilikatwa siku hiyo, nao maskini wa kondoo wanaonichunga walijua hakika kwamba ni neno la Yahweh.",
   "tokens": [
     {
       "surface": "ותפר",
-      "gloss": "ikatanguliwa"
+      "gloss": "ilikatwa"
     },
     {
       "surface": "ביום",
@@ -21,27 +21,27 @@
     },
     {
       "surface": "וידעו",
-      "gloss": "nao wakajua"
+      "gloss": "walijua"
     },
     {
       "surface": "כן",
-      "gloss": "vivyo hivyo"
+      "gloss": "hakika"
     },
     {
       "surface": "עניי",
-      "gloss": "wanyenyekevu"
+      "gloss": "maskini"
     },
     {
       "surface": "הצאן",
-      "gloss": "wa kundi"
+      "gloss": "wa kondoo"
     },
     {
       "surface": "השמרים",
-      "gloss": "waliozihifadhi"
+      "gloss": "wanaonichunga"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨אתי⟩",
+      "gloss": "⟨את⟩ ⟨אתי⟩",
       "marks": "mimi"
     },
     {
@@ -58,9 +58,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "huu"
+      "gloss": "ni"
     }
   ],
-  "timestamp": "2026-08-10T12:53:13.583331159Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.309151670Z",
+  "model": "glm-5.3"
 }

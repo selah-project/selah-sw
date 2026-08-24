@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Na mfalme akasema: Gateni mtoto ⟨ה⟩ aliye hai kwa wawili, na mpeni ⟨את⟩ nusu kwa mmoja, na ⟨את⟩ nusu kwa ⟨mmoja⟩.",
+  "translation": "Na mfalme akasema: Kateni ⟨את⟩ mtoto aliye hai kuwa vipande viwili, na mpeni nusu kwa mmoja, na ⟨את⟩ nusu kwa mmoja.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na akasema"
+      "gloss": "akasema"
     },
     {
       "surface": "המלך",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "גזרו",
-      "gloss": "Gateni"
+      "gloss": "kateni"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mtoto"
+      "marks": "mtoto aliye hai"
     },
     {
       "surface": "הילד",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "לשנים",
-      "gloss": "kwa wawili"
+      "gloss": "kuwa vipande viwili"
     },
     {
       "surface": "ותנו",
@@ -43,6 +43,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
+      "gloss_note": "",
       "marks": "nusu"
     },
     {
@@ -67,6 +68,6 @@
       "gloss": "kwa mmoja"
     }
   ],
-  "timestamp": "2026-08-10T11:38:11.468328949Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:15.379263026Z",
+  "model": "glm-5.3"
 }

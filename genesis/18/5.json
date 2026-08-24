@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 18,
-  "translation": "Nami nilete ⟨⟨kipande⟩⟩ cha mkate, mkiweke moyo wenu, kisha mpitie; maana kwa hiyo ndiyo mlipopita ⟨kwa⟩ mja wenu.\" Nao wakasema, \"Hivyo ufanye kama ulivyosema.\"",
+  "translation": "Nami nilete ⟨את⟩ kipande cha mkate, mliimarishie mioyo yenu, baada ya hapo mpitue zaidi; maana kwa hiyo ndiyo mliponipita mimi mtumishi wenu.\" Nao wakasema: \"Fanya hivyo kama ulivyosema.\"",
   "tokens": [
     {
       "surface": "ואקחה",
-      "gloss": "nami nilete"
+      "gloss": "nilete"
     },
     {
       "surface": "פת",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "וסעדו",
-      "gloss": "mkiweke"
+      "gloss": "mliimarishie"
     },
     {
       "surface": "לבכם",
-      "gloss": "moyo wenu"
+      "gloss": "mioyo yenu"
     },
     {
       "surface": "אחר",
-      "gloss": "kisha"
+      "gloss": "baada ya hapo"
     },
     {
       "surface": "תעברו",
-      "gloss": "mpitie"
+      "gloss": "mpitue zaidi"
     },
     {
       "surface": "כי",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "עברתם",
-      "gloss": "mlipopita"
+      "gloss": "mliponipita"
     },
     {
       "surface": "על",
-      "gloss": "kwa"
+      "gloss": "kwenda kwa"
     },
     {
       "surface": "עבדכם",
-      "gloss": "mja wenu"
+      "gloss": "mtumishi wenu"
     },
     {
       "surface": "ויאמרו",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "כן",
-      "gloss": "Hivyo"
+      "gloss": "hivyo"
     },
     {
       "surface": "תעשה",
-      "gloss": "ufanye"
+      "gloss": "fanya"
     },
     {
       "surface": "כאשר",
@@ -80,6 +80,6 @@
       "gloss": "ulivyosema"
     }
   ],
-  "timestamp": "2026-08-10T14:24:00.229583719Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:32.820285763Z",
+  "model": "glm-5.3"
 }

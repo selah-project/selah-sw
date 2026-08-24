@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Na Elohim akafanya ⟨את⟩⟨the⟩ ukumbi, akatenga baina ya maji yaliyo chini ya ukumbi na baina ya maji yaliyo juu ya ukumbi; ikawa hivyo.",
+  "translation": "Elohim akafanya ⟨את⟩ ngao ya anga, akatenganisha kati ya maji yaliyo chini ya ngao ya anga na kati ya maji yaliyo juu ya ngao ya anga; ikawa hivyo.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "Na akafanya"
+      "gloss": "akafanya"
     },
     {
       "surface": "אלהים",
@@ -18,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ukumbi"
+      "marks": "ngao ya anga"
     },
     {
       "surface": "הרקיע",
-      "gloss": "ukumbi"
+      "gloss": "ngao ya anga"
     },
     {
       "surface": "ויבדל",
-      "gloss": "akatenga"
+      "gloss": "akatenganisha"
     },
     {
       "surface": "בין",
-      "gloss": "baina ya"
+      "gloss": "kati ya"
     },
     {
       "surface": "המים",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "מתחת",
-      "gloss": "chini ya"
+      "gloss": "chini"
     },
     {
       "surface": "לרקיע",
-      "gloss": "ukumbi"
+      "gloss": "ya ngao ya anga"
     },
     {
       "surface": "ובין",
-      "gloss": "na baina ya"
+      "gloss": "na kati ya"
     },
     {
       "surface": "המים",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "מעל",
-      "gloss": "juu ya"
+      "gloss": "juu"
     },
     {
       "surface": "לרקיע",
-      "gloss": "ukumbi"
+      "gloss": "ya ngao ya anga"
     },
     {
       "surface": "ויהי",
@@ -77,6 +77,6 @@
       "gloss": "hivyo"
     }
   ],
-  "timestamp": "2026-08-10T10:01:05.600343857Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:16.666305497Z",
+  "model": "glm-5.3"
 }

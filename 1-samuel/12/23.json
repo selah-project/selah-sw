@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 12,
-  "translation": "Tena mimi — hashari niangukie dhambi juu ya Yahweh kwa kusimamisha kuwaombea; bali nitawafundisheni ⟨אתכם⟩ njia njema na iliyonyooka.",
+  "translation": "Mimi pia, nilie mbali na mimi kutenda dhambi dhidi ya Yahweh kwa kuacha kuomba kwa ajili yenu; bali nitawaonya nyinyi ⟨את⟩ katika njia njema na iliyonyooka.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "Tena"
+      "gloss": "pia"
     },
     {
       "surface": "אנכי",
@@ -17,40 +17,39 @@
     },
     {
       "surface": "חלילה",
-      "gloss": "hashari"
+      "gloss": "nilie mbali"
     },
     {
       "surface": "לי",
-      "gloss": "niangukie"
+      "gloss": "na mimi"
     },
     {
       "surface": "מחטא",
-      "gloss": "dhambi juu ya"
+      "gloss": "kutenda dhambi"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahweh"
+      "gloss": "dhidi ya Yahweh"
     },
     {
       "surface": "מחדל",
-      "gloss": "kusimamisha"
+      "gloss": "kwa kuacha"
     },
     {
       "surface": "להתפלל",
-      "gloss": "kuwaombea"
+      "gloss": "kuomba"
     },
     {
       "surface": "בעדכם",
-      "gloss": "⟨kwa ajili yenu⟩"
+      "gloss": "kwa ajili yenu"
     },
     {
       "surface": "והוריתי",
-      "gloss": "bali nitawafundisheni"
+      "gloss": "nitawaonya"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩ nyinyi",
-      "marks": "nyinyi"
+      "gloss": "nyinyi ⟨את⟩"
     },
     {
       "surface": "בדרך",
@@ -65,6 +64,6 @@
       "gloss": "na iliyonyooka"
     }
   ],
-  "timestamp": "2026-08-10T14:51:53.938499132Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:27.307773410Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 8,
-  "translation": "na wewe utasikia mbinguni, na utasamehe dhambi ya watumishi wako na taifa lako Yisrael, kwa kuwa unaonyesha ⟨⟨את⟩ njia⟩ njia njema ⟨ambayo⟩ watatembea ndani yake, na utawapa mvua juu ya nchi yako uliyowapa taifa lako kuwa urithi.",
+  "translation": "na wewe usikie mbinguni, na usamehe dhambi ya watumishi wako na ya watu wako Yisraeli, kwa sababu unawaonyesha njia njema ambayo watatembea ndani yake, na utaweka mvua juu ya nchi yako ambayo umewapa watu wako kwa urithi.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תשמע",
-      "gloss": "utasikia"
+      "gloss": "usikie"
     },
     {
       "surface": "השמים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וסלחת",
-      "gloss": "na utasamehe"
+      "gloss": "na usamehe"
     },
     {
       "surface": "לחטאת",
@@ -33,24 +33,24 @@
     },
     {
       "surface": "ועמך",
-      "gloss": "na taifa lako"
+      "gloss": "na watu wako"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "כי",
-      "gloss": "kwa kuwa"
+      "gloss": "kwa sababu"
     },
     {
       "surface": "תורם",
-      "gloss": "unaonyesha"
+      "gloss": "unawaonyesha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "njia"
+      "marks": "njia njema"
     },
     {
       "surface": "הדרך",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "ונתתה",
-      "gloss": "na utawapa"
+      "gloss": "na utaweka"
     },
     {
       "surface": "מטר",
@@ -94,17 +94,17 @@
     },
     {
       "surface": "נתתה",
-      "gloss": "uliyowapa"
+      "gloss": "umewapa"
     },
     {
       "surface": "לעמך",
-      "gloss": "taifa lako"
+      "gloss": "watu wako"
     },
     {
       "surface": "לנחלה",
-      "gloss": "kuwa urithi"
+      "gloss": "kwa urithi"
     }
   ],
-  "timestamp": "2026-08-10T11:40:19.462207342Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:12.948831631Z",
+  "model": "glm-5.3"
 }

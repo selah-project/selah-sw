@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Na kuhani atatazama ⟨את⟩ neteki siku ya saba, na tazama, ikiwa neteki haujaenea katika ngozi, na muonekano wake haukuwa mrefu kuliko ⟨hiyo⟩ ngozi, basi kuhani atamtakasa, naye atafuliwa nguo zake, na atakuwa ⟨mtakasa⟩.",
+  "translation": "Na kuhani atamwangalia ⟨את⟩ neteki siku ya saba, na tazama, kama neteki haujaenea katika ngozi, na mwonekano wake hauko mirefu kuliko ⟨the⟩ ngozi, basi kuhani atamtakasa ⟨את⟩ ⟨אתו⟩, na atafua nguo zake, naye atakuwa mweKatika.",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "na atatazama"
+      "gloss": "atamwangalia"
     },
     {
       "surface": "הכהן",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "ביום",
-      "gloss": "siku"
+      "gloss": "siku ya"
     },
     {
       "surface": "השביעי",
-      "gloss": "ya saba"
+      "gloss": "saba"
     },
     {
       "surface": "והנה",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "ikiwa haujaenea"
+      "gloss": "hapana"
     },
     {
       "surface": "פשה",
-      "gloss": "imeenea"
+      "gloss": "kuenea"
     },
     {
       "surface": "הנתק",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "ומראהו",
-      "gloss": "na muonekano wake"
+      "gloss": "na mwonekano wake"
     },
     {
       "surface": "איננו",
-      "gloss": "haukuwa"
+      "gloss": "si"
     },
     {
       "surface": "עמק",
-      "gloss": "mrefu kuliko"
+      "gloss": "mirefu"
     },
     {
       "surface": "מן",
@@ -70,16 +70,16 @@
     },
     {
       "surface": "העור",
-      "gloss": "hiyo ngozi"
+      "gloss": "ngozi"
     },
     {
       "surface": "וטהר",
-      "gloss": "basi kuhani atamtakasa"
+      "gloss": "atamtakasa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "kuhani"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "yule mwenye neteki"
     },
     {
       "surface": "הכהן",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "וכבס",
-      "gloss": "naye atafuliwa"
+      "gloss": "na atafua"
     },
     {
       "surface": "בגדיו",
@@ -95,9 +95,9 @@
     },
     {
       "surface": "וטהר",
-      "gloss": "na atakuwa mtakasa"
+      "gloss": "atakuwa mweKatika"
     }
   ],
-  "timestamp": "2026-08-10T10:33:57.370058020Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.370527869Z",
+  "model": "glm-5.3"
 }

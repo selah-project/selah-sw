@@ -5,23 +5,23 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 58,
-  "translation": "Piga kelele kooni, usizibe, kama tarumbeta inua sauti yako, umjulishe ⟨⟨ambao⟩⟩ wangu uasi wao, na kwa nyumba ya Yaakov dhambi zao.",
+  "translation": "Piga yowe koo lako, usizuilishe; kama tarumbeta inuuza sauti yako, na uwaambie wangu waamri wao ⟨ni⟩ uasi, na kwa nyumba ya Yaakov dhambi zao.",
   "tokens": [
     {
       "surface": "קרא",
-      "gloss": "piga kelele"
+      "gloss": "Piga yowe"
     },
     {
       "surface": "בגרון",
-      "gloss": "kooni"
+      "gloss": "koo lako"
     },
     {
       "surface": "אל",
-      "gloss": "usi"
+      "gloss": "usizuilishe ⟨ni⟩"
     },
     {
       "surface": "תחשך",
-      "gloss": "zibe"
+      "gloss": "usizuilishe"
     },
     {
       "surface": "כשופר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הרם",
-      "gloss": "inua"
+      "gloss": "inuuza"
     },
     {
       "surface": "קולך",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "והגד",
-      "gloss": "umjulishe"
+      "gloss": "na uwaambie"
     },
     {
       "surface": "לעמי",
-      "gloss": "ambao wangu"
+      "gloss": "wangu waamri"
     },
     {
       "surface": "פשעם",
@@ -60,6 +60,6 @@
       "gloss": "dhambi zao"
     }
   ],
-  "timestamp": "2026-08-10T16:08:45.599051353Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:19.707052353Z",
+  "model": "glm-5.3"
 }

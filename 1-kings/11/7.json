@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 11,
-  "translation": "Wakati huo Shelomah akajenga ⟨the⟩ bamah kwa Kemosh, kitu cha kuchukiza cha Moabu, katika kilima ambacho ⟨kiko⟩ mbele ya Yerushalayim, na kwa Moleki, kitu cha kuchukiza cha wana wa Amoni.",
+  "translation": "Wakati huo Shelomoh aliijenga bamah ⟨kwa⟩ Chemosh, shikutz ⟨wa⟩ Moab, katika mlima ulio mbele ya Yerushalayim, na ⟨kwa⟩ Molek, shikutz ⟨wa⟩ wana wa Amon.",
   "tokens": [
     {
       "surface": "אז",
-      "gloss": "wakati huo"
+      "gloss": "Wakati huo"
     },
     {
       "surface": "יבנה",
-      "gloss": "akajenga"
+      "gloss": "aliijenga"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomah"
+      "gloss": "Shelomoh"
     },
     {
       "surface": "במה",
@@ -25,31 +25,31 @@
     },
     {
       "surface": "לכמוש",
-      "gloss": "kwa Kemosh"
+      "gloss": "⟨kwa⟩ Chemosh"
     },
     {
       "surface": "שקץ",
-      "gloss": "kitu cha kuchukiza"
+      "gloss": "shikutz"
     },
     {
       "surface": "מואב",
-      "gloss": "Moabu"
+      "gloss": "Moab"
     },
     {
       "surface": "בהר",
-      "gloss": "katika kilima"
+      "gloss": "katika mlima"
     },
     {
       "surface": "אשר",
-      "gloss": "ambacho"
+      "gloss": "ulio"
     },
     {
       "surface": "על",
-      "gloss": "kiko"
+      "gloss": "mbele"
     },
     {
       "surface": "פני",
-      "gloss": "mbele ya"
+      "gloss": "ya"
     },
     {
       "surface": "ירושלם",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "ולמלך",
-      "gloss": "na kwa Moleki"
+      "gloss": "na ⟨kwa⟩ Molek"
     },
     {
       "surface": "שקץ",
-      "gloss": "kitu cha kuchukiza"
+      "gloss": "shikutz"
     },
     {
       "surface": "בני",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "עמון",
-      "gloss": "Amoni"
+      "gloss": "Amon"
     }
   ],
-  "timestamp": "2026-08-10T11:41:17.347947151Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:52.608325701Z",
+  "model": "glm-5.3"
 }

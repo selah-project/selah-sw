@@ -5,24 +5,24 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 3,
-  "translation": "nikasema: Nitawapandisha ⟨⟨אתכם⟩⟩ kutoka taabuni ya Mitsrayim, nchi ya Kenaani na ya Mhiti na ya Mwamori na ya Mperizi na ya Mhivi na ya Myebusi, nchi inayomtima maziwa na asali.",
+  "translation": "na nikasema: Nitawapandisha ⟨את⟩ ⟨אתכם⟩ kutoka katika dhiki ya Mitsrayim, mpaka katika nchi ya haKenaani, na haHiti, na haEmori, na haPerizi, na haHivi, na haYevusi, mpaka katika nchi inayomtoka maziwa na asali.",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "nikasema"
+      "gloss": "na nikasema"
     },
     {
       "surface": "אעלה",
-      "gloss": "nitawapandisha"
+      "gloss": "Nitawapandisha"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "ninyi (kimwiru wa pili wa wingi)"
     },
     {
       "surface": "מעני",
-      "gloss": "kutoka taabuni"
+      "gloss": "kutoka katika dhiki"
     },
     {
       "surface": "מצרים",
@@ -30,47 +30,47 @@
     },
     {
       "surface": "אל",
-      "gloss": "nchi ya"
+      "gloss": "mpaka"
     },
     {
       "surface": "ארץ",
-      "gloss": "—"
+      "gloss": "katika nchi"
     },
     {
       "surface": "הכנעני",
-      "gloss": "Kenaani"
+      "gloss": "ya haKenaani"
     },
     {
-      "surface": "והחתי",
-      "gloss": "na ya Mhiti"
+      "surface": "ווהחתי",
+      "gloss": "na haHiti"
     },
     {
       "surface": "והאמרי",
-      "gloss": "na ya Mwamori"
+      "gloss": "na haEmori"
     },
     {
       "surface": "והפרזי",
-      "gloss": "na ya Mperizi"
+      "gloss": "na haPerizi"
     },
     {
       "surface": "והחוי",
-      "gloss": "na ya Mhivi"
+      "gloss": "na haHivi"
     },
     {
       "surface": "והיבוסי",
-      "gloss": "na ya Myebusi"
+      "gloss": "na haYevusi"
     },
     {
       "surface": "אל",
-      "gloss": "nchi"
+      "gloss": "mpaka"
     },
     {
       "surface": "ארץ",
-      "gloss": "—"
+      "gloss": "katika nchi"
     },
     {
       "surface": "זבת",
-      "gloss": "inayomtima"
+      "gloss": "inayomtoka"
     },
     {
       "surface": "חלב",
@@ -81,6 +81,6 @@
       "gloss": "na asali"
     }
   ],
-  "timestamp": "2026-08-10T10:19:00.229160214Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.324907038Z",
+  "model": "glm-5.3"
 }

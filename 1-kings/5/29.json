@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 5,
-  "translation": "Na Shelomoh alikuwa na elfu sabini wenye kubeba mizigo, na elfu themanini wachongaji katika ⟨the⟩ mlima.",
+  "translation": "Na Shelomoh alikuwa na elfu sabini wabebaji wa mizigo, na elfu themanini wachongaji katika ⟨ה⟩ mlima.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "na akawa"
+      "gloss": "na alikuwa"
     },
     {
       "surface": "לשלמה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "נשא",
-      "gloss": "wenye kubeba"
+      "gloss": "wabebaji"
     },
     {
       "surface": "סבל",
-      "gloss": "mizigo"
+      "gloss": "wa mizigo"
     },
     {
       "surface": "ושמנים",
@@ -48,6 +48,6 @@
       "gloss": "katika mlima"
     }
   ],
-  "timestamp": "2026-08-10T11:38:33.690910261Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:18.822078598Z",
+  "model": "glm-5.3"
 }

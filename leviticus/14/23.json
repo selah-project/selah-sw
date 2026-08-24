@@ -5,28 +5,28 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Na alete ⟨אתם⟩ siku ya nane kwa ajili ya kusafishwa kwake kwa kuhani, kwa mlango wa hema ya mkutano, mbele za Yahweh.",
+  "translation": "Na atawaleta siku ya nane, kwa ajili ya kusafika kwake, kwa kuhani, ⟨elekeza: mbele ya⟩ mlango wa hema ya mkutano, mbele za Yahweh.",
   "tokens": [
     {
       "surface": "והביא",
-      "gloss": "Na alete"
+      "gloss": "na atawaleta"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "siku"
+      "marks": "siku ya nane (vitu vya dhabihu)"
     },
     {
       "surface": "ביום",
-      "gloss": "siku"
+      "gloss": "siku ya"
     },
     {
       "surface": "השמיני",
-      "gloss": "ya nane"
+      "gloss": "nane"
     },
     {
       "surface": "לטהרתו",
-      "gloss": "kwa ajili ya kusafishwa kwake"
+      "gloss": "kwa ajili ya kusafika kwake"
     },
     {
       "surface": "אל",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": "⟨elekeza: mbele ya⟩"
     },
     {
       "surface": "פתח",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "אהל",
-      "gloss": "wa hema"
+      "gloss": "hema ya"
     },
     {
       "surface": "מועד",
-      "gloss": "ya mkutano"
+      "gloss": "mkutano"
     },
     {
       "surface": "לפני",
@@ -61,6 +61,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T10:33:52.148237189Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:35.061124514Z",
+  "model": "glm-5.3"
 }

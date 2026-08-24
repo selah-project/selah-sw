@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Basi Avshalom akamtuma Yоab amtleke ⟨kule⟩ ⟨kwa⟩ mfalme, lakini hakutaka kuja kwake; akamtuma tena mara ya pili, lakini hakutaka kuja.",
+  "translation": "Basi Avshalom alituma ⟨kwenda⟩ kwa Yoab, amtume ⟨את⟩ ⟨אתו⟩ kwa mfalme, lakini hakuweza ⟨asiwe⟩ kutaka kuja kwake; akatuma tena mara ya pili, naye hakutaka kuja.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "akamtuma"
+      "gloss": "alituma"
     },
     {
       "surface": "אבשלום",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "kwa"
+      "gloss": "kwenda"
     },
     {
       "surface": "יואב",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "לשלח",
-      "gloss": "amtleke"
+      "gloss": "amtume"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "yeye"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "Yoab (kutumwa kwa mfalme)"
     },
     {
       "surface": "אל",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "lakini haku"
+      "gloss": "lakini hakutaka"
     },
     {
       "surface": "אבה",
-      "gloss": "taka"
+      "gloss": "hakutaka"
     },
     {
       "surface": "לבוא",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "akamtuma"
+      "gloss": "akatuma"
     },
     {
       "surface": "עוד",
@@ -70,17 +70,17 @@
     },
     {
       "surface": "ולא",
-      "gloss": "lakini haku"
+      "gloss": "naye hakutaka"
     },
     {
       "surface": "אבה",
-      "gloss": "taka"
+      "gloss": "hakutaka"
     },
     {
       "surface": "לבוא",
       "gloss": "kuja"
     }
   ],
-  "timestamp": "2026-08-10T14:57:20.817194110Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.297621339Z",
+  "model": "glm-5.3"
 }

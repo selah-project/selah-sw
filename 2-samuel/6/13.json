@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "sw",
   "chapter": 6,
-  "translation": "Ikawa walipotembeza hatua sita wachukuzi wa sanduku la Yahweh, akazhiba ⟨⟨ng'ombe⟩⟩ shina na mnyama mnono.",
+  "translation": "Ikawa, walipotembea watu wanaobeba Aroni ya Yahweh hatua sita, akachinja ⟨את⟩ ng'ombe na ⟨את⟩ mnono.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "צעדו",
-      "gloss": "tembeza hatua"
+      "gloss": "walipotembea"
     },
     {
       "surface": "נשאי",
-      "gloss": "wachukuzi wa"
+      "gloss": "wanaobeba"
     },
     {
       "surface": "ארון",
-      "gloss": "sanduku la"
+      "gloss": "Aroni"
     },
     {
       "surface": "יהוה",
@@ -41,17 +41,17 @@
     },
     {
       "surface": "ויזבח",
-      "gloss": "akazhiba"
+      "gloss": "akachinja"
     },
     {
       "surface": "שור",
-      "gloss": "ng'ombe shina"
+      "gloss": "ng'ombe"
     },
     {
       "surface": "ומריא",
-      "gloss": "na mnyama mnono"
+      "gloss": "na mnono"
     }
   ],
-  "timestamp": "2026-08-10T11:30:21.509875571Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:02.998403189Z",
+  "model": "glm-5.3"
 }

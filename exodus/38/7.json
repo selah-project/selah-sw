@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 38,
-  "translation": "Akaingiza ⟨את⟩ mifumo katika pete juu ya mbavu za madhabahu, ili kuibeba ⟨את⟩ ⟨kwa hayo⟩; uwazi wa mbao ndilo alilolifanya ⟨אתו⟩.",
+  "translation": "Akaingiza ⟨את⟩ fimbo katika peto zilizo pande za madhabahu, ili kubeba ⟨את⟩ kwa hizo; aliifanya ⟨את⟩ kuwa nyofu ⟨na⟩ mabati.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -14,59 +14,58 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mifumo"
+      "marks": "fimbo"
     },
     {
       "surface": "הבדים",
-      "gloss": "mifumo"
+      "gloss": "fimbo"
     },
     {
       "surface": "בטבעת",
-      "gloss": "katika pete"
+      "gloss": "katika peto"
     },
     {
       "surface": "על",
-      "gloss": "juu ya"
+      "gloss": "zilizo"
     },
     {
       "surface": "צלעת",
-      "gloss": "mbavu za"
+      "gloss": "pande"
     },
     {
       "surface": "המזבח",
-      "gloss": "madhabahu"
+      "gloss": "za madhabahu"
     },
     {
       "surface": "לשאת",
-      "gloss": "ili kuibeba"
+      "gloss": "ili kubeba"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨kwa hayo⟩",
-      "marks": "mifumo"
+      "gloss": "⟨את⟩",
+      "marks": "madhabahu"
     },
     {
       "surface": "בהם",
-      "gloss": "kwa hayo"
+      "gloss": "kwa hizo"
     },
     {
       "surface": "נבוב",
-      "gloss": "uwazi wa"
+      "gloss": "nyofu"
     },
     {
       "surface": "לחת",
-      "gloss": "mbao"
+      "gloss": "mabati"
     },
     {
       "surface": "עשה",
-      "gloss": "ndilo alilolifanya"
+      "gloss": "aliifanya"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "madhabahu"
+      "gloss": "⟨את⟩ kuwa"
     }
   ],
-  "timestamp": "2026-08-10T10:29:23.658979485Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:58.706105164Z",
+  "model": "glm-5.3"
 }

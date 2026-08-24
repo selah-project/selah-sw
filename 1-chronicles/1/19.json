@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Na kwa Ever walizaliwa wana wawili; jina la ⟨the⟩ mmoja ⟨likawa⟩ Peleg, kwa maana katika siku zake nchi iligawanyika; na jina la nduguye ⟨likawa⟩ Yoktan.",
+  "translation": "Na kwa Eber walizaliwa wanawawili; jina la mmoja ⟨likawa⟩ Peleg, kwa maana katika siku zake nchi iligawanywa; na jina la nduguye ⟨likawa⟩ Yoktani.",
   "tokens": [
     {
       "surface": "ולעבר",
-      "gloss": "na kwa Ever"
+      "gloss": "Na kwa Eber"
     },
     {
       "surface": "ילד",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "נפלגה",
-      "gloss": "iligawanyika"
+      "gloss": "iligawanywa"
     },
     {
       "surface": "הארץ",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "יקטן",
-      "gloss": "Yoktan"
+      "gloss": "Yoktani"
     }
   ],
-  "timestamp": "2026-08-10T14:03:11.917473638Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:38.288419229Z",
+  "model": "glm-5.3"
 }

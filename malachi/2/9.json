@@ -5,11 +5,11 @@
   "book": "malachi",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Na mimi pia nimewafanya ninyi ⟨אתכם⟩ wanaodharauliwa na wanyenyekezewa mbele ya watu wote, kulingana na jinsi ambavyo ninyi hamshungi njia zangu ⟨את⟩, na mnapendelea nyuso katika torati.",
+  "translation": "Nami pia nimewaweka nyinyi kuwa wenye kudharauliwa na wanyenyekevu mbele ya watu wote, kadiri ya jinsi mlivyoshika njia zangu na kunena uso katika Torah.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "na mimi pia"
+      "gloss": "na pia"
     },
     {
       "surface": "אני",
@@ -17,44 +17,44 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "nimewafanya"
+      "gloss": "nimewaweka"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
     },
     {
       "surface": "נבזים",
-      "gloss": "wanaodharauliwa"
+      "gloss": "wenye kudharauliwa"
     },
     {
       "surface": "ושפלים",
-      "gloss": "na wanyenyekezewa"
+      "gloss": "na wanyenyekevu"
     },
     {
       "surface": "לכל",
-      "gloss": "mbele ya"
+      "gloss": "mbele ya wote"
     },
     {
       "surface": "העם",
-      "gloss": "watU wote"
+      "gloss": "wa watu"
     },
     {
       "surface": "כפי",
-      "gloss": "kulingana na jinsi ambavyo"
+      "gloss": "kadiri ya"
     },
     {
       "surface": "אשר",
-      "gloss": "ambavyo"
+      "gloss": "jinsi"
     },
     {
       "surface": "אינכם",
-      "gloss": "ninyi ham-"
+      "gloss": "hamshiki"
     },
     {
       "surface": "שמרים",
-      "gloss": "-shungi"
+      "gloss": "-"
     },
     {
       "surface": "את",
@@ -67,17 +67,17 @@
     },
     {
       "surface": "ונשאים",
-      "gloss": "na mnapendelea"
+      "gloss": "na kunena"
     },
     {
       "surface": "פנים",
-      "gloss": "nyuso"
+      "gloss": "uso"
     },
     {
       "surface": "בתורה",
-      "gloss": "katika torati"
+      "gloss": "katika Torah"
     }
   ],
-  "timestamp": "2026-08-10T12:53:52.985423730Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:18.995028984Z",
+  "model": "glm-5.3"
 }

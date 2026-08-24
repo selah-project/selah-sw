@@ -5,23 +5,23 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 10,
-  "translation": "Divai na kileo usinywe, wewe na ⟨את⟩ wanako ⟨את⟩ pamoja nawe, katika kuja kwenu ⟨⟨ndani⟩⟩ ya hema ya mkutano, wala msife — amri ya milele kwa vizazi vyako.",
+  "translation": "Mvinyo na kileo kali usinywe wewe na wanawako ⟨את⟩ pamoja nawe, mnapoingia ⟨kwenye⟩ Hema ya Mkutano, ili msife; ⟨ni⟩ amri ya milele kwa vizazi vyenu.",
   "tokens": [
     {
       "surface": "יין",
-      "gloss": "divai"
+      "gloss": "mvinyo"
     },
     {
       "surface": "ושכר",
-      "gloss": "na kileo"
+      "gloss": "na kileo kali"
     },
     {
       "surface": "אל",
-      "gloss": "usinywe"
+      "gloss": "si"
     },
     {
       "surface": "תשת",
-      "gloss": "(una kunywa)"
+      "gloss": "unywe"
     },
     {
       "surface": "אתה",
@@ -29,32 +29,31 @@
     },
     {
       "surface": "ובניך",
-      "gloss": "na wanako"
+      "gloss": "na wanawako"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ pamoja nawe",
-      "marks": "pamoja nawe"
+      "gloss": "⟨את⟩ pamoja nawe"
     },
     {
       "surface": "בבאכם",
-      "gloss": "katika kuja kwenu"
+      "gloss": "mnapoingia"
     },
     {
       "surface": "אל",
-      "gloss": "⟨ndani⟩ ya"
+      "gloss": "kwenye"
     },
     {
       "surface": "אהל",
-      "gloss": "hema"
+      "gloss": "Hema"
     },
     {
       "surface": "מועד",
-      "gloss": "ya mkutano"
+      "gloss": "ya Mkutano"
     },
     {
       "surface": "ולא",
-      "gloss": "wala"
+      "gloss": "ili msife"
     },
     {
       "surface": "תמתו",
@@ -70,9 +69,9 @@
     },
     {
       "surface": "לדרתיכם",
-      "gloss": "kwa vizazi vyako"
+      "gloss": "kwa vizazi vyenu"
     }
   ],
-  "timestamp": "2026-08-10T10:33:11.169882832Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:07.154091982Z",
+  "model": "glm-5.3"
 }

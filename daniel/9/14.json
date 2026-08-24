@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "sw",
   "chapter": 9,
-  "translation": "Naye Yahweh alifanya doria juu ya ⟨⟨dhambi na akaileta juu yetu, kwa maana Yahweh Elohim wetu ni mwema katika kazi zake zote alizozifanya, wala hatukusikiliza sauti yake.",
+  "translation": "Ndiyo maana Yahweh alishika macho juu ya mabaya haya na akayaleta juu yetu; maana Yahweh Elohim wetu ni mwema-haki katika matendo yote aliyoleta, nasi hatukusikiliza sauti yake.",
   "tokens": [
     {
       "surface": "וישקד",
-      "gloss": "naye alifanya doria"
+      "gloss": "alishika macho juu"
     },
     {
       "surface": "יהוה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "הרעה",
-      "gloss": "dhambi"
+      "gloss": "mabaya haya"
     },
     {
       "surface": "ויביאה",
-      "gloss": "na akaileta"
+      "gloss": "na akayaleta"
     },
     {
       "surface": "עלינו",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "kwa maana"
+      "gloss": "maana"
     },
     {
       "surface": "צדיק",
-      "gloss": "ni mwema"
+      "gloss": "mwema-haki"
     },
     {
       "surface": "יהוה",
@@ -53,23 +53,23 @@
     },
     {
       "surface": "כל",
-      "gloss": "zote"
+      "gloss": "yote"
     },
     {
       "surface": "מעשיו",
-      "gloss": "kazi zake"
+      "gloss": "matendo yake"
     },
     {
       "surface": "אשר",
-      "gloss": "alizozifanya"
+      "gloss": "aliyo"
     },
     {
       "surface": "עשה",
-      "gloss": "fanya"
+      "gloss": "yafanya"
     },
     {
       "surface": "ולא",
-      "gloss": "wala hatuku"
+      "gloss": "nasi hatuku"
     },
     {
       "surface": "שמענו",
@@ -80,6 +80,6 @@
       "gloss": "sauti yake"
     }
   ],
-  "timestamp": "2026-08-10T13:54:48.430022147Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:10.283567681Z",
+  "model": "glm-5.3"
 }

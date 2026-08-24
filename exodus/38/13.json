@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 38,
-  "translation": "Na kwa upande wa mashariki, ⟨kupanda jua⟩， dasturi hamsini.",
+  "translation": "Na kwa upande wa mashariki, upande wa machipukizi ⟨ya jua⟩, ⟨maandazi⟩ hamsini dira.",
   "tokens": [
     {
       "surface": "ולפאת",
-      "gloss": "na kwa upande"
+      "gloss": "Na kwa upande wa"
     },
     {
       "surface": "קדמה",
-      "gloss": "wa mashariki"
+      "gloss": "mashariki"
     },
     {
       "surface": "מזרחה",
-      "gloss": "kupanda jua"
+      "gloss": "upande wa machipukizi ⟨ya jua⟩"
     },
     {
       "surface": "חמשים",
@@ -25,9 +25,9 @@
     },
     {
       "surface": "אמה",
-      "gloss": "dasturi"
+      "gloss": "dira"
     }
   ],
-  "timestamp": "2026-08-10T10:29:46.889050676Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:48.533151675Z",
+  "model": "glm-5.3"
 }

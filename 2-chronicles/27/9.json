@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 27,
-  "translation": "Naye Yotamu akalala na baba zake, wakamzika ⟨אתו⟩ katika mji wa David, na Ahazi mwana wake akatawala badala yake.",
+  "translation": "Nayo Yothamu alilala na baba zake, wakamzika ⟨את⟩ yeye katika mji wa David; nayo Achaz mwana wake akatawala mahali pake.",
   "tokens": [
     {
       "surface": "וישכב",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יותם",
-      "gloss": "Yotamu"
+      "gloss": "Yothamu"
     },
     {
       "surface": "עם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "yeye"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אחז",
-      "gloss": "Ahazi"
+      "gloss": "Achaz"
     },
     {
       "surface": "בנו",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "תחתיו",
-      "gloss": "badala yake"
+      "gloss": "mahali pake"
     }
   ],
-  "timestamp": "2026-08-10T14:17:31.866541269Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:33.431561764Z",
+  "model": "glm-5.3"
 }

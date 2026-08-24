@@ -5,20 +5,19 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 19,
-  "translation": "Na mgeni akikaa ⟨אתכם⟩ mgeni katika nchi yenu, msimdhulumu ⟨אתו⟩.",
+  "translation": "Na mgeni akikaa ⟨את⟩ pamoja nanyi katika nchi yenu, msimdhulumu ⟨את⟩yeye.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "Na mgeni aki"
+      "gloss": "Na kama"
     },
     {
       "surface": "יגור",
-      "gloss": "kaa"
+      "gloss": "akikaa"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתכם⟩",
-      "marks": "mgeni"
+      "gloss": "⟨את⟩ pamoja nanyi"
     },
     {
       "surface": "גר",
@@ -30,18 +29,18 @@
     },
     {
       "surface": "לא",
-      "gloss": "msi"
+      "gloss": "si"
     },
     {
       "surface": "תונו",
-      "gloss": "mdhulumu"
+      "gloss": "msimdhulumu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "mgeni"
+      "gloss": "⟨את⟩",
+      "marks": "yeye"
     }
   ],
-  "timestamp": "2026-08-10T10:36:46.992046831Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:18.738540413Z",
+  "model": "glm-5.3"
 }

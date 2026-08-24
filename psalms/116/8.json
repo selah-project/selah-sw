@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 116,
-  "translation": "Kwa kuwa wewe umeniokoa ⟨⟨את⟩⟩ nafsi yangu katika mauti, ⟨⟨את⟩⟩ jicho langu katika machozi, ⟨⟨את⟩⟩ mguu wangu katika kuanguka.",
+  "translation": "Kwa kuwa umeniokoa nafsi yangu kutoka mauti, ⟨את⟩ jicho langu kutoka machozi, ⟨את⟩ mguu wangu kutoka kuanguka.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kwa kuwa"
+      "gloss": "kwa kuwa"
     },
     {
       "surface": "חלצת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ממות",
-      "gloss": "katika mauti"
+      "gloss": "kutoka mauti"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "katika"
+      "gloss": "kutoka"
     },
     {
       "surface": "דמעה",
@@ -51,9 +51,9 @@
     },
     {
       "surface": "מדחי",
-      "gloss": "katika kuanguka"
+      "gloss": "kuanguka"
     }
   ],
-  "timestamp": "2026-08-10T13:16:44.911220043Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:35.086760598Z",
+  "model": "glm-5.3"
 }

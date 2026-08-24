@@ -5,61 +5,61 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 23,
-  "translation": "Ukiingia shamba la ngano lililosimama la rafiki yako, una weza kunyoa masiki kwa mkono wako, lakini <⟨hupaswi⟩> kutikinya manyasi juu ya shamba la ngano la rafiki yako.",
+  "translation": "⟨Linapokuwa⟩ unaingia katika mimea ya nafaka ya rafiki yako, na utachuna mashuke kwa mkono wako; bali mundu hutautikisa juu ya mimea ya nafaka ya rafiki yako.",
   "tokens": [
     {
-      "surface": "כִּי",
-      "gloss": "Uki"
+      "surface": "כי",
+      "gloss": "⟨linapokuwa⟩"
     },
     {
-      "surface": "תָבֹא",
-      "gloss": "ingia"
+      "surface": "תבא",
+      "gloss": "unaingia"
     },
     {
-      "surface": "בְּקָמַת",
-      "gloss": "shamba la ngano lililosimama"
+      "surface": "בקמת",
+      "gloss": "katika mimea ya nafaka"
     },
     {
-      "surface": "רֵעֶךָ",
+      "surface": "רעך",
       "gloss": "rafiki yako"
     },
     {
-      "surface": "וְקָטַפְתָּ",
-      "gloss": "una weza kunyoa"
+      "surface": "וקטפת",
+      "gloss": "na utachuna"
     },
     {
-      "surface": "מְלִילֹת",
-      "gloss": "masiki"
+      "surface": "מלילת",
+      "gloss": "mashuke"
     },
     {
-      "surface": "בְּיָדֶךָ",
+      "surface": "בידך",
       "gloss": "kwa mkono wako"
     },
     {
-      "surface": "וְחֶרְמֵשׁ",
-      "gloss": "lakini manyasi"
+      "surface": "וחרמש",
+      "gloss": "bali mundu"
     },
     {
-      "surface": "לֹא",
-      "gloss": "hupaswi"
+      "surface": "לא",
+      "gloss": "huta"
     },
     {
-      "surface": "תָנִיף",
-      "gloss": "kutikinya"
+      "surface": "תניף",
+      "gloss": "kutikisa"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "juu ya"
     },
     {
-      "surface": "קָמַת",
-      "gloss": "shamba la ngano"
+      "surface": "קמת",
+      "gloss": "mimea ya nafaka"
     },
     {
-      "surface": "רֵעֶךָ",
+      "surface": "רעך",
       "gloss": "rafiki yako"
     }
   ],
-  "timestamp": "2026-08-10T11:00:13.358163683Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:39.520294137Z",
+  "model": "glm-5.3"
 }

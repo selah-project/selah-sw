@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 25,
-  "translation": "Nanyu mtawarithia ⟨אתם⟩ kwa wanenu baada yenu, kuwarithi kuwa milki ya milele; kwa wao mtatumikisha, ilini kwa ndugu zenu, wana wa Yisra'el, mtu juu ya ndugu wake, hamtawali kwa ukatili.",
+  "translation": "Nanyi mtawarithisha ⟨את⟩ ⟨אתם⟩ kwa wanenu baada yenu, ili washike ⟨kama⟩ urithi; kwa kuwatumia mtawatumia milele, lakini ndugu zenu, wana wa Yisra'el, mtu juu ya ndugu yake, msimkandamize kwa ungali.",
   "tokens": [
     {
       "surface": "והתנחלתם",
-      "gloss": "nanyu mtawarithia"
+      "gloss": "mtawarithisha"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "kuwa milki"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "wanenu"
     },
     {
       "surface": "לבניכם",
@@ -26,27 +26,27 @@
     },
     {
       "surface": "לרשת",
-      "gloss": "kuwarithi"
+      "gloss": "ili washike"
     },
     {
       "surface": "אחזה",
-      "gloss": "kuwa milki"
+      "gloss": "urithi"
     },
     {
       "surface": "לעלם",
-      "gloss": "ya milele"
+      "gloss": "milele"
     },
     {
       "surface": "בהם",
-      "gloss": "kwa wao"
+      "gloss": "kwa kuwatumia"
     },
     {
       "surface": "תעבדו",
-      "gloss": "mtatumikisha"
+      "gloss": "mtawatumia"
     },
     {
       "surface": "ובאחיכם",
-      "gloss": "ilini kwa ndugu zenu"
+      "gloss": "lakini ndugu zenu"
     },
     {
       "surface": "בני",
@@ -62,25 +62,25 @@
     },
     {
       "surface": "באחיו",
-      "gloss": "juu ya ndugu wake"
+      "gloss": "juu ya ndugu yake"
     },
     {
       "surface": "לא",
-      "gloss": "hamtawali"
+      "gloss": "si"
     },
     {
       "surface": "תרדה",
-      "gloss": "kutawala"
+      "gloss": "msimkandamize"
     },
     {
       "surface": "בו",
-      "gloss": "(hatami)"
+      "gloss": "yeye"
     },
     {
       "surface": "בפרך",
-      "gloss": "kwa ukatili"
+      "gloss": "kwa ungali"
     }
   ],
-  "timestamp": "2026-08-10T10:38:31.548128039Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.366537511Z",
+  "model": "glm-5.3"
 }

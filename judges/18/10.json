@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 18,
-  "translation": "Mtakapoingia, mtaingia kwa watu walio salama, na nchi ni yenye nafasi kupanuka, maana Elohim ameitoa mkononi mwenu — mahali hapana ukosefu wa chochote kilicho ⟨⟨duniani⟩⟩.",
+  "translation": "Mnapofika, mtakuja kwa watu walio salama, na ⟨hiyo⟩ nchi ni pana mikono; kwa kuwa Elohim amewaipa mkononi mwenu — ni mahali ambapo hapana uhaba wa kitu chochote kilicho katika nchi.",
   "tokens": [
     {
       "surface": "כבאכם",
-      "gloss": "mtakapoingia"
+      "gloss": "Mnapofika"
     },
     {
       "surface": "תבאו",
-      "gloss": "mtaingia"
+      "gloss": "mtakuja"
     },
     {
       "surface": "אל",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "רחבת",
-      "gloss": "yenye nafasi"
+      "gloss": "pana"
     },
     {
       "surface": "ידים",
-      "gloss": "kupanuka"
+      "gloss": "mikono"
     },
     {
       "surface": "כי",
-      "gloss": "maana"
+      "gloss": "kwa kuwa"
     },
     {
       "surface": "נתנה",
-      "gloss": "ameitoa"
+      "gloss": "amewaipa"
     },
     {
       "surface": "אלהים",
@@ -69,19 +69,19 @@
     },
     {
       "surface": "שם",
-      "gloss": "hapo"
+      "gloss": "pale"
     },
     {
       "surface": "מחסור",
-      "gloss": "ukosefu"
+      "gloss": "uhaba"
     },
     {
       "surface": "כל",
-      "gloss": "cha chochote"
+      "gloss": "chochote"
     },
     {
       "surface": "דבר",
-      "gloss": "kilicho"
+      "gloss": "kitu"
     },
     {
       "surface": "אשר",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "duniani"
+      "gloss": "katika nchi"
     }
   ],
-  "timestamp": "2026-08-10T14:49:42.475564413Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:53.922483934Z",
+  "model": "glm-5.3"
 }

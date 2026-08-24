@@ -5,23 +5,23 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 34,
-  "translation": "Nina hai, neema ya Adonai Yahweh, kwa kweli kwa sababu kundi langu limekuwa nyakumbwa, na kundi langu limekuwa chakula cha kila mnyama wa mwitu, bila mchungaji, na wachungaji wangu hawakutafuta ⟨את⟩ kundi langu, na wachungaji walilisha ⟨אתם⟩ nyakwao, na ⟨את⟩ kundi langu hawakulisha;",
+  "translation": "Niliyo hai, asema Adonai Yahweh: kwa hakika, kwa kuwa kundi langu limekuwa njisi ya nyang'anya, na kundi langu limekuwa chakula cha kila mnyama wa mwitu, kwa kuwa hakuna mchungaji; wachungaji wangu hawakutafuta ⟨את⟩ kundi langu, bali wachungaji walijilisha ⟨את⟩ wao wenyewe, na ⟨את⟩ kundi langu hawakulisha;",
   "tokens": [
     {
       "surface": "חי",
-      "gloss": "Nina hai"
+      "gloss": "Niliyo hai"
     },
     {
       "surface": "אני",
-      "gloss": "Mimi"
+      "gloss": "mimi"
     },
     {
       "surface": "נאם",
-      "gloss": "neema"
+      "gloss": "asema"
     },
     {
       "surface": "אדני",
-      "gloss": "ya Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "יהוה",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "אם",
-      "gloss": "kwa kweli"
+      "gloss": "kwa hakika"
     },
     {
       "surface": "לא",
-      "gloss": "kwamba"
+      "gloss": "kweli"
     },
     {
       "surface": "יען",
-      "gloss": "kwa sababu"
+      "gloss": "kwa kuwa"
     },
     {
       "surface": "היות",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לבז",
-      "gloss": "nyakumbwa"
+      "gloss": "njisi ya nyang'anya"
     },
     {
       "surface": "ותהיינה",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "חית",
-      "gloss": "mnyama wa mwitu"
+      "gloss": "mnyama"
     },
     {
       "surface": "השדה",
-      "gloss": "⟨wa⟩ shambani"
+      "gloss": "wa mwitu"
     },
     {
       "surface": "מאין",
-      "gloss": "bila"
+      "gloss": "kwa kuwa hakuna"
     },
     {
       "surface": "רעה",
@@ -85,11 +85,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "na"
+      "gloss": "na hawaku"
     },
     {
       "surface": "דרשו",
-      "gloss": "hawakutafuta"
+      "gloss": "tafuta"
     },
     {
       "surface": "רעי",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "וירעו",
-      "gloss": "na walilisha"
+      "gloss": "walijilisha"
     },
     {
       "surface": "הרעים",
@@ -114,11 +114,12 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩ nyakwao"
+      "gloss": "⟨את⟩ wao wenyewe",
+      "marks": "wao wenyewe"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "kundi langu"
     },
     {
@@ -131,9 +132,9 @@
     },
     {
       "surface": "רעו",
-      "gloss": "lisha"
+      "gloss": "kulisha"
     }
   ],
-  "timestamp": "2026-08-10T12:35:52.700332120Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:07.987742401Z",
+  "model": "glm-5.3"
 }

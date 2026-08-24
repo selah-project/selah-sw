@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 26,
-  "translation": "Na ikiwa mpaka ⟨hapa⟩ hamtai kusikiliza ⟨sauti⟩ yangu, basi nitaongeza kuwaadhibu ⟨אתכם⟩ mara saba kwa dhambi zenu.",
+  "translation": "Na kama mpaka haya hamtasikia ⟨⟩ kwangu, mimi nitaongeza kuwaadhibu ⟨את⟩ ⟨אתכם⟩ mara saba, kwa ajili ya dhambi zenu.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "na ikiwa"
+      "gloss": "Na kama"
     },
     {
       "surface": "עד",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "אלה",
-      "gloss": "⟨hapa⟩"
+      "gloss": "haya"
     },
     {
       "surface": "לא",
-      "gloss": "hamtai"
+      "gloss": "hamta-"
     },
     {
       "surface": "תשמעו",
-      "gloss": "kusikiliza"
+      "gloss": "-sikia"
     },
     {
       "surface": "לי",
-      "gloss": "⟨sauti⟩ yangu"
+      "gloss": "kwangu"
     },
     {
       "surface": "ויספתי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "ninyi"
     },
     {
@@ -50,13 +50,13 @@
     },
     {
       "surface": "על",
-      "gloss": "kwa"
+      "gloss": "kwa ajili ya"
     },
     {
       "surface": "חטאתיכם",
       "gloss": "dhambi zenu"
     }
   ],
-  "timestamp": "2026-08-10T14:36:24.949913296Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.361987557Z",
+  "model": "glm-5.3"
 }

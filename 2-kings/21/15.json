@@ -5,82 +5,82 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 21,
-  "translation": "Kwa sababu ya kufanya ⟨wao⟩ ⟨את⟩ ovu machoni pangu, na wakawa wakinikasirisha, tangu siku ambayo baba zao walitoka Mitsrayim, na hata siku hii.",
+  "translation": "Kwa sababu walifanya ⟨את⟩ yaliyo mabaya machoni pangu, wakawa wanakasirisha ⟨את⟩ nimi, tangu siku walipotoka baba zao kutoka Mitsrayim na hadi siku hii.",
   "tokens": [
     {
-      "surface": "יַעַן",
-      "gloss": "kwa sababu"
+      "surface": "יען",
+      "gloss": "Kwa sababu"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "<kiunganishi>"
+      "surface": "אשר",
+      "gloss": "kwamba"
     },
     {
-      "surface": "עָשׂוּ",
-      "gloss": "wamefanya"
+      "surface": "עשו",
+      "gloss": "walifanya"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ovu"
+      "marks": "yaliyo mabaya"
     },
     {
-      "surface": "הָרַע",
-      "gloss": "ovu"
+      "surface": "הרע",
+      "gloss": "yaliyo mabaya"
     },
     {
-      "surface": "בְּעֵינַי",
+      "surface": "בעיני",
       "gloss": "machoni pangu"
     },
     {
-      "surface": "וַיְהִיוּ",
-      "gloss": "na wakawa"
+      "surface": "ויהיו",
+      "gloss": "wakawa"
     },
     {
-      "surface": "מַכְעִסִים",
-      "gloss": "wakinikasirisha"
+      "surface": "מכעסים",
+      "gloss": "wanakasirisha"
     },
     {
-      "surface": "אֹתִי",
-      "gloss": "⟨את⟩ mimi"
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nimi"
     },
     {
-      "surface": "מִן",
+      "surface": "מן",
       "gloss": "tangu"
     },
     {
-      "surface": "הַיּוֹם",
+      "surface": "היום",
       "gloss": "siku"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "ambayo"
+      "surface": "אשר",
+      "gloss": "walipo"
     },
     {
-      "surface": "יָצְאוּ",
-      "gloss": "walitoka"
+      "surface": "יצאו",
+      "gloss": "walipotoka"
     },
     {
-      "surface": "אֲבוֹתָם",
+      "surface": "אבותם",
       "gloss": "baba zao"
     },
     {
-      "surface": "מִמִּצְרַיִם",
-      "gloss": "Mitsrayim"
+      "surface": "ממצרים",
+      "gloss": "kutoka Mitsrayim"
     },
     {
-      "surface": "וְעַד",
-      "gloss": "na hata"
+      "surface": "ועד",
+      "gloss": "na hadi"
     },
     {
-      "surface": "הַיּוֹם",
+      "surface": "היום",
       "gloss": "siku"
     },
     {
-      "surface": "הַזֶּה",
+      "surface": "הזה",
       "gloss": "hii"
     }
   ],
-  "timestamp": "2026-08-10T17:49:00.758838156Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:11.607552303Z",
+  "model": "glm-5.3"
 }

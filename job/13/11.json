@@ -5,38 +5,38 @@
   "book": "job",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Je, ⟨si⟩ hivyo kuinua kwake kutakuangamizeni ⟨אתכם⟩, na woga wake utaanguka juu yenu?",
+  "translation": "Je, si utukufu wake unakuangamiza ⟨את⟩ ninyi, na woga wake utakuangukia juu yenu?",
   "tokens": [
     {
-      "surface": "הֲלֹ֣א",
-      "gloss": "Je, ⟨si⟩"
+      "surface": "הלא",
+      "gloss": "je, si"
     },
     {
-      "surface": "שְׂ֭אֵתוֹ",
-      "gloss": "kuinua kwake"
+      "surface": "שאתו",
+      "gloss": "utukufu wake"
     },
     {
-      "surface": "תְּבַעֵ֣ת",
-      "gloss": "kutakuangamizeni"
+      "surface": "תבעת",
+      "gloss": "unakuangamiza"
     },
     {
-      "surface": "אֶתְכֶ֑ם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩",
       "marks": "ninyi"
     },
     {
-      "surface": "וּ֝פַחְדּ֗וֹ",
+      "surface": "ופחדו",
       "gloss": "na woga wake"
     },
     {
-      "surface": "יִפֹּ֥ל",
-      "gloss": "utaanguka"
+      "surface": "יפל",
+      "gloss": "utakuangukia"
     },
     {
-      "surface": "עֲלֵיכֶֽם",
+      "surface": "עליכם",
       "gloss": "juu yenu"
     }
   ],
-  "timestamp": "2026-08-10T17:55:56.702871157Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:38.414505803Z",
+  "model": "glm-5.3"
 }

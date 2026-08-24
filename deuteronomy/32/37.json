@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 32,
-  "translation": "Na ⟨⟨ye⟩⟩ atasema: Wapi eloheimo ⟨⟩, mwamba walijifungia nguo kwenye ⟨ye⟩?",
+  "translation": "Naye atasema: Aliko miungu yao ⟨הוא: 'Elohim'⟩ — Elohim wao, mwamba waliojificha ndani yake?",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "na atasema"
+      "gloss": "naye atasema"
     },
     {
       "surface": "אי",
-      "gloss": "wapi"
+      "gloss": "aliko"
     },
     {
       "surface": "אלהימו",
-      "gloss": "eloheimo"
+      "gloss": "Elohim wao"
     },
     {
       "surface": "צור",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "חסיו",
-      "gloss": "walijifungia nguo kwenye"
+      "gloss": "waliojificha"
     },
     {
       "surface": "בו",
-      "gloss": "⟨ye⟩"
+      "gloss": "ndani yake"
     }
   ],
-  "timestamp": "2026-08-10T11:03:46.765521651Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:31.031868770Z",
+  "model": "glm-5.3"
 }

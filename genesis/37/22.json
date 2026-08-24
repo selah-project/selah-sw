@@ -5,27 +5,27 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 37,
-  "translation": "Na Reuben akawaambia, Msimimina damu; mtupeni ⟨אתו⟩ kwenye shimo hili lililo jangwani, na mkono msitume juu yake — ili amwokoe ⟨אתו⟩ kutoka mkononi mwao, ili amrudishe kwa baba yake.",
+  "translation": "Akawaambia Re'uven: Msimwage damu; mtupe ⟨אתו⟩ shimoni hili lililoko jangwani, lakini msiulie mkono juu yake — ili kumwokoa ⟨אתו⟩ kutoka mikononi mwao, amrudishe kwa baba yake.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "na akasema"
+      "gloss": "Akawaambia"
     },
     {
       "surface": "אלהם",
-      "gloss": "kwao"
+      "gloss": "kwao (ndani ya waambia)"
     },
     {
       "surface": "ראובן",
-      "gloss": "Reuben"
+      "gloss": "Re'uven"
     },
     {
       "surface": "אל",
-      "gloss": "msi-"
+      "gloss": "Msi-"
     },
     {
       "surface": "תשפכו",
-      "gloss": "miminisha"
+      "gloss": "mwage"
     },
     {
       "surface": "דם",
@@ -33,12 +33,12 @@
     },
     {
       "surface": "השליכו",
-      "gloss": "mtupeni"
+      "gloss": "mtupe"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "yeye"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "yeye (Yosefu)"
     },
     {
       "surface": "אל",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "הבור",
-      "gloss": "shimo"
+      "gloss": "shimoni"
     },
     {
       "surface": "הזה",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "lililo"
+      "gloss": "lililoko"
     },
     {
       "surface": "במדבר",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "msi-"
+      "gloss": "msiulie"
     },
     {
       "surface": "תשלחו",
-      "gloss": "tume"
+      "gloss": "(mkiutuma)"
     },
     {
       "surface": "בו",
@@ -82,20 +82,20 @@
     },
     {
       "surface": "הציל",
-      "gloss": "amwokoe"
+      "gloss": "kumwokoa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "yeye"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "yeye (kutoka mikononi mwao)"
     },
     {
       "surface": "מידם",
-      "gloss": "kutoka mkononi mwao"
+      "gloss": "mikononi mwao"
     },
     {
       "surface": "להשיבו",
-      "gloss": "ili amrudishe"
+      "gloss": "amrudishe"
     },
     {
       "surface": "אל",
@@ -106,6 +106,6 @@
       "gloss": "baba yake"
     }
   ],
-  "timestamp": "2026-08-10T10:13:27.283537221Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.301788323Z",
+  "model": "glm-5.3"
 }

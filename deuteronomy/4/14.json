@@ -5,12 +5,12 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 4,
-  "translation": "⟨את⟩ Na ⟨אותי⟩ Yahweh aliamuru wakati huo, kukuwafundisheni ⟨אתכם⟩ hukumu na sheria, ili myazinge ⟨אתם⟩ katika nchi ambayo ninyi mnavuka huko, ili kuimiliki.",
+  "translation": "Na mimi Yahweh aliniona amuru ⟨את⟩ wakati huo, anifundishe ninyi ⟨את⟩ sheria na hukumu, ili mpate kuzitenda katika nchi mnayoipita humo kuimiliki.",
   "tokens": [
     {
       "surface": "ואתי",
-      "gloss": "⟨את⟩ Na ⟨אותי⟩",
-      "marks": "aliamuru"
+      "gloss": "⟨את⟩",
+      "marks": "mimi"
     },
     {
       "surface": "צוה",
@@ -30,29 +30,29 @@
     },
     {
       "surface": "ללמד",
-      "gloss": "kukuwafundisheni"
+      "gloss": "anifundishe"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "hukumu"
+      "gloss": "⟨את⟩",
+      "marks": "ninyi"
     },
     {
       "surface": "חקים",
-      "gloss": "hukumu"
+      "gloss": "sheria"
     },
     {
       "surface": "ומשפטים",
-      "gloss": "na sheria"
+      "gloss": "na hukumu"
     },
     {
       "surface": "לעשתכם",
-      "gloss": "ili myazinge"
+      "gloss": "mpate kuzitenda"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "katika nchi"
+      "gloss": "⟨את⟩",
+      "marks": "sheria na hukumu"
     },
     {
       "surface": "בארץ",
@@ -60,7 +60,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "mnayoipita"
     },
     {
       "surface": "אתם",
@@ -68,17 +68,17 @@
     },
     {
       "surface": "עברים",
-      "gloss": "mnavuka"
+      "gloss": "kupita"
     },
     {
       "surface": "שמה",
-      "gloss": "huko"
+      "gloss": "humo"
     },
     {
       "surface": "לרשתה",
-      "gloss": "ili kuimiliki"
+      "gloss": "kuimiliki"
     }
   ],
-  "timestamp": "2026-08-10T14:42:49.544654787Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:53.824441807Z",
+  "model": "glm-5.3"
 }

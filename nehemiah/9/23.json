@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "sw",
   "chapter": 9,
-  "translation": "Na watoto wao ukawazidisha kama nyota za mbingu, ndugu zao ukaleta mpaka ⟨⟨kwenye⟩⟩ nchi ile uliyowaambia baba zao ⟨⟨wakati⟩⟩ wa kuja kuichukua.",
+  "translation": "Na watoto wao ukawahisha ongezeki kama nyota za mbingu, na ukaleta ⟨את⟩ wao mpaka katika ⟨ה⟩nchi uliyowaambia baba zao waliingie ili waipande miliki.",
   "tokens": [
     {
       "surface": "ובניהם",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "הרבית",
-      "gloss": "ukawazidisha"
+      "gloss": "ukawahisha ongezeki"
     },
     {
       "surface": "כככבי",
-      "gloss": "kama nyota"
+      "gloss": "kama nyota za"
     },
     {
       "surface": "השמים",
-      "gloss": "za mbingu"
+      "gloss": "mbingu"
     },
     {
       "surface": "ותביאם",
-      "gloss": "ndugu zao ukaleta"
+      "gloss": "na ukaleta wao"
     },
     {
       "surface": "אל",
-      "gloss": "mpaka"
+      "gloss": "mpaka katika"
     },
     {
       "surface": "הארץ",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ile uliyowaambia"
+      "gloss": "ambayo"
     },
     {
       "surface": "אמרת",
-      "gloss": "uliyowaambia"
+      "gloss": "uliyo"
     },
     {
       "surface": "לאבתיהם",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "לבוא",
-      "gloss": "kuja"
+      "gloss": "waliingie"
     },
     {
       "surface": "לרשת",
-      "gloss": "kuichukua"
+      "gloss": "ili waipande miliki"
     }
   ],
-  "timestamp": "2026-08-10T14:01:17.360203360Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:30.155209803Z",
+  "model": "glm-5.3"
 }

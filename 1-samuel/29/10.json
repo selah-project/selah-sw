@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 29,
-  "translation": "Na sasa amka mapema asubuhi, wewe na watumwa wa bwanao waliokuja na wewe ⟨אתך⟩; nanyi mkaamke mapema asubuhi, na ikiwa ni mwanga kwenu, mwendeni.",
+  "translation": "Basi sasa amka mapema asubuhi, wewe na watumwa wa bwana wako waliokuja pamoja ⟨את⟩ nawe; na mkiisha kuamka mapema asubuhi, na pata ⟨mwangaza⟩, thenienda.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "na sasa"
+      "gloss": "basi sasa"
     },
     {
       "surface": "השכם",
@@ -21,28 +21,28 @@
     },
     {
       "surface": "ועבדי",
-      "gloss": "na watumwa"
+      "gloss": "na watumwa wa"
     },
     {
       "surface": "אדניך",
-      "gloss": "wa bwanao"
+      "gloss": "bwana wako"
     },
     {
       "surface": "אשר",
-      "gloss": "walio"
+      "gloss": "ambao"
     },
     {
       "surface": "באו",
-      "gloss": "kuja"
+      "gloss": "walikuja"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
-      "marks": "na wewe"
+      "gloss": "pamoja ⟨את⟩ nawe",
+      "marks": "wewe"
     },
     {
       "surface": "והשכמתם",
-      "gloss": "nanyi mkaamke mapema"
+      "gloss": "na mkiisha kuamka mapema"
     },
     {
       "surface": "בבקר",
@@ -50,17 +50,17 @@
     },
     {
       "surface": "ואור",
-      "gloss": "na mwanga"
+      "gloss": "na pata mwangaza"
     },
     {
       "surface": "לכם",
-      "gloss": "kwenu"
+      "gloss": "⟨kwenu⟩"
     },
     {
       "surface": "ולכו",
-      "gloss": "mwendeni"
+      "gloss": "thenienda"
     }
   ],
-  "timestamp": "2026-08-10T11:27:46.889144642Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:11.902872830Z",
+  "model": "glm-5.3"
 }

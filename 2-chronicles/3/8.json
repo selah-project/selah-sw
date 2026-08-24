@@ -5,16 +5,16 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Na akafanya ⟨את⟩ nyumba ya kitakatifu cha takatukuши: urefu wake kungalia upana wa nyumba ulikuwa dhiraa ishirini, na upana wake dhiraa ishirini; na akaijenga dhahabu nzuri kwa talenti mia sita.",
+  "translation": "Akafanya ⟨את⟩ nyumba ya Kodoshi hakodashim; urefu wake mbele ya upana wa nyumba ulikuwa dhiraa ishirini, na upana wake dhiraa ishirini; akazingira kwa dhahabu njema kwa talanta mia sita.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "na akafanya"
+      "gloss": "akafanya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nyumba"
+      "marks": "nyumba ya Kodoshi hakodashim"
     },
     {
       "surface": "בית",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "קדש",
-      "gloss": "kitakatifu"
+      "gloss": "Kodoshi"
     },
     {
       "surface": "הקדשים",
-      "gloss": "cha takatukuши"
+      "gloss": "hakodashim"
     },
     {
       "surface": "ארכו",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "על",
-      "gloss": "kungalia"
+      "gloss": "mbele ya"
     },
     {
       "surface": "פני",
-      "gloss": "sura ya"
+      "gloss": "mbele"
     },
     {
       "surface": "רחב",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "ויחפהו",
-      "gloss": "na akaijenga"
+      "gloss": "akazingira"
     },
     {
       "surface": "זהב",
@@ -78,21 +78,21 @@
     },
     {
       "surface": "טוב",
-      "gloss": "nzuri"
+      "gloss": "njema"
     },
     {
       "surface": "לככרים",
-      "gloss": "kwa talenti"
+      "gloss": "kwa talanta"
     },
     {
       "surface": "שש",
-      "gloss": "mia"
+      "gloss": "sita"
     },
     {
       "surface": "מאות",
-      "gloss": "sita"
+      "gloss": "mia"
     }
   ],
-  "timestamp": "2026-08-10T14:12:52.747355771Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:31.126108251Z",
+  "model": "glm-5.3"
 }

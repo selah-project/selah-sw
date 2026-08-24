@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 15,
-  "translation": "Naye Shaul na ⟨the⟩ watu wakamnyenyekea Agagi, na vile vilivyo bora ya kundi na ng'ombe, na wanyama wa uzao wa pili, na matahi, na kila kilicho chema; wala hawakutaka kuziharibu kabisa; lakini kazi yote iliyodharauliwa na iliyovunjika, ⟨hiyo⟩ wakaiharibu kabisa.",
+  "translation": "Naye Shaul na ⟨⟩ watu walimwrehemu Agag, na mbora za kondoo, na ng'ombe, na wana wa pili, na makondoo, na kila kilicho chema, na wakakataa kuviharibu kwa herem; lakini kazi yote iliyo duni na iliyo mbovu ⟨את⟩ hiyo waliiharibu kwa herem.",
   "tokens": [
     {
       "surface": "ויחמל",
-      "gloss": "wakanyenyekea"
+      "gloss": "akamwrehemu"
     },
     {
       "surface": "שאול",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "והעם",
-      "gloss": "na ⟨the⟩ watu"
+      "gloss": "na watu"
     },
     {
       "surface": "על",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "אגג",
-      "gloss": "Agagi"
+      "gloss": "Agag"
     },
     {
       "surface": "ועל",
-      "gloss": "na kwa"
+      "gloss": "na"
     },
     {
       "surface": "מיטב",
-      "gloss": "vilivyo bora"
+      "gloss": "mbora za"
     },
     {
       "surface": "הצאן",
-      "gloss": "ya kundi"
+      "gloss": "kondoo"
     },
     {
       "surface": "והבקר",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "והמשנים",
-      "gloss": "na wanyama wa uzao wa pili"
+      "gloss": "na wana wa pili"
     },
     {
       "surface": "ועל",
-      "gloss": "na kwa"
+      "gloss": "na"
     },
     {
       "surface": "הכרים",
-      "gloss": "matahi"
+      "gloss": "makondoo"
     },
     {
       "surface": "ועל",
-      "gloss": "na kwa"
+      "gloss": "na"
     },
     {
       "surface": "כל",
@@ -69,42 +69,42 @@
     },
     {
       "surface": "ולא",
-      "gloss": "wala hawaku"
+      "gloss": "wakakataa"
     },
     {
       "surface": "אבו",
-      "gloss": "taka"
+      "gloss": "kutaka"
     },
     {
       "surface": "החרימם",
-      "gloss": "kuziharibu kabisa"
+      "gloss": "kuviharibu kwa herem"
     },
     {
       "surface": "וכל",
-      "gloss": "na kila"
+      "gloss": "lakini kazi yote"
     },
     {
       "surface": "המלאכה",
-      "gloss": "kazi"
+      "gloss": "iliyo duni"
     },
     {
       "surface": "נמבזה",
-      "gloss": "iliodharauliwa"
+      "gloss": "iliyo duni"
     },
     {
       "surface": "ונמס",
-      "gloss": "na iliyovunjika"
+      "gloss": "na iliyo mbovu"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "hiyo"
+      "marks": "hiyo waliiharibu kwa herem"
     },
     {
       "surface": "החרימו",
-      "gloss": "wakaiharibu kabisa"
+      "gloss": "waliiharibu kwa herem"
     }
   ],
-  "timestamp": "2026-08-10T16:00:53.496974801Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:06.002528685Z",
+  "model": "glm-5.3"
 }

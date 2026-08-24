@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "sw",
   "chapter": 21,
-  "translation": "Na Ornan akageuka, akaona ⟨את⟩ mjumbe, na wana wake wanne ⟨אלה⟩ walikuwa pamoja naye wakijificha; na Ornan alikuwa akidunga ngano.",
+  "translation": "Na Ornan akageuka akaona ⟨את⟩ mjumbe, na wanae wanne waliokuwa naye walijificha; na Ornan alikuwa akipunya ngano.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "na akageuka"
+      "gloss": "akageuka"
     },
     {
       "surface": "ארנן",
@@ -30,19 +30,19 @@
     },
     {
       "surface": "וארבעת",
-      "gloss": "na wana wake wanne"
+      "gloss": "na wanne"
     },
     {
       "surface": "בניו",
-      "gloss": "wana wake"
+      "gloss": "wanae"
     },
     {
       "surface": "עמו",
-      "gloss": "pamoja naye"
+      "gloss": "naye"
     },
     {
       "surface": "מתחבאים",
-      "gloss": "wakijificha"
+      "gloss": "walijificha"
     },
     {
       "surface": "וארנן",
@@ -50,13 +50,13 @@
     },
     {
       "surface": "דש",
-      "gloss": "alikuwa akidunga"
+      "gloss": "alikuwa akipunya"
     },
     {
       "surface": "חטים",
       "gloss": "ngano"
     }
   ],
-  "timestamp": "2026-08-10T14:09:51.138209919Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:42.562777345Z",
+  "model": "glm-5.3"
 }

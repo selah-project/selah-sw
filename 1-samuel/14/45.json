@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Na watu wakamwambia Shaul: Je, Yonatan awezaje kufa, yeye aliyeleta ⟨⟨okuvukaji⟩⟩ huu mkuu nchini Israeli? Hasha! Aishaye Yahweh, hata unywele mmoja wa kichwa chake hautaanguka ardhini, maana kwa kushirikiana na Elohim alifanya hili leo. Basi watu wakamkomboa ⟨את⟩ Yonatan, naye hakufa.",
+  "translation": "Na watu wakamwambia Shaul: Je, Yonatan atakufa, yeye aliyeufanya wokovu huu mkubwa nchini Israeli? Hasha! Aishivyo Yahweh, hutapata kunyooka hata unywele mmoja wa kichwa chake ardhini, maana pamoja na Elohim alifanya ⟨sasa⟩ siku hii. Basi watu wakamkomboa ⟨את⟩ Yonatan, naye hakufa.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "wakamwambia"
+      "gloss": "wakasema"
     },
     {
       "surface": "העם",
-      "gloss": "na watu"
+      "gloss": "watu"
     },
     {
       "surface": "אל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ימות",
-      "gloss": "aweze kufa"
+      "gloss": "atakufa"
     },
     {
       "surface": "אשר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הגדולה",
-      "gloss": "mkuu"
+      "gloss": "mkubwa"
     },
     {
       "surface": "הזאת",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "חלילה",
-      "gloss": "Hasha"
+      "gloss": "Hasha!"
     },
     {
       "surface": "חי",
-      "gloss": "Aishaye"
+      "gloss": "Aishivyo"
     },
     {
       "surface": "יהוה",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "אם",
-      "gloss": "⟨hata⟩"
+      "gloss": "hutapata"
     },
     {
       "surface": "יפל",
-      "gloss": "hautaanguka"
+      "gloss": "kunyooka"
     },
     {
       "surface": "משערת",
-      "gloss": "unywele"
+      "gloss": "hata unywele mmoja"
     },
     {
       "surface": "ראשו",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "kwa kushirikiana na"
+      "gloss": "pamoja na"
     },
     {
       "surface": "אלהים",
@@ -105,11 +105,11 @@
     },
     {
       "surface": "היום",
-      "gloss": "leo"
+      "gloss": "siku"
     },
     {
       "surface": "הזה",
-      "gloss": "hili"
+      "gloss": "hii"
     },
     {
       "surface": "ויפדו",
@@ -130,13 +130,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "naye hakufa"
+      "gloss": "naye haku"
     },
     {
       "surface": "מת",
       "gloss": "kufa"
     }
   ],
-  "timestamp": "2026-08-10T11:23:09.254622270Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:18.021479644Z",
+  "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 34,
-  "translation": "Onjeni muone ya kwamba Yahweh ⟨ni⟩ mzuri; mashemu ⟨ni⟩ wa bwanamume anayejifungia <⟨ngao⟩> kwake.",
+  "translation": "Onja na uone ya kwamba Yahweh ni mwema; ⟨⟨heri⟩⟩ ya ⟨gever⟩ anayejificha ⟨kwake⟩.",
   "tokens": [
     {
       "surface": "טעמו",
-      "gloss": "Onjeni"
+      "gloss": "Onja"
     },
     {
       "surface": "וראו",
-      "gloss": "muone"
+      "gloss": "na uone"
     },
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "טוב",
-      "gloss": "mzuri"
+      "gloss": "mwema"
     },
     {
       "surface": "יהוה",
@@ -29,21 +29,21 @@
     },
     {
       "surface": "אשרי",
-      "gloss": "mashemu"
+      "gloss": "heri"
     },
     {
       "surface": "הגבר",
-      "gloss": "bwanamume"
+      "gloss": "gever (mwanamume)"
     },
     {
       "surface": "יחסה",
-      "gloss": "anayejifungia"
+      "gloss": "anayejificha kwa ulinzi"
     },
     {
       "surface": "בו",
       "gloss": "kwake"
     }
   ],
-  "timestamp": "2026-08-10T12:59:23.206570306Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:41.398290976Z",
+  "model": "glm-5.3"
 }

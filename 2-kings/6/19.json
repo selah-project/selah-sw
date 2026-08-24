@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 6,
-  "translation": "Na Elisha akawaambia: Hii si njia, wala hii si mji. Nifuate, nami nitawaongoza ⟨אתכם⟩ kwa yule mtu ambaye mnamtafuta. Akawaongoza ⟨את⟩ ⟨אותם⟩ Shomrona.",
+  "translation": "Na Elisha akawaambia: Si hii njia, wala si hii mji; nifuateni, nami nitawaongoza ⟨אתכ׶ם⟩ ⟨את⟩ mwanaume mnayemtafuta. Akawaongoza hadi Shomrona.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na akawaambia"
+      "gloss": "akawaambia"
     },
     {
       "surface": "אלהם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "Hii si"
+      "gloss": "si"
     },
     {
       "surface": "זה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "wala"
+      "gloss": "wala si"
     },
     {
       "surface": "זה",
@@ -45,20 +45,20 @@
     },
     {
       "surface": "לכו",
-      "gloss": "Nifuate"
+      "gloss": "nifuateni"
     },
     {
       "surface": "אחרי",
-      "gloss": "nifuatie"
+      "gloss": "nyuma yangu"
     },
     {
       "surface": "ואוליכה",
-      "gloss": "nami nitaawaongoza"
+      "gloss": "nami nitawaongoza"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "kwa yule mtu"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "nyinyi"
     },
     {
       "surface": "אל",
@@ -66,30 +66,30 @@
     },
     {
       "surface": "האיש",
-      "gloss": "yule mtu"
+      "gloss": "mwanaume"
     },
     {
       "surface": "אשר",
-      "gloss": "ambaye"
+      "gloss": "mnayemtafuta"
     },
     {
       "surface": "תבקשון",
-      "gloss": "mnamtafuta"
+      "gloss": "mnayemtafuta"
     },
     {
       "surface": "וילך",
-      "gloss": "Akawaongoza"
+      "gloss": "akawaongoza"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "Shomrona"
+      "gloss": "⟨את⟩",
+      "marks": "wao"
     },
     {
       "surface": "שמרונה",
       "gloss": "Shomrona"
     }
   ],
-  "timestamp": "2026-08-10T15:01:31.890868685Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.357934606Z",
+  "model": "glm-5.3"
 }

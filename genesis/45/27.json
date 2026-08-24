@@ -5,95 +5,96 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 45,
-  "translation": "Wakamwambia ⟨⟨את⟩⟩ maneno yote ya Yosef aliyowaonyesha, na akaona ⟨את⟩ magari ambayo Yosef aliyatuma kumchukua, nayo roho ya Yakov baba yao ikahuisha.",
+  "translation": "Wakamhubiria ⟨את⟩ maneno yote ya Yosef aliyoziwaambia; akaziona ⟨את⟩ gari (za mizigo) ambazo Yosef alizituma kumbeba ⟨את⟩ ⟨אתו⟩; nayo roho ya Yakov, baba yao, ikahuika.",
   "tokens": [
     {
-      "surface": "וַיְדַבְּר֣וּ",
-      "gloss": "wakamwambia"
+      "surface": "וידברו",
+      "gloss": "wakamhubiria"
     },
     {
-      "surface": "אֵלָ֗יו",
-      "gloss": "yeye"
+      "surface": "אליו",
+      "gloss": "kwake"
     },
     {
-      "surface": "אֵ֣ת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "maneno yote"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "yote"
     },
     {
-      "surface": "דִּבְרֵ֤י",
+      "surface": "דברי",
       "gloss": "maneno"
     },
     {
-      "surface": "יוֹסֵף֙",
-      "gloss": "ya Yosef"
-    },
-    {
-      "surface": "אֲשֶׁ֣ר",
-      "gloss": "ambayo"
-    },
-    {
-      "surface": "דִּבֶּ֣ר",
-      "gloss": "aliyoonyesha"
-    },
-    {
-      "surface": "אֲלֵהֶ֔ם",
-      "gloss": "wao"
-    },
-    {
-      "surface": "וַיַּרְא֙",
-      "gloss": "na akaona"
-    },
-    {
-      "surface": "אֶת",
-      "gloss": "⟨את⟩",
-      "marks": "magari"
-    },
-    {
-      "surface": "הָ֣עֲגָל֔וֹת",
-      "gloss": "magari"
-    },
-    {
-      "surface": "אֲשֶׁר",
-      "gloss": "ambayo"
-    },
-    {
-      "surface": "שָׁלַ֥ח",
-      "gloss": "aliyatuma"
-    },
-    {
-      "surface": "יוֹסֵ֖ף",
+      "surface": "יוסף",
       "gloss": "Yosef"
     },
     {
-      "surface": "לָשֵׂ֣את",
-      "gloss": "kumchukua"
+      "surface": "אשר",
+      "gloss": "ambazo"
     },
     {
-      "surface": "אֹת֑וֹ",
-      "gloss": "⟨את⟩ yeye"
+      "surface": "דבר",
+      "gloss": "aliyoziwaambia"
     },
     {
-      "surface": "וַתְּחִ֕י",
-      "gloss": "ikahuisha"
+      "surface": "אלהם",
+      "gloss": "kwao"
     },
     {
-      "surface": "ר֖וּחַ",
+      "surface": "וירא",
+      "gloss": "akaziona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gari za mizigo"
+    },
+    {
+      "surface": "העגלות",
+      "gloss": "gari (za mizigo)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ambazo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "alizituma"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kumbeba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "Yakov (aliyebebwa)"
+    },
+    {
+      "surface": "ותחי",
+      "gloss": "ikahuika"
+    },
+    {
+      "surface": "רוח",
       "gloss": "roho"
     },
     {
-      "surface": "יַעֲקֹ֥ב",
-      "gloss": "ya Yakov"
+      "surface": "יעקב",
+      "gloss": "Yakov"
     },
     {
-      "surface": "אֲבִיהֶֽם",
+      "surface": "אביהם",
       "gloss": "baba yao"
     }
   ],
-  "timestamp": "2026-08-10T10:16:22.348776631Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.300371638Z",
+  "model": "glm-5.3"
 }

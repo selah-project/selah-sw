@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 39,
-  "translation": "Nao wanaopita watapita katika nchi, naye ataona mfupa wa binadamu, naye atajenga karibu nayo alama, hadi watakapozika ⟨אתו⟩ wazikaji katika bonde la Hamon-Gog.",
+  "translation": "Na wanaopita watapita katika ⟨the⟩ nchi, na mtu akiona mfupa wa mwanadamu, atajenga alama karibu nayo, mpaka wazikaji wakazika ⟨את⟩ yake ⟨the⟩ wafu katika bonde la Hamon-Gog (umati wa Gog).",
   "tokens": [
     {
       "surface": "ועברו",
-      "gloss": "Nao watapita"
+      "gloss": "watapita"
     },
     {
       "surface": "העברים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וראה",
-      "gloss": "naye ataona"
+      "gloss": "akiona"
     },
     {
       "surface": "עצם",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אדם",
-      "gloss": "wa binadamu"
+      "gloss": "wa mwanadamu"
     },
     {
       "surface": "ובנה",
-      "gloss": "naye atajenga"
+      "gloss": "atajenga"
     },
     {
       "surface": "אצלו",
@@ -45,16 +45,16 @@
     },
     {
       "surface": "עד",
-      "gloss": "hadi"
+      "gloss": "mpaka"
     },
     {
       "surface": "קברו",
-      "gloss": "watakapozika"
+      "gloss": "wakazika"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "wazikaji"
+      "gloss": "⟨את⟩",
+      "marks": "yake — kipengele cha kuzikwa"
     },
     {
       "surface": "המקברים",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "המון",
-      "gloss": "la Hamon"
+      "gloss": "Hamon (umati)"
     },
     {
       "surface": "גוג",
       "gloss": "Gog"
     }
   ],
-  "timestamp": "2026-08-10T12:36:55.663823589Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:01.822798356Z",
+  "model": "glm-5.3"
 }

@@ -5,51 +5,51 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 43,
-  "translation": "Hukuniletea ⟨⟨⟩⟩ kondoo wa sadaka yako ya mwako, wala sadaka zako hazikunitukuza. Sikukufanya utumike kwa ⟨⟩dhabahu, wala sikukuchosha kwa uvundo.",
+  "translation": "Hukunileteia mwana-kondoo wa ⟨את⟩ sadaka zako za kuchomwa, wala hukunitukuzu kwa ⟨את⟩ dhabihu zako; sikukutumikisha kwa ⟨את⟩ toleo la unga, wala sikukuchosha kwa ⟨את⟩ uvumba.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "hukuni"
+      "gloss": "si"
     },
     {
       "surface": "הביאת",
-      "gloss": "letea"
+      "gloss": "hukunileteia"
     },
     {
       "surface": "לי",
-      "gloss": "mimi"
+      "gloss": "kwangu"
     },
     {
       "surface": "שה",
-      "gloss": "kondoo"
+      "gloss": "mwana-kondoo"
     },
     {
       "surface": "עלתיך",
-      "gloss": "sadaka yako ya mwako"
+      "gloss": "sadaka zako za kuchomwa"
     },
     {
       "surface": "וזבחיך",
-      "gloss": "wala sadaka zako"
+      "gloss": "wala dhabihu zako"
     },
     {
       "surface": "לא",
-      "gloss": "hakuna"
+      "gloss": "si"
     },
     {
       "surface": "כבדתני",
-      "gloss": "zilikutukuza mimi"
+      "gloss": "hukunitukuzu"
     },
     {
       "surface": "לא",
-      "gloss": "sikuku"
+      "gloss": "siku"
     },
     {
       "surface": "העבדתיך",
-      "gloss": "fanya utumike"
+      "gloss": "sikukutumikisha"
     },
     {
       "surface": "במנחה",
-      "gloss": "kwa dhabahu"
+      "gloss": "kwa toleo la unga"
     },
     {
       "surface": "ולא",
@@ -57,13 +57,13 @@
     },
     {
       "surface": "הוגעתיך",
-      "gloss": "kukuchosha"
+      "gloss": "sikukuchosha"
     },
     {
       "surface": "בלבונה",
-      "gloss": "kwa uvundo"
+      "gloss": "kwa uvumba"
     }
   ],
-  "timestamp": "2026-08-10T15:07:19.565668668Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:19.540224371Z",
+  "model": "glm-5.3"
 }

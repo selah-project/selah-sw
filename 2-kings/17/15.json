@@ -5,54 +5,55 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 17,
-  "translation": "Wakakataa ⟨את⟩ mamlaka zake na ⟨את⟩ berit yake aliyoikata ⟨את⟩ ⟨pamoja na⟩ ⟨את⟩ baba zao, na ⟨את⟩ mashahidi wake aliowashuhudia; wakafuata uhaba, wakaembwa haba, na nyuma ya mataifa yaliyo mizunguko yao, ambayo Yahweh aliwaamuru ⟨אתם⟩ wasifanye kama wao.",
+  "translation": "Wakayakataa maamuzi yake na ⟨את⟩ agano lake aliolifanya na ⟨את⟩ baba zao, na ⟨את⟩ mashahidi yake aliyoshuhudia dhidi yao; wakafuata ubatilifu, nao wenyewe wakawa batili, na mataifa yaliyozunguka, ambayo Yahweh aliwaamuru ⟨את⟩ wasifanye kama wao.",
   "tokens": [
     {
       "surface": "וימאסו",
-      "gloss": "wakakataa"
+      "gloss": "wakayakataa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mamlaka zake"
+      "marks": "maamuzi yake"
     },
     {
       "surface": "חקיו",
-      "gloss": "mamlaka zake"
+      "gloss": "maamuzi yake"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "berit yake"
+      "marks": "agano lake"
     },
     {
       "surface": "בריתו",
-      "gloss": "berit yake"
+      "gloss": "agano lake"
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "ambao"
     },
     {
       "surface": "כרת",
-      "gloss": "aliyoikata"
+      "gloss": "alifanya"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ⟨pamoja na⟩"
+      "gloss": "⟨את⟩",
+      "marks": "baba zao"
     },
     {
       "surface": "אבותם",
-      "gloss": "⟨את⟩ baba zao"
+      "gloss": "baba zao"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "mashahidi wake"
+      "marks": "mashahidi yake"
     },
     {
       "surface": "עדותיו",
-      "gloss": "mashahidi wake"
+      "gloss": "mashahidi yake"
     },
     {
       "surface": "אשר",
@@ -60,11 +61,11 @@
     },
     {
       "surface": "העיד",
-      "gloss": "aliwashuhudia"
+      "gloss": "aliyoshuhudia"
     },
     {
       "surface": "בם",
-      "gloss": "⟨dhidi yao⟩"
+      "gloss": "dhidi yao"
     },
     {
       "surface": "וילכו",
@@ -76,11 +77,11 @@
     },
     {
       "surface": "ההבל",
-      "gloss": "uhaba"
+      "gloss": "ubatilifu"
     },
     {
       "surface": "ויהבלו",
-      "gloss": "wakaembwa haba"
+      "gloss": "wakawa batili"
     },
     {
       "surface": "ואחרי",
@@ -96,7 +97,7 @@
     },
     {
       "surface": "סביבתם",
-      "gloss": "yaliyo mizunguko yao"
+      "gloss": "yaliyozunguka"
     },
     {
       "surface": "אשר",
@@ -104,16 +105,16 @@
     },
     {
       "surface": "צוה",
-      "gloss": "Yahweh aliwaamuru"
+      "gloss": "aliwaamuru"
     },
     {
       "surface": "יהוה",
-      "gloss": ""
+      "gloss": "Yahweh"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "wasifanye"
+      "gloss": "⟨את⟩",
+      "marks": "wao"
     },
     {
       "surface": "לבלתי",
@@ -121,13 +122,13 @@
     },
     {
       "surface": "עשות",
-      "gloss": ""
+      "gloss": "kufanya"
     },
     {
       "surface": "כהם",
       "gloss": "kama wao"
     }
   ],
-  "timestamp": "2026-08-10T15:02:27.692879692Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:52.975135980Z",
+  "model": "glm-5.3"
 }

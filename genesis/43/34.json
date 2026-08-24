@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 43,
-  "translation": "Akachukua sehemu ⟨מאת⟩ uso wake ⟨na kuzipeleka⟩ kwao; na sehemu ya Binyamina iliongezwa kutoka sehemu za wote wao, mikono mitano; wakaenda wakanywa, wakalewa pamoja naye.",
+  "translation": "Akachukua sehemu ⟨za chakula⟩ mbele yake na kuwapa, na sehemu ya Binyamin ilizidi mara tano sehemu za wote wengine; wakanywa na kulewa pamoja naye.",
   "tokens": [
     {
       "surface": "וישא",
@@ -13,48 +13,48 @@
     },
     {
       "surface": "משאת",
-      "gloss": "sehemu"
+      "gloss": "sehemu ⟨za chakula⟩"
     },
     {
       "surface": "מאת",
       "gloss": "⟨את⟩",
-      "marks": "sehemu"
+      "marks": "sehemu za chakula"
     },
     {
       "surface": "פניו",
-      "gloss": "uso wake"
+      "gloss": "mbele yake"
     },
     {
       "surface": "אלהם",
-      "gloss": "kwao"
+      "gloss": "kuwapa"
     },
     {
       "surface": "ותרב",
-      "gloss": "iliongezwa"
+      "gloss": "ilizidi"
     },
     {
       "surface": "משאת",
-      "gloss": "sehemu ya"
+      "gloss": "sehemu"
     },
     {
       "surface": "בנימן",
-      "gloss": "Binyamina"
+      "gloss": "Binyamin"
     },
     {
       "surface": "ממשאת",
-      "gloss": "kutoka sehemu za"
+      "gloss": "sehemu za"
     },
     {
       "surface": "כלם",
-      "gloss": "wote wao"
+      "gloss": "wote"
     },
     {
       "surface": "חמש",
-      "gloss": "mitano"
+      "gloss": "tano"
     },
     {
       "surface": "ידות",
-      "gloss": "mikono"
+      "gloss": "mara (za mikono)"
     },
     {
       "surface": "וישתו",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "וישכרו",
-      "gloss": "wakalewa"
+      "gloss": "kulewa"
     },
     {
       "surface": "עמו",
       "gloss": "pamoja naye"
     }
   ],
-  "timestamp": "2026-08-10T10:14:17.770837988Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:05.438887975Z",
+  "model": "glm-5.3"
 }

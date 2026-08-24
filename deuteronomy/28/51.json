@@ -5,27 +5,27 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 28,
-  "translation": "Na ⟨hiyo⟩ itakula mazao ya mifugo yako na mazao ya ardhi yako, hadi kuangamiza kwako; ambayo haitaacha kwako ngano, divai mpya, wala mafuta, ndama wa ng'ombe wako, na watoto wa kundi lako, hadi kuangamiza kwako ⟨אתך⟩.",
+  "translation": "Na atakula mazao ya wanyama wako na mazao ya ardhi yako, hadi kuharibiwa kwako; ambaye hataacha kwako nafaka, divai mpya wala mafuta, watoto wa ng'ombe wako wala watoto wa kondoo wako, hadi atakapoangamiza ⟨את⟩ wewe.",
   "tokens": [
     {
       "surface": "ואכל",
-      "gloss": "Na itakula"
+      "gloss": "Na atakula"
     },
     {
       "surface": "פרי",
-      "gloss": "mazao ya"
+      "gloss": "mazao"
     },
     {
       "surface": "בהמתך",
-      "gloss": "mifugo yako"
+      "gloss": "ya wanyama wako"
     },
     {
       "surface": "ופרי",
-      "gloss": "na mazao ya"
+      "gloss": "na mazao"
     },
     {
       "surface": "אדמתך",
-      "gloss": "ardhi yako"
+      "gloss": "ya ardhi yako"
     },
     {
       "surface": "עד",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "השמדך",
-      "gloss": "kuangamiza kwako"
+      "gloss": "kuharibiwa kwako"
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "ambaye"
     },
     {
       "surface": "לא",
-      "gloss": "hai"
+      "gloss": "hata"
     },
     {
       "surface": "ישאיר",
-      "gloss": "taacha"
+      "gloss": "ataacha"
     },
     {
       "surface": "לך",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "דגן",
-      "gloss": "ngano"
+      "gloss": "nafaka"
     },
     {
       "surface": "תירוש",
@@ -61,23 +61,23 @@
     },
     {
       "surface": "ויצהר",
-      "gloss": "na mafuta"
+      "gloss": "wala mafuta"
     },
     {
       "surface": "שגר",
-      "gloss": "ndama wa"
+      "gloss": "watoto"
     },
     {
       "surface": "אלפיך",
-      "gloss": "ng'ombe wako"
+      "gloss": "wa ng'ombe wako"
     },
     {
-      "surface": "ועשתרת",
-      "gloss": "na watoto wa"
+      "surface": "ועשתרות",
+      "gloss": "wala watoto"
     },
     {
       "surface": "צאנך",
-      "gloss": "kundi lako"
+      "gloss": "wa kondoo wako"
     },
     {
       "surface": "עד",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "האבידו",
-      "gloss": "kuangamiza kwako"
+      "gloss": "atakapoangamiza"
     },
     {
       "surface": "אתך",
@@ -93,6 +93,6 @@
       "marks": "wewe"
     }
   ],
-  "timestamp": "2026-08-10T11:02:48.104474422Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:29.506471442Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Na wana wa Keturah, suria wa Avraham: ⟨⟨yeye⟩⟩ alizaa ⟨את⟩ Zimrani, na Yokshani, na Medani, na Midiyani, na Yishbaki, na Shuahi. Na wana wa Yokshani: Sheba na Dedani.",
+  "translation": "Na wanawake wa Keturah, mke-mwandani wa Avraham, alizaa ⟨את⟩ Zimran na ⟨את⟩ Yokshan na Medan na Midian na Yishbak na Shuach; na wanawake wa Yokshan: Sheba na Dedan.",
   "tokens": [
     {
       "surface": "ובני",
-      "gloss": "Na wana wa"
+      "gloss": "na wanawake"
     },
     {
       "surface": "קטורה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "פילגש",
-      "gloss": "suria"
+      "gloss": "mke-mwandani"
     },
     {
       "surface": "אברהם",
-      "gloss": "wa Avraham"
+      "gloss": "Avraham"
     },
     {
       "surface": "ילדה",
@@ -30,39 +30,39 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Zimrani"
+      "marks": "Zimran"
     },
     {
       "surface": "זמרן",
-      "gloss": "Zimrani"
+      "gloss": "Zimran"
     },
     {
       "surface": "ויקשן",
-      "gloss": "na Yokshani"
+      "gloss": "na Yokshan"
     },
     {
       "surface": "ומדן",
-      "gloss": "na Medani"
+      "gloss": "na Medan"
     },
     {
       "surface": "ומדין",
-      "gloss": "na Midiyani"
+      "gloss": "na Midian"
     },
     {
       "surface": "וישבק",
-      "gloss": "na Yishbaki"
+      "gloss": "na Yishbak"
     },
     {
-      "surface": "וושוח",
-      "gloss": "na Shuahi"
+      "surface": "ושוח",
+      "gloss": "na Shuach"
     },
     {
       "surface": "ובני",
-      "gloss": "Na wana wa"
+      "gloss": "na wanawake"
     },
     {
       "surface": "יקשן",
-      "gloss": "Yokshani"
+      "gloss": "Yokshan"
     },
     {
       "surface": "שבא",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "ודדן",
-      "gloss": "na Dedani"
+      "gloss": "na Dedan"
     }
   ],
-  "timestamp": "2026-08-10T14:03:14.261397713Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:38.576538954Z",
+  "model": "glm-5.3"
 }

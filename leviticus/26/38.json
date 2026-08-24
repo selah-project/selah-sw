@@ -5,24 +5,24 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 26,
-  "translation": "Nanyi mtapotea miongoni mwa mataifa, na nchi ya maadui zenu itawala ⟨אתכם⟩.",
+  "translation": "Mtapotea kati ya mataifa, na nchi ya adui zenu itakula ⟨את⟩ nyinyi.",
   "tokens": [
     {
       "surface": "ואבדתם",
-      "gloss": "Nanyi mtapotea"
+      "gloss": "mtapotea"
     },
     {
       "surface": "בגוים",
-      "gloss": "miongoni mwa mataifa"
+      "gloss": "kati ya mataifa"
     },
     {
       "surface": "ואכלה",
-      "gloss": "na itawala"
+      "gloss": "itakula"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩ nyinyi",
+      "marks": "nchi ya adui zenu"
     },
     {
       "surface": "ארץ",
@@ -30,9 +30,9 @@
     },
     {
       "surface": "איביכם",
-      "gloss": "ya maadui zenu"
+      "gloss": "adui zenu"
     }
   ],
-  "timestamp": "2026-08-10T14:36:10.217580818Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:46.976001134Z",
+  "model": "glm-5.3"
 }

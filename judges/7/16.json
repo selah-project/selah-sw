@@ -5,20 +5,20 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Akagawa ⟨⟨את⟩⟩ watu mia tatu katika makundi matatu, akawapa nyumba za maweso mkononi mwa wote wakiwa na vyungu tupu na mapishi ndani ya vyungu.",
+  "translation": "Akagawa ⟨את⟩ wanaume matatu mia tatu kundi tatu, akawapa makofi yao kila mmoja mkononi, pamoja na vyungu tupu na mienge ndani ya vyungu.",
   "tokens": [
     {
       "surface": "ויחץ",
-      "gloss": "akagawa"
+      "gloss": "Akagawa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "watu mia tatu"
+      "marks": "wanaume matatu mia tatu"
     },
     {
       "surface": "שלש",
-      "gloss": "mia tatu"
+      "gloss": "matatu"
     },
     {
       "surface": "מאות",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "האיש",
-      "gloss": "watu"
+      "gloss": "wanaume"
     },
     {
       "surface": "שלשה",
-      "gloss": "matatu"
+      "gloss": "tatu"
     },
     {
       "surface": "ראשים",
-      "gloss": "makundi"
+      "gloss": "kundi"
     },
     {
       "surface": "ויתן",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "שופרות",
-      "gloss": "nyumba za maweso"
+      "gloss": "makofi"
     },
     {
       "surface": "ביד",
-      "gloss": "mkononi mwa"
+      "gloss": "mkononi"
     },
     {
       "surface": "כלם",
-      "gloss": "wote"
+      "gloss": "kila mmoja"
     },
     {
       "surface": "וכדים",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "ולפדים",
-      "gloss": "na mapishi"
+      "gloss": "mienge"
     },
     {
       "surface": "בתוך",
@@ -73,6 +73,6 @@
       "gloss": "vyungu"
     }
   ],
-  "timestamp": "2026-08-10T14:49:51.114004088Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:38.034013008Z",
+  "model": "glm-5.3"
 }

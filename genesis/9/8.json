@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 9,
-  "translation": "Elohim akamwambia Noachi, na wanawe pamoja naye, ⟨אתו⟩ akisema:",
+  "translation": "Elohim akasema kwa Noach, na kwa wana wake ⟨את⟩ pamoja naye, akisema:",
   "tokens": [
     {
-      "surface": "ואמר",
-      "gloss": "akamwambia"
+      "surface": "ויאמר",
+      "gloss": "akasema"
     },
     {
       "surface": "אלהים",
@@ -17,29 +17,30 @@
     },
     {
       "surface": "אל",
-      "gloss": "na"
+      "gloss": "kwa"
     },
     {
       "surface": "נח",
-      "gloss": "Noachi"
+      "gloss": "Noach"
     },
     {
       "surface": "ואל",
-      "gloss": "na"
+      "gloss": "na kwa"
     },
     {
       "surface": "בניו",
-      "gloss": "wanawe"
+      "gloss": "wana wake"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩ pamoja naye"
+      "gloss": "⟨את⟩ pamoja naye",
+      "marks": "pamoja naye"
     },
     {
       "surface": "לאמר",
       "gloss": "akisema"
     }
   ],
-  "timestamp": "2026-08-10T10:02:15.666773239Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:19.645176852Z",
+  "model": "glm-5.3"
 }

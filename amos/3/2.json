@@ -5,19 +5,19 @@
   "book": "amos",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Hivyo tu ⟨את⟩ ninyi niliwajua miongoni mwa familia zote za ⟨אדמה⟩; kwa hiyo nitawatahadharisha juu yenu ⟨את⟩ makosa yote yenu.",
+  "translation": "Nyinyi pekee nimewajua miongoni mwa familia zote za ⟨⟩ nchi; kwa hiyo nitawatemia adhabu juu yenu ⟨את⟩ makosa yote yenu.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "Hivyo tu"
+      "gloss": "pekee"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ninyi"
+      "gloss": "⟨את⟩ nyinyi"
     },
     {
       "surface": "ידעתי",
-      "gloss": "niliwajua"
+      "gloss": "nimewajua"
     },
     {
       "surface": "מכל",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "za ⟨ardhi⟩"
+      "gloss": "za nchi"
     },
     {
       "surface": "על",
-      "gloss": "Kwa"
+      "gloss": "kwa"
     },
     {
       "surface": "כן",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אפקד",
-      "gloss": "nitawatahadharisha"
+      "gloss": "nitawatemia adhabu"
     },
     {
       "surface": "עליכם",
@@ -61,6 +61,6 @@
       "gloss": "makosa yenu"
     }
   ],
-  "timestamp": "2026-08-10T12:44:11.033824017Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:01.769010096Z",
+  "model": "glm-5.3"
 }

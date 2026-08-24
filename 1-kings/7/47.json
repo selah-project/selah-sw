@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Na Shelomo akaiacha ⟨⟨את⟩⟩ vyombo vyote bila kuyapima, kwa wingi mkubwa sana; uzito wa shaba haikutafutwa.",
+  "translation": "Na Shelomoh aliacha ⟨את⟩ vyombo vyote visipimwe, kwa wingi mkubwa sana sana; mshuko wa shaba haukuchunguzwa.",
   "tokens": [
     {
       "surface": "וינח",
-      "gloss": "Na Shelomo akaiacha"
+      "gloss": "aliacha"
     },
     {
       "surface": "שלמה",
-      "gloss": ""
+      "gloss": "Shelomoh"
     },
     {
       "surface": "את",
@@ -34,29 +34,29 @@
     },
     {
       "surface": "מאד",
-      "gloss": "mkubwa"
+      "gloss": "mkubwa sana"
     },
     {
       "surface": "מאד",
-      "gloss": "sana"
+      "gloss": "sana sana"
     },
     {
       "surface": "לא",
-      "gloss": "bila"
+      "gloss": "si"
     },
     {
       "surface": "נחקר",
-      "gloss": "kuyapima \/ kutafutwa"
+      "gloss": "haukuchunguzwa"
     },
     {
       "surface": "משקל",
-      "gloss": "uzito"
+      "gloss": "mshuko"
     },
     {
       "surface": "הנחשת",
       "gloss": "wa shaba"
     }
   ],
-  "timestamp": "2026-08-10T11:39:10.040655765Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:16.910341899Z",
+  "model": "glm-5.3"
 }

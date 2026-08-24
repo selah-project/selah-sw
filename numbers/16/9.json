@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 16,
-  "translation": "Je, ni haba kutoka kwenu, kwamba Elohim wa Yisra'el amewatenga ⟨אתם⟩ kutoka kwa mkutano wa Yisra'el, akukaribisheni ⟨אתם⟩ kwake, kutumika katika ⟨את⟩ huduma ya maskani ya Yahweh, na kusimama mbele ya mkutano kuwahudumia?",
+  "translation": "Je, ni kitu kidogo kwenu kwamba Elohim wa Yisraeli aliwatenganisha ⟨את⟩ ninyi kutoka kwa kusanyiko la Yisraeli, ili akukaribisheni ninyi kwake, kutumika ⟨את⟩ utumishi wa hema ya mkutano ya Yahweh, na kusimama mbele ya makusanyiko kuwahudumia?",
   "tokens": [
     {
       "surface": "המעט",
-      "gloss": "ni haba"
+      "gloss": "ni kitu kidogo"
     },
     {
       "surface": "מכם",
-      "gloss": "kutoka kwenu"
+      "gloss": "kwenu"
     },
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הבדיל",
-      "gloss": "amewatenga"
+      "gloss": "aliwatenganisha"
     },
     {
       "surface": "אלהי",
@@ -29,29 +29,29 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "nyinyi"
+      "gloss": "⟨את⟩ ninyi",
+      "marks": "kusanyiko la Yisraeli"
     },
     {
       "surface": "מעדת",
-      "gloss": "kutoka kwa mkutano wa"
+      "gloss": "kusanyiko la"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "להקריב",
-      "gloss": "akukaribisheni"
+      "gloss": "ili akukaribisheni"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "nyinyi"
+      "gloss": "⟨את⟩ ninyi",
+      "marks": "kwake"
     },
     {
       "surface": "אליו",
@@ -59,24 +59,24 @@
     },
     {
       "surface": "לעבד",
-      "gloss": "kutumika katika"
+      "gloss": "kutumika"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "huduma"
+      "marks": "utumishi"
     },
     {
       "surface": "עבדת",
-      "gloss": "huduma"
+      "gloss": "utumishi"
     },
     {
       "surface": "משכן",
-      "gloss": "ya maskani"
+      "gloss": "hema ya mkutano"
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "ולעמד",
@@ -88,13 +88,13 @@
     },
     {
       "surface": "העדה",
-      "gloss": "mkutano"
+      "gloss": "makusanyiko"
     },
     {
       "surface": "לשרתם",
       "gloss": "kuwahudumia"
     }
   ],
-  "timestamp": "2026-08-10T15:56:17.150778294Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:45.466540609Z",
+  "model": "glm-5.3"
 }

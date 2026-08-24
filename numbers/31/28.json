@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 31,
-  "translation": "Na utoe kodi kwa Yahweh ⟨מאת⟩ watu wa vita wanaotoka kwenda jeshi, nafsi moja kutoka mia tano, kutoka kwa watu na kutoka kwa ng'ombe na kutoka kwa punda na kutoka kwa kondoo.",
+  "translation": "Na utaanzia Yahweh kodi kutoka kwa ⟨את⟩ wanaume wa vita wanaotoka kwenda jeshini: nafsi moja kati ya mia tano, ya ⟨ה⟩ wanadamu, na ya ng'ombe, na ya punda, na ya kondoo.",
   "tokens": [
     {
       "surface": "והרמת",
-      "gloss": "Na utoe"
+      "gloss": "Na utaanzia"
     },
     {
       "surface": "מכס",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "kwa Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩",
-      "marks": "watu wa vita"
+      "gloss": "kutoka kwa ⟨את⟩",
+      "marks": "wanaume wa vita"
     },
     {
       "surface": "אנשי",
-      "gloss": "watu"
+      "gloss": "wanaume"
     },
     {
       "surface": "המלחמה",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "לצבא",
-      "gloss": "kwenda jeshi"
+      "gloss": "kwenda jeshini"
     },
     {
       "surface": "אחד",
@@ -50,23 +50,23 @@
     },
     {
       "surface": "מחמש",
-      "gloss": "kutoka"
+      "gloss": "kati ya mia"
     },
     {
       "surface": "המאות",
-      "gloss": "mia tano"
+      "gloss": "tano"
     },
     {
       "surface": "מן",
-      "gloss": "kutoka kwa"
+      "gloss": "ya"
     },
     {
       "surface": "האדם",
-      "gloss": "watu"
+      "gloss": "wanadamu"
     },
     {
       "surface": "ומן",
-      "gloss": "na kutoka kwa"
+      "gloss": "na ya"
     },
     {
       "surface": "הבקר",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "ומן",
-      "gloss": "na kutoka kwa"
+      "gloss": "na ya"
     },
     {
       "surface": "החמרים",
@@ -82,13 +82,13 @@
     },
     {
       "surface": "ומן",
-      "gloss": "na kutoka kwa"
+      "gloss": "na ya"
     },
     {
       "surface": "הצאן",
       "gloss": "kondoo"
     }
   ],
-  "timestamp": "2026-08-10T10:50:48.769425905Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:36.354201491Z",
+  "model": "glm-5.3"
 }

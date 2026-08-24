@@ -5,24 +5,24 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Naye akaonyesha ⟨ao⟩ ⟨את⟩ mlango wa ⟨את⟩ mji, nao wakapiga ⟨את⟩ mji kwa makali ya upanga, na ⟨את⟩ ⟨the⟩ mtu huyo na ⟨את⟩ familia yake yote wakawafukuza.",
+  "translation": "Naye aliwaonyesha ⟨את⟩ mlango wa kuingia wa ⟨ה⟩ mji, nao wakapiga ⟨את⟩ ⟨ה⟩ mji kwa makali ya upanga; lakini ⟨את⟩ ⟨ה⟩ mtu na ⟨את⟩ familia yake yote waliwacha waende.",
   "tokens": [
     {
       "surface": "ויראם",
-      "gloss": "naye akaonyesha"
+      "gloss": "aliwaonyesha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mlango wa mji"
+      "marks": "mlango wa kuingia"
     },
     {
       "surface": "מבוא",
-      "gloss": "mlango"
+      "gloss": "mlango wa kuingia"
     },
     {
       "surface": "העיר",
-      "gloss": "mji"
+      "gloss": "wa mji"
     },
     {
       "surface": "ויכו",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "שלחו",
-      "gloss": "wakawafukuza"
+      "gloss": "waliwacha waende"
     }
   ],
-  "timestamp": "2026-08-10T11:11:54.261813855Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:06.429423016Z",
+  "model": "glm-5.3"
 }

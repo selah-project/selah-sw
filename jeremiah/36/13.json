@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 36,
-  "translation": "Akawaelezea Mikhayahu ⟨את⟩ maneno yote aliyoyasikia Barukiakisoma kutoka kitabuni masikioni mwa ⟨⟨wa⟩⟩ watu.",
+  "translation": "Ndiipo Mikhayahu akawaeleza ⟨את⟩ maneno yote aliyoambiwa kusikia Baruki aliposoma katika kitabu masikioni mwa ⟨⟨the⟩⟩ watu.",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "akawaelezea"
+      "gloss": "akawaeleza"
     },
     {
       "surface": "להם",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "שמע",
-      "gloss": "yakisikia"
+      "gloss": "kusikia"
     },
     {
       "surface": "בקרא",
-      "gloss": "akisoma"
+      "gloss": "aliposoma"
     },
     {
       "surface": "ברוך",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "בספר",
-      "gloss": "kitabuni"
+      "gloss": "katika kitabu"
     },
     {
       "surface": "באזני",
@@ -61,6 +61,6 @@
       "gloss": "watu"
     }
   ],
-  "timestamp": "2026-08-10T15:14:01.228470957Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:50.637103703Z",
+  "model": "glm-5.3"
 }

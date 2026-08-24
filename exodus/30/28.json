@@ -5,12 +5,12 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 30,
-  "translation": "na ⟨את⟩ madhabahu ya sadaka ya kuteketezwa na ⟨את⟩ vyombo vyake vyote, na ⟨את⟩ ⟨the⟩ beseni na ⟨את⟩ kibao chake.",
+  "translation": "na ⟨את⟩ madhabahu ya sadaka ya kuchoma na ⟨את⟩ vyombo vyake vyote, na ⟨את⟩ beseni na ⟨את⟩ mguu wake",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "madhabahu"
+      "gloss": "⟨את⟩",
+      "marks": "madhabahu ya sadaka ya kuchoma"
     },
     {
       "surface": "מזבח",
@@ -18,12 +18,12 @@
     },
     {
       "surface": "העלה",
-      "gloss": "ya sadaka ya kuteketezwa"
+      "gloss": "ya sadaka ya kuchoma"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "vyombo"
+      "gloss": "⟨את⟩",
+      "marks": "vyombo vyake vyote"
     },
     {
       "surface": "כל",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "beseni"
     },
     {
@@ -44,14 +44,14 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "kibao"
+      "gloss": "⟨את⟩",
+      "marks": "mguu wake"
     },
     {
       "surface": "כנו",
-      "gloss": "kibao chake"
+      "gloss": "mguu wake"
     }
   ],
-  "timestamp": "2026-08-10T10:27:01.764367835Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:22.263870974Z",
+  "model": "glm-5.3"
 }

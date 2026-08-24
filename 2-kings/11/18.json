@@ -5,31 +5,31 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 11,
-  "translation": "Na taifa lote la nchi likaingia ⟨⟨ndani⟩⟩ nyumba ya Baali, wakaivunja hadi wakaiharibu; ⟨את⟩ madhabahu zake na ⟨את⟩ sanamu zake walizivunja kabisa; na Matani kuhani wa Baali wakamuua mbele ya madhabahu. Kuhani akaweka walinzi juu ya nyumba ya Yahweh.",
+  "translation": "Nayo watu wote wa ⟨nchi⟩ wakaingia nyumbani mwa Baali, wakaivunja ⟨את⟩ madhabahu zake, na ⟨את⟩ sanamu zake wakazivunja-vunja kabisa; na ⟨את⟩ Mattani kuhani wa Baali wakamuua mbele za madhabahu hizo. Nayo kuhani akaweka maangalizi juu ya nyumba ya Yahweh.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "na wakaingia"
+      "gloss": "wakaingia"
     },
     {
       "surface": "כל",
-      "gloss": "lote"
+      "gloss": "wote"
     },
     {
       "surface": "עם",
-      "gloss": "taifa"
+      "gloss": "watu"
     },
     {
       "surface": "הארץ",
-      "gloss": "la nchi"
+      "gloss": "wa nchi"
     },
     {
       "surface": "בית",
-      "gloss": "nyumba"
+      "gloss": "nyumbani mwa"
     },
     {
       "surface": "הבעל",
-      "gloss": "ya Baali"
+      "gloss": "Baali"
     },
     {
       "surface": "ויתצהו",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "שברו",
-      "gloss": "walizivunja"
+      "gloss": "wakazivunja-vunja"
     },
     {
       "surface": "היטב",
@@ -64,11 +64,11 @@
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "Matani"
+      "marks": "Mattani"
     },
     {
       "surface": "מתן",
-      "gloss": "Matani"
+      "gloss": "Mattani"
     },
     {
       "surface": "כהן",
@@ -84,15 +84,15 @@
     },
     {
       "surface": "לפני",
-      "gloss": "mbele ya"
+      "gloss": "mbele za"
     },
     {
       "surface": "המזבחות",
-      "gloss": "madhabahu"
+      "gloss": "madhabahu hizo"
     },
     {
       "surface": "וישם",
-      "gloss": "na akaweka"
+      "gloss": "akaweka"
     },
     {
       "surface": "הכהן",
@@ -100,7 +100,7 @@
     },
     {
       "surface": "פקדות",
-      "gloss": "walinzi"
+      "gloss": "maangalizi"
     },
     {
       "surface": "על",
@@ -112,9 +112,9 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahweh"
+      "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T11:50:04.937067199Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:14.998140219Z",
+  "model": "glm-5.3"
 }

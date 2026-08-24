@@ -5,59 +5,58 @@
   "book": "song-of-songs",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Ninakuapigeni ⟨אתכם⟩ binti za Yerushalayim: msiamshe wala hamshishe upendo, mpaka apendapo.",
+  "translation": "Nimekuwapisha, binti za Yerushalayim, msiwasishe wala kuamsha ⟨את⟩ pendo, mpaka litakapotaka.",
   "tokens": [
     {
-      "surface": "הִשְׁבַּ֥עְתִּי",
-      "gloss": "Ninakuapigeni"
+      "surface": "השבעתי",
+      "gloss": "nimekuwapisha"
     },
     {
-      "surface": "אֶתְכֶ֖ם",
-      "gloss": "⟨את⟩",
-      "marks": "binti"
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninyi"
     },
     {
-      "surface": "בְּנ֣וֹת",
+      "surface": "בנות",
       "gloss": "binti"
     },
     {
-      "surface": "יְרוּשָׁלִָ֑ם",
+      "surface": "ירושלם",
       "gloss": "za Yerushalayim"
     },
     {
-      "surface": "מַה",
-      "gloss": "msi"
+      "surface": "מה",
+      "gloss": "msi-"
     },
     {
-      "surface": "תָּעִ֧ירוּ",
-      "gloss": "amishe"
+      "surface": "תעירו",
+      "gloss": "wasishe"
     },
     {
-      "surface": "וּֽמַה",
+      "surface": "ומה",
       "gloss": "wala"
     },
     {
-      "surface": "תְּעֹֽרְר֛וּ",
-      "gloss": "mshishe"
+      "surface": "תעררו",
+      "gloss": "kuamsha"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "upendo"
+      "marks": "pendo"
     },
     {
-      "surface": "הָאַהֲבָ֖ה",
-      "gloss": "upendo"
+      "surface": "האהבה",
+      "gloss": "pendo"
     },
     {
-      "surface": "עַ֥ד",
+      "surface": "עד",
       "gloss": "mpaka"
     },
     {
-      "surface": "שֶׁתֶּחְפָּֽץ",
-      "gloss": "apendapo"
+      "surface": "שתחפץ",
+      "gloss": "litakapotaka"
     }
   ],
-  "timestamp": "2026-08-10T16:23:46.878741636Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:51.097229794Z",
+  "model": "glm-5.3"
 }

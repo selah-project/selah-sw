@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Kichwani mwa ⟨pa⟩ kelele ⟨kubwa⟩ ⟨⟨yeye⟩⟩ huita, mle milangoni ya laya, mjini, maneno yake ⟨yeye⟩ husema:",
+  "translation": "Kichwani mwa mlio wa makundi anaita, mle mlango wa milango ya mji, humo mji maneno yake anayaambua, akisema:",
   "tokens": [
     {
       "surface": "בראש",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "המיות",
-      "gloss": "kelele kubwa"
+      "gloss": "mlio wa makundi"
     },
     {
       "surface": "תקרא",
-      "gloss": "⟨yeye⟩ huita"
+      "gloss": "anaita"
     },
     {
       "surface": "בפתחי",
-      "gloss": "mle milangoni ya"
+      "gloss": "mle mlango wa"
     },
     {
       "surface": "שערים",
-      "gloss": "laya"
+      "gloss": "milango"
     },
     {
       "surface": "בעיר",
-      "gloss": "mjini"
+      "gloss": "humo mji"
     },
     {
       "surface": "אמריה",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "תאמר",
-      "gloss": "⟨yeye⟩ husema"
+      "gloss": "anayaambua, akisema"
     }
   ],
-  "timestamp": "2026-08-10T13:21:53.067984654Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:12.291678692Z",
+  "model": "glm-5.3"
 }

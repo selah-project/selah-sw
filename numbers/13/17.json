@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Moshe akawatuma ⟨את⟩ wao kutembelea ⟨את⟩ nchi ya Kenaani, akawaambia: Pandeni hii kusini, na mtapanda ⟨את⟩ ⟨the⟩ mlima.",
+  "translation": "Moshe akawatuma ⟨את⟩ wao kuchunguza ⟨את⟩ nchi ya Kenaani, akawaambia: Pandeni hapa kwa Negev, na mtapanda ⟨את⟩ mlima.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -13,8 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "wao"
+      "gloss": "⟨את⟩ wao"
     },
     {
       "surface": "משה",
@@ -22,12 +21,12 @@
     },
     {
       "surface": "לתור",
-      "gloss": "kutembelea"
+      "gloss": "kuchunguza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nchi"
+      "marks": "nchi ya Kenaani"
     },
     {
       "surface": "ארץ",
@@ -47,18 +46,18 @@
     },
     {
       "surface": "עלו",
-      "gloss": "pandeni"
+      "gloss": "Pandeni"
     },
     {
       "surface": "זה",
-      "gloss": "hii"
+      "gloss": "hapa"
     },
     {
       "surface": "בנגב",
-      "gloss": "kusini"
+      "gloss": "kwa Negev"
     },
     {
-      "surface": "ועליתם",
+      "surface": "ויתעליתם",
       "gloss": "na mtapanda"
     },
     {
@@ -71,6 +70,6 @@
       "gloss": "mlima"
     }
   ],
-  "timestamp": "2026-08-10T14:37:40.632681593Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:28.688173142Z",
+  "model": "glm-5.3"
 }

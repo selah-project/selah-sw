@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 18,
-  "translation": "Wakaita jina la ⟨העיר⟩ mji Dan, kwa jina la Dan baba yao, ambaye alizaliwa kwa Yisrael; lakini Laish ⟨likuwa⟩ jina la ⟨העיר⟩ mji kwanza.",
+  "translation": "Wakaita jina la ⟨ה⟩ mji huo Dan, kwa jina la Dan baba yao, ambaye alizaliwa kwa Yisrael; lakini jina la mji huo la awali lilikuwa Laish.",
   "tokens": [
     {
       "surface": "ויקראו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "mji"
+      "gloss": "mji huo"
     },
     {
       "surface": "דן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בשם",
-      "gloss": "kwa jina"
+      "gloss": "kwa jina la"
     },
     {
       "surface": "דן",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "העיר",
-      "gloss": "mji"
+      "gloss": "la mji huo"
     },
     {
       "surface": "לראשנה",
-      "gloss": "kwanza"
+      "gloss": "la awali"
     }
   ],
-  "timestamp": "2026-08-10T18:27:41.015946736Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:47.482606410Z",
+  "model": "glm-5.3"
 }

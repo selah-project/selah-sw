@@ -5,16 +5,15 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 31,
-  "translation": "Na Moshe akawatuma ⟨אתם⟩, elfu kwa kila kabila, kwa jeshi: ⟨אתם⟩ na ⟨את⟩ Pinchas mwana wa Elazar kuhani, kwa jeshi; na vyombo vya kitakatifu na tarumbeta za mbiu, mkononi mwake.",
+  "translation": "Na Moshe akawatuma ⟨אתם⟩, elfu kwa kila kabila, kwenda vita, ⟨את⟩ wao, na ⟨את⟩ Pinehas mwana wa Elazari kuhani, kwenda vita; na vyombo vya patakatifu na tarumba za mbiu za kelele <a> mkononi mwake.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "na akawatuma"
+      "gloss": "akawatuma"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "Moshe"
+      "gloss": "⟨את⟩ ⟨wao⟩"
     },
     {
       "surface": "משה",
@@ -30,29 +29,28 @@
     },
     {
       "surface": "לצבא",
-      "gloss": "kwa jeshi"
+      "gloss": "kwenda vita"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "na ⟨את⟩ Pinchas"
+      "gloss": "⟨את⟩ wao"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "Pinchas"
+      "gloss": "⟨את⟩",
+      "marks": "Pinehas"
     },
     {
       "surface": "פינחס",
-      "gloss": "Pinchas"
+      "gloss": "Pinehas"
     },
     {
       "surface": "בן",
-      "gloss": "mwana wa"
+      "gloss": "mwana"
     },
     {
       "surface": "אלעזר",
-      "gloss": "Elazar"
+      "gloss": "wa Elazari"
     },
     {
       "surface": "הכהן",
@@ -60,7 +58,7 @@
     },
     {
       "surface": "לצבא",
-      "gloss": "kwa jeshi"
+      "gloss": "kwenda vita"
     },
     {
       "surface": "וכלי",
@@ -68,21 +66,21 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "vya kitakatifu"
+      "gloss": "vya patakatifu"
     },
     {
       "surface": "וחצצרות",
-      "gloss": "na tarumbeta"
+      "gloss": "na tarumba za mbiu"
     },
     {
       "surface": "התרועה",
-      "gloss": "za mbiu"
+      "gloss": "za kelele"
     },
     {
       "surface": "בידו",
       "gloss": "mkononi mwake"
     }
   ],
-  "timestamp": "2026-08-10T10:51:47.944007672Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:11.702282266Z",
+  "model": "glm-5.3"
 }

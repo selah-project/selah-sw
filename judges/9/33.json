@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 9,
-  "translation": "Na ikawa asubuhi, jua linapochomoza, utaamka mapema na kushambulia ⟨⟨jiu⟩⟩ mji, na tazama, yeye na watu walioko pamoja naye ⟨את⟩ watatoka kwenda kwako, na utamtendea kama iliyoavyo mkono wako.",
+  "translation": "Na itakuwa asubuhi, jua linapochomoza, utaamka mapema na kushambulia ⟨את⟩ mji; na tazama, yeye na ⟨את⟩ watu walioko ⟨את⟩ pamoja naye watatoka kwenda kwako, na utamfanya kama mkono wako utakavyopata.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "na ikawa"
+      "gloss": "na itakuwa"
     },
     {
       "surface": "בבקר",
@@ -53,28 +53,27 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambao"
+      "gloss": "walioko"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "pamoja naye"
+      "gloss": "⟨את⟩ pamoja naye"
     },
     {
       "surface": "יצאים",
-      "gloss": "wanatoka"
+      "gloss": "watatoka"
     },
     {
       "surface": "אליך",
-      "gloss": "kwako"
+      "gloss": "kwenda kwako"
     },
     {
       "surface": "ועשית",
-      "gloss": "na utatendea"
+      "gloss": "na utamfanya"
     },
     {
       "surface": "לו",
-      "gloss": "yeye"
+      "gloss": "kwake"
     },
     {
       "surface": "כאשר",
@@ -82,13 +81,13 @@
     },
     {
       "surface": "תמצא",
-      "gloss": "iliyoavyo"
+      "gloss": "utakavyopata"
     },
     {
       "surface": "ידך",
       "gloss": "mkono wako"
     }
   ],
-  "timestamp": "2026-08-10T11:15:10.314988496Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:49.448728915Z",
+  "model": "glm-5.3"
 }

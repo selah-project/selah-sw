@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 45,
-  "translation": "Naye Yosef akawaambia ndugu zake: \"Mimi ni Yosef. Je, baba yangu anaendelea kuwa hai?\" Wala ndugu zake hakuweza kumjibu, ⟨⟨את⟩⟩, kwa kuwa waliyumbayumba mbele za uso wake.",
+  "translation": "Yosefu akawaambia ndugu zake: Mimi ni Yosefu; ⟨je⟩, baba yangu ⟨bado⟩ anaishi? Nao ndugu zake hakuweza kumjibu, kwa sababu walitikiswa mshangao mbele za uso wake.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Yosef"
+      "gloss": "Yosefu"
     },
     {
       "surface": "אל",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "אני",
-      "gloss": "Mimi"
+      "gloss": "mimi"
     },
     {
       "surface": "יוסף",
-      "gloss": "Yosef"
+      "gloss": "Yosefu"
     },
     {
       "surface": "העוד",
-      "gloss": "Je-anaendelea"
+      "gloss": "⟨je⟩ ⟨bado⟩"
     },
     {
       "surface": "אבי",
@@ -41,15 +41,16 @@
     },
     {
       "surface": "חי",
-      "gloss": "kuwa hai"
+      "gloss": "anaishi"
     },
     {
-      "surface": "ולא",
-      "gloss": "wala-haku"
+      "surface": "וולא",
+      "gloss": "na hakuweza",
+      "surface_alt": "ולא"
     },
     {
       "surface": "יכלו",
-      "gloss": "kuweza"
+      "gloss": "walikuwa hawawezi"
     },
     {
       "surface": "אחיו",
@@ -62,21 +63,21 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "m"
+      "marks": "kumjibu (yeye)"
     },
     {
       "surface": "כי",
-      "gloss": "kwa kuwa"
+      "gloss": "kwa sababu"
     },
     {
       "surface": "נבהלו",
-      "gloss": "waliyumbayumba"
+      "gloss": "walitikiswa mshangao"
     },
     {
       "surface": "מפניו",
       "gloss": "mbele za uso wake"
     }
   ],
-  "timestamp": "2026-08-10T10:16:15.573961746Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:27.705462878Z",
+  "model": "glm-5.3"
 }

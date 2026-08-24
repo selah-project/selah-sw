@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 31,
-  "translation": "Akasema Moshe kwa ⟨כלם⟩ ⟨ה⟩ watu akisema: Jihamisheni kutoka miongoni mwenu ⟨את⟩ wanaume kwa jeshi, na wawe juu ya Midian, ili kutoa kisasi cha Yahweh katikati ya Midian.",
+  "translation": "Akasema Moshe kwa watu, akisema: Jiandazeni kutoka kwenu wanaume kwa jeshi, liwe juu ya Midian, kutoa malipo ya Yahweh katika Midian.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "החלצו",
-      "gloss": "Jihamisheni"
+      "gloss": "Jiandazeni"
     },
     {
       "surface": "מאתכם",
-      "gloss": "kutoka ⟨את⟩ miongoni mwenu",
-      "marks": "wanaume"
+      "gloss": "⟨את⟩ kutoka kwenu",
+      "marks": "wanaume walioandaliwa"
     },
     {
       "surface": "אנשים",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ויהיו",
-      "gloss": "na wawe"
+      "gloss": "liwe"
     },
     {
       "surface": "על",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "לתת",
-      "gloss": "ili kutoa"
+      "gloss": "kutoa"
     },
     {
       "surface": "נקמת",
-      "gloss": "kisasi cha"
+      "gloss": "malipo"
     },
     {
       "surface": "יהוה",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "במדין",
-      "gloss": "katikati ya Midian"
+      "gloss": "katika Midian"
     }
   ],
-  "timestamp": "2026-08-10T17:43:27.644311022Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.382849249Z",
+  "model": "glm-5.3"
 }

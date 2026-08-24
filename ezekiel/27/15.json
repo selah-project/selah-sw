@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 27,
-  "translation": "Wana wa Dedan walikuwa wafanyabiashara wako; visiwa vingi ndivyo biashara ya mkono wako; pembe za pembo na ⟨הובנים⟩ waliyorudisha malipo yako.",
+  "translation": "Wana wa Dedan ndio wafanyabiashara wako; visiwa vingi ndivyo biashara ya mkono wako; pembe za ndovu na mbao za eboni walizirudisha kama malipo yako.",
   "tokens": [
     {
       "surface": "בני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "רכליך",
-      "gloss": "walikuwa wafanyabiashara wako"
+      "gloss": "wafanyabiashara wako"
     },
     {
       "surface": "איים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "סחרת",
-      "gloss": "ndivyo biashara"
+      "gloss": "biashara"
     },
     {
       "surface": "ידך",
@@ -37,25 +37,25 @@
     },
     {
       "surface": "קרנות",
-      "gloss": "pembe za"
+      "gloss": "pembe"
     },
     {
       "surface": "שן",
-      "gloss": "pembo"
+      "gloss": "za ndovu (pembeni)"
     },
     {
       "surface": "והובנים",
-      "gloss": "na havimbi"
+      "gloss": "na mbao za eboni"
     },
     {
       "surface": "השיבו",
-      "gloss": "waliyorudisha"
+      "gloss": "walizirudisha"
     },
     {
       "surface": "אשכרך",
       "gloss": "malipo yako"
     }
   ],
-  "timestamp": "2026-08-10T12:34:10.173985181Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:40.368969735Z",
+  "model": "glm-5.3"
 }

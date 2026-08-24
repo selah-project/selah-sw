@@ -5,57 +5,57 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Mwanawe ⟨⟨nyinyi⟩⟩ mwa Yahweh Elohim wenu; msijipasue, wala msifanye upara kati ya macho yenu kwa ajili ya maiti.",
+  "translation": "Mimi ni wana wa Yahweh Elohim wenu; msifanye mifuko ⟨kwenye⟩ ngozi yenu, wala msije mkaweka utupu ⟨wa nywele⟩ kati ya macho yenu kwa ajili ya maiti.",
   "tokens": [
     {
-      "surface": "בָּנִ֣ים",
-      "gloss": "Mwanawe"
+      "surface": "בנים",
+      "gloss": "wana"
     },
     {
-      "surface": "אַתֶּ֔ם",
-      "gloss": "nyinyi"
+      "surface": "אתם",
+      "gloss": "nyinyi ni"
     },
     {
-      "surface": "לַֽיהוָ֖ה",
-      "gloss": "mwa Yahweh"
+      "surface": "ליהוה",
+      "gloss": "wa Yahweh"
     },
     {
-      "surface": "אֱלֹהֵיכֶ֑ם",
+      "surface": "אלהיכם",
       "gloss": "Elohim wenu"
     },
     {
-      "surface": "לֹ֣א",
-      "gloss": "msi"
+      "surface": "לא",
+      "gloss": "msifanye"
     },
     {
-      "surface": "תִתְגֹּֽדְד֗וּ",
-      "gloss": "jipasue"
+      "surface": "תתגדדו",
+      "gloss": "mifuko kwenye ngozi yenu"
     },
     {
-      "surface": "וְלֹֽא",
-      "gloss": "wala msi"
+      "surface": "ולא",
+      "gloss": "wala msije"
     },
     {
-      "surface": "תָשִׂ֧ימוּ",
-      "gloss": "fanye"
+      "surface": "תשימו",
+      "gloss": "mkaweka"
     },
     {
-      "surface": "קָרְחָ֛ה",
-      "gloss": "upara"
+      "surface": "קרחה",
+      "gloss": "utupu wa nywele"
     },
     {
-      "surface": "בֵּ֥ין",
+      "surface": "בין",
       "gloss": "kati ya"
     },
     {
-      "surface": "עֵינֵיכֶ֖ם",
+      "surface": "עיניכם",
       "gloss": "macho yenu"
     },
     {
-      "surface": "לָמֵֽת",
+      "surface": "למת",
       "gloss": "kwa ajili ya maiti"
     }
   ],
-  "timestamp": "2026-08-10T10:57:51.814745757Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:49.498110059Z",
+  "model": "glm-5.3"
 }

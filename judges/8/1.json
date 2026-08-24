@@ -5,23 +5,23 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Na wakaambia, watu wa Efrayim: Ni nini jambo hili umetutendea, kwa kutukuta wakati wa kwenda kupigana na Midiani? Wakajibizana naye ⟨אתו⟩ kwa nguvu.",
+  "translation": "Na watu wa Efrayim wakamwambia: Ni nini jambo hili ulilotutendea, kwa kutukosa kuita sisi ulipokwenda kupigana na Midiani? Wakabishana naye ⟨את⟩ kwa nguvu.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "wakaambia"
+      "gloss": "wakasema"
     },
     {
       "surface": "אליו",
-      "gloss": "kwa"
+      "gloss": "kwake"
     },
     {
       "surface": "איש",
-      "gloss": "watu"
+      "gloss": "watu wa"
     },
     {
       "surface": "אפרים",
-      "gloss": "wa Efrayim"
+      "gloss": "Efrayim"
     },
     {
       "surface": "מה",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "עשית",
-      "gloss": "umetendea"
+      "gloss": "ulilotutendea"
     },
     {
       "surface": "לנו",
-      "gloss": "tusi"
+      "gloss": "sisi"
     },
     {
       "surface": "לבלתי",
-      "gloss": "kwa"
+      "gloss": "kwa kutukosa"
     },
     {
       "surface": "קראות",
-      "gloss": "kukuta"
+      "gloss": "kuita"
     },
     {
       "surface": "לנו",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "wakati"
+      "gloss": "ulipo"
     },
     {
       "surface": "הלכת",
-      "gloss": "wa kwenda"
+      "gloss": "ulikwenda"
     },
     {
       "surface": "להלחם",
@@ -73,18 +73,18 @@
     },
     {
       "surface": "ויריבון",
-      "gloss": "wakajibizana"
+      "gloss": "wakabishana"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "naye"
+      "gloss": "⟨את⟩ naye",
+      "marks": "naye (Gidoni)"
     },
     {
       "surface": "בחזקה",
       "gloss": "kwa nguvu"
     }
   ],
-  "timestamp": "2026-08-10T11:15:50.243152887Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:31.678445326Z",
+  "model": "glm-5.3"
 }

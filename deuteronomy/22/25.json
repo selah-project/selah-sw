@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 22,
-  "translation": "Lakini mtu akimkuta ⟨⟨את⟩⟩ msichana aliye poswa shambani, na mtu akamshika kwa nguvu na kulala naye, basi mtu yule aliye lala naye peke yake atakufa.",
+  "translation": "Na kama ⟨את⟩ msichana aliyevarishiwa shimwini mtu atamwkea msituni, na yule mtu akamshika kwa nguvu na kulala naye, basi yule mtu aliyelala naye atafe yeye peke yake.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Lakini aki"
+      "gloss": "Na kama"
     },
     {
       "surface": "בשדה",
-      "gloss": "shambani"
+      "gloss": "msituni"
     },
     {
       "surface": "ימצא",
-      "gloss": "akimkuta"
+      "gloss": "atamwkea"
     },
     {
       "surface": "האיש",
@@ -26,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "msichana aliye poswa"
+      "marks": "msichana aliyevarishiwa shimwini"
     },
     {
       "surface": "הנער",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "המארשה",
-      "gloss": "aliye poswa"
+      "gloss": "aliyevarishiwa shimwini"
     },
     {
       "surface": "והחזיק",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "בה",
-      "gloss": "kwa nguvu"
+      "gloss": "m"
     },
     {
       "surface": "האיש",
-      "gloss": "mtu"
+      "gloss": "yule mtu"
     },
     {
       "surface": "ושכב",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "ומת",
-      "gloss": "atakufa"
+      "gloss": "atafe"
     },
     {
       "surface": "האיש",
-      "gloss": "mtu"
+      "gloss": "yule mtu"
     },
     {
       "surface": "אשר",
-      "gloss": "yule aliye"
+      "gloss": "aliye"
     },
     {
       "surface": "שכב",
@@ -81,6 +81,6 @@
       "gloss": "peke yake"
     }
   ],
-  "timestamp": "2026-08-10T15:57:37.917734963Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:41.014111160Z",
+  "model": "glm-5.3"
 }

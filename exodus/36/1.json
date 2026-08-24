@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 36,
-  "translation": "Na atende Betsalel na Aholiab na kila mtu mwenye hekima wa moyo ambaye Yahweh amempa hekima na ufahamu ndani yake, ajue kufanya ⟨את⟩ kazi yote ya utumishi wa ⟨the⟩ sehemu takatifu, sawa na yote ambayo Yahweh ameamrisha.",
+  "translation": "Ndiipo Betsalel na Aholiab na kila mtu mwenye moyo wa hekima, ambaye Yahweh alimpa hekima na ufahamu katika moyo wake, ili ajue kufanya ⟨את⟩ kazi yote ya utumishi wa patakatifu, kulingana na kila kitu ambacho Yahweh aliamuru.",
   "tokens": [
     {
       "surface": "ועשה",
-      "gloss": "na atende"
+      "gloss": "akafanya"
     },
     {
       "surface": "בצלאל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לב",
-      "gloss": "wa moyo"
+      "gloss": "moyo"
     },
     {
       "surface": "אשר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "amempa"
+      "gloss": "alimpa"
     },
     {
       "surface": "יהוה",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "בהמה",
-      "gloss": "ndani yake"
+      "gloss": "katika moyo wake"
     },
     {
       "surface": "לדעת",
-      "gloss": "ajue"
+      "gloss": "ili ajue"
     },
     {
       "surface": "לעשת",
@@ -86,25 +86,25 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "wa sehemu takatifu"
+      "gloss": "wa patakatifu"
     },
     {
       "surface": "לכל",
-      "gloss": "sawa na yote"
+      "gloss": "kulingana na kila"
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "ambacho"
     },
     {
       "surface": "צוה",
-      "gloss": "ameamrisha"
+      "gloss": "aliamuru"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T14:32:09.172455395Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:14.422524277Z",
+  "model": "glm-5.3"
 }

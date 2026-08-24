@@ -5,77 +5,77 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 33,
-  "translation": "Kamba zako zimeachwa kuteleza, hawakuweza kushikilia msingi wa mlingoti wao, hawakutandaza tanga; kisha 〈〈〉>mapepo mengi yaligawanywa, hata walio vipogo walichukua nyara.",
+  "translation": "Kamba zako zimeachiliwa; haziwezi kushika kizingiti cha mlingoti wao, hawakuweza kunyoosha tanga; hapo nyara ya mawindo mengi itagawanywa; hata viwete watateka ⟨nyara⟩.",
   "tokens": [
     {
-      "surface": "נִטְּשׁוּ",
-      "gloss": "zimeachwa kuteleza"
+      "surface": "נטשו",
+      "gloss": "zimeachiliwa"
     },
     {
-      "surface": "חֲבָלֶיךָ",
+      "surface": "חבליך",
       "gloss": "kamba zako"
     },
     {
-      "surface": "בַּל",
-      "gloss": "hawakuweza"
+      "surface": "בל",
+      "gloss": "haziwezi"
     },
     {
-      "surface": "יְחַזְּקוּ",
-      "gloss": "kushikilia"
+      "surface": "יחזקו",
+      "gloss": "kushika"
     },
     {
-      "surface": "כֵּן",
-      "gloss": "msingi"
+      "surface": "כן",
+      "gloss": "kizingiti"
     },
     {
-      "surface": "תֻּרְנָם",
+      "surface": "תרנם",
       "gloss": "mlingoti wao"
     },
     {
-      "surface": "בַּל",
-      "gloss": "hawakutandaza"
+      "surface": "בל",
+      "gloss": "hawakuwezi"
     },
     {
-      "surface": "פָּרְשׂוּ",
-      "gloss": ""
+      "surface": "פרשו",
+      "gloss": "kunyoosha"
     },
     {
-      "surface": "נֵס",
+      "surface": "נס",
       "gloss": "tanga"
     },
     {
-      "surface": "אָז",
-      "gloss": "kisha"
+      "surface": "אז",
+      "gloss": "hapo"
     },
     {
-      "surface": "חֻלַּק",
-      "gloss": "yaligawanywa"
+      "surface": "חלק",
+      "gloss": "itagawanywa"
     },
     {
-      "surface": "עַד",
-      "gloss": "mapepo"
+      "surface": "עד",
+      "gloss": "nyara"
     },
     {
-      "surface": "שָׁלָל",
+      "surface": "שלל",
+      "gloss": "mawindo"
+    },
+    {
+      "surface": "מרבה",
       "gloss": "mengi"
     },
     {
-      "surface": "מַרְבֵּה",
-      "gloss": ""
+      "surface": "פסחים",
+      "gloss": "viwete"
     },
     {
-      "surface": "פִּסְחִים",
-      "gloss": "walio vipogo"
+      "surface": "בזזו",
+      "gloss": "watateka"
     },
     {
-      "surface": "בָּזְזוּ",
-      "gloss": "walichukua"
-    },
-    {
-      "surface": "בַּז",
+      "surface": "בז",
       "gloss": "nyara"
     }
   ],
-  "timestamp": "2026-08-10T16:07:09.684288667Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:30.225006291Z",
+  "model": "glm-5.3"
 }

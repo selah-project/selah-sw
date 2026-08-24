@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 20,
-  "translation": "Na mwanamume au mwanamke, ikiwa ⟨kuna⟩ kwao mpepero au mwelewa, kwa kifo watatifwiwa; kwa mawe watapiguliwa, damu yao iwe juu yao.",
+  "translation": "Na mwanamume au mwanamke ambaye ndani yao kuwa mpelelezi wa wafu (אוב) au mlozi (ידעני), kifo wataufa; kwa mawe watapigwa ⟨אתם⟩; damu yao iwe juu yao.",
   "tokens": [
     {
       "surface": "ואיש",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "כי",
-      "gloss": "ikiwa"
+      "gloss": "ambapo"
     },
     {
       "surface": "יהיה",
-      "gloss": "kuna"
+      "gloss": "kuwapo"
     },
     {
       "surface": "בהם",
-      "gloss": "kwao"
+      "gloss": "ndani yao"
     },
     {
       "surface": "אוב",
-      "gloss": "mpepero"
+      "gloss": "mpelelezi wa wafu"
     },
     {
       "surface": "או",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "ידעני",
-      "gloss": "mwelewa"
+      "gloss": "mlozi"
     },
     {
       "surface": "מות",
-      "gloss": "kwa kifo"
+      "gloss": "kifo"
     },
     {
       "surface": "יומתו",
-      "gloss": "watatifwiwa"
+      "gloss": "wataufa"
     },
     {
       "surface": "באבן",
@@ -57,12 +57,12 @@
     },
     {
       "surface": "ירגמו",
-      "gloss": "watapiguliwa"
+      "gloss": "watapigwa"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "damu yao"
+      "gloss": "⟨את⟩",
+      "marks": "wao (wenye hatia)"
     },
     {
       "surface": "דמיהם",
@@ -73,6 +73,6 @@
       "gloss": "juu yao"
     }
   ],
-  "timestamp": "2026-08-10T14:35:13.159743313Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:10.133309649Z",
+  "model": "glm-5.3"
 }

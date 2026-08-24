@@ -5,27 +5,27 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 20,
-  "translation": "Na waumanze wataongea ⟨na⟩ ⟨⟨watu⟩ kusema: Ni nani ⟨yule⟩ mutu aliyejenga nyumba mpya na hakuweka ⟨kwenye⟩ utumwanzo? Aende arudi nyumbani kwake, asije akafa vitani, na mutu mwingine akaianza.",
+  "translation": "Na maofisa watasema ⟨את⟩ wananchi wakisema: Ni nani ⟨yule⟩ mwanaume aliyejenga nyumba mpya na hakuwa ameitayarisha ⟨kwa makao⟩? Aende arudi nyumbani kwake, asije akafa vitani, na mwanaume mwingine aitayarishi.",
   "tokens": [
     {
       "surface": "ודברו",
-      "gloss": "na wataongea"
+      "gloss": "watasema"
     },
     {
       "surface": "השטרים",
-      "gloss": "waumanze"
+      "gloss": "maofisa"
     },
     {
       "surface": "אל",
-      "gloss": "na"
+      "gloss": "kwa"
     },
     {
       "surface": "העם",
-      "gloss": "watu"
+      "gloss": "wananchi"
     },
     {
       "surface": "לאמר",
-      "gloss": "kusema"
+      "gloss": "wakisema"
     },
     {
       "surface": "מי",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "האיש",
-      "gloss": "yule mutu"
+      "gloss": "yule mwanaume"
     },
     {
       "surface": "אשר",
-      "gloss": "aliye-"
+      "gloss": "aliye"
     },
     {
       "surface": "בנה",
-      "gloss": "jenga"
+      "gloss": "amejenga"
     },
     {
       "surface": "בית",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "na haku-"
+      "gloss": "na hakuwa"
     },
     {
       "surface": "חנכו",
-      "gloss": "weka kwenye utumwanzo"
+      "gloss": "ameitayarisha ⟨kwa makao⟩"
     },
     {
       "surface": "ילך",
@@ -72,7 +72,7 @@
       "gloss": "nyumbani kwake"
     },
     {
-      "surface": "ןן",
+      "surface": "פן",
       "gloss": "asije"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "surface": "ואיש",
-      "gloss": "na mutu"
+      "gloss": "na mwanaume"
     },
     {
       "surface": "אחר",
@@ -93,9 +93,9 @@
     },
     {
       "surface": "יחנכנו",
-      "gloss": "akaianza"
+      "gloss": "aitayarishi"
     }
   ],
-  "timestamp": "2026-08-10T11:00:02.084958176Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:13.895580013Z",
+  "model": "glm-5.3"
 }

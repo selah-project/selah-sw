@@ -5,60 +5,60 @@
   "book": "amos",
   "lang": "sw",
   "chapter": 4,
-  "translation": "Niliwapiga ⟨אתכם⟩ kwa upelelezi na kuoza; misimu mingi ya bustani zenu na mashamba ya mizabibu zenu na mitini ya tikiti zenu na mitini ya mizeituni zenu, ila nyani-ndovu imekula; wala hamkurudi kwangu, --neno la Yahweh.",
+  "translation": "Niliwapiga ⟨את⟩ ninyi kwa madoa ya ukame na wa unyevuanyevu; wingi wa mabustani yenu na Mizabibu yenu na mitini ya tin yenu na mitini ya zeituni yenu aliula kila kitu nzige-baka; wala hamkurudi kwangu, anasema Yahweh.",
   "tokens": [
     {
       "surface": "הכיתי",
-      "gloss": "Nilipiga"
+      "gloss": "Niliwapiga"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "nyinyi"
+      "gloss": "⟨את⟩ ninyi",
+      "marks": "ninyi"
     },
     {
       "surface": "בשדפון",
-      "gloss": "kwa upelelezi"
+      "gloss": "kwa madoa ya ukame"
     },
     {
       "surface": "ובירקון",
-      "gloss": "na kuoza"
+      "gloss": "na wa unyevuanyevu"
     },
     {
       "surface": "הרבות",
-      "gloss": "mimu mingi"
+      "gloss": "wingi"
     },
     {
       "surface": "גנותיכם",
-      "gloss": "ya bustani zenu"
+      "gloss": "wa mabustani yenu"
     },
     {
       "surface": "וכרמיכם",
-      "gloss": "na mashamba ya mizabibu zenu"
+      "gloss": "na Mizabibu yenu"
     },
     {
       "surface": "ותאניכם",
-      "gloss": "na mitini ya tikiti zenu"
+      "gloss": "na mitini ya tin yenu"
     },
     {
       "surface": "וזיתיכם",
-      "gloss": "na mitini ya mizeituni zenu"
+      "gloss": "na mitini ya zeituni yenu"
     },
     {
       "surface": "יאכל",
-      "gloss": "imekula"
+      "gloss": "aliula kila kitu"
     },
     {
       "surface": "הגזם",
-      "gloss": "nyani-ndovu"
+      "gloss": "nzige-baka"
     },
     {
       "surface": "ולא",
-      "gloss": "wala si"
+      "gloss": "wala hamku-"
     },
     {
       "surface": "שבתם",
-      "gloss": "mlirudi"
+      "gloss": "rudi"
     },
     {
       "surface": "עדי",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "נאם",
-      "gloss": "--neno"
+      "gloss": "anasema"
     },
     {
       "surface": "יהוה",
-      "gloss": "la Yahweh"
+      "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T12:45:44.894812072Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:39.002715642Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Ikawa kwa sababu waongozaji wa uzazi waliogopa ⟨את⟩ Elohim, ⟨⟨ Yeye ⟩⟩ aliwafanyia nyumba.",
+  "translation": "Ikawa kwa sababu walimcha ⟨את⟩ Elohim hao wakunga uzazi, akawafanyia nyumba.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ikawa"
+      "gloss": "Ikawa"
     },
     {
       "surface": "כי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "יראו",
-      "gloss": "waliogopa"
+      "gloss": "walimcha"
     },
     {
       "surface": "המילדת",
-      "gloss": "waongozaji wa uzazi"
+      "gloss": "hao wakunga uzazi"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ויעש",
-      "gloss": "aliwafanyia"
+      "gloss": "akafanya"
     },
     {
       "surface": "להם",
@@ -45,6 +45,6 @@
       "gloss": "nyumba"
     }
   ],
-  "timestamp": "2026-08-10T10:17:03.830661172Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:55.157055326Z",
+  "model": "glm-5.3"
 }

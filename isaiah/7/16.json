@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Kwa maana kabla ⟨huyo⟩ mtoto hajui kukataa ⟨⟨kilicho⟩⟩ baya na kuchagua ⟨⟨kilicho⟩⟩ chema, nchi ambayo wewe unaidharau itaachwa watupu, kwa sababu ya wafalme wake wawili.",
+  "translation": "Kwa maana kabla hii⟨hajajua⟩ kumwacha baya na kuchagua jema, nchi unayochukia itaachwa ⟨iliyo⟩ mbele ya wafalme wake wawili.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "ידע",
-      "gloss": "hajui"
+      "gloss": "hajajua"
     },
     {
       "surface": "הנער",
-      "gloss": "mtoto"
+      "gloss": "mfana"
     },
     {
       "surface": "מאס",
-      "gloss": "kukataa"
+      "gloss": "kumwacha"
     },
     {
       "surface": "ברע",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "בטוב",
-      "gloss": "chema"
+      "gloss": "jema"
     },
     {
       "surface": "תעזב",
-      "gloss": "itaachwa watupu"
+      "gloss": "itaachwa"
     },
     {
       "surface": "האדמה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "iliyo"
     },
     {
       "surface": "אתה",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "קץ",
-      "gloss": "unaidharau"
+      "gloss": "unachukia"
     },
     {
       "surface": "מפני",
-      "gloss": "kwa sababu ya"
+      "gloss": "mbele ya"
     },
     {
       "surface": "שני",
@@ -72,6 +72,6 @@
       "gloss": "wafalme wake"
     }
   ],
-  "timestamp": "2026-08-10T15:03:41.692441128Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:15.779575593Z",
+  "model": "glm-5.3"
 }

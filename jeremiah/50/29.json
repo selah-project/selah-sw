@@ -5,23 +5,23 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 50,
-  "translation": "Waitajieni ⟨⟨waende⟩⟩ Baveli, walipiga watu wengi, wote wanaotia mata ya upinde. Wegeni juu yake pande zote, asiwepo `amani` ya wokovu; mlipeni kama ilivyotenda, kama kila ilivyofanya mfanyie; kwa kuwa juu ya Yahweh jivunia, juu ya Mtakatifu wa Yisraeli.",
+  "translation": "Tangazeni kwa Babeli waumi wa mishale, wote wanaokaza upinde; wekeni kambi juu yake pande zote, asiwepo aliyeokoka; malipeni kwa kadiri ya vitendo vyake, kama yote aliyoitenda mfanyini vivyo hivyo; kwa maana alifanya kiburi dhidi ya Yahweh, dhidi ya Mtakatifu wa Yisrael.",
   "tokens": [
     {
       "surface": "השמיעו",
-      "gloss": "waitajieni"
+      "gloss": "Tangazeni"
     },
     {
       "surface": "אל",
-      "gloss": "kwenda"
+      "gloss": "kwa"
     },
     {
       "surface": "בבל",
-      "gloss": "Baveli"
+      "gloss": "Babeli"
     },
     {
       "surface": "רבים",
-      "gloss": "watu wengi"
+      "gloss": "waumi wa mishale"
     },
     {
       "surface": "כל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "דרכי",
-      "gloss": "wanaotia mata ya"
+      "gloss": "wanaokaza"
     },
     {
       "surface": "קשת",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "חנו",
-      "gloss": "wegeni"
+      "gloss": "wekeni kambi"
     },
     {
       "surface": "עליה",
@@ -49,43 +49,43 @@
     },
     {
       "surface": "אל",
-      "gloss": "asiwepo"
+      "gloss": "asi"
     },
     {
       "surface": "יהי",
-      "gloss": "iwe"
+      "gloss": "wiwepo"
     },
     {
       "surface": "פלטה",
-      "gloss": "wokovu"
+      "gloss": "aliyeokoka"
     },
     {
       "surface": "שלמו",
-      "gloss": "mlipeni"
+      "gloss": "malipeni"
     },
     {
       "surface": "לה",
-      "gloss": "kama ilivyotenda"
+      "gloss": "yeye"
     },
     {
       "surface": "כפעלה",
-      "gloss": "kama kazi yake"
+      "gloss": "kwa kadiri ya vitendo vyake"
     },
     {
       "surface": "ככל",
-      "gloss": "kama kila"
+      "gloss": "kama yote"
     },
     {
       "surface": "אשר",
-      "gloss": "ambacho"
+      "gloss": "aliyo"
     },
     {
       "surface": "עשתה",
-      "gloss": "ilivyofanya"
+      "gloss": "itenda"
     },
     {
       "surface": "עשו",
-      "gloss": "mfanyie"
+      "gloss": "mfanyini vivyo hivyo"
     },
     {
       "surface": "לה",
@@ -93,11 +93,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "kwa kuwa"
+      "gloss": "kwa maana"
     },
     {
       "surface": "אל",
-      "gloss": "juu ya"
+      "gloss": "dhidi ya"
     },
     {
       "surface": "יהוה",
@@ -105,11 +105,11 @@
     },
     {
       "surface": "זדה",
-      "gloss": "jivunia"
+      "gloss": "alifanya kiburi"
     },
     {
       "surface": "אל",
-      "gloss": "juu ya"
+      "gloss": "dhidi ya"
     },
     {
       "surface": "קדוש",
@@ -117,9 +117,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "wa Yisraeli"
+      "gloss": "wa Yisrael"
     }
   ],
-  "timestamp": "2026-08-10T12:25:30.281452763Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:47.580389267Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 10,
-  "translation": "Na Shelomoh akamwelezea ⟨את⟩ kila maneno yake; hakukuwa na neno lililofichika kwa ⟨the⟩ mfalme ambalo hakumwelezea.",
+  "translation": "Na Shelomah alimweleza ⟨את⟩ maneno yake yote; hakukuwa na neno lililofichika kutoka kwa mfalme ambalo hakumweleza.",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "Na akamwelezea"
+      "gloss": "alimweleza"
     },
     {
       "surface": "לה",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomoh"
+      "gloss": "Shelomah"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kila"
+      "marks": "maneno yake yote"
     },
     {
       "surface": "כל",
-      "gloss": "kila"
+      "gloss": "yote"
     },
     {
       "surface": "דבריה",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "hakukuwa na"
+      "gloss": "hakukuwa"
     },
     {
       "surface": "היה",
-      "gloss": ""
+      "gloss": "⟨kulikuwa na⟩"
     },
     {
       "surface": "דבר",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "kwa"
+      "gloss": "kutoka kwa"
     },
     {
       "surface": "המלך",
@@ -62,17 +62,17 @@
     },
     {
       "surface": "לא",
-      "gloss": "hakumwelezea"
+      "gloss": "haku-"
     },
     {
       "surface": "הגיד",
-      "gloss": ""
+      "gloss": "-mweleza"
     },
     {
       "surface": "לה",
       "gloss": "yeye"
     }
   ],
-  "timestamp": "2026-08-10T11:40:44.726738593Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:29.725029539Z",
+  "model": "glm-5.3"
 }

@@ -5,41 +5,41 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 103,
-  "translation": "Hafanyi kufuatana na makosa yetu ⟨⟨kwetu⟩⟩, wala hafanyi kufuatana na uovu wetu kulipwa ⟨⟨juu yetu⟩⟩.",
+  "translation": "Hakutenda kwa makosa yetu, wala hakujaza kwa maovu yetu.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "Hafanyi"
+      "gloss": "siku\/haku(tenda)"
     },
     {
       "surface": "כחטאינו",
-      "gloss": "kufuatana na makosa yetu"
+      "gloss": "kwa makosa yetu"
     },
     {
       "surface": "עשה",
-      "gloss": "Hafanyi"
+      "gloss": "(ha)kutenda"
     },
     {
       "surface": "לנו",
-      "gloss": "⟨kwetu⟩"
+      "gloss": "kwa sisi"
     },
     {
       "surface": "ולא",
-      "gloss": "wala hafanyi"
+      "gloss": "wala haku(jaza)"
     },
     {
       "surface": "כעונתינו",
-      "gloss": "kufuatana na uovu wetu"
+      "gloss": "kwa maovu yetu"
     },
     {
       "surface": "גמל",
-      "gloss": "kulipwa"
+      "gloss": "(ha)kujaza"
     },
     {
       "surface": "עלינו",
-      "gloss": "⟨juu yetu⟩"
+      "gloss": "juu yetu"
     }
   ],
-  "timestamp": "2026-08-10T13:12:53.453790378Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:30.241393137Z",
+  "model": "glm-5.3"
 }

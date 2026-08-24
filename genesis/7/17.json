@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Ikawa ⟨ni⟩ mafuriko siku arobaini juu ya ⟨⟨nchi⟩⟩, na maji yakazidi kufurika yakainua ⟨את⟩ safina, ikainuliwa kutoka juu ya ⟨⟨nchi⟩⟩.",
+  "translation": "Mafuriko yalikuwa siku arobaini juu ya ⟨nchi⟩, na maji yakaongezeka yakainua ⟨את⟩ safina, nayo ikanyanyuliwa juu ya ⟨nchi⟩.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ikawa"
+      "gloss": "yalikuwa"
     },
     {
       "surface": "המבול",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨nchi⟩"
+      "gloss": "nchi"
     },
     {
       "surface": "וירבו",
-      "gloss": "yakazidi kufurika"
+      "gloss": "yakaongezeka"
     },
     {
       "surface": "המים",
@@ -54,17 +54,17 @@
     },
     {
       "surface": "ותרם",
-      "gloss": "ikainuliwa"
+      "gloss": "ikanyanyuliwa"
     },
     {
       "surface": "מעל",
-      "gloss": "kutoka juu ya"
+      "gloss": "juu ya"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨nchi⟩"
+      "gloss": "nchi"
     }
   ],
-  "timestamp": "2026-08-10T14:22:53.393484486Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:48.429029917Z",
+  "model": "glm-5.3"
 }

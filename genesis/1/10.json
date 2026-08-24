@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Na Elohim akaita ⟨את⟩ nchi kavu «ardhi», na ⟨את⟩ mkusanyiko wa maji akaita «bahari»; na Elohim akaona kwamba ⟨ni⟩ jema.",
+  "translation": "Na Elohim akaita nchi kavu «ardhi», na ⟨את⟩ mkusanyiko wa maji akaita «bahari»; na Elohim akaona kwamba ⟨ni⟩ jema.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ליבשה",
-      "gloss": "⟨את⟩ nchi kavu"
+      "gloss": "nchi kavu"
     },
     {
       "surface": "ארץ",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ולמקוה",
-      "gloss": "na ⟨את⟩ mkusanyiko"
+      "gloss": "na mkusanyiko"
     },
     {
       "surface": "המים",
@@ -56,6 +56,6 @@
       "gloss": "jema"
     }
   ],
-  "timestamp": "2026-08-10T15:48:44.990776358Z",
+  "timestamp": "2026-08-24T19:06:27.302458927Z",
   "model": "glm-5.2"
 }

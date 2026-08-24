@@ -5,19 +5,19 @@
   "book": "zechariah",
   "lang": "sw",
   "chapter": 8,
-  "translation": "vivyo hivyo nimerudi, nimepanga mipango katika siku hizi kufanya mema ⟨⟨את⟩ Yerushalayim⟩ na ⟨⟨את⟩ nyumba ya Yehudah⟩; msiogope.",
+  "translation": "Ndivivo nimerejea, nimepanga katika siku hizi kufanya mema ⟨את⟩ Yerushalayim na ⟨את⟩ nyumba ya Yehudah; msijiogope.",
   "tokens": [
     {
       "surface": "כן",
-      "gloss": "vivyo hivyo"
+      "gloss": "ndivivo"
     },
     {
       "surface": "שבתי",
-      "gloss": "nimerudi"
+      "gloss": "nimerejea"
     },
     {
       "surface": "זממתי",
-      "gloss": "nimepanga mipango"
+      "gloss": "nimepanga"
     },
     {
       "surface": "בימים",
@@ -42,26 +42,26 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "nyumba ya Yehudah"
     },
     {
       "surface": "בית",
-      "gloss": "nyumba ya"
+      "gloss": "nyumba"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehudah"
+      "gloss": "ya Yehudah"
     },
     {
       "surface": "אל",
-      "gloss": "si"
+      "gloss": "msi"
     },
     {
       "surface": "תיראו",
-      "gloss": "mtaogopa"
+      "gloss": "jiogope"
     }
   ],
-  "timestamp": "2026-08-10T12:52:06.474893579Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:09.490064946Z",
+  "model": "glm-5.3"
 }

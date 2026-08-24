@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 147,
-  "translation": "Ambaye anafunika mbingu kwa mawingu, ambaye anaandaa ⟨לָאָרֶץ⟩ mvua, ambaye anachipua nyasi juu ya milima.",
+  "translation": "⟨Ambaye⟩ anafunika mbingu kwa mawingu, ⟨ambaye⟩ anaandaa mvua kwa nchi, ⟨ambaye⟩ anachipuza majani ⟨את⟩ katika milima.",
   "tokens": [
     {
       "surface": "המכסה",
-      "gloss": "Ambaye anafunika"
+      "gloss": "anafunika"
     },
     {
       "surface": "שמים",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "המכין",
-      "gloss": "ambaye anaandaa"
+      "gloss": "anaandaa"
     },
     {
       "surface": "לארץ",
-      "gloss": "⟨nchi⟩"
+      "gloss": "kwa nchi"
     },
     {
       "surface": "מטר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "המצמיח",
-      "gloss": "ambaye anachipua"
+      "gloss": "anachipuza"
     },
     {
       "surface": "הרים",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "חציר",
-      "gloss": "nyasi"
+      "gloss": "majani"
     }
   ],
-  "timestamp": "2026-08-10T13:21:19.242154326Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:05.227649873Z",
+  "model": "glm-5.3"
 }

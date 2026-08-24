@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 30,
-  "translation": "Na Reubeni akaenda siku za mavuno ya ngano, akapata dadaa shambani, akaleta ⟨אתם⟩ kwa Leah mama yake. Na Raheli akamwambia Leah: «Nipe, tafadhali, baadhi ya dadaa za mwanako.»",
+  "translation": "Reubeni akaenda siku za mavuno ya ngano, akapata dudaim shambani, akazileta ⟨את⟩ kwa Lea mama yake; Raheli akamwambia Lea: Nipa tafadhali katika dudaim za mwanako.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "na akaenda"
+      "gloss": "akaenda"
     },
     {
       "surface": "ראובן",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "דודאים",
-      "gloss": "dadaa"
+      "gloss": "dudaim"
     },
     {
       "surface": "בשדה",
@@ -41,12 +41,12 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "akaleta"
+      "gloss": "akazileta"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "(kwa Leah mama yake)"
+      "marks": "dudaim"
     },
     {
       "surface": "אל",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "לאה",
-      "gloss": "Leah"
+      "gloss": "Lea"
     },
     {
       "surface": "אמו",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "na akamwambia"
+      "gloss": "akamwambia"
     },
     {
       "surface": "רחל",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "לאה",
-      "gloss": "Leah"
+      "gloss": "Lea"
     },
     {
       "surface": "תני",
-      "gloss": "nipe"
+      "gloss": "Nipa"
     },
     {
       "surface": "נא",
@@ -90,13 +90,13 @@
     },
     {
       "surface": "מדודאי",
-      "gloss": "baadhi ya dadaa za"
+      "gloss": "katika dudaim za"
     },
     {
       "surface": "בנך",
       "gloss": "mwanako"
     }
   ],
-  "timestamp": "2026-08-10T14:25:58.367807730Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:39.517057968Z",
+  "model": "glm-5.3"
 }

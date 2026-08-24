@@ -5,44 +5,44 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 30,
-  "translation": "Na ikiwa amebatilisha, atabatilisha ⟨אתם⟩ mume wake siku ya kusikia kwake; kila kinachotoka kwenye midomo yake kwa nadiri zake na kwa fungamano la nafsi yake, hakitarudi; mume wake amezibatiliza, na Yahweh atamsamehe.",
+  "translation": "Na kama mumewe anazifuta ⟨אתם⟩ siku ile alipoyasikia, kila kitu kilichotoka kwenye midomo yake kuhusu ahadi zake au kuhusu kizuizi cha nafsi yake, hakitasimama; mumewe amezifuta, na Yahweh atamsamehe yeye.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Na ikiwa"
+      "gloss": "Na kama"
     },
     {
       "surface": "הפר",
-      "gloss": "amebatilisha"
+      "gloss": "anazifuta"
     },
     {
       "surface": "יפר",
-      "gloss": "atabatilisha"
+      "gloss": "kuzifuta kabisa"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "mume wake"
+      "marks": "ahadi zake na kizuizi"
     },
     {
       "surface": "אישה",
-      "gloss": "mume wake"
+      "gloss": "mumewe"
     },
     {
       "surface": "ביום",
-      "gloss": "siku ya"
+      "gloss": "siku ile"
     },
     {
       "surface": "שמעו",
-      "gloss": "kusikia kwake"
+      "gloss": "alipoyasikia"
     },
     {
       "surface": "כל",
-      "gloss": "kila"
+      "gloss": "kila kitu"
     },
     {
       "surface": "מוצא",
-      "gloss": "kinachotoka"
+      "gloss": "kilichotoka"
     },
     {
       "surface": "שפתיה",
@@ -50,31 +50,31 @@
     },
     {
       "surface": "לנדריה",
-      "gloss": "kwa nadiri zake"
+      "gloss": "kuhusu ahadi zake"
     },
     {
       "surface": "ולאסר",
-      "gloss": "na kwa fungamano la"
+      "gloss": "au kuhusu kizuizi"
     },
     {
       "surface": "נפשה",
-      "gloss": "nafsi yake"
+      "gloss": "cha nafsi yake"
     },
     {
       "surface": "לא",
-      "gloss": "sio"
+      "gloss": "si"
     },
     {
       "surface": "יקום",
-      "gloss": "hakitarudi"
+      "gloss": "hakitasimama"
     },
     {
       "surface": "אישה",
-      "gloss": "mume wake"
+      "gloss": "mumewe"
     },
     {
       "surface": "הפרם",
-      "gloss": "amezibatiliza"
+      "gloss": "amezifuta"
     },
     {
       "surface": "ויהוה",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "לה",
-      "gloss": "mwake"
+      "gloss": "yeye"
     }
   ],
-  "timestamp": "2026-08-10T10:51:45.166727909Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:17.415346039Z",
+  "model": "glm-5.3"
 }

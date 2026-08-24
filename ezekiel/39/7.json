@@ -5,20 +5,20 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 39,
-  "translation": "⟨וְאֶת⟩ ⟨את⟩ jina langu takatifu nitafanya lijulikane kati ya taifa langu Yisraeli, wala sitakitia mtaku ⟨את⟩ jina langu takatifu tena; mataifa yatajua ya kwamba mimi ni Yahweh, mtakatifu, ndani ya Yisraeli.",
+  "translation": "Na ⟨את⟩ jina langu takatifu nitafanya lijulikane katikati ya watu wangu Yisrael, na sitauffa tena ⟨את⟩ jina langu takatifu, na mataifa watayajua kwamba mimi ndimi Yahweh, Mtakatifu, nipo katika Yisrael.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "jina"
+      "marks": "jina langu takatifu"
     },
     {
       "surface": "שם",
-      "gloss": "jina"
+      "gloss": "jina langu takatifu"
     },
     {
       "surface": "קדשי",
-      "gloss": "langu takatifu"
+      "gloss": "takatifu langu"
     },
     {
       "surface": "אודיע",
@@ -26,36 +26,36 @@
     },
     {
       "surface": "בתוך",
-      "gloss": "kati ya"
+      "gloss": "katikati ya"
     },
     {
       "surface": "עמי",
-      "gloss": "taifa langu"
+      "gloss": "watu wangu"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraeli"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ולא",
-      "gloss": "wala sitakitia mtaku"
+      "gloss": "na sita-"
     },
     {
       "surface": "אחל",
-      "gloss": "mtaku"
+      "gloss": "-auffa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jina"
+      "marks": "jina langu takatifu"
     },
     {
       "surface": "שם",
-      "gloss": "jina"
+      "gloss": "jina langu takatifu"
     },
     {
       "surface": "קדשי",
-      "gloss": "langu takatifu"
+      "gloss": "takatifu langu"
     },
     {
       "surface": "עוד",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "וידעו",
-      "gloss": "yatajua"
+      "gloss": "na watayajua"
     },
     {
       "surface": "הגוים",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "ya kwamba"
+      "gloss": "kwamba"
     },
     {
       "surface": "אני",
@@ -79,17 +79,17 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ni Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "קדוש",
-      "gloss": "mtakatifu"
+      "gloss": "Mtakatifu"
     },
     {
       "surface": "בישראל",
-      "gloss": "ndani ya Yisraeli"
+      "gloss": "katika Yisrael"
     }
   ],
-  "timestamp": "2026-08-10T12:37:14.248752678Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:09.711711427Z",
+  "model": "glm-5.3"
 }

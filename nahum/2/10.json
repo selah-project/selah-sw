@@ -5,11 +5,11 @@
   "book": "nahum",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Plunderi ⟨⟨ fedha, plunderi ⟩⟩ dhahabu, wala hakuna mwisho kwa wingi wake, uzito wa kila chombo cha kupendezwa.",
+  "translation": "Chungeni fedha, chungeni dhahabu, wala hakuna mwisho wa ⟨the⟩ akiba, utukufu kutoka kwa vyombo vyote vya kifahari.",
   "tokens": [
     {
       "surface": "בזו",
-      "gloss": "Plunderi"
+      "gloss": "chungeni"
     },
     {
       "surface": "כסף",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בזו",
-      "gloss": "plunderi"
+      "gloss": "chungeni"
     },
     {
       "surface": "זהב",
@@ -33,25 +33,25 @@
     },
     {
       "surface": "לתכונה",
-      "gloss": "kwa wingi wake"
+      "gloss": "wa akiba"
     },
     {
       "surface": "כבד",
-      "gloss": "uzito"
+      "gloss": "utukufu"
     },
     {
       "surface": "מכל",
-      "gloss": "wa kila"
+      "gloss": "kutoka kwa vyote"
     },
     {
       "surface": "כלי",
-      "gloss": "chombo"
+      "gloss": "vyombo"
     },
     {
       "surface": "חמדה",
-      "gloss": "cha kupendezwa"
+      "gloss": "vya kifahari"
     }
   ],
-  "timestamp": "2026-08-10T15:22:09.461585877Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:38.545289691Z",
+  "model": "glm-5.3"
 }

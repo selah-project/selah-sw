@@ -5,20 +5,20 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 11,
-  "translation": "Basi mkiweka ⟨את⟩ maneno haya ya moyoni mwenu, na juu ya nafsi yenu; mkafunga ⟨אתם⟩ kuwa ishara juu ya mikono yenu, nayo yakuwa vikomeo kati ya macho yenu.",
+  "translation": "Mkiweka ⟨את⟩ maneno yangu haya juu ya moyo wenu na juu ya nafsi yenu, na mkazifunga kwa ishara juu ya mkono wenu, na ziwe totafot kati ya macho yenu.",
   "tokens": [
     {
       "surface": "ושמתם",
-      "gloss": "Basi mkiweka"
+      "gloss": "mkiweka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "maneno haya"
+      "marks": "maneno yangu haya"
     },
     {
       "surface": "דברי",
-      "gloss": "maneno haya"
+      "gloss": "maneno yangu"
     },
     {
       "surface": "אלה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "לבבכם",
-      "gloss": "moyoni mwenu"
+      "gloss": "moyo wenu"
     },
     {
       "surface": "ועל",
@@ -42,16 +42,16 @@
     },
     {
       "surface": "וקשרתם",
-      "gloss": "mkafunga"
+      "gloss": "na mkazifunga"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "kuwa ishara"
+      "gloss": "⟨את⟩",
+      "marks": "ishara"
     },
     {
       "surface": "לאות",
-      "gloss": "kuwa ishara"
+      "gloss": "kwa ishara"
     },
     {
       "surface": "על",
@@ -59,15 +59,15 @@
     },
     {
       "surface": "ידכם",
-      "gloss": "mikono yenu"
+      "gloss": "mkono wenu"
     },
     {
       "surface": "והיו",
-      "gloss": "nayo yakuwa"
+      "gloss": "na ziwe"
     },
     {
       "surface": "לטוטפת",
-      "gloss": "vikomeo"
+      "gloss": "totafot"
     },
     {
       "surface": "בין",
@@ -78,6 +78,6 @@
       "gloss": "macho yenu"
     }
   ],
-  "timestamp": "2026-08-10T10:56:42.040294234Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:52.915235878Z",
+  "model": "glm-5.3"
 }

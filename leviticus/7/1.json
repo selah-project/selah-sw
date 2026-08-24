@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Na hii ni torati ya ⟨האשׁם⟩: takatifu ya vitu takatifu ⟨ni⟩.",
+  "translation": "Na hii ndiyo torati ya ⟨ה⟩ dhabihu ya makosa: ni kitakatifu cha vitakatifu ⟨ni⟩.",
   "tokens": [
     {
       "surface": "וזאת",
@@ -13,25 +13,25 @@
     },
     {
       "surface": "תורת",
-      "gloss": "ni torati ya"
+      "gloss": "torati ya"
     },
     {
       "surface": "האשם",
-      "gloss": "ya ⟨האשׁם⟩"
+      "gloss": "dhabihu ya makosa"
     },
     {
       "surface": "קדש",
-      "gloss": "takatifu"
+      "gloss": "kitakatifu"
     },
     {
       "surface": "קדשים",
-      "gloss": "ya vitu takatifu"
+      "gloss": "cha vitakatifu"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨ni⟩"
+      "gloss": "ni"
     }
   ],
-  "timestamp": "2026-08-10T10:31:47.088184039Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:55.077135418Z",
+  "model": "glm-5.3"
 }

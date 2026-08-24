@@ -5,15 +5,15 @@
   "book": "job",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Na ilikuwa siku moja, wana wa ⟨האלהים⟩ wakaja kujitenga mbele ya Yahweh, na hashatani akaja pia kati yao.",
+  "translation": "Ikawa siku moja, wana wa Elohim wakaja kujitokeza mbele za Yahweh, na Shetani naye akaja katikati yao.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "na ilikuwa"
+      "gloss": "ikawa"
     },
     {
       "surface": "היום",
-      "gloss": "siku moja"
+      "gloss": "siku"
     },
     {
       "surface": "ויבאו",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "בני",
-      "gloss": "wana"
+      "gloss": "wana wa"
     },
     {
       "surface": "האלהים",
-      "gloss": "wa Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "להתיצב",
-      "gloss": "kujitenga mbele"
+      "gloss": "kujitokeza mbele"
     },
     {
       "surface": "על",
-      "gloss": "mbele ya"
+      "gloss": "mbele za"
     },
     {
       "surface": "יהוה",
@@ -45,17 +45,17 @@
     },
     {
       "surface": "גם",
-      "gloss": "pia"
+      "gloss": "naye pia"
     },
     {
       "surface": "השטן",
-      "gloss": "hashatani"
+      "gloss": "Shetani"
     },
     {
       "surface": "בתוכם",
-      "gloss": "kati yao"
+      "gloss": "katikati yao"
     }
   ],
-  "timestamp": "2026-08-10T13:31:14.769616357Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:23.449961690Z",
+  "model": "glm-5.3"
 }

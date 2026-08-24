@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Na akamvika nguo ya kitani, akamfunga ⟨אתו⟩ kwa ukanda, na akamvika ⟨את⟩ joho, na akuvitia juu yake ⟨את⟩ efodi; na akamfunga ⟨אתו⟩ kwa kipuli kilichochorwa cha efodi, na akamfungia kwa hicho.",
+  "translation": "Akamvika ⟨את⟩ kanzu, akamfunga kwa ukanda wa kiuno, akamvika ⟨את⟩ juba, akamwekea ⟨את⟩ ephodi, akamfunga kwa utepe wa kazi bora wa ephodi, na kwa huo akamfungia.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "Na akamvika"
+      "gloss": "Akamvika"
     },
     {
       "surface": "עליו",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nguo ya kitani"
+      "marks": "kanzu"
     },
     {
       "surface": "הכתנת",
-      "gloss": "nguo ya kitani"
+      "gloss": "kanzu"
     },
     {
       "surface": "ויחגר",
@@ -30,34 +30,34 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "Aharon"
+      "gloss": "⟨את⟩ yake",
+      "marks": "ukanda wa kiuno"
     },
     {
       "surface": "באבנט",
-      "gloss": "kwa ukanda"
+      "gloss": "kwa ukanda wa kiuno"
     },
     {
       "surface": "וילבש",
-      "gloss": "na akamvika"
+      "gloss": "akamvika"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "Aharon"
+      "gloss": "⟨את⟩ yake",
+      "marks": "juba"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "joho"
+      "marks": "juba"
     },
     {
       "surface": "המעיל",
-      "gloss": "joho"
+      "gloss": "juba"
     },
     {
       "surface": "ויתן",
-      "gloss": "na akuvitia"
+      "gloss": "akamwekea"
     },
     {
       "surface": "עליו",
@@ -66,42 +66,42 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "efodi"
+      "marks": "ephodi"
     },
     {
       "surface": "האפד",
-      "gloss": "efodi"
+      "gloss": "ephodi"
     },
     {
       "surface": "ויחגר",
-      "gloss": "na akamfunga"
+      "gloss": "akamfunga"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "Aharon"
+      "gloss": "⟨את⟩ yake",
+      "marks": "utepe wa ephodi"
     },
     {
       "surface": "בחשב",
-      "gloss": "kwa kipuli kilichochorwa"
+      "gloss": "kwa utepe wa kazi bora"
     },
     {
       "surface": "האפד",
-      "gloss": "cha efodi"
+      "gloss": "wa ephodi"
     },
     {
       "surface": "ויאפד",
-      "gloss": "na akamfungia"
+      "gloss": "akamfungia"
     },
     {
       "surface": "לו",
-      "gloss": "yeye"
+      "gloss": "yake"
     },
     {
       "surface": "בו",
-      "gloss": "kwa hicho"
+      "gloss": "kwa huo"
     }
   ],
-  "timestamp": "2026-08-10T10:33:06.707495342Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:22.803129807Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "sw",
   "chapter": 24,
-  "translation": "Basi Balaki mwana wa Tsipori, mfalme wa Moabu, akasimama akapigana na Yisraeli, akamtuma akamwita Bileamu mwana wa Beori ili akulaani ⟨את׾enu⟩.",
+  "translation": "Kisha Balak mwana wa Tsipor, mfalme wa Moavu, akasimama akapigana na Yisraeli, akatuma akamwita Bileam mwana wa Beori, ili ale ⟨את⟩ ⟨אתכם⟩.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בלק",
-      "gloss": "Balaki"
+      "gloss": "Balak"
     },
     {
       "surface": "בן",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "צפור",
-      "gloss": "wa Tsipori"
+      "gloss": "wa Tsipor"
     },
     {
       "surface": "מלך",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מואב",
-      "gloss": "wa Moabu"
+      "gloss": "wa Moavu"
     },
     {
       "surface": "וילחם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "akamtuma"
+      "gloss": "akatuma"
     },
     {
       "surface": "ויקרא",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לבלעם",
-      "gloss": "Bileamu"
+      "gloss": "Bileam"
     },
     {
       "surface": "בן",
@@ -61,14 +61,14 @@
     },
     {
       "surface": "לקלל",
-      "gloss": "ili akulaani"
+      "gloss": "ili ale"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את׾enu⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "ninyi"
     }
   ],
-  "timestamp": "2026-08-10T15:59:17.703101162Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.383735516Z",
+  "model": "glm-5.3"
 }

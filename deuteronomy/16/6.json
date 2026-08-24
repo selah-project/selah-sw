@@ -5,90 +5,90 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 16,
-  "translation": " Bali katika ⟨the⟩ mahali ambapo Yahweh Elohim wako atachagua ili jina lake likakae, huko utachinjwa ⟨את⟩ Pasaka jioni, wakati wa kuingia ⟨wa⟩ jua, wakati ⟨ulioteuliwa⟩ wa kuwepo kwako kutoka Mitsrayim.",
+  "translation": "Bali katika mahali atakapochagua Yahweh Elohim wako akae jina lake, huko utachinja ⟨את⟩ Pasaka jioni, wakati machweo ya jua, wakati uliotoka Mitsrayim.",
   "tokens": [
     {
-      "surface": "כִּי",
-      "gloss": "Bali"
+      "surface": "כי",
+      "gloss": " Bali"
     },
     {
-      "surface": "אִם",
-      "gloss": ""
+      "surface": "אם",
+      "gloss": "bali"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "gloss": "katika"
     },
     {
-      "surface": "הַמָּקוֹם",
-      "gloss": "⟨the⟩ mahali"
+      "surface": "המקום",
+      "gloss": "mahali"
     },
     {
-      "surface": "אֲשֶׁר",
-      "gloss": "ambapo"
+      "surface": "אשר",
+      "gloss": "atakapochagua"
     },
     {
-      "surface": "יִבְחַר",
-      "gloss": "atachagua"
+      "surface": "יבחר",
+      "gloss": "atakapochagua"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "אֱלֹהֶיךָ",
+      "surface": "אלהיך",
       "gloss": "Elohim wako"
     },
     {
-      "surface": "לְשַׁכֵּן",
-      "gloss": "ili likakae"
+      "surface": "לשכן",
+      "gloss": "akae"
     },
     {
-      "surface": "שְׁמוֹ",
+      "surface": "שמו",
       "gloss": "jina lake"
     },
     {
-      "surface": "שָׁם",
+      "surface": "שם",
       "gloss": "huko"
     },
     {
-      "surface": "תִּזְבַּח",
-      "gloss": "utachinjwa"
+      "surface": "תזבח",
+      "gloss": "utachinja"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "Pasaka"
     },
     {
-      "surface": "הַפֶּסַח",
+      "surface": "הפסח",
       "gloss": "Pasaka"
     },
     {
-      "surface": "בָּעָרֶב",
+      "surface": "בערב",
       "gloss": "jioni"
     },
     {
-      "surface": "כְּבֹוא",
-      "gloss": "wakati wa kuingia"
+      "surface": "כבוא",
+      "gloss": "wakati machweo"
     },
     {
-      "surface": "הַשֶּׁמֶשׁ",
-      "gloss": "⟨wa⟩ jua"
+      "surface": "השמש",
+      "gloss": "ya jua"
     },
     {
-      "surface": "מוֹעֵד",
-      "gloss": "wakati ⟨ulioteuliwa⟩"
+      "surface": "מועד",
+      "gloss": "wakati"
     },
     {
-      "surface": "צֵאתְךָ",
-      "gloss": "wa kuwepo kwako kutoka"
+      "surface": "צאתך",
+      "gloss": "uliotoka"
     },
     {
-      "surface": "מִמִּצְרָיִם",
+      "surface": "ממצרים",
       "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-10T10:58:20.469358262Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:27.805106422Z",
+  "model": "glm-5.3"
 }

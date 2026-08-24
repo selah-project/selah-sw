@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 27,
-  "translation": "Na mtu wala mwanamke David hakumwacha hai ⟨כדי⟩ aletwe Gathi, akisema: Wasitue taarifa juu yetu, wakisema: Hivi ndivyo David alivyofanya, na hivi ndivyo destiri yake, siku zote alizoishi katika nchi ya Wapelishti.",
+  "translation": "Na Davidi hakuacha mtu wala mwanamke aliye hai, ⟨ili kumleta⟩ Gath, akisema, Asije watu wakasema juu yetu, wakisema, Hivi ndivyo Davidi alivyofanya, na hivi ndivyo desturi yake, siku zote alizoishi katika nchi ya Wafilisti.",
   "tokens": [
     {
       "surface": "ואיש",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "לא",
-      "gloss": "hakumwacha"
+      "gloss": "hakuacha"
     },
     {
       "surface": "יחיה",
-      "gloss": "hai"
+      "gloss": "aliye hai"
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "Davidi"
     },
     {
       "surface": "להביא",
-      "gloss": "aletwe"
+      "gloss": "⟨ili kumleta⟩"
     },
     {
       "surface": "גת",
-      "gloss": "Gathi"
+      "gloss": "Gath"
     },
     {
       "surface": "לאמר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "פן",
-      "gloss": "Wasitue"
+      "gloss": "Asije"
     },
     {
       "surface": "יגדו",
-      "gloss": "taarifa"
+      "gloss": "wakasema"
     },
     {
       "surface": "עלינו",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "Davidi"
     },
     {
       "surface": "וכה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "משפטו",
-      "gloss": "destiri yake"
+      "gloss": "desturi yake"
     },
     {
       "surface": "כל",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "הימים",
-      "gloss": "⟨siku⟩"
+      "gloss": "siku"
     },
     {
       "surface": "אשר",
@@ -89,17 +89,17 @@
     },
     {
       "surface": "ישב",
-      "gloss": "katika"
+      "gloss": "aliishi"
     },
     {
       "surface": "בשדה",
-      "gloss": "nchi"
+      "gloss": "katika nchi"
     },
     {
       "surface": "פלשתים",
-      "gloss": "ya Wapelishti"
+      "gloss": "ya Wafilisti"
     }
   ],
-  "timestamp": "2026-08-10T16:01:11.820548296Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:04:16.513062787Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 35,
-  "translation": "Elohim akamwambia: «Jina lako ni Ya'akov; jina lako sitaita tena Ya'akov, bali Yisra'eli ndilo litakalokuwa jina lako.» Akaita ⟨את⟩ jina lake Yisra'eli.",
+  "translation": "Na Elohim akamwambia: Jina lako ni Yaaqov; jina lako halitaitikana tena Yaaqov, bali Yisraeli ndiyo litakalokuwa jina lako. Naye akaita ⟨את⟩ jina lake Yisraeli.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "kwake"
+      "gloss": "mwenyewe"
     },
     {
       "surface": "אלהים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "יעקב",
-      "gloss": "Ya'akov"
+      "gloss": "Yaaqov"
     },
     {
       "surface": "לא",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "יקרא",
-      "gloss": "[lazima] itaitwa"
+      "gloss": "litaitikana"
     },
     {
       "surface": "שמך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "יעקב",
-      "gloss": "Ya'akov"
+      "gloss": "Yaaqov"
     },
     {
       "surface": "כי",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "אם",
-      "gloss": "⟨⟨ (kiunganishi) ⟩⟩"
+      "gloss": "isipokuwa"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'eli"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "יהיה",
-      "gloss": "litakuwa"
+      "gloss": "litakalokuwa"
     },
     {
       "surface": "שמך",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "akaita"
+      "gloss": "naye akaita"
     },
     {
       "surface": "את",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'eli"
+      "gloss": "Yisraeli"
     }
   ],
-  "timestamp": "2026-08-10T15:50:41.715117922Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:56.656637790Z",
+  "model": "glm-5.3"
 }

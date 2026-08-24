@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Mwasemaaje: 'Sisi ni wenye hekima, na tora ⟨⟨את⟩⟩ ya Yahweh ⟨i⟩⟨ko⟩ pamoja nasi?' Hakika tazama, kwa uongo kazi ya kalamu ya uongo ya waandishi.",
+  "translation": "Vipi mnasema, «Sisi ni wenye hekima, na Torati ya Yahweh ⟨ni⟩ ⟨את⟩ ⟨na sisi⟩?» Hakika, tazama, kwa uongo alifanya kalamu ya uongo ya maktabari.",
   "tokens": [
     {
       "surface": "איכה",
-      "gloss": "Mwasemaaje"
+      "gloss": "Vipi"
     },
     {
       "surface": "תאמרו",
-      "gloss": "Mwasemaaje"
+      "gloss": "mnasema"
     },
     {
       "surface": "חכמים",
@@ -21,23 +21,24 @@
     },
     {
       "surface": "אנחנו",
-      "gloss": "Sisi"
+      "gloss": "sisi"
     },
     {
       "surface": "ותורת",
-      "gloss": "na tora"
+      "gloss": "na Torati"
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ pamoja nasi"
+      "gloss": "⟨את⟩ ⟨na sisi⟩",
+      "marks": "Torati ya Yahweh — hapa ni kihusishi 'pamoja nasi', si alama ya kitenzi"
     },
     {
       "surface": "אכן",
-      "gloss": "Hakika"
+      "gloss": "hakika"
     },
     {
       "surface": "הנה",
@@ -49,7 +50,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "kazi ya"
+      "gloss": "alifanya"
     },
     {
       "surface": "עט",
@@ -61,9 +62,9 @@
     },
     {
       "surface": "ספרים",
-      "gloss": "ya waandishi"
+      "gloss": "ya maktabari"
     }
   ],
-  "timestamp": "2026-08-10T12:12:47.350695155Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:26.733254160Z",
+  "model": "glm-5.3"
 }

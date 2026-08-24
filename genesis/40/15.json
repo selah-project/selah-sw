@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 40,
-  "translation": "Kwa maana niliibiwa kwa njia ya wizi kutoka katika nchi ya Waibria, na hata hapa sikufanya chochote, maana wameniweka ⟨את⟩ ⟨⟨⟨ shimo (dungeon) .",
+  "translation": "Kwa maana niliibiwa kwa kweli kutoka nchi ya Haivri, na hata hapa sikufanya chochete, ndipo wakanitia ⟨את⟩ mimi kwenye shimo.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "גנב",
-      "gloss": "kwa njia ya wizi"
+      "gloss": "kwa kweli (ibiwa)"
     },
     {
       "surface": "גנבתי",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "מארץ",
-      "gloss": "dutoka katika nchi"
+      "gloss": "kutoka nchi"
     },
     {
       "surface": "העברים",
-      "gloss": "ya Waibria"
+      "gloss": "ya Haivri"
     },
     {
       "surface": "וגם",
@@ -37,34 +37,34 @@
     },
     {
       "surface": "לא",
-      "gloss": "sina"
+      "gloss": "si"
     },
     {
       "surface": "עשיתי",
-      "gloss": "kufanya"
+      "gloss": "kufanya (nikafanya)"
     },
     {
       "surface": "מאומה",
-      "gloss": "chochote"
+      "gloss": "chochete"
     },
     {
       "surface": "כי",
-      "gloss": "maana"
+      "gloss": "ndipo"
     },
     {
       "surface": "שמו",
-      "gloss": "wameniweka"
+      "gloss": "wakanitia"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "shimo"
+      "marks": "mimi"
     },
     {
       "surface": "בבור",
-      "gloss": "shimo"
+      "gloss": "kwenye shimo"
     }
   ],
-  "timestamp": "2026-08-10T10:13:04.634444820Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:07.172507700Z",
+  "model": "glm-5.3"
 }

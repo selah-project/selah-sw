@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 26,
-  "translation": "Na utatuma dira za nyusi ⟨za⟩ mbuzi kuwa hema juu ya hema; dira kumi na moja utazitengeneza ⟨אתם⟩.",
+  "translation": "Utatengeneza mashuka ya nywele za mbuzi kuwa hema juu ya maskani; mashuka kumi na moja ndiyo utakayotengeneza ⟨את⟩.",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "Na utatuma"
+      "gloss": "Utatengeneza"
     },
     {
       "surface": "יריעת",
-      "gloss": "dira"
+      "gloss": "mashuka"
     },
     {
       "surface": "עזים",
-      "gloss": "za mbuzi"
+      "gloss": "ya nywele za mbuzi"
     },
     {
       "surface": "לאהל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "hema"
+      "gloss": "maskani"
     },
     {
       "surface": "עשתי",
@@ -41,18 +41,18 @@
     },
     {
       "surface": "יריעת",
-      "gloss": "dira"
+      "gloss": "mashuka"
     },
     {
       "surface": "תעשה",
-      "gloss": "utazitengeneza"
+      "gloss": "utakayotengeneza"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "dira"
+      "gloss": "⟨את⟩",
+      "marks": "mashuka kumi na moja"
     }
   ],
-  "timestamp": "2026-08-10T10:25:35.061108913Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:53.275747555Z",
+  "model": "glm-5.3"
 }

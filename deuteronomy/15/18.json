@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 15,
-  "translation": "Isiwe ngumu machoni pako unapotuma ⟨אתו⟩ uhuru kutoka kwako, kwa kuwa mshahara mara mbili wa jili wa kuajiriwa ametumikia wewe miaka sita; na Yahweh Elohim wako atakubariki katika kila kitu unachofanya.",
+  "translation": "Isiwe ngumu machoni pako wakati unamwacha kwenda huru kutoka kwako, kwa maana amekutumikia miaka sita kwa mshahara mara mbili wa mjumuishi; na Yahweh, Elohim wako, atakubarika katika kila unachofanya.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "si"
+      "gloss": "isiwe"
     },
     {
       "surface": "יקשה",
-      "gloss": "itakuwa ngumu"
+      "gloss": "ngumu"
     },
     {
       "surface": "בעינך",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "בשלחך",
-      "gloss": "unapotuma"
+      "gloss": "wakati unamwacha kwenda"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "uhuru"
+      "gloss": "⟨את⟩",
+      "marks": "yeye (mtumwa anayeachwa huru)"
     },
     {
       "surface": "חפשי",
-      "gloss": "uhuru"
+      "gloss": "huru"
     },
     {
       "surface": "מעמך",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "kwa kuwa"
+      "gloss": "kwa maana"
     },
     {
       "surface": "משנה",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "שכיר",
-      "gloss": "wa jili wa kuajiriwa"
+      "gloss": "wa mjumuishi"
     },
     {
       "surface": "עבדך",
-      "gloss": "mtumwa wako ametumikia"
+      "gloss": "amekutumikia"
     },
     {
       "surface": "שש",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "וברכך",
-      "gloss": "na atakubariki"
+      "gloss": "na atakubarika"
     },
     {
       "surface": "יהוה",
@@ -82,13 +82,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambacho"
+      "gloss": "unachofanya"
     },
     {
       "surface": "תעשה",
-      "gloss": "unafanya"
+      "gloss": "unachofanya"
     }
   ],
-  "timestamp": "2026-08-10T10:58:25.836061246Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:23.647168577Z",
+  "model": "glm-5.3"
 }

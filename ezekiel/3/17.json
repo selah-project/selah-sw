@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Mwana wa adamu, mlinzi nimekuweka kwa ⟨את⟩ nyumba ya Yisra'el, na utasikia kutoka kinywani mwangu neno, na utawaonya ⟨⟨את⟩⟩ kutoka kwangu.",
+  "translation": "Mwana wa adamu, mlinzi nimekuweka wewe kwa nyumba ya Yisra'el, nawe utasikia kutoka kinywani mwangu neno, nawe utawaonya ⟨את⟩ wao ⟨kutoka kwangu⟩.",
   "tokens": [
     {
       "surface": "בן",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "נתתיך",
-      "gloss": "nimekuweka"
+      "gloss": "nimekuweka wewe"
     },
     {
       "surface": "לבית",
-      "gloss": "kwa"
+      "gloss": "kwa nyumba ya"
     },
     {
       "surface": "ישראל",
-      "gloss": "nyumba ya Yisra'el"
+      "gloss": "Yisra'el"
     },
     {
       "surface": "ושמעת",
-      "gloss": "na utasikia"
+      "gloss": "nawe utasikia"
     },
     {
       "surface": "מפי",
@@ -45,18 +45,17 @@
     },
     {
       "surface": "והזהרת",
-      "gloss": "na utawaonya"
+      "gloss": "nawe utawaonya"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "wao"
+      "gloss": "⟨את⟩ wao"
     },
     {
       "surface": "ממני",
-      "gloss": "kutoka kwangu"
+      "gloss": "⟨kutoka kwangu⟩"
     }
   ],
-  "timestamp": "2026-08-10T12:27:34.282184025Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:19.540443225Z",
+  "model": "glm-5.3"
 }

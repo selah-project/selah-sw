@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Kumbuka, tafadhali, ⟨את⟩ neno ambalo ulimkuamrisha ⟨את⟩ Moshe mtumishi wako, ukisema: Ninyi mtakhiini, mimi nitawatawanya ⟨אתכם⟩ kati ya mataifa.",
+  "translation": "Kumbuka, tafadhali, ⟨את⟩ neno uliloweka amri את Moshe mtumwa wako, ukisema: Mkitenda uasi, mimi nitawatawanyanya ⟨את⟩ ⟨אתכם⟩ miongoni mwa mataifa.",
   "tokens": [
     {
       "surface": "זכר",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambalo"
+      "gloss": "ulilo"
     },
     {
       "surface": "צוית",
-      "gloss": "ulimkuamrisha"
+      "gloss": "uliweka amri"
     },
     {
       "surface": "את",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "mtumishi wako"
+      "gloss": "mtumwa wako"
     },
     {
       "surface": "לאמר",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "אתם",
-      "gloss": "Ninyi"
+      "gloss": "Mki-"
     },
     {
       "surface": "תמעלו",
-      "gloss": "mtakhiini"
+      "gloss": "-tenda uasi"
     },
     {
       "surface": "אני",
@@ -63,18 +63,17 @@
     },
     {
       "surface": "אפיץ",
-      "gloss": "nitawatawanya"
+      "gloss": "nitawatawanyanya"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "kati ya mataifa"
+      "gloss": "⟨את⟩ ⟨אתכם⟩"
     },
     {
       "surface": "בעמים",
-      "gloss": "kati ya mataifa"
+      "gloss": "miongoni mwa mataifa"
     }
   ],
-  "timestamp": "2026-08-10T13:58:45.087869922Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.371968982Z",
+  "model": "glm-5.3"
 }

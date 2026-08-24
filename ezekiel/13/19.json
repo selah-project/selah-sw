@@ -5,16 +5,16 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Na mmenichafua ⟨⟨את⟩⟩ kati ya taifa langu kwa mipogo ya shayiri na kwa vipande vya mkate, ili kuua nafsi ambazo hazifai kufa, na kuzihuisha nafsi ambazo hazifai kuishi, kwa kuwa mnasema uongo kwa taifa langu wanaosikia uongo.",
+  "translation": "Mnadhalilisha ⟨את⟩ mimi ⟨את⟩ kati ya watu wangu kwa machache ya shayiri na vipande vya mkate, ili kuwatia kifo nafsi ambazo hazipaswi kufa, na kuwahuisha nafsi ambazo hazipaswi kuishi, kwa kuongoka uongo wenu kwa watu wangu wasikao uongo.",
   "tokens": [
     {
       "surface": "ותחללנה",
-      "gloss": "Na mmenichafua"
+      "gloss": "mnadhalilisha"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩",
-      "marks": "mimi"
+      "gloss": "⟨את⟩ mimi",
+      "marks": "kwa watu wangu"
     },
     {
       "surface": "אל",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "עמי",
-      "gloss": "taifa langu"
+      "gloss": "watu wangu"
     },
     {
       "surface": "בשעלי",
-      "gloss": "kwa mipogo ya"
+      "gloss": "kwa machache"
     },
     {
       "surface": "שערים",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ובפתותי",
-      "gloss": "na kwa vipande vya"
+      "gloss": "na vipande vya"
     },
     {
       "surface": "לחם",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "להמית",
-      "gloss": "ili kuua"
+      "gloss": "kuwatia kifo"
     },
     {
       "surface": "נפשות",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "hazifai"
+      "gloss": "si"
     },
     {
       "surface": "תמותנה",
-      "gloss": "kufa"
+      "gloss": "hazipaswi kufa"
     },
     {
       "surface": "ולחיות",
-      "gloss": "na kuzihuisha"
+      "gloss": "na kuwahuisha"
     },
     {
       "surface": "נפשות",
@@ -74,29 +74,29 @@
     },
     {
       "surface": "לא",
-      "gloss": "hazifai"
+      "gloss": "si"
     },
     {
       "surface": "תחיינה",
-      "gloss": "kuishi"
+      "gloss": "hazipaswi kuishi"
     },
     {
       "surface": "בכזבכם",
-      "gloss": "kwa kuwa mnasema uongo"
+      "gloss": "kwa uongo wenu"
     },
     {
       "surface": "לעמי",
-      "gloss": "kwa taifa langu"
+      "gloss": "kwa watu wangu"
     },
     {
       "surface": "שמעי",
-      "gloss": "wanaosikia"
+      "gloss": "wasikao"
     },
     {
       "surface": "כזב",
       "gloss": "uongo"
     }
   ],
-  "timestamp": "2026-08-10T12:29:31.841870368Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:40.351618765Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "ruth",
   "lang": "sw",
   "chapter": 4,
-  "translation": "Akauchukua ⟨⟨watu⟩⟩ kumi miongoni mwa wazee wa mji, akasema, ``Keteni hapa.'' Wakaketi.",
+  "translation": "Akachukua watu kumi katika wazee wa ⟨⟨mji⟩⟩, akasema: Kaeni hapa. Nao wakakaa.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Akauchukua"
+      "gloss": "Akachukua"
     },
     {
       "surface": "עשרה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "מזקני",
-      "gloss": "miongoni mwa wazee"
+      "gloss": "katika wazee wa"
     },
     {
       "surface": "העיר",
-      "gloss": "wa mji"
+      "gloss": "mji"
     },
     {
       "surface": "ויאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "שבו",
-      "gloss": "Keteni"
+      "gloss": "Kaeni"
     },
     {
       "surface": "פה",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "Wakaketi"
+      "gloss": "wakakaa"
     }
   ],
-  "timestamp": "2026-08-10T15:36:57.090075585Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:09.668165625Z",
+  "model": "glm-5.3"
 }

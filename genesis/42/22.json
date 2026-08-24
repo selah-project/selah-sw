@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 42,
-  "translation": "Re'uveni akawajibu ⟨אתם⟩ akisema: Je, sikuwenambia kwamba msitende dhambi kuhusu mtoto? Lakini hamkusikia; na damu yake pia, tazama, inadaiwa.",
+  "translation": "Reuveni akawajibu ⟨את⟩ wao akisema: Je, sikawaambia nisema msitende dhambi kwa mtoto, wala hamkusikiliza? na zaidi damu yake — angalia, inadaiwa.",
   "tokens": [
     {
       "surface": "ויען",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "ראובן",
-      "gloss": "Re'uveni"
+      "gloss": "Reuveni"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": " kuwajibu"
+      "marks": "wao"
     },
     {
       "surface": "לאמר",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "je"
+      "gloss": "Je"
     },
     {
       "surface": "אמרתי",
-      "gloss": "sikuwaambia"
+      "gloss": "sikawaambia"
     },
     {
       "surface": "אליכם",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "kwamba"
+      "gloss": "nisema"
     },
     {
       "surface": "אל",
@@ -46,23 +46,23 @@
     },
     {
       "surface": "תחטאו",
-      "gloss": "tende dhambi"
+      "gloss": "tendedhe dhambi"
     },
     {
       "surface": "בילד",
-      "gloss": "kuhusu mtoto"
+      "gloss": "kwa mtoto"
     },
     {
       "surface": "ולא",
-      "gloss": "lakini hamku"
+      "gloss": "wala"
     },
     {
       "surface": "שמעתם",
-      "gloss": "sikia"
+      "gloss": "hamkusikiliza"
     },
     {
       "surface": "וגם",
-      "gloss": "na pia"
+      "gloss": "na zaidi"
     },
     {
       "surface": "דמו",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "הנה",
-      "gloss": "tazama"
+      "gloss": "angalia"
     },
     {
       "surface": "נדרש",
       "gloss": "inadaiwa"
     }
   ],
-  "timestamp": "2026-08-10T10:14:24.430535510Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:19.921672345Z",
+  "model": "glm-5.3"
 }

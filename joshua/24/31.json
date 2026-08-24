@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "sw",
   "chapter": 24,
-  "translation": "Israeli akamtumikia ⟨את⟩ Yahweh siku zote za Yehoshua, na siku zote za wazee wale ambao waliisha siku nyingi baada ya Yehoshua, na ambao walijua ⟨את⟩ kazi yote ya Yahweh ambayo ⟨⟨ aliyefanya kwa Israeli.",
+  "translation": "Na Yisraeli alimtumikia ⟨את⟩ Yahweh siku zote za Yehoshua, na siku zote za wazee waliozidisha siku baada ya Yehoshua, na waliojua ⟨את⟩ kazi zote za Yahweh aliyoifanya kwa Yisraeli.",
   "tokens": [
     {
       "surface": "ויעבד",
-      "gloss": "akamtumikia"
+      "gloss": "Na alimtumikia"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israeli"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "zote za"
+      "gloss": "zote"
     },
     {
       "surface": "ימי",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "na zote za"
+      "gloss": "na zote"
     },
     {
       "surface": "ימי",
@@ -46,19 +46,19 @@
     },
     {
       "surface": "הזקנים",
-      "gloss": "wazee"
+      "gloss": "za wazee"
     },
     {
       "surface": "אשר",
-      "gloss": "ambao"
+      "gloss": "walio"
     },
     {
       "surface": "האריכו",
-      "gloss": "waliisha"
+      "gloss": "waliozidisha"
     },
     {
       "surface": "ימים",
-      "gloss": "siku nyingi"
+      "gloss": "siku"
     },
     {
       "surface": "אחרי",
@@ -70,42 +70,42 @@
     },
     {
       "surface": "ואשר",
-      "gloss": "na ambao"
+      "gloss": "na waliojua"
     },
     {
       "surface": "ידעו",
-      "gloss": "walijua"
+      "gloss": "waliojua"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kazi yote"
+      "marks": "kazi zote"
     },
     {
       "surface": "כל",
-      "gloss": "yote"
+      "gloss": "zote"
     },
     {
       "surface": "מעשה",
-      "gloss": "kazi ya"
+      "gloss": "kazi"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "za Yahweh"
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "aliyoifanya"
     },
     {
       "surface": "עשה",
-      "gloss": "aliyefanya"
+      "gloss": "aliyoifanya"
     },
     {
       "surface": "לישראל",
-      "gloss": "kwa Israeli"
+      "gloss": "kwa Yisraeli"
     }
   ],
-  "timestamp": "2026-08-10T11:12:16.012496450Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:02.358317794Z",
+  "model": "glm-5.3"
 }

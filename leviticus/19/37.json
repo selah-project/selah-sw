@@ -5,56 +5,56 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 19,
-  "translation": "Mlilinde ⟨את⟩ sheria zangu zote na ⟨את⟩ hukumu zangu zote, mfanyazi ⟨אתם⟩; mimi ni Yahweh.",
+  "translation": "Mtazishe ⟨את⟩ sheria zangu zote na ⟨את⟩ hukumu zangu zote, mkazitende; mimi ni Yahweh.",
   "tokens": [
     {
-      "surface": "וּשְׁמַרְתֶּ֤ם",
-      "gloss": "Nalinde"
+      "surface": "ושמרתם",
+      "gloss": "Mtazishe"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "sheria zangu zote"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "zote"
     },
     {
-      "surface": "חֻקֹּתַי֙",
+      "surface": "חקתי",
       "gloss": "sheria zangu"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "na ⟨את⟩",
       "marks": "hukumu zangu zote"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "zote"
     },
     {
-      "surface": "מִשְׁפָּטַ֔י",
+      "surface": "משפטי",
       "gloss": "hukumu zangu"
     },
     {
-      "surface": "וַעֲשִׂיתֶ֖ם",
-      "gloss": "mfanyazi"
+      "surface": "ועשיתם",
+      "gloss": "mkazitende"
     },
     {
-      "surface": "אֹתָ֑ם",
-      "gloss": "⟨אתם⟩",
-      "marks": "zile"
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hukumu zangu zote"
     },
     {
-      "surface": "אֲנִ֖י",
+      "surface": "אני",
       "gloss": "mimi"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T10:36:24.909966539Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:03.856979746Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 62,
-  "translation": "Hakika kwa Elohim, ene nafsi yangu, nyamaza; kwa kuwa kutoka kwake ⟨⟨huoko⟩⟩ matumaini yangu.",
+  "translation": "Tu, kwa Elohim pekee, nafsi yangu, kimya; kwa kuwa kutoka kwake ⟨ndiyo⟩ matumaini yangu.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "hakika"
+      "gloss": "tu"
     },
     {
       "surface": "לאלהים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "דומי",
-      "gloss": "nyamaza"
+      "gloss": "kimya"
     },
     {
       "surface": "נפשי",
@@ -36,6 +36,6 @@
       "gloss": "matumaini yangu"
     }
   ],
-  "timestamp": "2026-08-10T13:05:13.474758263Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:48.760284560Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 19,
-  "translation": "bas iumaze wa mji wake watamtuma, wakamchukua ⟨אתו⟩ kutoka huko, wakamkabidhi ⟨אתו⟩ mkononi mwa mlipizi wa damu, naye kafa.",
+  "translation": "ndio wazee wa mji wake watapeleka ⟨אתו⟩ watamchukua kutoka huko, na watamtoa ⟨אתו⟩ mkononi mwa goel wa damu, naye afi.",
   "tokens": [
     {
       "surface": "ושלחו",
-      "gloss": "watamtuma"
+      "gloss": "watapeleka"
     },
     {
       "surface": "זקני",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "עירו",
-      "gloss": "wa mji wake"
+      "gloss": "mji wake"
     },
     {
       "surface": "ולקחו",
-      "gloss": "wakamchukua"
+      "gloss": "watamchukua"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "naye (mtu yule)"
+      "gloss": "⟨את⟩",
+      "marks": "yeye (muuaji)"
     },
     {
       "surface": "משם",
@@ -34,20 +34,20 @@
     },
     {
       "surface": "ונתנו",
-      "gloss": "wakamkabidhi"
+      "gloss": "watamtoa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "naye (mtu yule)"
+      "gloss": "⟨את⟩",
+      "marks": "yeye (mkononi)"
     },
     {
       "surface": "ביד",
-      "gloss": "mkononi mwa"
+      "gloss": "mkononi"
     },
     {
       "surface": "גאל",
-      "gloss": "mlipizi"
+      "gloss": "goel"
     },
     {
       "surface": "הדם",
@@ -55,9 +55,9 @@
     },
     {
       "surface": "ומת",
-      "gloss": "naye kafa"
+      "gloss": "afi"
     }
   ],
-  "timestamp": "2026-08-10T15:57:45.234119614Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:23.645037861Z",
+  "model": "glm-5.3"
 }

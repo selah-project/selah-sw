@@ -5,40 +5,40 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Na hawa ni majina ya ⟨the⟩ wanaume ambao watasimama ⟨אתם⟩ pamoja nanyi: kwa Re'uveni, Elitsuri mwana wa Shedeiuri.",
+  "translation": "Na hivi ndio majina ya ⟨ה⟩wanaume watakaosimama ⟨את⟩ pamoja nanyi: kwa Reuveni, Elitsur mwana wa Shedeuri.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "Na hawa"
+      "gloss": "Na hivi"
     },
     {
       "surface": "שמות",
-      "gloss": "ni majina"
+      "gloss": "majina"
     },
     {
       "surface": "האנשים",
-      "gloss": "ya wanaume"
+      "gloss": "⟨ה⟩wanaume"
     },
     {
       "surface": "אשר",
-      "gloss": "ambao"
+      "gloss": "watakaosimama"
     },
     {
       "surface": "יעמדו",
-      "gloss": "watasimama"
+      "gloss": "watakaosimama"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתם⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩ pamoja nanyi",
+      "marks": "nanyi"
     },
     {
       "surface": "לראובן",
-      "gloss": "kwa Re'uveni"
+      "gloss": "kwa Reuveni"
     },
     {
       "surface": "אליצור",
-      "gloss": "Elitsuri"
+      "gloss": "Elitsur"
     },
     {
       "surface": "בן",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "שדיאור",
-      "gloss": "wa Shedeiuri"
+      "gloss": "wa Shedeuri"
     }
   ],
-  "timestamp": "2026-08-10T10:38:52.915421127Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:20.102897897Z",
+  "model": "glm-5.3"
 }

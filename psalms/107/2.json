@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 107,
-  "translation": "Wasemao ⟨ni⟩ waliokombolewa wa Yahweh, ambao ⟨⟨yeye⟩⟩ aliwakomboa kutoka mkononi mwa ⟨⟨adui⟩⟩.",
+  "translation": "Na waliokombolewa wa Yahweh walisema ⟨hivyo⟩, ambao aliwakomboa kutoka mkononi mwa adui.",
   "tokens": [
     {
-      "surface": "יֹ֭אמְרוּ",
-      "gloss": "Wasemao"
+      "surface": "יאמרו",
+      "gloss": "walisema"
     },
     {
-      "surface": "גְּאוּלֵ֣י",
+      "surface": "גאולי",
       "gloss": "waliokombolewa"
     },
     {
-      "surface": "יְהוָ֑ה",
-      "gloss": "wa Yahweh"
+      "surface": "יהוה",
+      "gloss": "Yahweh"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "ambao"
     },
     {
-      "surface": "גְּאָלָ֗ם",
+      "surface": "גאלם",
       "gloss": "aliwakomboa"
     },
     {
-      "surface": "מִיַּד",
-      "gloss": "kutoka mkononi mwa"
+      "surface": "מיד",
+      "gloss": "mkononi mwa"
     },
     {
-      "surface": "צָֽר",
-      "gloss": "⟨adui⟩"
+      "surface": "צר",
+      "gloss": "adui"
     }
   ],
-  "timestamp": "2026-08-10T13:14:47.112174637Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:45.868042026Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Na Shaul akasema: „Nideni hapa, enyi viongozi wote wa ⟨כל פנות⟩ watu, ili mjue na kuona ni kwa nini dhambi hii ilitokea leo.\"",
+  "translation": "Na Shaul akasema: Njoni hapa, ninyi nyote matajiri wa ⟨the⟩ watu, na mjue na muone ni kwa nini dhambi hii ilikuwa leo.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Na akasema"
+      "gloss": "akasema"
     },
     {
       "surface": "שאול",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "גשו",
-      "gloss": "Nideni"
+      "gloss": "Njoni"
     },
     {
       "surface": "הלם",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "כל",
-      "gloss": "enyi"
+      "gloss": "nyote"
     },
     {
       "surface": "פנות",
-      "gloss": "viongozi wote wa"
+      "gloss": "matajiri"
     },
     {
       "surface": "העם",
-      "gloss": "watu"
+      "gloss": "wa watu"
     },
     {
       "surface": "ודעו",
-      "gloss": "ili mjue"
+      "gloss": "na mjue"
     },
     {
       "surface": "וראו",
-      "gloss": "na kuona"
+      "gloss": "na muone"
     },
     {
       "surface": "במה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "היתה",
-      "gloss": "ilitokea"
+      "gloss": "ilikuwa"
     },
     {
       "surface": "החטאת",
@@ -64,6 +64,6 @@
       "gloss": "leo"
     }
   ],
-  "timestamp": "2026-08-10T11:24:19.545063925Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:00.139375911Z",
+  "model": "glm-5.3"
 }

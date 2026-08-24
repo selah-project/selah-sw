@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 37,
-  "translation": "Akasema Yirmeyahu: «Singo; mimi siye unaelekea kwa Wakasedi.» Naye hakumsikiliza; naye Yiriyyah akamshika Yirmeyahu, akamleta kwa ⟨⟨maofisa⟩⟩.",
+  "translation": "Yirmeyahu akasema: Si kweli, mimi sihamishi upande wa Wakasdi; lakini hakuumsikiliza, na Yiriyyah akamkamata Yirmeyahu akamwleta kwa ⟨wakuu⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,27 +17,27 @@
     },
     {
       "surface": "שקר",
-      "gloss": "singo"
+      "gloss": "si kweli"
     },
     {
       "surface": "אינני",
-      "gloss": "mimi siye"
+      "gloss": "mimi si"
     },
     {
       "surface": "נפל",
-      "gloss": "unaelekea"
+      "gloss": "sihamishi"
     },
     {
       "surface": "על",
-      "gloss": "kwa"
+      "gloss": "upande wa"
     },
     {
       "surface": "הכשדים",
-      "gloss": "Wakasedi"
+      "gloss": "Wakasdi"
     },
     {
       "surface": "ולא",
-      "gloss": "naye haku"
+      "gloss": "lakini haku"
     },
     {
       "surface": "שמע",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "אליו",
-      "gloss": "mwe"
+      "gloss": "umu"
     },
     {
       "surface": "ויתפש",
-      "gloss": "akamshika"
+      "gloss": "akamkamata"
     },
     {
       "surface": "יראייה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ויבאהו",
-      "gloss": "akamleta"
+      "gloss": "akamwleta"
     },
     {
       "surface": "אל",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "השרים",
-      "gloss": "maofisa"
+      "gloss": "wakuu"
     }
   ],
-  "timestamp": "2026-08-10T15:14:05.519314460Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:01.222458783Z",
+  "model": "glm-5.3"
 }

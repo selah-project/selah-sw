@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 47,
-  "translation": "Na siku za Yisra'el zilikaribia kufa, naye akamwita mwanawe, Yosefu, akamwambia, Kama nimempata ⟨חֵן⟩ mbele ya macho yako, tafadhali weka mkono wako chini ya paja langu, ufanye nami chesed na kweli; usinipe kaburi, tafadhali, nchini Mitsrayim.",
+  "translation": "Siku za Yisraeli zilikaribia kufa, naye akamwita mwanawe, Yosef, akamwambia: Kama nimempata chen katika macho yako, tafadhali weka mkono wako chini ya paja langu, ufanye nami chesed (wema) na emeth (uaminifu); usinizike, tafadhali, katika Mitsrayim.",
   "tokens": [
     {
       "surface": "ויקרבו",
-      "gloss": "Na zilikaribia"
+      "gloss": "zikakaribia"
     },
     {
       "surface": "ימי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "למות",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "naye akamwita"
+      "gloss": "akamwita"
     },
     {
       "surface": "לבנו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ליוסף",
-      "gloss": "Yosefu"
+      "gloss": "Yosef"
     },
     {
       "surface": "ויאמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "yeye"
+      "gloss": "mw"
     },
     {
       "surface": "אם",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "מצאתי",
-      "gloss": "nimempata"
+      "gloss": "nimepata"
     },
     {
       "surface": "חן",
-      "gloss": "⟨חֵן⟩"
+      "gloss": "chen"
     },
     {
       "surface": "בעיניך",
-      "gloss": "mbele ya macho yako"
+      "gloss": "katika macho yako"
     },
     {
       "surface": "שים",
@@ -93,15 +93,15 @@
     },
     {
       "surface": "חסד",
-      "gloss": "chesed"
+      "gloss": "chesed (wema)"
     },
     {
       "surface": "ואמת",
-      "gloss": "na kweli"
+      "gloss": "emeth (uaminifu)"
     },
     {
       "surface": "אל",
-      "gloss": "Usi"
+      "gloss": "usi"
     },
     {
       "surface": "נא",
@@ -109,13 +109,13 @@
     },
     {
       "surface": "תקברני",
-      "gloss": "nipe kaburi"
+      "gloss": "nizike"
     },
     {
       "surface": "במצרים",
-      "gloss": "nchini Mitsrayim"
+      "gloss": "katika Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-10T10:15:57.236661881Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:14:14.914339452Z",
+  "model": "glm-5.3"
 }

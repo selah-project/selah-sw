@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 66,
-  "translation": "Abarikiwe Elohim, ambaye hakumkataliza sala yangu, wala chesed yake ⟨ץ⟩ ⟨את⟩ kutoka kwangu.",
+  "translation": "Atukuzwe Elohim, ambaye hakuzusanya ⟨את⟩ maombi yangu wala chesed chake ⟨את⟩ kutoka kwangu.",
   "tokens": [
     {
       "surface": "ברוך",
-      "gloss": "Abarikiwe"
+      "gloss": "Atukuzwe"
     },
     {
       "surface": "אלהים",
@@ -21,26 +21,26 @@
     },
     {
       "surface": "לא",
-      "gloss": "haku"
+      "gloss": "haku-"
     },
     {
       "surface": "הסיר",
-      "gloss": "mkataliza"
+      "gloss": "kuzusanya"
     },
     {
       "surface": "תפלתי",
-      "gloss": "sala yangu"
+      "gloss": "maombi yangu"
     },
     {
       "surface": "וחסדו",
-      "gloss": "wala chesed yake"
+      "gloss": "wala chesed chake"
     },
     {
       "surface": "מאתי",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ kutoka kwangu",
       "marks": "kutoka kwangu"
     }
   ],
-  "timestamp": "2026-08-10T13:04:51.543898643Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:45.068170084Z",
+  "model": "glm-5.3"
 }

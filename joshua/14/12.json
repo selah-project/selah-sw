@@ -5,24 +5,24 @@
   "book": "joshua",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Na sasa, nipe ⟨את⟩ mlima huu ambayo Yahweh alisema juu yake siku hiyo, kwa kuwa wewe umesikia siku hiyo ya kwamba ⟨אֲנָקִים⟩ wapo humo, na miji mikubwa yenye maboma; huenda Yahweh ⟨ni pamoja nami⟩ nawe nitawafukuza, kama alivyosema Yahweh.",
+  "translation": "Basi sasa nipa ⟨את⟩ mlima huu ambao Yahweh alinena kuhusu siku ile, kwa kuwa wewe ulisikia siku ile kwamba waAnaki wamo huko, na miji mikubwa iliyo mizizi. Asa Yahweh ⟨את⟩ yu pamoja nami, nami niwafukuzeni, kama Yahweh alivyonena.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Na sasa"
+      "gloss": "basi sasa"
     },
     {
       "surface": "תנה",
-      "gloss": "nipe"
+      "gloss": "nipa"
     },
     {
       "surface": "לי",
-      "gloss": "kwangu"
+      "gloss": "ni-"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mlima"
+      "marks": "mlima huu"
     },
     {
       "surface": "ההר",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "הזה",
-      "gloss": "huu"
+      "gloss": "hui"
     },
     {
       "surface": "אשר",
-      "gloss": "ambayo"
+      "gloss": "ambao"
     },
     {
       "surface": "דבר",
-      "gloss": "alisema"
+      "gloss": "alinena"
     },
     {
       "surface": "יהוה",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "hiyo"
+      "gloss": "ile"
     },
     {
       "surface": "כי",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "שמעת",
-      "gloss": "umesikia"
+      "gloss": "ulisikia"
     },
     {
       "surface": "ביום",
@@ -70,19 +70,19 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "hiyo"
+      "gloss": "ile"
     },
     {
       "surface": "כי",
-      "gloss": "ya kwamba"
+      "gloss": "kwamba"
     },
     {
       "surface": "ענקים",
-      "gloss": "⟨אֲנָקִים⟩"
+      "gloss": "waAnaki"
     },
     {
       "surface": "שם",
-      "gloss": "wapo humo"
+      "gloss": "huko"
     },
     {
       "surface": "וערים",
@@ -94,11 +94,11 @@
     },
     {
       "surface": "בצרות",
-      "gloss": "yenye maboma"
+      "gloss": "iliyo mizizi"
     },
     {
       "surface": "אולי",
-      "gloss": "huenda"
+      "gloss": "asa"
     },
     {
       "surface": "יהוה",
@@ -106,12 +106,11 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩",
-      "marks": "ni pamoja nami"
+      "gloss": "⟨את⟩ yu pamoja nami"
     },
     {
       "surface": "והורשתים",
-      "gloss": "nawe nitawafukuza"
+      "gloss": "nami niwafukuzeni"
     },
     {
       "surface": "כאשר",
@@ -119,13 +118,13 @@
     },
     {
       "surface": "דבר",
-      "gloss": "alivyosema"
+      "gloss": "alivyonena"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T11:08:46.229256893Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:30.968736002Z",
+  "model": "glm-5.3"
 }

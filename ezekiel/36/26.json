@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 36,
-  "translation": "Nami nitawapa ⟨אתם⟩ moyo mpya, nanyi nitawapa roho mpya ndani yenu; nami nitaondoa ⟨את⟩ moyo wa jiwe kutoka nyama yenu, nami nitawapa ⟨אתם⟩ moyo wa nyama.",
+  "translation": "Nami nitawapa moyo mpya na roho mpya nitaweka ndani yenu; nami nilitoa moyo wa jiwe ⟨את⟩ kutoka mwilini mwenu, nami nitawapa moyo wa nyama.",
   "tokens": [
     {
       "surface": "ונתתי",
-      "gloss": "nami nitawapa"
+      "gloss": "nitawapa"
     },
     {
       "surface": "לכם",
-      "gloss": "kwenu"
+      "gloss": "ninyi"
     },
     {
       "surface": "לב",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתן",
-      "gloss": "nitawapa"
+      "gloss": "nitaweka"
     },
     {
       "surface": "בקרבכם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "והסרתי",
-      "gloss": "nami nitaondoa"
+      "gloss": "nami nilitoa"
     },
     {
       "surface": "את",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "מבשרכם",
-      "gloss": "kutoka nyama yenu"
+      "gloss": "kutoka mwilini mwenu"
     },
     {
       "surface": "ונתתי",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "לכם",
-      "gloss": "kwenu"
+      "gloss": "ninyi"
     },
     {
       "surface": "לב",
@@ -77,6 +77,6 @@
       "gloss": "wa nyama"
     }
   ],
-  "timestamp": "2026-08-10T12:36:19.812431168Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:16.583671034Z",
+  "model": "glm-5.3"
 }

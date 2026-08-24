@@ -5,23 +5,23 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 32,
-  "translation": "Akasema: «Haitaitwa tena jina lako Yakov, bali Yisraeli; kwa maana umeshindana na Elohim na na ⟨אנשים⟩ watu, umeshinda.»",
+  "translation": "Naye akasema: Jina lako halitaitwa tena Yaakov, bali Yisrael, kwa maana umeshindana na Elohim na na ⟨na⟩ watu, na umeshinda.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Akasema"
+      "gloss": "akasema"
     },
     {
       "surface": "לא",
-      "gloss": "Haitaitwa"
+      "gloss": "si"
     },
     {
       "surface": "יעקב",
-      "gloss": "Yakov"
+      "gloss": "Yaakov"
     },
     {
       "surface": "יאמר",
-      "gloss": "itaitwa"
+      "gloss": "kitaitwa"
     },
     {
       "surface": "עוד",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "bali"
+      "gloss": "kwa maana"
     },
     {
       "surface": "אם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraeli"
+      "gloss": "Yisrael"
     },
     {
       "surface": "כי",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "ותוכל",
-      "gloss": "umeshinda"
+      "gloss": "na umeshinda"
     }
   ],
-  "timestamp": "2026-08-10T10:10:57.190166889Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:51.711109790Z",
+  "model": "glm-5.3"
 }

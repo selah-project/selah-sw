@@ -5,23 +5,23 @@
   "book": "proverbs",
   "lang": "sw",
   "chapter": 24,
-  "translation": "Usiwatamani waovu, wala usitamai kuwa ⟨pamoja⟩ na ⟨אתם⟩.",
+  "translation": "Usiwivye ⟨את⟩ watu wa uovu, wala usitamani kuwa ⟨את⟩ pamoja nao.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "Usi-"
+      "gloss": "usi-"
     },
     {
       "surface": "תקנא",
-      "gloss": "watamani"
+      "gloss": "wivye"
     },
     {
       "surface": "באנשי",
-      "gloss": "wa-"
+      "gloss": "katika watu wa"
     },
     {
       "surface": "רעה",
-      "gloss": "ovu"
+      "gloss": "uovu"
     },
     {
       "surface": "ואל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "תתאו",
-      "gloss": "tamai"
+      "gloss": "tamani"
     },
     {
       "surface": "להיות",
@@ -41,6 +41,6 @@
       "marks": "pamoja nao"
     }
   ],
-  "timestamp": "2026-08-10T13:28:35.049423267Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:09.935390065Z",
+  "model": "glm-5.3"
 }

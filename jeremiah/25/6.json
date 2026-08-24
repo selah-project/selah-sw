@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 25,
-  "translation": "Wala msitembee nyuma ya miungu mingine kwa kuwatumikia na kuabudu ⟨wakati wa kutaabudu⟩; wala msinikasirise ⟨⟨את⟩ ninakufanyia mabaya⟩ kwa matendo ya mikono yenu, wala sitawadhuru.",
+  "translation": "Wala msifuate miungu mingine ili kuwatumikia na kuikusujudu; wala msinihasirie kwa kazi ya mikono yenu, nami sitawaleteni mabaya.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "wala msi"
+      "gloss": "wala msi-"
     },
     {
       "surface": "תלכו",
-      "gloss": "tembee"
+      "gloss": "fuata"
     },
     {
       "surface": "אחרי",
@@ -29,50 +29,49 @@
     },
     {
       "surface": "לעבדם",
-      "gloss": "kwa kuwatumikia na kuabudu"
+      "gloss": "ili kuwatumikia"
     },
     {
       "surface": "ולהשתחות",
-      "gloss": ""
+      "gloss": "na kuikusujudu"
     },
     {
       "surface": "להם",
-      "gloss": "wakati wa kutaabudu"
+      "gloss": "wao"
     },
     {
       "surface": "ולא",
-      "gloss": "wala msi"
+      "gloss": "wala msi-"
     },
     {
       "surface": "תכעיסו",
-      "gloss": "nikasirise"
+      "gloss": "nihasirie"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ ninakufanyia mabaya",
-      "marks": "ninakufanyia mabaya"
+      "gloss": "⟨את⟩ mimi"
     },
     {
       "surface": "במעשה",
-      "gloss": "kwa matendo"
+      "gloss": "kwa kazi ya"
     },
     {
       "surface": "ידיכם",
-      "gloss": "ya mikono yenu"
+      "gloss": "mikono yenu"
     },
     {
       "surface": "ולא",
-      "gloss": "wala sita"
+      "gloss": "nami sita-"
     },
     {
       "surface": "ארע",
-      "gloss": "wadhuru"
+      "gloss": "leteni mabaya"
     },
     {
       "surface": "לכם",
-      "gloss": ""
+      "gloss": "kwenu"
     }
   ],
-  "timestamp": "2026-08-10T16:09:45.645252899Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:53.202185430Z",
+  "model": "glm-5.3"
 }

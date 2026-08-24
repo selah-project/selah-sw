@@ -5,7 +5,7 @@
   "book": "micah",
   "lang": "sw",
   "chapter": 4,
-  "translation": "Ondoka uwapue, binti Tziyon, maana pembe yako naziwekea chuma, na kwato zako naziwekea shaba, nawe utawasaga watu wengi, nami nitaweka ⟨את⟩ nyara yao kwa Yahweh, na ⟨את⟩ mali yao kwa Adonai wa ⟨⟨nchi⟩ yote⟩.",
+  "translation": "Ondoka uwapuge, binti wa Tsiyon, kwa maana pembe zako nitaziweka chuma, na kwato zako nitaziweka shaba, nawe utawaponda mataifa mengi, na utaweka <wakfu> mali yao <ya nyara> kwa Yahweh, na utajivu wao kwa Adonai wa ⟨the⟩ nchi yote.",
   "tokens": [
     {
       "surface": "קומי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ודושי",
-      "gloss": "uwapue"
+      "gloss": "uwapuge"
     },
     {
       "surface": "בת",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "ציון",
-      "gloss": "Tziyon"
+      "gloss": "Tsiyon"
     },
     {
       "surface": "כי",
-      "gloss": "maana"
+      "gloss": "kwa maana"
     },
     {
       "surface": "קרנך",
-      "gloss": "pembe yako"
+      "gloss": "pembe zako"
     },
     {
       "surface": "אשים",
-      "gloss": "naziwekea"
+      "gloss": "nitaziweka"
     },
     {
       "surface": "ברזל",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ופרסתיך",
-      "gloss": "na kwato zako"
+      "gloss": "kwato zako"
     },
     {
       "surface": "אשים",
-      "gloss": "naziwekea"
+      "gloss": "nitaziweka"
     },
     {
       "surface": "נחושה",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "והדקות",
-      "gloss": "nawe utawasaga"
+      "gloss": "utawaponda"
     },
     {
       "surface": "עמים",
-      "gloss": "watu"
+      "gloss": "mataifa"
     },
     {
       "surface": "רבים",
-      "gloss": "wengi"
+      "gloss": "mengi"
     },
     {
       "surface": "והחרמתי",
-      "gloss": "nami nitaweka"
+      "gloss": "utaweka wakfu"
     },
     {
       "surface": "ליהוה",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "בצעם",
-      "gloss": "nyara yao"
+      "gloss": "mali yao ya nyara"
     },
     {
       "surface": "וחילם",
-      "gloss": "na mali yao"
+      "gloss": "utajivu wao"
     },
     {
       "surface": "לאדון",
@@ -85,13 +85,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "wa yote"
+      "gloss": "yote"
     },
     {
       "surface": "הארץ",
       "gloss": "nchi"
     }
   ],
-  "timestamp": "2026-08-10T12:46:53.536670265Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:04.222409052Z",
+  "model": "glm-5.3"
 }

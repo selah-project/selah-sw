@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 14,
-  "translation": "Wakauchukua watu wote wa Yehudah ⟨את⟩ Azaryah, na yeye ⟨aliye⟩ mwana wa miaka kumi na sita, wakamfanya kuwa mfalme badala ya baba yake Amatsyahu.",
+  "translation": "Na watu wote wa Yehudah walimchukua ⟨את⟩ Azaryah, naye akiwa mwana wa miaka kumi na sita, wakamfanya mfalme badala ya baba yake Amatsyah.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "wakauchukua"
+      "gloss": "walimchukua"
     },
     {
       "surface": "כל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "wa Yehudah"
+      "gloss": "Yehudah"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "והוא",
-      "gloss": "na yeye"
+      "gloss": "naye"
     },
     {
       "surface": "בן",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "שש",
-      "gloss": "sitaka"
+      "gloss": "kumi na sita (sita)"
     },
     {
       "surface": "עשרה",
@@ -54,12 +54,12 @@
     },
     {
       "surface": "וימלכו",
-      "gloss": "wakamfanya kuwa mfalme"
+      "gloss": "wakamfanya mfalme"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "yeye"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "yeye (Azaryah)"
     },
     {
       "surface": "תחת",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "אמציהו",
-      "gloss": "Amatsyahu"
+      "gloss": "Amatsyah"
     }
   ],
-  "timestamp": "2026-08-10T11:49:17.530887019Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.356285555Z",
+  "model": "glm-5.3"
 }

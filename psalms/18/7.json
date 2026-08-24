@@ -5,65 +5,65 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 18,
-  "translation": "Katika dhiki yangu niliita Yahweh, na kwa Elohim wangu nililia; ⟨⟨hakika⟩⟩ aliya kusikia sauti yangu kutoka hekaluni, na maombi yangu mbele zake yakaingia masikioni mwake.",
+  "translation": "Katika dhiki yangu nilimwita Yahweh, na kwa Elohim wangu nililia; alisikia sauti yangu kutoka hekalu lake, na kilio chaki kilemfikia, hadi masikioni pake.",
   "tokens": [
     {
-      "surface": "בַּצַּר",
+      "surface": "בצר",
       "gloss": "katika dhiki"
     },
     {
-      "surface": "לִ֤י",
+      "surface": "לי",
       "gloss": "yangu"
     },
     {
-      "surface": "אֶֽקְרָ֣א",
-      "gloss": "nilii(y)a"
+      "surface": "אקרא",
+      "gloss": "nilimwita"
     },
     {
-      "surface": "יְהוָה֮",
+      "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "וְאֶל",
+      "surface": "ואל",
       "gloss": "na kwa"
     },
     {
-      "surface": "אֱלֹהַ֪י",
+      "surface": "אלהי",
       "gloss": "Elohim wangu"
     },
     {
-      "surface": "אֲשַׁ֫וֵּ֥עַ",
+      "surface": "אשוע",
       "gloss": "nililia"
     },
     {
-      "surface": "יִשְׁמַ֣ע",
+      "surface": "ישמע",
       "gloss": "alisikia"
     },
     {
-      "surface": "מֵהֵיכָל֣וֹ",
-      "gloss": "kutoka hekaluni"
+      "surface": "מהיכלו",
+      "gloss": "kutoka hekalu lake"
     },
     {
-      "surface": "קוֹלִ֑י",
+      "surface": "קולי",
       "gloss": "sauti yangu"
     },
     {
-      "surface": "וְ֝שַׁוְעָתִ֗י",
-      "gloss": "na maombi yangu"
+      "surface": "ושועתי",
+      "gloss": "na kilio chaki"
     },
     {
-      "surface": "לְפָנָ֤יו",
+      "surface": "לפניו",
       "gloss": "mbele zake"
     },
     {
-      "surface": "תָּב֬וֹא",
-      "gloss": "yakaingia"
+      "surface": "תבוא",
+      "gloss": "kilemfikia"
     },
     {
-      "surface": "בְאָזְנָֽיו",
-      "gloss": "masikioni mwake"
+      "surface": "באזניו",
+      "gloss": "hadi masikioni pake"
     }
   ],
-  "timestamp": "2026-08-10T15:23:44.250664404Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:48.702939897Z",
+  "model": "glm-5.3"
 }

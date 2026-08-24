@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "sw",
   "chapter": 42,
-  "translation": "Akaita jina la ⟨the⟩ kwanza Yemima, na jina la ⟨the⟩ pili Ketsia, na jina la ⟨the⟩ tatu Keren-Hapuk.",
+  "translation": "Naye aliitia wa kwanza jina Yemimah, na wa pili jina Ketsiah, na wa tatu jina Keren-haPukh.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "akaita"
+      "gloss": "aliitia"
     },
     {
       "surface": "שם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "האחת",
-      "gloss": "⟨the⟩ kwanza"
+      "gloss": "wa kwanza"
     },
     {
       "surface": "ימימה",
-      "gloss": "Yemima"
+      "gloss": "Yemimah"
     },
     {
       "surface": "ושם",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "השנית",
-      "gloss": "⟨the⟩ pili"
+      "gloss": "wa pili"
     },
     {
       "surface": "קציעה",
-      "gloss": "Ketsia"
+      "gloss": "Ketsiah"
     },
     {
       "surface": "ושם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "השלישית",
-      "gloss": "⟨the⟩ tatu"
+      "gloss": "wa tatu"
     },
     {
       "surface": "קרן",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "הפוך",
-      "gloss": "Hapuk"
+      "gloss": "haPukh"
     }
   ],
-  "timestamp": "2026-08-10T13:41:32.165196763Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:34.659355295Z",
+  "model": "glm-5.3"
 }

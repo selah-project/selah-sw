@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 10,
-  "translation": "⟨Hiyo⟩ ⟨⟨ndiyo⟩⟩ kiumbe hai nililotazama chini ya Elohim wa Yisraeli, mtoni Kebar, nikajua ya kuwa makerubi ndiyo ⟨walivyo⟩.",
+  "translation": "Hii ⟨ni⟩ kiumbe hai niliyoiona chini ya Elohim wa Yisraeli mtoni Kevari; nikajua kwamba makarubi ndiyo hayo.",
   "tokens": [
     {
       "surface": "היא",
-      "gloss": "⟨Hiyo⟩"
+      "gloss": "Hii"
     },
     {
       "surface": "החיה",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nililotazama"
+      "gloss": "niliyoiona"
     },
     {
       "surface": "ראיתי",
-      "gloss": "nililotazama"
+      "gloss": "niliyoiona"
     },
     {
       "surface": "תחת",
-      "gloss": "chini"
+      "gloss": "chini ya"
     },
     {
       "surface": "אלהי",
-      "gloss": "ya Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "כבר",
-      "gloss": "Kebar"
+      "gloss": "Kevari"
     },
     {
       "surface": "ואדע",
@@ -49,17 +49,17 @@
     },
     {
       "surface": "כי",
-      "gloss": "ya kuwa"
+      "gloss": "kwamba"
     },
     {
       "surface": "כרובים",
-      "gloss": "makerubi"
+      "gloss": "makarubi"
     },
     {
       "surface": "המה",
-      "gloss": "ndiyo ⟨walivyo⟩"
+      "gloss": "ndiyo hayo"
     }
   ],
-  "timestamp": "2026-08-10T16:12:15.666501783Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:30.115865797Z",
+  "model": "glm-5.3"
 }

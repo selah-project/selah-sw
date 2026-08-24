@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 13,
-  "translation": "Akaenda nyuma ya mtu wa Elohim, akamkuta yeye akiketi chini ya mti wa mwaloni, akamwambia, Wewe u ⟨⟨yeye⟩⟩ mtu wa Elohim uliyeokuja kutoka Yahudah? Naye akasema, Mimi.",
+  "translation": "Nakamfuata mtu wa ⟨את⟩ Elohim, nakamwonea ameketi chini ya mti wa elah, nakamwambia, Wewe ndiwe mtu wa ⟨את⟩ Elohim aliye kutoka Yehudah? Nakaambia, Mimi ndiye.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "Akaenda"
+      "gloss": "nakaenda"
     },
     {
       "surface": "אחרי",
-      "gloss": "nyuma ya"
+      "gloss": "akamfuata"
     },
     {
       "surface": "איש",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "wa Elohim"
     },
     {
       "surface": "וימצאהו",
-      "gloss": "akamkuta"
+      "gloss": "nakamwonea"
     },
     {
       "surface": "ישב",
-      "gloss": "yeye akiketi"
+      "gloss": "ameketi"
     },
     {
       "surface": "תחת",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "האלה",
-      "gloss": "mti wa mwaloni"
+      "gloss": "mti wa elah"
     },
     {
       "surface": "ויאמר",
-      "gloss": "akamwambia"
+      "gloss": "nakamwambia"
     },
     {
       "surface": "אליו",
-      "gloss": "kwa"
+      "gloss": "kwake"
     },
     {
       "surface": "האתה",
-      "gloss": "Wewe u"
+      "gloss": "wewe ndiwe?"
     },
     {
       "surface": "איש",
@@ -57,29 +57,29 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "wa Elohim"
     },
     {
       "surface": "אשר",
-      "gloss": "uliyeokuja"
+      "gloss": "aliye"
     },
     {
       "surface": "באת",
-      "gloss": "waliokuja"
+      "gloss": "kutoka"
     },
     {
       "surface": "מיהודה",
-      "gloss": "kutoka Yahudah"
+      "gloss": "Yehudah"
     },
     {
       "surface": "ויאמר",
-      "gloss": "Naye akasema"
+      "gloss": "nakaambia"
     },
     {
       "surface": "אני",
-      "gloss": "Mimi"
+      "gloss": "mimi ndiye"
     }
   ],
-  "timestamp": "2026-08-10T11:41:38.713071393Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:32.712886708Z",
+  "model": "glm-5.3"
 }

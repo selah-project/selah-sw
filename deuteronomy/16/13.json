@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 16,
-  "translation": "Sikukuu ya ⟨הַסֻּכּוֹת⟩ (mahema) utafanya kwa ajili yako siku saba, katika kukusanya ⟨wewe⟩ kutoka gunia yako na kutoka shinikizani mwako.",
+  "translation": "Sikukuu ya vibanda utafanya kwa wewe siku saba, wakati ⟨unapokusanya⟩ ⟨katika⟩ gumba lako na kiwanda chako cha mvinyo.",
   "tokens": [
     {
       "surface": "חג",
-      "gloss": "Sikukuu"
+      "gloss": "sikukuu"
     },
     {
       "surface": "הסכת",
-      "gloss": "ya ⟨הַסֻּכּוֹת⟩ (mahema)"
+      "gloss": "ya vibanda"
     },
     {
       "surface": "תעשה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "kwa ajili yako"
+      "gloss": "kwa wewe"
     },
     {
       "surface": "שבעת",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "באספך",
-      "gloss": "katika kukusanya"
+      "gloss": "wakati unapokusanya"
     },
     {
       "surface": "מגרנך",
-      "gloss": "kutoka gunia yako"
+      "gloss": "gumba lako"
     },
     {
       "surface": "ומיקבך",
-      "gloss": "na kutoka shinikizani mwako"
+      "gloss": "na kiwanda chako cha mvinyo"
     }
   ],
-  "timestamp": "2026-08-10T10:58:47.677018624Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:18.880422102Z",
+  "model": "glm-5.3"
 }

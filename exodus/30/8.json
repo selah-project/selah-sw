@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 30,
-  "translation": "Na Aharon anapozipa mwaka taa kati ya jioni, atateketeza ⟨אתו⟩; uvundo wa kudumu mbele za Yahweh kwa vizazi vyenu.",
+  "translation": "Na Aharon atakapowasha ⟨את⟩ taa kati ya jioni, atawasha uvumba wa daima mbele za Yahweh, kwa vizazi vyenu.",
   "tokens": [
     {
       "surface": "ובהעלת",
-      "gloss": "Na anapozipa"
+      "gloss": "atakapowasha"
     },
     {
       "surface": "אהרן",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "יקטירנה",
-      "gloss": "atateketeza"
+      "gloss": "atawasha uvumba"
     },
     {
       "surface": "קטרת",
-      "gloss": "uvundo"
+      "gloss": "uvumba"
     },
     {
       "surface": "תמיד",
-      "gloss": "wa kudumu"
+      "gloss": "wa daima"
     },
     {
       "surface": "לפני",
@@ -57,6 +57,6 @@
       "gloss": "kwa vizazi vyenu"
     }
   ],
-  "timestamp": "2026-08-10T10:26:37.958033335Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:57:58.072527594Z",
+  "model": "glm-5.3"
 }

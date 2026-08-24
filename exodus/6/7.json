@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 6,
-  "translation": "Nami nitawachukua ninyi kuwa langu kwa kuwa taifa, nami nitakuwa kwenu kwa kuwa Elohim, nanyi mtajua kwamba mimi ni Yahweh Elohim wenu, ⟨ambaye⟩ anawatoa chini ya mizigo ya Mitsrayim.",
+  "translation": "Nami nitawachukua ⟨את⟩ ninyi niwe ⟨⟨⟩⟩ninyi wangu kama watu, nami nitakuwa kwenu kama Elohim, nanyi mtajua kwamba mimi ni Yahweh Elohim wenu, anayewatoa ⟨את⟩ ninyi chini ya mizigo ya Mitsrayim.",
   "tokens": [
     {
       "surface": "ולקחתי",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "ninyi"
     },
     {
       "surface": "לי",
-      "gloss": "kuwa langu"
+      "gloss": "kwangu"
     },
     {
       "surface": "לעם",
-      "gloss": "kuwa taifa"
+      "gloss": "kama watu"
     },
     {
       "surface": "והייתי",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "לאלהים",
-      "gloss": "kuwa Elohim"
+      "gloss": "kama Elohim"
     },
     {
       "surface": "וידעתם",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "המוציא",
-      "gloss": "⟨ambaye⟩ anawatoa"
+      "gloss": "anayewatoa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "ninyi"
     },
     {
@@ -78,6 +78,6 @@
       "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-10T10:18:25.815560858Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:36.561793221Z",
+  "model": "glm-5.3"
 }

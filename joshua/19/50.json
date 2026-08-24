@@ -5,19 +5,19 @@
   "book": "joshua",
   "lang": "sw",
   "chapter": 19,
-  "translation": "Kwa amri ya Yahweh walimpa ⟨את⟩ ⟨ה⟩ mji alioutaka, ⟨את⟩ Timnat-Serah, katika mlima wa Efrayimu; akaiona ⟨את⟩ ⟨ה⟩ mji naye akakaa humo.",
+  "translation": "Kwa amri ya Yahweh walimpa ⟨את⟩ mji alioutaka, ⟨את⟩ Timnat-Serah katika mlima wa Efrayimu; akajenga ⟨את⟩ mji huo akakaa humo.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "Kwa"
+      "gloss": "kwa"
     },
     {
       "surface": "פי",
-      "gloss": "amri"
+      "gloss": "amri ya"
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "נתנו",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambao"
+      "gloss": "alioutaka"
     },
     {
       "surface": "שאל",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "תמנת",
-      "gloss": "Timnat"
+      "gloss": "Timnat-"
     },
     {
       "surface": "סרח",
-      "gloss": "Serah"
+      "gloss": "-Serah"
     },
     {
       "surface": "בהר",
@@ -67,26 +67,26 @@
     },
     {
       "surface": "ויבנה",
-      "gloss": "akaiona"
+      "gloss": "akajenga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mji"
+      "marks": "mji huo"
     },
     {
       "surface": "העיר",
-      "gloss": "mji"
+      "gloss": "mji huo"
     },
     {
       "surface": "וישב",
-      "gloss": "naye akakaa"
+      "gloss": "akakaa"
     },
     {
       "surface": "בה",
       "gloss": "humo"
     }
   ],
-  "timestamp": "2026-08-10T11:10:23.543313024Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:32.570365126Z",
+  "model": "glm-5.3"
 }

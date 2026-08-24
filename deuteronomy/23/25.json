@@ -5,57 +5,57 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 23,
-  "translation": "Ukiiingia shamba la mizabibu la rafiki yako, na kula zabibu kwa kitashi cha nafsi yako, lakini ndani ya chombo chako <⟨hupaswi⟩> kuweka.",
+  "translation": "⟨Linapokuwa⟩ unaingia katika shamba la mizabibu la rafiki yako, na utakula zabibu kadiri ya nefesh yako, kushiba kwako; bali katika chombo chako hutaweka ⟨chochote⟩.",
   "tokens": [
     {
-      "surface": "כִּי",
-      "gloss": "Uki"
+      "surface": "כי",
+      "gloss": "⟨linapokuwa⟩"
     },
     {
-      "surface": "תָבֹא",
-      "gloss": "kiingia"
+      "surface": "תבא",
+      "gloss": "unaingia"
     },
     {
-      "surface": "בְּכֶרֶם",
-      "gloss": "shamba la mizabibu"
+      "surface": "בכרם",
+      "gloss": "katika shamba la mizabibu"
     },
     {
-      "surface": "רֵעֶךָ",
+      "surface": "רעך",
       "gloss": "rafiki yako"
     },
     {
-      "surface": "וְאָכַלְתָּ",
-      "gloss": "na kula"
+      "surface": "ואכלת",
+      "gloss": "na utakula"
     },
     {
-      "surface": "עֲנָבִים",
+      "surface": "ענבים",
       "gloss": "zabibu"
     },
     {
-      "surface": "כְנַפְשְׁךָ",
-      "gloss": "kwa nafsi yako"
+      "surface": "כנפשך",
+      "gloss": "kadiri ya nefesh yako"
     },
     {
-      "surface": "שָׂבְעֶךָ",
-      "gloss": "kitashi chako"
+      "surface": "שבעך",
+      "gloss": "kushiba kwako"
     },
     {
-      "surface": "וְאֶל",
-      "gloss": "lakini ndani ya"
+      "surface": "ואל",
+      "gloss": "bali katika"
     },
     {
-      "surface": "כְלֶיךָ",
+      "surface": "כליך",
       "gloss": "chombo chako"
     },
     {
-      "surface": "לֹא",
-      "gloss": "hupaswi"
+      "surface": "לא",
+      "gloss": "huta"
     },
     {
-      "surface": "תִּתֵּן",
-      "gloss": "kuweka"
+      "surface": "תתן",
+      "gloss": "kuweka ⟨chochote⟩"
     }
   ],
-  "timestamp": "2026-08-10T11:00:13.357815021Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:02:39.520067804Z",
+  "model": "glm-5.3"
 }

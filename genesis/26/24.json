@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 26,
-  "translation": "Yahweh akamtokea usiku huo, akasema: Mimi ni Elohim wa Avraham baba yako. Usiogope, kwa maana ⟨אתך⟩ mimi niko, nami nitakubariki, nami nitaongeza ⟨את⟩ mzako kwa ajili ya Avraham mtumishi wangu.",
+  "translation": "Na Yahweh alimtokea usiku huo, na akasema: Mimi ⟨ni⟩ Elohim wa Avraham baba yako; usiogope, kwa maana mimi ⟨את⟩ ni pamoja nawe, nami nitakubariki, na nitaongeza ⟨את⟩ mbegu yako kwa ajili ya Avraham mtumwa wangu.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "Akamtokea"
+      "gloss": "alimtokea"
     },
     {
       "surface": "אליו",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "akasema"
+      "gloss": "na akasema"
     },
     {
       "surface": "אנכי",
-      "gloss": "mimi"
+      "gloss": "Mimi"
     },
     {
       "surface": "אלהי",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "usi"
+      "gloss": "usi-"
     },
     {
       "surface": "תירא",
@@ -61,8 +61,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩",
-      "marks": "pamoja nawe"
+      "gloss": "⟨את⟩ pamoja nawe"
     },
     {
       "surface": "אנכי",
@@ -70,20 +69,20 @@
     },
     {
       "surface": "וברכתיך",
-      "gloss": "nitakubariki"
+      "gloss": "nami nitakubariki"
     },
     {
       "surface": "והרביתי",
-      "gloss": "nitaongeza"
+      "gloss": "na nitaongeza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mzako"
+      "marks": "mbegu yako"
     },
     {
       "surface": "זרעך",
-      "gloss": "mzako"
+      "gloss": "mbegu yako"
     },
     {
       "surface": "בעבור",
@@ -95,9 +94,9 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "mtumishi wangu"
+      "gloss": "mtumwa wangu"
     }
   ],
-  "timestamp": "2026-08-10T14:25:45.390664602Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:36.527715446Z",
+  "model": "glm-5.3"
 }

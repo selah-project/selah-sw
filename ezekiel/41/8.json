@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 41,
-  "translation": "Na niliangalia kwa ⟨the⟩ nyumba, kimo kuzunguka kuzunguka; misingi ya ⟨the⟩ vyumba vya ubavu, kipimo cha kipini cha mwanzi, dhiraa sita ⟨kwa⟩ ufungio.",
+  "translation": "Nikaona kwa nyumba mwelekeo wa juu kuzunguka ⟨kuzunguka⟩; misingi ya vyumba vya ubavu, kwa mjazo wa mkia, Ama sita ⟨kwa⟩ kiungo.",
   "tokens": [
     {
       "surface": "וראיתי",
-      "gloss": "Na niliangalia"
+      "gloss": "Nikaona"
     },
     {
       "surface": "לבית",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "גבה",
-      "gloss": "kimo"
+      "gloss": "mwelekeo wa juu"
     },
     {
       "surface": "סביב",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "סביב",
-      "gloss": "kuzunguka"
+      "gloss": "⟨kuzunguka⟩"
     },
     {
       "surface": "מיסדות",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "מלו",
-      "gloss": "kipimo cha kipini"
+      "gloss": "kwa mjazo"
     },
     {
       "surface": "הקנה",
-      "gloss": "cha mwanzi"
+      "gloss": "wa mkia"
     },
     {
       "surface": "שש",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "אמות",
-      "gloss": "dhiraa"
+      "gloss": "Ama"
     },
     {
       "surface": "אצילה",
-      "gloss": "ufungio"
+      "gloss": "⟨kwa⟩ kiungo"
     }
   ],
-  "timestamp": "2026-08-10T12:38:08.467902458Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:28.338161979Z",
+  "model": "glm-5.3"
 }

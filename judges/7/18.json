@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "sw",
   "chapter": 7,
-  "translation": "Na nitapuliza ⟨⟨את⟩⟩ shofara mimi na wote walio ⟨את⟩ nami, nanyi mpulize ⟨⟨את⟩⟩ mashofara pia ninyi pande zote za kambi yote, na mseme: Kwa ajili ya Yahweh na kwa ajili ya Gidoni!",
+  "translation": "Mimi nitapiga baragumu — mimi na wote walio ⟨pamoja na⟩ mimi — na nyinyi mpigeni pia baragumu, nyinyi, kuzunguka kambi yote yote, na mseme: ⟨kwa⟩ Yahweh na kwa Gideon!",
   "tokens": [
     {
       "surface": "ותקעתי",
-      "gloss": "Na nitapuliza"
+      "gloss": "mimi nitapiga"
     },
     {
       "surface": "בשופר",
-      "gloss": "shofara"
+      "gloss": "baragumu"
     },
     {
       "surface": "אנכי",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ nami"
+      "gloss": "⟨את⟩ pamoja (na)"
     },
     {
       "surface": "ותקעתם",
-      "gloss": "mpulize"
+      "gloss": "nyinyi mpigeni"
     },
     {
       "surface": "בשופרות",
-      "gloss": "mashofara"
+      "gloss": "baragumu"
     },
     {
       "surface": "גם",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "אתם",
-      "gloss": "ninyi"
+      "gloss": "nyinyi"
     },
     {
       "surface": "סביבות",
-      "gloss": "pande zote"
+      "gloss": "kuzunguka"
     },
     {
       "surface": "כל",
-      "gloss": "ya"
+      "gloss": "yote"
     },
     {
       "surface": "המחנה",
@@ -65,13 +65,13 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Kwa ajili ya Yahweh"
+      "gloss": "kwa Yahweh"
     },
     {
       "surface": "ולגדעון",
-      "gloss": "na kwa ajili ya Gidoni"
+      "gloss": "na kwa Gideon"
     }
   ],
-  "timestamp": "2026-08-10T11:15:01.706450386Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:03:51.781992019Z",
+  "model": "glm-5.3"
 }

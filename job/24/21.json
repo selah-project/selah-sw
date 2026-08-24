@@ -5,37 +5,37 @@
   "book": "job",
   "lang": "sw",
   "chapter": 24,
-  "translation": "⟨⟨Yeye⟩⟩ anachunga ⟨⟨asiyemzaa⟩⟩ ambaye hazai, na mjane hamtendei vyema.",
+  "translation": "Anawachinja kama konda asiyezaa, asiyemzaa; na mjane hamtendei mema.",
   "tokens": [
     {
-      "surface": "רֹעֶ֣ה",
-      "gloss": "anachunga"
+      "surface": "רעה",
+      "gloss": "anawachinja kama konda"
     },
     {
-      "surface": "עֲ֭קָרָה",
+      "surface": "עקרה",
+      "gloss": "asiyezaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "תלד",
       "gloss": "asiyemzaa"
     },
     {
-      "surface": "לֹ֣א",
-      "gloss": "ambayehazi"
+      "surface": "ואלמנה",
+      "gloss": "na mjane"
     },
     {
-      "surface": "תֵלֵ֑ד",
-      "gloss": "hazai"
+      "surface": "לא",
+      "gloss": "si"
     },
     {
-      "surface": "וְ֝אַלְמָנָ֗ה",
-      "gloss": "namjane"
-    },
-    {
-      "surface": "לֹ֣א",
-      "gloss": "hamtendei"
-    },
-    {
-      "surface": "יְיֵטִֽיב",
-      "gloss": "vyema"
+      "surface": "ייטיב",
+      "gloss": "hamtendei mema"
     }
   ],
-  "timestamp": "2026-08-10T15:34:26.173624818Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:28.246568877Z",
+  "model": "glm-5.3"
 }

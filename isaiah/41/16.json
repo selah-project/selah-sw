@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 41,
-  "translation": "Utawapeperusha, na upepo utawachukua, na dufu utawatawanya, na wewe utafurahi katika Yahweh, katika Qadosh wa Israel utajisifu.",
+  "translation": "Utapuruga wao, na upepo utawachukua, na tufani itawatafuta ⟨wao⟩; na wewe utafurahi katika Yahweh, katika Mtakatifu wa Yisraeli utajivuna.",
   "tokens": [
     {
       "surface": "תזרם",
-      "gloss": "Utawapeperusha"
+      "gloss": "utapuruga"
     },
     {
       "surface": "ורוח",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "וסערה",
-      "gloss": "na dufu"
+      "gloss": "na tufani"
     },
     {
       "surface": "תפיץ",
-      "gloss": "utawatawanya"
+      "gloss": "itawatafuta"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
-      "marks": "wao"
+      "gloss": "⟨את⟩ wao",
+      "marks": "wao (kiambia cha kitu: milima na vilima kama unga)"
     },
     {
       "surface": "ואתה",
@@ -46,17 +46,17 @@
     },
     {
       "surface": "בקדוש",
-      "gloss": "katika Qadosh"
+      "gloss": "katika Mtakatifu"
     },
     {
       "surface": "ישראל",
-      "gloss": "wa Israel"
+      "gloss": "wa Yisraeli"
     },
     {
       "surface": "תתהלל",
-      "gloss": "utajisifu"
+      "gloss": "utajivuna"
     }
   ],
-  "timestamp": "2026-08-10T12:04:12.562272039Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:04.536981463Z",
+  "model": "glm-5.3"
 }

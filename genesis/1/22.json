@@ -5,16 +5,15 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 1,
-  "translation": "Elohim akawabariki ⟨אתם⟩ akisema: \"Zaalini, mwingiwe, na kujaza ⟨את⟩ maji katika bahari, na ndege awe na wingi katika nchi.\"",
+  "translation": "Elohim akawabariki wakisema: Zaeni, mkaongezee, mkajaze ⟨את⟩ maji katika bahari, na ndege waongezee juu ya ⟨the⟩ nchi.",
   "tokens": [
     {
       "surface": "ויברך",
-      "gloss": "akabariki"
+      "gloss": "akawabariki"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "wao"
+      "gloss": "⟨את⟩ wao"
     },
     {
       "surface": "אלהים",
@@ -26,24 +25,24 @@
     },
     {
       "surface": "פרו",
-      "gloss": "zaalini"
+      "gloss": "zaeni"
     },
     {
       "surface": "ורבו",
-      "gloss": "mwingiwe"
+      "gloss": "mkaongezee"
     },
     {
       "surface": "ומלאו",
-      "gloss": "na kujaza"
+      "gloss": "mkajaze"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "maji"
+      "marks": "majimaji"
     },
     {
       "surface": "המים",
-      "gloss": "maji"
+      "gloss": "majimaji"
     },
     {
       "surface": "בימים",
@@ -55,13 +54,13 @@
     },
     {
       "surface": "ירב",
-      "gloss": "awe na wingi"
+      "gloss": "waongezee"
     },
     {
       "surface": "בארץ",
-      "gloss": "katika nchi"
+      "gloss": "juu ya nchi"
     }
   ],
-  "timestamp": "2026-08-10T15:48:43.639187132Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:56:19.922105699Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 10,
-  "translation": "Akamwambia: Njoo pamoja nami ⟨וּרְאֵה⟩ uone katika shauqi yangu kwa Yahweh. Wakampandisha ⟨אתו⟩ kwenye gari lake.",
+  "translation": "Akasema: Njoo ⟨את⟩ nami, uone shauju yangu kwa Yahweh; wakamwongoza ⟨את⟩ yeye kwenye gari lake la vita.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Akamwambia"
+      "gloss": "Akasema"
     },
     {
       "surface": "לכה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "pamoja nami ⟨את⟩"
+      "gloss": "⟨את⟩ nami"
     },
     {
       "surface": "וראה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בקנאתי",
-      "gloss": "katika shauqi yangu"
+      "gloss": "shauju yangu"
     },
     {
       "surface": "ליהוה",
@@ -33,18 +33,18 @@
     },
     {
       "surface": "וירכבו",
-      "gloss": "Wakampandisha"
+      "gloss": "wakamwongoza"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "Yehonadabu (yeye)"
+      "marks": "yeye"
     },
     {
       "surface": "ברכבו",
-      "gloss": "kwenye gari lake"
+      "gloss": "kwenye gari lake la vita"
     }
   ],
-  "timestamp": "2026-08-10T11:48:44.157161497Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:47.197809874Z",
+  "model": "glm-5.3"
 }

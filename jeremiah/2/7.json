@@ -5,20 +5,20 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 2,
-  "translation": "Nikawaletea ⟨אתכם⟩ katika nchi ya karmeli, ili mle matunda yake na jema lake; mkaja mkaihatti ⟨את⟩ nchi yangu, na urithi wangu mkauweka kwa machukizo.",
+  "translation": "Nikawaleta ⟨את⟩ ninyi ⟨el⟩ katika nchi ya karmeli (ardhi yenye mavuno), ili mla matunda yake na wema wake; lakini mlingiwa mkaichafua ⟨את⟩ nchi yangu, na urithi wangu mkaweka kuwa chukizo.",
   "tokens": [
     {
       "surface": "ואביא",
-      "gloss": "nikawaletea"
+      "gloss": "nikawaleta"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "nyinyi"
+      "gloss": "⟨את⟩ ninyi",
+      "marks": "ninyi"
     },
     {
       "surface": "אל",
-      "gloss": "katika"
+      "gloss": "⟨el⟩ katika"
     },
     {
       "surface": "ארץ",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "הכרמל",
-      "gloss": "ya karmeli"
+      "gloss": "ya karmeli (ardhi yenye mavuno)"
     },
     {
       "surface": "לאכל",
-      "gloss": "ili mle"
+      "gloss": "ili mla"
     },
     {
       "surface": "פריה",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "וטובה",
-      "gloss": "na jema lake"
+      "gloss": "na wema wake"
     },
     {
       "surface": "ותבאו",
-      "gloss": "mkaja"
+      "gloss": "mlingiwa"
     },
     {
       "surface": "ותטמאו",
-      "gloss": "mkaihatti"
+      "gloss": "mkaichafua"
     },
     {
       "surface": "את",
@@ -63,13 +63,13 @@
     },
     {
       "surface": "שמתם",
-      "gloss": "mkauweka"
+      "gloss": "mkaweka"
     },
     {
       "surface": "לתועבה",
-      "gloss": "kwa machukizo"
+      "gloss": "kuwa chukizo"
     }
   ],
-  "timestamp": "2026-08-10T16:08:32.968752804Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:31.768704107Z",
+  "model": "glm-5.3"
 }

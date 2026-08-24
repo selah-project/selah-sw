@@ -5,12 +5,12 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 4,
-  "translation": "Na ⟨ama⟩ mafuta yote ya fahali wa sadaka ya dhambi atayainua kutoka humo; ⟨את⟩ mafuta yanayofunika juu ya matumbo, na ⟨pia את⟩ mafuta yote yaliyo juu ya matumbo,",
+  "translation": "Na ⟨את⟩ mafuta yote ya ndama wa sadaka ya dhambi atayatoa kutoka humo: ⟨את⟩ mafuta yanayofunika matumbo, na ⟨את⟩ mafuta yote yaliyo juu ya matumbo.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Na ⟨את⟩",
-      "marks": "yote"
+      "gloss": "⟨את⟩",
+      "marks": "mafufta yote"
     },
     {
       "surface": "כל",
@@ -22,15 +22,15 @@
     },
     {
       "surface": "פר",
-      "gloss": "ya fahali"
+      "gloss": "ndama"
     },
     {
       "surface": "החטאת",
-      "gloss": "wa sadaka ya dhambi"
+      "gloss": "sadaka ya dhambi"
     },
     {
       "surface": "ירים",
-      "gloss": "atayainua"
+      "gloss": "atayatoa"
     },
     {
       "surface": "ממנו",
@@ -39,7 +39,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mafuta"
+      "marks": "mafufta yanayofunika matumbo"
     },
     {
       "surface": "החלב",
@@ -59,8 +59,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "yote"
+      "gloss": "⟨את⟩",
+      "marks": "mafufta yote"
     },
     {
       "surface": "כל",
@@ -72,7 +72,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yaliyo"
+      "gloss": "ambayo"
     },
     {
       "surface": "על",
@@ -83,6 +83,6 @@
       "gloss": "matumbo"
     }
   ],
-  "timestamp": "2026-08-10T10:31:42.828034683Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:03.432969272Z",
+  "model": "glm-5.3"
 }

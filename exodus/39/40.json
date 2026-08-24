@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 39,
-  "translation": "⟨את``` mapazia ya ua, ⟨את``` nguzo zake, na ⟨את``` misingi yake, na ⟨את``` pazia la lango la ua, ⟨את``` kamba zake, na ⟨את``` vigingi vyake, na ⟨את⟩ vyombo vyote vya utumishi wa maskani, kwa hema ya mkutano;",
+  "translation": "⟨את⟩ mapazia ya ua, ⟨את⟩ nguzo zake na ⟨את⟩ misingi yake, na ⟨את⟩ utando wa mlango wa ua, ⟨את⟩ kamba zake na vipeo vyake, na ⟨את⟩ vyombo vyote vya kazi ya maskani, kwa hema ya mkutano;",
   "tokens": [
     {
       "surface": "את",
@@ -41,24 +41,24 @@
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "pazia la lango la ua"
+      "marks": "utando wa mlango wa ua"
     },
     {
       "surface": "המסך",
-      "gloss": "pazia"
+      "gloss": "utando"
     },
     {
       "surface": "לשער",
-      "gloss": "la lango"
+      "gloss": "wa mlango"
     },
     {
       "surface": "החצר",
-      "gloss": "la ua"
+      "gloss": "wa ua"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kamba zake na pegi zake"
+      "marks": "kamba zake"
     },
     {
       "surface": "מיתריו",
@@ -66,12 +66,12 @@
     },
     {
       "surface": "ויתדתיה",
-      "gloss": "na pegi zake"
+      "gloss": "na vipeo vyake"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "vyombo vyote vya utumishi wa maskani"
+      "marks": "vyombo vyote vya kazi ya maskani"
     },
     {
       "surface": "כל",
@@ -83,11 +83,11 @@
     },
     {
       "surface": "עבדת",
-      "gloss": "vya utumishi"
+      "gloss": "vya kazi"
     },
     {
       "surface": "המשכן",
-      "gloss": "wa maskani"
+      "gloss": "ya maskani"
     },
     {
       "surface": "לאהל",
@@ -98,6 +98,6 @@
       "gloss": "ya mkutano"
     }
   ],
-  "timestamp": "2026-08-10T14:32:03.021654355Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:15.079070005Z",
+  "model": "glm-5.3"
 }

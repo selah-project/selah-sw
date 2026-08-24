@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 10,
-  "translation": "Akawaambia kama shauri ya vijana, akisema: Nitafanya mzigo wenu kuwa mzito, na mimi nitaongeza juu yake; baba yangu aliadhibu ⟨אתם⟩ kwa viboko, na mimi kwa ngozi.",
+  "translation": "Akawaambia kwa shauri ya vijana, akisema: Baba yangu alizifanya mizigo yenu nzito, na mimi nitaongeza juu yake; baba yangu aliwaadhibu kwa mapigo wa kwio, na mimi ⟨nitawaadhibu⟩ kwa nge.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "na akawaambia"
+      "gloss": "Akawaambia"
     },
     {
       "surface": "אלהם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "כעצת",
-      "gloss": "kama shauri"
+      "gloss": "kwa shauri ya"
     },
     {
       "surface": "הילדים",
-      "gloss": "ya vijana"
+      "gloss": "vijana"
     },
     {
       "surface": "לאמר",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "אכביד",
-      "gloss": "nitafanya mzito"
+      "gloss": "nalizifanya nzito"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mzigo wenu"
+      "marks": "mizigo yenu"
     },
     {
       "surface": "עלכם",
-      "gloss": "mzigo wenu"
+      "gloss": "mizigo yenu"
     },
     {
       "surface": "ואני",
@@ -58,15 +58,16 @@
     },
     {
       "surface": "יסר",
-      "gloss": "aliadhibu"
+      "gloss": "aliwaadhibu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתם⟩"
+      "gloss": "⟨את⟩ nyinyi",
+      "marks": "nyinyi"
     },
     {
       "surface": "בשוטים",
-      "gloss": "kwa viboko"
+      "gloss": "kwa mapigo wa kwio"
     },
     {
       "surface": "ואני",
@@ -74,9 +75,9 @@
     },
     {
       "surface": "בעקרבים",
-      "gloss": "kwa ngozi"
+      "gloss": "kwa nge"
     }
   ],
-  "timestamp": "2026-08-10T15:45:23.729630203Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:22.900137716Z",
+  "model": "glm-5.3"
 }

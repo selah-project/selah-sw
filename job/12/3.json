@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "sw",
   "chapter": 12,
-  "translation": "Lakini mimi pia nina moyo kama nyinyi; siko duni kuliko nyinyi; na ⟨כמו אלה⟩ nani hayapo kama haya?",
+  "translation": "Pia mimi nina moyo kama nyinyi; si mshushwa kuliko nyinyi; na ⟨את⟩ nani hakuna kama hivi?",
   "tokens": [
     {
       "surface": "גם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "kwangu"
+      "gloss": "mimi"
     },
     {
       "surface": "לבב",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "נפל",
-      "gloss": "duni"
+      "gloss": "mshushwa"
     },
     {
       "surface": "אנכי",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אין",
-      "gloss": "hayapo"
+      "gloss": "hakuna"
     },
     {
       "surface": "כמו",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "אלה",
-      "gloss": "haya"
+      "gloss": "hivi"
     }
   ],
-  "timestamp": "2026-08-10T15:33:46.388580384Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:18.314998817Z",
+  "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 36,
-  "translation": "Na nitaliongeza ⟨⟨את⟩⟩ matunda ya mti na mazao ya shamba, ili msichukue tena aibu ya njaa katika mataifa.",
+  "translation": "Nami nitaongeza ⟨את⟩ matunda ya mti na mazao ya shamba, ili msipokee tena aibu ya njaa miongoni mwa mataifa.",
   "tokens": [
     {
       "surface": "והרביתי",
-      "gloss": "Na nitaliongeza"
+      "gloss": "nami nitaongeza"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "matunda"
+      "marks": "matunda ya mti"
     },
     {
       "surface": "פרי",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "msichukue"
+      "gloss": "kwamba"
     },
     {
       "surface": "לא",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "תקחו",
-      "gloss": "kichukue"
+      "gloss": "msipokee"
     },
     {
       "surface": "עוד",
@@ -54,17 +54,17 @@
     },
     {
       "surface": "חרפת",
-      "gloss": "aibu"
+      "gloss": "aibu ya"
     },
     {
       "surface": "רעב",
-      "gloss": "ya njaa"
+      "gloss": "njaa"
     },
     {
       "surface": "בגוים",
-      "gloss": "katika mataifa"
+      "gloss": "miongoni mwa mataifa"
     }
   ],
-  "timestamp": "2026-08-10T12:36:45.568869959Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:30.409818644Z",
+  "model": "glm-5.3"
 }

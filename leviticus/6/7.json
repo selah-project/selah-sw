@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 6,
-  "translation": "Na hii ⟨ni⟩ torati ya ⟨המנחה →⟩ toa ⟨את⟩ ⟨hiyo⟩ wana wa Aharoni mbele za Yahweh, ⟨kabla ya⟩ uso wa madhabahu.",
+  "translation": "Na hii ndiyo sheria ya sadaka ya unga: wana wa Aharon wataitoleta ⟨את⟩ mbele za Yahweh, mbele za altare.",
   "tokens": [
     {
       "surface": "וזאת",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "תורת",
-      "gloss": "torati ya"
+      "gloss": "sheria ya"
     },
     {
       "surface": "המנחה",
-      "gloss": "⟨המנחה →⟩"
+      "gloss": "sadaka ya unga"
     },
     {
       "surface": "הקרב",
-      "gloss": "toa"
+      "gloss": "wataitoleta"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "hiyo"
+      "marks": "sadaka ya unga"
     },
     {
       "surface": "בני",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharoni"
+      "gloss": "Aharon"
     },
     {
       "surface": "לפני",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨kabla ya⟩"
+      "gloss": "mbele za"
     },
     {
       "surface": "פני",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "madhabahu"
+      "gloss": "altare"
     }
   ],
-  "timestamp": "2026-08-10T10:31:37.736506638Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:59:27.789336814Z",
+  "model": "glm-5.3"
 }

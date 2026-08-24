@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 37,
-  "translation": "Yirmeyahu akatoka Yerushalayim aende nchi ya Binyamin, kupata sehemu humo katikati ya ⟨the⟩ watu.",
+  "translation": "Yirmeyahu akatoka Yerushalayim ili aende nchi ya Binyamin, kupata sehemu yake ⟨pale⟩ katikati ya watu.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ללכת",
-      "gloss": "aende"
+      "gloss": "ili aende"
     },
     {
       "surface": "ארץ",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "בנימן",
-      "gloss": "ya Binyamin"
+      "gloss": "Binyamin"
     },
     {
       "surface": "לחלק",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "משם",
-      "gloss": "humo"
+      "gloss": "pale"
     },
     {
       "surface": "בתוך",
@@ -48,6 +48,6 @@
       "gloss": "watu"
     }
   ],
-  "timestamp": "2026-08-10T12:20:51.900313004Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:07:58.261278570Z",
+  "model": "glm-5.3"
 }

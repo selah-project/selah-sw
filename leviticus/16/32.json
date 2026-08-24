@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 16,
-  "translation": "Na kuhani atakayetiwa mafuta na ambaye ⟨atatiwa⟩ ⟨את⟩ mkono wake awe kuhani mahali pa baba yake, ↑atakafua, na kuvaa ⟨את⟩ nguo za kitani — nguo za utakatifu.",
+  "translation": "Na kuhani ambaye atapakwa mafuta ⟨את⟩ yeye, na ambaye mkono wake utajazwa aweke kuhani mahali pa baba yake, atafanya upatanisho, na atavaa ⟨את⟩ nguo za kitani, nguo za ⟨the⟩ kitakatifu.",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "Na atakafua"
+      "gloss": "na atafanya upatanisho"
     },
     {
       "surface": "הכהן",
@@ -21,12 +21,12 @@
     },
     {
       "surface": "ימשח",
-      "gloss": "atakayetiwa mafuta"
+      "gloss": "atapakwa mafuta"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "ambaye"
+      "gloss": "⟨את⟩ yeye",
+      "marks": "yeye (kuhana yule)"
     },
     {
       "surface": "ואשר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ימלא",
-      "gloss": "atatiwa"
+      "gloss": "utajazwa"
     },
     {
       "surface": "את",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "לכהן",
-      "gloss": "awe kuhani"
+      "gloss": "aweke kuhani"
     },
     {
       "surface": "תחת",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "ולבש",
-      "gloss": "na kuvaa"
+      "gloss": "na atavaa"
     },
     {
       "surface": "את",
@@ -80,9 +80,9 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "utakatifu"
+      "gloss": "kitakatifu"
     }
   ],
-  "timestamp": "2026-08-10T10:35:56.575007001Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:16.596103907Z",
+  "model": "glm-5.3"
 }

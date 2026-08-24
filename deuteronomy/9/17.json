@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 9,
-  "translation": "Nikashika ⟨safu⟩ mbili za ⟨the⟩ vibao, nikavitupa kutoka mikono yangu miwili, nikavivunja mbele ya macho yenu.",
+  "translation": "Nikashika ⟨את⟩ mibao mbili, nikazitupa kutoka mikono yangu miwili, nikazivunja mbele ya macho yenu.",
   "tokens": [
     {
       "surface": "ואתפש",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "בשני",
-      "gloss": "mbili za"
+      "gloss": "mbili"
     },
     {
       "surface": "הלחת",
-      "gloss": "kibao"
+      "gloss": "mibao"
     },
     {
-      "surface": "ואשלכם",
-      "gloss": "nikavitupa"
+      "surface": "ויאשלכם",
+      "gloss": "nikazitupa"
     },
     {
       "surface": "מעל",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "ואשברם",
-      "gloss": "nikavivunja"
+      "gloss": "nikazivunja"
     },
     {
       "surface": "לעיניכם",
       "gloss": "mbele ya macho yenu"
     }
   ],
-  "timestamp": "2026-08-10T14:42:27.201530715Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:05.715110404Z",
+  "model": "glm-5.3"
 }

@@ -5,16 +5,15 @@
   "book": "jeremiah",
   "lang": "sw",
   "chapter": 16,
-  "translation": "Nami nitawatupa ⟨⟩ kutoka nchi hii, ⟨ ⟩ juu ya nchi ambayo hamkuijua nyinyi wala baba zenu, na mtumika huko ⟨את⟩ elohim wengine mchana na usiku, ambapo sitawapa ⟨⟩ rehema.",
+  "translation": "Kwa hiyo nitawatupa nyinyi kutoka nchi hii, ⟨kwenye⟩ nchi ambayo nyinyi na baba zenu hamhuijua; na mtatumikia huko ⟨את⟩ Elohim wengine mchana na usiku, ambako sitawapa chenina.",
   "tokens": [
     {
       "surface": "והטלתי",
-      "gloss": "nami nitawatupa"
+      "gloss": "nitawatupa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "nyinyi"
+      "gloss": "⟨את⟩ nyinyi"
     },
     {
       "surface": "מעל",
@@ -30,7 +29,7 @@
     },
     {
       "surface": "על",
-      "gloss": "juu ya"
+      "gloss": "⟨kwenye⟩"
     },
     {
       "surface": "הארץ",
@@ -42,11 +41,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "sio"
+      "gloss": "ham-"
     },
     {
       "surface": "ידעתם",
-      "gloss": "mlijua"
+      "gloss": "-uijua"
     },
     {
       "surface": "אתם",
@@ -58,7 +57,7 @@
     },
     {
       "surface": "ועבדתם",
-      "gloss": "na mtumika"
+      "gloss": "na mtatumikia"
     },
     {
       "surface": "שם",
@@ -67,7 +66,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "elohim"
+      "marks": "Elohim wengine"
     },
     {
       "surface": "אלהים",
@@ -87,25 +86,25 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambapo"
+      "gloss": "ambako"
     },
     {
       "surface": "לא",
-      "gloss": "sio"
+      "gloss": "si-"
     },
     {
       "surface": "אתן",
-      "gloss": "nitawapa"
+      "gloss": "-tawapa"
     },
     {
       "surface": "לכם",
-      "gloss": "nyinyi"
+      "gloss": "⟨wakiona⟩"
     },
     {
       "surface": "חנינה",
-      "gloss": "rehema"
+      "gloss": "chenina"
     }
   ],
-  "timestamp": "2026-08-10T12:14:31.369561781Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:08.583992121Z",
+  "model": "glm-5.3"
 }

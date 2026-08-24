@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Na wakisema kwenu, «Lekenieni mapepo na waganga wa kujua, wanaonong'ona na wanaogonga,» je, taifa halitafuta Elohim wake? Kwa ajili ya walio hai, ⟨⟨je, watamwendea⟩⟩ waliokufa?",
+  "translation": "Na wakiwaambieni: Tafuteni kwa waomba-mizimu na kwa wajua-mambo ya siri, wanaopiga sauti za manogo na kunong'ona — je, taifa halitafuti ⟨kwa⟩ Elohim wake, kwa ajili ya wahai, ⟨kwa⟩ wafu?",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "Na wakati"
+      "gloss": "Na"
     },
     {
       "surface": "יאמרו",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אליכם",
-      "gloss": "kwenu"
+      "gloss": "kuwaambieni"
     },
     {
       "surface": "דרשו",
-      "gloss": "Lekenieni"
+      "gloss": "Tafuteni"
     },
     {
       "surface": "אל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "האבות",
-      "gloss": "mapepo"
+      "gloss": "waomba-mizimu"
     },
     {
       "surface": "ואל",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "הידענים",
-      "gloss": "waganga wa kujua"
+      "gloss": "wajua-mambo ya siri"
     },
     {
       "surface": "המצפצפים",
-      "gloss": "wanaonong'ona"
+      "gloss": "wanaopiga sauti za manogo"
     },
     {
       "surface": "והמהגים",
-      "gloss": "na wanaogonga"
+      "gloss": "na kunong'ona"
     },
     {
       "surface": "הלוא",
-      "gloss": "je"
+      "gloss": "je, haliku-"
     },
     {
       "surface": "עם",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨kwa⟩"
+      "gloss": "kwa"
     },
     {
       "surface": "אלהיו",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "ידרש",
-      "gloss": "halitafuta"
+      "gloss": "-tafuti"
     },
     {
       "surface": "בעד",
-      "gloss": "Kwa ajili ya"
+      "gloss": "kwa ajili ya"
     },
     {
       "surface": "החיים",
-      "gloss": "walio hai"
+      "gloss": "wahai"
     },
     {
       "surface": "אל",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "המתים",
-      "gloss": "waliokufa"
+      "gloss": "wafu"
     }
   ],
-  "timestamp": "2026-08-10T11:55:27.854234297Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:31.005314031Z",
+  "model": "glm-5.3"
 }

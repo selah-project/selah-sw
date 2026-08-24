@@ -5,80 +5,80 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 16,
-  "translation": "Na ⟨⟨atapatanisha⟩⟩ ⟨את⟩ takaso la sanamu hata ⟨את⟩ hema la mkutano, na ⟨את⟩ madhabahu ⟨⟨atapatanisha⟩⟩; na kwa makuhani na kwa watu wote wa mkutano ⟨⟨atapatanisha⟩⟩.",
+  "translation": "Na atafanya upatanisho kwa ⟨את⟩ patakatifu pa kitakatifu, na kwa ⟨את⟩ hema ya mkutano, na kwa ⟨את⟩ madhabahu atafanya upatanisho; na kwa makuhani na kwa watu wote wa mkutano atafanya upatanisho.",
   "tokens": [
     {
-      "surface": "וְכִפֶּר",
-      "gloss": "na atapatanisha"
+      "surface": "וכפר",
+      "gloss": "na atafanya upatanisho"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "takaso la sanamu"
+      "marks": "patakatifu pa kitakatifu"
     },
     {
-      "surface": "מִקְדַּשׁ",
-      "gloss": "takaso"
+      "surface": "מקדש",
+      "gloss": "patakatifu pa"
     },
     {
-      "surface": "הַקֹּדֶשׁ",
-      "gloss": "la sanamu"
+      "surface": "הקדש",
+      "gloss": "kitakatifu"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "hema la mkutano"
+      "marks": "hema ya mkutano"
     },
     {
-      "surface": "אֹהֶל",
-      "gloss": "hema"
+      "surface": "אהל",
+      "gloss": "hema ya"
     },
     {
-      "surface": "מוֹעֵד",
-      "gloss": "la mkutano"
+      "surface": "מועד",
+      "gloss": "mkutano"
     },
     {
-      "surface": "וְאֶת",
+      "surface": "ואת",
       "gloss": "na ⟨את⟩",
       "marks": "madhabahu"
     },
     {
-      "surface": "הַמִּזְבֵּחַ",
+      "surface": "המזבח",
       "gloss": "madhabahu"
     },
     {
-      "surface": "יְכַפֵּר",
-      "gloss": "atapatanisha"
+      "surface": "יכפר",
+      "gloss": "atafanya upatanisho"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "na kwa"
     },
     {
-      "surface": "הַכֹּהֲנִים",
+      "surface": "הכהנים",
       "gloss": "makuhani"
     },
     {
-      "surface": "וְעַל",
+      "surface": "ועל",
       "gloss": "na kwa"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "wote"
     },
     {
-      "surface": "עַם",
-      "gloss": "watu"
+      "surface": "עם",
+      "gloss": "watu wa"
     },
     {
-      "surface": "הַקָּהָל",
-      "gloss": "wa mkutano"
+      "surface": "הקהל",
+      "gloss": "mkutano"
     },
     {
-      "surface": "יְכַפֵּר",
-      "gloss": "atapatanisha"
+      "surface": "יכפר",
+      "gloss": "atafanya upatanisho"
     }
   ],
-  "timestamp": "2026-08-10T10:35:21.214041264Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:16.596389387Z",
+  "model": "glm-5.3"
 }

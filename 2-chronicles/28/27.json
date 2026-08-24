@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 28,
-  "translation": "Akalala Akhazi na baba zake, wakamzika ⟨⟨yeye⟩⟩ katika mji, katika Yerushalayim, maana hawakumuingiza kwenye makaburi ya wafalme wa Yisraeli, akatawaza Yechizkiyahu mwana wake badala yake.",
+  "translation": "Achaz akalala na baba zake, wakamzika ⟨katika⟩ mji, Yerushalayim, kwa sababu hawakumuingiza katika makaburi ya wafalme wa Yisrael; Yechizkiyahu mwana wake akatawala mahali pake.",
   "tokens": [
     {
       "surface": "וישכב",
-      "gloss": "Akalala"
+      "gloss": "akalala"
     },
     {
       "surface": "אחז",
-      "gloss": "Akhazi"
+      "gloss": "Achaz"
     },
     {
       "surface": "עם",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "בירושלם",
-      "gloss": "katika Yerushalayim"
+      "gloss": "Yerushalayim"
     },
     {
       "surface": "כי",
-      "gloss": "maana"
+      "gloss": "kwa sababu"
     },
     {
       "surface": "לא",
-      "gloss": "sio"
+      "gloss": "si"
     },
     {
       "surface": "הביאהו",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "לקברי",
-      "gloss": "kwenye makaburi ya"
+      "gloss": "katika makaburi"
     },
     {
       "surface": "מלכי",
-      "gloss": "wafalme wa"
+      "gloss": "ya wafalme"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraeli"
+      "gloss": "Yisrael"
     },
     {
       "surface": "וימלך",
-      "gloss": "akatawaza"
+      "gloss": "akatawala"
     },
     {
       "surface": "יחזקיהו",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "תחתיו",
-      "gloss": "badala yake"
+      "gloss": "mahali pake"
     }
   ],
-  "timestamp": "2026-08-10T15:46:08.423342584Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:30.937556087Z",
+  "model": "glm-5.3"
 }

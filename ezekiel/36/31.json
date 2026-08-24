@@ -5,16 +5,16 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 36,
-  "translation": "Nanyi mtakumbuka ⟨⟨את⟩⟩ njia zenu mbaya na matendo yenu yasiyo mazuri, na mtajichukia mbele za nywele zenu juu ya dhambi zenu na juu ya machukizo yenu.",
+  "translation": "Nanyi mtakumbuka ⟨את⟩ njia zenu mbaya na matendo yenu yasiyo mazuri, na mtajichukia ⟨sisi wenyewe⟩ katika nyuso zenu kwa makosa yenu na kwa machukizo yenu.",
   "tokens": [
     {
       "surface": "וזכרתם",
-      "gloss": "Nanyi mtakumbuka"
+      "gloss": "mtakumbuka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "njia zenu"
+      "marks": "njia zenu mbaya"
     },
     {
       "surface": "דרכיכם",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ומעלליכם",
-      "gloss": "na matendo yenu"
+      "gloss": "matendo yenu"
     },
     {
       "surface": "אשר",
@@ -37,34 +37,34 @@
       "gloss": "si"
     },
     {
-      "surface": "톱ים",
+      "surface": "טובים",
       "gloss": "mazuri"
     },
     {
       "surface": "ונקטתם",
-      "gloss": "na mtajichukia"
+      "gloss": "mtajichukia"
     },
     {
       "surface": "בפניכם",
-      "gloss": "mbele za nywele zenu"
+      "gloss": "katika nyuso zenu"
     },
     {
       "surface": "על",
-      "gloss": "juu ya"
+      "gloss": "kwa"
     },
     {
       "surface": "עונתיכם",
-      "gloss": "dhambi zenu"
+      "gloss": "makosa yenu"
     },
     {
       "surface": "ועל",
-      "gloss": "na juu ya"
+      "gloss": "na kwa"
     },
     {
       "surface": "תועבותיכם",
       "gloss": "machukizo yenu"
     }
   ],
-  "timestamp": "2026-08-10T12:36:45.569080953Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:10:30.409976912Z",
+  "model": "glm-5.3"
 }

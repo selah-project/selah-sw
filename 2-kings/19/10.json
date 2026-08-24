@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "sw",
   "chapter": 19,
-  "translation": "Hivyo mtamwambia Chizkiyahu mfalme wa Yehudah, mkiambia: Asiwezeku kukudanganya Elohim wako ambaye wewe unamtumainia, kwa kusema: Yerushalayim haitatolewa ⟨⟨katika⟩⟩ mkono wa mfalme wa Ashuru.",
+  "translation": "Hivi mtasema kwa Chizkiyahu, mfalme wa Yehudah, mkisema: Mungu wako asikudanganye wewe, ambaye ⟨wewe⟩ unamwamini yeye, akisema: Yerushalayim haitaletwa ⟨katika⟩ mkono wa mfalme wa Ashur.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "hivyo"
+      "gloss": "Hivi"
     },
     {
       "surface": "תאמרון",
-      "gloss": "mtamwambia"
+      "gloss": "mtasema"
     },
     {
       "surface": "אל",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "wa Yehudah"
+      "gloss": "Yehudah"
     },
     {
       "surface": "לאמר",
-      "gloss": "mkiambia"
+      "gloss": "mkisema"
     },
     {
       "surface": "אל",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ישאך",
-      "gloss": "wezeku kukudanganya"
+      "gloss": "akudanganye"
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim wako"
+      "gloss": "Mungu wako"
     },
     {
       "surface": "אשר",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "בטח",
-      "gloss": "unamtumainia"
+      "gloss": "unamwamini"
     },
     {
       "surface": "בו",
-      "gloss": "mwe"
+      "gloss": "yeye"
     },
     {
       "surface": "לאמר",
-      "gloss": "kwa kusema"
+      "gloss": "akisema"
     },
     {
       "surface": "לא",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "תנתן",
-      "gloss": "itatolewa"
+      "gloss": "italetwa"
     },
     {
       "surface": "ירושלם",
@@ -85,13 +85,13 @@
     },
     {
       "surface": "מלך",
-      "gloss": "wa mfalme"
+      "gloss": "mfalme"
     },
     {
       "surface": "אשור",
-      "gloss": "wa Ashuru"
+      "gloss": "wa Ashur"
     }
   ],
-  "timestamp": "2026-08-10T11:51:24.082287553Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:06:23.079360581Z",
+  "model": "glm-5.3"
 }

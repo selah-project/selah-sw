@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 26,
-  "translation": "Mtakula ⟨הַיָּשָׁן⟩ ya zamani, yaliyokwisha kuzaa ⟨נוֹשָׁן⟩; na za zamani mtoa ⟨mbeleni⟩ za sababu ya mpya.",
+  "translation": "Mtakula chakula cha zamani kilichochekwa muda mrefu, na cha zamani mnapaswa kutoa nje kwa sababu ya kipya.",
   "tokens": [
     {
       "surface": "ואכלתם",
@@ -13,29 +13,29 @@
     },
     {
       "surface": "ישן",
-      "gloss": "⟨za⟩ zamani"
+      "gloss": "cha zamani"
     },
     {
       "surface": "נושן",
-      "gloss": "yaliyokwisha kuzeeka"
+      "gloss": "kilichochekwa muda mrefu"
     },
     {
       "surface": "וישן",
-      "gloss": "na za zamani"
+      "gloss": "na cha zamani"
     },
     {
       "surface": "מפני",
-      "gloss": "sababu ya"
+      "gloss": "kwa sababu ya"
     },
     {
       "surface": "חדש",
-      "gloss": "mpya"
+      "gloss": "kipya"
     },
     {
       "surface": "תוציאו",
-      "gloss": "mtoa mbeleni"
+      "gloss": "mnapaswa kutoa nje"
     }
   ],
-  "timestamp": "2026-08-10T10:38:56.532636537Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:02.923427149Z",
+  "model": "glm-5.3"
 }

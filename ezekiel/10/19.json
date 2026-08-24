@@ -5,28 +5,28 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 10,
-  "translation": "Na makerubi yaliinua ⟨את⟩ mabawa yake, yakainuka kutoka katika nchi mbele za macho yangu, katika kuondoka kwake, na magurudumu yalikuwa pembeni mwake; ⟨⟨yakasimama⟩⟩ mlangoni pa lango la mashariki la nyumba ya Yahweh, na utukufu wa Elohim wa Yisraeli ulikuwa juu yao, kutoka juu.",
+  "translation": "Makarubi yaliinua ⟨את⟩ mabawa yao, yakanyanyuka kutoka katika nchi mbele ya macho yangu walipotoka, na magurudumu yalikuwa kando yao; yakasimama kwenye ufunguzi wa lango la nyumba ya Yahweh, la upande wa mashariki ⟨(הקדמוני)⟩; na utukufu wa Elohim wa Yisraeli ulikuwa juu yao kutoka juu.",
   "tokens": [
     {
       "surface": "וישאו",
-      "gloss": "na yaliinua"
+      "gloss": "yaliinua"
     },
     {
       "surface": "הכרובים",
-      "gloss": "makerubi"
+      "gloss": "Makarubi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mabawa yake"
+      "marks": "mabawa yao"
     },
     {
       "surface": "כנפיהם",
-      "gloss": "mabawa yake"
+      "gloss": "mabawa yao"
     },
     {
       "surface": "וירומו",
-      "gloss": "yakainuka"
+      "gloss": "yakanyanyuka"
     },
     {
       "surface": "מן",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "לעיני",
-      "gloss": "mbele za macho yangu"
+      "gloss": "mbele ya macho yangu"
     },
     {
       "surface": "בצאתם",
-      "gloss": "katika kuondoka kwake"
+      "gloss": "walipotoka"
     },
     {
       "surface": "והאופנים",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "לעמתם",
-      "gloss": "pembeni mwake"
+      "gloss": "kando yao"
     },
     {
       "surface": "ויעמד",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "פתח",
-      "gloss": "mlangoni"
+      "gloss": "kwenye ufunguzi"
     },
     {
       "surface": "שער",
-      "gloss": "pa lango"
+      "gloss": "wa lango"
     },
     {
       "surface": "בית",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "הקדמוני",
-      "gloss": "la mashariki"
+      "gloss": "la upande wa mashariki"
     },
     {
       "surface": "וכבוד",
@@ -97,6 +97,6 @@
       "gloss": "kutoka juu"
     }
   ],
-  "timestamp": "2026-08-10T16:12:15.666210419Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:09:30.115575792Z",
+  "model": "glm-5.3"
 }

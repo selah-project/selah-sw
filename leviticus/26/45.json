@@ -5,27 +5,27 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 26,
-  "translation": "Nami nitawakumbukia ⟨wao⟩ ile berit ya wakuu, ambao niliwatoa ⟨אתם⟩ kutoka nchi ya Mitsrayim mbele ya macho ya mataifa, ili kuwa kwao kwa Elohim; mimi Yahweh.",
+  "translation": "Nami nitawakumbuka ⟨kwa ajili yao⟩ agano la kwanza, ambalo niliwatoa ⟨אתם⟩ katika nchi ya Mitsrayim, mbele ya macho ya mataifa, ili niwe kwao Elohim; mimi ndimi Yahweh.",
   "tokens": [
     {
       "surface": "וזכרתי",
-      "gloss": "nami nitawakumbukia"
+      "gloss": "Nami nitawakumbuka"
     },
     {
       "surface": "להם",
-      "gloss": "⟨wao⟩"
+      "gloss": "kwa ajili yao"
     },
     {
       "surface": "ברית",
-      "gloss": "berit"
+      "gloss": "agano"
     },
     {
       "surface": "ראשנים",
-      "gloss": "ya wakuu"
+      "gloss": "la kwanza"
     },
     {
       "surface": "אשר",
-      "gloss": "ambao"
+      "gloss": "ambalo"
     },
     {
       "surface": "הוצאתי",
@@ -34,27 +34,27 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "wao"
+      "marks": "wao (niliwatoa katika nchi ya Mitsrayim)"
     },
     {
       "surface": "מארץ",
-      "gloss": "kutoka nchi ya"
+      "gloss": "katika nchi"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "ya Mitsrayim"
     },
     {
       "surface": "לעיני",
-      "gloss": "mbele ya macho ya"
+      "gloss": "mbele ya macho"
     },
     {
       "surface": "הגוים",
-      "gloss": "mataifa"
+      "gloss": "ya mataifa"
     },
     {
       "surface": "להית",
-      "gloss": "ili kuwa"
+      "gloss": "ili niwe"
     },
     {
       "surface": "להם",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "לאלהים",
-      "gloss": "kwa Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אני",
@@ -73,6 +73,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T14:35:52.454858123Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:57.727828087Z",
+  "model": "glm-5.3"
 }

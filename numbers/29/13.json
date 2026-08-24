@@ -5,89 +5,89 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 29,
-  "translation": "Na mtole ⟨עלה⟩, ⟨אשה⟩, harufu ya kupendeza kwa Yahweh: ndume wa ng'ombe kumi na tatu, mbegu za kondoo wawili, wanakondoo wa mwaka mmoja kumi na wanne; wa kuwa kamili.",
+  "translation": "Na mtatoa ⟨את⟩ sadaka ya kuchomwa, ⟨את⟩ sadaka ya moto, harufu yenye utulivu ⟨wa⟩ kupendeza kwa Yahweh: ndume wa ng'ombe kumi na watatu, makondoo wawili, kondoo ⟨wa⟩ wanawanyama wa mwaka mmoja kumi na wanne; watimifu watakuwa.",
   "tokens": [
     {
-      "surface": "וְהִקְרַבְתֶּ֨ם",
-      "gloss": "na mtole"
+      "surface": "והקרבתם",
+      "gloss": "Na mtatoa"
     },
     {
-      "surface": "עֹלָ֜ה",
-      "gloss": "⟨עלה⟩"
+      "surface": "עלה",
+      "gloss": "sadaka ya kuchomwa"
     },
     {
-      "surface": "אִשֵּׁ֨ה",
-      "gloss": "⟨אשה⟩"
+      "surface": "אשה",
+      "gloss": "sadaka ya moto"
     },
     {
-      "surface": "רֵ֤יחַ",
+      "surface": "ריח",
       "gloss": "harufu"
     },
     {
-      "surface": "נִיחֹ֨חַ֙",
-      "gloss": "ya kupendeza"
+      "surface": "ניחח",
+      "gloss": "yenye utulivu wa kupendeza"
     },
     {
-      "surface": "לַֽיהוָ֔ה",
+      "surface": "ליהוה",
       "gloss": "kwa Yahweh"
     },
     {
-      "surface": "פָּרִ֧ים",
-      "gloss": "ndume wa"
+      "surface": "פרים",
+      "gloss": "ndume"
     },
     {
-      "surface": "בְּנֵי",
-      "gloss": "mbegu za"
-    },
-    {
-      "surface": "בָקָ֛ר",
-      "gloss": "ng'ombe"
-    },
-    {
-      "surface": "שְׁלֹשָׁ֥ה",
-      "gloss": "kumi na"
-    },
-    {
-      "surface": "עָשָׂ֖ר",
-      "gloss": "tatu"
-    },
-    {
-      "surface": "אֵילִ֣ם",
-      "gloss": "kondoo"
-    },
-    {
-      "surface": "שְׁנָ֑יִם",
-      "gloss": "wawili"
-    },
-    {
-      "surface": "כְּבָשִׂ֧ים",
-      "gloss": "wanakondoo"
-    },
-    {
-      "surface": "בְּנֵֽי",
+      "surface": "בני",
       "gloss": "wa"
     },
     {
-      "surface": "שָׁנָ֛ה",
+      "surface": "בקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na watatu"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "makondoo wawili"
+    },
+    {
+      "surface": "שנים",
+      "gloss": ""
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "kondoo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa"
+    },
+    {
+      "surface": "שנה",
       "gloss": "mwaka mmoja"
     },
     {
-      "surface": "אַרְבָּעָ֥ה",
-      "gloss": "kumi na"
+      "surface": "ארבעה",
+      "gloss": "kumi"
     },
     {
-      "surface": "עָשָׂ֖ר",
-      "gloss": "wanne"
+      "surface": "עשר",
+      "gloss": "na wanne"
     },
     {
-      "surface": "תְּמִימִ֥ם",
-      "gloss": "wa kuwa kamili"
+      "surface": "תמימם",
+      "gloss": "watimifu"
     },
     {
-      "surface": "יִהְיֽוּ",
-      "gloss": ""
+      "surface": "יהיו",
+      "gloss": "watakuwa"
     }
   ],
-  "timestamp": "2026-08-10T14:41:13.610134840Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:36.566800176Z",
+  "model": "glm-5.3"
 }

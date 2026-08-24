@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 16,
-  "translation": "Na ikiwa uumbaji Yahweh ataumba, na ⟨the⟩ nchi ifungue ⟨את⟩ kinywa chake, nao wamelezwa, na ⟨את⟩ vyote walivyo navyo, nao washuka hai Sheola, mtajua kwamba hawa watu wamedharau ⟨את⟩ Yahweh.",
+  "translation": "Lakini kama Yahweh atatenda kitu kipya, na ardhi ifungue ⟨את⟩ mdomo wake, iwate ⟨את⟩ hao pamoja na ⟨את⟩ vyote walivyo navyo, nao washuke hai Sheol, mtajua kwamba watu hawa walimdharau ⟨את⟩ Yahweh.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "na ikiwa"
+      "gloss": "Lakini kama"
     },
     {
       "surface": "בריאה",
-      "gloss": "uumbaji"
+      "gloss": "kitu kipya"
     },
     {
       "surface": "יברא",
-      "gloss": "ataumba"
+      "gloss": "atatenda"
     },
     {
       "surface": "יהוה",
@@ -29,29 +29,29 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "nchi"
+      "gloss": "ardhi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kinywa chake"
+      "marks": "mdomo wake"
     },
     {
       "surface": "פיה",
-      "gloss": "kinywa chake"
+      "gloss": "mdomo wake"
     },
     {
       "surface": "ובלעה",
-      "gloss": "nao wamelezwa"
+      "gloss": "na iwate"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "wamelezwa"
+      "marks": "hao"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "vyote walivyo navyo"
     },
     {
@@ -60,15 +60,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ambavyo"
+      "gloss": "walivyo"
     },
     {
       "surface": "להם",
-      "gloss": "walivyo navyo"
+      "gloss": "navyo"
     },
     {
       "surface": "וירדו",
-      "gloss": "nao washuka"
+      "gloss": "na washuke"
     },
     {
       "surface": "חיים",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "שאלה",
-      "gloss": "Sheola"
+      "gloss": "Sheol"
     },
     {
       "surface": "וידעתם",
@@ -88,11 +88,11 @@
     },
     {
       "surface": "נאצו",
-      "gloss": "wamedharau"
+      "gloss": "walimdharau"
     },
     {
       "surface": "האנשים",
-      "gloss": "watu"
+      "gloss": "watu hawa"
     },
     {
       "surface": "האלה",
@@ -108,6 +108,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T10:46:46.106424500Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:10.671064322Z",
+  "model": "glm-5.3"
 }

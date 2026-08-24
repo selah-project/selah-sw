@@ -5,65 +5,65 @@
   "book": "ecclesiastes",
   "lang": "sw",
   "chapter": 3,
-  "translation": "Ni nani ajuae roho ya wana wa ⟨ה⟩adamu — ⟨hiyo⟩ inayopanda juu, na roho ya ⟨ה⟩mnyama — ⟨hiyo⟩ inayoshuka chini, ⟨kwenda⟩ ardhini?",
+  "translation": "Ni nani anayejua ⟨kama⟩ roho ya wanadamu inapanda juu, au roho ya mnyama inashuka chini kwenda ardhi?",
   "tokens": [
     {
-      "surface": "מִ֣י",
+      "surface": "מי",
       "gloss": "ni nani"
     },
     {
-      "surface": "יוֹדֵ֗עַ",
-      "gloss": "ajuae"
+      "surface": "יודע",
+      "gloss": "anayejua"
     },
     {
-      "surface": "ר֚וּחַ",
+      "surface": "רוח",
       "gloss": "roho"
     },
     {
-      "surface": "בְּנֵ֣י",
-      "gloss": "ya wana"
+      "surface": "בני",
+      "gloss": "ya wanadamu"
     },
     {
-      "surface": "הָאָדָ֔ם",
-      "gloss": "wa ⟨ה⟩adamu"
+      "surface": "האדם",
+      "gloss": "⟨wanadamu⟩"
     },
     {
-      "surface": "הָעֹלָ֥ה",
-      "gloss": "inayopanda"
+      "surface": "העלה",
+      "gloss": "inapanda"
     },
     {
-      "surface": "הִ֖יא",
-      "gloss": "⟨hiyo⟩"
+      "surface": "היא",
+      "gloss": "⟨ina⟩"
     },
     {
-      "surface": "לְמָ֑עְלָה",
+      "surface": "למעלה",
       "gloss": "juu"
     },
     {
-      "surface": "וְר֨וּחַ֙",
-      "gloss": "na roho"
+      "surface": "ורוח",
+      "gloss": "au roho"
     },
     {
-      "surface": "הַבְּהֵמָ֔ה",
-      "gloss": "ya ⟨ה⟩mnyama"
+      "surface": "הבהמה",
+      "gloss": "ya mnyama"
     },
     {
-      "surface": "הַיֹּרֶ֥דֶת",
-      "gloss": "inayoshuka"
+      "surface": "הירדת",
+      "gloss": "inashuka"
     },
     {
-      "surface": "הִ֖יא",
-      "gloss": "⟨hiyo⟩"
+      "surface": "היא",
+      "gloss": "⟨ina⟩"
     },
     {
-      "surface": "לְמַ֥טָּה",
+      "surface": "למטה",
       "gloss": "chini"
     },
     {
-      "surface": "לָאָֽרֶץ",
-      "gloss": "⟨kwenda⟩ ardhini"
+      "surface": "לארץ",
+      "gloss": "kwenda ardhi"
     }
   ],
-  "timestamp": "2026-08-10T15:37:11.679407871Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:09.519338583Z",
+  "model": "glm-5.3"
 }

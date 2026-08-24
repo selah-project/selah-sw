@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "sw",
   "chapter": 18,
-  "translation": "Naye Eliyahu akamkaribia ⟨the⟩ watu wote, akasema: Hata lini mnatafuta njia kati ya ⟨the⟩ panda mbili? Ikiwa Yahweh ndiye Elohim, mfuate Yeye; na ikiwa ni Habaaali, mfuate yeye. Na watu hawakumjibu ⟨hata⟩ neno.",
+  "translation": "Naye Eliyahu akakaribia watu wote, akasema: Muda gani mnayetembea kihindi kati ya matawi mawili? Kama Yahweh ndiye Elohim, mfuate yeye; na kama ni HaBaal, mfuate yeye. Nayo watu hawakumjibu ⟨את⟩ neno.",
   "tokens": [
     {
       "surface": "ויגש",
-      "gloss": "akamkaribia"
+      "gloss": "akakaribia"
     },
     {
       "surface": "אליהו",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "עד",
-      "gloss": "hata"
+      "gloss": "Muda"
     },
     {
       "surface": "מתי",
-      "gloss": "lini"
+      "gloss": "gani"
     },
     {
       "surface": "אתם",
-      "gloss": "ninyi"
+      "gloss": "mn"
     },
     {
       "surface": "פסחים",
-      "gloss": "mnatafuta njia"
+      "gloss": "kutembea kihindi"
     },
     {
       "surface": "על",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "שתי",
-      "gloss": "mbili"
+      "gloss": "mawili"
     },
     {
       "surface": "הסעפים",
-      "gloss": "panda"
+      "gloss": "matawi"
     },
     {
       "surface": "אם",
-      "gloss": "ikiwa"
+      "gloss": "Kama"
     },
     {
       "surface": "יהוה",
@@ -77,15 +77,15 @@
     },
     {
       "surface": "אחריו",
-      "gloss": "nyuma yake"
+      "gloss": "yeye"
     },
     {
       "surface": "ואם",
-      "gloss": "na ikiwa"
+      "gloss": "na kama"
     },
     {
       "surface": "הבעל",
-      "gloss": "Habaaali"
+      "gloss": "HaBaal"
     },
     {
       "surface": "לכו",
@@ -93,15 +93,15 @@
     },
     {
       "surface": "אחריו",
-      "gloss": "nyuma yake"
+      "gloss": "yeye"
     },
     {
       "surface": "ולא",
-      "gloss": "na hawakuwa"
+      "gloss": "wala si"
     },
     {
       "surface": "ענו",
-      "gloss": "wakijibu"
+      "gloss": "walimjibu"
     },
     {
       "surface": "העם",
@@ -117,6 +117,6 @@
       "gloss": "neno"
     }
   ],
-  "timestamp": "2026-08-10T11:44:03.645022021Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:05:23.129409211Z",
+  "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "sw",
   "chapter": 6,
-  "translation": "Nami nitaleta ninyi ⟨⟨ ndani ya⟩⟩ nchi ambayo niliyanyosha ⟨את⟩ mkono wangu kuita Avraham, Yitschak, na Ya'akov, nami nitawapa ⟨את⟩ ninyi kuwa urithi wenu; mimi ni Yahweh.",
+  "translation": "Nami nitawaingiza ⟨את⟩ ninyi katika ⟨⟨⟩⟩nchi ile ambayo niliinua ⟨את⟩ mkono wangu ili niipe ⟨את⟩ iwe ⟨⟨⟩⟩kwa Avraham, kwa Yitschak na kwa Yaakov, nami nitawapa ⟨את⟩ iwe ninyi urithi; mimi ni Yahweh.",
   "tokens": [
     {
       "surface": "והבאתי",
-      "gloss": "Nami nitaleta"
+      "gloss": "Nami nitawaingiza"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "ninyi"
     },
     {
       "surface": "אל",
-      "gloss": "ndani ya"
+      "gloss": "katika"
     },
     {
       "surface": "הארץ",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "נשאתי",
-      "gloss": "niliyanyosha"
+      "gloss": "niliinua"
     },
     {
       "surface": "את",
@@ -43,24 +43,24 @@
     },
     {
       "surface": "לתת",
-      "gloss": "kuita"
+      "gloss": "ili niipe"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨אתה⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩",
+      "marks": "iwe (kwa Avraham)"
     },
     {
       "surface": "לאברהם",
-      "gloss": "Avraham"
+      "gloss": "kwa Avraham"
     },
     {
       "surface": "ליצחק",
-      "gloss": "Yitschak"
+      "gloss": "kwa Yitschak"
     },
     {
       "surface": "וליעקב",
-      "gloss": "na Ya'akov"
+      "gloss": "na kwa Yaakov"
     },
     {
       "surface": "ונתתי",
@@ -68,16 +68,16 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨אתה⟩",
-      "marks": "ninyi"
+      "gloss": "⟨את⟩",
+      "marks": "iwe (ninyi)"
     },
     {
       "surface": "לכם",
-      "gloss": "kuwa"
+      "gloss": "ninyi"
     },
     {
       "surface": "מורשה",
-      "gloss": "urithi wenu"
+      "gloss": "urithi"
     },
     {
       "surface": "אני",
@@ -88,6 +88,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T10:18:25.816248554Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T17:58:36.561948836Z",
+  "model": "glm-5.3"
 }

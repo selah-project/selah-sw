@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 62,
-  "translation": "Hakika yeye tu ⟨⟨ndiye⟩⟩ mwamba wangu na wokovu wangu; ngao yangu ya juu, sitatetereka.",
+  "translation": "Yeye tu ndiye mwamba wangu na wokovu wangu; ngao yangu ⟨ni yeye⟩; sitasonga.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "hakika"
+      "gloss": "tu"
     },
     {
       "surface": "הוא",
-      "gloss": "yeye tu"
+      "gloss": "yeye"
     },
     {
       "surface": "צורי",
@@ -25,17 +25,17 @@
     },
     {
       "surface": "משגבי",
-      "gloss": "ngao yangu ya juu"
+      "gloss": "ngao yangu"
     },
     {
       "surface": "לא",
-      "gloss": "si-"
+      "gloss": "si"
     },
     {
       "surface": "אמוט",
-      "gloss": "tatetereka"
+      "gloss": "tasonga"
     }
   ],
-  "timestamp": "2026-08-10T13:05:13.474887185Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:48.760528686Z",
+  "model": "glm-5.3"
 }

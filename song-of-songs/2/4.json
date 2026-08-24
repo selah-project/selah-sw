@@ -5,15 +5,15 @@
   "book": "song-of-songs",
   "lang": "sw",
   "chapter": 2,
-  "translation": "⟨Amenileta⟩ ⟨⟨⟩ kwenye⟩ nyumba ya mvinyo, na bendera yake juu yangu ⟨ilikuwa⟩ upendo.",
+  "translation": "Aliniingiza ⟨kwenye⟩ nyumba ya mvinyo, na bendera yake juu yangu ⟨ilikuwa⟩ upendo",
   "tokens": [
     {
       "surface": "הביאני",
-      "gloss": "Amenileta"
+      "gloss": "Aliniingiza"
     },
     {
       "surface": "אל",
-      "gloss": "⟨kwenye⟩"
+      "gloss": "kwenye"
     },
     {
       "surface": "בית",
@@ -36,6 +36,6 @@
       "gloss": "upendo"
     }
   ],
-  "timestamp": "2026-08-10T13:41:55.056287520Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:12:24.837354120Z",
+  "model": "glm-5.3"
 }

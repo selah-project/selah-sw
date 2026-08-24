@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "sw",
   "chapter": 35,
-  "translation": "Na Yakovu akaita jina la mahali ambapo Elohim alikuwa ameongea ⟨אתו⟩ naye: Beth-El.",
+  "translation": "Ndiipo Yaakov aliapo ⟨את⟩ jina la mahali hapo ambapo Elohim alizungumza ⟨את⟩ ⟨אתו⟩ naye huko: Bethel.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "Na akaita"
+      "gloss": "aliita"
     },
     {
       "surface": "יעקב",
-      "gloss": "Yakovu"
+      "gloss": "Yaakov"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "la mahali"
+      "gloss": "la mahali hapo"
     },
     {
       "surface": "אשר",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "ameongea"
+      "gloss": "alizungumza"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ naye"
+      "gloss": "⟨את⟩ ⟨אתו⟩ naye"
     },
     {
       "surface": "שם",
@@ -50,13 +50,13 @@
     },
     {
       "surface": "בית",
-      "gloss": "Beth-"
+      "gloss": "Bethel (sehemu ya kwanza ya jina)"
     },
     {
       "surface": "אל",
-      "gloss": "El"
+      "gloss": "Bethel (sehemu ya pili ya jina)"
     }
   ],
-  "timestamp": "2026-08-10T10:12:08.956238951Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.298326711Z",
+  "model": "glm-5.3"
 }

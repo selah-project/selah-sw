@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 8,
-  "translation": "Na Aharon atatikisa ⟨את⟩ Walawi kama tiko mbele ya Yahweh, kutoka ⟨kwa⟩ wana wa Yisrael; na watakuwa kwa kufanya ⟨את⟩ kazi ya Yahweh.",
+  "translation": "Na Aharon atatikisa ⟨את⟩ Walawi tikiso mbele za Yahweh, kutoka ⟨את⟩ wana wa Yisraeli, nao watakuwa ⟨ni⟩ wa kufanya ⟨את⟩ huduma ya Yahweh.",
   "tokens": [
     {
       "surface": "והניף",
-      "gloss": "na atatikisa"
+      "gloss": "atatikisa"
     },
     {
       "surface": "אהרן",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "תנופה",
-      "gloss": "kama tiko"
+      "gloss": "tikiso"
     },
     {
       "surface": "לפני",
-      "gloss": "mbele ya"
+      "gloss": "mbele za"
     },
     {
       "surface": "יהוה",
@@ -38,39 +38,38 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨מאת⟩",
-      "marks": "wana wa Yisrael"
+      "gloss": "kutoka ⟨את⟩"
     },
     {
       "surface": "בני",
-      "gloss": "wana"
+      "gloss": "wana wa"
     },
     {
       "surface": "ישראל",
-      "gloss": "wa Yisrael"
+      "gloss": "Yisraeli"
     },
     {
       "surface": "והיו",
-      "gloss": "na watakuwa"
+      "gloss": "watakuwa"
     },
     {
       "surface": "לעבד",
-      "gloss": "kwa kufanya"
+      "gloss": "wa kufanya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kazi"
+      "marks": "huduma"
     },
     {
       "surface": "עבדת",
-      "gloss": "kazi"
+      "gloss": "huduma"
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahweh"
+      "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-10T15:55:20.580571413Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:36.491263762Z",
+  "model": "glm-5.3"
 }

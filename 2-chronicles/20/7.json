@@ -5,74 +5,74 @@
   "book": "2-chronicles",
   "lang": "sw",
   "chapter": 20,
-  "translation": "Je si wewe Elohim wetu? ⟨×⟩uliwafukuza waishi ⟨⟨את⟩⟩ nchi hii mbele ya watu wako Yisraeli, na kawaipa kwa mzao wa Avraham mpendwa wako, milele?",
+  "translation": "Je, si wewe Elohim wetu, uliyewafukuza waashi ⟨wa⟩ nchi hii mbele ya watu wako Yisraeli, na ukaiwapa kwa mzao wa Avraham, mpendwa wako, milele?",
   "tokens": [
     {
-      "surface": "הֲלֹ֣א",
-      "gloss": "Je si"
+      "surface": "הלא",
+      "gloss": "Je, si"
     },
     {
-      "surface": "אַתָּ֣ה",
+      "surface": "אתה",
       "gloss": "wewe"
     },
     {
-      "surface": "אֱלֹהֵ֗ינוּ",
+      "surface": "אלהינו",
       "gloss": "Elohim wetu"
     },
     {
-      "surface": "הוֹרַ֨שְׁתָּ֙",
-      "gloss": "uliwafukuza"
+      "surface": "הורשת",
+      "gloss": "uliyewafukuza"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "waishi"
+      "marks": "waashi"
     },
     {
-      "surface": "יֹשְׁבֵי֙",
-      "gloss": "waishi"
+      "surface": "ישבי",
+      "gloss": "waashi"
     },
     {
-      "surface": "הָאָ֣רֶץ",
+      "surface": "הארץ",
       "gloss": "nchi"
     },
     {
-      "surface": "הַזֹּ֔את",
+      "surface": "הזאת",
       "gloss": "hii"
     },
     {
-      "surface": "מִלִּפְנֵ֖י",
+      "surface": "מלפני",
       "gloss": "mbele ya"
     },
     {
-      "surface": "עַמְּךָ֣",
+      "surface": "עמך",
       "gloss": "watu wako"
     },
     {
-      "surface": "יִשְׂרָאֵ֑ל",
+      "surface": "ישראל",
       "gloss": "Yisraeli"
     },
     {
-      "surface": "וַֽתִּתְּנָ֗הּ",
-      "gloss": "na kawaipa"
+      "surface": "ותתנה",
+      "gloss": "na ukaiwapa"
     },
     {
-      "surface": "לְזֶ֛רַע",
+      "surface": "לזרע",
       "gloss": "kwa mzao"
     },
     {
-      "surface": "אַבְרָהָ֥ם",
-      "gloss": "wa Avraham"
+      "surface": "אברהם",
+      "gloss": "Avraham"
     },
     {
-      "surface": "אֹֽהַבְךָ֖",
+      "surface": "אהבך",
       "gloss": "mpendwa wako"
     },
     {
-      "surface": "לְעוֹלָֽם",
+      "surface": "לעולם",
       "gloss": "milele"
     }
   ],
-  "timestamp": "2026-08-10T16:29:27.378282713Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:13:22.404278124Z",
+  "model": "glm-5.3"
 }

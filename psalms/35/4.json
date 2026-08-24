@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "sw",
   "chapter": 35,
-  "translation": "Wastahepe na waone aibu, wanaotafuta ⟨את⟩ nafsi yangu; warudi nyuma na waone machungu, wafikiriao ⟨⟨juu ya⟩⟩ ubaya wangu.",
+  "translation": "Wahisi na watuhumiwe wanaotafuta nafsi yangu; warudi nyuma na waone aibu wapangao mabaya kwangu.",
   "tokens": [
     {
       "surface": "יבשו",
-      "gloss": "Wastahepe"
+      "gloss": "wahisi"
     },
     {
       "surface": "ויכלמו",
-      "gloss": "na waone aibu"
+      "gloss": "na watuhumiwe"
     },
     {
       "surface": "מבקשי",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "ויחפרו",
-      "gloss": "na waone machungu"
+      "gloss": "na waone aibu"
     },
     {
       "surface": "חשבי",
-      "gloss": "wafikiriao"
+      "gloss": "wapangao"
     },
     {
       "surface": "רעתי",
-      "gloss": "ubaya wangu"
+      "gloss": "mabaya kwangu"
     }
   ],
-  "timestamp": "2026-08-10T12:59:51.895281614Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:11:57.466665059Z",
+  "model": "glm-5.3"
 }

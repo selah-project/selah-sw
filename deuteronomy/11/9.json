@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "sw",
   "chapter": 11,
-  "translation": "ili mpaka muongeze siku juu ya ⟨the⟩ nchi ambayo Yahweh aliapa kwa baba zenu kuiwapo wao na kwa mzao wao, nchi inayotiririka maziwa na asali.",
+  "translation": "na ili mupate kuongeza siku juu ya ⟨the⟩ ardhi ambayo Yahweh aliapa kwa baba zenu kuwapa wao na kizazi chao — nchi inayomvirika maziwa na asali.",
   "tokens": [
     {
       "surface": "ולמען",
-      "gloss": "ili"
+      "gloss": "na ili"
     },
     {
       "surface": "תאריכו",
-      "gloss": "muongeze"
+      "gloss": "mupate kuongeza (siku)"
     },
     {
       "surface": "ימים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "nchi"
+      "gloss": "ardhi"
     },
     {
       "surface": "אשר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "לתת",
-      "gloss": "kuiwapo"
+      "gloss": "kuwapa"
     },
     {
       "surface": "להם",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ולזרעם",
-      "gloss": "na kwa mzao wao"
+      "gloss": "na kizazi chao"
     },
     {
       "surface": "ארץ",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "זבת",
-      "gloss": "inayotiririka"
+      "gloss": "inayomvirika"
     },
     {
       "surface": "חלב",
@@ -72,6 +72,6 @@
       "gloss": "na asali"
     }
   ],
-  "timestamp": "2026-08-10T10:56:31.855957438Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:01:35.575850178Z",
+  "model": "glm-5.3"
 }

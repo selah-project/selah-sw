@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sw",
   "chapter": 20,
-  "translation": "Na kama watu wa nchi wataficha jicho la macho yao ⟨kutoka⟩ ⟨kwa⟩ mtu yule, anampapa mkono wake Molek, ili wasimfishwe ⟨אתו⟩ —",
+  "translation": "Na kama watu wa nchi wanaficha ⟨את⟩ macho yao kutoka mtu huyo, wakati anatoa muzao wake kwa Moloch, ili kuto mwu ⟨את⟩ ⟨אתו⟩ yeye —",
   "tokens": [
     {
       "surface": "ואם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יעלימו",
-      "gloss": "wataficha"
+      "gloss": "wanaficha"
     },
     {
       "surface": "עם",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "⟨kutoka⟩"
+      "gloss": "kutoka"
     },
     {
       "surface": "האיש",
@@ -46,34 +46,34 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "yule"
+      "gloss": "huyo"
     },
     {
       "surface": "בתתו",
-      "gloss": "anampapa"
+      "gloss": "wakati anatoa"
     },
     {
       "surface": "מזרעו",
-      "gloss": "mkono wake"
+      "gloss": "muzao wake"
     },
     {
       "surface": "למלך",
-      "gloss": "Molek"
+      "gloss": "kwa Moloch"
     },
     {
       "surface": "לבלתי",
-      "gloss": "ili wasi"
+      "gloss": "ili kuto"
     },
     {
       "surface": "המית",
-      "gloss": "mfishwe"
+      "gloss": "mwu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "yeye"
     }
   ],
-  "timestamp": "2026-08-10T10:37:12.963259913Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:06:27.360516665Z",
+  "model": "glm-5.3"
 }

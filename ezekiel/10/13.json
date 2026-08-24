@@ -5,29 +5,29 @@
   "book": "ezekiel",
   "lang": "sw",
   "chapter": 10,
-  "translation": "Kwa \u0000ofanim\u0000 — kwao \u0000alisikika﻿ mwito\u0000: \u0000»Galgal«, \u0000masikioni\u0000 \u0000pangu\u0000.",
+  "translation": "Kuhusu magurudumu — kwa hayo yalikuwa ⟨yanaitwa⟩ «gurudumu linalozunguka» masikioni mwangu.",
   "tokens": [
     {
-      "surface": "לָאֹפַנִּים",
-      "gloss": "kwa ofanim"
+      "surface": "לאופנים",
+      "gloss": "kuhusu magurudumu"
     },
     {
-      "surface": "לָהֶם",
-      "gloss": "kwao"
+      "surface": "להם",
+      "gloss": "kwa hayo"
     },
     {
-      "surface": "קוֹרָא",
-      "gloss": "alisikika mwito"
+      "surface": "קורא",
+      "gloss": "yanaitwa"
     },
     {
-      "surface": "הַגַּלְגַּל",
-      "gloss": "Galgal"
+      "surface": "הגלגל",
+      "gloss": "gurudumu linalozunguka"
     },
     {
-      "surface": "בְּאָזְנָי",
-      "gloss": "masikioni pangu"
+      "surface": "באזני",
+      "gloss": "masikioni mwangu"
     }
   ],
-  "timestamp": "2026-08-10T16:12:32.382094548Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:08:53.034817786Z",
+  "model": "glm-5.3"
 }

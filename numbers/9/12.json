@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "sw",
   "chapter": 9,
-  "translation": "Hawataacha kitu chochote mswaki hadi asubuhi, wala hawatavunja mfupa ndani ⟨wake⟩; kwa mujibu wa sheria yote ya Pasaka watamfanya ⟨אתו⟩.",
+  "translation": "Hawataacha kitu nacho hadi asubuhi, wala mfupa hawatauvunja ndani yake; kwa mujibu wa amri yote ya Pesa wataifanya ⟨את⟩.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "Hawata"
+      "gloss": "Hawa"
     },
     {
       "surface": "ישאירו",
-      "gloss": "acha"
+      "gloss": "wataacha"
     },
     {
       "surface": "ממנו",
-      "gloss": "kitu chochote kutoka"
+      "gloss": "kitu nacho"
     },
     {
       "surface": "עד",
@@ -29,42 +29,42 @@
     },
     {
       "surface": "ועצם",
-      "gloss": "na mfupa"
+      "gloss": "wala mfupa"
     },
     {
       "surface": "לא",
-      "gloss": "Hawata"
+      "gloss": "hawa"
     },
     {
       "surface": "ישברו",
-      "gloss": "vunja"
+      "gloss": "watauvunja"
     },
     {
       "surface": "בו",
-      "gloss": "ndani"
+      "gloss": "ndani yake"
     },
     {
       "surface": "ככל",
-      "gloss": "kwa mujibu wa yote"
+      "gloss": "kwa mujibu wa amri yote ya"
     },
     {
       "surface": "חקת",
-      "gloss": "sheria"
+      "gloss": "amri"
     },
     {
       "surface": "הפסח",
-      "gloss": "ya Pasaka"
+      "gloss": "Pesa"
     },
     {
       "surface": "יעשו",
-      "gloss": "watamfanya"
+      "gloss": "wataifanya"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "Pasaka"
+      "marks": "Pesa (hiyo)"
     }
   ],
-  "timestamp": "2026-08-10T10:43:17.973116111Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:00:54.353502220Z",
+  "model": "glm-5.3"
 }
