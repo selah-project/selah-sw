@@ -58,3 +58,8 @@ wazi na utambuzi. Timu inayotunza hulinganisha pendekezo na
 Kiebrania, kanuni, vyanzo na upangaji — inaweza kukubali, kusuluhisha
 pamoja nawe, kusubiri msingi zaidi, au kukataa ikitoa sababu. Kosoa
 maandishi, si mtu.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
